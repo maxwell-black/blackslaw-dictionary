@@ -3,51 +3,69 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Black's Law Dictionary (1910) - Free Legal Dictionary</title>
-    <meta name="description" content="Free searchable Black's Law Dictionary 2nd Edition (1910). 12,000+ legal definitions.">
+    <title>Black's Law Dictionary (1910)</title>
+    <meta name="description" content="Free searchable Black's Law Dictionary 2nd Edition (1910). 17,000+ legal definitions.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;600;700&family=EB+Garamond:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="assets/style.css">
 </head>
 <body>
-    <header>
-        <div class="container">
-            <h1>⚖️ Black's Law Dictionary</h1>
-            <p class="subtitle">Second Edition (1910) • Henry Campbell Black, M.A.</p>
-            <p class="description">A free, searchable legal dictionary with 12,000+ definitions</p>
+    <!-- Mobile Sidebar -->
+    <div class="overlay" id="overlay"></div>
+    <aside class="sidebar" id="sidebar">
+        <div class="sidebar-header">
+            <span class="sidebar-title">Browse A–Z</span>
         </div>
-    </header>
+        <div class="sidebar-letters" id="sidebar-letters"></div>
+    </aside>
 
-    <main class="container">
-        <div class="search-section">
-            <input type="text" 
-                   id="search-box" 
-                   placeholder="Search for a legal term..." 
-                   autocomplete="off"
-                   autofocus>
-            <div class="search-options">
-                <label>
-                    <input type="checkbox" id="exact-match"> Exact match
-                </label>
-                <label>
-                    <input type="checkbox" id="search-definitions" checked> Search definitions
-                </label>
+    <div class="content-wrapper">
+        <!-- Letter Rail -->
+        <nav class="letter-rail" id="letter-rail"></nav>
+
+        <!-- Main Content -->
+        <main id="main">
+            <div class="reading-col">
+                <!-- Header -->
+                <header class="site-header">
+                    <div class="header-top">
+                        <button class="menu-btn" id="menuBtn" aria-label="Open menu">
+                            <svg width="20" height="14" viewBox="0 0 20 14" fill="none" stroke="currentColor" stroke-width="1.5">
+                                <line x1="0" y1="1" x2="20" y2="1"/>
+                                <line x1="0" y1="7" x2="20" y2="7"/>
+                                <line x1="0" y1="13" x2="20" y2="13"/>
+                            </svg>
+                        </button>
+                        <h1 class="book-title">Black's Law Dictionary</h1>
+                        <div class="header-controls">
+                            <button class="font-btn" id="fontDec" aria-label="Decrease font size">A−</button>
+                            <button class="font-btn" id="fontInc" aria-label="Increase font size">A+</button>
+                            <button class="theme-btn" id="themeBtn" aria-label="Toggle dark mode">
+                                <span class="moon">☾</span>
+                                <span class="sun">☼</span>
+                            </button>
+                        </div>
+                    </div>
+                    <div class="search-wrap">
+                        <input type="text" id="search-box" placeholder="Search 17,446 entries…" autocomplete="off">
+                        <span id="resultCount"></span>
+                    </div>
+                </header>
+
+                <!-- Entries Container -->
+                <div id="entries-container">
+                    <div id="entries"></div>
+                    <div class="sentinel" id="sentinel"></div>
+                </div>
+
+                <!-- Empty State -->
+                <div class="empty-state" id="emptyState" style="display: none;">
+                    <p>No entries found.</p>
+                </div>
             </div>
-            <div id="stats"></div>
-        </div>
-
-        <div class="browse-section">
-            <h3>Browse by Letter</h3>
-            <div class="letter-nav" id="letter-nav"></div>
-        </div>
-
-        <div id="entries"></div>
-    </main>
-
-    <footer>
-        <div class="container">
-            <p>Black's Law Dictionary 2nd Edition (1910) — Public Domain</p>
-            <p>Hosted on GitHub Pages • <a href="https://github.com/maxwelljblack/blackslaw-dictionary">View Source</a></p>
-        </div>
-    </footer>
+        </main>
+    </div>
 
     <script src="assets/app.js"></script>
 </body>
