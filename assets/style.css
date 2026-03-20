@@ -1,0 +1,216 @@
+/* Black's Law Dictionary - Styles */
+
+:root {
+    --bg-primary: #f5f5f0;
+    --bg-secondary: #ffffff;
+    --text-primary: #2c241b;
+    --text-secondary: #5c4d3d;
+    --accent: #8B4513;
+    --accent-light: #d4a574;
+    --border: #d0c8b8;
+    --shadow: rgba(0,0,0,0.1);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Georgia, 'Times New Roman', serif;
+    background: var(--bg-primary);
+    color: var(--text-primary);
+    line-height: 1.6;
+}
+
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+/* Header */
+header {
+    background: var(--bg-secondary);
+    border-bottom: 3px double var(--accent);
+    padding: 40px 0;
+    text-align: center;
+}
+
+header h1 {
+    font-size: 2.5rem;
+    color: var(--accent);
+    margin-bottom: 10px;
+    letter-spacing: 0.05em;
+}
+
+.subtitle {
+    font-style: italic;
+    color: var(--text-secondary);
+    font-size: 1.1rem;
+}
+
+.description {
+    margin-top: 15px;
+    color: var(--text-secondary);
+}
+
+/* Search Section */
+.search-section {
+    background: var(--bg-secondary);
+    padding: 30px;
+    margin: 30px 0;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px var(--shadow);
+}
+
+#search-box {
+    width: 100%;
+    padding: 15px 20px;
+    font-size: 1.2rem;
+    font-family: inherit;
+    border: 2px solid var(--accent);
+    border-radius: 6px;
+    outline: none;
+    transition: box-shadow 0.2s;
+}
+
+#search-box:focus {
+    box-shadow: 0 0 0 3px rgba(139, 69, 19, 0.2);
+}
+
+.search-options {
+    margin-top: 15px;
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.search-options label {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    cursor: pointer;
+    color: var(--text-secondary);
+}
+
+#stats {
+    margin-top: 15px;
+    color: var(--text-secondary);
+    font-size: 0.9rem;
+}
+
+/* Browse by Letter */
+.browse-section {
+    margin: 30px 0;
+    text-align: center;
+}
+
+.browse-section h3 {
+    color: var(--accent);
+    margin-bottom: 15px;
+}
+
+.letter-nav {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 8px;
+}
+
+.letter-nav button {
+    background: var(--bg-secondary);
+    border: 1px solid var(--border);
+    padding: 8px 12px;
+    font-family: inherit;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: all 0.2s;
+}
+
+.letter-nav button:hover {
+    background: var(--accent);
+    color: white;
+}
+
+/* Entries */
+#entries {
+    margin: 30px 0;
+}
+
+.entry {
+    background: var(--bg-secondary);
+    padding: 25px 30px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px var(--shadow);
+    border-left: 4px solid var(--accent-light);
+}
+
+.entry:hover {
+    border-left-color: var(--accent);
+}
+
+.term {
+    font-size: 1.4rem;
+    font-weight: bold;
+    color: var(--accent);
+    margin-bottom: 12px;
+}
+
+.body {
+    text-align: justify;
+    white-space: pre-wrap;
+    line-height: 1.7;
+    color: var(--text-primary);
+}
+
+/* Loading & Empty States */
+.loading {
+    text-align: center;
+    padding: 60px 20px;
+    font-style: italic;
+    color: var(--text-secondary);
+}
+
+.empty {
+    text-align: center;
+    padding: 40px 20px;
+    color: var(--text-secondary);
+}
+
+/* Footer */
+footer {
+    background: var(--bg-secondary);
+    border-top: 1px solid var(--border);
+    padding: 30px 0;
+    margin-top: 50px;
+    text-align: center;
+    color: var(--text-secondary);
+    font-size: 0.9rem;
+}
+
+footer a {
+    color: var(--accent);
+}
+
+/* Responsive */
+@media (max-width: 600px) {
+    header h1 {
+        font-size: 1.8rem;
+    }
+    
+    .search-section {
+        padding: 20px;
+    }
+    
+    .entry {
+        padding: 20px;
+    }
+    
+    .term {
+        font-size: 1.2rem;
+    }
+}

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Black's Law Dictionary (1910) - Free Legal Dictionary</title>
+    <meta name="description" content="Free searchable Black's Law Dictionary 2nd Edition (1910). 12,000+ legal definitions.">
+    <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>⚖️ Black's Law Dictionary</h1>
+            <p class="subtitle">Second Edition (1910) • Henry Campbell Black, M.A.</p>
+            <p class="description">A free, searchable legal dictionary with 12,000+ definitions</p>
+        </div>
+    </header>
+
+    <main class="container">
+        <div class="search-section">
+            <input type="text" 
+                   id="search-box" 
+                   placeholder="Search for a legal term..." 
+                   autocomplete="off"
+                   autofocus>
+            <div class="search-options">
+                <label>
+                    <input type="checkbox" id="exact-match"> Exact match
+                </label>
+                <label>
+                    <input type="checkbox" id="search-definitions" checked> Search definitions
+                </label>
+            </div>
+            <div id="stats"></div>
+        </div>
+
+        <div class="browse-section">
+            <h3>Browse by Letter</h3>
+            <div class="letter-nav" id="letter-nav"></div>
+        </div>
+
+        <div id="entries"></div>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>Black's Law Dictionary 2nd Edition (1910) — Public Domain</p>
+            <p>Hosted on GitHub Pages • <a href="https://github.com/maxwelljblack/blackslaw-dictionary">View Source</a></p>
+        </div>
+    </footer>
+
+    <script src="assets/app.js"></script>
+</body>
+</html>
