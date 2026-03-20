@@ -1,0 +1,106 @@
+{
+  "A": {
+    "file": "data/entries_a.json",
+    "count": 1127
+  },
+  "B": {
+    "file": "data/entries_b.json",
+    "count": 498
+  },
+  "C": {
+    "file": "data/entries_c.json",
+    "count": 1349
+  },
+  "D": {
+    "file": "data/entries_d.json",
+    "count": 782
+  },
+  "E": {
+    "file": "data/entries_e.json",
+    "count": 621
+  },
+  "F": {
+    "file": "data/entries_f.json",
+    "count": 653
+  },
+  "G": {
+    "file": "data/entries_g.json",
+    "count": 303
+  },
+  "H": {
+    "file": "data/entries_h.json",
+    "count": 458
+  },
+  "I": {
+    "file": "data/entries_i.json",
+    "count": 572
+  },
+  "J": {
+    "file": "data/entries_j.json",
+    "count": 146
+  },
+  "K": {
+    "file": "data/entries_k.json",
+    "count": 75
+  },
+  "L": {
+    "file": "data/entries_l.json",
+    "count": 486
+  },
+  "M": {
+    "file": "data/entries_m.json",
+    "count": 696
+  },
+  "N": {
+    "file": "data/entries_n.json",
+    "count": 301
+  },
+  "O": {
+    "file": "data/entries_o.json",
+    "count": 285
+  },
+  "P": {
+    "file": "data/entries_p.json",
+    "count": 1050
+  },
+  "Q": {
+    "file": "data/entries_q.json",
+    "count": 110
+  },
+  "R": {
+    "file": "data/entries_r.json",
+    "count": 602
+  },
+  "S": {
+    "file": "data/entries_s.json",
+    "count": 879
+  },
+  "T": {
+    "file": "data/entries_t.json",
+    "count": 529
+  },
+  "U": {
+    "file": "data/entries_u.json",
+    "count": 140
+  },
+  "V": {
+    "file": "data/entries_v.json",
+    "count": 242
+  },
+  "W": {
+    "file": "data/entries_w.json",
+    "count": 204
+  },
+  "X": {
+    "file": "data/entries_x.json",
+    "count": 5
+  },
+  "Y": {
+    "file": "data/entries_y.json",
+    "count": 25
+  },
+  "Z": {
+    "file": "data/entries_z.json",
+    "count": 29
+  }
+}

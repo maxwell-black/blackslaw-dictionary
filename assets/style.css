@@ -448,3 +448,40 @@ main {
         break-inside: avoid;
     }
 }
+/* Loading States */
+.loading-state {
+    text-align: center;
+    padding: 80px 20px;
+    color: var(--fg2);
+}
+
+.loading-spinner {
+    width: 40px;
+    height: 40px;
+    border: 3px solid var(--border);
+    border-top-color: var(--accent);
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+    margin: 0 auto 20px;
+}
+
+@keyframes spin {
+    to { transform: rotate(360deg); }
+}
+
+.loading-inline {
+    text-align: center;
+    padding: 40px;
+    color: var(--fg2);
+    font-style: italic;
+}
+
+.error {
+    text-align: center;
+    padding: 40px;
+    color: #c53030;
+}
+
+.dark .error {
+    color: #fc8181;
+}

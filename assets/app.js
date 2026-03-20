@@ -1,17 +1,17 @@
-// Black's Law Dictionary - Main Application
-// iA Writer/Monocle inspired design
+// Black's Law Dictionary - Chunked Loading Application
+// Loads letter-by-letter for instant first paint
 
-let allEntries = [];
-let letterIndex = {}; // { A: [0,1,2...], B: [...] }
-let visibleEntries = [];
-let currentMode = 'browse'; // 'browse' or 'search'
+let manifest = null;
+let letterCache = {}; // { A: [...entries], B: [...], ... }
 let currentLetter = 'A';
-let fontSize = 17;
+let currentMode = 'browse'; // 'browse' or 'search'
 let isDarkMode = false;
+let fontSize = 17;
+let prefetchQueue = [];
+let totalEntriesLoaded = 0;
+let totalEntries = 0;
 
 // Configuration
-const BATCH_SIZE = 100;
-const INITIAL_BATCH = 200;
 const FONT_SIZE_MIN = 14;
 const FONT_SIZE_MAX = 28;
 
@@ -19,118 +19,199 @@ const FONT_SIZE_MAX = 28;
 document.addEventListener('DOMContentLoaded', async () => {
     loadSettings();
     setupEventListeners();
-    setupLetterRail();
     setupSidebar();
     
-    // Load entries
-    await loadEntries();
+    // Load manifest then initial letter
+    await loadManifest();
+    await loadInitialLetter();
     
-    // Build letter index
-    buildLetterIndex();
-    
-    // Setup intersection observer for lazy loading
-    setupLazyLoader();
-    
-    // Setup scroll spy for letter highlighting
-    setupScrollSpy();
-    
-    // Handle deep link if present
-    handleDeepLink();
-    
-    // Initial render
-    renderBrowseMode();
+    // Start background prefetch
+    startBackgroundPrefetch();
 });
 
-async function loadEntries() {
+async function loadManifest() {
     try {
-        const response = await fetch('blacks_entries.json');
-        if (!response.ok) throw new Error('Failed to load entries');
+        const response = await fetch('data/manifest.json');
+        if (!response.ok) throw new Error('Failed to load manifest');
         
-        allEntries = await response.json();
-        console.log(`Loaded ${allEntries.length} entries`);
+        manifest = await response.json();
+        
+        // Calculate total entries
+        totalEntries = Object.values(manifest).reduce((sum, m) => sum + m.count, 0);
+        
+        // Build prefetch queue (A first, then rest alphabetically)
+        prefetchQueue = Object.keys(manifest).sort();
+        
+        console.log(`Manifest loaded: ${Object.keys(manifest).length} letters, ${totalEntries} total entries`);
     } catch (error) {
-        console.error('Error loading entries:', error);
-        document.getElementById('entries').innerHTML = `
-            <div class="empty-state" style="display: block;">
-                <p>Error loading dictionary. Please refresh the page.</p>
-                <p style="font-size: 14px; margin-top: 8px;">${error.message}</p>
-            </div>
-        `;
+        console.error('Error loading manifest:', error);
+        showError('Failed to load dictionary. Please refresh the page.');
     }
 }
 
-function buildLetterIndex() {
-    letterIndex = {};
-    const letters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
-    letters.split('').forEach(letter => {
-        letterIndex[letter] = [];
-    });
-    
-    allEntries.forEach((entry, index) => {
-        const firstLetter = entry.term.charAt(0).toUpperCase();
-        if (letterIndex[firstLetter]) {
-            letterIndex[firstLetter].push(index);
+async function loadInitialLetter() {
+    // Load letter A first (or from URL hash)
+    const hash = window.location.hash.slice(1);
+    if (hash) {
+        const firstChar = hash.charAt(0).toUpperCase();
+        if (manifest[firstChar]) {
+            currentLetter = firstChar;
         }
-    });
+    }
+    
+    await loadLetter(currentLetter);
+    
+    // Hide loading, show content
+    document.getElementById('loadingState').style.display = 'none';
+    document.getElementById('entries-container').style.display = 'block';
+    
+    // Render initial letter
+    renderLetter(currentLetter);
+    highlightCurrentLetter();
+    
+    // Handle deep link if present
+    if (hash) {
+        setTimeout(() => scrollToEntry(hash), 100);
+    }
 }
 
-function setupLetterRail() {
-    const rail = document.getElementById('letter-rail');
-    const letters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('');
+async function loadLetter(letter) {
+    if (letterCache[letter]) {
+        return letterCache[letter];
+    }
     
-    rail.innerHTML = letters.map(letter => 
-        `<button class="letter-btn" data-letter="${letter}">${letter}</button>`
-    ).join('');
+    // Show loading for this letter if not in cache
+    const entriesDiv = document.getElementById('entries');
+    entriesDiv.innerHTML = '<div class="loading-inline">Loading...</div>';
     
-    rail.addEventListener('click', (e) => {
-        if (e.target.classList.contains('letter-btn')) {
-            const letter = e.target.dataset.letter;
-            scrollToLetter(letter);
-        }
-    });
+    try {
+        const response = await fetch(manifest[letter].file);
+        if (!response.ok) throw new Error(`Failed to load ${letter}`);
+        
+        const entries = await response.json();
+        letterCache[letter] = entries;
+        totalEntriesLoaded += entries.length;
+        
+        console.log(`Loaded ${letter}: ${entries.length} entries`);
+        return entries;
+    } catch (error) {
+        console.error(`Error loading letter ${letter}:`, error);
+        entriesDiv.innerHTML = '<div class="error">Error loading entries. Please try again.</div>';
+        return [];
+    }
 }
 
-function setupSidebar() {
-    const sidebar = document.getElementById('sidebar');
-    const overlay = document.getElementById('overlay');
-    const menuBtn = document.getElementById('menuBtn');
-    const sidebarLetters = document.getElementById('sidebar-letters');
+function startBackgroundPrefetch() {
+    // Remove current letter from queue
+    prefetchQueue = prefetchQueue.filter(l => l !== currentLetter);
     
-    // Build sidebar content
-    const letters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('');
-    sidebarLetters.innerHTML = letters.map(letter => {
-        const count = letterIndex[letter] ? letterIndex[letter].length : 0;
-        return `<button class="sidebar-letter" data-letter="${letter}">
-            <span>${letter}</span>
-            <span class="count">${count.toLocaleString()}</span>
-        </button>`;
-    }).join('');
+    // Prefetch remaining letters with requestIdleCallback pacing
+    function next() {
+        if (prefetchQueue.length === 0) {
+            console.log('All letters prefetched');
+            return;
+        }
+        
+        const letter = prefetchQueue.shift();
+        
+        if (letterCache[letter]) {
+            next();
+            return;
+        }
+        
+        fetch(manifest[letter].file)
+            .then(r => r.json())
+            .then(entries => {
+                letterCache[letter] = entries;
+                totalEntriesLoaded += entries.length;
+                console.log(`Prefetched ${letter}: ${entries.length} entries`);
+                
+                // Use requestIdleCallback if available, else setTimeout
+                if (window.requestIdleCallback) {
+                    requestIdleCallback(next);
+                } else {
+                    setTimeout(next, 50);
+                }
+            })
+            .catch(() => {
+                console.warn(`Failed to prefetch ${letter}, will retry on demand`);
+                setTimeout(next, 200);
+            });
+    }
     
-    // Open sidebar
-    menuBtn.addEventListener('click', () => {
-        sidebar.classList.add('open');
-        overlay.classList.add('show');
+    // Start after a delay so initial render isn't competing
+    setTimeout(next, 1000);
+}
+
+function renderLetter(letter) {
+    const entries = letterCache[letter];
+    if (!entries) return;
+    
+    const container = document.getElementById('entries');
+    
+    let html = `<div class="letter-group" id="letter-${letter}">`;
+    html += `<h2 class="letter-heading">${letter}</h2>`;
+    
+    entries.forEach(entry => {
+        html += renderEntry(entry);
     });
     
-    // Close sidebar
-    const closeSidebar = () => {
-        sidebar.classList.remove('open');
-        overlay.classList.remove('show');
-    };
+    html += '</div>';
+    container.innerHTML = html;
+}
+
+function renderEntry(entry) {
+    // Process body: collapse multiple newlines, single newlines to spaces
+    let body = entry.body
+        .replace(/\n\n\n+/g, '</p><p>')
+        .replace(/\n/g, ' ');
     
-    overlay.addEventListener('click', closeSidebar);
+    return `
+        <div class="entry" id="entry-${entry.term.replace(/\s+/g, '-')}">
+            <span class="term" onclick="updateHash('${entry.term}')">${escapeHtml(entry.term)}.</span>
+            ${body}
+        </div>
+    `;
+}
+
+async function switchLetter(letter) {
+    if (letter === currentLetter) return;
     
-    sidebarLetters.addEventListener('click', (e) => {
-        const btn = e.target.closest('.sidebar-letter');
-        if (btn) {
-            const letter = btn.dataset.letter;
-            closeSidebar();
-            scrollToLetter(letter);
-        }
+    currentLetter = letter;
+    currentMode = 'browse';
+    
+    // Clear search
+    document.getElementById('search-box').value = '';
+    document.getElementById('resultCount').textContent = '';
+    
+    // Load letter if not cached
+    if (!letterCache[letter]) {
+        await loadLetter(letter);
+    }
+    
+    // Render
+    renderLetter(letter);
+    highlightCurrentLetter();
+    
+    // Scroll to top
+    document.getElementById('main').scrollTop = 0;
+}
+
+function highlightCurrentLetter() {
+    document.querySelectorAll('.letter-btn').forEach(btn => {
+        btn.classList.toggle('active', btn.dataset.letter === currentLetter);
     });
 }
 
 function setupEventListeners() {
+    // Letter rail clicks
+    document.getElementById('letter-rail').addEventListener('click', (e) => {
+        if (e.target.classList.contains('letter-btn')) {
+            const letter = e.target.dataset.letter;
+            switchLetter(letter);
+        }
+    });
+    
     // Search
     const searchBox = document.getElementById('search-box');
     searchBox.addEventListener('input', debounce(() => {
@@ -146,13 +227,11 @@ function setupEventListeners() {
     
     // Keyboard shortcuts
     document.addEventListener('keydown', (e) => {
-        // / to focus search
         if (e.key === '/' && document.activeElement.id !== 'search-box') {
             e.preventDefault();
             searchBox.focus();
         }
         
-        // Escape to clear search or close sidebar
         if (e.key === 'Escape') {
             const sidebar = document.getElementById('sidebar');
             if (sidebar.classList.contains('open')) {
@@ -166,73 +245,89 @@ function setupEventListeners() {
     });
 }
 
+function setupSidebar() {
+    const sidebar = document.getElementById('sidebar');
+    const overlay = document.getElementById('overlay');
+    const menuBtn = document.getElementById('menuBtn');
+    const sidebarLetters = document.getElementById('sidebar-letters');
+    
+    // Build sidebar content
+    sidebarLetters.innerHTML = Object.keys(manifest).map(letter => {
+        const count = manifest[letter].count;
+        return `<button class="sidebar-letter" data-letter="${letter}">
+            <span>${letter}</span>
+            <span class="count">${count.toLocaleString()}</span>
+        </button>`;
+    }).join('');
+    
+    menuBtn.addEventListener('click', () => {
+        sidebar.classList.add('open');
+        overlay.classList.add('show');
+    });
+    
+    const closeSidebar = () => {
+        sidebar.classList.remove('open');
+        overlay.classList.remove('show');
+    };
+    
+    overlay.addEventListener('click', closeSidebar);
+    
+    sidebarLetters.addEventListener('click', (e) => {
+        const btn = e.target.closest('.sidebar-letter');
+        if (btn) {
+            const letter = btn.dataset.letter;
+            closeSidebar();
+            switchLetter(letter);
+        }
+    });
+}
+
 function handleSearch() {
     const query = document.getElementById('search-box').value.trim().toLowerCase();
     
     if (!query) {
         currentMode = 'browse';
-        renderBrowseMode();
+        renderLetter(currentLetter);
         document.getElementById('resultCount').textContent = '';
+        highlightCurrentLetter();
         return;
     }
     
     currentMode = 'search';
     
-    // Filter entries
-    const results = allEntries.filter(entry => {
-        const termMatch = entry.term.toLowerCase().includes(query);
-        const bodyMatch = entry.body.toLowerCase().includes(query);
-        return termMatch || bodyMatch;
-    });
+    // Search across cached letters
+    const allEntries = [];
+    for (const letter of Object.keys(letterCache).sort()) {
+        allEntries.push(...letterCache[letter]);
+    }
     
-    // Update result count
-    document.getElementById('resultCount').textContent = `${results.length.toLocaleString()} result${results.length !== 1 ? 's' : ''}`;
+    const matches = allEntries.filter(e =>
+        e.term.toLowerCase().includes(query) ||
+        e.body.toLowerCase().includes(query)
+    );
     
-    // Deactivate all letter buttons
-    document.querySelectorAll('.letter-btn, .sidebar-letter').forEach(btn => {
+    // Update result count with loading status
+    const resultCountEl = document.getElementById('resultCount');
+    if (totalEntriesLoaded < totalEntries) {
+        resultCountEl.textContent = `${matches.length} results (searching ${totalEntriesLoaded.toLocaleString()} of ${totalEntries.toLocaleString()} entries...)`;
+    } else {
+        resultCountEl.textContent = `${matches.length} results`;
+    }
+    
+    // Deactivate letter buttons
+    document.querySelectorAll('.letter-btn').forEach(btn => {
         btn.classList.remove('active');
     });
     
     // Render results
-    renderSearchResults(results);
+    renderSearchResults(matches);
 }
 
-function renderBrowseMode() {
+function renderSearchResults(matches) {
     const container = document.getElementById('entries');
     const emptyState = document.getElementById('emptyState');
     
-    emptyState.style.display = 'none';
-    
-    // Group entries by letter
-    let html = '';
-    const letters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('');
-    
-    letters.forEach(letter => {
-        const indices = letterIndex[letter];
-        if (!indices || indices.length === 0) return;
-        
-        html += `<div class="letter-group" id="letter-${letter}">`;
-        html += `<h2 class="letter-heading">${letter}</h2>`;
-        
-        indices.forEach(index => {
-            const entry = allEntries[index];
-            html += renderEntry(entry, index);
-        });
-        
-        html += '</div>';
-    });
-    
-    container.innerHTML = html;
-    
-    // Highlight current letter
-    highlightCurrentLetter();
-}
-
-function renderSearchResults(results) {
-    const container = document.getElementById('entries');
-    const emptyState = document.getElementById('emptyState');
-    
-    if (results.length === 0) {
+    if (matches.length === 0) {
         container.innerHTML = '';
         emptyState.style.display = 'block';
         return;
@@ -240,91 +335,19 @@ function renderSearchResults(results) {
     
     emptyState.style.display = 'none';
     
-    // Render first batch
-    const toRender = results.slice(0, INITIAL_BATCH);
-    container.innerHTML = toRender.map((entry, i) => renderEntry(entry, allEntries.indexOf(entry))).join('');
-    
-    // Store remaining for lazy loading
-    visibleEntries = results.slice(INITIAL_BATCH);
+    // Render all matches (search results are typically smaller)
+    container.innerHTML = matches.map(entry => renderEntry(entry)).join('');
 }
 
-function renderEntry(entry, index) {
-    // Process body: collapse multiple newlines, single newlines to spaces
-    let body = entry.body
-        .replace(/\n\n\n+/g, '<br><br>')
-        .replace(/\n/g, ' ')
-        .replace(/<br><br>/g, '</p><p>');
-    
-    return `
-        <div class="entry" id="entry-${entry.term.replace(/\s+/g, '-')}">
-            <span class="term" onclick="updateHash('${entry.term}')">${escapeHtml(entry.term)}.</span>
-            ${body}
-        </div>
-    `;
-}
-
-function scrollToLetter(letter) {
-    currentLetter = letter;
-    const element = document.getElementById(`letter-${letter}`);
+function scrollToEntry(termHash) {
+    const element = document.getElementById(`entry-${termHash}`);
     if (element) {
-        element.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        element.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        element.style.background = 'var(--hover)';
+        setTimeout(() => {
+            element.style.background = '';
+        }, 2000);
     }
-    highlightCurrentLetter();
-}
-
-function highlightCurrentLetter() {
-    document.querySelectorAll('.letter-btn').forEach(btn => {
-        btn.classList.toggle('active', btn.dataset.letter === currentLetter);
-    });
-}
-
-function setupScrollSpy() {
-    const observer = new IntersectionObserver((entries) => {
-        if (currentMode !== 'browse') return;
-        
-        entries.forEach(entry => {
-            if (entry.isIntersecting) {
-                const letter = entry.target.id.replace('letter-', '');
-                currentLetter = letter;
-                highlightCurrentLetter();
-            }
-        });
-    }, {
-        root: document.getElementById('main'),
-        rootMargin: '-20% 0px -60% 0px'
-    });
-    
-    // Observe all letter headings
-    document.querySelectorAll('.letter-heading').forEach(heading => {
-        observer.observe(heading);
-    });
-}
-
-function setupLazyLoader() {
-    const sentinel = document.getElementById('sentinel');
-    const main = document.getElementById('main');
-    
-    const observer = new IntersectionObserver((entries) => {
-        if (entries[0].isIntersecting && currentMode === 'search' && visibleEntries.length > 0) {
-            loadMoreEntries();
-        }
-    }, {
-        root: main,
-        rootMargin: '100px'
-    });
-    
-    observer.observe(sentinel);
-}
-
-function loadMoreEntries() {
-    if (visibleEntries.length === 0) return;
-    
-    const batch = visibleEntries.slice(0, BATCH_SIZE);
-    visibleEntries = visibleEntries.slice(BATCH_SIZE);
-    
-    const container = document.getElementById('entries');
-    const html = batch.map(entry => renderEntry(entry, allEntries.indexOf(entry))).join('');
-    container.insertAdjacentHTML('beforeend', html);
 }
 
 function updateHash(term) {
@@ -336,24 +359,7 @@ function handleDeepLink() {
     const hash = window.location.hash.slice(1);
     if (!hash) return;
     
-    // Try to find entry by term
-    const entry = allEntries.find(e => e.term.replace(/\s+/g, '-') === hash);
-    if (entry) {
-        const firstLetter = entry.term.charAt(0).toUpperCase();
-        currentLetter = firstLetter;
-        
-        // Wait for render then scroll
-        setTimeout(() => {
-            const element = document.getElementById(`entry-${hash}`);
-            if (element) {
-                element.scrollIntoView({ behavior: 'smooth', block: 'center' });
-                element.style.background = 'var(--hover)';
-                setTimeout(() => {
-                    element.style.background = '';
-                }, 2000);
-            }
-        }, 100);
-    }
+    scrollToEntry(hash);
 }
 
 function changeFontSize(delta) {
@@ -369,19 +375,23 @@ function toggleTheme() {
 }
 
 function loadSettings() {
-    // Font size
     const savedSize = localStorage.getItem('blacks-font-size');
     if (savedSize) {
         fontSize = parseInt(savedSize, 10);
         document.documentElement.style.setProperty('--font-size', `${fontSize}px`);
     }
     
-    // Dark mode
     const savedDark = localStorage.getItem('blacks-dark-mode');
     if (savedDark === 'true') {
         isDarkMode = true;
         document.body.classList.add('dark');
     }
+}
+
+function showError(message) {
+    document.getElementById('loadingState').innerHTML = `
+        <div class="error">${message}</div>
+    `;
 }
 
 function escapeHtml(text) {

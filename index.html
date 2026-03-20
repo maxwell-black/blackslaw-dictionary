@@ -21,8 +21,35 @@
     </aside>
 
     <div class="content-wrapper">
-        <!-- Letter Rail -->
-        <nav class="letter-rail" id="letter-rail"></nav>
+        <!-- Letter Rail (Hardcoded for instant render) -->
+        <nav class="letter-rail" id="letter-rail">
+            <button class="letter-btn active" data-letter="A">A</button>
+            <button class="letter-btn" data-letter="B">B</button>
+            <button class="letter-btn" data-letter="C">C</button>
+            <button class="letter-btn" data-letter="D">D</button>
+            <button class="letter-btn" data-letter="E">E</button>
+            <button class="letter-btn" data-letter="F">F</button>
+            <button class="letter-btn" data-letter="G">G</button>
+            <button class="letter-btn" data-letter="H">H</button>
+            <button class="letter-btn" data-letter="I">I</button>
+            <button class="letter-btn" data-letter="J">J</button>
+            <button class="letter-btn" data-letter="K">K</button>
+            <button class="letter-btn" data-letter="L">L</button>
+            <button class="letter-btn" data-letter="M">M</button>
+            <button class="letter-btn" data-letter="N">N</button>
+            <button class="letter-btn" data-letter="O">O</button>
+            <button class="letter-btn" data-letter="P">P</button>
+            <button class="letter-btn" data-letter="Q">Q</button>
+            <button class="letter-btn" data-letter="R">R</button>
+            <button class="letter-btn" data-letter="S">S</button>
+            <button class="letter-btn" data-letter="T">T</button>
+            <button class="letter-btn" data-letter="U">U</button>
+            <button class="letter-btn" data-letter="V">V</button>
+            <button class="letter-btn" data-letter="W">W</button>
+            <button class="letter-btn" data-letter="X">X</button>
+            <button class="letter-btn" data-letter="Y">Y</button>
+            <button class="letter-btn" data-letter="Z">Z</button>
+        </nav>
 
         <!-- Main Content -->
         <main id="main">
@@ -53,8 +80,14 @@
                     </div>
                 </header>
 
+                <!-- Loading State (shown immediately) -->
+                <div class="loading-state" id="loadingState">
+                    <div class="loading-spinner"></div>
+                    <p>Loading dictionary...</p>
+                </div>
+
                 <!-- Entries Container -->
-                <div id="entries-container">
+                <div id="entries-container" style="display: none;">
                     <div id="entries"></div>
                     <div class="sentinel" id="sentinel"></div>
                 </div>
