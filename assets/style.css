@@ -485,3 +485,26 @@ main {
 .dark .error {
     color: #fc8181;
 }
+
+/* Welcome State */
+.welcome-state {
+    text-align: center;
+    padding: 60px 20px;
+    color: var(--fg2);
+}
+
+.welcome-state p {
+    font-size: 18px;
+    margin-bottom: 12px;
+}
+
+.welcome-state .welcome-hint {
+    font-size: 14px;
+    color: var(--fg2);
+    opacity: 0.8;
+}
+
+.welcome-state.hidden {
+    display: none;
+}
+

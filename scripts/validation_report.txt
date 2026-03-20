@@ -1,0 +1,10 @@
+OCR Validation Report
+=====================
+
+Total entries: 12167
+Flagged terms: 0
+Clean terms: 12167
+
+Flagged Terms:
+-------------
+

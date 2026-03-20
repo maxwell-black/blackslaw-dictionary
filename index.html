@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Black's Law Dictionary (1910)</title>
-    <meta name="description" content="Free searchable Black's Law Dictionary 2nd Edition (1910). 17,000+ legal definitions.">
+    <meta name="description" content="Free searchable Black's Law Dictionary 2nd Edition (1910). 12,000+ legal definitions.">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;600;700&family=EB+Garamond:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
@@ -75,7 +75,7 @@
                         </div>
                     </div>
                     <div class="search-wrap">
-                        <input type="text" id="search-box" placeholder="Search 17,446 entries…" autocomplete="off">
+                        <input type="text" id="search-box" placeholder="Search…" autocomplete="off">
                         <span id="resultCount"></span>
                     </div>
                 </header>
@@ -95,6 +95,12 @@
                 <!-- Empty State -->
                 <div class="empty-state" id="emptyState" style="display: none;">
                     <p>No entries found.</p>
+                </div>
+                
+                <!-- Welcome State -->
+                <div class="welcome-state" id="welcomeState">
+                    <p>Select a letter from the sidebar to begin browsing</p>
+                    <p class="welcome-hint">Or type to search across all entries</p>
                 </div>
             </div>
         </main>
