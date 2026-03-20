@@ -1,29 +1,31 @@
 /* Black's Law Dictionary - iA Writer/Monocle Inspired Design */
 
 :root {
-    --bg: #faf9f6;
-    --panel: #ffffff;
-    --fg: #1a1a1a;
-    --fg2: #6b6b6b;
-    --accent: #2c5282;
-    --border: #e2e2e2;
-    --sidebar-bg: #f5f5f3;
-    --hover: rgba(0,0,0,0.04);
-    --overlay: rgba(0,0,0,0.35);
-    --shadow: rgba(0,0,0,0.08);
+    --bg: #F5F0E6;
+    --bg2: #EDE7DA;
+    --fg: #2C1810;
+    --fg2: #6B5B4A;
+    --accent: #8B1A1A;
+    --border: #D4C9B0;
+    --sidebar-bg: #FAF7F0;
+    --hover: #EDE7DA;
+    --pill-bg: #E8E0D0;
+    --overlay: rgba(0,0,0,0.3);
+    --shadow: rgba(0,0,0,0.15);
     --font-size: 17px;
 }
 
 .dark {
-    --bg: #1a1a1a;
-    --panel: #242424;
-    --fg: #e8e8e8;
-    --fg2: #888888;
-    --accent: #63b3ed;
-    --border: #3a3a3a;
-    --sidebar-bg: #2a2a2a;
-    --hover: rgba(255,255,255,0.06);
-    --overlay: rgba(0,0,0,0.65);
+    --bg: #1a1814;
+    --bg2: #232019;
+    --fg: #D4C9B0;
+    --fg2: #9A8E78;
+    --accent: #C4785A;
+    --border: #3A352C;
+    --sidebar-bg: #1E1B16;
+    --hover: #2E2A22;
+    --pill-bg: #2E2A22;
+    --overlay: rgba(0,0,0,0.5);
     --shadow: rgba(0,0,0,0.3);
 }
 
@@ -291,11 +293,11 @@ main {
 
 #search-box:focus {
     border-color: var(--accent);
-    box-shadow: 0 0 0 3px rgba(44, 82, 130, 0.1);
+    box-shadow: 0 0 0 3px rgba(139, 26, 26, 0.1);
 }
 
 .dark #search-box:focus {
-    box-shadow: 0 0 0 3px rgba(99, 179, 237, 0.15);
+    box-shadow: 0 0 0 3px rgba(196, 120, 90, 0.15);
 }
 
 #search-box::placeholder {
