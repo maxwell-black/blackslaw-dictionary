@@ -1,0 +1,5643 @@
+[
+  {
+    "index": 6,
+    "current_term": "A DATU",
+    "source_headword": "ADATU",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": []
+  },
+  {
+    "index": 57,
+    "current_term": "ABAVUNCULUS",
+    "source_headword": "ABAVUNOULUS",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": []
+  },
+  {
+    "index": 59,
+    "current_term": "ABBAOCY",
+    "source_headword": "ABBACY",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": []
+  },
+  {
+    "index": 123,
+    "current_term": "ACAPTE",
+    "source_headword": "AOAPTE",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "12"
+    ]
+  },
+  {
+    "index": 126,
+    "current_term": "ACCEPT",
+    "source_headword": "ACOEPT",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "12"
+    ]
+  },
+  {
+    "index": 139,
+    "current_term": "ACCIDENT",
+    "source_headword": "ACOIDENT",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "15"
+    ]
+  },
+  {
+    "index": 140,
+    "current_term": "ACCOLA",
+    "source_headword": "ACOCOLA",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "15"
+    ]
+  },
+  {
+    "index": 147,
+    "current_term": "ACCOUCHEMENT",
+    "source_headword": "ACOCOUCHEMENT",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "16"
+    ]
+  },
+  {
+    "index": 154,
+    "current_term": "ACCREDULITARE",
+    "source_headword": "ACOREDULITARE",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "18"
+    ]
+  },
+  {
+    "index": 156,
+    "current_term": "ACCRUE",
+    "source_headword": "ACORUE",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "18"
+    ]
+  },
+  {
+    "index": 157,
+    "current_term": "ACCRUING",
+    "source_headword": "ACORUING",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "18"
+    ]
+  },
+  {
+    "index": 163,
+    "current_term": "ACCUSATION",
+    "source_headword": "ACOUSATION",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "19"
+    ]
+  },
+  {
+    "index": 166,
+    "current_term": "ACCUSER",
+    "source_headword": "ACOUSER",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "19"
+    ]
+  },
+  {
+    "index": 167,
+    "current_term": "ACEPHALI",
+    "source_headword": "AOCEPHALI",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "19"
+    ]
+  },
+  {
+    "index": 186,
+    "current_term": "ACQUIESCE",
+    "source_headword": "ACQUIESOE",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "20"
+    ]
+  },
+  {
+    "index": 187,
+    "current_term": "ACQUIESCENCE",
+    "source_headword": "ACQUIESCENOCE",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "20"
+    ]
+  },
+  {
+    "index": 189,
+    "current_term": "ACQUIRE",
+    "source_headword": "AOQUIRE",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "20"
+    ]
+  },
+  {
+    "index": 201,
+    "current_term": "ACT",
+    "source_headword": "AOT",
+    "match_score": 3.0,
+    "confidence": 0.9,
+    "source_pages": [
+      "21",
+      "22"
+    ]
+  },
+  {
+    "index": 208,
+    "current_term": "ACTIO CIVILIS",
+    "source_headword": "AOTIO OCIVILIS",
+    "match_score": 3.0,
+    "confidence": 0.9,
+    "source_pages": [
+      "24",
+      "25"
+    ]
+  },
+  {
+    "index": 209,
+    "current_term": "ACTIO EX CONTRACTU",
+    "source_headword": "ACTIO EX CONTRAOTU",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "25"
+    ]
+  },
+  {
+    "index": 213,
+    "current_term": "ACTIO PERSONALIS",
+    "source_headword": "AOCTIO PERSONALIS",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "25"
+    ]
+  },
+  {
+    "index": 226,
+    "current_term": "ACTORNAY",
+    "source_headword": "AOTORNAY",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "28"
+    ]
+  },
+  {
+    "index": 244,
+    "current_term": "AD CURIAM",
+    "source_headword": "AD OURIAM",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "30"
+    ]
+  },
+  {
+    "index": 251,
+    "current_term": "AD EXHEREDITATIONEM",
+    "source_headword": "AD EXHZREDATIONEM",
+    "match_score": 3.0,
+    "confidence": 0.9,
+    "source_pages": [
+      "30"
+    ]
+  },
+  {
+    "index": 254,
+    "current_term": "AD FACTUM PRZESTANDUM",
+    "source_headword": "AD FACTUM PRZSTANDUM",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "30"
+    ]
+  },
+  {
+    "index": 257,
+    "current_term": "AD FILUM AQUI",
+    "source_headword": "AD FILUM AQUZ",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "30"
+    ]
+  },
+  {
+    "index": 258,
+    "current_term": "AD FILUM VIAE",
+    "source_headword": "AD FILUM VIZ",
+    "match_score": 3.0,
+    "confidence": 0.9,
+    "source_pages": [
+      "30"
+    ]
+  },
+  {
+    "index": 277,
+    "current_term": "AD MAJOREM CAUTELAM",
+    "source_headword": "AD MAJZJOREM OAUTELAM",
+    "match_score": 3.0,
+    "confidence": 0.9,
+    "source_pages": [
+      "31"
+    ]
+  },
+  {
+    "index": 279,
+    "current_term": "AD MEDIUM FILUM AQUI",
+    "source_headword": "AD MEDIUM FILUM AQUZ",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "31"
+    ]
+  },
+  {
+    "index": 287,
+    "current_term": "AD QUOD DAMNUM",
+    "source_headword": "AD QUGD DAMNUM",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "31",
+      "32"
+    ]
+  },
+  {
+    "index": 292,
+    "current_term": "AD SATISFACIENDUM",
+    "source_headword": "AD SATISFAOCIENDUM",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "32"
+    ]
+  },
+  {
+    "index": 293,
+    "current_term": "AD SECTAM",
+    "source_headword": "AD SEOTAM",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "32"
+    ]
+  },
+  {
+    "index": 296,
+    "current_term": "AD TUNC ET IBIDEM",
+    "source_headword": "AD TUNO ET IBIDEM",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "32"
+    ]
+  },
+  {
+    "index": 360,
+    "current_term": "ADMINICULUM",
+    "source_headword": "ADMINIOCULUM",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "37"
+    ]
+  },
+  {
+    "index": 413,
+    "current_term": "ADULTEROUS BASTARDY",
+    "source_headword": "ADULTEROUS - 'BASTARDY",
+    "match_score": 3.0,
+    "confidence": 0.9,
+    "source_pages": [
+      "41"
+    ]
+  },
+  {
+    "index": 485,
+    "current_term": "AFFINAGE",
+    "source_headword": "AFPFINAGE",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "47"
+    ]
+  },
+  {
+    "index": 503,
+    "current_term": "AFFRANCHISE",
+    "source_headword": "AFFRANOHISE",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "48"
+    ]
+  },
+  {
+    "index": 566,
+    "current_term": "AHTEID",
+    "source_headword": "AHTEIDD",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "54"
+    ]
+  },
+  {
+    "index": 575,
+    "current_term": "AIELESSBE",
+    "source_headword": "AIELESSE",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "54"
+    ]
+  },
+  {
+    "index": 596,
+    "current_term": "ALBUM BREVE",
+    "source_headword": "ALBUM EREVE",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "55"
+    ]
+  },
+  {
+    "index": 599,
+    "current_term": "ALCABALA",
+    "source_headword": "ALOCABALA",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "55"
+    ]
+  },
+  {
+    "index": 656,
+    "current_term": "ALLOCATIONE FACIENDA",
+    "source_headword": "ALLOCATIONE FAOIENDA",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "60"
+    ]
+  },
+  {
+    "index": 661,
+    "current_term": "ALLODARII",
+    "source_headword": "ALLODARIT",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "60"
+    ]
+  },
+  {
+    "index": 849,
+    "current_term": "ANTITHETARIDS",
+    "source_headword": "ANTITHETARIUS",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "74"
+    ]
+  },
+  {
+    "index": 871,
+    "current_term": "APOSTASY",
+    "source_headword": "APOSTACY",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "75"
+    ]
+  },
+  {
+    "index": 878,
+    "current_term": "APOTHECARY",
+    "source_headword": "APQTHECARY",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "76"
+    ]
+  },
+  {
+    "index": 883,
+    "current_term": "APPARITOR",
+    "source_headword": "APPARITQOR",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "76"
+    ]
+  },
+  {
+    "index": 948,
+    "current_term": "APTA VIBRO",
+    "source_headword": "APTA VIRO",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "82"
+    ]
+  },
+  {
+    "index": 952,
+    "current_term": "AQUA DUCTUS",
+    "source_headword": "AQUZ DUCTUS",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "82"
+    ]
+  },
+  {
+    "index": 953,
+    "current_term": "AQUA HAUSTUS",
+    "source_headword": "AQUZ HAUSTUS",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "82"
+    ]
+  },
+  {
+    "index": 980,
+    "current_term": "ARCARIUS",
+    "source_headword": "AROARIUS",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "84"
+    ]
+  },
+  {
+    "index": 1148,
+    "current_term": "ASSOCIATE",
+    "source_headword": "ASSOOIATE",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "98"
+    ]
+  },
+  {
+    "index": 1163,
+    "current_term": "ASTITRARIUS HAES",
+    "source_headword": "ASTITRARIUS HARES",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "100"
+    ]
+  },
+  {
+    "index": 1189,
+    "current_term": "ATTACH",
+    "source_headword": "ATTAOH",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "101"
+    ]
+  },
+  {
+    "index": 1190,
+    "current_term": "ATTACHE",
+    "source_headword": "ATTAOHE",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "101"
+    ]
+  },
+  {
+    "index": 1221,
+    "current_term": "AUCTORITAS",
+    "source_headword": "AUOTORITAS",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "105"
+    ]
+  },
+  {
+    "index": 1234,
+    "current_term": "AULNAGE",
+    "source_headword": "AULNAGER",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "106"
+    ]
+  },
+  {
+    "index": 1309,
+    "current_term": "B)",
+    "source_headword": "BL",
+    "match_score": 3.0,
+    "confidence": 0.9,
+    "source_pages": []
+  },
+  {
+    "index": 1371,
+    "current_term": "BALNEARII",
+    "source_headword": "BALNEARIT",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "116"
+    ]
+  },
+  {
+    "index": 1380,
+    "current_term": "BANCUS",
+    "source_headword": "BANOUS",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "116"
+    ]
+  },
+  {
+    "index": 1502,
+    "current_term": "BENEFICIARY",
+    "source_headword": "BENEFIOIARY",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "126",
+      "127"
+    ]
+  },
+  {
+    "index": 1579,
+    "current_term": "BLACK ACT",
+    "source_headword": "BLACK AOT",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "137"
+    ]
+  },
+  {
+    "index": 1598,
+    "current_term": "BLANCH HOLDING",
+    "source_headword": "BLANOH HOLDING",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "138"
+    ]
+  },
+  {
+    "index": 1600,
+    "current_term": "BLANCHE FIRME",
+    "source_headword": "BLANOHE FIRME",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "138"
+    ]
+  },
+  {
+    "index": 1628,
+    "current_term": "BOCERAS",
+    "source_headword": "BOOCERAS",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "141"
+    ]
+  },
+  {
+    "index": 1651,
+    "current_term": "BONI HOMINES",
+    "source_headword": "BONTIT HOMINES",
+    "match_score": 3.0,
+    "confidence": 0.9,
+    "source_pages": [
+      "143"
+    ]
+  },
+  {
+    "index": 1716,
+    "current_term": "BOVATA TERRA",
+    "source_headword": "BOVATA TERRZ",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "148"
+    ]
+  },
+  {
+    "index": 1728,
+    "current_term": "BRANKS",
+    "source_headword": "BRANES",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "149"
+    ]
+  },
+  {
+    "index": 1789,
+    "current_term": "BRUKBARN",
+    "source_headword": "BRUEKBARN",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "154"
+    ]
+  },
+  {
+    "index": 1900,
+    "current_term": "CADUCA",
+    "source_headword": "CADUOA",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "161"
+    ]
+  },
+  {
+    "index": 1902,
+    "current_term": "CAEDUA",
+    "source_headword": "CZEDUA",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "161"
+    ]
+  },
+  {
+    "index": 1905,
+    "current_term": "CAETERUS",
+    "source_headword": "CZETERUS",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "161"
+    ]
+  },
+  {
+    "index": 1945,
+    "current_term": "CANCELLI",
+    "source_headword": "CANOCELLI",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "164"
+    ]
+  },
+  {
+    "index": 1951,
+    "current_term": "CANONICUS",
+    "source_headword": "CANONIOCUS",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "165"
+    ]
+  },
+  {
+    "index": 2045,
+    "current_term": "CARUCAGE",
+    "source_headword": "CARUOAGE",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "173"
+    ]
+  },
+  {
+    "index": 2090,
+    "current_term": "CATHEDRATIO",
+    "source_headword": "CATHEDRATIC",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "176"
+    ]
+  },
+  {
+    "index": 2096,
+    "current_term": "CAULCEIS",
+    "source_headword": "CAULOEIS",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "177"
+    ]
+  },
+  {
+    "index": 2132,
+    "current_term": "CENDULS",
+    "source_headword": "CENDULZ",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "180"
+    ]
+  },
+  {
+    "index": 2134,
+    "current_term": "CENELLZE",
+    "source_headword": "CENELLZ",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "180"
+    ]
+  },
+  {
+    "index": 2288,
+    "current_term": "CHECK",
+    "source_headword": "CHEOK",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "195",
+      "196"
+    ]
+  },
+  {
+    "index": 2318,
+    "current_term": "CHOP-OCOHUROH",
+    "source_headword": "CHOP-CHUROH",
+    "match_score": 3.0,
+    "confidence": 0.9,
+    "source_pages": [
+      "198"
+    ]
+  },
+  {
+    "index": 2379,
+    "current_term": "CIVIL DAMAGE ACTS",
+    "source_headword": "CIVIL DAMAGE AOTS",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "203",
+      "204"
+    ]
+  },
+  {
+    "index": 2493,
+    "current_term": "COGNITIONIS CAUSA",
+    "source_headword": "COGNITIONIS CAUSZ",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "213"
+    ]
+  },
+  {
+    "index": 2502,
+    "current_term": "COHAERES",
+    "source_headword": "COHZERES",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "213",
+      "214"
+    ]
+  },
+  {
+    "index": 2503,
+    "current_term": "COHEIR",
+    "source_headword": "CO-HEIR",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "214"
+    ]
+  },
+  {
+    "index": 2572,
+    "current_term": "COMMANDMERT",
+    "source_headword": "COMMANDMENT",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "220"
+    ]
+  },
+  {
+    "index": 2689,
+    "current_term": "COMPTE ARRESTE",
+    "source_headword": "COMPTE ARRETE",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "235"
+    ]
+  },
+  {
+    "index": 2691,
+    "current_term": "COMPTROLLER",
+    "source_headword": "COMPTROLLEM",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "235"
+    ]
+  },
+  {
+    "index": 2715,
+    "current_term": "CONCESSUM",
+    "source_headword": "CONCESSUS",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "237"
+    ]
+  },
+  {
+    "index": 2718,
+    "current_term": "CONCILIUM",
+    "source_headword": "CONCILIOM",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "237"
+    ]
+  },
+  {
+    "index": 2721,
+    "current_term": "CONCLUDED",
+    "source_headword": "CONOLUDED",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "237"
+    ]
+  },
+  {
+    "index": 2722,
+    "current_term": "CONCLUSION",
+    "source_headword": "CONOCLUSION",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "237"
+    ]
+  },
+  {
+    "index": 2725,
+    "current_term": "CONCORDAT",
+    "source_headword": "CONOCORDAT",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "237",
+      "238"
+    ]
+  },
+  {
+    "index": 2735,
+    "current_term": "CONCURRENT",
+    "source_headword": "CONOURRENT",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "238"
+    ]
+  },
+  {
+    "index": 2736,
+    "current_term": "CONCURSO",
+    "source_headword": "CONOURSO",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "238"
+    ]
+  },
+  {
+    "index": 2762,
+    "current_term": "CONFECTIO",
+    "source_headword": "CONFEOTIO",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "242"
+    ]
+  },
+  {
+    "index": 2813,
+    "current_term": "CONJUNCTIO",
+    "source_headword": "CONJUNOTIO",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "246"
+    ]
+  },
+  {
+    "index": 2824,
+    "current_term": "CONOCIMIENTO",
+    "source_headword": "CONOOIMIENTO",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "247"
+    ]
+  },
+  {
+    "index": 2831,
+    "current_term": "CONQUESTS",
+    "source_headword": "CONQUETS",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "247"
+    ]
+  },
+  {
+    "index": 2846,
+    "current_term": "CONSEILS DE PRUD'HOMMES",
+    "source_headword": "CONSEILS DE PRUDHOMMES",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "248"
+    ]
+  },
+  {
+    "index": 2854,
+    "current_term": "CONSEQUENTIAL DAMAGES",
+    "source_headword": "CONSEQUENTIAL DAMAGE",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "249"
+    ]
+  },
+  {
+    "index": 2872,
+    "current_term": "CONSOCIATIO",
+    "source_headword": "CONSOOCIATIO",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "251"
+    ]
+  },
+  {
+    "index": 2900,
+    "current_term": "CONSTRUCT",
+    "source_headword": "CONSTRUOT",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "254"
+    ]
+  },
+  {
+    "index": 2936,
+    "current_term": "CONTINENOCIA",
+    "source_headword": "CONTINENOIA",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "258"
+    ]
+  },
+  {
+    "index": 2953,
+    "current_term": "CONTRACTOR",
+    "source_headword": "CONTRAOTOR",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "263"
+    ]
+  },
+  {
+    "index": 2955,
+    "current_term": "CONTRACTUS",
+    "source_headword": "CONTRAOTUS",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "263"
+    ]
+  },
+  {
+    "index": 2956,
+    "current_term": "CONTRADICT",
+    "source_headword": "CONTRADIOT",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "263"
+    ]
+  },
+  {
+    "index": 2985,
+    "current_term": "CONTUMAX",
+    "source_headword": "CONTUMAZX",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "265"
+    ]
+  },
+  {
+    "index": 2989,
+    "current_term": "CONUSANT",
+    "source_headword": "CONUS ANT",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "265"
+    ]
+  },
+  {
+    "index": 3011,
+    "current_term": "CONVEYANCER",
+    "source_headword": "CONVEYANOCER",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "268"
+    ]
+  },
+  {
+    "index": 3012,
+    "current_term": "CONVEYANCING",
+    "source_headword": "CONVEYANOING",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "268"
+    ]
+  },
+  {
+    "index": 3014,
+    "current_term": "CONVICT",
+    "source_headword": "CONVIOT",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "268"
+    ]
+  },
+  {
+    "index": 3077,
+    "current_term": "CORRECTOR OF THE STAPLE",
+    "source_headword": "CORREOTOR OF THE STAPLE",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "277"
+    ]
+  },
+  {
+    "index": 3160,
+    "current_term": "COURTS OF CONSCIENCES",
+    "source_headword": "COURTS OF CONSCIENCE",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "287"
+    ]
+  },
+  {
+    "index": 3309,
+    "current_term": "CYCLE",
+    "source_headword": "CYOLE",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "311"
+    ]
+  },
+  {
+    "index": 3318,
+    "current_term": "D)",
+    "source_headword": "D",
+    "match_score": 3.0,
+    "confidence": 0.9,
+    "source_pages": [
+      "313"
+    ]
+  },
+  {
+    "index": 3324,
+    "current_term": "DA",
+    "source_headword": "D",
+    "match_score": 3.0,
+    "confidence": 0.9,
+    "source_pages": [
+      "313"
+    ]
+  },
+  {
+    "index": 3355,
+    "current_term": "DARRAIGN",
+    "source_headword": "DARREAIGN",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "317"
+    ]
+  },
+  {
+    "index": 3374,
+    "current_term": "DB",
+    "source_headword": "DO",
+    "match_score": 3.0,
+    "confidence": 0.9,
+    "source_pages": [
+      "324"
+    ]
+  },
+  {
+    "index": 3376,
+    "current_term": "DE",
+    "source_headword": "DI",
+    "match_score": 3.0,
+    "confidence": 0.9,
+    "source_pages": [
+      "327"
+    ]
+  },
+  {
+    "index": 3490,
+    "current_term": "DECEIT",
+    "source_headword": "DEOEIT",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "336"
+    ]
+  },
+  {
+    "index": 3502,
+    "current_term": "DECISION",
+    "source_headword": "DEOISION",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "337"
+    ]
+  },
+  {
+    "index": 3513,
+    "current_term": "DECLINATURE",
+    "source_headword": "DEOCLINATURE",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "338"
+    ]
+  },
+  {
+    "index": 3514,
+    "current_term": "DECOCTION",
+    "source_headword": "DECOOTION",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "338"
+    ]
+  },
+  {
+    "index": 3515,
+    "current_term": "DECOCTOR",
+    "source_headword": "DECOOTOR",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "338"
+    ]
+  },
+  {
+    "index": 3520,
+    "current_term": "DECREET",
+    "source_headword": "DEOCREET",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "339",
+      "340"
+    ]
+  },
+  {
+    "index": 3524,
+    "current_term": "DECRETA",
+    "source_headword": "DEOCRETA",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "340"
+    ]
+  },
+  {
+    "index": 3526,
+    "current_term": "DECRETALS",
+    "source_headword": "DEOCRETALS",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "340"
+    ]
+  },
+  {
+    "index": 3529,
+    "current_term": "DECRETUM GRATIANI",
+    "source_headword": "DEORETUM GRATIANI",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "340"
+    ]
+  },
+  {
+    "index": 3546,
+    "current_term": "DEER-FOLD",
+    "source_headword": "DEER-FALD",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "342"
+    ]
+  },
+  {
+    "index": 3590,
+    "current_term": "DEFOROIATIO",
+    "source_headword": "DEFORCIATIO",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "346"
+    ]
+  },
+  {
+    "index": 3594,
+    "current_term": "DEFUNCT",
+    "source_headword": "DEFUNOT",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "346"
+    ]
+  },
+  {
+    "index": 3620,
+    "current_term": "DELICT",
+    "source_headword": "DELIOT",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "348",
+      "349"
+    ]
+  },
+  {
+    "index": 3621,
+    "current_term": "DELICTUM",
+    "source_headword": "DELIOTUM",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "349"
+    ]
+  },
+  {
+    "index": 3673,
+    "current_term": "DENOUNCEMENT",
+    "source_headword": "DENOUNOCEMENT",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "354"
+    ]
+  },
+  {
+    "index": 3677,
+    "current_term": "DENUNCIATION",
+    "source_headword": "DENUNOIATION",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "354"
+    ]
+  },
+  {
+    "index": 3714,
+    "current_term": "DERELICT",
+    "source_headword": "DERELIOT",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "358"
+    ]
+  },
+  {
+    "index": 3721,
+    "current_term": "DESAMORTIZATION",
+    "source_headword": "DESAMORTIZACION",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "359"
+    ]
+  },
+  {
+    "index": 3766,
+    "current_term": "DETRACTARI",
+    "source_headword": "DETRAOCTARI",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "363"
+    ]
+  },
+  {
+    "index": 3771,
+    "current_term": "DEUNX",
+    "source_headword": "DEUNZX",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "363"
+    ]
+  },
+  {
+    "index": 3810,
+    "current_term": "DIEI DICTIO",
+    "source_headword": "DIEI DIOTIO",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "366"
+    ]
+  },
+  {
+    "index": 3844,
+    "current_term": "DINARCHY",
+    "source_headword": "DINAROHY",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "369"
+    ]
+  },
+  {
+    "index": 3907,
+    "current_term": "DISINCARCERATE",
+    "source_headword": "DISINCABRCERATE",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "376"
+    ]
+  },
+  {
+    "index": 3912,
+    "current_term": "DISJUNCTIM",
+    "source_headword": "DISJUNOTIM",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "376"
+    ]
+  },
+  {
+    "index": 3991,
+    "current_term": "DITCH",
+    "source_headword": "DITOH",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "383"
+    ]
+  },
+  {
+    "index": 4142,
+    "current_term": "DRINCLEAN",
+    "source_headword": "DRINOCLEAN",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "398"
+    ]
+  },
+  {
+    "index": 4161,
+    "current_term": "DRUNKARD",
+    "source_headword": "DRUNEKARD",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "399",
+      "400"
+    ]
+  },
+  {
+    "index": 4165,
+    "current_term": "DUARCHY",
+    "source_headword": "DUAROHY",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "400"
+    ]
+  },
+  {
+    "index": 4181,
+    "current_term": "DULOCRACY",
+    "source_headword": "DULOOCRAOCY",
+    "match_score": 3.0,
+    "confidence": 0.9,
+    "source_pages": [
+      "402"
+    ]
+  },
+  {
+    "index": 4213,
+    "current_term": "DUSTUCK",
+    "source_headword": "DUSTUOK",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "404"
+    ]
+  },
+  {
+    "index": 4227,
+    "current_term": "DYSPEPSIA",
+    "source_headword": "DYSPESIA",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "406"
+    ]
+  },
+  {
+    "index": 4239,
+    "current_term": "EA",
+    "source_headword": "E",
+    "match_score": 3.0,
+    "confidence": 0.9,
+    "source_pages": [
+      "407"
+    ]
+  },
+  {
+    "index": 4276,
+    "current_term": "ECCLESIA",
+    "source_headword": "ECOCLESIA",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "410",
+      "411"
+    ]
+  },
+  {
+    "index": 4308,
+    "current_term": "EFFRACTOR",
+    "source_headword": "EFFRAOCTOR",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "413"
+    ]
+  },
+  {
+    "index": 4332,
+    "current_term": "EJECT",
+    "source_headword": "EJEOT",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "414"
+    ]
+  },
+  {
+    "index": 4334,
+    "current_term": "EJECTION",
+    "source_headword": "EJEOTION",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "414"
+    ]
+  },
+  {
+    "index": 4339,
+    "current_term": "EJECTUS",
+    "source_headword": "EJEOTUS",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "414"
+    ]
+  },
+  {
+    "index": 4340,
+    "current_term": "EJERCITORIA",
+    "source_headword": "EJEROCITORIA",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "414"
+    ]
+  },
+  {
+    "index": 4363,
+    "current_term": "ELEEMOSYNA",
+    "source_headword": "ELEEMOSYNZ",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "416",
+      "417"
+    ]
+  },
+  {
+    "index": 4452,
+    "current_term": "ENAJENACION",
+    "source_headword": "ENAJENAOION",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "423"
+    ]
+  },
+  {
+    "index": 4458,
+    "current_term": "ENCOMIENDA",
+    "source_headword": "ENOCOMIENDA",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "423"
+    ]
+  },
+  {
+    "index": 4516,
+    "current_term": "ENTERCEUR",
+    "source_headword": "ENTEROEUR",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "427"
+    ]
+  },
+  {
+    "index": 4538,
+    "current_term": "EOTH",
+    "source_headword": "EOQTH",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "430"
+    ]
+  },
+  {
+    "index": 4575,
+    "current_term": "ERECT",
+    "source_headword": "EREOT",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "434"
+    ]
+  },
+  {
+    "index": 4648,
+    "current_term": "ESTATE A REMANENTIAM",
+    "source_headword": "ESTATE AD REMANENTIAM",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "440"
+    ]
+  },
+  {
+    "index": 4676,
+    "current_term": "ESTRECIATUS",
+    "source_headword": "ESTREOCIATOUS",
+    "match_score": 3.0,
+    "confidence": 0.9,
+    "source_pages": [
+      "444"
+    ]
+  },
+  {
+    "index": 4682,
+    "current_term": "ET ALIIS E CONTRA",
+    "source_headword": "ET ALI E CONTRA",
+    "match_score": 3.0,
+    "confidence": 0.9,
+    "source_pages": [
+      "444"
+    ]
+  },
+  {
+    "index": 4683,
+    "current_term": "ET ALIUS",
+    "source_headword": "ET ALIUOS",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "444"
+    ]
+  },
+  {
+    "index": 4685,
+    "current_term": "ET CZTERA",
+    "source_headword": "ET OCZETERA",
+    "match_score": 3.0,
+    "confidence": 0.9,
+    "source_pages": [
+      "444"
+    ]
+  },
+  {
+    "index": 4686,
+    "current_term": "ET HABEAS IBI TUNC HOO BREVE",
+    "source_headword": "ET HABEAS IBI TUNC HOC BREVE",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "444"
+    ]
+  },
+  {
+    "index": 4690,
+    "current_term": "ET MODO AD HUNC DIEM",
+    "source_headword": "ET MODO AD HUNO DIEM",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "445"
+    ]
+  },
+  {
+    "index": 4696,
+    "current_term": "ET SIC FECIT",
+    "source_headword": "ET SIC FEOCIT",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "445"
+    ]
+  },
+  {
+    "index": 4724,
+    "current_term": "EXACTION",
+    "source_headword": "EXAOTION",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "454"
+    ]
+  },
+  {
+    "index": 4725,
+    "current_term": "EXACTOR",
+    "source_headword": "EXAOTOR",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "454"
+    ]
+  },
+  {
+    "index": 4737,
+    "current_term": "EXCAMBIUM",
+    "source_headword": "EXOCAMBIUM",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "456"
+    ]
+  },
+  {
+    "index": 4740,
+    "current_term": "EXCEPTIO",
+    "source_headword": "EXOEPTIO",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "456",
+      "457"
+    ]
+  },
+  {
+    "index": 4743,
+    "current_term": "EXCEPTIS EXCIPIENDIS",
+    "source_headword": "EXOEPTIS EXOIPIENDIS",
+    "match_score": 3.0,
+    "confidence": 0.9,
+    "source_pages": [
+      "457"
+    ]
+  },
+  {
+    "index": 4748,
+    "current_term": "EXCHANGE",
+    "source_headword": "EXOHANGE",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "458"
+    ]
+  },
+  {
+    "index": 4750,
+    "current_term": "EXCISE",
+    "source_headword": "EXOISE",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "458",
+      "459"
+    ]
+  },
+  {
+    "index": 4759,
+    "current_term": "EXCOMMUNIOCATO RECAPIENDO",
+    "source_headword": "EXCOMMUNICATO RECAPIENDO",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "459"
+    ]
+  },
+  {
+    "index": 4761,
+    "current_term": "EXCULPATION, LETTERS OF",
+    "source_headword": "EXOULPATION, LETTERS OF",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "459"
+    ]
+  },
+  {
+    "index": 4762,
+    "current_term": "EXCUSABLE",
+    "source_headword": "EXOCUSABLE",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "459",
+      "460"
+    ]
+  },
+  {
+    "index": 4764,
+    "current_term": "EXCUSATIO",
+    "source_headword": "EXOUSATIO",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "460"
+    ]
+  },
+  {
+    "index": 4765,
+    "current_term": "EXCUSATOR",
+    "source_headword": "EXOUSATOR",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "460"
+    ]
+  },
+  {
+    "index": 4767,
+    "current_term": "EXCUSS",
+    "source_headword": "EXOUSS",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "460"
+    ]
+  },
+  {
+    "index": 4768,
+    "current_term": "EXCUSSIO",
+    "source_headword": "EXOUSSIO",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "460"
+    ]
+  },
+  {
+    "index": 4779,
+    "current_term": "EXECUTORY",
+    "source_headword": "EXEOCUTORY",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "462"
+    ]
+  },
+  {
+    "index": 4780,
+    "current_term": "EXECUTRESS",
+    "source_headword": "EXEOUTRESS",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "462"
+    ]
+  },
+  {
+    "index": 4781,
+    "current_term": "EXECUTRIX",
+    "source_headword": "EXEOCUTRIX",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "462"
+    ]
+  },
+  {
+    "index": 4792,
+    "current_term": "EXERCISE",
+    "source_headword": "EXEROISE",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "463"
+    ]
+  },
+  {
+    "index": 4793,
+    "current_term": "EXERCITALIS",
+    "source_headword": "EXEROITALIS",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "463"
+    ]
+  },
+  {
+    "index": 4795,
+    "current_term": "EXERCITOR NAVIS",
+    "source_headword": "EXEROITOR NAVIS",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "463"
+    ]
+  },
+  {
+    "index": 4797,
+    "current_term": "EXERCITORIA ACTIO",
+    "source_headword": "EXERCITORIA AOTIO",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "463"
+    ]
+  },
+  {
+    "index": 4799,
+    "current_term": "EXERCITUAL",
+    "source_headword": "EXEROITUAL",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "463"
+    ]
+  },
+  {
+    "index": 4804,
+    "current_term": "EXFREDARE",
+    "source_headword": "EXFREDIARE",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "463"
+    ]
+  },
+  {
+    "index": 4813,
+    "current_term": "EXHIBITIO BILLAE",
+    "source_headword": "EXHIBITIO BILLZ",
+    "match_score": 3.0,
+    "confidence": 0.9,
+    "source_pages": [
+      "464"
+    ]
+  },
+  {
+    "index": 4860,
+    "current_term": "EXPLICATIO",
+    "source_headword": "EXPLIOCATIO",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "467"
+    ]
+  },
+  {
+    "index": 4896,
+    "current_term": "EXTOCARE",
+    "source_headword": "EXTOOCARE",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "470"
+    ]
+  },
+  {
+    "index": 4902,
+    "current_term": "EXTRACT",
+    "source_headword": "EXTRAOT",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "471"
+    ]
+  },
+  {
+    "index": 4916,
+    "current_term": "EXTRINSIC",
+    "source_headword": "EXTRINSIO",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "472"
+    ]
+  },
+  {
+    "index": 4932,
+    "current_term": "FABRICATE",
+    "source_headword": "FABRIOATE",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "474"
+    ]
+  },
+  {
+    "index": 4938,
+    "current_term": "FACIAS",
+    "source_headword": "FAOIAS",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "474"
+    ]
+  },
+  {
+    "index": 4950,
+    "current_term": "FACTORY",
+    "source_headword": "FAOTORY",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "476",
+      "477"
+    ]
+  },
+  {
+    "index": 4989,
+    "current_term": "FALERE",
+    "source_headword": "FALERZ",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "480"
+    ]
+  },
+  {
+    "index": 5015,
+    "current_term": "FAMAOCIDE",
+    "source_headword": "FAMACIDE",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "482"
+    ]
+  },
+  {
+    "index": 5035,
+    "current_term": "FARINAGIUM",
+    "source_headword": "FARINAGIOM",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "483"
+    ]
+  },
+  {
+    "index": 5072,
+    "current_term": "FECIALES",
+    "source_headword": "FEOCIALES",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "486"
+    ]
+  },
+  {
+    "index": 5153,
+    "current_term": "FERMISONA",
+    "source_headword": "FPERMISONA",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "492"
+    ]
+  },
+  {
+    "index": 5251,
+    "current_term": "FIRDSOONE",
+    "source_headword": "FIRDSOCNE",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "500"
+    ]
+  },
+  {
+    "index": 5282,
+    "current_term": "FIVE-MILE ACT",
+    "source_headword": "FIVE-MILE AOT",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "503"
+    ]
+  },
+  {
+    "index": 5311,
+    "current_term": "FLORENTINE PANDECTS",
+    "source_headword": "FLORENTINE PANDEOTS",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "505"
+    ]
+  },
+  {
+    "index": 5326,
+    "current_term": "FLY FOR IT",
+    "source_headword": "FLY FOR IY",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "506"
+    ]
+  },
+  {
+    "index": 5331,
+    "current_term": "FOCALE",
+    "source_headword": "FOOALE",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "506"
+    ]
+  },
+  {
+    "index": 5336,
+    "current_term": "FOENUS",
+    "source_headword": "FCENUS",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "506"
+    ]
+  },
+  {
+    "index": 5337,
+    "current_term": "FOETUS",
+    "source_headword": "FETUS",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "506"
+    ]
+  },
+  {
+    "index": 5349,
+    "current_term": "FOLD-COURSE",
+    "source_headword": "FOLD-OOURSE",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "507"
+    ]
+  },
+  {
+    "index": 5351,
+    "current_term": "FOLGARIT",
+    "source_headword": "FOLGARIZ",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "507"
+    ]
+  },
+  {
+    "index": 5363,
+    "current_term": "FONTANA",
+    "source_headword": "FONTAWNA",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "507"
+    ]
+  },
+  {
+    "index": 5418,
+    "current_term": "FORINSECUS",
+    "source_headword": "FORINSEOCUS",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "513"
+    ]
+  },
+  {
+    "index": 5465,
+    "current_term": "FORTALITIUM",
+    "source_headword": "FORTALITIUOM",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "516"
+    ]
+  },
+  {
+    "index": 5554,
+    "current_term": "FRANC",
+    "source_headword": "FRANO",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "519"
+    ]
+  },
+  {
+    "index": 5559,
+    "current_term": "FRANCUS",
+    "source_headword": "FRANOUS",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "520"
+    ]
+  },
+  {
+    "index": 5581,
+    "current_term": "FREDENITE",
+    "source_headword": "FREDNITE",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "522"
+    ]
+  },
+  {
+    "index": 5599,
+    "current_term": "FRESCA",
+    "source_headword": "FRESOA",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "525"
+    ]
+  },
+  {
+    "index": 5606,
+    "current_term": "FRETTUM, FRECTUM",
+    "source_headword": "FRETTUM, FREOTUM",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "525"
+    ]
+  },
+  {
+    "index": 5740,
+    "current_term": "GANANOIAS",
+    "source_headword": "GANANCIAS",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "534"
+    ]
+  },
+  {
+    "index": 5753,
+    "current_term": "GARCIONES",
+    "source_headword": "GAROIONES",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "535"
+    ]
+  },
+  {
+    "index": 5789,
+    "current_term": "GEBOCCED",
+    "source_headword": "GEBOCOED",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "537"
+    ]
+  },
+  {
+    "index": 5821,
+    "current_term": "GERECHTSBODE",
+    "source_headword": "GEREOHTSBODE",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "539"
+    ]
+  },
+  {
+    "index": 6055,
+    "current_term": "HABERE FACIAS VISUM",
+    "source_headword": "HABERE FAOIAS VISUM",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "555"
+    ]
+  },
+  {
+    "index": 6080,
+    "current_term": "HAEREDA",
+    "source_headword": "HZEREDA",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "556"
+    ]
+  },
+  {
+    "index": 6082,
+    "current_term": "HAEREDES",
+    "source_headword": "HZEREDES",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "556"
+    ]
+  },
+  {
+    "index": 6083,
+    "current_term": "HAEREDIPETA",
+    "source_headword": "HZEREDIPETA",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "556"
+    ]
+  },
+  {
+    "index": 6085,
+    "current_term": "HAEREDITAS",
+    "source_headword": "HZEREDITAS",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "556",
+      "557"
+    ]
+  },
+  {
+    "index": 6086,
+    "current_term": "HAERES",
+    "source_headword": "HERES",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "557",
+      "558"
+    ]
+  },
+  {
+    "index": 6087,
+    "current_term": "HAERETARE",
+    "source_headword": "HASRETARE",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "558"
+    ]
+  },
+  {
+    "index": 6109,
+    "current_term": "HALLAZGO",
+    "source_headword": "HALLAZOO",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "559"
+    ]
+  },
+  {
+    "index": 6121,
+    "current_term": "HAMSOCNE",
+    "source_headword": "HAMSOONE",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "560"
+    ]
+  },
+  {
+    "index": 6152,
+    "current_term": "HARNASCA",
+    "source_headword": "HARNASOA",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "561"
+    ]
+  },
+  {
+    "index": 6226,
+    "current_term": "HENCEFORTH",
+    "source_headword": "HENOEFORTH",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "567"
+    ]
+  },
+  {
+    "index": 6246,
+    "current_term": "HERCIA",
+    "source_headword": "HEROIA",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "568"
+    ]
+  },
+  {
+    "index": 6300,
+    "current_term": "HERPICATIO",
+    "source_headword": "HERPIOCATIO",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "570"
+    ]
+  },
+  {
+    "index": 6307,
+    "current_term": "HETZRIA",
+    "source_headword": "HETZERIA",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "570"
+    ]
+  },
+  {
+    "index": 6308,
+    "current_term": "HEUVELBORH",
+    "source_headword": "HEUVELBOREH",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "570"
+    ]
+  },
+  {
+    "index": 6310,
+    "current_term": "HEYMEOCTUS",
+    "source_headword": "HEYMEOTUS",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "570"
+    ]
+  },
+  {
+    "index": 6348,
+    "current_term": "HLASOCNA",
+    "source_headword": "HLASOONA",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "573"
+    ]
+  },
+  {
+    "index": 6383,
+    "current_term": "HOMICIDIUM",
+    "source_headword": "HOMIOCIDIUM",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "577"
+    ]
+  },
+  {
+    "index": 6400,
+    "current_term": "HOMONYMIA",
+    "source_headword": "HOMONYMIZ",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "578"
+    ]
+  },
+  {
+    "index": 6421,
+    "current_term": "HORDERIUM",
+    "source_headword": "HORDERIUOM",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "579"
+    ]
+  },
+  {
+    "index": 6442,
+    "current_term": "HOSTELAGIUM",
+    "source_headword": "HOSTELAGIUOM",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "580"
+    ]
+  },
+  {
+    "index": 6512,
+    "current_term": "HYPOTHEC",
+    "source_headword": "HYPOTHEOC",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "584",
+      "585"
+    ]
+  },
+  {
+    "index": 6527,
+    "current_term": "I",
+    "source_headword": "IL",
+    "match_score": 3.0,
+    "confidence": 0.9,
+    "source_pages": [
+      "186"
+    ]
+  },
+  {
+    "index": 6529,
+    "current_term": "I.",
+    "source_headword": "IL",
+    "match_score": 3.0,
+    "confidence": 0.9,
+    "source_pages": [
+      "330"
+    ]
+  },
+  {
+    "index": 6592,
+    "current_term": "IMBRACERY",
+    "source_headword": "IMBRAOCERY",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "591"
+    ]
+  },
+  {
+    "index": 6593,
+    "current_term": "IMBROCUS",
+    "source_headword": "IMBROOUS",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "591"
+    ]
+  },
+  {
+    "index": 6629,
+    "current_term": "IMPERFECT",
+    "source_headword": "IMPERFEOT",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "594"
+    ]
+  },
+  {
+    "index": 6642,
+    "current_term": "IMPLAOITARE",
+    "source_headword": "IMPLACITARE",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "595"
+    ]
+  },
+  {
+    "index": 6671,
+    "current_term": "IMPRISTI",
+    "source_headword": "IMPRISTY",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "597"
+    ]
+  },
+  {
+    "index": 6700,
+    "current_term": "INBOUND COMMON",
+    "source_headword": "INBOUND CQMMON",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "610"
+    ]
+  },
+  {
+    "index": 6701,
+    "current_term": "INCAPACITY",
+    "source_headword": "INCAPAOITY",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "610"
+    ]
+  },
+  {
+    "index": 6717,
+    "current_term": "INCIVILE",
+    "source_headword": "INOCIVILE",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "612"
+    ]
+  },
+  {
+    "index": 6736,
+    "current_term": "INCORPORAMUS",
+    "source_headword": "INCORPORAMOUS",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "613"
+    ]
+  },
+  {
+    "index": 6754,
+    "current_term": "INDECENCY",
+    "source_headword": "INDEOENCY",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "615"
+    ]
+  },
+  {
+    "index": 6778,
+    "current_term": "INDICIA",
+    "source_headword": "INDIOIA",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "617"
+    ]
+  },
+  {
+    "index": 6820,
+    "current_term": "INFAMIA",
+    "source_headword": "INEFAMIA",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "621"
+    ]
+  },
+  {
+    "index": 6837,
+    "current_term": "INFERENCE",
+    "source_headword": "INFERENOE",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "622"
+    ]
+  },
+  {
+    "index": 6844,
+    "current_term": "INFIDEL",
+    "source_headword": "INEIDEL",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "622"
+    ]
+  },
+  {
+    "index": 6886,
+    "current_term": "INHOG",
+    "source_headword": "INHOC",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "626"
+    ]
+  },
+  {
+    "index": 6892,
+    "current_term": "INITIALIA TESTIMONTI",
+    "source_headword": "INITIALIA TESTIMONII",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "626"
+    ]
+  },
+  {
+    "index": 6941,
+    "current_term": "INOPS CONSILI",
+    "source_headword": "INOPS CONSILIT",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "630"
+    ]
+  },
+  {
+    "index": 6979,
+    "current_term": "INSILIUM",
+    "source_headword": "INSILIOM",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "637"
+    ]
+  },
+  {
+    "index": 7053,
+    "current_term": "INTERDICTUM SALVIANUM",
+    "source_headword": "INTERDIOTUM SALVIANUM",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "646"
+    ]
+  },
+  {
+    "index": 7073,
+    "current_term": "INTERNUNCIO",
+    "source_headword": "INTERNUNOIO",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "649"
+    ]
+  },
+  {
+    "index": 7116,
+    "current_term": "INVADIARE",
+    "source_headword": "INVADIARBRE",
+    "match_score": 3.0,
+    "confidence": 0.9,
+    "source_pages": [
+      "654"
+    ]
+  },
+  {
+    "index": 7190,
+    "current_term": "IV)",
+    "source_headword": "IV",
+    "match_score": 3.0,
+    "confidence": 0.9,
+    "source_pages": [
+      "1234"
+    ]
+  },
+  {
+    "index": 7272,
+    "current_term": "JUDICES ORDINARII",
+    "source_headword": "JUDICES ORDINARIT",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "668"
+    ]
+  },
+  {
+    "index": 7284,
+    "current_term": "JUGULATOR",
+    "source_headword": "JUGULATOB",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "670"
+    ]
+  },
+  {
+    "index": 7368,
+    "current_term": "KALALCONNA",
+    "source_headword": "KALALOONNA",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "685"
+    ]
+  },
+  {
+    "index": 7424,
+    "current_term": "KNIGHT-SERVICE",
+    "source_headword": "KNIGHT-SERVIGCE",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "689"
+    ]
+  },
+  {
+    "index": 7426,
+    "current_term": "KNIGHTENGILD",
+    "source_headword": "KNIGHTENGUILD",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "689"
+    ]
+  },
+  {
+    "index": 7439,
+    "current_term": "L",
+    "source_headword": "LL",
+    "match_score": 3.0,
+    "confidence": 0.9,
+    "source_pages": [
+      "18"
+    ]
+  },
+  {
+    "index": 7453,
+    "current_term": "L.R",
+    "source_headword": "LR",
+    "match_score": 4.5,
+    "confidence": 0.95,
+    "source_pages": [
+      "303"
+    ]
+  },
+  {
+    "index": 7478,
+    "current_term": "LAESIWERP",
+    "source_headword": "LZESIWERP",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "693"
+    ]
+  },
+  {
+    "index": 7482,
+    "current_term": "LAFORDSWIC",
+    "source_headword": "LAFORDSWIO",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "693"
+    ]
+  },
+  {
+    "index": 7514,
+    "current_term": "LANDBOC",
+    "source_headword": "LANDBOO",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "695"
+    ]
+  },
+  {
+    "index": 7518,
+    "current_term": "LANDEFRICUS",
+    "source_headword": "LANDEFRIOCUS",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "695"
+    ]
+  },
+  {
+    "index": 7549,
+    "current_term": "LASCIVIOUS",
+    "source_headword": "LASOIVIOUS",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "698"
+    ]
+  },
+  {
+    "index": 7556,
+    "current_term": "LATCHING",
+    "source_headword": "LATOCHING",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "698"
+    ]
+  },
+  {
+    "index": 7573,
+    "current_term": "LATINARIUS",
+    "source_headword": "LATINARIUVUS",
+    "match_score": 3.0,
+    "confidence": 0.9,
+    "source_pages": [
+      "699"
+    ]
+  },
+  {
+    "index": 7579,
+    "current_term": "LATROCINATION",
+    "source_headword": "LATROOCINATION",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "699"
+    ]
+  },
+  {
+    "index": 7580,
+    "current_term": "LATROCINIUM",
+    "source_headword": "LATROOCINIUM",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "699"
+    ]
+  },
+  {
+    "index": 7587,
+    "current_term": "LAUDEMIO",
+    "source_headword": "LAUDEMEO",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "699"
+    ]
+  },
+  {
+    "index": 7612,
+    "current_term": "LE CONGRES",
+    "source_headword": "LE CONGRESS",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "704"
+    ]
+  },
+  {
+    "index": 7672,
+    "current_term": "LEGITIMACY",
+    "source_headword": "LEGITIMAOY",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "710"
+    ]
+  },
+  {
+    "index": 7693,
+    "current_term": "LEONINA SOCIETAS",
+    "source_headword": "LEONINA SOOCIETAS",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "711"
+    ]
+  },
+  {
+    "index": 7767,
+    "current_term": "LIBRATA TERRA",
+    "source_headword": "LIBRATA TERRZ",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "723"
+    ]
+  },
+  {
+    "index": 7769,
+    "current_term": "LICENCIADO",
+    "source_headword": "LICENOIADO",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "723"
+    ]
+  },
+  {
+    "index": 7791,
+    "current_term": "LIEFTENANT",
+    "source_headword": "LIEFPTENANT",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "725"
+    ]
+  },
+  {
+    "index": 7853,
+    "current_term": "LITERA",
+    "source_headword": "LITERZ",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "731"
+    ]
+  },
+  {
+    "index": 7900,
+    "current_term": "LOCUPLES",
+    "source_headword": "LOOUPLES",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "735"
+    ]
+  },
+  {
+    "index": 7933,
+    "current_term": "LOURCURDUS",
+    "source_headword": "LOUROURDUS",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "740"
+    ]
+  },
+  {
+    "index": 7948,
+    "current_term": "LUCRATIVA USUCAPIO",
+    "source_headword": "LUCRATIVA USUOAPIO",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "740"
+    ]
+  },
+  {
+    "index": 7970,
+    "current_term": "LYCH-GATE",
+    "source_headword": "LYOH-GATE",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "742"
+    ]
+  },
+  {
+    "index": 7987,
+    "current_term": "MA",
+    "source_headword": "M",
+    "match_score": 3.0,
+    "confidence": 0.9,
+    "source_pages": [
+      "743"
+    ]
+  },
+  {
+    "index": 7995,
+    "current_term": "MACTATOR",
+    "source_headword": "MAOTATOR",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "743"
+    ]
+  },
+  {
+    "index": 8106,
+    "current_term": "MANCIPATIO",
+    "source_headword": "MANOIPATIO",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "753"
+    ]
+  },
+  {
+    "index": 8139,
+    "current_term": "MANRENT",
+    "source_headword": "MANREN'T",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "756"
+    ]
+  },
+  {
+    "index": 8160,
+    "current_term": "MANUMISSION",
+    "source_headword": "MANDMISSION",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "757"
+    ]
+  },
+  {
+    "index": 8177,
+    "current_term": "MARCA",
+    "source_headword": "MAROA",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "758"
+    ]
+  },
+  {
+    "index": 8179,
+    "current_term": "MARCH",
+    "source_headword": "MAROH",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "758"
+    ]
+  },
+  {
+    "index": 8181,
+    "current_term": "MARCHERS",
+    "source_headword": "MAROHERS",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "758"
+    ]
+  },
+  {
+    "index": 8183,
+    "current_term": "MARCHETA",
+    "source_headword": "MAROCHETA",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "758"
+    ]
+  },
+  {
+    "index": 8202,
+    "current_term": "MARITIMA ANGLIAE",
+    "source_headword": "MARITIMA ANGLIZ",
+    "match_score": 3.0,
+    "confidence": 0.9,
+    "source_pages": [
+      "760"
+    ]
+  },
+  {
+    "index": 8301,
+    "current_term": "MEDITATIO FUGI",
+    "source_headword": "MEDITATIO FUGZ",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "769"
+    ]
+  },
+  {
+    "index": 8307,
+    "current_term": "MEDSCEAT",
+    "source_headword": "MEDSOCEAT",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "769"
+    ]
+  },
+  {
+    "index": 8366,
+    "current_term": "MERCHANT",
+    "source_headword": "MEROHANT",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "773"
+    ]
+  },
+  {
+    "index": 8369,
+    "current_term": "MERCHET",
+    "source_headword": "MEROHET",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "773"
+    ]
+  },
+  {
+    "index": 8371,
+    "current_term": "MERCIMONIA",
+    "source_headword": "MEROCIMONIA",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "773"
+    ]
+  },
+  {
+    "index": 8373,
+    "current_term": "MERCIMONIATUS ANGLIAE",
+    "source_headword": "MERCIMONIATUS ANGLIZ",
+    "match_score": 3.0,
+    "confidence": 0.9,
+    "source_pages": [
+      "773",
+      "774"
+    ]
+  },
+  {
+    "index": 8375,
+    "current_term": "MERCY",
+    "source_headword": "MEROY",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "774"
+    ]
+  },
+  {
+    "index": 8379,
+    "current_term": "MERETRICIOUS",
+    "source_headword": "MERETRIOCIOUS",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "774"
+    ]
+  },
+  {
+    "index": 8489,
+    "current_term": "MISCHIEF",
+    "source_headword": "MISOHIEF",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "783"
+    ]
+  },
+  {
+    "index": 8514,
+    "current_term": "MISRECITAL",
+    "source_headword": "MISREOCITAL",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "784"
+    ]
+  },
+  {
+    "index": 8516,
+    "current_term": "MISSAL",
+    "source_headword": "MISSA",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "785"
+    ]
+  },
+  {
+    "index": 8517,
+    "current_term": "MISSI PRESBYTER",
+    "source_headword": "MISSZ PRESBYTER",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "785"
+    ]
+  },
+  {
+    "index": 8521,
+    "current_term": "MISSTAICUS",
+    "source_headword": "MISSTAIOUS",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "785"
+    ]
+  },
+  {
+    "index": 8526,
+    "current_term": "MISTRIAL",
+    "source_headword": "MIOISTRIAL",
+    "match_score": 3.0,
+    "confidence": 0.9,
+    "source_pages": [
+      "785"
+    ]
+  },
+  {
+    "index": 8541,
+    "current_term": "MOCKADOES",
+    "source_headword": "MOOCKADOES",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "786"
+    ]
+  },
+  {
+    "index": 8581,
+    "current_term": "MONOCRACY",
+    "source_headword": "MONOOCRACY",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "790"
+    ]
+  },
+  {
+    "index": 8586,
+    "current_term": "MONOMACHY",
+    "source_headword": "MONOMAOHY",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "790"
+    ]
+  },
+  {
+    "index": 8598,
+    "current_term": "MOOKTAR",
+    "source_headword": "MOOEKTAR",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "791"
+    ]
+  },
+  {
+    "index": 8628,
+    "current_term": "MORTHLAG",
+    "source_headword": "MORTHLAGB",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "794"
+    ]
+  },
+  {
+    "index": 8637,
+    "current_term": "MOSTRENCOS",
+    "source_headword": "MOSTRENOCOS",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "795"
+    ]
+  },
+  {
+    "index": 8658,
+    "current_term": "MULCT",
+    "source_headword": "MULOT",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "796"
+    ]
+  },
+  {
+    "index": 8666,
+    "current_term": "MULTIPLICITY",
+    "source_headword": "MULTIPLIOITY",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "797"
+    ]
+  },
+  {
+    "index": 8678,
+    "current_term": "MUNICIPAL",
+    "source_headword": "MUNIOIPAL",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "798"
+    ]
+  },
+  {
+    "index": 8680,
+    "current_term": "MUNICIPIUM",
+    "source_headword": "MUNIOIPIUM",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "798"
+    ]
+  },
+  {
+    "index": 8727,
+    "current_term": "N.M",
+    "source_headword": "NAM",
+    "match_score": 3.0,
+    "confidence": 0.9,
+    "source_pages": [
+      "325"
+    ]
+  },
+  {
+    "index": 8728,
+    "current_term": "N.P",
+    "source_headword": "N.Y",
+    "match_score": 3.0,
+    "confidence": 0.9,
+    "source_pages": [
+      "486",
+      "487"
+    ]
+  },
+  {
+    "index": 8731,
+    "current_term": "N.W",
+    "source_headword": "NW",
+    "match_score": 4.5,
+    "confidence": 0.95,
+    "source_pages": [
+      "802"
+    ]
+  },
+  {
+    "index": 8752,
+    "current_term": "NASOITURUS",
+    "source_headword": "NASCITURUS",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "803"
+    ]
+  },
+  {
+    "index": 8785,
+    "current_term": "NAVARCHUS",
+    "source_headword": "NAVAROHUS",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "806"
+    ]
+  },
+  {
+    "index": 8799,
+    "current_term": "NE REOPIATUR",
+    "source_headword": "NE REOCIPIATUR",
+    "match_score": 3.0,
+    "confidence": 0.9,
+    "source_pages": [
+      "807"
+    ]
+  },
+  {
+    "index": 8800,
+    "current_term": "NE UNQUES ACOUPLE",
+    "source_headword": "NE UNQUES ACCOUPLE",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "807"
+    ]
+  },
+  {
+    "index": 8819,
+    "current_term": "NECROPSY",
+    "source_headword": "NEOROPSY",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "809"
+    ]
+  },
+  {
+    "index": 8824,
+    "current_term": "NEGLECT",
+    "source_headword": "NEGLEOT",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "810"
+    ]
+  },
+  {
+    "index": 8866,
+    "current_term": "NICHILLS",
+    "source_headword": "NWICHILLS",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "817"
+    ]
+  },
+  {
+    "index": 8878,
+    "current_term": "NIHILIST",
+    "source_headword": "NIHMILIST",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "819"
+    ]
+  },
+  {
+    "index": 8885,
+    "current_term": "NO FUNDS",
+    "source_headword": "NWO FUNDS",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "820"
+    ]
+  },
+  {
+    "index": 8891,
+    "current_term": "NOCUMENTUM",
+    "source_headword": "NOOCUMENTUM",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "820"
+    ]
+  },
+  {
+    "index": 8916,
+    "current_term": "NON-ACT",
+    "source_headword": "NON-AOT",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "822"
+    ]
+  },
+  {
+    "index": 8918,
+    "current_term": "NON-AGE",
+    "source_headword": "NWON-AGE",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "822"
+    ]
+  },
+  {
+    "index": 8920,
+    "current_term": "NON-APPEARANCE",
+    "source_headword": "NON-APPEARANOCE",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "822"
+    ]
+  },
+  {
+    "index": 8986,
+    "current_term": "NOVAE NARRATIONES",
+    "source_headword": "NOVZ NARRATIONES",
+    "match_score": 3.0,
+    "confidence": 0.9,
+    "source_pages": [
+      "833"
+    ]
+  },
+  {
+    "index": 8992,
+    "current_term": "NOVELLAE LEONIS",
+    "source_headword": "NOVELLZ LEONIS",
+    "match_score": 3.0,
+    "confidence": 0.9,
+    "source_pages": [
+      "833",
+      "834"
+    ]
+  },
+  {
+    "index": 9030,
+    "current_term": "NUNCUPARE",
+    "source_headword": "NUNOUPARE",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "838"
+    ]
+  },
+  {
+    "index": 9032,
+    "current_term": "NUNCUPATIVE WILL",
+    "source_headword": "NUNOCUPATIVE WILL",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "838"
+    ]
+  },
+  {
+    "index": 9041,
+    "current_term": "NUS",
+    "source_headword": "N.S",
+    "match_score": 3.0,
+    "confidence": 0.9,
+    "source_pages": [
+      "1288"
+    ]
+  },
+  {
+    "index": 9043,
+    "current_term": "NW",
+    "source_headword": "N",
+    "match_score": 3.0,
+    "confidence": 0.9,
+    "source_pages": [
+      "1288"
+    ]
+  },
+  {
+    "index": 9051,
+    "current_term": "O.R",
+    "source_headword": "OUR",
+    "match_score": 3.0,
+    "confidence": 0.9,
+    "source_pages": [
+      "306"
+    ]
+  },
+  {
+    "index": 9059,
+    "current_term": "OBJECTION",
+    "source_headword": "OBJEOTION",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "841"
+    ]
+  },
+  {
+    "index": 9087,
+    "current_term": "OBSTA PRINCIPIS",
+    "source_headword": "OBSTA PRINOCIPIIS",
+    "match_score": 3.0,
+    "confidence": 0.9,
+    "source_pages": [
+      "845"
+    ]
+  },
+  {
+    "index": 9100,
+    "current_term": "OCCASIO",
+    "source_headword": "OOCCASIO",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "845"
+    ]
+  },
+  {
+    "index": 9108,
+    "current_term": "OCCUPATIVE",
+    "source_headword": "OCCUPATIVS",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "846"
+    ]
+  },
+  {
+    "index": 9118,
+    "current_term": "OCTROI",
+    "source_headword": "OOTROI",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "847"
+    ]
+  },
+  {
+    "index": 9316,
+    "current_term": "OXFILD",
+    "source_headword": "OXEILD",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "866"
+    ]
+  },
+  {
+    "index": 9341,
+    "current_term": "PACIFICATION",
+    "source_headword": "PACIFIGATION",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "867"
+    ]
+  },
+  {
+    "index": 9408,
+    "current_term": "PARCELLA TERR",
+    "source_headword": "PARCELLA TERRZ",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "872"
+    ]
+  },
+  {
+    "index": 9413,
+    "current_term": "PARCO FRAOCTO",
+    "source_headword": "PARCO FRACTO",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "872"
+    ]
+  },
+  {
+    "index": 9462,
+    "current_term": "PARTICULA",
+    "source_headword": "PARTIOULA",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "875"
+    ]
+  },
+  {
+    "index": 9481,
+    "current_term": "PASCUAGE",
+    "source_headword": "PASOCUAGE",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "879"
+    ]
+  },
+  {
+    "index": 9517,
+    "current_term": "PATRICIUS",
+    "source_headword": "PATRIOCIUS",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "882"
+    ]
+  },
+  {
+    "index": 9536,
+    "current_term": "PAWNBROKER",
+    "source_headword": "PAWNBEROKER",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "883"
+    ]
+  },
+  {
+    "index": 9586,
+    "current_term": "PELLIOCIA",
+    "source_headword": "PELLICIA",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "886"
+    ]
+  },
+  {
+    "index": 9595,
+    "current_term": "PENDENOY",
+    "source_headword": "PENDENCY",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "887"
+    ]
+  },
+  {
+    "index": 9630,
+    "current_term": "PERFECT",
+    "source_headword": "PERFEOT",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "892"
+    ]
+  },
+  {
+    "index": 9656,
+    "current_term": "PERNANCY",
+    "source_headword": "PERNANOY",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "894"
+    ]
+  },
+  {
+    "index": 9682,
+    "current_term": "PERTENENCIA",
+    "source_headword": "PERTENENOIA",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "896"
+    ]
+  },
+  {
+    "index": 9684,
+    "current_term": "PERTICATA TERRAE",
+    "source_headword": "PERTICATA TERRZ",
+    "match_score": 3.0,
+    "confidence": 0.9,
+    "source_pages": [
+      "896"
+    ]
+  },
+  {
+    "index": 9769,
+    "current_term": "PITHIATISM",
+    "source_headword": "PITHATISM",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "900"
+    ]
+  },
+  {
+    "index": 9778,
+    "current_term": "PLACITA",
+    "source_headword": "PLAOITA",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "901"
+    ]
+  },
+  {
+    "index": 9779,
+    "current_term": "PLACITABILE",
+    "source_headword": "PLAOCITABILE",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "901"
+    ]
+  },
+  {
+    "index": 9788,
+    "current_term": "PLAIN",
+    "source_headword": "PLAINT",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "902"
+    ]
+  },
+  {
+    "index": 9808,
+    "current_term": "PLEBISCITUM",
+    "source_headword": "PLEBISOITUM",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "905"
+    ]
+  },
+  {
+    "index": 9854,
+    "current_term": "POENITENTIA",
+    "source_headword": "PCENITENTIA",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "908"
+    ]
+  },
+  {
+    "index": 9869,
+    "current_term": "POLLICITATION",
+    "source_headword": "POLLIOITATION",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "911"
+    ]
+  },
+  {
+    "index": 9875,
+    "current_term": "POLYGARCHY",
+    "source_headword": "POLYGAROCHY",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "912"
+    ]
+  },
+  {
+    "index": 9895,
+    "current_term": "PORCION",
+    "source_headword": "POROION",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "913",
+      "914"
+    ]
+  },
+  {
+    "index": 9898,
+    "current_term": "PORRECTING",
+    "source_headword": "PORREOTING",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "914"
+    ]
+  },
+  {
+    "index": 9900,
+    "current_term": "PORTATICA",
+    "source_headword": "PORTATIOA",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "914"
+    ]
+  },
+  {
+    "index": 9926,
+    "current_term": "POST-ACT",
+    "source_headword": "POST-AOT",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "918"
+    ]
+  },
+  {
+    "index": 9979,
+    "current_term": "PRACTICKS",
+    "source_headword": "PRAOCTICKS",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "924"
+    ]
+  },
+  {
+    "index": 9982,
+    "current_term": "PRAECEPTORES",
+    "source_headword": "PRZECEPTORES",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "924"
+    ]
+  },
+  {
+    "index": 9984,
+    "current_term": "PRAECIPITIUM",
+    "source_headword": "PRZEOCIPITIUM",
+    "match_score": 3.0,
+    "confidence": 0.9,
+    "source_pages": [
+      "924"
+    ]
+  },
+  {
+    "index": 9987,
+    "current_term": "PRAECOGNITA",
+    "source_headword": "PRZECOGNITA",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "924"
+    ]
+  },
+  {
+    "index": 9988,
+    "current_term": "PRAEDIA",
+    "source_headword": "PRZEDIA",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "924",
+      "925"
+    ]
+  },
+  {
+    "index": 9990,
+    "current_term": "PRAEDICTUS",
+    "source_headword": "PRZAEDIOCTUS",
+    "match_score": 3.0,
+    "confidence": 0.9,
+    "source_pages": [
+      "925"
+    ]
+  },
+  {
+    "index": 9991,
+    "current_term": "PRAEDIUM",
+    "source_headword": "PRZEDIUM",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "925"
+    ]
+  },
+  {
+    "index": 9994,
+    "current_term": "PRAEIURAMENTUM",
+    "source_headword": "PRZEJIURAMENTUM",
+    "match_score": 3.0,
+    "confidence": 0.9,
+    "source_pages": [
+      "925"
+    ]
+  },
+  {
+    "index": 9995,
+    "current_term": "PRAELEGATUM",
+    "source_headword": "PRZELEGATUM",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "925"
+    ]
+  },
+  {
+    "index": 9997,
+    "current_term": "PRAEPOSITUS",
+    "source_headword": "PRZEPOSITUS",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "926"
+    ]
+  },
+  {
+    "index": 9999,
+    "current_term": "PRAESCRIPTIONES",
+    "source_headword": "PRZAESCRIPTIONES",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "926"
+    ]
+  },
+  {
+    "index": 10000,
+    "current_term": "PRAESES",
+    "source_headword": "PRZESES",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "926"
+    ]
+  },
+  {
+    "index": 10001,
+    "current_term": "PRAESTARE",
+    "source_headword": "PRAZSTARE",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "926"
+    ]
+  },
+  {
+    "index": 10002,
+    "current_term": "PRAESUMPTIO",
+    "source_headword": "PRZAESUMPTIO",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "926",
+      "927"
+    ]
+  },
+  {
+    "index": 10004,
+    "current_term": "PRAETEXTUS",
+    "source_headword": "PRZETEXTUS",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "927"
+    ]
+  },
+  {
+    "index": 10005,
+    "current_term": "PRAETOR",
+    "source_headword": "PRZETOR",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "927"
+    ]
+  },
+  {
+    "index": 10035,
+    "current_term": "PRECINOT",
+    "source_headword": "PREOCINOT",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "929"
+    ]
+  },
+  {
+    "index": 10037,
+    "current_term": "PRECIPUT",
+    "source_headword": "PREOCIPUT",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "929"
+    ]
+  },
+  {
+    "index": 10042,
+    "current_term": "PRECONTRAOT",
+    "source_headword": "PRECONTRAOCT",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "929"
+    ]
+  },
+  {
+    "index": 10073,
+    "current_term": "PRESENOE",
+    "source_headword": "PRESENCE",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "933"
+    ]
+  },
+  {
+    "index": 10193,
+    "current_term": "PROCINCTUS",
+    "source_headword": "PROCINOCTUS",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "949"
+    ]
+  },
+  {
+    "index": 10199,
+    "current_term": "PROCURACY",
+    "source_headword": "PROOCURAOCY",
+    "match_score": 3.0,
+    "confidence": 0.9,
+    "source_pages": [
+      "950"
+    ]
+  },
+  {
+    "index": 10233,
+    "current_term": "PROHIBITIO",
+    "source_headword": "PROHIBITION",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "953"
+    ]
+  },
+  {
+    "index": 10258,
+    "current_term": "PRONUNOIATION",
+    "source_headword": "PRONUNCIATION",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "955"
+    ]
+  },
+  {
+    "index": 10291,
+    "current_term": "PRORATE",
+    "source_headword": "PRORATEB",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "958"
+    ]
+  },
+  {
+    "index": 10311,
+    "current_term": "PROTECTION",
+    "source_headword": "PROTEOTION",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "959"
+    ]
+  },
+  {
+    "index": 10332,
+    "current_term": "PROVINCIALIS",
+    "source_headword": "PROVINOCIALIS",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "961"
+    ]
+  },
+  {
+    "index": 10349,
+    "current_term": "PRUDENCE",
+    "source_headword": "PRUDENOE",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "963"
+    ]
+  },
+  {
+    "index": 10352,
+    "current_term": "PSEUDOOYESIS",
+    "source_headword": "PSEUDOCYESIS",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "963"
+    ]
+  },
+  {
+    "index": 10358,
+    "current_term": "PUBLIC",
+    "source_headword": "PUBLIO",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "964"
+    ]
+  },
+  {
+    "index": 10359,
+    "current_term": "PUBLICANUS",
+    "source_headword": "PUBLIOANUS",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "964"
+    ]
+  },
+  {
+    "index": 10423,
+    "current_term": "PYROMANTIA",
+    "source_headword": "PYROMANIA",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "969",
+      "970"
+    ]
+  },
+  {
+    "index": 10427,
+    "current_term": "QU",
+    "source_headword": "QUI",
+    "match_score": 3.0,
+    "confidence": 0.9,
+    "source_pages": [
+      "959"
+    ]
+  },
+  {
+    "index": 10437,
+    "current_term": "QUADRANTATA TERRAE",
+    "source_headword": "QUADRANTATA TERRZ",
+    "match_score": 3.0,
+    "confidence": 0.9,
+    "source_pages": [
+      "970"
+    ]
+  },
+  {
+    "index": 10448,
+    "current_term": "QUAESTA",
+    "source_headword": "QUZESTA",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "972"
+    ]
+  },
+  {
+    "index": 10452,
+    "current_term": "QUAESTOR",
+    "source_headword": "QUZESTOR",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "972"
+    ]
+  },
+  {
+    "index": 10453,
+    "current_term": "QUAESTUS",
+    "source_headword": "QUZESTUS",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "972"
+    ]
+  },
+  {
+    "index": 10473,
+    "current_term": "QUARENTENA TERRA",
+    "source_headword": "QUARENTENA TERRZ",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "976"
+    ]
+  },
+  {
+    "index": 10508,
+    "current_term": "QUIA ERRONEE EMANAVIT",
+    "source_headword": "QUIA ERRONICE EMANAVIT",
+    "match_score": 3.0,
+    "confidence": 0.9,
+    "source_pages": [
+      "981"
+    ]
+  },
+  {
+    "index": 10512,
+    "current_term": "QUICKENING",
+    "source_headword": "QUIOKENING",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "981"
+    ]
+  },
+  {
+    "index": 10515,
+    "current_term": "QUID PRO QUO",
+    "source_headword": "QUID PEO QUO",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "981"
+    ]
+  },
+  {
+    "index": 10555,
+    "current_term": "R A",
+    "source_headword": "R.A",
+    "match_score": 3.0,
+    "confidence": 0.9,
+    "source_pages": [
+      "193"
+    ]
+  },
+  {
+    "index": 10556,
+    "current_term": "R.&",
+    "source_headword": "R.A",
+    "match_score": 3.0,
+    "confidence": 0.9,
+    "source_pages": [
+      "199"
+    ]
+  },
+  {
+    "index": 10559,
+    "current_term": "R.C",
+    "source_headword": "R.A",
+    "match_score": 3.0,
+    "confidence": 0.9,
+    "source_pages": [
+      "235"
+    ]
+  },
+  {
+    "index": 10560,
+    "current_term": "R.G",
+    "source_headword": "R.A",
+    "match_score": 3.0,
+    "confidence": 0.9,
+    "source_pages": [
+      "296"
+    ]
+  },
+  {
+    "index": 10563,
+    "current_term": "R.L",
+    "source_headword": "R.A",
+    "match_score": 3.0,
+    "confidence": 0.9,
+    "source_pages": [
+      "691"
+    ]
+  },
+  {
+    "index": 10564,
+    "current_term": "R.M",
+    "source_headword": "R.A",
+    "match_score": 3.0,
+    "confidence": 0.9,
+    "source_pages": [
+      "963"
+    ]
+  },
+  {
+    "index": 10565,
+    "current_term": "R.P",
+    "source_headword": "R.A",
+    "match_score": 3.0,
+    "confidence": 0.9,
+    "source_pages": [
+      "966"
+    ]
+  },
+  {
+    "index": 10698,
+    "current_term": "RECONSTRUCTION",
+    "source_headword": "RECONSTRUOTION",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "998"
+    ]
+  },
+  {
+    "index": 10741,
+    "current_term": "REDDITARIUM",
+    "source_headword": "REDDITARIUS",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1003"
+    ]
+  },
+  {
+    "index": 10742,
+    "current_term": "REDDITARIUS",
+    "source_headword": "REDDITARIUM",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1003"
+    ]
+  },
+  {
+    "index": 10767,
+    "current_term": "REDUCTION",
+    "source_headword": "REDUOTION",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1004"
+    ]
+  },
+  {
+    "index": 10854,
+    "current_term": "RELICTION",
+    "source_headword": "RELIOTION",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1012"
+    ]
+  },
+  {
+    "index": 10887,
+    "current_term": "REMONSTRAWNCE",
+    "source_headword": "REMONSTRANCE",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1015"
+    ]
+  },
+  {
+    "index": 10909,
+    "current_term": "RENUNCIATION",
+    "source_headword": "RENUNOIATION",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1017"
+    ]
+  },
+  {
+    "index": 10937,
+    "current_term": "REPLICARE",
+    "source_headword": "REPLIOARE",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1019"
+    ]
+  },
+  {
+    "index": 10973,
+    "current_term": "RESCISSIO",
+    "source_headword": "RESOISSIO",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1025"
+    ]
+  },
+  {
+    "index": 10978,
+    "current_term": "RESCRIPTUM",
+    "source_headword": "RESORIPTUM",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1025"
+    ]
+  },
+  {
+    "index": 10979,
+    "current_term": "RESCYT",
+    "source_headword": "RESOYT",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1025"
+    ]
+  },
+  {
+    "index": 11004,
+    "current_term": "RESPECTUS",
+    "source_headword": "RESPEOTUS",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1028"
+    ]
+  },
+  {
+    "index": 11050,
+    "current_term": "RETRAIT",
+    "source_headword": "RETRAOT",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1032"
+    ]
+  },
+  {
+    "index": 11051,
+    "current_term": "RETRAOT",
+    "source_headword": "RETRAIT",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1032"
+    ]
+  },
+  {
+    "index": 11058,
+    "current_term": "RETROSPECTIVE",
+    "source_headword": "RETROSPEOTIVE",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1032",
+      "1033"
+    ]
+  },
+  {
+    "index": 11112,
+    "current_term": "RIFLETUM",
+    "source_headword": "RIELETUM",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1037"
+    ]
+  },
+  {
+    "index": 11118,
+    "current_term": "RIGHT IN ACTION",
+    "source_headword": "RIGHT IN AOTION",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1039"
+    ]
+  },
+  {
+    "index": 11219,
+    "current_term": "RUNNING ACCOUNT",
+    "source_headword": "RUNNING ACOOUNT",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1048"
+    ]
+  },
+  {
+    "index": 11248,
+    "current_term": "S.E",
+    "source_headword": "SE",
+    "match_score": 4.5,
+    "confidence": 0.95,
+    "source_pages": [
+      "589"
+    ]
+  },
+  {
+    "index": 11249,
+    "current_term": "S.R",
+    "source_headword": "S.D",
+    "match_score": 3.0,
+    "confidence": 0.9,
+    "source_pages": [
+      "1050"
+    ]
+  },
+  {
+    "index": 11256,
+    "current_term": "SAC",
+    "source_headword": "SAO",
+    "match_score": 3.0,
+    "confidence": 0.9,
+    "source_pages": [
+      "1050"
+    ]
+  },
+  {
+    "index": 11269,
+    "current_term": "SAFE-CONDUCT",
+    "source_headword": "SAFE-CONDUOT",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1051"
+    ]
+  },
+  {
+    "index": 11301,
+    "current_term": "SALVIAN INTERDICT",
+    "source_headword": "SALVIAN INTERDIOT",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1055"
+    ]
+  },
+  {
+    "index": 11307,
+    "current_term": "SANCTIO",
+    "source_headword": "SANOTIO",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1055"
+    ]
+  },
+  {
+    "index": 11369,
+    "current_term": "SCHIREMAN",
+    "source_headword": "SOHIREMAN",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1058"
+    ]
+  },
+  {
+    "index": 11375,
+    "current_term": "SCI",
+    "source_headword": "SOI",
+    "match_score": 3.0,
+    "confidence": 0.9,
+    "source_pages": [
+      "1059"
+    ]
+  },
+  {
+    "index": 11380,
+    "current_term": "SCINTILLA",
+    "source_headword": "SOINTILLA",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1059"
+    ]
+  },
+  {
+    "index": 11404,
+    "current_term": "SCUTAGIO HABENDO",
+    "source_headword": "SOUTAGIO HABENDO",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1062"
+    ]
+  },
+  {
+    "index": 11405,
+    "current_term": "SCUTE",
+    "source_headword": "SOUTE",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1062"
+    ]
+  },
+  {
+    "index": 11406,
+    "current_term": "SCUTIFER",
+    "source_headword": "SOCUTIFER",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1062"
+    ]
+  },
+  {
+    "index": 11407,
+    "current_term": "SCYRA",
+    "source_headword": "SOYRA",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1062"
+    ]
+  },
+  {
+    "index": 11408,
+    "current_term": "SCYREGEMOTE",
+    "source_headword": "SOYREGEMOTE",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1062"
+    ]
+  },
+  {
+    "index": 11437,
+    "current_term": "SECURED CREDITOR",
+    "source_headword": "SECURED OREDITOR",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1066"
+    ]
+  },
+  {
+    "index": 11442,
+    "current_term": "SECUS",
+    "source_headword": "SEOCUS",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1066"
+    ]
+  },
+  {
+    "index": 11446,
+    "current_term": "SED QUARE",
+    "source_headword": "SED QUZRE",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1066"
+    ]
+  },
+  {
+    "index": 11461,
+    "current_term": "SEDUCTION",
+    "source_headword": "SEDUOTION",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1067"
+    ]
+  },
+  {
+    "index": 11472,
+    "current_term": "SEISIN",
+    "source_headword": "SEISEN",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1068"
+    ]
+  },
+  {
+    "index": 11474,
+    "current_term": "SEIZING",
+    "source_headword": "SEIZIN",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1068"
+    ]
+  },
+  {
+    "index": 11479,
+    "current_term": "SELECT COUNCIL",
+    "source_headword": "SELECT COUNOIL",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1069"
+    ]
+  },
+  {
+    "index": 11502,
+    "current_term": "SENECTUS",
+    "source_headword": "SENEOTUS",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1071"
+    ]
+  },
+  {
+    "index": 11506,
+    "current_term": "SENEUCIA",
+    "source_headword": "SENEUOIA",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1071"
+    ]
+  },
+  {
+    "index": 11528,
+    "current_term": "SEPULCHRE",
+    "source_headword": "SEPULOCHRE",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1073"
+    ]
+  },
+  {
+    "index": 11567,
+    "current_term": "SERVITOR",
+    "source_headword": "SEBRVITOR",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1077"
+    ]
+  },
+  {
+    "index": 11573,
+    "current_term": "SESSION",
+    "source_headword": "SESSIO",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1078"
+    ]
+  },
+  {
+    "index": 11574,
+    "current_term": "SESSIONS",
+    "source_headword": "SESSION",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1078",
+      "1079"
+    ]
+  },
+  {
+    "index": 11627,
+    "current_term": "SHERIFFWICK",
+    "source_headword": "SHERIEFFWICK",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1083"
+    ]
+  },
+  {
+    "index": 11655,
+    "current_term": "SIB",
+    "source_headword": "SIIB",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1087"
+    ]
+  },
+  {
+    "index": 11765,
+    "current_term": "SOCIALISM",
+    "source_headword": "SOOIALISM",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1094"
+    ]
+  },
+  {
+    "index": 11766,
+    "current_term": "SOCIEDAD",
+    "source_headword": "SOOCIEDAD",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1094"
+    ]
+  },
+  {
+    "index": 11768,
+    "current_term": "SOCOME",
+    "source_headword": "SOOOME",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1094"
+    ]
+  },
+  {
+    "index": 11897,
+    "current_term": "SOUL SCOT",
+    "source_headword": "SOUL SOOT",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1098"
+    ]
+  },
+  {
+    "index": 12110,
+    "current_term": "SUBJECT",
+    "source_headword": "SUBJEOT",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1115"
+    ]
+  },
+  {
+    "index": 12131,
+    "current_term": "SUBSCRIPTIO",
+    "source_headword": "SUBSOCRIPTIO",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1117"
+    ]
+  },
+  {
+    "index": 12145,
+    "current_term": "SUBSTITUTIO HAEREDIS",
+    "source_headword": "SUBSTITUTIO HZREDIS",
+    "match_score": 3.0,
+    "confidence": 0.9,
+    "source_pages": [
+      "1118"
+    ]
+  },
+  {
+    "index": 12148,
+    "current_term": "SUBSTRACTION",
+    "source_headword": "SUBSTRAOCTION",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1118"
+    ]
+  },
+  {
+    "index": 12151,
+    "current_term": "SUBURBANTI",
+    "source_headword": "SUBURBANI",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1118"
+    ]
+  },
+  {
+    "index": 12165,
+    "current_term": "SUFFERENTIA PACIS",
+    "source_headword": "SUFFERENTIA PAOIS",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1120"
+    ]
+  },
+  {
+    "index": 12208,
+    "current_term": "SUPERINDUCTIO",
+    "source_headword": "SUPERINDUOTIO",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1123"
+    ]
+  },
+  {
+    "index": 12213,
+    "current_term": "SUPERNUMERARII",
+    "source_headword": "SUPERNUMERARIT",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1124"
+    ]
+  },
+  {
+    "index": 12278,
+    "current_term": "SUUM CUIIQUE TRIBUERE",
+    "source_headword": "SUUM OUIQUE TRIBUERE",
+    "match_score": 3.0,
+    "confidence": 0.9,
+    "source_pages": [
+      "1130"
+    ]
+  },
+  {
+    "index": 12293,
+    "current_term": "SWIET WITNESS",
+    "source_headword": "SWIFT WITNESS",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1130"
+    ]
+  },
+  {
+    "index": 12299,
+    "current_term": "SWORN CLERKS IN CHANCERY",
+    "source_headword": "SWORN CLERKS IN OCHANCERY",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1130"
+    ]
+  },
+  {
+    "index": 12304,
+    "current_term": "SYMBOLAEOGRAPHY",
+    "source_headword": "SYMBOLZOGRAPHY",
+    "match_score": 3.0,
+    "confidence": 0.9,
+    "source_pages": [
+      "1131"
+    ]
+  },
+  {
+    "index": 12310,
+    "current_term": "SYNDIC",
+    "source_headword": "SYNDIOC",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1131"
+    ]
+  },
+  {
+    "index": 12318,
+    "current_term": "T",
+    "source_headword": "TI",
+    "match_score": 3.0,
+    "confidence": 0.9,
+    "source_pages": [
+      "29"
+    ]
+  },
+  {
+    "index": 12323,
+    "current_term": "T)",
+    "source_headword": "TE",
+    "match_score": 3.0,
+    "confidence": 0.9,
+    "source_pages": [
+      "330"
+    ]
+  },
+  {
+    "index": 12329,
+    "current_term": "T.T",
+    "source_headword": "TT",
+    "match_score": 4.5,
+    "confidence": 0.95,
+    "source_pages": [
+      "377"
+    ]
+  },
+  {
+    "index": 12448,
+    "current_term": "TENCON",
+    "source_headword": "TENOON",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1143"
+    ]
+  },
+  {
+    "index": 12468,
+    "current_term": "TENSERIE",
+    "source_headword": "TENSERIZ",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1144"
+    ]
+  },
+  {
+    "index": 12476,
+    "current_term": "TERCERONE",
+    "source_headword": "TERGERONE",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1145"
+    ]
+  },
+  {
+    "index": 12505,
+    "current_term": "TESTACY",
+    "source_headword": "TESTAGY",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1148"
+    ]
+  },
+  {
+    "index": 12601,
+    "current_term": "TIEL",
+    "source_headword": "TITEL",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1155"
+    ]
+  },
+  {
+    "index": 12674,
+    "current_term": "TONODERACH",
+    "source_headword": "TONODERAOCH",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1161"
+    ]
+  },
+  {
+    "index": 12712,
+    "current_term": "TRADICION",
+    "source_headword": "TRADIOION",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1165"
+    ]
+  },
+  {
+    "index": 12724,
+    "current_term": "TRAITOROUSLY",
+    "source_headword": "TRAITOROUBLY",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1166"
+    ]
+  },
+  {
+    "index": 12729,
+    "current_term": "TRANSACTIO",
+    "source_headword": "TRANSAOTIO",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1166"
+    ]
+  },
+  {
+    "index": 12774,
+    "current_term": "TREBUCKET",
+    "source_headword": "TREBUOKET",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1171"
+    ]
+  },
+  {
+    "index": 12807,
+    "current_term": "TRIPLICACION",
+    "source_headword": "TRIPLICAOION",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1174"
+    ]
+  },
+  {
+    "index": 12808,
+    "current_term": "TRIPLICATIO",
+    "source_headword": "TRIPLIOATIO",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1174"
+    ]
+  },
+  {
+    "index": 12881,
+    "current_term": "TYROTOXICON",
+    "source_headword": "TYROTOXIOON",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1180"
+    ]
+  },
+  {
+    "index": 12885,
+    "current_term": "U",
+    "source_headword": "UM",
+    "match_score": 3.0,
+    "confidence": 0.9,
+    "source_pages": [
+      "606"
+    ]
+  },
+  {
+    "index": 12886,
+    "current_term": "U.B",
+    "source_headword": "U.S",
+    "match_score": 3.0,
+    "confidence": 0.9,
+    "source_pages": [
+      "1151"
+    ]
+  },
+  {
+    "index": 12887,
+    "current_term": "U.C",
+    "source_headword": "U.S",
+    "match_score": 3.0,
+    "confidence": 0.9,
+    "source_pages": [
+      "1155"
+    ]
+  },
+  {
+    "index": 12911,
+    "current_term": "UNASCERTAINED DUTIES",
+    "source_headword": "UNASOERTAINED DUTIES",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1183"
+    ]
+  },
+  {
+    "index": 12914,
+    "current_term": "UNCEASESATH",
+    "source_headword": "UNOCEASESATH",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1183"
+    ]
+  },
+  {
+    "index": 12917,
+    "current_term": "UNCIA",
+    "source_headword": "UNOCIA",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1183"
+    ]
+  },
+  {
+    "index": 12996,
+    "current_term": "UPPER BENCH",
+    "source_headword": "UPPER BENOH",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1188"
+    ]
+  },
+  {
+    "index": 13016,
+    "current_term": "USUFRUCT",
+    "source_headword": "USUFRUOT",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1191"
+    ]
+  },
+  {
+    "index": 13038,
+    "current_term": "UTLAGATUS",
+    "source_headword": "UTLAGATOUS",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1193"
+    ]
+  },
+  {
+    "index": 13045,
+    "current_term": "UXORICIDE",
+    "source_headword": "UXORIOIDE",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1194",
+      "1195"
+    ]
+  },
+  {
+    "index": 13056,
+    "current_term": "VACATUR",
+    "source_headword": "VAOATUR",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1195"
+    ]
+  },
+  {
+    "index": 13088,
+    "current_term": "VARIANCE",
+    "source_headword": "VARIANOE",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1197"
+    ]
+  },
+  {
+    "index": 13091,
+    "current_term": "VASECTOMY",
+    "source_headword": "VASEOTOMY",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1197"
+    ]
+  },
+  {
+    "index": 13104,
+    "current_term": "VECTURA",
+    "source_headword": "VEOTURA",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1198"
+    ]
+  },
+  {
+    "index": 13105,
+    "current_term": "VEHICLE",
+    "source_headword": "VEHIOLE",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1198"
+    ]
+  },
+  {
+    "index": 13121,
+    "current_term": "VENDITION",
+    "source_headword": "VENDITIO",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1198"
+    ]
+  },
+  {
+    "index": 13122,
+    "current_term": "VENDITIONI",
+    "source_headword": "VENDITION",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1198"
+    ]
+  },
+  {
+    "index": 13132,
+    "current_term": "VENIRE FACIAS",
+    "source_headword": "VWENIRE FAOIAS",
+    "match_score": 3.0,
+    "confidence": 0.9,
+    "source_pages": [
+      "1199"
+    ]
+  },
+  {
+    "index": 13144,
+    "current_term": "VERDICT",
+    "source_headword": "VERDIOT",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1202"
+    ]
+  },
+  {
+    "index": 13146,
+    "current_term": "VEREDICTUM",
+    "source_headword": "VEREDIOTUM",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1202"
+    ]
+  },
+  {
+    "index": 13195,
+    "current_term": "VICE-COMITIS NON MISIT BREVE",
+    "source_headword": "VICE-COMES NON MISIT BREVE",
+    "match_score": 3.0,
+    "confidence": 0.9,
+    "source_pages": [
+      "1206"
+    ]
+  },
+  {
+    "index": 13205,
+    "current_term": "VICINAGE",
+    "source_headword": "VIOINAGE",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1206"
+    ]
+  },
+  {
+    "index": 13224,
+    "current_term": "VIGIL",
+    "source_headword": "VIGIR",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1207"
+    ]
+  },
+  {
+    "index": 13262,
+    "current_term": "VIRGA",
+    "source_headword": "VIBRGA",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1209",
+      "1210"
+    ]
+  },
+  {
+    "index": 13263,
+    "current_term": "VIRGATA",
+    "source_headword": "VIRGATE",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1210"
+    ]
+  },
+  {
+    "index": 13285,
+    "current_term": "VITIUM CLERICI",
+    "source_headword": "VITIUM OCLERICI",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1211"
+    ]
+  },
+  {
+    "index": 13297,
+    "current_term": "VOCIFERATIO",
+    "source_headword": "VOOCIFERATIO",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1212"
+    ]
+  },
+  {
+    "index": 13322,
+    "current_term": "VV",
+    "source_headword": "VI",
+    "match_score": 3.0,
+    "confidence": 0.9,
+    "source_pages": []
+  },
+  {
+    "index": 13353,
+    "current_term": "WALAPAUL",
+    "source_headword": "WALAPAUZ",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1216"
+    ]
+  },
+  {
+    "index": 13358,
+    "current_term": "WALISCUS",
+    "source_headword": "WALISOUS",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1216"
+    ]
+  },
+  {
+    "index": 13375,
+    "current_term": "WARECTARE",
+    "source_headword": "WAREOTARE",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1218"
+    ]
+  },
+  {
+    "index": 13396,
+    "current_term": "WATCH",
+    "source_headword": "WATOH",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1222"
+    ]
+  },
+  {
+    "index": 13400,
+    "current_term": "WATER-MARK",
+    "source_headword": "WATER-MARKEK",
+    "match_score": 3.0,
+    "confidence": 0.9,
+    "source_pages": [
+      "1223"
+    ]
+  },
+  {
+    "index": 13418,
+    "current_term": "WEHADINC",
+    "source_headword": "WEHADING",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1224"
+    ]
+  },
+  {
+    "index": 13465,
+    "current_term": "WHITTANWARII",
+    "source_headword": "WHITTANWARIX",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1227"
+    ]
+  },
+  {
+    "index": 13483,
+    "current_term": "WILLS ACT",
+    "source_headword": "WILLS AOT",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1228"
+    ]
+  },
+  {
+    "index": 13486,
+    "current_term": "WINDING-UP",
+    "source_headword": "WINDING UP",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1228"
+    ]
+  },
+  {
+    "index": 13525,
+    "current_term": "WOOL-SACK",
+    "source_headword": "WOOL-SAOCK",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1231"
+    ]
+  },
+  {
+    "index": 13593,
+    "current_term": "X)",
+    "source_headword": "XL",
+    "match_score": 3.0,
+    "confidence": 0.9,
+    "source_pages": [
+      "691"
+    ]
+  },
+  {
+    "index": 13597,
+    "current_term": "XY",
+    "source_headword": "X",
+    "match_score": 3.0,
+    "confidence": 0.9,
+    "source_pages": [
+      "1236"
+    ]
+  },
+  {
+    "index": 13598,
+    "current_term": "Y)",
+    "source_headword": "YT",
+    "match_score": 3.0,
+    "confidence": 0.9,
+    "source_pages": [
+      "1132"
+    ]
+  },
+  {
+    "index": 13622,
+    "current_term": "YULE",
+    "source_headword": "YWULE",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "1237"
+    ]
+  },
+  {
+    "index": 13628,
+    "current_term": "ZEDILITUM EDICTUM",
+    "source_headword": "ZENILITUM EDICTUM",
+    "match_score": 3.8,
+    "confidence": 0.9,
+    "source_pages": [
+      "45"
+    ]
+  }
+]
