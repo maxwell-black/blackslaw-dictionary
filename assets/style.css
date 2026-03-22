@@ -510,3 +510,26 @@ main {
     display: none;
 }
 
+
+/* v5.2 rebuild: entry structure */
+.entry {
+  margin: 0 0 1.75rem;
+}
+
+.entry-term {
+  margin: 0 0 0.25rem;
+}
+
+.entry-meta {
+  margin: 0 0 0.5rem;
+  font-size: 0.875rem;
+  opacity: 0.75;
+}
+
+.entry-body p {
+  margin: 0 0 0.8rem;
+}
+
+.letter-heading {
+  margin: 0 0 1rem;
+}
