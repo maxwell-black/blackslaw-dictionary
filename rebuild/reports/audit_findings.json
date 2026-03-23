@@ -1,0 +1,416 @@
+{
+  "suspicious_headwords": {
+    "count": 17,
+    "severity": "medium",
+    "examples": [
+      {
+        "term": "AS AGAINST; AS BETWEEN",
+        "reasons": [
+          "embedded_punctuation"
+        ],
+        "body_preview": "These words contrast the relative position of two persons, with a tacit referenc"
+      },
+      {
+        "term": "D)",
+        "reasons": [
+          "embedded_punctuation"
+        ],
+        "body_preview": "The fourth letter of the English al-, pha bet. It is used as an abbreviation for"
+      },
+      {
+        "term": "GEANT,)",
+        "reasons": [
+          "embedded_punctuation"
+        ],
+        "body_preview": "GEANT,) while the former is preferred when the term is used to describe certain "
+      },
+      {
+        "term": "H",
+        "reasons": [
+          "single_letter",
+          "too_short"
+        ],
+        "body_preview": "This letter, as an abbreviation, stands for Henry (a king of that name) in the c"
+      },
+      {
+        "term": "I",
+        "reasons": [
+          "single_letter",
+          "too_short"
+        ],
+        "body_preview": "Fr. To drive, compel, or oblige; also to chase or hunt. @"
+      }
+    ]
+  },
+  "headword_body_boundary": {
+    "count": 159,
+    "severity": "high",
+    "examples": [
+      {
+        "term": "ABESSE",
+        "caps_in_body": "ILI",
+        "body_preview": "ILIat. In the civil law. To be absent; to be away from a place. Said of a person"
+      },
+      {
+        "term": "ADVISARE",
+        "caps_in_body": "ADVISE",
+        "body_preview": "ADVISE. To give an opinion or counsel, or recommend a plan or course of action; "
+      },
+      {
+        "term": "ANSEL",
+        "caps_in_body": "ANSUL",
+        "body_preview": "ANSUL,.or AUNCEL. In old English law. An ancient mode of weighing by hanging sca"
+      },
+      {
+        "term": "APOORISARIUS",
+        "caps_in_body": "APOCRYPHARZUS",
+        "body_preview": "APOCRYPHARZUS. In ecclesiastical law. One who answers for another. An officer wh"
+      },
+      {
+        "term": "AQUAE",
+        "caps_in_body": "AQUZ",
+        "body_preview": "AQUZ DUCTUS. In the civil law. A servitude which consists in the right to carry "
+      }
+    ]
+  },
+  "empty_or_near_empty_body": {
+    "count": 153,
+    "severity": "high",
+    "examples": [
+      {
+        "term": "ACCOMMODATION",
+        "body_length": 16,
+        "body": "See INDORSEMENT,"
+      },
+      {
+        "term": "ADMINICULATE",
+        "body_length": 13,
+        "body": "lar evidence."
+      },
+      {
+        "term": "ADMISSIONALIS",
+        "body_length": 18,
+        "body": "An usher. Spelman."
+      },
+      {
+        "term": "ADQUIETO",
+        "body_length": 16,
+        "body": "Payment. Blount."
+      },
+      {
+        "term": "ALLOCUTION",
+        "body_length": 14,
+        "body": "See ALLocuTUS."
+      }
+    ]
+  },
+  "residual_reflow": {
+    "count": 2,
+    "severity": "low",
+    "examples": [
+      {
+        "term": "COMMON",
+        "break_count": 2,
+        "samples": [
+          "The liturgy, or public form of [\\n]  a ",
+          " a  [\\n] prayer prescribed by the Churc"
+        ]
+      },
+      {
+        "term": "ESTOVERS",
+        "break_count": 1,
+        "samples": [
+          "granted to a woman divorced a  [\\n] mensa ct thoro, for her suppor"
+        ]
+      }
+    ]
+  },
+  "ocr_artifacts": {
+    "count": 285,
+    "severity": "high",
+    "examples": [
+      {
+        "term": "A AVER",
+        "issues": [
+          "digit_in_word: '2p'"
+        ],
+        "body_preview": "L. Fr. (L. Lat. habendum et tenendum.) To have and to hold. Co. Litt. §§ 523, 52"
+      },
+      {
+        "term": "A PRENDRE",
+        "issues": [
+          "contains_@"
+        ],
+        "body_preview": "L. Fr. To take. Bref é@ prendre la terre, a writ to take the land. Fet Ass. § 51"
+      },
+      {
+        "term": "AB INCONVENIENTI",
+        "issues": [
+          "digit_in_word: '6a'"
+        ],
+        "body_preview": "From hardship, or inconvenience. An argument founded upon the hardship of the ca"
+      },
+      {
+        "term": "ABATEMENT",
+        "issues": [
+          "digit_in_word: '7a'"
+        ],
+        "body_preview": "In pleading. The effect produced upon an action at law, when the defendant plead"
+      },
+      {
+        "term": "ABEYANCE",
+        "issues": [
+          "contains_@"
+        ],
+        "body_preview": "In the law of estates. Expectation; waiting; suspense; remembrance and contempla"
+      }
+    ]
+  },
+  "duplicate_near_duplicate": {
+    "count": 97,
+    "severity": "high",
+    "examples": [
+      {
+        "term_a": "ADJUDICATE",
+        "term_b": "ADJUDICATEE",
+        "similarity": 0.9524
+      },
+      {
+        "term_a": "ADJUDICATIO",
+        "term_b": "ADJUDICATION",
+        "similarity": 0.9565
+      },
+      {
+        "term_a": "ADMANUENSIS",
+        "term_b": "AMANUENSIS",
+        "similarity": 0.9524
+      },
+      {
+        "term_a": "ADMORTIZATION",
+        "term_b": "AMORTIZATION",
+        "similarity": 0.96
+      },
+      {
+        "term_a": "ADVOCATION",
+        "term_b": "ADVOCATIONE",
+        "similarity": 0.9524
+      }
+    ]
+  },
+  "source_pages_issues": {
+    "out_of_range": {
+      "count": 8,
+      "severity": "medium",
+      "examples": [
+        {
+          "term": "WITTINGLY",
+          "bad_pages": [
+            "1241"
+          ],
+          "all_pages": [
+            "1241"
+          ]
+        },
+        {
+          "term": "WOOD LEAVE",
+          "bad_pages": [
+            "1241"
+          ],
+          "all_pages": [
+            "1241"
+          ]
+        },
+        {
+          "term": "WOOD PLEA COURT",
+          "bad_pages": [
+            "1241"
+          ],
+          "all_pages": [
+            "1241"
+          ]
+        },
+        {
+          "term": "WORK-BEAST",
+          "bad_pages": [
+            "1242"
+          ],
+          "all_pages": [
+            "1242"
+          ]
+        },
+        {
+          "term": "WRIT OF SUMMONS",
+          "bad_pages": [
+            "1243"
+          ],
+          "all_pages": [
+            "1243"
+          ]
+        }
+      ]
+    },
+    "empty_array": {
+      "count": 2142,
+      "severity": "high",
+      "examples": [
+        {
+          "term": "A"
+        },
+        {
+          "term": "A AVER"
+        },
+        {
+          "term": "A CONSILHOIS"
+        },
+        {
+          "term": "A CUEILLETTE"
+        },
+        {
+          "term": "A DATU"
+        }
+      ]
+    },
+    "no_field": {
+      "count": 0,
+      "severity": "clean",
+      "examples": []
+    }
+  },
+  "unresolved_crossrefs": {
+    "count": 161,
+    "unique_missing_refs": 150,
+    "severity": "high",
+    "top_missing_refs": [
+      {
+        "ref": "LAND",
+        "occurrences": 5
+      },
+      {
+        "ref": "IN F",
+        "occurrences": 2
+      },
+      {
+        "ref": "QUO WARRANTO",
+        "occurrences": 2
+      },
+      {
+        "ref": "INGROSS",
+        "occurrences": 2
+      },
+      {
+        "ref": "BIL",
+        "occurrences": 2
+      },
+      {
+        "ref": "PEINE F",
+        "occurrences": 2
+      },
+      {
+        "ref": "COURT OF PROBATE",
+        "occurrences": 2
+      },
+      {
+        "ref": "BONA FIDE",
+        "occurrences": 2
+      },
+      {
+        "ref": "ABJURBATION",
+        "occurrences": 1
+      },
+      {
+        "ref": "FRANKALMOIGNE",
+        "occurrences": 1
+      },
+      {
+        "ref": "ALTERA",
+        "occurrences": 1
+      },
+      {
+        "ref": "JNSANITY",
+        "occurrences": 1
+      },
+      {
+        "ref": "AMI",
+        "occurrences": 1
+      },
+      {
+        "ref": "BERTILLON SYSTEM",
+        "occurrences": 1
+      },
+      {
+        "ref": "APPARENT HEIR",
+        "occurrences": 1
+      },
+      {
+        "ref": "APPRENTICE EN L",
+        "occurrences": 1
+      },
+      {
+        "ref": "APPRENTICE EN LA LEY",
+        "occurrences": 1
+      },
+      {
+        "ref": "WATERCOURSE",
+        "occurrences": 1
+      },
+      {
+        "ref": "DE O",
+        "occurrences": 1
+      },
+      {
+        "ref": "AD H",
+        "occurrences": 1
+      }
+    ],
+    "examples": [
+      {
+        "term": "ABJURE",
+        "referenced": "ABJURBATION",
+        "body_snippet": "n, by or upon oath. See ABJURBATION. \"Yhe decision of t"
+      },
+      {
+        "term": "ALMOIN",
+        "referenced": "FRANKALMOIGNE",
+        "body_snippet": " by divine service. See FRANKALMOIGNE.\n\n.- ALMOXARIFAZGO."
+      },
+      {
+        "term": "ALTER",
+        "referenced": "ALTERA",
+        "body_snippet": " 18, 41 8. BE. 259. See ALTERA-"
+      },
+      {
+        "term": "AMENTIA",
+        "referenced": "JNSANITY",
+        "body_snippet": ". Insanity; idiocy. See JNSANITY."
+      },
+      {
+        "term": "AMY",
+        "referenced": "AMI",
+        "body_snippet": "See AMI; PROCHEIN AMY."
+      }
+    ]
+  },
+  "manifest_split_consistency": {
+    "manifest_total": 13003,
+    "live_count": 13003,
+    "match": true,
+    "issue_count": 0,
+    "severity": "clean",
+    "issues": []
+  },
+  "overlay_accounting": {
+    "overlay_total": 13641,
+    "live_total": 13003,
+    "excluded_types": [
+      "alias_phantom",
+      "appendix_abbrev",
+      "fragment_artifact",
+      "junk_headword",
+      "legacy_duplicate",
+      "legacy_unresolved"
+    ],
+    "issue_count": 0,
+    "severity": "clean",
+    "issues": []
+  }
+}
