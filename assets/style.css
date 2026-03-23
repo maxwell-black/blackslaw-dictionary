@@ -526,6 +526,21 @@ main {
   opacity: 0.75;
 }
 
+.entry-meta a {
+  color: inherit;
+  text-decoration: underline;
+}
+
+a.xref {
+  color: var(--accent, #1a73e8);
+  text-decoration: none;
+  border-bottom: 1px dotted;
+}
+
+a.xref:hover {
+  text-decoration: underline;
+}
+
 .entry-body p {
   margin: 0 0 0.8rem;
 }

@@ -1,89 +1,65 @@
-     1|# ⚖️ Black's Law Dictionary (1910)
-     2|
-     3|A free, searchable web version of Black's Law Dictionary, Second Edition (1910) by Henry Campbell Black, M.A.
-     4|
-     5|## 🌐 Live Site
-     6|
-     7|**https://blackslaw.io**
-     8|
-     9|## 📚 About
-    10|
-    11|This project provides free access to over 17,000 legal definitions from the classic 1910 edition of Black's Law Dictionary. The original text has been OCR-corrected using AI to fix scanning errors while preserving the 1910-era spelling and legal terminology.
-    12|
-    13|### Features
-    14|
-    15|- 🔍 **Fast search** - Search by term or definition content
-    16|- 🔤 **Browse by letter** - Quick navigation A-Z
-    17|- 📱 **Mobile-friendly** - Works on all devices
-    18|- ⚡ **Fast loading** - Static site, no server required
-    19|- 🔗 **Cross-references** - Links between related legal terms
-    20|- 🌙 **Clean design** - Easy to read, distraction-free
-    21|
-    22|## 🛠️ Technical
-    23|
-    24|- **Frontend**: Vanilla HTML, CSS, JavaScript
-    25|- **Data**: 17,446 corrected entries in JSON format
-    26|- **Hosting**: GitHub Pages + Namecheap domain
-    27|- **Source**: [Internet Archive](https://archive.org/details/BlacksLaw2dEd)
-    28|
-    29|## 📖 Data Source
-    30|
-    31|The raw text was sourced from the Internet Archive's digitization of Black's Law Dictionary, 2nd Edition (1910). The OCR text was corrected using Moonshot AI (Kimi) to fix character substitutions, broken words, and garbled punctuation while preserving the original 1910 spelling, grammar, and legal terminology.
-    32|
-    33|## 📝 License
-    34|
-    35|The original Black's Law Dictionary (2nd Edition, 1910) is in the **public domain**.
-    36|
-    37|This web implementation is released under the MIT License.
-    38|
-    39|## 🙏 Credits
-    40|
-    41|- **Original Author**: Henry Campbell Black, M.A. (1910)
-    42|- **Digitization**: Internet Archive
-    43|- **OCR Correction**: Moonshot AI (Kimi K2.5)
-    44|- **Web Implementation**: [Your name]
-    45|
-    46|---
-    47|
-    48|*Free legal knowledge for everyone.*
-    49|
+# Black's Law Dictionary (1910)
 
-## 🚀 Deployment
+A free, searchable web version of Black's Law Dictionary, Second Edition (1910) by Henry Campbell Black, M.A.
 
-### Quick Deploy
-Run the deployment script:
-```bash
-cd ~/blackslaw-dictionary
-./deploy.sh
-```
+## Live Site
 
-### Manual Steps
-1. Authenticate with GitHub:
-   ```bash
-   gh auth login
-   ```
+**https://blackslaw.io**
 
-2. Create and push repository:
-   ```bash
-   gh repo create blackslaw-dictionary --public --source=. --remote=origin --push
-   ```
+## About
 
-3. Enable GitHub Pages:
-   - Go to https://github.com/maxwelljblack/blackslaw-dictionary/settings/pages
-   - Source: Deploy from a branch
-   - Branch: main / (root)
-   - Save
+This project provides free access to 13,009 legal definitions from the classic 1910 edition of Black's Law Dictionary. The corpus was rebuilt from the Internet Archive's DjVu XML extraction, cross-validated against a legacy OCR corpus, and editorially reviewed through a multi-phase overlay system that classifies all 13,641 original entries.
 
-### Domain Configuration
-The domain blackslaw.io is already configured in Namecheap with DNS pointing to GitHub Pages.
+### Features
 
-### Auto-Update
-OCR correction is complete. All entries have been processed and validated.
+- Fast search across all entries by term or definition content
+- Browse by letter with quick A-Z navigation
+- Cross-reference links between related legal terms
+- Source page links to the Internet Archive scan
+- Mobile-friendly, dark mode, adjustable font size
+- Static site, no server required
 
-## 📊 Current Status
-- ✅ Website deployed at https://blackslaw.io
-- ✅ 17,446 entries corrected and validated
-- ✅ OCR cleanup completed (Phases 1-10)
-- ✅ GitHub repository authenticated and pushed
-- ✅ GitHub Pages enabled with custom domain
-# Last updated
+## Technical
+
+- **Frontend**: Vanilla HTML, CSS, JavaScript
+- **Data**: 13,009 entries in JSON format (split by letter for lazy loading)
+- **Hosting**: GitHub Pages with custom domain
+- **Source**: [Internet Archive DjVu](https://archive.org/details/blacks-law-dictionary-2nd-edition-1910)
+- **Pipeline**: Editorial overlay -> live corpus generator -> validator -> split
+
+### Entry types in live corpus
+
+| Type | Count | Description |
+|------|-------|-------------|
+| verified_main | 10,513 | DjVu source-backed, high confidence |
+| provisional_main | 320 | DjVu source-backed, moderate confidence |
+| recovered_main | 160 | Recovered from source pages |
+| headword_corrected | 9 | OCR headword fixes (e.g., ACOESS -> ACCESS) |
+| legacy_retained | ~1,800 | Legacy OCR bodies, pending DjVu recovery |
+| subentry | ~200 | Sub-entries linked to parent terms |
+| alias_variant | 15 | Spelling variants with redirects |
+
+## Data Source
+
+The raw text was sourced from the Internet Archive's digitization of Black's Law Dictionary, 2nd Edition (1910). The DjVu XML extraction was processed through a multi-stage pipeline: page segmentation, headword extraction, body assembly, source alignment, and editorial overlay classification.
+
+## License
+
+The original Black's Law Dictionary (2nd Edition, 1910) is in the **public domain**.
+
+This web implementation is released under the MIT License.
+
+## Credits
+
+- **Original Author**: Henry Campbell Black, M.A. (1910)
+- **Digitization**: Internet Archive
+- **Rebuild Pipeline**: Claude Code (Anthropic)
+
+---
+
+*Free legal knowledge for everyone.*
+
+## Revision history (auto)
+
+<!-- REVISION_HISTORY:START -->
+<!-- REVISION_HISTORY:END -->

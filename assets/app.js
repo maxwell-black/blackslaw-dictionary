@@ -103,9 +103,18 @@ function renderSearchResults(entries) {
 function renderEntry(entry) {
   const id = slugify(entry.term);
   const bodyHtml = formatEntryBody(entry.term, entry.body || '');
-  const pages = Array.isArray(entry.source_pages) && entry.source_pages.length
-    ? '<div class="entry-meta">Source page' + (entry.source_pages.length > 1 ? 's' : '') + ': ' + entry.source_pages.map(escapeHtml).join(', ') + '</div>'
-    : '';
+  var pages = '';
+  if (Array.isArray(entry.source_pages) && entry.source_pages.length) {
+    var pageLinks = entry.source_pages.map(function(p) {
+      var printed = parseInt(p, 10);
+      if (isNaN(printed)) return escapeHtml(p);
+      var leaf = printed + 11;
+      return '<a href="https://archive.org/details/blacks-law-dictionary-2nd-edition-1910/page/n' +
+        leaf + '/mode/1up" target="_blank" rel="noopener" title="View source page">' +
+        escapeHtml(String(printed)) + '</a>';
+    });
+    pages = '<div class="entry-meta">Source p.' + pageLinks.join(', ') + '</div>';
+  }
   return '<article class="entry" id="entry-' + id + '">' +
     '<h3 class="entry-term">' + escapeHtml(entry.term) + '</h3>' +
     pages +
@@ -117,7 +126,48 @@ function formatEntryBody(term, rawBody) {
   var text = stripDuplicateLeadingHeadword(term, String(rawBody || '').trim());
   var paragraphs = text.split(/\n{2,}/).map(function(part) { return part.trim(); }).filter(Boolean);
   if (!paragraphs.length) return '<p></p>';
-  return paragraphs.map(function(part) { return '<p>' + escapeHtml(part).replace(/\n/g, '<br>') + '</p>'; }).join('');
+  return paragraphs.map(function(part) {
+    var html = escapeHtml(part).replace(/\n/g, '<br>');
+    html = linkCrossReferences(html);
+    return '<p>' + html + '</p>';
+  }).join('');
+}
+
+function linkCrossReferences(html) {
+  // Match "See TERM", "See also TERM", "Vide TERM", "(q. v.)", "(q.v.)"
+  // TERM is one or more uppercase words, possibly with hyphens/spaces
+  html = html.replace(
+    /\b(See also|See|Vide)\s+([A-Z][A-Z\s,\-]{1,40}[A-Z])\b/g,
+    function(match, prefix, term) {
+      var cleanTerm = term.replace(/,\s*$/, '').trim();
+      var slug = slugify(cleanTerm);
+      return prefix + ' <a href="#' + slug + '" class="xref" onclick="jumpToEntry(\'' +
+        escapeHtml(slug) + '\');return false;">' + cleanTerm + '</a>';
+    }
+  );
+  return html;
+}
+
+async function jumpToEntry(slug) {
+  // Try to find the entry's letter and navigate there
+  var parts = slug.split('-');
+  if (!parts.length) return;
+  var firstChar = parts[0].charAt(0).toUpperCase();
+  if (manifest && manifest[firstChar]) {
+    if (!letterCache[firstChar]) await loadLetter(firstChar);
+    var el = document.getElementById('entry-' + slug);
+    if (!el) {
+      // Switch to that letter first
+      await switchLetter(firstChar);
+      el = document.getElementById('entry-' + slug);
+    }
+    if (el) {
+      window.location.hash = slug;
+      el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      el.style.background = 'var(--hover)';
+      setTimeout(function() { el.style.background = ''; }, 1200);
+    }
+  }
 }
 
 function stripDuplicateLeadingHeadword(term, body) {
