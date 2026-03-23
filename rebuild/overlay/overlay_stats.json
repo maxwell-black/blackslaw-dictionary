@@ -1,22 +1,15 @@
 {
-  "total_entries": 13641,
-  "live_count": 11019,
-  "excluded_count": 471,
-  "deferred_count": 2151,
-  "types": {
-    "verified_main": 10513,
-    "legacy_unresolved": 2151,
-    "provisional_main": 320,
-    "fragment_artifact": 233,
-    "recovered_main": 160,
-    "appendix_abbrev": 154,
-    "legacy_duplicate": 53,
-    "junk_headword": 21,
-    "alias_variant": 15,
-    "alias_phantom": 10,
-    "subentry": 5,
-    "reversed_polarity": 3,
-    "unmatched_keep": 3
-  },
-  "phase1_actions_taken": 2808
+  "verified_main": 10513,
+  "legacy_unresolved": 2149,
+  "provisional_main": 320,
+  "fragment_artifact": 233,
+  "recovered_main": 160,
+  "appendix_abbrev": 154,
+  "legacy_duplicate": 53,
+  "junk_headword": 21,
+  "alias_variant": 15,
+  "alias_phantom": 12,
+  "subentry": 5,
+  "reversed_polarity": 3,
+  "unmatched_keep": 3
 }

@@ -16,7 +16,7 @@ from pathlib import Path
 
 def split_entries():
     # Load all entries
-    with open("blacks_entries.json", "r") as f:
+    with open("blacks_entries.json", "r", encoding="utf-8") as f:
         entries = json.load(f)
     
     print(f"Splitting {len(entries)} entries...")
@@ -41,7 +41,7 @@ def split_entries():
             filepath = f"data/{filename}"
             
             # Write letter file
-            with open(filepath, "w") as f:
+            with open(filepath, "w", encoding="utf-8") as f:
                 json.dump(letter_entries, f)
             
             manifest[letter] = {
@@ -51,10 +51,10 @@ def split_entries():
             print(f"  {letter}: {len(letter_entries):>4} entries")
     
     # Write manifest
-    with open("data/manifest.json", "w") as f:
+    with open("data/manifest.json", "w", encoding="utf-8") as f:
         json.dump(manifest, f, indent=2)
     
-    print(f"\n✅ Created {len(manifest)} letter files in data/")
+    print(f"\nCreated {len(manifest)} letter files in data/")
     print(f"   manifest.json updated")
 
 if __name__ == '__main__':

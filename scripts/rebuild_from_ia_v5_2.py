@@ -537,10 +537,17 @@ def clean_orphan_numerics(body: str) -> str:
     # First strip clustered headers: number + short caps header on adjacent lines
     body = _PAGE_HEADER_CLUSTER_RE.sub("\n", body)
     # Then strip orphan numerics and short caps that sit on their own line
+    # Skip the first non-blank line to avoid stripping legitimate articles
+    # ("A", "E") or case initials that begin a definition body.
     lines = body.split("\n")
     cleaned: list[str] = []
+    seen_content = False
     for line in lines:
         stripped = line.strip()
+        if not seen_content and stripped:
+            seen_content = True
+            cleaned.append(line)
+            continue
         # Skip standalone page numbers (1-4 digits alone on a line)
         if stripped and re.fullmatch(r"\d{1,4}", stripped):
             continue
@@ -961,7 +968,10 @@ def build_flags(term: str, source_headword: str | None, body: str, match_score: 
         flags.append("empty_body")
     if PAGE_NUMBER_RE.search(body):
         flags.append("page_number_artifact")
-    if SHORT_HEADER_RE.search(body):
+    # Only flag mid-body short headers; skip the first line to avoid false
+    # positives on articles ("A") or case initials ("E").
+    body_after_first_line = body[body.index('\n'):] if '\n' in body else ''
+    if body_after_first_line and SHORT_HEADER_RE.search(body_after_first_line):
         flags.append("short_header_artifact")
     if source_headword is None:
         flags.append("missing_source_candidate")

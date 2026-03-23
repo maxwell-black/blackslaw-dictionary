@@ -1318,7 +1318,7 @@
     "id": "BLD2-00117",
     "index": 117,
     "term": "ABSTRAOT",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "alias_phantom",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -2092,8 +2092,8 @@
   {
     "id": "BLD2-00175",
     "index": 175,
-    "term": "ACOESS",
-    "entry_type": "legacy_unresolved",
+    "term": "ACCESS",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -2101,7 +2101,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "original_term": "ACOESS"
   },
   {
     "id": "BLD2-00176",
@@ -2134,8 +2135,8 @@
   {
     "id": "BLD2-00178",
     "index": 178,
-    "term": "ACOIPITARE",
-    "entry_type": "legacy_unresolved",
+    "term": "ACCIPITARE",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -2143,7 +2144,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "original_term": "ACOIPITARE"
   },
   {
     "id": "BLD2-00179",
@@ -2160,8 +2162,8 @@
   {
     "id": "BLD2-00180",
     "index": 180,
-    "term": "ACOREDIT",
-    "entry_type": "legacy_unresolved",
+    "term": "ACCREDIT",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -2169,7 +2171,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "original_term": "ACOREDIT"
   },
   {
     "id": "BLD2-00181",
@@ -19857,7 +19860,7 @@
     "id": "BLD2-01574",
     "index": 1574,
     "term": "BISHOPRIO",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "alias_phantom",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -19865,7 +19868,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "BISHOPRIC"
   },
   {
     "id": "BLD2-01575",
@@ -49320,7 +49324,7 @@
     "id": "BLD2-03858",
     "index": 3858,
     "term": "DIPTYOHA",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "alias_phantom",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -49328,7 +49332,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "DIPTYCHA"
   },
   {
     "id": "BLD2-03859",
@@ -53663,8 +53668,8 @@
   {
     "id": "BLD2-04198",
     "index": 4198,
-    "term": "DUOROIRE",
-    "entry_type": "legacy_unresolved",
+    "term": "DUCROIRE",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -53672,7 +53677,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "original_term": "DUOROIRE"
   },
   {
     "id": "BLD2-04199",
@@ -54782,8 +54788,8 @@
   {
     "id": "BLD2-04285",
     "index": 4285,
-    "term": "ECOLESIASTICAL",
-    "entry_type": "legacy_unresolved",
+    "term": "ECCLESIASTICAL",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -54791,26 +54797,28 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "original_term": "ECOLESIASTICAL"
   },
   {
     "id": "BLD2-04286",
     "index": 4286,
-    "term": "ECOLESIASTIO",
-    "entry_type": "legacy_unresolved",
+    "term": "ECCLESIASTIC",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "original_term": "ECOLESIASTIO"
   },
   {
     "id": "BLD2-04287",
     "index": 4287,
-    "term": "ECOLESIS",
-    "entry_type": "legacy_unresolved",
+    "term": "ECCLESIS",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -54818,7 +54826,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "original_term": "ECOLESIS"
   },
   {
     "id": "BLD2-04288",
@@ -114821,15 +114830,16 @@
   {
     "id": "BLD2-08960",
     "index": 8960,
-    "term": "NOOTES",
-    "entry_type": "legacy_unresolved",
+    "term": "NOCTES",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "original_term": "NOOTES"
   },
   {
     "id": "BLD2-08961",
@@ -117236,7 +117246,7 @@
     "id": "BLD2-09144",
     "index": 9144,
     "term": "OFFIOIAL",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "alias_phantom",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -117298,8 +117308,8 @@
   {
     "id": "BLD2-09149",
     "index": 9149,
-    "term": "OHIROGRAPHER",
-    "entry_type": "legacy_unresolved",
+    "term": "CHIROGRAPHER",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -117307,7 +117317,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "original_term": "OHIROGRAPHER"
   },
   {
     "id": "BLD2-09150",

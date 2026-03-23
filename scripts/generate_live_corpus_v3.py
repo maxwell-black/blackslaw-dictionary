@@ -24,7 +24,8 @@ REPO = SCRIPT_DIR.parent if (SCRIPT_DIR.parent / "blacks_entries.json").exists()
 
 OVERLAY_PATH = REPO / "rebuild" / "overlay" / "editorial_overlay.json"
 REBUILT_PATH = REPO / "rebuild" / "out" / "blacks_entries.rebuilt.json"
-LEGACY_PATH = REPO / "blacks_entries.json"
+LEGACY_PATH = REPO / "rebuild" / "out" / "blacks_entries.legacy_original.json"
+BODY_CORRECTIONS_PATH = REPO / "rebuild" / "overlay" / "body_corrections.json"
 OUT_DIR = REPO / "rebuild" / "out"
 
 # Types always in live build
@@ -96,11 +97,16 @@ def pick_body(
     rebuilt_entry: dict,
     legacy_entry: dict | None,
     original_term: str | None,
+    body_corrections: dict | None = None,
 ) -> tuple[str, str]:
     rebuilt_body = (rebuilt_entry.get("body") or "").strip()
     legacy_body = ((legacy_entry or {}).get("body") or "").strip()
     term = overlay_rec["term"]
     flags = overlay_rec.get("flags", [])
+
+    # Manual body corrections take highest priority
+    if body_corrections and term in body_corrections:
+        return body_corrections[term]["body"], "manual_correction"
 
     # If garbled_rebuilt_body flagged, skip rebuilt
     use_rebuilt = True
@@ -151,6 +157,13 @@ def main() -> int:
         legacy_by_term.setdefault(e["term"], e)
     print(f"Loaded {len(legacy)} legacy entries")
 
+    body_corrections: dict = {}
+    if BODY_CORRECTIONS_PATH.exists():
+        with BODY_CORRECTIONS_PATH.open("r", encoding="utf-8") as fh:
+            raw = json.load(fh)
+        body_corrections = {k: v for k, v in raw.items() if not k.startswith("_")}
+        print(f"Loaded {len(body_corrections)} body corrections")
+
     assert len(overlay) == len(rebuilt)
 
     live_entries: list[dict] = []
@@ -184,7 +197,7 @@ def main() -> int:
         if not include:
             continue
 
-        body, body_source = pick_body(o, r, legacy_entry, original_term)
+        body, body_source = pick_body(o, r, legacy_entry, original_term, body_corrections)
 
         # Strip duplicate leading headword (use current term, not original)
         body = strip_leading_headword(term, body)

@@ -1,106 +1,106 @@
 {
   "A": {
     "file": "data/entries_a.json",
-    "count": 1309
+    "count": 1264
   },
   "B": {
     "file": "data/entries_b.json",
-    "count": 558
+    "count": 530
   },
   "C": {
     "file": "data/entries_c.json",
-    "count": 1451
+    "count": 1398
   },
   "D": {
     "file": "data/entries_d.json",
-    "count": 911
+    "count": 889
   },
   "E": {
     "file": "data/entries_e.json",
-    "count": 696
+    "count": 659
   },
   "F": {
     "file": "data/entries_f.json",
-    "count": 781
+    "count": 752
   },
   "G": {
     "file": "data/entries_g.json",
-    "count": 331
+    "count": 318
   },
   "H": {
     "file": "data/entries_h.json",
-    "count": 490
+    "count": 472
   },
   "I": {
     "file": "data/entries_i.json",
-    "count": 664
+    "count": 646
   },
   "J": {
     "file": "data/entries_j.json",
-    "count": 167
+    "count": 154
   },
   "K": {
     "file": "data/entries_k.json",
-    "count": 81
+    "count": 73
   },
   "L": {
     "file": "data/entries_l.json",
-    "count": 538
+    "count": 500
   },
   "M": {
     "file": "data/entries_m.json",
-    "count": 741
+    "count": 709
   },
   "N": {
     "file": "data/entries_n.json",
-    "count": 326
+    "count": 294
   },
   "O": {
     "file": "data/entries_o.json",
-    "count": 279
+    "count": 257
   },
   "P": {
     "file": "data/entries_p.json",
-    "count": 1101
+    "count": 1053
   },
   "Q": {
     "file": "data/entries_q.json",
-    "count": 130
+    "count": 125
   },
   "R": {
     "file": "data/entries_r.json",
-    "count": 687
+    "count": 664
   },
   "S": {
     "file": "data/entries_s.json",
-    "count": 1077
+    "count": 1038
   },
   "T": {
     "file": "data/entries_t.json",
-    "count": 567
+    "count": 529
   },
   "U": {
     "file": "data/entries_u.json",
-    "count": 161
+    "count": 155
   },
   "V": {
     "file": "data/entries_v.json",
-    "count": 278
+    "count": 262
   },
   "W": {
     "file": "data/entries_w.json",
-    "count": 269
+    "count": 255
   },
   "X": {
     "file": "data/entries_x.json",
-    "count": 5
+    "count": 3
   },
   "Y": {
     "file": "data/entries_y.json",
-    "count": 26
+    "count": 20
   },
   "Z": {
     "file": "data/entries_z.json",
-    "count": 17
+    "count": 16
   }
 }

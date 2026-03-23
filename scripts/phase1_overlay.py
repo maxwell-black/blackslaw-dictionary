@@ -40,11 +40,15 @@ OVERLAY_DIR = REPO / "rebuild" / "overlay"
 # ============================================================
 
 PHANTOM_SUPPRESS: dict[str, str] = {
+    "ABSTRAOT": "ABSTRACT",
     "AQUZ HAUSTUS": "AQUA HAUSTUS",
     "DETRAOCTION": "DETRACTION",
     "EXOESSIVE": "EXCESSIVE",
     "FAOCIO": "FACIO",
     "HALLAZCO": "HALLAZGO",
+    "BISHOPRIO": "BISHOPRIC",
+    "DIPTYOHA": "DIPTYCHA",
+    "OFFIOIAL": "OFFICIAL",
     "PERINDEK": "PERINDE",
     "PROPATRAUS": "PROPATRUUS",
     "RETRAOT": "RETRAIT",

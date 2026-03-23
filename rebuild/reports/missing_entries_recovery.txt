@@ -1,0 +1,2650 @@
+Total genuinely_missing entries: 600
+Loaded 1328 source pages
+
+======================================================================
+SECTION 1: RECOVERABLE ENTRIES
+======================================================================
+(229 entries)
+
+ACREFIGHT
+  Found on leaf: 32 (printed page: 21)
+  Method: exact_prefix
+  Matching line: "ACREFIGHT, OR ACRE. A CAMP OR"
+
+ADOLESCENCE
+  Found on leaf: 51 (printed page: 40)
+  Method: exact_prefix
+  Matching line: "ADOLESCENCE.' TIIAT AGE WHICH FOLLOWS PUBERTY AUD PRECEDES THE AGE OF MAJOR:"
+
+ALE SILVER
+  Found on leaf: 67 (printed page: 56)
+  Method: exact_prefix
+  Matching line: "ALE SILVER. A RENT OR TRIBUTE -PAID"
+
+ALLOCATO COMITATU
+  Found on leaf: 71 (printed page: 60)
+  Method: fuzzy_substring
+  Matching line: ". WITH AN ALLOCATO COMITATU ISSUED TO THE SHERIFF IN ORDER TO COMPLETE THE PROCEEDINGS..SEE EXIGENT."
+
+APOORISARIUS
+  Found on leaf: 86 (printed page: 75)
+  Method: exact_prefix
+  Matching line: "APOORISARIUS. IN ECCLESIASTICAL LAW."
+
+APPOSTILLE
+  Found on leaf: 90 (printed page: 79)
+  Method: exact_prefix
+  Matching line: "APPOSTILLE, OR APOSTILLE. IN"
+
+ARSZ ET PENSATZ
+  Found on leaf: 101 (printed page: 90)
+  Method: exact_prefix
+  Matching line: "ARSZ ET PENSATZ. BURNT AND"
+
+AS AGAINST; AS BETWEEN
+  Found on leaf: 103 (printed page: 92)
+  Method: exact_prefix
+  Matching line: "AS AGAINST; AS BETWEEN. THESE"
+
+AUTHENTIC ACT
+  Found on leaf: 117 (printed page: 106)
+  Method: fuzzy_substring
+  Matching line: "THE AUTHENTIC ACT, AS RELATES TO CONTRACTS,"
+
+AUTREFOIS
+  Found on leaf: 118 (printed page: 107)
+  Method: fuzzy_substring
+  Matching line: "—AUTREFOIS SOQUTE. IN CRIMINAL LAW. FORMERLY ACQUITTED. THE NAME OF A PLEA IN BAR TO"
+
+AYANT CAUSE
+  Found on leaf: 121 (printed page: 110)
+  Method: fuzzy_substring
+  Matching line: "° AYANT CAUSE. IN FRENCH LAW. THIS"
+
+BARATRIAM
+  Found on leaf: 130 (printed page: 119)
+  Method: exact_prefix
+  Matching line: "BARATRIAM COMMITTIT QUI PROPTER PECUNIAM JUSTITIAM BARACTAT. HE IS GUILTY OF"
+
+BEAU-PLEADER
+  Found on leaf: 135 (printed page: 124)
+  Method: exact_prefix
+  Matching line: "BEAU-PLEADER, (TO PLEAD FAIRLY.) IN"
+
+BISSEXTILE
+  Found on leaf: 147 (printed page: 136)
+  Method: exact_prefix
+  Matching line: "BISSEXTILE, 'THE DAY WHICH IS ADDED"
+
+BLACK-LIST
+  Found on leaf: 148 (printed page: 137)
+  Method: exact_prefix
+  Matching line: "BLACK-LIST. A LIST OF PERSONS MARKED"
+
+BONIFICATION
+  Found on leaf: 154 (printed page: 143)
+  Method: exact_prefix
+  Matching line: "BONIFICATION..THE REMISSION OF A"
+
+BORD-HALFPENNY
+  Found on leaf: 156 (printed page: 145)
+  Method: exact_prefix
+  Matching line: "BORD-HALFPENNY. A: CUSTOMARY"
+
+BY-BIDDING
+  Found on leaf: 169 (printed page: 158)
+  Method: exact_prefix
+  Matching line: "BY-BIDDING. SEE BIP."
+
+BY-ROAD
+  Found on leaf: 170 (printed page: 159)
+  Method: exact_prefix
+  Matching line: "BY-ROAD. THE STATUTE LAW OF NEW JERSEY RECOGNIZES THREE DIFFERENT KINDS OF ROADS:"
+
+CACHEPOLUS
+  Found on leaf: 172 (printed page: 161)
+  Method: exact_prefix
+  Matching line: "CACHEPOLUS, OR CACHERELLAS."
+
+CANTERBURY
+  Found on leaf: 176 (printed page: 165)
+  Method: exact_prefix
+  Matching line: "CANTERBURY, ARCHBISHOP OF."
+
+CAPITATION TAX
+  Found on leaf: 179 (printed page: 168)
+  Method: fuzzy_substring
+  Matching line: "* CAPITATION TAX. ONE WHICH IS LEV-"
+
+CATONIANA
+  Found on leaf: 188 (printed page: 177)
+  Method: exact_prefix
+  Matching line: "CATONIANA REGULA. IN ROMAN LAW."
+
+CHAMBERDEKINS
+  Found on leaf: 199 (printed page: 188)
+  Method: exact_prefix
+  Matching line: "CHAMBERDEKINS, OR CHAMBER"
+
+CHATTEL MORTGAGE
+  Found on leaf: 206 (printed page: 195)
+  Method: fuzzy_substring
+  Matching line: "A CHATTEL MORTGAGE IS A CONDITIONAL TRANSFER"
+
+CIRCUMSTANTIBUS
+  Found on leaf: 212 (printed page: 201)
+  Method: exact_prefix
+  Matching line: "CIRCUMSTANTIBUS, TALES DE."
+
+CLARENDON
+  Found on leaf: 217 (printed page: 206)
+  Method: exact_prefix
+  Matching line: "CLARENDON, CONSTITUTIONS OF."
+
+CLEMENTINES
+  Found on leaf: 218 (printed page: 207)
+  Method: exact_prefix
+  Matching line: "CLEMENTINES. IN CANON LAW. THE"
+
+CLOSE-HAULED
+  Found on leaf: 221 (printed page: 210)
+  Method: fuzzy_substring
+  Matching line: "IDERED AS CLOSE-HAULED, ALTHOUGH"
+
+CO-ADMINISTRATOR
+  Found on leaf: 221 (printed page: 210)
+  Method: exact_prefix
+  Matching line: "CO-ADMINISTRATOR. ONE WHO IS A"
+
+CO-EXECUTOR
+  Found on leaf: 223 (printed page: 212)
+  Method: exact_prefix
+  Matching line: "CO-EXECUTOR. ONE WHO IS A JOINT"
+
+COLLIGENDUM
+  Found on leaf: 227 (printed page: 216)
+  Method: exact_prefix
+  Matching line: "COLLIGENDUM BONA"
+
+CONCUBARIA
+  Found on leaf: 249 (printed page: 238)
+  Method: exact_prefix
+  Matching line: "CONCUBARIA.~ A FOLD, PEN, OR PLACE"
+
+COST-BOOK
+  Found on leaf: 289 (printed page: 278)
+  Method: fuzzy_substring
+  Matching line: "' COST-BOOK. A BOOK IN WHICH A NUIN-"
+
+COUNTER-ROLLS
+  Found on leaf: 293 (printed page: 282)
+  Method: exact_prefix
+  Matching line: "COUNTER-ROLLS. IN ENGLISH LAW."
+
+COURT OF CONVOCATION
+  Found on leaf: 298 (printed page: 287)
+  Method: fuzzy_substring
+  Matching line: ". COURT OF CONVOCATION. IN ENGLISH ECCLESIASTICAL LAW. A COURT, OR ASSEMBLY,"
+
+CREMENTUM
+  Found on leaf: 309 (printed page: 298)
+  Method: exact_prefix
+  Matching line: "CREMENTUM COMITAT@S. THE INCREASE OF A COUNTY. THE SHERIFFS OF COUNTIES"
+
+CUILIBET
+  Found on leaf: 314 (printed page: 303)
+  Method: exact_prefix
+  Matching line: "CUILIBET IN ARTE SUA PERJTO"
+
+CULVERTAGE
+  Found on leaf: 316 (printed page: 305)
+  Method: fuzzy_substring
+  Matching line: ": CULVERTAGE, IN OLD ENGLISH LAW. A"
+
+CZAROWITZ
+  Found on leaf: 323 (printed page: 312)
+  Method: fuzzy_substring
+  Matching line: "'CZAROWITZ. THE TITLE OF THE CLDEET"
+
+DAY-RULE
+  Found on leaf: 329 (printed page: 318)
+  Method: exact_prefix
+  Matching line: "DAY-RULE, OR DAY-WRIT. IN ENGLISH LAW. A PERMISSION GRANTED TO A PRISONER"
+
+DEAD'S PART
+  Found on leaf: 343 (printed page: 332)
+  Method: exact_prefix
+  Matching line: "DEAD'S PART. IN SCOTCH LAW. THE"
+
+DEAD-PLEDGE
+  Found on leaf: 343 (printed page: 332)
+  Method: fuzzy_substring
+  Matching line: "- DEAD-PLEDGE."
+
+DEAD IN LAW
+  Found on leaf: 344 (printed page: 333)
+  Method: fuzzy_substring
+  Matching line: " DEAD, OR DEAD IN LAW. BALTIMORE VY. CHESTER, 53 VT. 319, 38 AM. REP."
+
+DEMI-SANGUE
+  Found on leaf: 362 (printed page: 351)
+  Method: exact_prefix
+  Matching line: "DEMI-SANGUE,"
+
+DENSHIRING
+  Found on leaf: 365 (printed page: 354)
+  Method: fuzzy_substring
+  Matching line: "- DENSHIRING OF LAND. (OTHERWISE"
+
+DI COLONNA
+  Found on leaf: 376 (printed page: 365)
+  Method: exact_prefix
+  Matching line: "DI COLONNA. IN MARITIME LAW. THE"
+
+DISINHERITANCE
+  Found on leaf: 387 (printed page: 376)
+  Method: fuzzy_substring
+  Matching line: "SHERISON. DISINHERITANCE; DEPRIVING ONE OF AN INHERITANCE. OBSOLETE. SEE"
+
+DIVISION OF OPINION
+  Found on leaf: 395 (printed page: 384)
+  Method: fuzzy_substring
+  Matching line: "' DIVISION OF OPINION. IN THE PRAC-"
+
+DOG-DRAW
+  Found on leaf: 397 (printed page: 386)
+  Method: fuzzy_substring
+  Matching line: "* DOG-DRAW. IN OLD FOREST LAW. THE"
+
+DYKE-REED
+  Found on leaf: 416 (printed page: 405)
+  Method: exact_prefix
+  Matching line: "DYKE-REED, OR DYKE-REEVE. AN"
+
+EALDERMAN
+  Found on leaf: 418 (printed page: 407)
+  Method: exact_prefix
+  Matching line: "EALDERMAN, OR EALDORMAN. THE"
+
+EBEREMORTH
+  Found on leaf: 421 (printed page: 410)
+  Method: exact_prefix
+  Matching line: "EBEREMORTH, EBEREMORS, EB-"
+
+ECOLESIASTICAL
+  Found on leaf: 422 (printed page: 411)
+  Method: fuzzy_substring
+  Matching line: "—ECOLESIASTICAL AUTHORITIES. IN ENGLAND"
+
+EFFECTUS SEQUITUR CAUSAM
+  Found on leaf: 424 (printed page: 413)
+  Method: exact_prefix
+  Matching line: "EFFECTUS SEQUITUR CAUSAM. WING. 226."
+
+ENDENZIE
+  Found on leaf: 435 (printed page: 424)
+  Method: exact_prefix
+  Matching line: "ENDENZIE, OR ENDENIZEN."
+
+ESTATE IN EXPECTANCY
+  Found on leaf: 452 (printed page: 441)
+  Method: fuzzy_substring
+  Matching line: "' ESTATE IN EXPECTANCY. ONE"
+
+EXCELLENCY
+  Found on leaf: 467 (printed page: 456)
+  Method: exact_prefix
+  Matching line: "EXCELLENCY, IN ENGLISH LAW. THE"
+
+EXTRA-DOTAL
+  Found on leaf: 482 (printed page: 471)
+  Method: exact_prefix
+  Matching line: "EXTRA-DOTAL PROPERTY. IN LOU"
+
+EXTRADITION
+  Found on leaf: 482 (printed page: 471)
+  Method: fuzzy_substring
+  Matching line: "' EXTRADITION. 'THE SURRENDER OF A"
+
+EXTRAHAZARDOUS
+  Found on leaf: 482 (printed page: 471)
+  Method: fuzzy_substring
+  Matching line: "_EXTRAHAZARDOUS. IN THE LAW OF"
+
+EXTRAORDINARY REMEDIES
+  Found on leaf: 483 (printed page: 472)
+  Method: fuzzy_substring
+  Matching line: "LIGENCE. —EXTRAORDINARY REMEDIES. THE WRITS OF MANDAMUS, QUO WARRANTO,"
+
+FAILURE OF CONSIDERATION
+  Found on leaf: 489 (printed page: 478)
+  Method: fuzzy_substring
+  Matching line: "—FAILURE OF CONSIDERATION. AS APPLIED TO"
+
+FASTERMANS
+  Found on leaf: 495 (printed page: 484)
+  Method: exact_prefix
+  Matching line: "FASTERMANS, OR FASTING-MEN."
+
+FERZ NATURE
+  Found on leaf: 502 (printed page: 491)
+  Method: ocr_normalized
+  Matching line: "FERE NATURE. LAT. OF A WILD NATURE OR DISPOSITION. ANIMALS WHICH ARE BY"
+
+FIDEI-COMMISSARIUS
+  Found on leaf: 506 (printed page: 495)
+  Method: exact_prefix
+  Matching line: "FIDEI-COMMISSARIUS. IN THE CIVIL"
+
+FIDEI-COMMISSUM
+  Found on leaf: 506 (printed page: 495)
+  Method: exact_prefix
+  Matching line: "FIDEI-COMMISSUM. IN THE CIVIL LAW."
+
+FIRST-CLASS
+  Found on leaf: 513 (printed page: 502)
+  Method: fuzzy_substring
+  Matching line: "—FIRST-CLASS MAIL-MATTER. IN THE POSTAL"
+
+FORGABULUM
+  Found on leaf: 524 (printed page: 513)
+  Method: exact_prefix
+  Matching line: "FORGABULUM, OR FORGAVEL. A"
+
+FORWARDING
+  Found on leaf: 528 (printed page: 517)
+  Method: exact_prefix
+  Matching line: "FORWARDING MERCHANT, OR FOR-"
+
+FOSSE-WAY
+  Found on leaf: 529 (printed page: 518)
+  Method: exact_prefix
+  Matching line: "FOSSE-WAY, OR FOSSE. ONE OF THE"
+
+FRAUDULENT
+  Found on leaf: 533 (printed page: 522)
+  Method: exact_prefix
+  Matching line: "FRAUDULENT ALIENEE. ONE WHO KNOWINGLY"
+
+FRODMORTEL
+  Found on leaf: 537 (printed page: 526)
+  Method: exact_prefix
+  Matching line: "FRODMORTEL, OR FREOMORTEL."
+
+GALLIVOLATIUM
+  Found on leaf: 544 (printed page: 533)
+  Method: fuzzy_substring
+  Matching line: "'GALLIVOLATIUM. A_ COCK-SHOOT, OR"
+
+GANTELOPE
+  Found on leaf: 545 (printed page: 534)
+  Method: exact_prefix
+  Matching line: "GANTELOPE, (PRONOUNCED "GAUNTLETT.")"
+
+GLOUCESTER
+  Found on leaf: 553 (printed page: 542)
+  Method: exact_prefix
+  Matching line: "GLOUCESTER, STATUTE OF. THE"
+
+GOD'S PENNY
+  Found on leaf: 554 (printed page: 543)
+  Method: exact_prefix
+  Matching line: "GOD'S PENNY. IN OLD ENGLISH LAW."
+
+GOODRIGHT
+  Found on leaf: 555 (printed page: 544)
+  Method: exact_prefix
+  Matching line: "GOODRIGHT, GOODTITLE. THE FICTITIOUS PLAINTIFF IN THE OLD ACTION OF EJECTMENT,"
+
+GUARENTIGIO
+  Found on leaf: 561 (printed page: 550)
+  Method: exact_prefix
+  Matching line: "GUARENTIGIO. IN SPANISH LAW. A"
+
+HABEAS CORPORA JURATORUM
+  Found on leaf: 565 (printed page: 554)
+  Method: exact_prefix
+  Matching line: "HABEAS CORPORA JURATORUM.,"
+
+HAND MONEY
+  Found on leaf: 571 (printed page: 560)
+  Method: exact_prefix
+  Matching line: "HAND MONEY. MONEY PAID IN HAND"
+
+HARO, HARRON
+  Found on leaf: 573 (printed page: 562)
+  Method: fuzzy_substring
+  Matching line: "_HARO, HARRON. FR. IN NORMAN AND"
+
+HEADBOROUGH
+  Found on leaf: 574 (printed page: 563)
+  Method: exact_prefix
+  Matching line: "HEADBOROUGH. IN SAXON LAW. THE"
+
+HEMOLDBORH
+  Found on leaf: 578 (printed page: 567)
+  Method: exact_prefix
+  Matching line: "HEMOLDBORH, OR HELMELBORCH."
+
+HERISOINDIUM
+  Found on leaf: 581 (printed page: 570)
+  Method: exact_prefix
+  Matching line: "HERISOINDIUM. A DIVISION OF HOUSEHOLD GOODS. BLOUNT."
+
+HERMOGENIAN
+  Found on leaf: 581 (printed page: 570)
+  Method: exact_prefix
+  Matching line: "HERMOGENIAN OODE."
+
+HOCKETTOR
+  Found on leaf: 584 (printed page: 573)
+  Method: exact_prefix
+  Matching line: "HOCKETTOR, OR HOCQUETEUR. A"
+
+HOMINE CAPTO IN WITHERNAM
+  Found on leaf: 588 (printed page: 577)
+  Method: fuzzy_substring
+  Matching line: "HOMINE CAPTO IN WITHERNAM-"
+
+HOMINE ELIGENDO
+  Found on leaf: 588 (printed page: 577)
+  Method: fuzzy_substring
+  Matching line: "'HOMINE ELIGENDO. IN OLD ENGLISH"
+
+HOSTILARIA
+  Found on leaf: 591 (printed page: 580)
+  Method: exact_prefix
+  Matching line: "HOSTILARIA, HOSPITALARIA, A"
+
+HURTARDUS
+  Found on leaf: 594 (printed page: 583)
+  Method: exact_prefix
+  Matching line: "HURTARDUS, OR HURTUS. A RAM OR"
+
+IMPARGAMENTUM
+  Found on leaf: 604 (printed page: 593)
+  Method: exact_prefix
+  Matching line: "IMPARGAMENTUM.- THE RIGHT OF IMPOUNDING CATTLE."
+
+IMPRESCRIPTIBLE
+  Found on leaf: 607 (printed page: 596)
+  Method: fuzzy_substring
+  Matching line: "596 IMPRESCRIPTIBLE RIGHTS"
+
+INCASTELLARE
+  Found on leaf: 622 (printed page: 611)
+  Method: fuzzy_substring
+  Matching line: "' INCASTELLARE. TO MAKE A BUILDING"
+
+INCAUSTUM
+  Found on leaf: 622 (printed page: 611)
+  Method: exact_prefix
+  Matching line: "INCAUSTUM, OR ENCAUSTUM. INK."
+
+INDEBTEDNESS
+  Found on leaf: 626 (printed page: 615)
+  Method: exact_prefix
+  Matching line: "INDEBTEDNESS, AS WELL AS THOSE ALREADY DUE. ST."
+
+INFORMATUS NON SUM
+  Found on leaf: 634 (printed page: 623)
+  Method: fuzzy_substring
+  Matching line: "_ INFORMATUS NON SUM. IN PRACTICE. IAM NOT INFORMED. A FORMAL ANSWER"
+
+INJURIOUS WORDS
+  Found on leaf: 638 (printed page: 627)
+  Method: fuzzy_substring
+  Matching line: "' INJURIOUS WORDS. IN LOUISIANA."
+
+INQUILINUS
+  Found on leaf: 642 (printed page: 631)
+  Method: fuzzy_substring
+  Matching line: "- INQUILINUS. IN ROMAN LAW. A TENANT; ONE WHO HIRES AND OCCUPIES ANOTHER'S"
+
+INSTITORIA ACTIO
+  Found on leaf: 650 (printed page: 639)
+  Method: fuzzy_substring
+  Matching line: "- INSTITORIA ACTIO. IAT. IN THE"
+
+INSUCKEN MULTURES
+  Found on leaf: 652 (printed page: 641)
+  Method: fuzzy_substring
+  Matching line: "'INSUCKEN MULTURES. A QUANTITY OF"
+
+INTOLERABLE
+  Found on leaf: 664 (printed page: 653)
+  Method: exact_prefix
+  Matching line: "INTOLERABLE CRUELTY. IN THE LAW"
+
+INTROMISSION
+  Found on leaf: 664 (printed page: 653)
+  Method: fuzzy_substring
+  Matching line: "- INTROMISSION. IN SCOTCH LAW. THE"
+
+INTRONISATION
+  Found on leaf: 664 (printed page: 653)
+  Method: fuzzy_substring
+  Matching line: ""INTRONISATION. IN FRENCH ECCLESIUSTICAL LAW. ENTHRONEMENT. THE INSTALLATION"
+
+IRRESISTIBLE
+  Found on leaf: 668 (printed page: 657)
+  Method: fuzzy_substring
+  Matching line: ". IRRESISTIBLE IMPULSE. USED CHIEFLY IN CRIMINAL LAW, THIS TERM MEANS AN IMPULSE TO COMMIT AN UNLAWF"
+
+IS QUI COGNOSCIT
+  Found on leaf: 668 (printed page: 657)
+  Method: exact_prefix
+  Matching line: "IS QUI COGNOSCIT. LAT. THE COGNIZOR IN A FINE. JS CUI COGNOSCITUR, THE COGNIZEE."
+
+JAMMABUNDY
+  Found on leaf: 671 (printed page: 660)
+  Method: exact_prefix
+  Matching line: "JAMMABUNDY, JUMMABUNDY. IN"
+
+JAMUNLINGI
+  Found on leaf: 671 (printed page: 660)
+  Method: exact_prefix
+  Matching line: "JAMUNLINGI, JAMUNDILINGI."
+
+JUDEUS, JUDEUS
+  Found on leaf: 674 (printed page: 663)
+  Method: ocr_normalized
+  Matching line: "JUDEUS, JUDEUS. LAT. A JEW."
+
+JUSTICESHIP
+  Found on leaf: 694 (printed page: 683)
+  Method: fuzzy_substring
+  Matching line: "° JUSTICESHIP. RANK OR OFFICE OF A JUSCE."
+
+JUSTIFYING
+  Found on leaf: 695 (printed page: 684)
+  Method: exact_prefix
+  Matching line: "JUSTIFYING BAIL CONSISTS IN PROVING"
+
+KIPPER-TIME
+  Found on leaf: 699 (printed page: 688)
+  Method: fuzzy_substring
+  Matching line: "_ KIPPER-TIME. IN OLD ENGLISH LAW."
+
+LANDAGENDE
+  Found on leaf: 706 (printed page: 695)
+  Method: exact_prefix
+  Matching line: "LANDAGENDE, LANDHLAFORD, OR"
+
+LECHERWITE
+  Found on leaf: 717 (printed page: 706)
+  Method: exact_prefix
+  Matching line: "LECHERWITE, LAIRWITE, OR LEG-"
+
+LEGIBUS SOLUTUS
+  Found on leaf: 721 (printed page: 710)
+  Method: fuzzy_substring
+  Matching line: ""LEGIBUS SOLUTUS. LAT. RELEASED"
+
+LEGITIMI HEREDES
+  Found on leaf: 722 (printed page: 711)
+  Method: ocr_normalized
+  Matching line: "LEGITIMI HEREDES. LAT. IN ROMAN LAW. LEGITIMATE HEIRS; THE AGNATE RELATIONS OF THE ESTATE-LEAVER; SO"
+
+LESA MAJESTAS
+  Found on leaf: 722 (printed page: 711)
+  Method: fuzzy_substring
+  Matching line: "ATION OF "LESA MAJESTAS," OR"
+
+LIGHT-SHIP
+  Found on leaf: 739 (printed page: 728)
+  Method: exact_prefix
+  Matching line: "LIGHT-SHIP, LIGHT-VESSEL. A"
+
+LOTHERWITE
+  Found on leaf: 750 (printed page: 739)
+  Method: exact_prefix
+  Matching line: "LOTHERWITE, OR LEYERWIT. IN"
+
+MZC-BURGH
+  Found on leaf: 755 (printed page: 744)
+  Method: exact_prefix
+  Matching line: "MZC-BURGH. IN SAXON LAW. KINDRED; FAMILY."
+
+MAGNA NEGLIGENTIA
+  Found on leaf: 756 (printed page: 745)
+  Method: exact_prefix
+  Matching line: "MAGNA NEGLIGENTIA 'CULPA EST; MAGNA"
+
+MAHLBRIEF
+  Found on leaf: 757 (printed page: 746)
+  Method: fuzzy_substring
+  Matching line: "'' MAHLBRIEF. IN MARITIME LAW. THE"
+
+MESNALTY
+  Found on leaf: 786 (printed page: 775)
+  Method: exact_prefix
+  Matching line: "MESNALTY, OR MESNALITY. A MANOR HELD UNDER A SUPERIOR LORD. THE ESTATE"
+
+METEWAND
+  Found on leaf: 787 (printed page: 776)
+  Method: exact_prefix
+  Matching line: "METEWAND, OR METEYARD. A STAFF"
+
+METTESHEP
+  Found on leaf: 788 (printed page: 777)
+  Method: exact_prefix
+  Matching line: "METTESHEP, OR METTENSCHEP. IN"
+
+MONSTRAVERUNT
+  Found on leaf: 802 (printed page: 791)
+  Method: exact_prefix
+  Matching line: "MONSTRAVERUNT, WRIT OF"
+
+MORGANGINA
+  Found on leaf: 803 (printed page: 792)
+  Method: exact_prefix
+  Matching line: "MORGANGINA, OR MORGANGIVA,"
+
+MORSELLUM
+  Found on leaf: 804 (printed page: 793)
+  Method: exact_prefix
+  Matching line: "MORSELLUM, OR MORSELLUS, TER-"
+
+MUNDBYRD
+  Found on leaf: 808 (printed page: 797)
+  Method: exact_prefix
+  Matching line: "MUNDBYRD, MUNDEBURDE. A RECEIVING INTO FAVOR AND PROTECTION. COWELL."
+
+MUNIMENT-HOUSE
+  Found on leaf: 809 (printed page: 798)
+  Method: exact_prefix
+  Matching line: "MUNIMENT-HOUSE, OR MUNIMENT-"
+
+NEURASTHENIA
+  Found on leaf: 827 (printed page: 816)
+  Method: fuzzy_substring
+  Matching line: "_ NEURASTHENIA. IN MEDICAL JURISPRUDENCE. <A CONDITION OF WEAKNESS OR EXHAUSTION OF THE GENERAL NERV"
+
+NIDERLING
+  Found on leaf: 828 (printed page: 817)
+  Method: exact_prefix
+  Matching line: "NIDERLING, NIDERING, OR NITH-"
+
+NONPAYMENT
+  Found on leaf: 838 (printed page: 827)
+  Method: exact_prefix
+  Matching line: "NONPAYMENT. THE NEGLECT, FAILURE,"
+
+NON-SUMMONS
+  Found on leaf: 839 (printed page: 828)
+  Method: exact_prefix
+  Matching line: "NON-SUMMONS, WAGER OF LAW"
+
+NUMERATA PECUNIA
+  Found on leaf: 849 (printed page: 838)
+  Method: fuzzy_substring
+  Matching line: "' NUMERATA PECUNIA. LAT. IN THE"
+
+OF EVIDENCE
+  Found on leaf: 855 (printed page: 844)
+  Method: fuzzy_substring
+  Matching line: "N THE LAW OF EVIDENCE. INDIRECT; CIRCUMSTANTIAL"
+
+OF TITLE
+  Found on leaf: 857 (printed page: 846)
+  Method: fuzzy_substring
+  Matching line: "CHAIN OF TITLE, OF ANY EARLIER OWNER. OR ''OECU-"
+
+OF JUSTICE
+  Found on leaf: 859 (printed page: 848)
+  Method: fuzzy_substring
+  Matching line: "ISTRATION OF JUSTICE, OR THE EXECUTION OF THE"
+
+OFFICIARIIS
+  Found on leaf: 861 (printed page: 850)
+  Method: exact_prefix
+  Matching line: "OFFICIARIIS NON FACIENDIS VEL"
+
+OMISSIS
+  Found on leaf: 862 (printed page: 851)
+  Method: fuzzy_substring
+  Matching line: ". OMISSIS OMNIBUS ALIS. NEGO-"
+
+ORDINATIONE
+  Found on leaf: 870 (printed page: 859)
+  Method: exact_prefix
+  Matching line: "ORDINATIONE CONTRA SERVIEN-"
+
+OVERCYTED
+  Found on leaf: 875 (printed page: 864)
+  Method: exact_prefix
+  Matching line: "OVERCYTED, OR OVERCYHSED."
+
+PERFORMANCE
+  Found on leaf: 903 (printed page: 892)
+  Method: exact_prefix
+  Matching line: "PERFORMANCE. PERFORMANCE OF A CONTRACT IN"
+
+PERIPHRASIS
+  Found on leaf: 904 (printed page: 893)
+  Method: fuzzy_substring
+  Matching line: "- PERIPHRASIS. CIRCUMLOCUTION; USE OF"
+
+PICK-LOCK
+  Found on leaf: 909 (printed page: 898)
+  Method: exact_prefix
+  Matching line: "PICK-LOCK. AN INSTRUMENT BY WHICH"
+
+POULTRY COUNTER
+  Found on leaf: 932 (printed page: 921)
+  Method: fuzzy_substring
+  Matching line: "- POULTRY COUNTER. THE NAME OF A"
+
+PRE-EMPTIONER
+  Found on leaf: 941 (printed page: 930)
+  Method: exact_prefix
+  Matching line: "PRE-EMPTIONER. ONE WHO, BY SETTLEMENT UPON THE PUBLIC LAND, OR BY CULTIVATION OF A VORTION OF IT, HA"
+
+PROFECTITIUS
+  Found on leaf: 963 (printed page: 952)
+  Method: fuzzy_substring
+  Matching line: ".PROFECTITIUS. LAT. IN THE CIVIL LAW."
+
+PROMATERTERA
+  Found on leaf: 964 (printed page: 953)
+  Method: fuzzy_substring
+  Matching line: "- PROMATERTERA. LAT. IN THE CIVIL"
+
+PROVOST-MARSHAL
+  Found on leaf: 974 (printed page: 963)
+  Method: fuzzy_substring
+  Matching line: "' PROVOST-MARSHAL. IN ENGLISH LAW."
+
+QUARTA FALCIDIA
+  Found on leaf: 987 (printed page: 976)
+  Method: fuzzy_substring
+  Matching line: ".QUARTA FALCIDIA. IN ROMAN LAW."
+
+QUINSTEME
+  Found on leaf: 993 (printed page: 982)
+  Method: exact_prefix
+  Matching line: "QUINSTEME, OR QUINZIME. FIFTEENTHS; ALSO THE FIFTEENTH DAY AFTER A FEST!-"
+
+REBUTTING EVIDENCE
+  Found on leaf: 1005 (printed page: 994)
+  Method: exact_prefix
+  Matching line: "REBUTTING EVIDENCE ITSELF. LUX V. HAGGIN, 69"
+
+RECEIVING STOLEN GOODS
+  Found on leaf: 1006 (printed page: 995)
+  Method: fuzzy_substring
+  Matching line: "' RECEIVING STOLEN GOODS. THE"
+
+RECONTINUANCE
+  Found on leaf: 1009 (printed page: 998)
+  Method: exact_prefix
+  Matching line: "RECONTINUANCE SEEMS TO BE USED TO"
+
+RECONVEYANCE
+  Found on leaf: 1009 (printed page: 998)
+  Method: exact_prefix
+  Matching line: "RECONVEYANCE TAKES PLACE WHERE A"
+
+REP-SILVER
+  Found on leaf: 1032 (printed page: 1021)
+  Method: exact_prefix
+  Matching line: "REP-SILVER. IN OLD RECORDS. MONEY"
+
+RETENEMENTUM
+  Found on leaf: 1042 (printed page: 1031)
+  Method: fuzzy_substring
+  Matching line: "'RETENEMENTUM. IN OLD. ENGLISH LAW"
+
+RETRACTATION
+  Found on leaf: 1043 (printed page: 1032)
+  Method: exact_prefix
+  Matching line: "RETRACTATION, IN PROBATE PRACTICE, IS"
+
+REVENDICATION
+  Found on leaf: 1045 (printed page: 1034)
+  Method: fuzzy_substring
+  Matching line: ",- REVENDICATION. IN THE CIVIL LAW."
+
+REVISING BARRISTERS
+  Found on leaf: 1046 (printed page: 1035)
+  Method: fuzzy_substring
+  Matching line: "- REVISING BARRISTERS. IN WPNELISH LAW. BARRISTERS APPOINTED TO REVISE THE"
+
+RIPTOWELL
+  Found on leaf: 1053 (printed page: 1042)
+  Method: exact_prefix
+  Matching line: "RIPTOWELL, OR REAPTOWEL.: A"
+
+ROBERDSMEN
+  Found on leaf: 1054 (printed page: 1043)
+  Method: fuzzy_substring
+  Matching line: "_ROBERDSMEN. IN OLD ENGLISH LAW."
+
+ROD KNIGHTS
+  Found on leaf: 1054 (printed page: 1043)
+  Method: fuzzy_substring
+  Matching line: "' ROD KNIGHTS. IN FEUDAL LAW. CERTAIN SERVITORS WHO HELD THEIR LAND BY SERVING"
+
+SATURDAY'S STOP
+  Found on leaf: 1068 (printed page: 1057)
+  Method: fuzzy_substring
+  Matching line: "' SATURDAY'S STOP. IN OLD ENGLISH"
+
+SCOUNDREL
+  Found on leaf: 1072 (printed page: 1061)
+  Method: fuzzy_substring
+  Matching line: "-SCOUNDREL. AN APPROBIOUS EPITHET,"
+
+SEDERUNT
+  Found on leaf: 1078 (printed page: 1067)
+  Method: exact_prefix
+  Matching line: "SEDERUNT, ACTS OF. IN SCOTCH LAW."
+
+SEISED IN DEMESNE AS OF FEE
+  Found on leaf: 1078 (printed page: 1067)
+  Method: exact_prefix
+  Matching line: "SEISED IN DEMESNE AS OF FEE,"
+
+SEMI-PLENA PROBATIO
+  Found on leaf: 1080 (printed page: 1069)
+  Method: fuzzy_substring
+  Matching line: "' SEMI-PLENA PROBATIO.. TAT.: DN"
+
+SERVIENS AD LEGEM
+  Found on leaf: 1087 (printed page: 1076)
+  Method: fuzzy_substring
+  Matching line: "' SERVIENS AD LEGEM. IN OLD ENG"
+
+SERVIENS DOMINI REGIS
+  Found on leaf: 1087 (printed page: 1076)
+  Method: fuzzy_substring
+  Matching line: "' SERVIENS DOMINI REGIS. IN OLD"
+
+SIDE-BAR
+  Found on leaf: 1098 (printed page: 1087)
+  Method: exact_prefix
+  Matching line: "SIDE-BAR RULES. IN ENGLISH PRACTICE. THERE ARE SOME RULES WHICH THE COURTS"
+
+SIDE-BAR RULES
+  Found on leaf: 1098 (printed page: 1087)
+  Method: exact_prefix
+  Matching line: "SIDE-BAR RULES. IN ENGLISH PRACTICE. THERE ARE SOME RULES WHICH THE COURTS"
+
+SIGN-MANUAL
+  Found on leaf: 1099 (printed page: 1088)
+  Method: fuzzy_substring
+  Matching line: "' SIGN-MANUAL. IN ENGLISH LAW. THE"
+
+SIGNATORIUS
+  Found on leaf: 1099 (printed page: 1088)
+  Method: exact_prefix
+  Matching line: "SIGNATORIUS ANNULUS."
+
+SILK GOWN
+  Found on leaf: 1100 (printed page: 1089)
+  Method: fuzzy_substring
+  Matching line: "' SILK GOWN. USED ESPECIALLY OF THE"
+
+SOLICITOR GENERAL
+  Found on leaf: 1107 (printed page: 1096)
+  Method: fuzzy_substring
+  Matching line: "—SOLICITOR GENERAL. IN ENGLISH LAW. ONE OF"
+
+SOMPNOUR
+  Found on leaf: 1108 (printed page: 1097)
+  Method: fuzzy_substring
+  Matching line: "| SOMPNOUR. IN ECCLESIASTICAL LAW, AN"
+
+SPECULATIVE DAMAGES
+  Found on leaf: 1112 (printed page: 1101)
+  Method: fuzzy_substring
+  Matching line: "| SPECULATIVE DAMAGES."
+
+STAGE-RIGHT
+  Found on leaf: 1115 (printed page: 1104)
+  Method: exact_prefix
+  Matching line: "STAGE-RIGHT IS A WORD WHICH IT HAS"
+
+STAR-CHAMBER
+  Found on leaf: 1116 (printed page: 1105)
+  Method: exact_prefix
+  Matching line: "STAR-CHAMBER WAS A COURT WHICH"
+
+STEP-DAUGHTER
+  Found on leaf: 1120 (printed page: 1109)
+  Method: fuzzy_substring
+  Matching line: "_STEP-DAUGHTER. THE DAUGHTER. OF"
+
+STERBRECHE
+  Found on leaf: 1120 (printed page: 1109)
+  Method: exact_prefix
+  Matching line: "STERBRECHE, OR STREBRICH. THE"
+
+SUBJECT-MATTER
+  Found on leaf: 1127 (printed page: 1116)
+  Method: fuzzy_substring
+  Matching line: "IDATE THE SUBJECT-MATTER OF THE TRIAL"
+
+SUPERFLUOUS
+  Found on leaf: 1134 (printed page: 1123)
+  Method: exact_prefix
+  Matching line: "SUPERFLUOUS LANDS, IN ENGLISH"
+
+ZEALOUS
+  Found on leaf: 1141 (printed page: 1130)
+  Method: fuzzy_substring
+  Matching line: "IS UNDULY ZEALOUS"
+
+TELLIGRAPHUM
+  Found on leaf: 1151 (printed page: 1140)
+  Method: fuzzy_substring
+  Matching line: "'"TELLIGRAPHUM. AN _ ANGLO-SAXON"
+
+TENENTIBUS
+  Found on leaf: 1155 (printed page: 1144)
+  Method: exact_prefix
+  Matching line: "TENENTIBUS IN ASSISA NON ON-"
+
+TERMINATING
+  Found on leaf: 1157 (printed page: 1146)
+  Method: exact_prefix
+  Matching line: "TERMINATING BUILDING SOOCI-"
+
+THE STATUTE
+  Found on leaf: 1159 (printed page: 1148)
+  Method: fuzzy_substring
+  Matching line: "TEST ACT. THE STATUTE 25 CAR. II. C. 2,"
+
+THESAURUS, THESAURIUM
+  Found on leaf: 1163 (printed page: 1152)
+  Method: fuzzy_substring
+  Matching line: "' THESAURUS, THESAURIUM. THE"
+
+THIRD-NIGHT-AWN-HINDE
+  Found on leaf: 1164 (printed page: 1153)
+  Method: fuzzy_substring
+  Matching line: ". THIRD-NIGHT-AWN-HINDE. BY THE"
+
+THIRDBOROUGH
+  Found on leaf: 1164 (printed page: 1153)
+  Method: exact_prefix
+  Matching line: "THIRDBOROUGH, ER THIRDBO:+"
+
+THREE-DOLLAR
+  Found on leaf: 1165 (printed page: 1154)
+  Method: fuzzy_substring
+  Matching line: "- THREE-DOLLAR PIBOCE. A GOLD COIN"
+
+TINBOUNDING
+  Found on leaf: 1167 (printed page: 1156)
+  Method: exact_prefix
+  Matching line: "TINBOUNDING IS A CUSTOM REGULATING"
+
+TOLLSESTER
+  Found on leaf: 1171 (printed page: 1160)
+  Method: fuzzy_substring
+  Matching line: "_ TOLLSESTER. AN OLD EXCISE; A DUTY"
+
+TRANSCRIPT
+  Found on leaf: 1178 (printed page: 1167)
+  Method: fuzzy_substring
+  Matching line: " OBTAIN A TRANSCRIPT OF IT."
+
+TRANSCRIPTIO
+  Found on leaf: 1178 (printed page: 1167)
+  Method: exact_prefix
+  Matching line: "TRANSCRIPTIO RECOGNITIONIS"
+
+TRANSITIVE COVENANT
+  Found on leaf: 1179 (printed page: 1168)
+  Method: fuzzy_substring
+  Matching line: "- TRANSITIVE COVENANT. SEE COVE-"
+
+TRANSLATITIUM
+  Found on leaf: 1179 (printed page: 1168)
+  Method: fuzzy_substring
+  Matching line: ""EDICTUM 'TRANSLATITIUM,." SEE MACKELD."
+
+TREBELLANIC
+  Found on leaf: 1181 (printed page: 1170)
+  Method: fuzzy_substring
+  Matching line: "ICLE, THE TREBELLANIC PORTION"
+
+TWELVE-MONTH
+  Found on leaf: 1191 (printed page: 1180)
+  Method: exact_prefix
+  Matching line: "TWELVE-MONTH, IN THE SINGULAR NUMBER, INCLUDES ALL THE YEAR; BUT TWELVE MONTHS"
+
+UNDER-CHAMBERLAINS
+  Found on leaf: 1195 (printed page: 1184)
+  Method: exact_prefix
+  Matching line: "UNDER-CHAMBERLAINS OF THE"
+
+UNDER-SHERIFF
+  Found on leaf: 1195 (printed page: 1184)
+  Method: fuzzy_substring
+  Matching line: "' UNDER-SHERIFF. AN OFFICER WHO ACTS"
+
+UNDER-TREASURER
+  Found on leaf: 1195 (printed page: 1184)
+  Method: exact_prefix
+  Matching line: "UNDER-TREASURER OF ENGLAND."
+
+USUCAPIO
+  Found on leaf: 1202 (printed page: 1191)
+  Method: exact_prefix
+  Matching line: "USUCAPIO, OR USUOCAPTIO. A TERM"
+
+VALUED POLICY
+  Found on leaf: 1208 (printed page: 1197)
+  Method: fuzzy_substring
+  Matching line: "' VALUED POLICY. A POLICY IS CALLED"
+
+VICE VERSA
+  Found on leaf: 1217 (printed page: 1206)
+  Method: fuzzy_substring
+  Matching line: "RINCIPAL.—VICE VERSA."
+
+VICE-COMES
+  Found on leaf: 1217 (printed page: 1206)
+  Method: exact_prefix
+  Matching line: "VICE-COMES NON MISIT BREVE.."
+
+VICE-COMITISSA
+  Found on leaf: 1217 (printed page: 1206)
+  Method: fuzzy_substring
+  Matching line: "ITT. 168.—VICE-COMITISSA."
+
+VICE-DOMINUS
+  Found on leaf: 1217 (printed page: 1206)
+  Method: exact_prefix
+  Matching line: "VICE-DOMINUS EPISCOPI. THE VICAR GENERAL"
+
+VICE-JUDEX
+  Found on leaf: 1217 (printed page: 1206)
+  Method: fuzzy_substring
+  Matching line: "EUTENANT. VICE-JUDEX."
+
+VICOUNTIEL
+  Found on leaf: 1217 (printed page: 1206)
+  Method: exact_prefix
+  Matching line: "VICOUNTIEL, OR VICONTIEL. ANYTHING THAT BELONGS TO THE SHERIFFS, AS VICONTIEL"
+
+VIIS ET MODIS
+  Found on leaf: 1219 (printed page: 1208)
+  Method: exact_prefix
+  Matching line: "VIIS ET MODIS, 4. E., BY ALL "'WAYS AND MEANS""
+
+WAND OF PEACE
+  Found on leaf: 1228 (printed page: 1217)
+  Method: fuzzy_substring
+  Matching line: ":, WAND OF PEACE. IN SCOTCH LAW. A"
+
+WERELADA
+  Found on leaf: 1236 (printed page: 1225)
+  Method: fuzzy_substring
+  Matching line: "- WERELADA. A PURGING FROM A CRIME"
+
+WESTMINSTER THE FIRST
+  Found on leaf: 1236 (printed page: 1225)
+  Method: fuzzy_substring
+  Matching line: "| WESTMINSTER THE FIRST. THE"
+
+WIFE'S EQUITY
+  Found on leaf: 1238 (printed page: 1227)
+  Method: fuzzy_substring
+  Matching line: "THE "WIFE'S EQUITY," OR "EQUITY TO A SETTLEMENT." SEE 2 KENT, COMM. 139."
+
+WITTINGLY
+  Found on leaf: 1241 (printed page: 1230)
+  Method: exact_prefix
+  Matching line: "WITTINGLY MEANS WITH KNOWLEDGE AND"
+
+WOOD LEAVE
+  Found on leaf: 1241 (printed page: 1230)
+  Method: exact_prefix
+  Matching line: "WOOD LEAVE. A LICENSE OR RIGHT TO"
+
+WOOD PLEA COURT
+  Found on leaf: 1241 (printed page: 1230)
+  Method: exact_prefix
+  Matching line: "WOOD PLEA COURT. A COURT HELD"
+
+WORK-BEAST
+  Found on leaf: 1242 (printed page: 1231)
+  Method: exact_prefix
+  Matching line: "WORK-BEAST, OR WORKE-HORSE."
+
+WRIT OF SUMMONS
+  Found on leaf: 1243 (printed page: 1232)
+  Method: exact_prefix
+  Matching line: "WRIT OF SUMMONS BEING THE PROCESS PRESCRI"
+
+XENODOCHIUM
+  Found on leaf: 1247 (printed page: 1236)
+  Method: fuzzy_substring
+  Matching line: "' XENODOCHIUM. IN THE CIVIL AND OLD"
+
+YARDLAND
+  Found on leaf: 1247 (printed page: 1236)
+  Method: fuzzy_substring
+  Matching line: "- YARDLAND, OR VIRGATA TERRE, IS A QUANTITY OF LAND, SAID BY SOME TO BE TWENTY ACRES,"
+
+YIELDING
+  Found on leaf: 1248 (printed page: 1237)
+  Method: fuzzy_substring
+  Matching line: "" 'YIELDING AND PAYING. IN CONVEY-"
+
+ZANJA
+  Found on leaf: 1249 (printed page: 1238)
+  Method: exact_prefix
+  Matching line: "ZANJA. SPAN. A WATER DITCH OR ARTIFICIAL CANAL, AND PARTICULARLY ONE USED FOR PURE"
+
+ZANJERO
+  Found on leaf: 1249 (printed page: 1238)
+  Method: exact_prefix
+  Matching line: "ZANJERO. SPAN. A WATER.COMMISSIONER OR SUPERINTENDENT, OR SUPERVISOR OF AN IRRIGATION SYSTEM. SEE PI"
+
+ZIGARI
+  Found on leaf: 1249 (printed page: 1238)
+  Method: exact_prefix
+  Matching line: "ZIGARI, OR ZINGARI. ROGUES AND VAGABONDS IN THE MIDDLE AGES; FROM ZIGI, NOW"
+
+
+======================================================================
+SECTION 2: NOT FOUND
+======================================================================
+(371 entries)
+
+A
+  Reason: too_short
+
+A
+  Reason: too_short
+
+A TEMPORE
+  Search window: leaves 21-24
+  Reason: not_found
+
+ABBROOHMENT
+  Search window: leaves 21-24
+  Reason: not_found
+
+ABSQUE CONSIDERATIONE CURIAE
+  Search window: leaves 21-24
+  Reason: not_found
+
+ACCESSORY OCONTRAOT
+  Search window: leaves 23-29
+  Reason: not_found
+
+ACCOUNT-BOOK
+  Search window: leaves 24-31
+  Reason: not_found
+
+ACOCRESCERE
+  Search window: leaves 27-34
+  Reason: not_found
+
+ACOREDIT
+  Search window: leaves 28-34
+  Reason: not_found
+
+ACOROOCHER
+  Search window: leaves 28-34
+  Reason: not_found
+
+ACTIO NON ACCREVIT INFRA SEX ANNOS
+  Search window: leaves 33-39
+  Reason: not_found
+
+AD MEDIUM FILUM VIAE
+  Search window: leaves 39-45
+  Reason: not_found
+
+ADIEU ADIEU, UL
+  Search window: leaves 42-48
+  Reason: not_found
+
+ADULTERINE GUILDS
+  Search window: leaves 49-55
+  Reason: not_found
+
+AEDIFICARE
+  Search window: leaves 52-60
+  Reason: not_found
+
+AEDIFICATUM
+  Search window: leaves 52-60
+  Reason: not_found
+
+AEDILITIUM EDICTUM
+  Search window: leaves 52-60
+  Reason: not_found
+
+AEGROTO
+  Search window: leaves 52-60
+  Reason: not_found
+
+AIBSIAMENTUM
+  Search window: leaves 62-68
+  Reason: not_found
+
+ALBA FIRMA
+  Search window: leaves 63-69
+  Reason: not_found
+
+ALOCALDE
+  Search window: leaves 70-76
+  Reason: not_found
+
+AND PERVERSION OF
+  Search window: leaves 77-83
+  Reason: not_found
+
+ARD OF THE UNIVERSITIES
+  Search window: leaves 93-99
+  Reason: not_found
+
+ARISTO-DEMOCRACY
+  Search window: leaves 94-100
+  Reason: not_found
+
+ARTICLES ARTICLES, WORDS OF
+  Search window: leaves 98-105
+  Reason: not_found
+
+AT COMMON LAW
+  Search window: leaves 108-114
+  Reason: not_found
+
+AUCTORITATE PARLIAMENTI
+  Search window: leaves 113-119
+  Reason: not_found
+
+AURUM REGIS
+  Search window: leaves 114-120
+  Reason: not_found
+
+BARRAGARIA
+  Search window: leaves 129-135
+  Reason: not_found
+
+BEREWICHA
+  Search window: leaves 136-143
+  Reason: not_found
+
+BI-METALLIC
+  Search window: leaves 138-144
+  Reason: not_found
+
+BI-METALLISM
+  Search window: leaves 138-144
+  Reason: not_found
+
+BLACK-ROD BLACK-ROD, GENTLEMAN USHER OF
+  Search window: leaves 145-152
+  Reason: not_found
+
+BORD-BRIDGE
+  Search window: leaves 153-159
+  Reason: not_found
+
+BORD-BRIGCH
+  Search window: leaves 153-159
+  Reason: not_found
+
+BRETTS AND SCOTTS, LAWS OF THE
+  Search window: leaves 158-164
+  Reason: not_found
+
+BROCARIUS BROCARIUS, BROCATOR
+  Search window: leaves 161-167
+  Reason: not_found
+
+CARCERATUS
+  Search window: leaves 178-184
+  Reason: not_found
+
+CART BOOT
+  Search window: leaves 180-186
+  Reason: not_found
+
+CASTELLAN, CASTELLAN
+  Search window: leaves 182-188
+  Reason: not_found
+
+CAUSIDICUS
+  Search window: leaves 186-193
+  Reason: not_found
+
+CECONOMUS
+  Search window: leaves 188-194
+  Reason: not_found
+
+CENSUMETHIDDUS
+  Search window: leaves 189-195
+  Reason: not_found
+
+CHAIN OF TITLE
+  Search window: leaves 194-200
+  Reason: not_found
+
+CHAIRMAN OF COMMITTEES OF THE WHOLE HOUSE
+  Search window: leaves 194-201
+  Reason: not_found
+
+CHRISTIANITATIS
+  Search window: leaves 207-213
+  Reason: not_found
+
+CIPIENDO
+  Search window: leaves 208-214
+  Reason: not_found
+
+CLASSUM PASCHAE
+  Search window: leaves 214-220
+  Reason: not_found
+
+CLERICI DE CANCELLARIA
+  Search window: leaves 216-222
+  Reason: not_found
+
+CO-HEIRESS
+  Search window: leaves 218-224
+  Reason: not_found
+
+CO-ORDINATE
+  Search window: leaves 218-224
+  Reason: not_found
+
+CO-STIPULATOR
+  Search window: leaves 218-224
+  Reason: not_found
+
+CO-SURETIES
+  Search window: leaves 218-224
+  Reason: not_found
+
+COLLEGATARIUS
+  Search window: leaves 223-230
+  Reason: not_found
+
+COLLITIGANT
+  Search window: leaves 224-230
+  Reason: not_found
+
+COMITATUS ET CASTRO COMMISSO
+  Search window: leaves 227-233
+  Reason: not_found
+
+CONJECTIO CAUSAE
+  Search window: leaves 254-260
+  Reason: not_found
+
+CONTRASCRIPTURA
+  Search window: leaves 272-278
+  Reason: not_found
+
+CONTRE-MAITRE
+  Search window: leaves 272-278
+  Reason: not_found
+
+COUNTER-FEASANCE
+  Search window: leaves 289-296
+  Reason: not_found
+
+COUNTER-FESANCE
+  Search window: leaves 289-296
+  Reason: not_found
+
+COURTS OF ASSIZE AND NISI PRIUS
+  Search window: leaves 295-301
+  Reason: not_found
+
+CUCKING-STOOL
+  Search window: leaves 311-317
+  Reason: not_found
+
+CURIALITY
+  Search window: leaves 315-322
+  Reason: not_found
+
+CUTCHERRY
+  Search window: leaves 319-325
+  Reason: not_found
+
+CYNE-BOT
+  Search window: leaves 319-325
+  Reason: not_found
+
+CYNEBOTE
+  Search window: leaves 319-325
+  Reason: not_found
+
+DAMUS, DAILUS, DAILIA
+  Search window: leaves 324-330
+  Reason: not_found
+
+DARE AD REMANENTIAM
+  Search window: leaves 325-331
+  Reason: not_found
+
+DE BONA NOTITIA
+  Search window: leaves 336-346
+  Reason: not_found
+
+DEAD MAN'S SHOE
+  Search window: leaves 340-346
+  Reason: not_found
+
+DEAD PAWN
+  Search window: leaves 340-346
+  Reason: not_found
+
+DEAD WORTH
+  Search window: leaves 340-346
+  Reason: not_found
+
+DEAD WORTH AND GABRELL
+  Search window: leaves 340-346
+  Reason: not_found
+
+DEAD WORTH AND GABRIEL
+  Search window: leaves 340-346
+  Reason: not_found
+
+DEAERARI
+  Search window: leaves 340-346
+  Reason: not_found
+
+DEAERATORIUM
+  Search window: leaves 340-346
+  Reason: not_found
+
+DEAERATORIUM DEDITUM
+  Search window: leaves 340-346
+  Reason: not_found
+
+DEAERATORIUM NON DEDITUM
+  Search window: leaves 340-346
+  Reason: not_found
+
+DEAERATORIUM PUBLICUM
+  Search window: leaves 340-346
+  Reason: not_found
+
+DEAERATORIUM TESTAMENTI
+  Search window: leaves 340-346
+  Reason: not_found
+
+DEAERATORIUM TRIBUTUM
+  Search window: leaves 340-346
+  Reason: not_found
+
+DEAERATRIX
+  Search window: leaves 340-346
+  Reason: not_found
+
+DEAERATUM ABROGATUM
+  Search window: leaves 340-346
+  Reason: not_found
+
+DEAERATUM FACTUM
+  Search window: leaves 340-346
+  Reason: not_found
+
+DEAERATUM NON FACTUM
+  Search window: leaves 340-346
+  Reason: not_found
+
+DEAERATUM PUBLICUM
+  Search window: leaves 340-346
+  Reason: not_found
+
+DEAERATUM TESTATRIX
+  Search window: leaves 340-346
+  Reason: not_found
+
+DEAERATUM TRIBUTUM
+  Search window: leaves 340-346
+  Reason: not_found
+
+DEAERATUM VERBUM
+  Search window: leaves 340-346
+  Reason: not_found
+
+DEAMBULATORY
+  Search window: leaves 340-346
+  Reason: not_found
+
+DEATH'S-HEAD
+  Search window: leaves 340-347
+  Reason: not_found
+
+DEATH-WATCH
+  Search window: leaves 341-347
+  Reason: not_found
+
+DEBATE, DAY OF
+  Search window: leaves 341-347
+  Reason: not_found
+
+DEBATE, MATTER IN
+  Search window: leaves 341-347
+  Reason: not_found
+
+DEBATE, SPECIAL MATTER IN
+  Search window: leaves 341-347
+  Reason: not_found
+
+DEBELLATRIX
+  Search window: leaves 341-347
+  Reason: not_found
+
+DEBELLIS
+  Search window: leaves 341-347
+  Reason: not_found
+
+DEBELLIZATION
+  Search window: leaves 341-347
+  Reason: not_found
+
+DEBENTURE STOCK
+  Search window: leaves 341-347
+  Reason: not_found
+
+DEBITUM NUMMORUM
+  Search window: leaves 342-348
+  Reason: not_found
+
+DEBITUM PRAETORIANUM
+  Search window: leaves 342-348
+  Reason: not_found
+
+DEBITUM PRIVATUM
+  Search window: leaves 342-348
+  Reason: not_found
+
+DEBITUM PUBLICUM
+  Search window: leaves 342-348
+  Reason: not_found
+
+DEBITUM TRIBUTUM
+  Search window: leaves 342-349
+  Reason: not_found
+
+DEBONA FIDE
+  Search window: leaves 342-349
+  Reason: not_found
+
+DEBONA VOLUMUS
+  Search window: leaves 342-349
+  Reason: not_found
+
+DEBONIS NON ADMINISTRATIS
+  Search window: leaves 342-349
+  Reason: not_found
+
+DEBOUCHURE
+  Search window: leaves 342-349
+  Reason: not_found
+
+DEBT, ASSIGNMENT OF
+  Search window: leaves 342-349
+  Reason: not_found
+
+DEBT, CHOICE OF
+  Search window: leaves 342-349
+  Reason: not_found
+
+DEBT, CONTRACT OF
+  Search window: leaves 342-349
+  Reason: not_found
+
+DEBT, DAMAGES FOR
+  Search window: leaves 342-349
+  Reason: not_found
+
+DEBT, EVIDENCE OF
+  Search window: leaves 342-349
+  Reason: not_found
+
+DEBT, EXECUTION FOR
+  Search window: leaves 342-349
+  Reason: not_found
+
+DEBT, FINE OF
+  Search window: leaves 342-349
+  Reason: not_found
+
+DEBT, FOREIGN
+  Search window: leaves 342-349
+  Reason: not_found
+
+DECRETUM PRAETORIUM
+  Search window: leaves 348-354
+  Reason: not_found
+
+DEER-HAYES
+  Search window: leaves 350-356
+  Reason: not_found
+
+DEMY SANG
+  Search window: leaves 360-367
+  Reason: not_found
+
+DEVADIATOUS
+  Search window: leaves 371-377
+  Reason: not_found
+
+DIEU SON DROIT
+  Search window: leaves 375-381
+  Reason: not_found
+
+DISJIJUNCTIVE
+  Search window: leaves 384-390
+  Reason: not_found
+
+DRY-CRAFT
+  Search window: leaves 408-414
+  Reason: not_found
+
+DULPEX VALOR MARITAGII
+  Search window: leaves 410-416
+  Reason: not_found
+
+EAT IN DE SINE DIE
+  Search window: leaves 418-424
+  Reason: not_found
+
+ECOLESIARCH
+  Search window: leaves 419-425
+  Reason: not_found
+
+ECOLESIAROH
+  Search window: leaves 419-425
+  Reason: not_found
+
+ECOLESIASTIO
+  Search window: leaves 419-425
+  Reason: not_found
+
+EFALCIDIAN
+  Search window: leaves 420-426
+  Reason: not_found
+
+EFIRDSOONE
+  Search window: leaves 421-427
+  Reason: not_found
+
+EFIRDWITE
+  Search window: leaves 421-427
+  Reason: not_found
+
+EFORTALICE
+  Search window: leaves 421-427
+  Reason: not_found
+
+EFRUSCA
+  Search window: leaves 421-427
+  Reason: not_found
+
+EFUNDATOR
+  Search window: leaves 421-427
+  Reason: not_found
+
+ELIZABETH
+  Search window: leaves 425-431
+  Reason: not_found
+
+EMPTIO REI SPERATA
+  Search window: leaves 430-436
+  Reason: not_found
+
+EN JUICIO
+  Search window: leaves 430-437
+  Reason: not_found
+
+ENNOTESCIMUS
+  Search window: leaves 434-440
+  Reason: not_found
+
+ERE-MURDER
+  Search window: leaves 442-448
+  Reason: not_found
+
+EXAMINAL ROLL
+  Search window: leaves 463-469
+  Reason: not_found
+
+EXECUTIONE JUDICII
+  Search window: leaves 469-475
+  Reason: not_found
+
+EXERCITORIA ACTIO
+  Search window: leaves 471-477
+  Reason: not_found
+
+EXQUAESTOR
+  Search window: leaves 477-483
+  Reason: not_found
+
+EXTREME CRUELTY
+  Search window: leaves 480-486
+  Reason: not_found
+
+F
+  Reason: too_short
+
+FAC-SIMILE PROBATE
+  Search window: leaves 482-488
+  Reason: not_found
+
+FALDAS CURSUS
+  Search window: leaves 488-494
+  Reason: not_found
+
+FALDSOECA
+  Search window: leaves 488-494
+  Reason: not_found
+
+FAMILIAE ERCISCUNDAE
+  Search window: leaves 490-496
+  Reason: not_found
+
+FAMILIARERCISCUNDA
+  Search window: leaves 490-496
+  Reason: not_found
+
+FEAL AND FUEL
+  Search window: leaves 493-499
+  Reason: not_found
+
+FEMINA VIRO CO-OPERTA
+  Search window: leaves 498-504
+  Reason: not_found
+
+FEODAL LAW
+  Search window: leaves 498-504
+  Reason: not_found
+
+FERAE BESTIAE
+  Search window: leaves 499-505
+  Reason: not_found
+
+FERDELLA TERRA
+  Search window: leaves 499-505
+  Reason: not_found
+
+FEU ET LIEU
+  Search window: leaves 500-507
+  Reason: not_found
+
+FLOTSAM FLOTSAM, FLOTSAM
+  Search window: leaves 513-519
+  Reason: not_found
+
+FOL-CRIGHT
+  Search window: leaves 515-521
+  Reason: not_found
+
+FOLK-LAND FOLK-LAND; FOLK-MOTE
+  Search window: leaves 515-521
+  Reason: not_found
+
+FORTUNAE CASUS
+  Search window: leaves 525-531
+  Reason: not_found
+
+FORUM CONVENIENS
+  Search window: leaves 525-531
+  Reason: not_found
+
+FORUM OPERATIO
+  Search window: leaves 525-531
+  Reason: not_found
+
+FORUM REPETUNDARUM
+  Search window: leaves 525-531
+  Reason: not_found
+
+FORUM TRADITIONIS
+  Search window: leaves 525-531
+  Reason: not_found
+
+FORUM TRADITIONIS ET AC-' TIONIS
+  Search window: leaves 525-531
+  Reason: not_found
+
+FORUM TRADITIONIS ET CON' DICTI
+  Search window: leaves 525-531
+  Reason: not_found
+
+FORWARDING HOUSE
+  Search window: leaves 525-531
+  Reason: not_found
+
+FOSTER-PARENT
+  Search window: leaves 526-532
+  Reason: not_found
+
+FOUL PLAY
+  Search window: leaves 526-532
+  Reason: not_found
+
+FOUL RYOT
+  Search window: leaves 526-532
+  Reason: not_found
+
+FOUNDLING HOSPITAL
+  Search window: leaves 526-532
+  Reason: not_found
+
+FOUR-CORNER RULE
+  Search window: leaves 526-532
+  Reason: not_found
+
+FOUR-FOLD
+  Search window: leaves 526-532
+  Reason: not_found
+
+FOUR-FOLD, PUNISHMENT
+  Search window: leaves 526-532
+  Reason: not_found
+
+FOUR-IN-HAND
+  Search window: leaves 526-532
+  Reason: not_found
+
+FOUR-MEMBER FIRM
+  Search window: leaves 526-532
+  Reason: not_found
+
+FOURSQUARE
+  Search window: leaves 526-532
+  Reason: not_found
+
+FOURTH DAY
+  Search window: leaves 526-532
+  Reason: not_found
+
+FOX-HUNTING
+  Search window: leaves 526-532
+  Reason: not_found
+
+FRANELEYN
+  Search window: leaves 528-534
+  Reason: not_found
+
+FRUCTITIUM
+  Search window: leaves 534-540
+  Reason: not_found
+
+FUNDANDAE
+  Search window: leaves 538-544
+  Reason: not_found
+
+FUNGIBLES
+  Search window: leaves 538-544
+  Reason: not_found
+
+GARCIONES STOLAE
+  Search window: leaves 543-549
+  Reason: not_found
+
+GESTING-MEN
+  Search window: leaves 547-554
+  Reason: not_found
+
+GLEBARIAE
+  Search window: leaves 550-556
+  Reason: not_found
+
+GRADUS PARENTELAE
+  Search window: leaves 554-560
+  Reason: not_found
+
+GRATIS DICTUM
+  Search window: leaves 555-561
+  Reason: not_found
+
+HAEARETICO
+  Search window: leaves 564-570
+  Reason: not_found
+
+HAILINGDARE
+  Search window: leaves 566-572
+  Reason: not_found
+
+HAILWOREFOLK
+  Search window: leaves 566-572
+  Reason: not_found
+
+HEORDFZATE
+  Search window: leaves 575-581
+  Reason: not_found
+
+HEREDE RAPTO
+  Search window: leaves 576-582
+  Reason: not_found
+
+HERETICO COMBURENDO
+  Search window: leaves 577-583
+  Reason: not_found
+
+HIBITIONEM
+  Search window: leaves 578-584
+  Reason: not_found
+
+HOSTILARIA HOSTILARIA, HOSPITALARIA
+  Search window: leaves 588-594
+  Reason: not_found
+
+HUOUSQUE
+  Search window: leaves 591-597
+  Reason: not_found
+
+IGNITEGIUM
+  Search window: leaves 597-603
+  Reason: not_found
+
+INCULPATORY
+  Search window: leaves 622-628
+  Reason: not_found
+
+INFIDUCIARE
+  Search window: leaves 630-637
+  Reason: not_found
+
+INHERITABLE BLOOD
+  Search window: leaves 633-640
+  Reason: not_found
+
+INNHOLDER
+  Search window: leaves 637-643
+  Reason: not_found
+
+INOFFENSIVE
+  Search window: leaves 638-644
+  Reason: not_found
+
+INQUEST OF VIOLENCE
+  Search window: leaves 638-645
+  Reason: not_found
+
+INQUISITIO DE FRAUDE
+  Search window: leaves 639-645
+  Reason: not_found
+
+INQUISITIO DE VI
+  Search window: leaves 639-645
+  Reason: not_found
+
+INQUISITIO GENERALIS
+  Search window: leaves 639-645
+  Reason: not_found
+
+INQUISITIO LIMITUM
+  Search window: leaves 639-645
+  Reason: not_found
+
+INQUISITIO REGIS
+  Search window: leaves 639-645
+  Reason: not_found
+
+INQUISITION AFTER DEATH
+  Search window: leaves 639-645
+  Reason: not_found
+
+INSCRIPTIO TESTAMENTI
+  Search window: leaves 645-651
+  Reason: not_found
+
+IRA MOTUS
+  Search window: leaves 664-670
+  Reason: not_found
+
+IRRREGULAR
+  Search window: leaves 665-671
+  Reason: not_found
+
+ISSUE LEX SCRIPTA EST
+  Search window: leaves 665-672
+  Reason: not_found
+
+ISSUE QUOD
+  Search window: leaves 665-672
+  Reason: not_found
+
+ISSUE TE DEUS ADJUVET
+  Search window: leaves 665-672
+  Reason: not_found
+
+ISSUE TE DEUS ADJUVET ET OMNES SANCTI
+  Search window: leaves 665-672
+  Reason: not_found
+
+ISSUE UTERE TUO UT ALIENUM NON LAEDEAS
+  Search window: leaves 665-672
+  Reason: not_found
+
+ITINERE PER ATTORNATUM
+  Search window: leaves 815-1210
+  Reason: not_found
+
+JACET IN FORE
+  Search window: leaves 668-674
+  Reason: not_found
+
+JUNE-SHOP
+  Search window: leaves 678-684
+  Reason: not_found
+
+K
+  Reason: too_short
+
+K.&QO
+  Search window: leaves 692-699
+  Reason: not_found
+
+KINGS-AT-ABRMS
+  Search window: leaves 696-702
+  Reason: not_found
+
+LAPIDICINA
+  Search window: leaves 704-710
+  Reason: not_found
+
+MANUALIS OBEDIENTIA
+  Search window: leaves 765-771
+  Reason: not_found
+
+MAOE-GREFF
+  Search window: leaves 766-772
+  Reason: not_found
+
+MARCO-BANCO
+  Search window: leaves 767-773
+  Reason: not_found
+
+MER RECOVERY
+  Search window: leaves 780-786
+  Reason: not_found
+
+MERCIMONIATUS ANGLIAE
+  Search window: leaves 781-788
+  Reason: not_found
+
+MISCELLANEOUS
+  Search window: leaves 791-797
+  Reason: not_found
+
+MISCHARACTER
+  Search window: leaves 791-797
+  Reason: not_found
+
+MORGANATIC
+  Search window: leaves 800-806
+  Reason: not_found
+
+MURDERLAGE
+  Search window: leaves 807-813
+  Reason: not_found
+
+NERSHIP
+  Search window: leaves 823-830
+  Reason: not_found
+
+NOLISSEMENT
+  Search window: leaves 828-834
+  Reason: not_found
+
+NONSE ET DECIMAE
+  Search window: leaves 837-843
+  Reason: not_found
+
+NUS REMISIT CURIAM
+  Search window: leaves 810-853
+  Reason: not_found
+
+OBZ,RATUS
+  Search window: leaves 853-859
+  Reason: not_found
+
+OCCULTATIO THESAURI
+  Search window: leaves 853-860
+  Reason: not_found
+
+OCCUPYING CLAIMANT ACTS
+  Search window: leaves 854-861
+  Reason: not_found
+
+OENTENARII
+  Search window: leaves 855-861
+  Reason: not_found
+
+PAX ECCLESIÆ
+  Search window: leaves 891-897
+  Reason: not_found
+
+PELONIOUSLY
+  Search window: leaves 894-900
+  Reason: not_found
+
+PERTICATA TERRAE
+  Search window: leaves 904-910
+  Reason: not_found
+
+PLEGI DE PROSEQUENDO
+  Search window: leaves 914-920
+  Reason: not_found
+
+PORMIDO PERIOLI
+  Search window: leaves 921-928
+  Reason: not_found
+
+PRAEVARICATOR
+  Search window: leaves 935-941
+  Reason: not_found
+
+PRANOMEN
+  Search window: leaves 935-941
+  Reason: not_found
+
+PRIME TONSURA
+  Search window: leaves 946-952
+  Reason: not_found
+
+PRO-CONSUL
+  Search window: leaves 952-959
+  Reason: not_found
+
+PROOCURATORIUM
+  Search window: leaves 963-969
+  Reason: not_found
+
+PSEUDO-PREGNANCY
+  Search window: leaves 971-977
+  Reason: not_found
+
+PUBLIOCIANA
+  Search window: leaves 973-979
+  Reason: not_found
+
+QUADRANTATA TERRAE
+  Search window: leaves 978-984
+  Reason: not_found
+
+QUANDO ALIQUID MANDATUR
+  Search window: leaves 981-989
+  Reason: not_found
+
+QVERSMAN
+  Search window: leaves 201-1003
+  Reason: not_found
+
+R
+  Reason: too_short
+
+RATIONABUNDO
+  Search window: leaves 1000-1006
+  Reason: not_found
+
+RATIONALES CONVENTIONES
+  Search window: leaves 1000-1006
+  Reason: not_found
+
+RATIONALES HABITUS
+  Search window: leaves 1000-1006
+  Reason: not_found
+
+RATIONALES LEGES
+  Search window: leaves 1000-1006
+  Reason: not_found
+
+RATIONALES PERSONAE
+  Search window: leaves 1000-1006
+  Reason: not_found
+
+RATIONALES RES
+  Search window: leaves 1000-1006
+  Reason: not_found
+
+RATIONATIO
+  Search window: leaves 1000-1006
+  Reason: not_found
+
+RE-EXAMINATION
+  Search window: leaves 1001-1007
+  Reason: not_found
+
+RE-EXCHANGE
+  Search window: leaves 1001-1007
+  Reason: not_found
+
+RE-EXTENT
+  Search window: leaves 1001-1007
+  Reason: not_found
+
+REDUCENDIS
+  Search window: leaves 1012-1018
+  Reason: not_found
+
+REPETUNDAE
+  Search window: leaves 1026-1032
+  Reason: not_found
+
+RESOLUTORY CONDITION
+  Search window: leaves 1035-1042
+  Reason: not_found
+
+RESUMMONS
+  Search window: leaves 1039-1045
+  Reason: not_found
+
+REVIVOR, WRIT OF
+  Search window: leaves 1043-1050
+  Reason: not_found
+
+RIGHT OF DISCUSSION
+  Search window: leaves 1047-1053
+  Reason: not_found
+
+RIGHT OF REPRESENTATION AND RIGHT OF SEARCH
+  Search window: leaves 1048-1054
+  Reason: not_found
+
+ROBERSTMEN
+  Search window: leaves 1051-1058
+  Reason: not_found
+
+ROOT OF DESCENT
+  Search window: leaves 1053-1059
+  Reason: not_found
+
+RUNCINUS
+  Search window: leaves 1055-1062
+  Reason: not_found
+
+SANGUINITATE
+  Search window: leaves 1063-1069
+  Reason: not_found
+
+SAOCCULARIT
+  Search window: leaves 1064-1070
+  Reason: not_found
+
+SCHAR-PENNY
+  Search window: leaves 1066-1072
+  Reason: not_found
+
+SCHORN-PENNY
+  Search window: leaves 1066-1073
+  Reason: not_found
+
+SELECTI JUDICES
+  Search window: leaves 1077-1083
+  Reason: not_found
+
+SELF-DEFENSE
+  Search window: leaves 1077-1083
+  Reason: not_found
+
+SERVIENS AD CLAVAM
+  Search window: leaves 1084-1091
+  Reason: not_found
+
+SESSIONS OF THE PEACE
+  Search window: leaves 1086-1093
+  Reason: not_found
+
+SHEPWAY SHEPWAY, COURT OF
+  Search window: leaves 1090-1096
+  Reason: not_found
+
+SIDUABRY
+  Search window: leaves 1096-1102
+  Reason: not_found
+
+SILVA CEDUA
+  Search window: leaves 1097-1103
+  Reason: not_found
+
+SOCUTELLA
+  Search window: leaves 1102-1108
+  Reason: not_found
+
+SOLATRICES
+  Search window: leaves 1103-1109
+  Reason: not_found
+
+SOLDADOES
+  Search window: leaves 1103-1109
+  Reason: not_found
+
+SOLDER-SILVER
+  Search window: leaves 1103-1109
+  Reason: not_found
+
+SOLECISM IN FORM
+  Search window: leaves 1103-1109
+  Reason: not_found
+
+SOLECISM IN MATTER
+  Search window: leaves 1103-1109
+  Reason: not_found
+
+SOLEMN ACKNOWLEDGMENT
+  Search window: leaves 1103-1109
+  Reason: not_found
+
+SOLEMN COUNT
+  Search window: leaves 1103-1109
+  Reason: not_found
+
+SOLEMN FORM
+  Search window: leaves 1103-1109
+  Reason: not_found
+
+SOLEMNIZATION
+  Search window: leaves 1103-1109
+  Reason: not_found
+
+SOLICITATION OF CONTRIBUTIONS
+  Search window: leaves 1103-1110
+  Reason: not_found
+
+SOLICITOR'S FEE
+  Search window: leaves 1103-1110
+  Reason: not_found
+
+SOLICITOR-GENERAL
+  Search window: leaves 1103-1110
+  Reason: not_found
+
+SOLICITORSHIP
+  Search window: leaves 1103-1110
+  Reason: not_found
+
+SOLICITUDE FOR THE PUBLIC GOOD
+  Search window: leaves 1103-1110
+  Reason: not_found
+
+SOLICITUDE FOR THE PUBLIC WEAL
+  Search window: leaves 1103-1110
+  Reason: not_found
+
+SOLICITUDE FOR THE WEAL OF THE COMMONWEALTH
+  Search window: leaves 1103-1110
+  Reason: not_found
+
+SOLICITUDE FOR THE WELFARE OF THE COMMONWEALTH
+  Search window: leaves 1103-1110
+  Reason: not_found
+
+SOLICITUDE FOR THE WELFARE OF THE STATE
+  Search window: leaves 1103-1110
+  Reason: not_found
+
+SOLICITUDE FOR THE WELFARE OF THE WORLD
+  Search window: leaves 1103-1110
+  Reason: not_found
+
+SOLICITUDE FOR THE WORLD
+  Search window: leaves 1103-1110
+  Reason: not_found
+
+SOLICITUDE IN THE PUBLIC GOOD
+  Search window: leaves 1103-1110
+  Reason: not_found
+
+SOLICITUDE IN THE PUBLIC WEAL
+  Search window: leaves 1103-1110
+  Reason: not_found
+
+SOLICITUDE IN THE WEAL OF THE COMMONWEALTH
+  Search window: leaves 1103-1110
+  Reason: not_found
+
+SOLICITUDE IN THE WELFARE OF THE COMMONWEALTH
+  Search window: leaves 1103-1110
+  Reason: not_found
+
+SOLICITUDE IN THE WELFARE OF THE STATE
+  Search window: leaves 1103-1110
+  Reason: not_found
+
+SOLICITUDE IN THE WELFARE OF THE WORLD
+  Search window: leaves 1103-1110
+  Reason: not_found
+
+SOLICITUDE IN THE WORLD
+  Search window: leaves 1103-1110
+  Reason: not_found
+
+SOLIDARINESS
+  Search window: leaves 1103-1110
+  Reason: not_found
+
+SOLIDE TENERE
+  Search window: leaves 1104-1110
+  Reason: not_found
+
+SOLIFUGAE
+  Search window: leaves 1104-1110
+  Reason: not_found
+
+SOLIFUGES
+  Search window: leaves 1104-1110
+  Reason: not_found
+
+SOLILOQUY
+  Search window: leaves 1104-1110
+  Reason: not_found
+
+SOLLICITOR GENERAL
+  Search window: leaves 1104-1110
+  Reason: not_found
+
+SOLLICITOR'S FEE
+  Search window: leaves 1104-1110
+  Reason: not_found
+
+SOLLICITOR-GENERAL
+  Search window: leaves 1104-1110
+  Reason: not_found
+
+SOLLICITORSHIP
+  Search window: leaves 1104-1110
+  Reason: not_found
+
+SOLLICITUDE
+  Search window: leaves 1104-1110
+  Reason: not_found
+
+SOUS SIGNE PRIVE
+  Search window: leaves 1106-1112
+  Reason: not_found
+
+SPIRITUAL TENURES, I
+  Search window: leaves 1109-1116
+  Reason: not_found
+
+STAFF-HERDING
+  Search window: leaves 1111-1118
+  Reason: not_found
+
+SUFFERENTIA PACIS
+  Search window: leaves 1128-1134
+  Reason: not_found
+
+SUPERFCETATION
+  Search window: leaves 1131-1137
+  Reason: not_found
+
+SUPERFETATION
+  Search window: leaves 1131-1137
+  Reason: not_found
+
+SUPERFICIES
+  Search window: leaves 1131-1137
+  Reason: not_found
+
+SUPRAE NATURA
+  Search window: leaves 1133-1140
+  Reason: not_found
+
+SUUS HERES
+  Search window: leaves 1138-1144
+  Reason: not_found
+
+SYNALLAGMATIC
+  Search window: leaves 1139-1145
+  Reason: not_found
+
+SZZVITIA
+  Search window: leaves 385-1146
+  Reason: not_found
+
+T E R R I T O R I A L C O U R T S
+  Search window: leaves 385-419
+  Reason: not_found
+
+T E R R I T O R I A L, T E R R I T O R I A L I T Y
+  Search window: leaves 385-419
+  Reason: not_found
+
+T E R R I T O R Y
+  Search window: leaves 385-419
+  Reason: not_found
+
+T E R R O R
+  Search window: leaves 385-419
+  Reason: not_found
+
+TABLE OF ABBREVIATIONS
+  Search window: leaves 1140-1146
+  Reason: not_found
+
+TABULAE NUPTIALES
+  Search window: leaves 1140-1146
+  Reason: not_found
+
+TATIONEM
+  Search window: leaves 1144-1150
+  Reason: not_found
+
+TOUR D'ECHELLE
+  Search window: leaves 1170-1177
+  Reason: not_found
+
+TRADUCENDIS
+  Search window: leaves 1174-1180
+  Reason: not_found
+
+TRANSLATIVE FACT
+  Search window: leaves 1176-1182
+  Reason: not_found
+
+TREACHOUR
+  Search window: leaves 1177-1183
+  Reason: not_found
+
+TRICTIONIS
+  Search window: leaves 1181-1187
+  Reason: not_found
+
+TUTELZ ACTIO
+  Search window: leaves 1187-1193
+  Reason: not_found
+
+TWO UNIVERSITIES
+  Search window: leaves 1188-1194
+  Reason: not_found
+
+UNUS FLATU
+  Search window: leaves 1196-1202
+  Reason: not_found
+
+UO DOMINICO
+  Search window: leaves 1196-1202
+  Reason: not_found
+
+USINCREASE
+  Search window: leaves 1198-1205
+  Reason: not_found
+
+VENIA GRATIS
+  Search window: leaves 1207-1213
+  Reason: not_found
+
+VICE-CONSUL
+  Search window: leaves 1214-1220
+  Reason: not_found
+
+VICE-GERENT
+  Search window: leaves 1214-1220
+  Reason: not_found
+
+VICE-MARSHAL
+  Search window: leaves 1214-1220
+  Reason: not_found
+
+VICE-PRESIDENT OF THE UNITED STATES
+  Search window: leaves 1214-1220
+  Reason: not_found
+
+VICE-PRINCIPAL
+  Search window: leaves 1214-1220
+  Reason: not_found
+
+WEST SAXON LAW
+  Search window: leaves 1233-1239
+  Reason: not_found
+
+WESTMINSTER CONFESSION
+  Search window: leaves 1233-1240
+  Reason: not_found
+
+WOOD-STREET COMPTER
+  Search window: leaves 1238-1245
+  Reason: not_found
+
+WRIT DE HAERETICO COMBURENDO
+  Search window: leaves 1241-1247
+  Reason: not_found
+
+WRIT DE RATIONABILI PARTE BONORUM
+  Search window: leaves 1241-1247
+  Reason: not_found
+
+WRIT OF ASSOCIATION
+  Search window: leaves 1241-1247
+  Reason: not_found
+
+WRIT OF EJECTMENT
+  Search window: leaves 1241-1248
+  Reason: not_found
+
+YOKELET
+  Search window: leaves 1244-1251
+  Reason: not_found
+
+ZETHELING
+  Search window: leaves 1246-1252
+  Reason: not_found
+
+
+======================================================================
+SECTION 3: SUMMARY
+======================================================================
+Total genuinely_missing: 600
+Recoverable:            229 (38.2%)
+Not found:              371 (61.8%)
+
+Recovery by method:
+  exact_prefix          130
+  fuzzy_substring        96
+  ocr_normalized          3

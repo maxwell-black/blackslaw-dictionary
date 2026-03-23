@@ -1,0 +1,8 @@
+{
+  "_comment": "Manual body corrections for entries where both rebuilt and legacy bodies are garbled. Each key is a headword, value has the corrected body and source leaf for audit trail.",
+  "ABSTRACT": {
+    "source_leaf": 22,
+    "reason": "DjVu segmenter split at 'ABSTRACT, v.' mid-page, garbling both noun and verb senses. Noun definition landed in ABSTRAOT entry. Reconstructed from source_pages.jsonl leaf 22.",
+    "body": "n. An abstract is a less quantity containing the virtue and force of a greater quantity. A transcript is generally defined a copy, and is more comprehensive than an abstract. Harrison v. Mfg. Co., 10 S. C. 278, 283; Hess v. Draffen, 99 Mo. App. 580, 74 S. W. 440; Dickinson v. Chesapeake & O. R. Co., 7 W. Va. 390, 413; Wilhite v. Barr, 67 Mo. 284.\n\nv. To take or withdraw from. Under the National Bank Act, \"abstraction\" is the act of one who, being an officer of a national banking association, wrongfully takes or withdraws from it any of its moneys, funds, or credits, with intent to injure or defraud it or some other person or company, and, without its knowledge or consent or that of its board of directors, converts them to the use of himself or of some person or company other than the bank. It is not the same as embezzlement, larceny, or misapplication of funds. United States v. Harper (C. C.) 83 Fed. 471; United States v. Northway, 120 U. S. 327, 7 Sup. Ct. 580, 30 L. Ed. 664; United States v. Youtsey, (C. C.) 91 Fed. 864; United States v. Taintor, 28 Fed. Cas. 7; United States v. Breese (D. C.) 131 Fed. 915."
+  }
+}

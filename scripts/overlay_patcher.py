@@ -49,11 +49,15 @@ OVERLAY_DIR = REPO / "rebuild" / "overlay"
 # OCR phantoms: garbled headword, near-identical body, no independent meaning.
 # Action: suppress from live build, redirect searches to canonical term.
 PHANTOM_SUPPRESS: dict[str, str] = {
+    "ABSTRAOT": "ABSTRACT",
     "AQUZ HAUSTUS": "AQUA HAUSTUS",
     "DETRAOCTION": "DETRACTION",
     "EXOESSIVE": "EXCESSIVE",
     "FAOCIO": "FACIO",
     "HALLAZCO": "HALLAZGO",
+    "BISHOPRIO": "BISHOPRIC",
+    "DIPTYOHA": "DIPTYCHA",
+    "OFFIOIAL": "OFFICIAL",
     "PERINDEK": "PERINDE",
     "PROPATRAUS": "PROPATRUUS",
     "RETRAOT": "RETRAIT",
