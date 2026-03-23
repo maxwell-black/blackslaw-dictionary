@@ -39362,7 +39362,7 @@
     "id": "BLD2-03084",
     "index": 3084,
     "term": "CORRODY",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -39370,7 +39370,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "CORODY",
+    "duplicate_evidence": "fuzzy_dup, body_sim=1.0"
   },
   {
     "id": "BLD2-03085",
@@ -68706,14 +68708,15 @@
     "id": "BLD2-05355",
     "index": 5355,
     "term": "FOLK-LAND FOLK-LAND; FOLK-MOTE",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "fragment_reason": "scan artifact / garbled compound"
   },
   {
     "id": "BLD2-05356",
@@ -70065,7 +70068,7 @@
     "id": "BLD2-05462",
     "index": 5462,
     "term": "FORSTALL",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -70073,7 +70076,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "FORSTAL",
+    "duplicate_evidence": "fuzzy_dup, body_sim=0.95"
   },
   {
     "id": "BLD2-05463",
@@ -83761,14 +83766,15 @@
     "id": "BLD2-06528",
     "index": 6528,
     "term": "I N",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "fragment_reason": "scan artifact / garbled compound"
   },
   {
     "id": "BLD2-06529",
@@ -95472,7 +95478,7 @@
     "id": "BLD2-07440",
     "index": 7440,
     "term": "L P",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -95480,7 +95486,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "fragment_reason": "scan artifact / garbled compound"
   },
   {
     "id": "BLD2-07441",
@@ -144570,7 +144577,7 @@
     "id": "BLD2-11242",
     "index": 11242,
     "term": "S W",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -144578,7 +144585,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "fragment_reason": "scan artifact / garbled compound"
   },
   {
     "id": "BLD2-11243",

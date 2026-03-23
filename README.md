@@ -8,7 +8,7 @@ A free, searchable web version of Black's Law Dictionary, Second Edition (1910) 
 
 ## About
 
-This project provides free access to 13,009 legal definitions from the classic 1910 edition of Black's Law Dictionary. The corpus was rebuilt from the Internet Archive's DjVu XML extraction, cross-validated against a legacy OCR corpus, and editorially reviewed through a multi-phase overlay system that classifies all 13,641 original entries.
+This project provides free access to 13,003 legal definitions from the classic 1910 edition of Black's Law Dictionary. The corpus was rebuilt from the Internet Archive's DjVu XML extraction, cross-validated against a legacy OCR corpus, and editorially reviewed through a multi-phase overlay system that classifies all 13,641 original entries.
 
 ### Features
 

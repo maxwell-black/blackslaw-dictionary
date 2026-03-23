@@ -1,0 +1,30 @@
+{
+  "summary": {
+    "candidates": 1785,
+    "corrections": 0,
+    "duplicates": 2
+  },
+  "corrections": [],
+  "duplicates": [
+    {
+      "term": "CORRODY",
+      "corrected": "CORODY",
+      "target_type": "verified_main",
+      "target_id": "BLD2-03057",
+      "body_sim": 1.0,
+      "hw_ratio": 0.92,
+      "strategy": "fuzzy_dup",
+      "id": "BLD2-03084"
+    },
+    {
+      "term": "FORSTALL",
+      "corrected": "FORSTAL",
+      "target_type": "verified_main",
+      "target_id": "BLD2-05461",
+      "body_sim": 0.95,
+      "hw_ratio": 0.93,
+      "strategy": "fuzzy_dup",
+      "id": "BLD2-05462"
+    }
+  ]
+}

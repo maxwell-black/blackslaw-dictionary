@@ -1,0 +1,3505 @@
+{
+  "summary": {
+    "total": 1783,
+    "fragments": 111,
+    "stubs": 388,
+    "normal": 1284
+  },
+  "fragments": [
+    {
+      "term": "ADDONE",
+      "body_len": 35,
+      "starts_with_hw": false,
+      "body_preview": "Addonne. Kelhanm.\n\nL. Fr. Given to.",
+      "id": "BLD2-00306"
+    },
+    {
+      "term": "AIBSIAMENTUM",
+      "body_len": 41,
+      "starts_with_hw": false,
+      "body_preview": "In old English law. An easement. Spelman.",
+      "id": "BLD2-00567"
+    },
+    {
+      "term": "ANAGRAPH",
+      "body_len": 37,
+      "starts_with_hw": false,
+      "body_preview": "A register, inventory, or commentary.",
+      "id": "BLD2-00757"
+    },
+    {
+      "term": "ASTRICT",
+      "body_len": 47,
+      "starts_with_hw": false,
+      "body_preview": "In Scotch law. A particular mill.\n\nTo assign to",
+      "id": "BLD2-01167"
+    },
+    {
+      "term": "AUCTIONARIAE",
+      "body_len": 47,
+      "starts_with_hw": false,
+      "body_preview": "Catalogues of goods for public sale or auction.",
+      "id": "BLD2-01217"
+    },
+    {
+      "term": "BERCARIUS",
+      "body_len": 47,
+      "starts_with_hw": false,
+      "body_preview": "or BERICATOR. Herdsman.\n\nA shepherd.\n\nBEREWYCHA",
+      "id": "BLD2-01512"
+    },
+    {
+      "term": "CARCERATUS",
+      "body_len": 30,
+      "starts_with_hw": false,
+      "body_preview": "ship.\n\nLoaded; freighted, as a",
+      "id": "BLD2-02005"
+    },
+    {
+      "term": "CARETORIUS",
+      "body_len": 33,
+      "starts_with_hw": false,
+      "body_preview": "or CARECTARIUS. A carter. Blount.",
+      "id": "BLD2-02012"
+    },
+    {
+      "term": "CARRICLE",
+      "body_len": 36,
+      "starts_with_hw": false,
+      "body_preview": "or CARRACLE. A ship of great burden.",
+      "id": "BLD2-02032"
+    },
+    {
+      "term": "CAUTELA",
+      "body_len": 31,
+      "starts_with_hw": false,
+      "body_preview": "Lat. Care; prudence; provision.",
+      "id": "BLD2-02107"
+    },
+    {
+      "term": "CHARTE-PARTIE",
+      "body_len": 42,
+      "starts_with_hw": false,
+      "body_preview": "Fr. In French marine law. A charter-party.",
+      "id": "BLD2-02265"
+    },
+    {
+      "term": "CHOPS",
+      "body_len": 47,
+      "starts_with_hw": false,
+      "body_preview": "The mouth of a harbor. St. Mass. 1882, p. 1288.",
+      "id": "BLD2-02319"
+    },
+    {
+      "term": "CIRCUMSTANTIBUS",
+      "body_len": 25,
+      "starts_with_hw": false,
+      "body_preview": "TALES DE. See TALES. Sa a",
+      "id": "BLD2-02361"
+    },
+    {
+      "term": "COCROCIA",
+      "body_len": 31,
+      "starts_with_hw": false,
+      "body_preview": "The crosier, or pastoral staff.",
+      "id": "BLD2-02474"
+    },
+    {
+      "term": "COLLEGIA",
+      "body_len": 39,
+      "starts_with_hw": false,
+      "body_preview": "In the civil law. The guild of a trade.",
+      "id": "BLD2-02522"
+    },
+    {
+      "term": "COLLITIGANT",
+      "body_len": 31,
+      "starts_with_hw": false,
+      "body_preview": "One who litigates with another.",
+      "id": "BLD2-02530"
+    },
+    {
+      "term": "CONCUBARIA",
+      "body_len": 47,
+      "starts_with_hw": false,
+      "body_preview": "A fold, pen, or place where cattle lie. Cowell.",
+      "id": "BLD2-02727"
+    },
+    {
+      "term": "CONSTITUTIONS",
+      "body_len": 42,
+      "starts_with_hw": true,
+      "body_preview": "CONSTITUTIONS OF CLARENDON. See CLARENDON.",
+      "id": "BLD2-02894"
+    },
+    {
+      "term": "COPEMAN",
+      "body_len": 33,
+      "starts_with_hw": false,
+      "body_preview": "or COPESMAN man, (q. v.)\n\nA chap-",
+      "id": "BLD2-03037"
+    },
+    {
+      "term": "DARE AD REMANENTIAM",
+      "body_len": 32,
+      "starts_with_hw": false,
+      "body_preview": "To give away in fee, or forever.",
+      "id": "BLD2-03353"
+    },
+    {
+      "term": "DEAD-PLEDGE",
+      "body_len": 28,
+      "starts_with_hw": false,
+      "body_preview": "vadium.\n\nA mortgage; mortuum",
+      "id": "BLD2-03394"
+    },
+    {
+      "term": "DEAERATUM",
+      "body_len": 33,
+      "starts_with_hw": false,
+      "body_preview": "In the civil law. A will. Calvin.",
+      "id": "BLD2-03409"
+    },
+    {
+      "term": "DEAERATUM ABROGATUM",
+      "body_len": 41,
+      "starts_with_hw": false,
+      "body_preview": "In the civil law. A will revoked. Calvin.",
+      "id": "BLD2-03410"
+    },
+    {
+      "term": "DEAERATUM FACTUM",
+      "body_len": 38,
+      "starts_with_hw": false,
+      "body_preview": "In the civil law. A will made. Calvin.",
+      "id": "BLD2-03411"
+    },
+    {
+      "term": "DEAERATUM NON FACTUM",
+      "body_len": 42,
+      "starts_with_hw": false,
+      "body_preview": "In the civil law. A will not made. Calvin.",
+      "id": "BLD2-03412"
+    },
+    {
+      "term": "DEAERATUM TESTATRIX",
+      "body_len": 38,
+      "starts_with_hw": false,
+      "body_preview": "In the civil law. A testatrix. Calvin.",
+      "id": "BLD2-03414"
+    },
+    {
+      "term": "DEBELLATIO",
+      "body_len": 47,
+      "starts_with_hw": false,
+      "body_preview": "In the civil law. A declaration of war. Calvin.",
+      "id": "BLD2-03442"
+    },
+    {
+      "term": "DEMI-SANGUE",
+      "body_len": 28,
+      "starts_with_hw": false,
+      "body_preview": "or DEMY-SANGUE.\n\nHalf-blood.",
+      "id": "BLD2-03642"
+    },
+    {
+      "term": "DISTRAINER",
+      "body_len": 40,
+      "starts_with_hw": false,
+      "body_preview": "or DISTRAINOR. He who seizes a distress.",
+      "id": "BLD2-03978"
+    },
+    {
+      "term": "DRY-CRAFT",
+      "body_len": 34,
+      "starts_with_hw": false,
+      "body_preview": "Witchcraft; magic. Anc. Inst. Eng.",
+      "id": "BLD2-04164"
+    },
+    {
+      "term": "EALDER",
+      "body_len": 48,
+      "starts_with_hw": false,
+      "body_preview": "or EALDING. law. An elder or chief.\n\nIn old Saxo",
+      "id": "BLD2-04242"
+    },
+    {
+      "term": "EFFECTUS SEQUITUR CAUSAM",
+      "body_len": 29,
+      "starts_with_hw": false,
+      "body_preview": "The effect follows the cause.",
+      "id": "BLD2-04302"
+    },
+    {
+      "term": "EFFENDI",
+      "body_len": 48,
+      "starts_with_hw": false,
+      "body_preview": "In Turkish language. Master; a title of respect.",
+      "id": "BLD2-04303"
+    },
+    {
+      "term": "ELAOO",
+      "body_len": 36,
+      "starts_with_hw": false,
+      "body_preview": "A place covered with standing water.",
+      "id": "BLD2-04349"
+    },
+    {
+      "term": "ENDENZIE",
+      "body_len": 43,
+      "starts_with_hw": false,
+      "body_preview": "or ENDENIZEN. To make free; to enfranchise.",
+      "id": "BLD2-04466"
+    },
+    {
+      "term": "FALDSOECA",
+      "body_len": 41,
+      "starts_with_hw": false,
+      "body_preview": "Sax. The liberty or privilege of foldage.",
+      "id": "BLD2-04984"
+    },
+    {
+      "term": "FEMINA VIRO CO-OPERTA",
+      "body_len": 31,
+      "starts_with_hw": false,
+      "body_preview": "A married woman; a feme covert.",
+      "id": "BLD2-05105"
+    },
+    {
+      "term": "FOINESUN",
+      "body_len": 49,
+      "starts_with_hw": false,
+      "body_preview": "In old English law. The fawning of deer. Spelman.",
+      "id": "BLD2-05341"
+    },
+    {
+      "term": "FOLK-LAND FOLK-LAND; FOLK-MOTE",
+      "body_len": 24,
+      "starts_with_hw": false,
+      "body_preview": "Foro-Land;: Folk-Gemote.",
+      "id": "BLD2-05355"
+    },
+    {
+      "term": "FORBARRER",
+      "body_len": 49,
+      "starts_with_hw": false,
+      "body_preview": "L. Fr. preclude; hence, to estop.\n\nTo bar out; to",
+      "id": "BLD2-05373"
+    },
+    {
+      "term": "FOSSATUS",
+      "body_len": 49,
+      "starts_with_hw": false,
+      "body_preview": "Lat. In the civil law. Dug; hollowed out. Calvin.",
+      "id": "BLD2-05501"
+    },
+    {
+      "term": "FOSSOR",
+      "body_len": 32,
+      "starts_with_hw": false,
+      "body_preview": "Lat. A digger; a delver. Calvin.",
+      "id": "BLD2-05504"
+    },
+    {
+      "term": "FOUR-FOLD",
+      "body_len": 47,
+      "starts_with_hw": false,
+      "body_preview": "Quadruple; four times as much. 4 Bl. Comm. 116.",
+      "id": "BLD2-05532"
+    },
+    {
+      "term": "FUNDI",
+      "body_len": 42,
+      "starts_with_hw": true,
+      "body_preview": "FUNDI PATRIMONIALES. Lands of inheritance.",
+      "id": "BLD2-05670"
+    },
+    {
+      "term": "GAFFOLDGILD",
+      "body_len": 40,
+      "starts_with_hw": false,
+      "body_preview": "The payment of custom or tribute. Scott.",
+      "id": "BLD2-05715"
+    },
+    {
+      "term": "GALLIVOLATIUM",
+      "body_len": 28,
+      "starts_with_hw": false,
+      "body_preview": "A cock-shoot, or cock-glade.",
+      "id": "BLD2-05731"
+    },
+    {
+      "term": "GARANDIA",
+      "body_len": 33,
+      "starts_with_hw": false,
+      "body_preview": "or GARANTIA. A warranty. Spelman.",
+      "id": "BLD2-05746"
+    },
+    {
+      "term": "GLEBARIAE",
+      "body_len": 36,
+      "starts_with_hw": false,
+      "body_preview": "Turfs dug out of the ground. Cowell.",
+      "id": "BLD2-05874"
+    },
+    {
+      "term": "GRADUS PARENTELAE",
+      "body_len": 36,
+      "starts_with_hw": false,
+      "body_preview": "A pedigree; a table of relationship.",
+      "id": "BLD2-05917"
+    },
+    {
+      "term": "GUASTALD",
+      "body_len": 46,
+      "starts_with_hw": false,
+      "body_preview": "One who had the custody of the royal mansions.",
+      "id": "BLD2-06006"
+    },
+    {
+      "term": "HANGONEL",
+      "body_len": 42,
+      "starts_with_hw": false,
+      "body_preview": "In old English law. A tax or mulct. Jacob.",
+      "id": "BLD2-06137"
+    },
+    {
+      "term": "HIRST",
+      "body_len": 49,
+      "starts_with_hw": false,
+      "body_preview": "HURST. A wood. Co. Litt. 4b.\n\nIn old English law.",
+      "id": "BLD2-06341"
+    },
+    {
+      "term": "HOGGUS",
+      "body_len": 36,
+      "starts_with_hw": false,
+      "body_preview": "or HOGIETUS. A hog or swine. Cowell.",
+      "id": "BLD2-06359"
+    },
+    {
+      "term": "HUOUSQUE",
+      "body_len": 37,
+      "starts_with_hw": false,
+      "body_preview": "In old pleading. Hitherto. 2 Mod. 24.",
+      "id": "BLD2-06483"
+    },
+    {
+      "term": "I N",
+      "body_len": 41,
+      "starts_with_hw": false,
+      "body_preview": "E v. Goddard, 18 How. 198, 14 L. Ed. 198.",
+      "id": "BLD2-06528"
+    },
+    {
+      "term": "IMMORALITY",
+      "body_len": 47,
+      "starts_with_hw": false,
+      "body_preview": "That which 1s ‘contra bonos mores. See IMMORAL.",
+      "id": "BLD2-06607"
+    },
+    {
+      "term": "IMPAIRMENT",
+      "body_len": 32,
+      "starts_with_hw": false,
+      "body_preview": "Impairing or prejudicing. Jacob.",
+      "id": "BLD2-06611"
+    },
+    {
+      "term": "IMPARGAMENTUM",
+      "body_len": 33,
+      "starts_with_hw": false,
+      "body_preview": "- The right of impounding cattle.",
+      "id": "BLD2-06614"
+    },
+    {
+      "term": "INCASTELLARE",
+      "body_len": 44,
+      "starts_with_hw": false,
+      "body_preview": "To make a building serve as a castle. Jacob.",
+      "id": "BLD2-06703"
+    },
+    {
+      "term": "INROSSATION",
+      "body_len": 49,
+      "starts_with_hw": false,
+      "body_preview": "The act of ingrossing or engrossing. See INGROSS.",
+      "id": "BLD2-06962"
+    },
+    {
+      "term": "INROSSER",
+      "body_len": 43,
+      "starts_with_hw": false,
+      "body_preview": "One who ingrosses or engroses. See INGROSS.",
+      "id": "BLD2-06963"
+    },
+    {
+      "term": "INSCRIPTUS",
+      "body_len": 45,
+      "starts_with_hw": false,
+      "body_preview": "Lat. In the civil law. Inscribed or enrolled.",
+      "id": "BLD2-06973"
+    },
+    {
+      "term": "IS QUI COGNOSCIT",
+      "body_len": 23,
+      "starts_with_hw": false,
+      "body_preview": "Nizor in a fine. Nizor.",
+      "id": "BLD2-07164"
+    },
+    {
+      "term": "ISSUE TE DEUS ADJUVET ET OMNES SANCTI",
+      "body_len": 48,
+      "starts_with_hw": false,
+      "body_preview": "So help you God and all the saints. Willes, 338.",
+      "id": "BLD2-07174"
+    },
+    {
+      "term": "KINTAL",
+      "body_len": 43,
+      "starts_with_hw": false,
+      "body_preview": "or KINTLE.\n\n‘pounds in welght. See QUINTAL.",
+      "id": "BLD2-07412"
+    },
+    {
+      "term": "LIEGER",
+      "body_len": 32,
+      "starts_with_hw": false,
+      "body_preview": "or LEGER. A resident ambassador.",
+      "id": "BLD2-07794"
+    },
+    {
+      "term": "LIEUTENANCY",
+      "body_len": 40,
+      "starts_with_hw": false,
+      "body_preview": "COMMISSION OF.. See COMMISSION OF ARRAY.",
+      "id": "BLD2-07799"
+    },
+    {
+      "term": "LONDRES",
+      "body_len": 41,
+      "starts_with_hw": false,
+      "body_preview": "L. Fr. London. Yearb. P. 1 Edw. II. p. 4.",
+      "id": "BLD2-07919"
+    },
+    {
+      "term": "LOOCULUS",
+      "body_len": 35,
+      "starts_with_hw": false,
+      "body_preview": "purse.\n\nIn old records. A coffin; a",
+      "id": "BLD2-07921"
+    },
+    {
+      "term": "MALESWORN",
+      "body_len": 30,
+      "starts_with_hw": false,
+      "body_preview": "or MALSWORN. Forsworn. Cowell.",
+      "id": "BLD2-08076"
+    },
+    {
+      "term": "MANUALIS OBEDIENTIA",
+      "body_len": 48,
+      "starts_with_hw": false,
+      "body_preview": "Sworn obedience or submission upon oath. Cowell.",
+      "id": "BLD2-08152"
+    },
+    {
+      "term": "MAOULARE",
+      "body_len": 36,
+      "starts_with_hw": false,
+      "body_preview": "In old European law. wound. Spelman.",
+      "id": "BLD2-08173"
+    },
+    {
+      "term": "MEIGNE",
+      "body_len": 43,
+      "starts_with_hw": false,
+      "body_preview": "or MAISNADER. In old English law. A family.",
+      "id": "BLD2-08311"
+    },
+    {
+      "term": "MZREMIUM",
+      "body_len": 45,
+      "starts_with_hw": false,
+      "body_preview": "Timber; wood suitable\n\nfor building purposes.",
+      "id": "BLD2-08717"
+    },
+    {
+      "term": "NATIONS",
+      "body_len": 44,
+      "starts_with_hw": false,
+      "body_preview": "LAW OF\n\nNATIONS, LAW OF.. See INTERNATIONAL.",
+      "id": "BLD2-08761"
+    },
+    {
+      "term": "NEGOCE",
+      "body_len": 44,
+      "starts_with_hw": false,
+      "body_preview": "Fr.\n\nBusiness; trade; management of affairs.",
+      "id": "BLD2-08829"
+    },
+    {
+      "term": "PERTURBATRIX",
+      "body_len": 30,
+      "starts_with_hw": false,
+      "body_preview": "breaks the peace.\n\nA woman who",
+      "id": "BLD2-09689"
+    },
+    {
+      "term": "PLACIT",
+      "body_len": 35,
+      "starts_with_hw": false,
+      "body_preview": "or PLACITUM. Decree; determination.",
+      "id": "BLD2-09777"
+    },
+    {
+      "term": "PLEBEIANA",
+      "body_len": 32,
+      "starts_with_hw": false,
+      "body_preview": "In old records. A mother church.",
+      "id": "BLD2-09804"
+    },
+    {
+      "term": "POMARIUM",
+      "body_len": 46,
+      "starts_with_hw": false,
+      "body_preview": "pear-tree;\n\nIn old pleading. An apple orchard.",
+      "id": "BLD2-09876"
+    },
+    {
+      "term": "POPULACE",
+      "body_len": 39,
+      "starts_with_hw": false,
+      "body_preview": "or POPULACY. The vulgar; the multitude.",
+      "id": "BLD2-09889"
+    },
+    {
+      "term": "PORMIDO",
+      "body_len": 48,
+      "starts_with_hw": true,
+      "body_preview": "PORMIDO PERIOULI. Lat. danger. 1 Kent, Comm. 23.",
+      "id": "BLD2-09896"
+    },
+    {
+      "term": "PORMIDO PERIOLI",
+      "body_len": 29,
+      "starts_with_hw": false,
+      "body_preview": "Lat. peril. 1 Kent, Comm. 23.",
+      "id": "BLD2-09897"
+    },
+    {
+      "term": "PRAECO",
+      "body_len": 37,
+      "starts_with_hw": false,
+      "body_preview": "Lat. In Roman law. A herald or crier.",
+      "id": "BLD2-09986"
+    },
+    {
+      "term": "PROCLAMATOR",
+      "body_len": 48,
+      "starts_with_hw": false,
+      "body_preview": "An officer of the English court of common pleas.",
+      "id": "BLD2-10196"
+    },
+    {
+      "term": "RECEIVING STOLEN GOODS",
+      "body_len": 46,
+      "starts_with_hw": false,
+      "body_preview": "The short name usually given to the offense of",
+      "id": "BLD2-10663"
+    },
+    {
+      "term": "RELATRIX",
+      "body_len": 44,
+      "starts_with_hw": false,
+      "body_preview": "In practice, A female relator or petitioner.",
+      "id": "BLD2-10845"
+    },
+    {
+      "term": "ROOT OF DESCENT",
+      "body_len": 31,
+      "starts_with_hw": false,
+      "body_preview": "The same as “stock of descent.”",
+      "id": "BLD2-11189"
+    },
+    {
+      "term": "SALVIAN",
+      "body_len": 45,
+      "starts_with_hw": true,
+      "body_preview": "SALVIAN INTERDICT. See INTERbrctum SALVIANUM.",
+      "id": "BLD2-11300"
+    },
+    {
+      "term": "SAXON LAW",
+      "body_len": 36,
+      "starts_with_hw": false,
+      "body_preview": "The laws of the West Saxons. Cowell.",
+      "id": "BLD2-11346"
+    },
+    {
+      "term": "SCHORN-PENNY",
+      "body_len": 37,
+      "starts_with_hw": false,
+      "body_preview": "A small duty or compensation. Cowell.",
+      "id": "BLD2-11373"
+    },
+    {
+      "term": "SERVIENS AD CLAVAM",
+      "body_len": 30,
+      "starts_with_hw": false,
+      "body_preview": "Serjeant at mace. 2 Mod. 58. ;",
+      "id": "BLD2-11559"
+    },
+    {
+      "term": "SERVIENS AD LEGEM",
+      "body_len": 42,
+      "starts_with_hw": false,
+      "body_preview": "In old Eng lish practice. Serjeant at law.",
+      "id": "BLD2-11560"
+    },
+    {
+      "term": "SETTLOR",
+      "body_len": 45,
+      "starts_with_hw": false,
+      "body_preview": "The grantor or donor in a deed of settlement.",
+      "id": "BLD2-11587"
+    },
+    {
+      "term": "SOLEMNLY",
+      "body_len": 40,
+      "starts_with_hw": false,
+      "body_preview": "In a solemn manner; formally; seriously.",
+      "id": "BLD2-11807"
+    },
+    {
+      "term": "SOLERE",
+      "body_len": 44,
+      "starts_with_hw": false,
+      "body_preview": "In old English law. A sumpter horse. Cowell.",
+      "id": "BLD2-11813"
+    },
+    {
+      "term": "SOLES",
+      "body_len": 43,
+      "starts_with_hw": false,
+      "body_preview": "In old English law. Sumpter horses. Cowell.",
+      "id": "BLD2-11814"
+    },
+    {
+      "term": "SOLICITORSHIP",
+      "body_len": 47,
+      "starts_with_hw": false,
+      "body_preview": "The office or position of a solicitor. Wharton.",
+      "id": "BLD2-11823"
+    },
+    {
+      "term": "SOLICITOUS",
+      "body_len": 47,
+      "starts_with_hw": false,
+      "body_preview": "Anxious; careful; attentive; earnest; vigilant.",
+      "id": "BLD2-11824"
+    },
+    {
+      "term": "SOLLICITORSHIP",
+      "body_len": 47,
+      "starts_with_hw": false,
+      "body_preview": "The office or position of a solicitor. Wharton.",
+      "id": "BLD2-11867"
+    },
+    {
+      "term": "SOLLICITOUS",
+      "body_len": 47,
+      "starts_with_hw": false,
+      "body_preview": "Anxious; careful; attentive; earnest; vigilant.",
+      "id": "BLD2-11868"
+    },
+    {
+      "term": "SPIRITUAL TENURES, I",
+      "body_len": 31,
+      "starts_with_hw": false,
+      "body_preview": "I. Frankalmoigne, or free alms.",
+      "id": "BLD2-11938"
+    },
+    {
+      "term": "STAFF-HERDING",
+      "body_len": 41,
+      "starts_with_hw": false,
+      "body_preview": "Cattle within a forest.\n\nThe following of",
+      "id": "BLD2-11975"
+    },
+    {
+      "term": "SUFFERENTIA PACIS",
+      "body_len": 45,
+      "starts_with_hw": false,
+      "body_preview": "Lat. A grant or sufferance of peace or truce.",
+      "id": "BLD2-12165"
+    },
+    {
+      "term": "TENHEDED",
+      "body_len": 49,
+      "starts_with_hw": false,
+      "body_preview": "or TIENHOFED. In old English law. A dean. Cowell.",
+      "id": "BLD2-12463"
+    },
+    {
+      "term": "VICE VERSA",
+      "body_len": 49,
+      "starts_with_hw": false,
+      "body_preview": "Conversely; in inverted order; in reverse manner.",
+      "id": "BLD2-13193"
+    },
+    {
+      "term": "VICE-COMITISSA",
+      "body_len": 43,
+      "starts_with_hw": false,
+      "body_preview": "In old English law. A viscountess. Spelman.",
+      "id": "BLD2-13196"
+    },
+    {
+      "term": "VICE-JUDEX",
+      "body_len": 37,
+      "starts_with_hw": false,
+      "body_preview": "In old Lombardic law, a deputy judge.",
+      "id": "BLD2-13200"
+    },
+    {
+      "term": "VOIDANCE",
+      "body_len": 46,
+      "starts_with_hw": false,
+      "body_preview": "The act of emptying; ejection from a benefice.",
+      "id": "BLD2-13300"
+    },
+    {
+      "term": "WIC",
+      "body_len": 48,
+      "starts_with_hw": false,
+      "body_preview": "A place on the sea-shore or the bank of a river.",
+      "id": "BLD2-13468"
+    },
+    {
+      "term": "WOOD-STREET COMPTER",
+      "body_len": 36,
+      "starts_with_hw": false,
+      "body_preview": "The name of an old prison in London.",
+      "id": "BLD2-13521"
+    }
+  ],
+  "stubs": [
+    {
+      "term": "A&E",
+      "body_len": 66,
+      "starts_with_hw": false,
+      "body_preview": "N. S. Adolphus & Ellis' English Queen's Bench Reports, New Series.",
+      "id": "BLD2-00026"
+    },
+    {
+      "term": "ACCEPTEUR",
+      "body_len": 74,
+      "starts_with_hw": true,
+      "body_preview": "ACCEPTEUR PAR INTERVENTION. In Frerich law.. Acceptor of a bill for honor.",
+      "id": "BLD2-00129"
+    },
+    {
+      "term": "AD MEDIUM FILUM VIAE",
+      "body_len": 62,
+      "starts_with_hw": false,
+      "body_preview": "To the middle thread of the way.\n\nspecial verdict was formerly",
+      "id": "BLD2-00280"
+    },
+    {
+      "term": "ADIEU ADIEU, UL",
+      "body_len": 86,
+      "starts_with_hw": false,
+      "body_preview": "Fr. Without day. A common term in the Year Books, implying final dismissal from court.",
+      "id": "BLD2-00322"
+    },
+    {
+      "term": "ADJUNCTUM",
+      "body_len": 53,
+      "starts_with_hw": true,
+      "body_preview": "ADJUNCTUM ACCESSORIUM. An ac cessory or appurtenance.",
+      "id": "BLD2-00345"
+    },
+    {
+      "term": "AGISTERS",
+      "body_len": 89,
+      "starts_with_hw": false,
+      "body_preview": "or GIST TAKERS. Officers appointed to look after cattle, etc. See\n\nWilliams, Common, 232.",
+      "id": "BLD2-00542"
+    },
+    {
+      "term": "ALODE",
+      "body_len": 81,
+      "starts_with_hw": true,
+      "body_preview": "Alodes, Alodis. L. Lat. In feudal law. Old forms of alodium, or allodium, (q. v.)",
+      "id": "BLD2-00683"
+    },
+    {
+      "term": "ALZ",
+      "body_len": 65,
+      "starts_with_hw": true,
+      "body_preview": "ALZ ECCLESIASTICAL. The wings or side aisles of a church. Blount.",
+      "id": "BLD2-00700"
+    },
+    {
+      "term": "APOSTILLE",
+      "body_len": 73,
+      "starts_with_hw": false,
+      "body_preview": "Appostille. L. Fr. An\n\naddition; Kelham.\n\na marginal note or observation.",
+      "id": "BLD2-00873"
+    },
+    {
+      "term": "APPELLO",
+      "body_len": 88,
+      "starts_with_hw": false,
+      "body_preview": "Lat. In the civil law. I appeal. The form of making an appeal apud\n\nacta. Dig. 49, 1, 2.",
+      "id": "BLD2-00896"
+    },
+    {
+      "term": "APPROVED",
+      "body_len": 98,
+      "starts_with_hw": true,
+      "body_preview": "APPROVED INDORSED NOTES. Notes indorsed by another person than the maker, for additional security.",
+      "id": "BLD2-00937"
+    },
+    {
+      "term": "ARISTO-DEMOCRACY",
+      "body_len": 82,
+      "starts_with_hw": false,
+      "body_preview": "A form of government where the power is divided between the nobles and the people.",
+      "id": "BLD2-01018"
+    },
+    {
+      "term": "ARRAIGNS",
+      "body_len": 62,
+      "starts_with_hw": false,
+      "body_preview": "CLERK OF. In English law. An assistant to the clerk of assise.",
+      "id": "BLD2-01040"
+    },
+    {
+      "term": "ARTICLES ARTICLES, WORDS OF",
+      "body_len": 91,
+      "starts_with_hw": false,
+      "body_preview": "Words used in a technical sense; words scientifically fit to carry the sense assigned them.",
+      "id": "BLD2-01084"
+    },
+    {
+      "term": "BAILLEUR",
+      "body_len": 70,
+      "starts_with_hw": true,
+      "body_preview": "BAILLEUR DE FONDS. In Canadian law. The unpaid vendor’ of real estate.",
+      "id": "BLD2-01346"
+    },
+    {
+      "term": "BALCANIFER",
+      "body_len": 62,
+      "starts_with_hw": false,
+      "body_preview": "or BALDAKINIFER. The standard-bearer of the Knights Templar. ,",
+      "id": "BLD2-01357"
+    },
+    {
+      "term": "BARRA",
+      "body_len": 76,
+      "starts_with_hw": false,
+      "body_preview": "or BARRE. In old practice. A plea in bar. The bar of the court. A barrister.",
+      "id": "BLD2-01424"
+    },
+    {
+      "term": "BEAMS",
+      "body_len": 66,
+      "starts_with_hw": true,
+      "body_preview": "BEAMS AND BALANCE. Instruments for weighing goods and merchandise.",
+      "id": "BLD2-01474"
+    },
+    {
+      "term": "BERGHMOTH",
+      "body_len": 73,
+      "starts_with_hw": false,
+      "body_preview": "or BERGHMOTE. The ancient name of the court now called “barmote.” (q. v.)",
+      "id": "BLD2-01516"
+    },
+    {
+      "term": "BIGOT",
+      "body_len": 86,
+      "starts_with_hw": false,
+      "body_preview": "An obstinate person, or one that is wedded to an opinion, in matters of religion, etc.",
+      "id": "BLD2-01550"
+    },
+    {
+      "term": "BIRRETUM",
+      "body_len": 89,
+      "starts_with_hw": false,
+      "body_preview": "BIRRETUS. A cap or coif used formerly in England by judges and serjeants at law. Spelman.",
+      "id": "BLD2-01565"
+    },
+    {
+      "term": "BLANCHE",
+      "body_len": 62,
+      "starts_with_hw": true,
+      "body_preview": "BLANCHE FIRME. White rent; a rent reserved, payable in silver.",
+      "id": "BLD2-01599"
+    },
+    {
+      "term": "BOLHAGIUM",
+      "body_len": 52,
+      "starts_with_hw": false,
+      "body_preview": "or BOLDAGIUM. Bole house or cottage. Blount.\n\nA lit-",
+      "id": "BLD2-01639"
+    },
+    {
+      "term": "BOOT",
+      "body_len": 53,
+      "starts_with_hw": false,
+      "body_preview": "or BOTE. An old Saxon word, equivalent to \"estovers.\"",
+      "id": "BLD2-01664"
+    },
+    {
+      "term": "BOOTING",
+      "body_len": 66,
+      "starts_with_hw": false,
+      "body_preview": "or BOTING, CORN. (Certain rent corn, anciently so called. Cowell.)",
+      "id": "BLD2-01665"
+    },
+    {
+      "term": "BORD-BRIDGE",
+      "body_len": 94,
+      "starts_with_hw": false,
+      "body_preview": "In Saxon law. A breach or violation of suretyship; pledgebreach, or breach of mutual fidelity.",
+      "id": "BLD2-01668"
+    },
+    {
+      "term": "BORD-BRIGCH",
+      "body_len": 94,
+      "starts_with_hw": false,
+      "body_preview": "In Saxon law. A breach or violation of suretyship; pledgebreach, or breach of mutual fidelity.",
+      "id": "BLD2-01669"
+    },
+    {
+      "term": "BRAHMIN",
+      "body_len": 76,
+      "starts_with_hw": false,
+      "body_preview": "BRAHMAN, or BRAMIN. In Hindu law. A divine; a priest; the first Hindu caste.",
+      "id": "BLD2-01724"
+    },
+    {
+      "term": "BREAD",
+      "body_len": 81,
+      "starts_with_hw": true,
+      "body_preview": "BREAD ACTS. Laws providing for the sustenance of persons kept in prison for debt.",
+      "id": "BLD2-01732"
+    },
+    {
+      "term": "BUNDA",
+      "body_len": 75,
+      "starts_with_hw": false,
+      "body_preview": "In old English law. A bound, boundary, border, or limit, (terminus, limes.)",
+      "id": "BLD2-01807"
+    },
+    {
+      "term": "BURG",
+      "body_len": 91,
+      "starts_with_hw": true,
+      "body_preview": "BURGH. A term anciently applied to a castle or fortified place; a borough, (q. v.) Spelman.",
+      "id": "BLD2-01812"
+    },
+    {
+      "term": "BUSONES",
+      "body_len": 63,
+      "starts_with_hw": true,
+      "body_preview": "BUSONES COMITATUS. law. The barons of a county,\n\nIn old English",
+      "id": "BLD2-01848"
+    },
+    {
+      "term": "CACHEPOLUS",
+      "body_len": 57,
+      "starts_with_hw": false,
+      "body_preview": "or CACHERELLAS. An inferior bailiff, or catchpoll. Jacob.",
+      "id": "BLD2-01890"
+    },
+    {
+      "term": "CALCETUM",
+      "body_len": 89,
+      "starts_with_hw": false,
+      "body_preview": "CALCEA. A_ causeway, or common hard-way, maintained and repaired with stones and rubbish.",
+      "id": "BLD2-01908"
+    },
+    {
+      "term": "CARABUS",
+      "body_len": 52,
+      "starts_with_hw": false,
+      "body_preview": "In old English law. A kind of raft or boat. Spelman.",
+      "id": "BLD2-01998"
+    },
+    {
+      "term": "CARETA",
+      "body_len": 58,
+      "starts_with_hw": false,
+      "body_preview": "(spelled, also, Carreta and Carecta.) A cart; a cart-load.",
+      "id": "BLD2-02011"
+    },
+    {
+      "term": "CARGA",
+      "body_len": 85,
+      "starts_with_hw": false,
+      "body_preview": "In Spanish law. An incumbrance; a charge. White, New Recop. b. 2, tit. 13, c. 2, § 2.",
+      "id": "BLD2-02013"
+    },
+    {
+      "term": "CARRERA",
+      "body_len": 96,
+      "starts_with_hw": false,
+      "body_preview": "In Spanish law. A carriage-way; the right of a carriage-way. Las Partidas, pt. 3, tit. 31, 1. 8.",
+      "id": "BLD2-02030"
+    },
+    {
+      "term": "CASTEL",
+      "body_len": 81,
+      "starts_with_hw": false,
+      "body_preview": "or CASTLE. A fortress in a town; the principal mansion of a nobleman. 3 Inst. 31.",
+      "id": "BLD2-02063"
+    },
+    {
+      "term": "CASTELLARIUM",
+      "body_len": 87,
+      "starts_with_hw": false,
+      "body_preview": "CASTELLATUS.\n\nIn old English law. The precinct or jurisdiction of a castle. Blount.\n\nro",
+      "id": "BLD2-02067"
+    },
+    {
+      "term": "CAUSIDICUS",
+      "body_len": 62,
+      "starts_with_hw": false,
+      "body_preview": "In the civil law. A pleader; one who argued a cause ore tenus.",
+      "id": "BLD2-02106"
+    },
+    {
+      "term": "CAVEATOR",
+      "body_len": 87,
+      "starts_with_hw": false,
+      "body_preview": "One who files a caveat.\n\nCavendum est a fragmentis. Beware\n\nof fragments. Bac. Max. 26.",
+      "id": "BLD2-02114"
+    },
+    {
+      "term": "CAYA",
+      "body_len": 55,
+      "starts_with_hw": false,
+      "body_preview": "In old English law. A quay, kay, key, or wharf. Cowell.",
+      "id": "BLD2-02117"
+    },
+    {
+      "term": "CECONOMUS",
+      "body_len": 58,
+      "starts_with_hw": false,
+      "body_preview": "Lat. In the civil law. A manager or administrator. Calvin.",
+      "id": "BLD2-02121"
+    },
+    {
+      "term": "CHAFFERS",
+      "body_len": 50,
+      "starts_with_hw": false,
+      "body_preview": "An ancient term for goods, wares, and merchandise.",
+      "id": "BLD2-02212"
+    },
+    {
+      "term": "CHATT",
+      "body_len": 96,
+      "starts_with_hw": false,
+      "body_preview": "In old English law. A plot of ground set apart for the purpose of being dug and manured. Cowell.",
+      "id": "BLD2-02279"
+    },
+    {
+      "term": "CHATTU",
+      "body_len": 96,
+      "starts_with_hw": false,
+      "body_preview": "In old English law. A plot of ground set apart for the purpose of being dug and manured. Cowell.",
+      "id": "BLD2-02282"
+    },
+    {
+      "term": "CHEMIN",
+      "body_len": 56,
+      "starts_with_hw": false,
+      "body_preview": "Fr. The road wherein every man goes; the king's highway.",
+      "id": "BLD2-02292"
+    },
+    {
+      "term": "CHORAL",
+      "body_len": 80,
+      "starts_with_hw": false,
+      "body_preview": "In ancient times a person admitted to sit and worship in the choir; a chorister.",
+      "id": "BLD2-02320"
+    },
+    {
+      "term": "CIA",
+      "body_len": 51,
+      "starts_with_hw": false,
+      "body_preview": "In old records. The rents and profits of an estate.",
+      "id": "BLD2-02335"
+    },
+    {
+      "term": "CIVILIS",
+      "body_len": 93,
+      "starts_with_hw": false,
+      "body_preview": "from criminal. Bract. fol. 1010.\n\nLat. Civil, as distinguished Civilis actio, a civil action.",
+      "id": "BLD2-02384"
+    },
+    {
+      "term": "CLENGE",
+      "body_len": 91,
+      "starts_with_hw": false,
+      "body_preview": "In old Scotch law. To clear or acquit of a criminal charge. Literally, to cleanse or clean.",
+      "id": "BLD2-02418"
+    },
+    {
+      "term": "CLERICALE",
+      "body_len": 85,
+      "starts_with_hw": true,
+      "body_preview": "CLERICALE PRIVILEGIUM. English law. The clerical privilege; the or benefit of clergy.",
+      "id": "BLD2-02423"
+    },
+    {
+      "term": "CLERICI",
+      "body_len": 71,
+      "starts_with_hw": true,
+      "body_preview": "CLERICI PRENOTARII. The six clerks in chancery. 2 Reeve, Eng. Law, 251.",
+      "id": "BLD2-02424"
+    },
+    {
+      "term": "CLERICO",
+      "body_len": 52,
+      "starts_with_hw": true,
+      "body_preview": "CLERICO ADMITTENDO. See ADCLERICO CAPTO PER STATUTUM",
+      "id": "BLD2-02426"
+    },
+    {
+      "term": "CLERIGOS",
+      "body_len": 96,
+      "starts_with_hw": false,
+      "body_preview": "In Spanish law. Clergy; men chosen for the service of God. White, New Recop. b. 1, tit. 5, ch. 4",
+      "id": "BLD2-02428"
+    },
+    {
+      "term": "CO-HEIRESS",
+      "body_len": 85,
+      "starts_with_hw": false,
+      "body_preview": "A joint heiress. A woman who has an equal share of an inheritance with another woman.",
+      "id": "BLD2-02451"
+    },
+    {
+      "term": "COCKBILL",
+      "body_len": 85,
+      "starts_with_hw": false,
+      "body_preview": "To place the yards of a ship at an angle with the deck. Pub. St. Mass. 1882, p. 1288.",
+      "id": "BLD2-02470"
+    },
+    {
+      "term": "COLLEGA",
+      "body_len": 79,
+      "starts_with_hw": false,
+      "body_preview": "In the civil law. One invested with joint authority. A colleague; an associate.",
+      "id": "BLD2-02518"
+    },
+    {
+      "term": "COLLEGATARIUS",
+      "body_len": 52,
+      "starts_with_hw": false,
+      "body_preview": "Lat. In the civil law. A co-legatee. Inst. 2, 20, 8.",
+      "id": "BLD2-02519"
+    },
+    {
+      "term": "COLLEGATORY",
+      "body_len": 81,
+      "starts_with_hw": false,
+      "body_preview": "A co-legatee; a person who has a legacy left to him in common with other persons.",
+      "id": "BLD2-02520"
+    },
+    {
+      "term": "COLLIGENDUM",
+      "body_len": 51,
+      "starts_with_hw": true,
+      "body_preview": "COLLIGENDUM BONA DEFUNCTI. See DE COLLIGENDUM, etc.",
+      "id": "BLD2-02527"
+    },
+    {
+      "term": "COLLOBIUM",
+      "body_len": 72,
+      "starts_with_hw": false,
+      "body_preview": "A hood or covering for the shoulders, formerly worn by serjeants at law.",
+      "id": "BLD2-02531"
+    },
+    {
+      "term": "COLLUBIUM",
+      "body_len": 72,
+      "starts_with_hw": false,
+      "body_preview": "A hood or covering for the shoulders, formerly worn by serjeants at law.",
+      "id": "BLD2-02534"
+    },
+    {
+      "term": "COLPICES",
+      "body_len": 71,
+      "starts_with_hw": false,
+      "body_preview": "Young poles, which, being cut down, are made levers or lifters. Blount.",
+      "id": "BLD2-02545"
+    },
+    {
+      "term": "COMMORANT",
+      "body_len": 52,
+      "starts_with_hw": false,
+      "body_preview": "Staying or abiding; dwelling temporarily in a place.",
+      "id": "BLD2-02620"
+    },
+    {
+      "term": "COMMUNIBUS",
+      "body_len": 60,
+      "starts_with_hw": true,
+      "body_preview": "COMMUNIBUS ANNIS. years; on the annual average.\n\nIn ordinary",
+      "id": "BLD2-02628"
+    },
+    {
+      "term": "CONFITENS",
+      "body_len": 56,
+      "starts_with_hw": true,
+      "body_preview": "CONFITENS REUS. An accused person\n\nwho admits his guilt.",
+      "id": "BLD2-02786"
+    },
+    {
+      "term": "CONSULTA",
+      "body_len": 72,
+      "starts_with_hw": true,
+      "body_preview": "CONSULTA ECCLESIA, In ecclesiastical law. A church full or provided for.",
+      "id": "BLD2-02912"
+    },
+    {
+      "term": "CORTULARIUM",
+      "body_len": 63,
+      "starts_with_hw": false,
+      "body_preview": "or CORTARIUM. In old records. <A yard adjoining a country farm.",
+      "id": "BLD2-03093"
+    },
+    {
+      "term": "COSEN",
+      "body_len": 50,
+      "starts_with_hw": false,
+      "body_preview": "COZEN. To cheat. “A cosening knave.” $8 Leon. 171.",
+      "id": "BLD2-03100"
+    },
+    {
+      "term": "COUCHER",
+      "body_len": 64,
+      "starts_with_hw": false,
+      "body_preview": "or COURCHER. A factor who continues abroad for traffic. (87 Edw.",
+      "id": "BLD2-03125"
+    },
+    {
+      "term": "CREST",
+      "body_len": 74,
+      "starts_with_hw": false,
+      "body_preview": "A term used in heraldry; it signifies the devices set over a coat of arms.",
+      "id": "BLD2-03206"
+    },
+    {
+      "term": "CUNIAM",
+      "body_len": 72,
+      "starts_with_hw": true,
+      "body_preview": "CUNIAM RECEPIT. A writ which lay for the arrest of one who had taken the",
+      "id": "BLD2-03254"
+    },
+    {
+      "term": "CUSTODIA",
+      "body_len": 99,
+      "starts_with_hw": true,
+      "body_preview": "CUSTODIA LEGIS. In the custody of the law. Stockwell v. Robinson, 9 Houst. (Del.) 313, 32 Atl. 528.",
+      "id": "BLD2-03288"
+    },
+    {
+      "term": "CUTH",
+      "body_len": 78,
+      "starts_with_hw": false,
+      "body_preview": "COUTH. Sax. Known, Knowing, Uncuth, unknown. See COUTHLAUGH, Uncouth.\n\nOY-PRES",
+      "id": "BLD2-03301"
+    },
+    {
+      "term": "CUTWAL",
+      "body_len": 98,
+      "starts_with_hw": false,
+      "body_preview": "KATWAL. The chief officer of police or superintendent of markets in a large town or city in India.",
+      "id": "BLD2-03305"
+    },
+    {
+      "term": "CWT",
+      "body_len": 97,
+      "starts_with_hw": false,
+      "body_preview": "A hundred-weight; one hundred and twelve pounds. Helm v. Bryant, 11 B. Mon. (Ky.) 64.\n\n(Cy-apres,",
+      "id": "BLD2-03306"
+    },
+    {
+      "term": "CYNEBOTE",
+      "body_len": 90,
+      "starts_with_hw": false,
+      "body_preview": "A mulct anciently paid by one who killed another, to the kindred of the deceased. Spelman.",
+      "id": "BLD2-03311"
+    },
+    {
+      "term": "DEACONRY",
+      "body_len": 57,
+      "starts_with_hw": false,
+      "body_preview": "A district or jurisdiction of a deacon. See Archdeaconry.",
+      "id": "BLD2-03379"
+    },
+    {
+      "term": "DEAERARI",
+      "body_len": 53,
+      "starts_with_hw": false,
+      "body_preview": "Lat. In the civil law. To make a will. Dig. 28, 1, 1.",
+      "id": "BLD2-03399"
+    },
+    {
+      "term": "DEAERATIO",
+      "body_len": 52,
+      "starts_with_hw": false,
+      "body_preview": "Lat. In the civil law. The making of a will. Calvin.",
+      "id": "BLD2-03400"
+    },
+    {
+      "term": "DEAERATOR",
+      "body_len": 59,
+      "starts_with_hw": false,
+      "body_preview": "In the civil law. A testator; one who makes a will. Calvin.",
+      "id": "BLD2-03401"
+    },
+    {
+      "term": "DEAERATORIUM",
+      "body_len": 88,
+      "starts_with_hw": false,
+      "body_preview": "In the civil law. A place appointed by the testator for the deposit of his will. Calvin.",
+      "id": "BLD2-03402"
+    },
+    {
+      "term": "DEAERATORIUM DEDITUM",
+      "body_len": 61,
+      "starts_with_hw": false,
+      "body_preview": "In the civil law. A will deposited in a deaeratorium. Calvin.",
+      "id": "BLD2-03403"
+    },
+    {
+      "term": "DEAERATORIUM NON DEDITUM",
+      "body_len": 65,
+      "starts_with_hw": false,
+      "body_preview": "In the civil law. A will not deposited in a deaeratorium. Calvin.",
+      "id": "BLD2-03404"
+    },
+    {
+      "term": "DEAERATORIUM PUBLICUM",
+      "body_len": 82,
+      "starts_with_hw": false,
+      "body_preview": "In the civil law. A public deaeratorium or place for the deposit of wills. Calvin.",
+      "id": "BLD2-03405"
+    },
+    {
+      "term": "DEAERATORIUM TESTAMENTI",
+      "body_len": 51,
+      "starts_with_hw": false,
+      "body_preview": "In the civil law. The depository of a will. Calvin.",
+      "id": "BLD2-03406"
+    },
+    {
+      "term": "DEAERATORIUM TRIBUTUM",
+      "body_len": 51,
+      "starts_with_hw": false,
+      "body_preview": "In the civil law. A will made by a tribune. Calvin.",
+      "id": "BLD2-03407"
+    },
+    {
+      "term": "DEAERATRIX",
+      "body_len": 64,
+      "starts_with_hw": false,
+      "body_preview": "In the civil law. A testatrix; a woman who makes a will. Calvin.",
+      "id": "BLD2-03408"
+    },
+    {
+      "term": "DEAERATUM PUBLICUM",
+      "body_len": 83,
+      "starts_with_hw": false,
+      "body_preview": "In the civil law. A public will; a will deposited in a public deaeratorium. Calvin.",
+      "id": "BLD2-03413"
+    },
+    {
+      "term": "DEAERATUM TRIBUTUM",
+      "body_len": 51,
+      "starts_with_hw": false,
+      "body_preview": "In the civil law. A will made by a tribune. Calvin.",
+      "id": "BLD2-03415"
+    },
+    {
+      "term": "DEAERATUM VERBUM",
+      "body_len": 63,
+      "starts_with_hw": false,
+      "body_preview": "In the civil law. A word of the will; a word in a will. Calvin.",
+      "id": "BLD2-03416"
+    },
+    {
+      "term": "DEALING",
+      "body_len": 97,
+      "starts_with_hw": false,
+      "body_preview": "Trafficking; trading; buying and selling goods. State v. McLean, 51 N. J. Law, 728, 17 Atl. 1084.",
+      "id": "BLD2-03422"
+    },
+    {
+      "term": "DEAMBULATION",
+      "body_len": 74,
+      "starts_with_hw": false,
+      "body_preview": "In old English law. Going about or walking about. A right of way. Spelman.",
+      "id": "BLD2-03425"
+    },
+    {
+      "term": "DEAMBULATORY",
+      "body_len": 74,
+      "starts_with_hw": false,
+      "body_preview": "In old English law. Going about or walking about. A right of way. Spelman.",
+      "id": "BLD2-03426"
+    },
+    {
+      "term": "DEATH'S-HEAD",
+      "body_len": 98,
+      "starts_with_hw": false,
+      "body_preview": "A representation of a human skull; used as an emblem of death. It is sometimes found on old seals.",
+      "id": "BLD2-03431"
+    },
+    {
+      "term": "DEBATE, DAY OF",
+      "body_len": 89,
+      "starts_with_hw": false,
+      "body_preview": "In practice. The day appointed for the trial or hearing of a cause in a court of justice.",
+      "id": "BLD2-03437"
+    },
+    {
+      "term": "DEBELLATRIX",
+      "body_len": 74,
+      "starts_with_hw": false,
+      "body_preview": "In the civil law. A female who fought in battle; a female warrior. Calvin.",
+      "id": "BLD2-03443"
+    },
+    {
+      "term": "DEBELLIS",
+      "body_len": 99,
+      "starts_with_hw": false,
+      "body_preview": "Lat. In the civil law. Of wars. A phrase used in the title of the thirtyfourth book of the Digests.",
+      "id": "BLD2-03444"
+    },
+    {
+      "term": "DEBELLIZATION",
+      "body_len": 70,
+      "starts_with_hw": false,
+      "body_preview": "A declaration of war; a declaration that war exists. 1 Kent, Comm. 93.",
+      "id": "BLD2-03445"
+    },
+    {
+      "term": "DEBENTURA",
+      "body_len": 58,
+      "starts_with_hw": false,
+      "body_preview": "In old English law. A kind of fine or amercement. Spelman.",
+      "id": "BLD2-03446"
+    },
+    {
+      "term": "DEBENTURATION",
+      "body_len": 50,
+      "starts_with_hw": false,
+      "body_preview": "In old English law. A fine or amercement. Spelman.",
+      "id": "BLD2-03447"
+    },
+    {
+      "term": "DEBITUM NUMMORUM",
+      "body_len": 92,
+      "starts_with_hw": false,
+      "body_preview": "In the civil law. A debt of money. A term used in the four-and-a-half per cent. tax. Calvin.",
+      "id": "BLD2-03458"
+    },
+    {
+      "term": "DEBITUM PRAETORIANUM",
+      "body_len": 93,
+      "starts_with_hw": false,
+      "body_preview": "DEBITUM PRZBETRIANUM DEBITUM PRZBETRIANUM. In the civil law. A debt due to a praetor. Calvin.",
+      "id": "BLD2-03459"
+    },
+    {
+      "term": "DEBITUM PUBLICUM",
+      "body_len": 65,
+      "starts_with_hw": false,
+      "body_preview": "In the civil law. A public debt; a debt due to the state. Calvin.",
+      "id": "BLD2-03461"
+    },
+    {
+      "term": "DEBITUM TRIBUTUM",
+      "body_len": 50,
+      "starts_with_hw": false,
+      "body_preview": "In the civil law. A debt due to a tribune. Calvin.",
+      "id": "BLD2-03463"
+    },
+    {
+      "term": "DEBONA VOLUMUS",
+      "body_len": 75,
+      "starts_with_hw": false,
+      "body_preview": "Lat. We wish well; we intend no harm. A phrase used in the old conveyances.",
+      "id": "BLD2-03465"
+    },
+    {
+      "term": "DEBONAIR",
+      "body_len": 59,
+      "starts_with_hw": false,
+      "body_preview": "In old English law. Pleasant; obliging; courteous. Spelman.",
+      "id": "BLD2-03466"
+    },
+    {
+      "term": "DEBOUCHURE",
+      "body_len": 61,
+      "starts_with_hw": false,
+      "body_preview": "In old English law. A species of fine or amercement. Spelman.",
+      "id": "BLD2-03469"
+    },
+    {
+      "term": "DEBT, EXECUTION FOR",
+      "body_len": 66,
+      "starts_with_hw": false,
+      "body_preview": "In practice, an execution which issues upon a judgment for a debt.",
+      "id": "BLD2-03477"
+    },
+    {
+      "term": "DECANIA",
+      "body_len": 79,
+      "starts_with_hw": false,
+      "body_preview": "The office, jurisdiction, territory, or command of a decanus, or dean. Spelman.",
+      "id": "BLD2-03484"
+    },
+    {
+      "term": "DECRETUM PRAETORIUM",
+      "body_len": 98,
+      "starts_with_hw": false,
+      "body_preview": "DEAERATORIUM PRZBETRUM DEAERATORIUM PRZBETRUM. In the civil law. A will made by a praetor. Calvin.",
+      "id": "BLD2-03530"
+    },
+    {
+      "term": "DEER-HAYES",
+      "body_len": 72,
+      "starts_with_hw": false,
+      "body_preview": "Engines or great nets\n\nmade of cord to catch deer. 19 Hen. VIII. ec. 11.",
+      "id": "BLD2-03547"
+    },
+    {
+      "term": "DEMY SANG",
+      "body_len": 51,
+      "starts_with_hw": true,
+      "body_preview": "DEMY SANGUE. Half-blood. A corruption of demi-sang.",
+      "id": "BLD2-03660"
+    },
+    {
+      "term": "DEVADIATOUS",
+      "body_len": 63,
+      "starts_with_hw": false,
+      "body_preview": "or DIVADIATUS. An offender without sureties or pledges. Cowell.",
+      "id": "BLD2-03773"
+    },
+    {
+      "term": "DIANATIO",
+      "body_len": 95,
+      "starts_with_hw": false,
+      "body_preview": "A logical reasoning in a progressive manner, proceeding from one subject to another. Enc. Lond.",
+      "id": "BLD2-03800"
+    },
+    {
+      "term": "DIMIDIA",
+      "body_len": 52,
+      "starts_with_hw": true,
+      "body_preview": "DIMIDIA, DIMIDIUM, DIMIDIUS. Half; a half; the half.",
+      "id": "BLD2-03836"
+    },
+    {
+      "term": "DISPARAGE",
+      "body_len": 52,
+      "starts_with_hw": false,
+      "body_preview": "To connect unequally; to match unsuitably. See note.",
+      "id": "BLD2-03923"
+    },
+    {
+      "term": "DOLES",
+      "body_len": 67,
+      "starts_with_hw": false,
+      "body_preview": "or DOOLS. Slips of pasture left between the furrows of plowed land.",
+      "id": "BLD2-04036"
+    },
+    {
+      "term": "DONATORIUS",
+      "body_len": 78,
+      "starts_with_hw": false,
+      "body_preview": "A donee; a person to whom a gift is made; a purchaser. Bract. fol. 13, et seq.",
+      "id": "BLD2-04080"
+    },
+    {
+      "term": "DOWLE",
+      "body_len": 74,
+      "starts_with_hw": true,
+      "body_preview": "DOWLE STONES. lands, etc. Cowell.\n\n- DOWMENT. dowment: dower. Ohio St. 61.",
+      "id": "BLD2-04112"
+    },
+    {
+      "term": "DREDES",
+      "body_len": 80,
+      "starts_with_hw": true,
+      "body_preview": "DREDES MAN. The presiding officer in the hundred court. Anc. Inst. Eng.\n\nHUSBAND",
+      "id": "BLD2-04136"
+    },
+    {
+      "term": "DRENGAGE",
+      "body_len": 63,
+      "starts_with_hw": false,
+      "body_preview": "The tenure by which the drenches, or drenges, held their lands.",
+      "id": "BLD2-04139"
+    },
+    {
+      "term": "DUPLA",
+      "body_len": 61,
+      "starts_with_hw": false,
+      "body_preview": "In the civil law. Double the price of a thing. Dig. 21, 2, 2.",
+      "id": "BLD2-04199"
+    },
+    {
+      "term": "DYKE-REED",
+      "body_len": 99,
+      "starts_with_hw": false,
+      "body_preview": "or DYKE-REEVE. An officer who has the care and oversight of the dykes and drains in fenny counties.",
+      "id": "BLD2-04224"
+    },
+    {
+      "term": "EFIRDSOONE",
+      "body_len": 65,
+      "starts_with_hw": false,
+      "body_preview": "Sax. In old English law. Exemption from military service. Spelman",
+      "id": "BLD2-04311"
+    },
+    {
+      "term": "EFRUSCA",
+      "body_len": 88,
+      "starts_with_hw": true,
+      "body_preview": "EFRUSCA TERRA. In old records. Uncultivated and desert ground. 2 Mon. Angl. 327; Cowell.",
+      "id": "BLD2-04314"
+    },
+    {
+      "term": "ELEEMOSYNAE",
+      "body_len": 59,
+      "starts_with_hw": false,
+      "body_preview": "Possessions belonging to the church. Blount.\n\nELEEMOSYNARIA",
+      "id": "BLD2-04364"
+    },
+    {
+      "term": "ENTENSION",
+      "body_len": 57,
+      "starts_with_hw": false,
+      "body_preview": "In old English law. The plaintiff's count or declaration.",
+      "id": "BLD2-04514"
+    },
+    {
+      "term": "ENUMERATORS",
+      "body_len": 83,
+      "starts_with_hw": false,
+      "body_preview": "Persons appointed to collect census papers or schedules. 33 & 34 Vict. c. 108, § 4.",
+      "id": "BLD2-04527"
+    },
+    {
+      "term": "ERANTIBUS",
+      "body_len": 83,
+      "starts_with_hw": false,
+      "body_preview": "Ete. An old writ to certify a cognizance taken by justices in eyre. Reg. Orig. 152.",
+      "id": "BLD2-04570"
+    },
+    {
+      "term": "ESNECIA",
+      "body_len": 64,
+      "starts_with_hw": false,
+      "body_preview": "In old English law. Esnecy; the right or privilege of the eldest",
+      "id": "BLD2-04623"
+    },
+    {
+      "term": "ESTIMATIO",
+      "body_len": 89,
+      "starts_with_hw": true,
+      "body_preview": "ESTIMATIO CAPITIS 46\n\nborn. Spelman; Glanv. lib. 7, c. 3; Fleta,\n\nlib. 2, c. 66, §§ 5, 6.",
+      "id": "BLD2-04669"
+    },
+    {
+      "term": "EXCEPTIS",
+      "body_len": 57,
+      "starts_with_hw": true,
+      "body_preview": "EXCEPTIS EXCIPIENDIS. Lat. With all necessary exceptions.",
+      "id": "BLD2-04742"
+    },
+    {
+      "term": "EXHERES",
+      "body_len": 52,
+      "starts_with_hw": false,
+      "body_preview": "In the civil law. One disinherited. Vicat; Du Cange.",
+      "id": "BLD2-04809"
+    },
+    {
+      "term": "EXUPERARE",
+      "body_len": 64,
+      "starts_with_hw": false,
+      "body_preview": "To overcome; to apprehend or take. Leg. Edw. c. 2.\n\nCo. Litt. 6.",
+      "id": "BLD2-04919"
+    },
+    {
+      "term": "FALC-LAND",
+      "body_len": 78,
+      "starts_with_hw": false,
+      "body_preview": "See Foul-Land.\n\nPALL. from a right is to lose or forfeit it 1\n\nKames, Eq. 228.",
+      "id": "BLD2-04971"
+    },
+    {
+      "term": "FALLOW-LAND",
+      "body_len": 83,
+      "starts_with_hw": false,
+      "body_preview": "Land plowed, but not sown, and left uncultivated for a time after successive crops.",
+      "id": "BLD2-04994"
+    },
+    {
+      "term": "FARYNDON",
+      "body_len": 71,
+      "starts_with_hw": true,
+      "body_preview": "FARYNDON INN. The ancient appellation of Serjeants’ Inn, Chancery lane.",
+      "id": "BLD2-05043"
+    },
+    {
+      "term": "FATUITAS",
+      "body_len": 53,
+      "starts_with_hw": false,
+      "body_preview": "In old English law. fatuuity; idiocy. Reg. Orig. 266.",
+      "id": "BLD2-05051"
+    },
+    {
+      "term": "FEAL AND FUEL",
+      "body_len": 79,
+      "starts_with_hw": false,
+      "body_preview": "A right in Scotland, similar to the right of turbary in England, for fuel, etc.",
+      "id": "BLD2-05064"
+    },
+    {
+      "term": "FEDUS",
+      "body_len": 52,
+      "starts_with_hw": false,
+      "body_preview": "In international law, a treaty; a league; a compact.",
+      "id": "BLD2-05074"
+    },
+    {
+      "term": "FELONI",
+      "body_len": 99,
+      "starts_with_hw": false,
+      "body_preview": "In old English law. A thief caught while escaping with the stolen goods in his possession. Spelman.",
+      "id": "BLD2-05094"
+    },
+    {
+      "term": "FERDELLA TERRA",
+      "body_len": 58,
+      "starts_with_hw": false,
+      "body_preview": "A fardel-land; ten acres; or perhaps a yard-land. Cowell..",
+      "id": "BLD2-05137"
+    },
+    {
+      "term": "FERRUM",
+      "body_len": 66,
+      "starts_with_hw": false,
+      "body_preview": "Iron. In old English law. A horseshoe. Ferrura, shoeing of horses.",
+      "id": "BLD2-05158"
+    },
+    {
+      "term": "FESA",
+      "body_len": 57,
+      "starts_with_hw": false,
+      "body_preview": "In old records. Grass; herbage. 2 Mon. Angl. 906; Cowell.",
+      "id": "BLD2-05161"
+    },
+    {
+      "term": "FLOUD-MARKE",
+      "body_len": 63,
+      "starts_with_hw": false,
+      "body_preview": "In old English law. High-water mark; flood-mark. 1 And. 88, 89.",
+      "id": "BLD2-05316"
+    },
+    {
+      "term": "FORGABULUM",
+      "body_len": 64,
+      "starts_with_hw": false,
+      "body_preview": "or FORGAVEL. A quit-rent; a small reserved rent in money. Jacob.",
+      "id": "BLD2-05413"
+    },
+    {
+      "term": "FORI",
+      "body_len": 97,
+      "starts_with_hw": true,
+      "body_preview": "FORI DISPUTATIONES. In the civil law. Discussions or arguments before a court. 1 Kent, Comm. 530.",
+      "id": "BLD2-05417"
+    },
+    {
+      "term": "FORUM REPETUNDARUM",
+      "body_len": 93,
+      "starts_with_hw": false,
+      "body_preview": "Lat. In the civil law. A court for the trial of actions for restitution or repayment. Calvin.",
+      "id": "BLD2-05487"
+    },
+    {
+      "term": "FORZATE",
+      "body_len": 63,
+      "starts_with_hw": false,
+      "body_preview": "In old English law. A fine or amercement for a misdeed. Cowell.",
+      "id": "BLD2-05495"
+    },
+    {
+      "term": "FOSSATI",
+      "body_len": 60,
+      "starts_with_hw": false,
+      "body_preview": "In old English law. Diggers of ditches or trenches. Spelman.",
+      "id": "BLD2-05498"
+    },
+    {
+      "term": "FOSSE-WAY",
+      "body_len": 70,
+      "starts_with_hw": false,
+      "body_preview": "or FOSSE. One of the four ancient Roman ways through England. Spelman.",
+      "id": "BLD2-05502"
+    },
+    {
+      "term": "FOSSORIA",
+      "body_len": 82,
+      "starts_with_hw": false,
+      "body_preview": "Lat. In the civil law. Pickaxes, spades, or other instruments for digging. Calvin.",
+      "id": "BLD2-05505"
+    },
+    {
+      "term": "FOSSULA",
+      "body_len": 55,
+      "starts_with_hw": false,
+      "body_preview": "Lat. In the civil law. A small ditch or trench. Calvin.",
+      "id": "BLD2-05506"
+    },
+    {
+      "term": "FOSTER-PARENT",
+      "body_len": 70,
+      "starts_with_hw": false,
+      "body_preview": "A person who takes and brings up a child not his own. 2 Bl. Comm. 444.",
+      "id": "BLD2-05508"
+    },
+    {
+      "term": "FOSTERAGE",
+      "body_len": 90,
+      "starts_with_hw": false,
+      "body_preview": "In old English law. A fine or amercement for not fostering or bringing up a child. Cowell.",
+      "id": "BLD2-05509"
+    },
+    {
+      "term": "FOSTERLING",
+      "body_len": 75,
+      "starts_with_hw": false,
+      "body_preview": "A child fostered or brought up by another than its parent. 2 Bl. Comm. 444.",
+      "id": "BLD2-05513"
+    },
+    {
+      "term": "FOUGERET",
+      "body_len": 67,
+      "starts_with_hw": false,
+      "body_preview": "In old English law. A fugitive; one who flees or runs away. Cowell.",
+      "id": "BLD2-05514"
+    },
+    {
+      "term": "FOULE",
+      "body_len": 55,
+      "starts_with_hw": false,
+      "body_preview": "In French law. A crime or misdemeanor. Merl. Rep. h. t.",
+      "id": "BLD2-05518"
+    },
+    {
+      "term": "FOULEE",
+      "body_len": 64,
+      "starts_with_hw": false,
+      "body_preview": "In French law. A female criminal or delinquent. Merl. Rep. h. t.",
+      "id": "BLD2-05519"
+    },
+    {
+      "term": "FOUNDATIONER",
+      "body_len": 64,
+      "starts_with_hw": false,
+      "body_preview": "One who founds or establishes an institution or charity. Cowell.",
+      "id": "BLD2-05521"
+    },
+    {
+      "term": "FOUNDLING HOSPITAL",
+      "body_len": 92,
+      "starts_with_hw": false,
+      "body_preview": "An institution for the reception and care of foundlings or exposed infants. 4 Bl. Comm. 215.",
+      "id": "BLD2-05526"
+    },
+    {
+      "term": "FOUNT",
+      "body_len": 63,
+      "starts_with_hw": false,
+      "body_preview": "In old English law. A fine or amercement for a misdeed. Cowell.",
+      "id": "BLD2-05527"
+    },
+    {
+      "term": "FOURSQUARE",
+      "body_len": 63,
+      "starts_with_hw": false,
+      "body_preview": "In old English law. A fine or amercement for a misdeed. Cowell.",
+      "id": "BLD2-05538"
+    },
+    {
+      "term": "FOVEA",
+      "body_len": 53,
+      "starts_with_hw": false,
+      "body_preview": "Lat. In the civil law. A pit, hole, or ditch. Calvin.",
+      "id": "BLD2-05541"
+    },
+    {
+      "term": "FRANELEYN",
+      "body_len": 98,
+      "starts_with_hw": false,
+      "body_preview": "(spelled, also, “Francling” and “Franklin.”) A freeman; a freeholder; a gentleman. Blount; Cowell.",
+      "id": "BLD2-05560"
+    },
+    {
+      "term": "FRETTUM",
+      "body_len": 74,
+      "starts_with_hw": false,
+      "body_preview": "FRECTUM. In old English law. The freight of a ship; freight money. Cowell.",
+      "id": "BLD2-05605"
+    },
+    {
+      "term": "FRIDBORG",
+      "body_len": 64,
+      "starts_with_hw": false,
+      "body_preview": "FRITHBORG. Frankpledge. Cowell. Security for the peace. Spelman.",
+      "id": "BLD2-05610"
+    },
+    {
+      "term": "FRUCTITIUM",
+      "body_len": 84,
+      "starts_with_hw": false,
+      "body_preview": "Arable land. Mon. Angl.\n\nbreaking or wreck of ships; the same as naufragium, (q. v.)",
+      "id": "BLD2-05624"
+    },
+    {
+      "term": "FUGA",
+      "body_len": 63,
+      "starts_with_hw": true,
+      "body_preview": "FUGA CATALLORUM. In old English law. A drove of cattle. Blount.",
+      "id": "BLD2-05643"
+    },
+    {
+      "term": "FUGAE",
+      "body_len": 91,
+      "starts_with_hw": false,
+      "body_preview": "In old English law. A runaway; fugitive; one escaped from justice, or who has no “hlaford.”",
+      "id": "BLD2-05646"
+    },
+    {
+      "term": "FUNERAL",
+      "body_len": 72,
+      "starts_with_hw": true,
+      "body_preview": "FUNERAL EXPENSES. Money expended in procuring the interment of a corpse.",
+      "id": "BLD2-05674"
+    },
+    {
+      "term": "FUNGIBLES",
+      "body_len": 70,
+      "starts_with_hw": true,
+      "body_preview": "FUNGIBLES RES. Lat. In the civil law. Fungible things. See that title.",
+      "id": "BLD2-05678"
+    },
+    {
+      "term": "FURST",
+      "body_len": 77,
+      "starts_with_hw": true,
+      "body_preview": "FURST AND FONDUNG. In old English law. Time to advise or take counsel, Jacob.",
+      "id": "BLD2-05688"
+    },
+    {
+      "term": "FUZ",
+      "body_len": 51,
+      "starts_with_hw": false,
+      "body_preview": "or FUST. a wood or forest.\n\nA Celtic word, meaning.",
+      "id": "BLD2-05701"
+    },
+    {
+      "term": "GABULUS",
+      "body_len": 63,
+      "starts_with_hw": true,
+      "body_preview": "GABULUS DENARIORUM.\n\nRent paid in money. Seld. Tit. Hon. 321. :",
+      "id": "BLD2-05713"
+    },
+    {
+      "term": "GALLOWS",
+      "body_len": 88,
+      "starts_with_hw": false,
+      "body_preview": "A scaffold; a beam laid over either one or two posts, from which malefactors are hanged.",
+      "id": "BLD2-05733"
+    },
+    {
+      "term": "GARANTHINX",
+      "body_len": 95,
+      "starts_with_hw": false,
+      "body_preview": "In old Lombardic law. A gift; a free or absolute gift; a gift of the whole of a thing. Spelman.",
+      "id": "BLD2-05747"
+    },
+    {
+      "term": "GARBALES",
+      "body_len": 63,
+      "starts_with_hw": true,
+      "body_preview": "GARBALES DECIMZ. Tithes of corn, (grain.) Bell.\n\nIn Scotch law.",
+      "id": "BLD2-05751"
+    },
+    {
+      "term": "GLYN",
+      "body_len": 63,
+      "starts_with_hw": false,
+      "body_preview": "A hollow between two mountains; a valley or glen. Co. Litt. 5b.",
+      "id": "BLD2-05886"
+    },
+    {
+      "term": "GRAFFIUM",
+      "body_len": 70,
+      "starts_with_hw": false,
+      "body_preview": "A writing-book, register, or cartulary of deeds and evidences. Cowell.",
+      "id": "BLD2-05920"
+    },
+    {
+      "term": "GRASSON",
+      "body_len": 63,
+      "starts_with_hw": false,
+      "body_preview": "or GRASSUM. A fine paid upon the transfer of a copyhold estate.",
+      "id": "BLD2-05944"
+    },
+    {
+      "term": "GUERPI",
+      "body_len": 58,
+      "starts_with_hw": false,
+      "body_preview": "GUERPY. L. Fr. ed; left; deserted: Britt. ¢c 33.\n\nAbandon-",
+      "id": "BLD2-06009"
+    },
+    {
+      "term": "HAEREDIS",
+      "body_len": 56,
+      "starts_with_hw": false,
+      "body_preview": "A writ of right of ward of the land and heir. Abolished.",
+      "id": "BLD2-06084"
+    },
+    {
+      "term": "HAILING",
+      "body_len": 71,
+      "starts_with_hw": false,
+      "body_preview": "In Scotch law. The crime of assaulting a person in his own house. Bell.",
+      "id": "BLD2-06096"
+    },
+    {
+      "term": "HEALING",
+      "body_len": 91,
+      "starts_with_hw": true,
+      "body_preview": "HEALING ACT. Another name for a curative act or statute. See Lockhart v. Troy, 48 Ala. 384.",
+      "id": "BLD2-06191"
+    },
+    {
+      "term": "HERBERY",
+      "body_len": 77,
+      "starts_with_hw": false,
+      "body_preview": "or HERBURY. An inn.\n\nCowell.\n\nHERCIA HERCIA. A harrow. Fileta, lib. 2, c. 77.",
+      "id": "BLD2-06245"
+    },
+    {
+      "term": "HERDEWYK",
+      "body_len": 60,
+      "starts_with_hw": false,
+      "body_preview": "A grange or place for cattle or husbandry. Mon. Angi. pt. 8.",
+      "id": "BLD2-06252"
+    },
+    {
+      "term": "HERESLITA",
+      "body_len": 76,
+      "starts_with_hw": false,
+      "body_preview": "HERESSA, HERESSIZ. A hired soldier who departs without license. 4 Inst. 128.",
+      "id": "BLD2-06271"
+    },
+    {
+      "term": "HIDEL",
+      "body_len": 73,
+      "starts_with_hw": false,
+      "body_preview": "In old English law. A place of protection; a sanctuary. ce. 5, 6; Cowell.",
+      "id": "BLD2-06318"
+    },
+    {
+      "term": "HINE",
+      "body_len": 50,
+      "starts_with_hw": false,
+      "body_preview": "or HIND. husbandry servant.\n\nIn old English law. A",
+      "id": "BLD2-06333"
+    },
+    {
+      "term": "HOCKETTOR",
+      "body_len": 77,
+      "starts_with_hw": false,
+      "body_preview": "or HOCQUETEUR. A knight of the post; a decayed man; a basket carrier. Cowell.",
+      "id": "BLD2-06355"
+    },
+    {
+      "term": "HOOCUS",
+      "body_len": 57,
+      "starts_with_hw": true,
+      "body_preview": "HOOCUS SALT. A hoke, hole, or lesser pit of salt. Cowell.",
+      "id": "BLD2-06412"
+    },
+    {
+      "term": "HOSTILARIA",
+      "body_len": 97,
+      "starts_with_hw": false,
+      "body_preview": "HOSPITALARIA. A place or room in religious houses used for the reception of guests and strangers.",
+      "id": "BLD2-06446"
+    },
+    {
+      "term": "HOSTILARIA HOSTILARIA, HOSPITALARIA",
+      "body_len": 83,
+      "starts_with_hw": false,
+      "body_preview": "A place or room in religious houses used for the reception of guests and strangers.",
+      "id": "BLD2-06447"
+    },
+    {
+      "term": "HULEA",
+      "body_len": 50,
+      "starts_with_hw": false,
+      "body_preview": "A small vessel.\n\nIn old records. A hulk or Cowell.",
+      "id": "BLD2-06472"
+    },
+    {
+      "term": "HURST",
+      "body_len": 63,
+      "starts_with_hw": false,
+      "body_preview": "HYRST, HERST, or HIRST. A wood or grove of trees. Co. Litt. 4b.",
+      "id": "BLD2-06487"
+    },
+    {
+      "term": "HWATA",
+      "body_len": 62,
+      "starts_with_hw": false,
+      "body_preview": "HWATUNG. LAW. Augury; divination. ..\n\nIn old English\n\nHYPOTHEO",
+      "id": "BLD2-06502"
+    },
+    {
+      "term": "IGNITEGIUM",
+      "body_len": 68,
+      "starts_with_hw": false,
+      "body_preview": "In old English law. The curfew, or evening bell. Cowell. See CURFEW.",
+      "id": "BLD2-06558"
+    },
+    {
+      "term": "INFIDUCIARE",
+      "body_len": 80,
+      "starts_with_hw": true,
+      "body_preview": "INFIDUCIARE\n\n- EINFIDUOCIARE. In old European law. To: pledge property. Spelman.",
+      "id": "BLD2-06847"
+    },
+    {
+      "term": "INLANTAL",
+      "body_len": 65,
+      "starts_with_hw": false,
+      "body_preview": "Demesne or inland, opposed to delanial, or land tenanted. Cowell.",
+      "id": "BLD2-06905"
+    },
+    {
+      "term": "INNHOLDER",
+      "body_len": 81,
+      "starts_with_hw": false,
+      "body_preview": "An innkeeper; one who keeps an inn or public house. People v. Dorian, 58 Cal. 44.",
+      "id": "BLD2-06917"
+    },
+    {
+      "term": "INOMEE",
+      "body_len": 53,
+      "starts_with_hw": false,
+      "body_preview": "In old English law. A tenant by the curtesy. Spelman.",
+      "id": "BLD2-06939"
+    },
+    {
+      "term": "INQUISITION AFTER DEATH",
+      "body_len": 50,
+      "starts_with_hw": false,
+      "body_preview": "See INQUISITIO. Inquisition of lunacy. See LUNACY.",
+      "id": "BLD2-06956"
+    },
+    {
+      "term": "INQUISITURUS",
+      "body_len": 63,
+      "starts_with_hw": false,
+      "body_preview": "Lat. In the civil law. He who is to be inquired of or examined.",
+      "id": "BLD2-06958"
+    },
+    {
+      "term": "INSANITATE",
+      "body_len": 61,
+      "starts_with_hw": false,
+      "body_preview": "Lat. In old English law. Insanity or madness. Bract. fol. 2b.",
+      "id": "BLD2-06965"
+    },
+    {
+      "term": "INSCONCE",
+      "body_len": 51,
+      "starts_with_hw": false,
+      "body_preview": "In old English law. To inclose or enclose. Spelman.",
+      "id": "BLD2-06967"
+    },
+    {
+      "term": "INSUCKEN",
+      "body_len": 91,
+      "starts_with_hw": true,
+      "body_preview": "INSUCKEN MULTURES. A quantity of corn paid by those who are thirled to a mill See THIRLAGE.",
+      "id": "BLD2-07016"
+    },
+    {
+      "term": "INSUCKEN MULTURES",
+      "body_len": 73,
+      "starts_with_hw": false,
+      "body_preview": "A quantity of corn paid by those who are thirled to a mill. See THIRLAGE.",
+      "id": "BLD2-07017"
+    },
+    {
+      "term": "INTRONISATION",
+      "body_len": 94,
+      "starts_with_hw": false,
+      "body_preview": "In French ecclesiastical law. Enthronement. The installation of a bishop in his episcopal see.",
+      "id": "BLD2-07110"
+    },
+    {
+      "term": "JACET IN FORE",
+      "body_len": 73,
+      "starts_with_hw": false,
+      "body_preview": "Lat. In old English law. It lies in the mouth. Fleta, lib. 5, c. &, § 49.",
+      "id": "BLD2-07202"
+    },
+    {
+      "term": "JAMMA",
+      "body_len": 97,
+      "starts_with_hw": false,
+      "body_preview": "JUMMA. In Hindu law. To tal amount; collection; assembly. The to tal of a territorial assignment.",
+      "id": "BLD2-07214"
+    },
+    {
+      "term": "JAMMABUNDY",
+      "body_len": 75,
+      "starts_with_hw": false,
+      "body_preview": "JUMMABUNDY. In Hindu law. A written schedule of the whole of an assessment.",
+      "id": "BLD2-07216"
+    },
+    {
+      "term": "JONCARIA",
+      "body_len": 70,
+      "starts_with_hw": false,
+      "body_preview": "or JUNCARIA. In old English law. Land where rushes grow. Co. Litt. 5a.",
+      "id": "BLD2-07247"
+    },
+    {
+      "term": "JOOCUS",
+      "body_len": 53,
+      "starts_with_hw": false,
+      "body_preview": "In old English law. A game of hazard. Reg. Orig. 290.",
+      "id": "BLD2-07248"
+    },
+    {
+      "term": "JUNCTO",
+      "body_len": 79,
+      "starts_with_hw": false,
+      "body_preview": "Related on the side of both parents; of the whole blood. Hale, Com. Law, C. 11.",
+      "id": "BLD2-07293"
+    },
+    {
+      "term": "JUNIPERUS",
+      "body_len": 82,
+      "starts_with_hw": true,
+      "body_preview": "JUNIPERUS SABINA. In medical jurisprudence. This plant is commonly called “savin.”",
+      "id": "BLD2-07298"
+    },
+    {
+      "term": "LAET",
+      "body_len": 67,
+      "starts_with_hw": false,
+      "body_preview": "In old English law. lass between servile and free. Palgrave, i. 34.",
+      "id": "BLD2-07479"
+    },
+    {
+      "term": "LAETHS",
+      "body_len": 73,
+      "starts_with_hw": false,
+      "body_preview": "or LATHE. A division or district peculiar to the county of Kent. Spelman.",
+      "id": "BLD2-07481"
+    },
+    {
+      "term": "LAHMAN",
+      "body_len": 59,
+      "starts_with_hw": false,
+      "body_preview": "or LAGEMANNDUS. An old word for a lawyer. Domesday, I. 189.",
+      "id": "BLD2-07490"
+    },
+    {
+      "term": "LAME",
+      "body_len": 90,
+      "starts_with_hw": true,
+      "body_preview": "LAME DUCK. A cant term on the stock exchange for a person unable to -meet his engagenents.",
+      "id": "BLD2-07504"
+    },
+    {
+      "term": "LAPIDICINA",
+      "body_len": 55,
+      "starts_with_hw": false,
+      "body_preview": "Lat. In the civil law. A stone-quarry. Dig. 7, 1, 9, 2.",
+      "id": "BLD2-07537"
+    },
+    {
+      "term": "LAWNDE",
+      "body_len": 64,
+      "starts_with_hw": false,
+      "body_preview": "LOWNDE. In old English law. A plain between woods. Co. Litt. 50.",
+      "id": "BLD2-07603"
+    },
+    {
+      "term": "LEGITIM",
+      "body_len": 61,
+      "starts_with_hw": false,
+      "body_preview": "In Scotch law. The children's share in the father's movables.",
+      "id": "BLD2-07671"
+    },
+    {
+      "term": "LENGE",
+      "body_len": 75,
+      "starts_with_hw": false,
+      "body_preview": "—Defectus sanguinis. Failure of the blood, ¢. e., failure or want of issue.",
+      "id": "BLD2-07687"
+    },
+    {
+      "term": "LESTAGE",
+      "body_len": 97,
+      "starts_with_hw": false,
+      "body_preview": "LASTAGE. A custom for carrying things in fairs and markets. Fleta, 1. 1, c. 47; Termes de la Ley.",
+      "id": "BLD2-07706"
+    },
+    {
+      "term": "LIBRARIUS",
+      "body_len": 65,
+      "starts_with_hw": false,
+      "body_preview": "In Roman law. A writer or amanuensis; a copyist. Dig. 50, 17, 92.",
+      "id": "BLD2-07765"
+    },
+    {
+      "term": "LICKING",
+      "body_len": 73,
+      "starts_with_hw": true,
+      "body_preview": "LICKING OF THUMBS. An ancient formality by which bargains were completed.",
+      "id": "BLD2-07785"
+    },
+    {
+      "term": "LIDFORD",
+      "body_len": 95,
+      "starts_with_hw": true,
+      "body_preview": "LIDFORD LAW. A sort of lynch law, whereby a person was: first punished and then tried. Wharton.",
+      "id": "BLD2-07787"
+    },
+    {
+      "term": "MAILLS",
+      "body_len": 63,
+      "starts_with_hw": true,
+      "body_preview": "MAILLS AND DUTIES. In Scotch law. The rents of an estate. Bell.",
+      "id": "BLD2-08027"
+    },
+    {
+      "term": "MAINOVRE",
+      "body_len": 68,
+      "starts_with_hw": false,
+      "body_preview": "or MAINCGUVRE. A trespass committed by hand. See 7 Rich. ITI. ce. 4.",
+      "id": "BLD2-08034"
+    },
+    {
+      "term": "MANCA",
+      "body_len": 89,
+      "starts_with_hw": false,
+      "body_preview": "MANCUS, or MANCUSA. A equare piece of gold coin, commonly valued at thirty pence. Cowell.",
+      "id": "BLD2-08100"
+    },
+    {
+      "term": "MANSTEALING",
+      "body_len": 61,
+      "starts_with_hw": false,
+      "body_preview": "A word sometimes used synonymously with “kidnapping,” (q. v.)",
+      "id": "BLD2-08145"
+    },
+    {
+      "term": "MAOE-GREFF",
+      "body_len": 97,
+      "starts_with_hw": false,
+      "body_preview": "In old English law. One who buys stolen goods, particularly food, knowing it to have been stolen.",
+      "id": "BLD2-08172"
+    },
+    {
+      "term": "MARCO-BANCO",
+      "body_len": 89,
+      "starts_with_hw": false,
+      "body_preview": "The name of a piece of money formerly coined at Hamburg. Its value was thirty-five cents.",
+      "id": "BLD2-08185"
+    },
+    {
+      "term": "MARQUIS",
+      "body_len": 90,
+      "starts_with_hw": false,
+      "body_preview": "or MARQUESS. In English law. One of the second order of nobility; next in order to a duke.",
+      "id": "BLD2-08213"
+    },
+    {
+      "term": "MATRONS",
+      "body_len": 85,
+      "starts_with_hw": false,
+      "body_preview": "JURY OF. Such a jury is impaneled to try if a woman condemned to death be with child.",
+      "id": "BLD2-08254"
+    },
+    {
+      "term": "MAUNDY",
+      "body_len": 92,
+      "starts_with_hw": true,
+      "body_preview": "MAUNDY THURSDAY\n\nMAUNDY THURSDAY. The day preceding Good Friday, on which princes gave alms.",
+      "id": "BLD2-08259"
+    },
+    {
+      "term": "MEASE",
+      "body_len": 53,
+      "starts_with_hw": false,
+      "body_preview": "or MESE. Norman-French for a house. Litt. §§ 74, 251.",
+      "id": "BLD2-08272"
+    },
+    {
+      "term": "MEASURER",
+      "body_len": 84,
+      "starts_with_hw": false,
+      "body_preview": "or METER. An officer in the city of London, who measured woolen clothes, coals, etc.",
+      "id": "BLD2-08275"
+    },
+    {
+      "term": "MEDIANUS",
+      "body_len": 53,
+      "starts_with_hw": true,
+      "body_preview": "MEDIANUS HOMO MEDIANUS HOMO. A man of middle fortune.",
+      "id": "BLD2-08286"
+    },
+    {
+      "term": "MEDIUM",
+      "body_len": 68,
+      "starts_with_hw": true,
+      "body_preview": "MEDIUM TEMPUS. Meantime;\n\nIn old English law. mesne protits. Cowell.",
+      "id": "BLD2-08302"
+    },
+    {
+      "term": "MEINDRE",
+      "body_len": 53,
+      "starts_with_hw": true,
+      "body_preview": "MEINDRE AGE, UL. Fr. Minority;\n\nlesser age. Infantem.",
+      "id": "BLD2-08312"
+    },
+    {
+      "term": "MER",
+      "body_len": 76,
+      "starts_with_hw": true,
+      "body_preview": "MER RECOVERY. An adjudication or recovery in a former action. See Res JupIi-",
+      "id": "BLD2-08348"
+    },
+    {
+      "term": "MESNALTY",
+      "body_len": 72,
+      "starts_with_hw": false,
+      "body_preview": "or MESNALITY. A manor held under a superior lord. The estate of a mesne.",
+      "id": "BLD2-08393"
+    },
+    {
+      "term": "METEWAND",
+      "body_len": 71,
+      "starts_with_hw": false,
+      "body_preview": "or METE-YARD. A staff of a certain length wherewith measures are taken.",
+      "id": "BLD2-08412"
+    },
+    {
+      "term": "MONIERS",
+      "body_len": 56,
+      "starts_with_hw": false,
+      "body_preview": "or MONEYERS. Minsters of the mint; also bankers. Cowell.",
+      "id": "BLD2-08576"
+    },
+    {
+      "term": "MORANDI",
+      "body_len": 96,
+      "starts_with_hw": true,
+      "body_preview": "MORANDI SOLUTIONIS CAUSA. Lat. For the purpose of delaying or postponing payment or performance.",
+      "id": "BLD2-08608"
+    },
+    {
+      "term": "MUNDBYRD",
+      "body_len": 58,
+      "starts_with_hw": true,
+      "body_preview": "MUNDBYRD, MUNDEBURDE. Receiving into favor and protection.",
+      "id": "BLD2-08673"
+    },
+    {
+      "term": "MUTATIO",
+      "body_len": 67,
+      "starts_with_hw": true,
+      "body_preview": "MUTATIO NOMINIS. Lat. In the civil law. Change of name. Cod. 9, 25.",
+      "id": "BLD2-08697"
+    },
+    {
+      "term": "NATI",
+      "body_len": 67,
+      "starts_with_hw": true,
+      "body_preview": "NATI ET NASCITURI. Born and to be born. All heirs, near and remote.",
+      "id": "BLD2-08754"
+    },
+    {
+      "term": "NATURALEZA",
+      "body_len": 90,
+      "starts_with_hw": false,
+      "body_preview": "In Spanish law. The state of a natural-born subject. White, New Recop. b. 1, tit. 5, ¢. 2.",
+      "id": "BLD2-08767"
+    },
+    {
+      "term": "NOLISSEMENT",
+      "body_len": 66,
+      "starts_with_hw": false,
+      "body_preview": "Fr. In French marine law. Affreightment. Ord. Mar. liv. 8, tit. 1.",
+      "id": "BLD2-08894"
+    },
+    {
+      "term": "NON-ASSESSA",
+      "body_len": 67,
+      "starts_with_hw": true,
+      "body_preview": "NON-ASSESSABLE\n\nCaesar, Pompey, and Sylla among the Romans. Calvin.",
+      "id": "BLD2-08921"
+    },
+    {
+      "term": "NUCES",
+      "body_len": 77,
+      "starts_with_hw": true,
+      "body_preview": "NUCES COLLIGERE. Lat. To collect nuts. This was formerly one of the works\n\nen",
+      "id": "BLD2-09010"
+    },
+    {
+      "term": "NUMERATA PECUNIA",
+      "body_len": 97,
+      "starts_with_hw": false,
+      "body_preview": "Lat. In the civil law. Money told or counted; money paid by tale. Inst. 3, 24, 2; Bract. fol. 35.",
+      "id": "BLD2-09024"
+    },
+    {
+      "term": "NUNOCIUS",
+      "body_len": 86,
+      "starts_with_hw": false,
+      "body_preview": "In international messenger; a minister; the pope’s legate, commonly called a “nuncio.”",
+      "id": "BLD2-09035"
+    },
+    {
+      "term": "OBSTA",
+      "body_len": 53,
+      "starts_with_hw": true,
+      "body_preview": "OBSTANTE. Withstanding; See NON OBSTANTE.\n\nhindering.",
+      "id": "BLD2-09086"
+    },
+    {
+      "term": "OCCASIONARI",
+      "body_len": 62,
+      "starts_with_hw": false,
+      "body_preview": "To be charged or loaded with payments or occasional penalties.",
+      "id": "BLD2-09101"
+    },
+    {
+      "term": "OCCUPATILE",
+      "body_len": 80,
+      "starts_with_hw": false,
+      "body_preview": "That which has been left by the right owner, and is now possess-' ed by another.",
+      "id": "BLD2-09106"
+    },
+    {
+      "term": "OCCUPIER",
+      "body_len": 52,
+      "starts_with_hw": false,
+      "body_preview": "An occupant; one who is in the enjoyment of a thing.",
+      "id": "BLD2-09110"
+    },
+    {
+      "term": "OUTHEST",
+      "body_len": 66,
+      "starts_with_hw": false,
+      "body_preview": "or OUTHOME. A calling men out to the army by sound of horn. Jacob.",
+      "id": "BLD2-09278"
+    },
+    {
+      "term": "OUTROPER",
+      "body_len": 90,
+      "starts_with_hw": false,
+      "body_preview": "A person to whom the business of selling by auction was confined by statute. 2 H. Bl. 557.",
+      "id": "BLD2-09289"
+    },
+    {
+      "term": "OVERCYTED",
+      "body_len": 51,
+      "starts_with_hw": false,
+      "body_preview": "or OVERCYHSED.\n\nProved guilty or convicted. Blount.",
+      "id": "BLD2-09297"
+    },
+    {
+      "term": "PALL",
+      "body_len": 56,
+      "starts_with_hw": false,
+      "body_preview": "from a right is to lose or forfeit it 1\n\nKames, Kq. 228.",
+      "id": "BLD2-09372"
+    },
+    {
+      "term": "PARLE",
+      "body_len": 77,
+      "starts_with_hw": true,
+      "body_preview": "PARLE HILL, or PARLING HILL. A hill where courts were anciently held. Cowell.",
+      "id": "BLD2-09436"
+    },
+    {
+      "term": "PARRICIDE",
+      "body_len": 78,
+      "starts_with_hw": false,
+      "body_preview": "The crime of killing one’s father; also a person guilty of killing his father.",
+      "id": "BLD2-09446"
+    },
+    {
+      "term": "PARTE",
+      "body_len": 95,
+      "starts_with_hw": true,
+      "body_preview": "PARTE INAUDITA. Lat. One side being unheard. Spoken of any action which is taken ez parte.\n\n“NN",
+      "id": "BLD2-09453"
+    },
+    {
+      "term": "PELFE",
+      "body_len": 71,
+      "starts_with_hw": false,
+      "body_preview": "or PELFRE. Booty; also the personal effects of a felon convict. Cowell.",
+      "id": "BLD2-09583"
+    },
+    {
+      "term": "PESSONA",
+      "body_len": 70,
+      "starts_with_hw": false,
+      "body_preview": "Mast of oaks, etc., or money; taken for mast, or feeding hogs. Cowell.",
+      "id": "BLD2-09697"
+    },
+    {
+      "term": "PICK",
+      "body_len": 59,
+      "starts_with_hw": true,
+      "body_preview": "PICK OF LAND. running into a corner.\n\nA narrow slip of land",
+      "id": "BLD2-09724"
+    },
+    {
+      "term": "PLEDGEE",
+      "body_len": 81,
+      "starts_with_hw": false,
+      "body_preview": "The party to whom goods are pledged, or delivered in pledge. Story, Bailm. § 287.",
+      "id": "BLD2-09812"
+    },
+    {
+      "term": "PLEDGOR",
+      "body_len": 78,
+      "starts_with_hw": false,
+      "body_preview": "The party delivering goods in pledge; the party pledging. Story, Bailm. § 287.",
+      "id": "BLD2-09814"
+    },
+    {
+      "term": "PLEGI",
+      "body_len": 79,
+      "starts_with_hw": true,
+      "body_preview": "PLEGI DE PROSEQUENDO. Pledges ' to prosecute with effect an action of replevin.",
+      "id": "BLD2-09815"
+    },
+    {
+      "term": "PLEGI DE PROSEQUENDO",
+      "body_len": 55,
+      "starts_with_hw": false,
+      "body_preview": "Pledges to prosecute with effect an action of replevin.",
+      "id": "BLD2-09816"
+    },
+    {
+      "term": "POULTRY COUNTER",
+      "body_len": 53,
+      "starts_with_hw": false,
+      "body_preview": "The name of a prison formerly existing in London. See",
+      "id": "BLD2-09960"
+    },
+    {
+      "term": "POURVEYOR",
+      "body_len": 63,
+      "starts_with_hw": false,
+      "body_preview": "or PURVEYOR. A buyer; one who provided for the royal household.",
+      "id": "BLD2-09970"
+    },
+    {
+      "term": "PRAEDO",
+      "body_len": 51,
+      "starts_with_hw": false,
+      "body_preview": "ber.\n\nLat. In Roman law. A robSee Dig. 50, 17, 126.",
+      "id": "BLD2-09992"
+    },
+    {
+      "term": "PRIME TONSURA",
+      "body_len": 86,
+      "starts_with_hw": false,
+      "body_preview": "The first mowing; a grant of a right to have the first crop of grass. 1 Chit. Pr. 181.",
+      "id": "BLD2-10122"
+    },
+    {
+      "term": "PROAVIA",
+      "body_len": 79,
+      "starts_with_hw": false,
+      "body_preview": "Lat. great-grandmother. 10, 1, 5.\n\nIn the civil law. <A Inst. 3, 6, 3; Dig. 38,",
+      "id": "BLD2-10168"
+    },
+    {
+      "term": "PROFECTITIUS",
+      "body_len": 86,
+      "starts_with_hw": false,
+      "body_preview": "Lat. In the civil law. That which descends to us from our ascendants. Dig. 23, 3, 5. ;",
+      "id": "BLD2-10223"
+    },
+    {
+      "term": "PROPRIETATES",
+      "body_len": 70,
+      "starts_with_hw": true,
+      "body_preview": "PROPRIETATES VERBORUM\n\ndistinguished from that acquired by “purchase.”",
+      "id": "BLD2-10284"
+    },
+    {
+      "term": "QUATUOR",
+      "body_len": 91,
+      "starts_with_hw": true,
+      "body_preview": "QUATUOR PEDIBUS CURRIT. Lat. It runs upon four feet; it runs upon all fours. See ALr-Fours.",
+      "id": "BLD2-10491"
+    },
+    {
+      "term": "QUINQUE",
+      "body_len": 62,
+      "starts_with_hw": true,
+      "body_preview": "QUINQUE PORTUS. In old English law. The Cinque Ports. Spelman.",
+      "id": "BLD2-10523"
+    },
+    {
+      "term": "QUINTAL",
+      "body_len": 67,
+      "starts_with_hw": false,
+      "body_preview": "or KINTAL. A weight of one hundred pounds. Cowell.\n\ncunque doceri,.",
+      "id": "BLD2-10527"
+    },
+    {
+      "term": "R.J,&P",
+      "body_len": 51,
+      "starts_with_hw": false,
+      "body_preview": "J. Revenue, Judicial, and Police Journal, Calcutta.",
+      "id": "BLD2-10562"
+    },
+    {
+      "term": "RATIONABUNDO",
+      "body_len": 77,
+      "starts_with_hw": false,
+      "body_preview": "In old English practice. To reason upon; to argue or discuss. Bract. fol. 31.",
+      "id": "BLD2-10607"
+    },
+    {
+      "term": "RATIONALES",
+      "body_len": 65,
+      "starts_with_hw": false,
+      "body_preview": "In old English law. Reasonable; moderate; not excessive. Spelman.",
+      "id": "BLD2-10608"
+    },
+    {
+      "term": "RATIONALES HABITUS",
+      "body_len": 77,
+      "starts_with_hw": false,
+      "body_preview": "In old English law. Reasonable or moderate customs or usages. Bract. fol. 31.",
+      "id": "BLD2-10610"
+    },
+    {
+      "term": "RATIONALES PERSONAE",
+      "body_len": 98,
+      "starts_with_hw": false,
+      "body_preview": "In the civil law. Reasonable or proper persons; such as are capable of contracting. Inst. 1, 8, 2.",
+      "id": "BLD2-10612"
+    },
+    {
+      "term": "REBUS",
+      "body_len": 77,
+      "starts_with_hw": true,
+      "body_preview": "REBUS SIC STANTIBUS. lIat. At\n\nthis point of affairs; in these circumstances.",
+      "id": "BLD2-10649"
+    },
+    {
+      "term": "REBUTTING EVIDENCE",
+      "body_len": 57,
+      "starts_with_hw": false,
+      "body_preview": "The part of the defendant. Steph. Pl. 59; 8 Bl Comm. 310.",
+      "id": "BLD2-10657"
+    },
+    {
+      "term": "RECOUP",
+      "body_len": 93,
+      "starts_with_hw": false,
+      "body_preview": "or RECOUPE. To deduct, defalk, discount, set off, or keep back; to withhold part of a demand.",
+      "id": "BLD2-10711"
+    },
+    {
+      "term": "RECTORIAL",
+      "body_len": 63,
+      "starts_with_hw": true,
+      "body_preview": "RECTORIAL TITHES\n\n. RECTORIAL TITHES. Great or pre dial tithes.",
+      "id": "BLD2-10727"
+    },
+    {
+      "term": "RENANT",
+      "body_len": 60,
+      "starts_with_hw": false,
+      "body_preview": "or RENIANT. In old English law. Denying. 32 Hen. VIII. c. 2.",
+      "id": "BLD2-10896"
+    },
+    {
+      "term": "REO",
+      "body_len": 78,
+      "starts_with_hw": true,
+      "body_preview": "REO ABSENTE. Lat. The defendant being absent; in the absence of the defendant.",
+      "id": "BLD2-10910"
+    },
+    {
+      "term": "REPATRIATION",
+      "body_len": 88,
+      "starts_with_hw": true,
+      "body_preview": "REPATRIATION takes place when a person who has been expatriated regains his nationality.",
+      "id": "BLD2-10917"
+    },
+    {
+      "term": "REPLIANT",
+      "body_len": 72,
+      "starts_with_hw": false,
+      "body_preview": "or REPLICANT. A litigant who replies or files or delivers a replication.",
+      "id": "BLD2-10936"
+    },
+    {
+      "term": "RESCISSORY",
+      "body_len": 77,
+      "starts_with_hw": true,
+      "body_preview": "RESCISSORY ACTION. In Scotch law. One to rescind or annul a deed or contract.",
+      "id": "BLD2-10974"
+    },
+    {
+      "term": "RETENEMENTUM",
+      "body_len": 54,
+      "starts_with_hw": false,
+      "body_preview": "In old English law Restraint; detainment; withholding.",
+      "id": "BLD2-11039"
+    },
+    {
+      "term": "RETRACTATION",
+      "body_len": 63,
+      "starts_with_hw": false,
+      "body_preview": "in probate practice, is a withdrawal of a renunciation, (g. v.)",
+      "id": "BLD2-11047"
+    },
+    {
+      "term": "RETROACTIVE",
+      "body_len": 60,
+      "starts_with_hw": true,
+      "body_preview": "RETROACTIVE has the same meaning as “retrospective,” (q. v.)",
+      "id": "BLD2-11056"
+    },
+    {
+      "term": "RK",
+      "body_len": 54,
+      "starts_with_hw": false,
+      "body_preview": "A. 644, 11 Am St. Rep. 189; Pen. Code Tex. art. 579. ;",
+      "id": "BLD2-11162"
+    },
+    {
+      "term": "RL",
+      "body_len": 59,
+      "starts_with_hw": false,
+      "body_preview": "& 8. Ridgeway, Lapp & Schoales’ Irish King’s Bench Reports.",
+      "id": "BLD2-11163"
+    },
+    {
+      "term": "ROD",
+      "body_len": 72,
+      "starts_with_hw": false,
+      "body_preview": "A lineal measure of sixteen feet and a half, otherwise called a “perch.”",
+      "id": "BLD2-11172"
+    },
+    {
+      "term": "ROD KNIGHTS",
+      "body_len": 97,
+      "starts_with_hw": false,
+      "body_preview": "In feudal law. Certain servitors who held their land by serving their lords on horseback. Cowell.",
+      "id": "BLD2-11173"
+    },
+    {
+      "term": "RUNDLET",
+      "body_len": 89,
+      "starts_with_hw": false,
+      "body_preview": "or RUNLET. <A measure of wine, oil, etc., containing eighteen gallons and a half. Cowell.",
+      "id": "BLD2-11217"
+    },
+    {
+      "term": "SART",
+      "body_len": 67,
+      "starts_with_hw": false,
+      "body_preview": "In old English law. woodland turned into arable. A piece of Cowell.",
+      "id": "BLD2-11323"
+    },
+    {
+      "term": "SEDATO",
+      "body_len": 53,
+      "starts_with_hw": true,
+      "body_preview": "SEDATO ANIMO. purpose. 5 Mod. 291.\n\nLat. With settled",
+      "id": "BLD2-11448"
+    },
+    {
+      "term": "SEDE",
+      "body_len": 87,
+      "starts_with_hw": true,
+      "body_preview": "SEDE PLENA. Lat. The see being filled. A phrase used when a bishop’s see is not vacant.",
+      "id": "BLD2-11450"
+    },
+    {
+      "term": "SEDENTE",
+      "body_len": 71,
+      "starts_with_hw": true,
+      "body_preview": "SEDENTE CURIA. Lat. The court sitting; during the sitting of the court.",
+      "id": "BLD2-11452"
+    },
+    {
+      "term": "SELDA",
+      "body_len": 93,
+      "starts_with_hw": false,
+      "body_preview": "A shop, shed, or stall in a market; a wood of sallows or willows; also a sawpit. Co. Litt. 4.",
+      "id": "BLD2-11477"
+    },
+    {
+      "term": "SEMI-PLENA PROBATIO",
+      "body_len": 84,
+      "starts_with_hw": false,
+      "body_preview": "Lat. In the civil law. Half-full proof; half-proof. 8 Bl. Comm. 210. See HALF-PROOF.",
+      "id": "BLD2-11489"
+    },
+    {
+      "term": "SEWARD",
+      "body_len": 55,
+      "starts_with_hw": false,
+      "body_preview": "or SEAWARD. One who guards the sea-coast; custos maris.",
+      "id": "BLD2-11592"
+    },
+    {
+      "term": "SEXTANS",
+      "body_len": 67,
+      "starts_with_hw": false,
+      "body_preview": "Lat. In Roman law. <A subdivision of the as, containing two uncie ;",
+      "id": "BLD2-11598"
+    },
+    {
+      "term": "SIETE",
+      "body_len": 53,
+      "starts_with_hw": true,
+      "body_preview": "SIETE PARTIDAS. See Las PARTIDAS.\n\nSpan. Seven parts,",
+      "id": "BLD2-11671"
+    },
+    {
+      "term": "SIGNATORIUS",
+      "body_len": 70,
+      "starts_with_hw": true,
+      "body_preview": "SIGNATORIUS ANNULUS. In the civil law. A signet-ring; Dig. 50, 16, 74.",
+      "id": "BLD2-11679"
+    },
+    {
+      "term": "SKELETON",
+      "body_len": 57,
+      "starts_with_hw": true,
+      "body_preview": "SKELETON BILL. One drawn, indorsed, or accepted in blank.",
+      "id": "BLD2-11726"
+    },
+    {
+      "term": "SOLATRICE",
+      "body_len": 80,
+      "starts_with_hw": false,
+      "body_preview": "In old English law. A female who was condemned to the mines or quarries. Cowell.",
+      "id": "BLD2-11785"
+    },
+    {
+      "term": "SOLATRICES",
+      "body_len": 80,
+      "starts_with_hw": false,
+      "body_preview": "In old English law. Females who were condemned to the mines or quarries. Cowell.",
+      "id": "BLD2-11786"
+    },
+    {
+      "term": "SOLDADOES",
+      "body_len": 68,
+      "starts_with_hw": false,
+      "body_preview": "In Spanish law. Soldiers. White, New Recop. b. 1, tit. 5, c. 3, 5 2.",
+      "id": "BLD2-11789"
+    },
+    {
+      "term": "SOLE DAY",
+      "body_len": 79,
+      "starts_with_hw": false,
+      "body_preview": "That period of time which begins at sunrise and ends at sunset. Co. Litt. 135a.",
+      "id": "BLD2-11794"
+    },
+    {
+      "term": "SOLEMN FORM",
+      "body_len": 73,
+      "starts_with_hw": false,
+      "body_preview": "A formality; a ceremony; a solemn or formal proceeding. 2 Kent, Comm. 47.",
+      "id": "BLD2-11801"
+    },
+    {
+      "term": "SOLEMNIZATION",
+      "body_len": 63,
+      "starts_with_hw": false,
+      "body_preview": "The act of solemnizing or performing a marriage. See Solemnize.",
+      "id": "BLD2-11805"
+    },
+    {
+      "term": "SOLEMNNESS",
+      "body_len": 61,
+      "starts_with_hw": false,
+      "body_preview": "The state or quality of being solemn; formality; seriousness.",
+      "id": "BLD2-11808"
+    },
+    {
+      "term": "SOLEN",
+      "body_len": 66,
+      "starts_with_hw": false,
+      "body_preview": "In old English law. A certain kind of net used in hunting. Cowell.",
+      "id": "BLD2-11809"
+    },
+    {
+      "term": "SOLENELL",
+      "body_len": 58,
+      "starts_with_hw": false,
+      "body_preview": "In old English law. A kind of net used in hunting. Cowell.",
+      "id": "BLD2-11810"
+    },
+    {
+      "term": "SOLENNY",
+      "body_len": 93,
+      "starts_with_hw": false,
+      "body_preview": "In old English law. A fine or amercement for a breach of the assize of bread and ale. Cowell.",
+      "id": "BLD2-11811"
+    },
+    {
+      "term": "SOLENS",
+      "body_len": 93,
+      "starts_with_hw": false,
+      "body_preview": "In old English law. A fine or amercement for a breach of the assize of bread and ale. Cowell.",
+      "id": "BLD2-11812"
+    },
+    {
+      "term": "SOLICITUDE",
+      "body_len": 55,
+      "starts_with_hw": false,
+      "body_preview": "Anxiety; careful attention; earnest desire; solicitude.",
+      "id": "BLD2-11825"
+    },
+    {
+      "term": "SOLICITUDE FOR THE PUBLIC GOOD",
+      "body_len": 68,
+      "starts_with_hw": false,
+      "body_preview": "An anxiety or careful attention to the public good. 2 Bl. Comm. 129.",
+      "id": "BLD2-11826"
+    },
+    {
+      "term": "SOLICITUDE FOR THE WELFARE OF THE COMMONWEALTH",
+      "body_len": 84,
+      "starts_with_hw": false,
+      "body_preview": "An anxiety or careful attention to the welfare of the commonwealth. 2 Bl. Comm. 129.",
+      "id": "BLD2-11829"
+    },
+    {
+      "term": "SOLICITUDE FOR THE WELFARE OF THE STATE",
+      "body_len": 77,
+      "starts_with_hw": false,
+      "body_preview": "An anxiety or careful attention to the welfare of the state. 2 Bl. Comm. 129.",
+      "id": "BLD2-11830"
+    },
+    {
+      "term": "SOLICITUDE FOR THE WELFARE OF THE WORLD",
+      "body_len": 77,
+      "starts_with_hw": false,
+      "body_preview": "An anxiety or careful attention to the welfare of the world. 2 Bl. Comm. 129.",
+      "id": "BLD2-11831"
+    },
+    {
+      "term": "SOLICITUDE FOR THE WORLD",
+      "body_len": 62,
+      "starts_with_hw": false,
+      "body_preview": "An anxiety or careful attention to the world. 2 Bl. Comm. 129.",
+      "id": "BLD2-11832"
+    },
+    {
+      "term": "SOLICITUDE IN THE PUBLIC GOOD",
+      "body_len": 68,
+      "starts_with_hw": false,
+      "body_preview": "An anxiety or careful attention to the public good. 2 Bl. Comm. 129.",
+      "id": "BLD2-11833"
+    },
+    {
+      "term": "SOLICITUDE IN THE WELFARE OF THE COMMONWEALTH",
+      "body_len": 84,
+      "starts_with_hw": false,
+      "body_preview": "An anxiety or careful attention to the welfare of the commonwealth. 2 Bl. Comm. 129.",
+      "id": "BLD2-11836"
+    },
+    {
+      "term": "SOLICITUDE IN THE WELFARE OF THE STATE",
+      "body_len": 77,
+      "starts_with_hw": false,
+      "body_preview": "An anxiety or careful attention to the welfare of the state. 2 Bl. Comm. 129.",
+      "id": "BLD2-11837"
+    },
+    {
+      "term": "SOLICITUDE IN THE WELFARE OF THE WORLD",
+      "body_len": 77,
+      "starts_with_hw": false,
+      "body_preview": "An anxiety or careful attention to the welfare of the world. 2 Bl. Comm. 129.",
+      "id": "BLD2-11838"
+    },
+    {
+      "term": "SOLICITUDE IN THE WORLD",
+      "body_len": 62,
+      "starts_with_hw": false,
+      "body_preview": "An anxiety or careful attention to the world. 2 Bl. Comm. 129.",
+      "id": "BLD2-11839"
+    },
+    {
+      "term": "SOLID",
+      "body_len": 72,
+      "starts_with_hw": false,
+      "body_preview": "Substantial; firm; not hollow or empty. Solid evidence; solid testimony.",
+      "id": "BLD2-11840"
+    },
+    {
+      "term": "SOLIDITY",
+      "body_len": 55,
+      "starts_with_hw": false,
+      "body_preview": "Substantialness; firmness; not hollowness or emptiness.",
+      "id": "BLD2-11850"
+    },
+    {
+      "term": "SOLIFUGAE",
+      "body_len": 58,
+      "starts_with_hw": false,
+      "body_preview": "In old English law. A kind of net used in hunting. Cowell.",
+      "id": "BLD2-11852"
+    },
+    {
+      "term": "SOLIFUGES",
+      "body_len": 58,
+      "starts_with_hw": false,
+      "body_preview": "In old English law. A kind of net used in hunting. Cowell.",
+      "id": "BLD2-11853"
+    },
+    {
+      "term": "SOLITARY",
+      "body_len": 69,
+      "starts_with_hw": false,
+      "body_preview": "Single; alone; not in company with others; not accompanied by others.",
+      "id": "BLD2-11856"
+    },
+    {
+      "term": "SOLITUDE",
+      "body_len": 78,
+      "starts_with_hw": false,
+      "body_preview": "The state or condition of being alone; the state or condition of solitariness.",
+      "id": "BLD2-11857"
+    },
+    {
+      "term": "SOLLAR",
+      "body_len": 66,
+      "starts_with_hw": false,
+      "body_preview": "In old English law. A certain kind of net used in hunting. Cowell.",
+      "id": "BLD2-11858"
+    },
+    {
+      "term": "SOLLARS",
+      "body_len": 66,
+      "starts_with_hw": false,
+      "body_preview": "In old English law. Certain kinds of nets used in hunting. Cowell.",
+      "id": "BLD2-11859"
+    },
+    {
+      "term": "SOLLARY",
+      "body_len": 66,
+      "starts_with_hw": false,
+      "body_preview": "In old English law. A certain kind of net used in hunting. Cowell.",
+      "id": "BLD2-11860"
+    },
+    {
+      "term": "SOLLERS",
+      "body_len": 66,
+      "starts_with_hw": false,
+      "body_preview": "In old English law. Certain kinds of nets used in hunting. Cowell.",
+      "id": "BLD2-11861"
+    },
+    {
+      "term": "SPITAL",
+      "body_len": 88,
+      "starts_with_hw": false,
+      "body_preview": "or SPITTLE. A charitable foundation; a hospital for diseased people; a hospital. Cowell.",
+      "id": "BLD2-11944"
+    },
+    {
+      "term": "SPOLIUM",
+      "body_len": 85,
+      "starts_with_hw": false,
+      "body_preview": "Lat. In the civil and common law. A thing violently or unlawfully taken from another.",
+      "id": "BLD2-11949"
+    },
+    {
+      "term": "STEP-DAUGHTER",
+      "body_len": 85,
+      "starts_with_hw": false,
+      "body_preview": "The daughter of one's wife by a former husband, or of one's husband by a former wife.",
+      "id": "BLD2-12021"
+    },
+    {
+      "term": "STERBRECHE",
+      "body_len": 83,
+      "starts_with_hw": false,
+      "body_preview": "or STREBRICH. The breaking, obstructing, or straitening of a way. Termes de la Ley.",
+      "id": "BLD2-12026"
+    },
+    {
+      "term": "STRICTUM",
+      "body_len": 90,
+      "starts_with_hw": true,
+      "body_preview": "STRICTUM JUS. Lat. Strict right or law; the rigor of the law as distinguished from equity.",
+      "id": "BLD2-12080"
+    },
+    {
+      "term": "SURSUM",
+      "body_len": 69,
+      "starts_with_hw": true,
+      "body_preview": "SURSUM REDDERE. Lat. In old conveyancing. To render up; to surrender.",
+      "id": "BLD2-12261"
+    },
+    {
+      "term": "T E R R I T O R I A L C O U R T S",
+      "body_len": 63,
+      "starts_with_hw": false,
+      "body_preview": "The courts established in the territories of the United States.",
+      "id": "BLD2-12319"
+    },
+    {
+      "term": "TABULAE NUPTIALES",
+      "body_len": 81,
+      "starts_with_hw": false,
+      "body_preview": "In the civil law. A written record of a marriage; or the agreement as to the dos.",
+      "id": "BLD2-12342"
+    },
+    {
+      "term": "TELLIGRAPHUM",
+      "body_len": 64,
+      "starts_with_hw": false,
+      "body_preview": "An Anglo-Saxon\n\ncharter of land. 1 Reeve, Eng. Law, c. 1, p. 10.",
+      "id": "BLD2-12429"
+    },
+    {
+      "term": "THAVIES",
+      "body_len": 54,
+      "starts_with_hw": true,
+      "body_preview": "THAVIES INN. An inn of chancery. See INNS OF CHANCERY.",
+      "id": "BLD2-12536"
+    },
+    {
+      "term": "THEOWES",
+      "body_len": 83,
+      "starts_with_hw": false,
+      "body_preview": "THEOWMEN, or THEWS. In feudal law. Slaves, captives, or bondmen. Spel. Feuds, c. 5.",
+      "id": "BLD2-12555"
+    },
+    {
+      "term": "TIIS",
+      "body_len": 52,
+      "starts_with_hw": false,
+      "body_preview": "Lat. Laying aside all other businesses. 9 Hast. 347.",
+      "id": "BLD2-12610"
+    },
+    {
+      "term": "TINKERMEN",
+      "body_len": 95,
+      "starts_with_hw": false,
+      "body_preview": "Fishermen who destroyed the young fry on the river Thames by nets and unlawful engines. Cowell.",
+      "id": "BLD2-12624"
+    },
+    {
+      "term": "TIVE",
+      "body_len": 59,
+      "starts_with_hw": true,
+      "body_preview": "TIVE LAW; ADMINISTRATIVE LAW: BANKTIVE PREGNANT.\n\nSee NEGA-",
+      "id": "BLD2-12646"
+    },
+    {
+      "term": "TRAHENS",
+      "body_len": 68,
+      "starts_with_hw": false,
+      "body_preview": "Lat. drawer of a bill.\n\nIn French law. The Story, Bills, § 12, note.",
+      "id": "BLD2-12720"
+    },
+    {
+      "term": "TRANSCRIPTIO",
+      "body_len": 59,
+      "starts_with_hw": true,
+      "body_preview": "TRANSCRIPTIO PEDIS FINIS LEGIS.\n\nTRANSCRIPTIO RECOGNITIONIS",
+      "id": "BLD2-12732"
+    },
+    {
+      "term": "TRE",
+      "body_len": 68,
+      "starts_with_hw": true,
+      "body_preview": "TRE AD LARGUM. Lat. To go at large; to escape; to be set at liberty.",
+      "id": "BLD2-12763"
+    },
+    {
+      "term": "TZAR",
+      "body_len": 55,
+      "starts_with_hw": true,
+      "body_preview": "TZARINA. The emperor and empress of Russia. See Czaris.",
+      "id": "BLD2-12884"
+    },
+    {
+      "term": "UNCIARIUS",
+      "body_len": 95,
+      "starts_with_hw": true,
+      "body_preview": "UNCIARIUS HZRES. Iat. In Roman law. An heir to one-twelfth of an estate or inheritance. Calvin.",
+      "id": "BLD2-12919"
+    },
+    {
+      "term": "UNDER-TREASURER",
+      "body_len": 86,
+      "starts_with_hw": true,
+      "body_preview": "UNDER-TREASURER OF ENGLAND. He who transacted the business of the late high treasurer.",
+      "id": "BLD2-12936"
+    },
+    {
+      "term": "VARDA",
+      "body_len": 99,
+      "starts_with_hw": false,
+      "body_preview": "In old Scotch law. Ward;\n\ncustody; guardianship. Answering to “warda,” in old English law. Spelman.",
+      "id": "BLD2-13086"
+    },
+    {
+      "term": "VICE-DOMINUS",
+      "body_len": 99,
+      "starts_with_hw": false,
+      "body_preview": "A sheriff. Also called “vicedominus episcopi.” The vicar general or commissary of a bishop. Blount.",
+      "id": "BLD2-13198"
+    },
+    {
+      "term": "VICE-MARSHAL",
+      "body_len": 56,
+      "starts_with_hw": false,
+      "body_preview": "An officer who was appointed to assist the earl marshal.",
+      "id": "BLD2-13201"
+    },
+    {
+      "term": "VIDUITATIS",
+      "body_len": 91,
+      "starts_with_hw": true,
+      "body_preview": "VIDUITATIS PROFESSIO. Lat. The\n\nmaking a solemn profession to live a sole and chaste woman.",
+      "id": "BLD2-13218"
+    },
+    {
+      "term": "VILLA",
+      "body_len": 59,
+      "starts_with_hw": true,
+      "body_preview": "VILLA REGIA. Lat. In Saxon law. A royal residence. Spelman.",
+      "id": "BLD2-13231"
+    },
+    {
+      "term": "VILLANUM",
+      "body_len": 84,
+      "starts_with_hw": true,
+      "body_preview": "VILLANUM SERVITIUM. In old English law. Villein service. Fleta, lib. 3, a 13, § 1. ,",
+      "id": "BLD2-13236"
+    },
+    {
+      "term": "VINCULO",
+      "body_len": 95,
+      "starts_with_hw": false,
+      "body_preview": "In Spanish law. The bond, chain, or tie of marriage. White, New Recop. b. 1, tit. 6, c. 1, § 2.",
+      "id": "BLD2-13245"
+    },
+    {
+      "term": "WEREGELT",
+      "body_len": 98,
+      "starts_with_hw": true,
+      "body_preview": "WEREGELT THEF. Sax. In old Engsh law. <A robber who might be ransomed. Fleta, lib. 1, ¢. 47, § 13.",
+      "id": "BLD2-13427"
+    },
+    {
+      "term": "WINDSOR",
+      "body_len": 54,
+      "starts_with_hw": true,
+      "body_preview": "WINDSOR FOREST. founded by Henry VIII.\n\nA royal forest",
+      "id": "BLD2-13487"
+    },
+    {
+      "term": "WITENS",
+      "body_len": 68,
+      "starts_with_hw": false,
+      "body_preview": "The chiefs of the Saxon lords or thanes, their nobles, and wise men.",
+      "id": "BLD2-13499"
+    },
+    {
+      "term": "WRIT DE HAERETICO COMBURENDO",
+      "body_len": 63,
+      "starts_with_hw": false,
+      "body_preview": "[Definition absent from OCR source. See Internet Archive scan.]",
+      "id": "BLD2-13545"
+    },
+    {
+      "term": "WRIT DE RATIONABILI PARTE BONORUM",
+      "body_len": 63,
+      "starts_with_hw": false,
+      "body_preview": "[Definition absent from OCR source. See Internet Archive scan.]",
+      "id": "BLD2-13546"
+    },
+    {
+      "term": "WRIT OF EJECTMENT",
+      "body_len": 77,
+      "starts_with_hw": false,
+      "body_preview": "The writ in an action of ejectment, for the recovery of lands. See EJECTMENT.",
+      "id": "BLD2-13557"
+    },
+    {
+      "term": "WRIT OF SUMMONS",
+      "body_len": 83,
+      "starts_with_hw": false,
+      "body_preview": "The writ by which, under the English judicature acts, —\n\nall actions are commenced.",
+      "id": "BLD2-13574"
+    },
+    {
+      "term": "YOKELET",
+      "body_len": 55,
+      "starts_with_hw": false,
+      "body_preview": "A little farm, requiring but a yoke of oxen to till it.",
+      "id": "BLD2-13615"
+    },
+    {
+      "term": "ZIGARI",
+      "body_len": 78,
+      "starts_with_hw": false,
+      "body_preview": "or ZINGARI. Rogues and vagabonds in the middle ages; from Zigi, now Circassia.",
+      "id": "BLD2-13636"
+    }
+  ]
+}
