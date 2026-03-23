@@ -28,6 +28,14 @@ from pathlib import Path
 from typing import Iterable
 
 ROOT = Path(__file__).resolve().parents[1]
+
+# Leaf-range boundaries for dictionary body.
+# Leaves 0-11: front matter (Google watermarks, West colophon, reign table).
+# Leaves >= 1250: abbreviation table appendix.
+# Dictionary body: leaves 12 through 1249 inclusive.
+DICT_BODY_LEAF_MIN = 12
+DICT_BODY_LEAF_MAX = 1249
+
 RAW_DIR = ROOT / "rebuild" / "raw"
 OUT_DIR = ROOT / "rebuild" / "out"
 REPORT_DIR = ROOT / "rebuild" / "reports"
@@ -193,6 +201,19 @@ def similarity_score(current_term: str, source_term: str) -> float:
         return 5.0
     if a.replace(".", "") == b.replace(".", ""):
         return 4.5
+
+    # Word-boundary prefix matching: if shorter is a prefix of longer
+    # at a word boundary, score based on coverage fraction.
+    shorter, longer = (a, b) if len(a) <= len(b) else (b, a)
+    if len(shorter) >= 2 and (longer.startswith(shorter + " ") or longer == shorter):
+        coverage = len(shorter) / len(longer)
+        if coverage >= 0.6:
+            return 3.8
+        elif coverage >= 0.4:
+            return 3.0
+        elif coverage >= 0.25:
+            return 2.5
+
     ratio = SequenceMatcher(None, a, b).ratio()
     edit = levenshtein(a, b)
     if a[0] == b[0] and max(len(a), len(b)) <= 3 and edit <= 1:
@@ -206,7 +227,6 @@ def similarity_score(current_term: str, source_term: str) -> float:
     if a[0] == b[0] and ratio >= 0.80:
         return 1.5
     return -4.0
-
 
 def confidence_from_score(score: float) -> float:
     if score >= 5.0:
@@ -1106,6 +1126,31 @@ def maybe_apply_safe_term_fixes(rebuilt: list[RebuiltEntry]) -> list[dict]:
 # Main
 # ---------------------------------------------------------------------------
 
+
+def filter_source_candidates_by_leaf(
+    candidates: list[SourceCandidate],
+    leaf_min: int = DICT_BODY_LEAF_MIN,
+    leaf_max: int = DICT_BODY_LEAF_MAX,
+) -> list[SourceCandidate]:
+    """Remove candidates whose minimum leaf is outside the dictionary body range."""
+    kept: list[SourceCandidate] = []
+    dropped = 0
+    for c in candidates:
+        if not c.leaves:
+            dropped += 1
+            continue
+        min_leaf = min(c.leaves)
+        if min_leaf < leaf_min or min_leaf > leaf_max:
+            dropped += 1
+            continue
+        kept.append(c)
+    # Re-index
+    for i, c in enumerate(kept):
+        c.source_index = i
+    print(f"Leaf filter: kept {len(kept)}, dropped {dropped} (leaves <{leaf_min} or >{leaf_max})")
+    return kept
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description="v5.1: Rebuild blackslaw bodies with fuzzy merge + aggressive cleanup.")
     parser.add_argument("--entries", default="blacks_entries.json", help="Current JSON corpus")
@@ -1140,6 +1185,10 @@ def main() -> int:
     print("Segmenting entries...")
     source_candidates = build_source_candidates(pages, oracle_norms)
     print(f"Source candidates: {len(source_candidates)}")
+
+    # Filter out front matter and abbreviation table candidates
+    source_candidates = filter_source_candidates_by_leaf(source_candidates)
+
 
     # Check for duplicates
     from collections import Counter
