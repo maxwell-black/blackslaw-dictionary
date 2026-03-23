@@ -1,0 +1,4636 @@
+{
+  "summary": {
+    "total": 462,
+    "standalone": 240,
+    "subentry": 196,
+    "duplicate": 26,
+    "no_body": 0
+  },
+  "standalone": [
+    {
+      "term": "AB INITIO",
+      "matched_term": "AB INITIO MUNDI",
+      "body_length": 258,
+      "matched_body_length": 149,
+      "similarity": 0.27,
+      "current_type": "legacy_unresolved",
+      "body_preview": "AB INITIO. Lat. From the beginning;\nfrom the first act. A party is said to be\na ",
+      "classification": "standalone"
+    },
+    {
+      "term": "ACCUMULATED",
+      "matched_term": "ACCUMULATED SURPLUS",
+      "body_length": 568,
+      "matched_body_length": 357,
+      "similarity": 0.05,
+      "current_type": "legacy_unresolved",
+      "body_preview": "ACCUMULATED SURPLUS\n\nheirs or legatees being thus increased by\n“accretion.” Emer",
+      "classification": "standalone"
+    },
+    {
+      "term": "ACTA",
+      "matched_term": "ACTA DIURNA",
+      "body_length": 2535,
+      "matched_body_length": 513,
+      "similarity": 0.01,
+      "current_type": "legacy_unresolved",
+      "body_preview": "ACTA IN UNO\n\nL. Ed. 287.—Act of parliament. A statute,\nlaw, or edict, made by th",
+      "classification": "standalone"
+    },
+    {
+      "term": "ADCORDABILIS",
+      "matched_term": "ADCORDABILIS DENARII",
+      "body_length": 109,
+      "matched_body_length": 87,
+      "similarity": 0.84,
+      "current_type": "legacy_unresolved",
+      "body_preview": "ADCORDABILIS DENARII. Mcney\npaid by a vassal to his lord upon the selling\nor exc",
+      "classification": "standalone"
+    },
+    {
+      "term": "ADJECTIVE",
+      "matched_term": "ADJECTIVE LAW",
+      "body_length": 431,
+      "matched_body_length": 353,
+      "similarity": 0.03,
+      "current_type": "legacy_unresolved",
+      "body_preview": "ADJECTIVE LAW 35\n\nCounty, 108 Iowa, 232, 78 N. W. 824; Hennessy v. Douglas Count",
+      "classification": "standalone"
+    },
+    {
+      "term": "ADJUNCTUM",
+      "matched_term": "ADJUNCTUM ACCESSORIUM",
+      "body_length": 53,
+      "matched_body_length": 30,
+      "similarity": 0.71,
+      "current_type": "legacy_unresolved",
+      "body_preview": "ADJUNCTUM ACCESSORIUM. An ac\ncessory or appurtenance.",
+      "classification": "standalone"
+    },
+    {
+      "term": "ADULTEROUS",
+      "matched_term": "ADULTEROUS BASTARDY",
+      "body_length": 259,
+      "matched_body_length": 239,
+      "similarity": 0.82,
+      "current_type": "legacy_unresolved",
+      "body_preview": "ADULTEROUS ‘ BASTARDY, Adulterous bastards: are those produced by’ an\nunlawful c",
+      "classification": "standalone"
+    },
+    {
+      "term": "ALIA",
+      "matched_term": "ALIA ENORMIA",
+      "body_length": 501,
+      "matched_body_length": 219,
+      "similarity": 0.58,
+      "current_type": "fragment_artifact",
+      "body_preview": "ALIA ENORMIA. Other wrongs. The\nname given to a general allegntion of injuries c",
+      "classification": "standalone"
+    },
+    {
+      "term": "ALIUD",
+      "matched_term": "ALIUD EXAMEN",
+      "body_length": 1756,
+      "matched_body_length": 58,
+      "similarity": 0.14,
+      "current_type": "legacy_unresolved",
+      "body_preview": "ALIUD EST CELARE\n\nsary for the nourishment, lodging, and support of the person w",
+      "classification": "standalone"
+    },
+    {
+      "term": "ALLEGING",
+      "matched_term": "ALLEGING DIMINUTION",
+      "body_length": 124,
+      "matched_body_length": 101,
+      "similarity": 0.79,
+      "current_type": "legacy_unresolved",
+      "body_preview": "ALLEGING DIMINUTION. The allegation in an appellate court, of some error\nin a su",
+      "classification": "standalone"
+    },
+    {
+      "term": "APPRENTICIUS",
+      "matched_term": "APPRENTICIUS AD LEGEM",
+      "body_length": 173,
+      "matched_body_length": 122,
+      "similarity": 0.75,
+      "current_type": "legacy_unresolved",
+      "body_preview": "APPRENTICIUS AD LEGEM. An apprentice to the law; a law student; a counsellor bel",
+      "classification": "standalone"
+    },
+    {
+      "term": "APPROVED",
+      "matched_term": "APPROVED INDORSED NOTES",
+      "body_length": 98,
+      "matched_body_length": 73,
+      "similarity": 0.85,
+      "current_type": "legacy_unresolved",
+      "body_preview": "APPROVED INDORSED NOTES.\nNotes indorsed by another person than the\nmaker, for ad",
+      "classification": "standalone"
+    },
+    {
+      "term": "AQUAE",
+      "matched_term": "AQUAE IMMITTENDAE",
+      "body_length": 180,
+      "matched_body_length": 252,
+      "similarity": 0.11,
+      "current_type": "legacy_unresolved",
+      "body_preview": "AQUZ DUCTUS. In the civil law. A\nservitude which consists in the right to carry\n",
+      "classification": "standalone"
+    },
+    {
+      "term": "ARRIERE",
+      "matched_term": "ARRIERE VASSAL",
+      "body_length": 263,
+      "matched_body_length": 38,
+      "similarity": 0.24,
+      "current_type": "legacy_unresolved",
+      "body_preview": "ARRIERE FIEF, or FEE. In feudal\nlaw. <A fief or fee dependent on a superior\none;",
+      "classification": "standalone"
+    },
+    {
+      "term": "ASSERTORY",
+      "matched_term": "ASSERTORY COVENANT",
+      "body_length": 112,
+      "matched_body_length": 91,
+      "similarity": 0.82,
+      "current_type": "legacy_unresolved",
+      "body_preview": "ASSERTORY COVENANT. One which\naffirms that a particular state of facts ex‘ists; ",
+      "classification": "standalone"
+    },
+    {
+      "term": "ASTITRARIUS",
+      "matched_term": "ASTITRARIUS HAES",
+      "body_length": 158,
+      "matched_body_length": 139,
+      "similarity": 0.84,
+      "current_type": "legacy_unresolved",
+      "body_preview": "ASTITRARIUS HARES. An heir ap\nparent who has been placed, by conveyauce,\nin poss",
+      "classification": "standalone"
+    },
+    {
+      "term": "AT",
+      "matched_term": "AT LAW",
+      "body_length": 343,
+      "matched_body_length": 256,
+      "similarity": 0.02,
+      "current_type": "legacy_unresolved",
+      "body_preview": "AT ARM'S LENGTH. Beyond the reach\nof personal influence or control. Parties\nare ",
+      "classification": "standalone"
+    },
+    {
+      "term": "AUDIENDO",
+      "matched_term": "AUDIENDO ET TERMINANDO",
+      "body_length": 140,
+      "matched_body_length": 114,
+      "similarity": 0.81,
+      "current_type": "legacy_unresolved",
+      "body_preview": "AUDIENDO ET TERMINANDO. A\nwrit or commission to certain persons to appease and p",
+      "classification": "standalone"
+    },
+    {
+      "term": "BAILLEUR",
+      "matched_term": "BAILLEUR DE FONDS",
+      "body_length": 70,
+      "matched_body_length": 51,
+      "similarity": 0.83,
+      "current_type": "legacy_unresolved",
+      "body_preview": "BAILLEUR DE FONDS. In Canadian\nlaw. The unpaid vendor’ of real estate.",
+      "classification": "standalone"
+    },
+    {
+      "term": "BAITING",
+      "matched_term": "BAITING ANIMALS",
+      "body_length": 2073,
+      "matched_body_length": 313,
+      "similarity": 0.03,
+      "current_type": "legacy_unresolved",
+      "body_preview": "BAITING ANIMALS\n\ned into locatio rei, or hiring, by which the\n\nhirer gains a tem",
+      "classification": "standalone"
+    },
+    {
+      "term": "BEAMS",
+      "matched_term": "BEAMS AND BALANCE",
+      "body_length": 66,
+      "matched_body_length": 47,
+      "similarity": 0.75,
+      "current_type": "legacy_unresolved",
+      "body_preview": "BEAMS AND BALANCE. Instruments\nfor weighing goods and merchandise.",
+      "classification": "standalone"
+    },
+    {
+      "term": "BLACK",
+      "matched_term": "BLACK MARIA",
+      "body_length": 109,
+      "matched_body_length": 110,
+      "similarity": 0.39,
+      "current_type": "legacy_unresolved",
+      "body_preview": "BLACK ACRE and WHITE ACRE.\nFictitious names applied to pieces of land,\nand used ",
+      "classification": "standalone"
+    },
+    {
+      "term": "BLANCHE",
+      "matched_term": "BLANCHE FIRME",
+      "body_length": 62,
+      "matched_body_length": 47,
+      "similarity": 0.8,
+      "current_type": "legacy_unresolved",
+      "body_preview": "BLANCHE FIRME. White rent; a rent\nreserved, payable in silver.",
+      "classification": "standalone"
+    },
+    {
+      "term": "BONIS",
+      "matched_term": "BONIS NON AMOVENDIS",
+      "body_length": 377,
+      "matched_body_length": 724,
+      "similarity": 0.53,
+      "current_type": "legacy_unresolved",
+      "body_preview": "BONIS CEDERE. In the civil law. To\nmake a transfer or surrender of property,\nas ",
+      "classification": "standalone"
+    },
+    {
+      "term": "BREAD",
+      "matched_term": "BREAD ACTS",
+      "body_length": 81,
+      "matched_body_length": 69,
+      "similarity": 0.85,
+      "current_type": "legacy_unresolved",
+      "body_preview": "BREAD ACTS. Laws providing for the\nsustenance of persons kept in prison for debt",
+      "classification": "standalone"
+    },
+    {
+      "term": "BURNING",
+      "matched_term": "BURNING FLUID",
+      "body_length": 608,
+      "matched_body_length": 342,
+      "similarity": 0.45,
+      "current_type": "legacy_unresolved",
+      "body_preview": "BURNING FLUID. As used in policies\nof insurance, this term does not mean any\nflu",
+      "classification": "standalone"
+    },
+    {
+      "term": "CATALLIS",
+      "matched_term": "CATALLIS REDDENDIS",
+      "body_length": 222,
+      "matched_body_length": 176,
+      "similarity": 0.83,
+      "current_type": "legacy_unresolved",
+      "body_preview": "CATALLIS OCAPTIS NOMINE DISCATALLIS REDDENDIS. For the return of the chattels; a",
+      "classification": "standalone"
+    },
+    {
+      "term": "CENTRAL",
+      "matched_term": "CENTRAL CRIMINAL COURT",
+      "body_length": 1737,
+      "matched_body_length": 390,
+      "similarity": 0.04,
+      "current_type": "legacy_unresolved",
+      "body_preview": "CENTRAL OFFICE\n\nwith statistics of wealth, commerce, education, etc. Huntington ",
+      "classification": "standalone"
+    },
+    {
+      "term": "CERTA",
+      "matched_term": "CERTA RES",
+      "body_length": 939,
+      "matched_body_length": 69,
+      "similarity": 0.11,
+      "current_type": "legacy_unresolved",
+      "body_preview": "CERTA DEBET KSSE INTENTIO\n\nforms: Cepi corpus, I have taken the body, i.\ne., arr",
+      "classification": "standalone"
+    },
+    {
+      "term": "CHARGING",
+      "matched_term": "CHARGING ORDER",
+      "body_length": 237,
+      "matched_body_length": 10,
+      "similarity": 0.08,
+      "current_type": "legacy_unresolved",
+      "body_preview": "CHARGING LIEN. An attorney's lien,\nfor his proper compensation, on the fund or\nj",
+      "classification": "standalone"
+    },
+    {
+      "term": "CIVIL",
+      "matched_term": "CIVIL ACTION",
+      "body_length": 224,
+      "matched_body_length": 1939,
+      "similarity": 0.03,
+      "current_type": "junk_headword",
+      "body_preview": "CIVILIAN. One who is skilled or versed\nin the civil law. A doctor, professor, or",
+      "classification": "standalone"
+    },
+    {
+      "term": "COMPRA",
+      "matched_term": "COMPRA Y VENTA",
+      "body_length": 14,
+      "matched_body_length": 33,
+      "similarity": 0.21,
+      "current_type": "legacy_unresolved",
+      "body_preview": "COMPRA Y VENTA",
+      "classification": "standalone"
+    },
+    {
+      "term": "CONFITENS",
+      "matched_term": "CONFITENS REUS",
+      "body_length": 56,
+      "matched_body_length": 39,
+      "similarity": 0.78,
+      "current_type": "legacy_unresolved",
+      "body_preview": "CONFITENS REUS. An accused person\n\nwho admits his guilt.",
+      "classification": "standalone"
+    },
+    {
+      "term": "CONJUGAL",
+      "matched_term": "CONJUGAL RIGHTS",
+      "body_length": 123,
+      "matched_body_length": 106,
+      "similarity": 0.82,
+      "current_type": "legacy_unresolved",
+      "body_preview": "CONJUGAL RIGHTS. Matrimonial\nrights; the right which husband and wife\nhave to ea",
+      "classification": "standalone"
+    },
+    {
+      "term": "CONSCIENTIA",
+      "matched_term": "CONSCIENTIA REI ALIENI",
+      "body_length": 225,
+      "matched_body_length": 203,
+      "similarity": 0.85,
+      "current_type": "legacy_unresolved",
+      "body_preview": "CONSCIENTIA REI ALIENI. In\nScotch law. Knowledge of another's property; knowledg",
+      "classification": "standalone"
+    },
+    {
+      "term": "CONSEIL",
+      "matched_term": "CONSEIL JUDICIAIRE",
+      "body_length": 767,
+      "matched_body_length": 414,
+      "similarity": 0.02,
+      "current_type": "legacy_unresolved",
+      "body_preview": "CONSEIL DE FAMILLE. In French\nlaw. A family council. Certain acts require\nthe sa",
+      "classification": "standalone"
+    },
+    {
+      "term": "CONSEQUENTIAL",
+      "matched_term": "CONSEQUENTIAL CONTEMPT",
+      "body_length": 781,
+      "matched_body_length": 118,
+      "similarity": 0.38,
+      "current_type": "legacy_unresolved",
+      "body_preview": "CONSEQUENTIAL CONTEMPT. The\nancient name for what is now known as\n“constructive”",
+      "classification": "standalone"
+    },
+    {
+      "term": "CONSTITUTIONS",
+      "matched_term": "CONSTITUTIONS OF CLARENDON",
+      "body_length": 42,
+      "matched_body_length": 16,
+      "similarity": 0.48,
+      "current_type": "legacy_unresolved",
+      "body_preview": "CONSTITUTIONS OF CLARENDON.\nSee CLARENDON.",
+      "classification": "standalone"
+    },
+    {
+      "term": "COOL",
+      "matched_term": "COOL BLOOD",
+      "body_length": 187,
+      "matched_body_length": 176,
+      "similarity": 0.82,
+      "current_type": "legacy_unresolved",
+      "body_preview": "COOL BLOOD. In the law of homicide.\nCalmness or tranquillity; the undisturbed\npo",
+      "classification": "standalone"
+    },
+    {
+      "term": "COUR",
+      "matched_term": "COUR DE CASSATION",
+      "body_length": 1460,
+      "matched_body_length": 170,
+      "similarity": 0.51,
+      "current_type": "legacy_unresolved",
+      "body_preview": "COUR DE CASSATION\n\nof the Dea note, and designed to be ¢ut off\n\nseverally and pr",
+      "classification": "standalone"
+    },
+    {
+      "term": "CUSTODIA",
+      "matched_term": "CUSTODIA LEGIS",
+      "body_length": 99,
+      "matched_body_length": 83,
+      "similarity": 0.82,
+      "current_type": "legacy_unresolved",
+      "body_preview": "CUSTODIA LEGIS. In the custody of\nthe law. Stockwell v. Robinson, 9 Houst.\n(Del.",
+      "classification": "standalone"
+    },
+    {
+      "term": "DEAD",
+      "matched_term": "DEAD USE",
+      "body_length": 1702,
+      "matched_body_length": 13,
+      "similarity": 0.04,
+      "current_type": "legacy_unresolved",
+      "body_preview": "DEAD BODY\n\nto assist the priest in divine service and the\ndistribution of the sa",
+      "classification": "standalone"
+    },
+    {
+      "term": "DEADLY",
+      "matched_term": "DEADLY WEAPON",
+      "body_length": 372,
+      "matched_body_length": 225,
+      "similarity": 0.73,
+      "current_type": "legacy_unresolved",
+      "body_preview": "DEADLY FEUD. In old European law.\nA profession of irreconcilable hatred till a\np",
+      "classification": "standalone"
+    },
+    {
+      "term": "DEBET",
+      "matched_term": "DEBET ET DETINET",
+      "body_length": 2116,
+      "matched_body_length": 879,
+      "similarity": 0.55,
+      "current_type": "legacy_unresolved",
+      "body_preview": "DEBET ET SOLET.\n\nknowledge,” aggravated by assault, violent\nseduction, ravishmen",
+      "classification": "standalone"
+    },
+    {
+      "term": "DECREMENTUM",
+      "matched_term": "DECREMENTUM MARIS",
+      "body_length": 143,
+      "matched_body_length": 124,
+      "similarity": 0.85,
+      "current_type": "legacy_unresolved",
+      "body_preview": "DECREMENTUM MARIS. Iat. Inold\nEnglish law. Decrease of the sea; the receding of ",
+      "classification": "standalone"
+    },
+    {
+      "term": "DEFENDERE",
+      "matched_term": "DEFENDERE UNICA MANU",
+      "body_length": 115,
+      "matched_body_length": 68,
+      "similarity": 0.71,
+      "current_type": "legacy_unresolved",
+      "body_preview": "DEFENDERE SE PER CORPUS SUDEFENDERE UNICA MANU. To wage\nlaw; a denial of an accu",
+      "classification": "standalone"
+    },
+    {
+      "term": "DEN",
+      "matched_term": "DEN AND STROND",
+      "body_length": 104,
+      "matched_body_length": 88,
+      "similarity": 0.83,
+      "current_type": "legacy_unresolved",
+      "body_preview": "DEN AND STROND. In old English\nlaw. Liberty for ships or vessels to run\naground,",
+      "classification": "standalone"
+    },
+    {
+      "term": "DIETS",
+      "matched_term": "DIETS OF COMPEARANCE",
+      "body_length": 128,
+      "matched_body_length": 107,
+      "similarity": 0.8,
+      "current_type": "legacy_unresolved",
+      "body_preview": "DIETS OF COMPEARANOE. In Scotch\nlaw. The days within which parties in civil\nand ",
+      "classification": "standalone"
+    },
+    {
+      "term": "DIEU",
+      "matched_term": "DIEU ET MON DROIT",
+      "body_length": 230,
+      "matched_body_length": 89,
+      "similarity": 0.56,
+      "current_type": "legacy_unresolved",
+      "body_preview": "DIEU ET MON DROIT. Fr. God and\nmy right. The motto of the royal arms of\n\nEngland",
+      "classification": "standalone"
+    },
+    {
+      "term": "DISENTAILING",
+      "matched_term": "DISENTAILING DEED",
+      "body_length": 108,
+      "matched_body_length": 78,
+      "similarity": 0.74,
+      "current_type": "legacy_unresolved",
+      "body_preview": "DISENTAILING DEED. In English\nlaw. An enrolled assurance barring an entail, purs",
+      "classification": "standalone"
+    },
+    {
+      "term": "DISJUNCTIVE",
+      "matched_term": "DISJUNCTIVE ALLEGATION",
+      "body_length": 161,
+      "matched_body_length": 226,
+      "similarity": 0.11,
+      "current_type": "legacy_unresolved",
+      "body_preview": "DISJUNCTIVE TERM. One which is\nplaced between two contraries, by the affirming o",
+      "classification": "standalone"
+    },
+    {
+      "term": "DISPOSITIVE",
+      "matched_term": "DISPOSITIVE FACTS",
+      "body_length": 322,
+      "matched_body_length": 289,
+      "similarity": 0.83,
+      "current_type": "legacy_unresolved",
+      "body_preview": "DISPOSITIVE FACTS. Such as produce or bring about the origination, transfer,\nor ",
+      "classification": "standalone"
+    },
+    {
+      "term": "DISTINCTE",
+      "matched_term": "DISTINCTE ET APERTE",
+      "body_length": 720,
+      "matched_body_length": 716,
+      "similarity": 0.81,
+      "current_type": "legacy_unresolved",
+      "body_preview": "DISTINCTE ET APERTE. In old English practice. DJstinctly and openly. J°ormal wor",
+      "classification": "standalone"
+    },
+    {
+      "term": "DISTRACTED",
+      "matched_term": "DISTRACTED PERSON",
+      "body_length": 217,
+      "matched_body_length": 197,
+      "similarity": 0.84,
+      "current_type": "legacy_unresolved",
+      "body_preview": "DISTRACTED PERSON. A term used\nin the statutes of ITJlinois (Rey. Laws, III.\n183",
+      "classification": "standalone"
+    },
+    {
+      "term": "DIVISIONAL",
+      "matched_term": "DIVISIONAL COURTS",
+      "body_length": 391,
+      "matched_body_length": 191,
+      "similarity": 0.66,
+      "current_type": "legacy_unresolved",
+      "body_preview": "DIVISIONAL COURTS. Courts in England, consisting of two or (in special cases)\nmo",
+      "classification": "standalone"
+    },
+    {
+      "term": "EAR",
+      "matched_term": "EAR GRASS",
+      "body_length": 135,
+      "matched_body_length": 123,
+      "similarity": 0.82,
+      "current_type": "legacy_unresolved",
+      "body_preview": "EAR GRASS. In English law. Such\ngrass which is upon the land after the mowing, u",
+      "classification": "standalone"
+    },
+    {
+      "term": "ELDER",
+      "matched_term": "ELDER BRETHREN",
+      "body_length": 439,
+      "matched_body_length": 268,
+      "similarity": 0.76,
+      "current_type": "legacy_unresolved",
+      "body_preview": "ELDER BRETHREN. A distinguished\nbody of men, elected as masters of Trinity\nHouse",
+      "classification": "standalone"
+    },
+    {
+      "term": "ENGLISH",
+      "matched_term": "ENGLISH INFORMATION",
+      "body_length": 359,
+      "matched_body_length": 78,
+      "similarity": 0.36,
+      "current_type": "legacy_unresolved",
+      "body_preview": "ENGLISH INFORMATION. In English law. A proceeding in the court of exchequer in m",
+      "classification": "standalone"
+    },
+    {
+      "term": "EO",
+      "matched_term": "EO DIE",
+      "body_length": 921,
+      "matched_body_length": 35,
+      "similarity": 0.13,
+      "current_type": "legacy_unresolved",
+      "body_preview": "EO DIZ. Lat. On that day; on the\n\nsame day. —\n\nEO INSTANTE. Lat. At that instant",
+      "classification": "standalone"
+    },
+    {
+      "term": "EVIDENCE",
+      "matched_term": "EVIDENCE OF TITLE",
+      "body_length": 555,
+      "matched_body_length": 84,
+      "similarity": 0.16,
+      "current_type": "recovered_main",
+      "body_preview": "EVIDENCE, Any species of proof, or\nprobative matter, legally presented at the\ntr",
+      "classification": "standalone"
+    },
+    {
+      "term": "EXCEPTIS",
+      "matched_term": "EXCEPTIS EXCIPIENDIS",
+      "body_length": 57,
+      "matched_body_length": 35,
+      "similarity": 0.71,
+      "current_type": "legacy_unresolved",
+      "body_preview": "EXCEPTIS EXCIPIENDIS. Lat. With\nall necessary exceptions.",
+      "classification": "standalone"
+    },
+    {
+      "term": "EXCOMMUNICATO",
+      "matched_term": "EXCOMMUNICATO CAPIENDO",
+      "body_length": 796,
+      "matched_body_length": 271,
+      "similarity": 0.16,
+      "current_type": "legacy_unresolved",
+      "body_preview": "EXCOMMUNICATO CAPIENDO. In\necclesiastical law. A writ issuing out of\nchancery, f",
+      "classification": "standalone"
+    },
+    {
+      "term": "EXIGI",
+      "matched_term": "EXIGI FACIAS",
+      "body_length": 123,
+      "matched_body_length": 142,
+      "similarity": 0.79,
+      "current_type": "legacy_unresolved",
+      "body_preview": "EXIGI FACIAS. That you cause to be\ndemanded. The emphatic words of the LatThey a",
+      "classification": "standalone"
+    },
+    {
+      "term": "EXPIRY",
+      "matched_term": "EXPIRY OF THE LEGAL",
+      "body_length": 319,
+      "matched_body_length": 156,
+      "similarity": 0.66,
+      "current_type": "legacy_unresolved",
+      "body_preview": "EXPIRY OF THE LEGAL\n\nLitt. 60. Experience by various acts makes\n\nlaw. Experience",
+      "classification": "standalone"
+    },
+    {
+      "term": "FACTIO",
+      "matched_term": "FACTIO TESTAMENTI",
+      "body_length": 208,
+      "matched_body_length": 187,
+      "similarity": 0.76,
+      "current_type": "legacy_unresolved",
+      "body_preview": "FACTIO TESTAMENTI. In the civil\nlaw. The right, power, or capacity of muaking a ",
+      "classification": "standalone"
+    },
+    {
+      "term": "FALCIDIAN",
+      "matched_term": "FALCIDIAN LAW",
+      "body_length": 200,
+      "matched_body_length": 621,
+      "similarity": 0.07,
+      "current_type": "legacy_unresolved",
+      "body_preview": "FALCIDIAN PORTION. That portion\nof a testator's estate which, by the Falcidian\nl",
+      "classification": "standalone"
+    },
+    {
+      "term": "FALSIFYING",
+      "matched_term": "FALSIFYING A RECORD",
+      "body_length": 308,
+      "matched_body_length": 146,
+      "similarity": 0.64,
+      "current_type": "legacy_unresolved",
+      "body_preview": "FALSIFYING A. RECORD\n\nplace and‘ business in which they are uéed.\nPen Coge Ca]. ",
+      "classification": "standalone"
+    },
+    {
+      "term": "FALSO",
+      "matched_term": "FALSO RETORNO BREVIUM",
+      "body_length": 142,
+      "matched_body_length": 117,
+      "similarity": 0.83,
+      "current_type": "legacy_unresolved",
+      "body_preview": "FALSO RETORNO BREVIUM. A\nwrit which formerly lay against the sheriff\nwho had exe",
+      "classification": "standalone"
+    },
+    {
+      "term": "FAMILIARES",
+      "matched_term": "FAMILIARES REGIS",
+      "body_length": 165,
+      "matched_body_length": 147,
+      "similarity": 0.78,
+      "current_type": "legacy_unresolved",
+      "body_preview": "FAMILIARES REGIS... Persons of the\nking’s household. The ancient title of the\n“s",
+      "classification": "standalone"
+    },
+    {
+      "term": "FARYNDON",
+      "matched_term": "FARYNDON INN",
+      "body_length": 71,
+      "matched_body_length": 67,
+      "similarity": 0.82,
+      "current_type": "legacy_unresolved",
+      "body_preview": "FARYNDON INN. The ancient appellation of Serjeants’ Inn, Chancery lane.",
+      "classification": "standalone"
+    },
+    {
+      "term": "FELO",
+      "matched_term": "FELO DE SE",
+      "body_length": 288,
+      "matched_body_length": 266,
+      "similarity": 0.79,
+      "current_type": "legacy_unresolved",
+      "body_preview": "FELO DE SE. aA felon of himself; a\nsuicide or wurderer of himself. One who\ndelib",
+      "classification": "standalone"
+    },
+    {
+      "term": "FIERDING",
+      "matched_term": "FIERDING COURTS",
+      "body_length": 1476,
+      "matched_body_length": 158,
+      "similarity": 0.2,
+      "current_type": "legacy_unresolved",
+      "body_preview": "FIERDING COURTS\n\nthat he will restore it to him.— Eid\n\nlation. A relation subsis",
+      "classification": "standalone"
+    },
+    {
+      "term": "FLAGRANT",
+      "matched_term": "FLAGRANT DELIT",
+      "body_length": 280,
+      "matched_body_length": 128,
+      "similarity": 0.63,
+      "current_type": "legacy_unresolved",
+      "body_preview": "FLAGRANT DELIT. In French law.\nA crime which is in actual process of perpetratio",
+      "classification": "standalone"
+    },
+    {
+      "term": "FONDS",
+      "matched_term": "FONDS PERDUS",
+      "body_length": 492,
+      "matched_body_length": 370,
+      "similarity": 0.75,
+      "current_type": "legacy_unresolved",
+      "body_preview": "FONDS ET BIENS. Fr. In French law.\nGoods and effects. Adams v. Akerlund, 168\nIll",
+      "classification": "standalone"
+    },
+    {
+      "term": "FORESTALLING",
+      "matched_term": "FORESTALLING THE MARKET",
+      "body_length": 937,
+      "matched_body_length": 800,
+      "similarity": 0.84,
+      "current_type": "legacy_unresolved",
+      "body_preview": "FORESTALLING THE MARKET\nLoirdis assesouris forsaidis.” 1 Pitc. Crim.\nTr. pt. 1, ",
+      "classification": "standalone"
+    },
+    {
+      "term": "FRIENDLY",
+      "matched_term": "FRIENDLY SOCIETIES",
+      "body_length": 784,
+      "matched_body_length": 314,
+      "similarity": 0.74,
+      "current_type": "legacy_unresolved",
+      "body_preview": "FRIENDLY SOCIETIES. In English\nlaw. - Associations supported by subscription, fo",
+      "classification": "standalone"
+    },
+    {
+      "term": "FUGA",
+      "matched_term": "FUGA CATALLORUM",
+      "body_length": 63,
+      "matched_body_length": 46,
+      "similarity": 0.82,
+      "current_type": "legacy_unresolved",
+      "body_preview": "FUGA CATALLORUM. In old English\nlaw. A drove of cattle. Blount.",
+      "classification": "standalone"
+    },
+    {
+      "term": "FUNDI",
+      "matched_term": "FUNDI PATRIMONIALES",
+      "body_length": 42,
+      "matched_body_length": 21,
+      "similarity": 0.67,
+      "current_type": "legacy_unresolved",
+      "body_preview": "FUNDI PATRIMONIALES. Lands of\ninheritance.",
+      "classification": "standalone"
+    },
+    {
+      "term": "FUNERAL",
+      "matched_term": "FUNERAL EXPENSES",
+      "body_length": 72,
+      "matched_body_length": 54,
+      "similarity": 0.82,
+      "current_type": "legacy_unresolved",
+      "body_preview": "FUNERAL EXPENSES. Money expended in procuring the interment of a corpse.",
+      "classification": "standalone"
+    },
+    {
+      "term": "FURST",
+      "matched_term": "FURST AND FONDUNG",
+      "body_length": 77,
+      "matched_body_length": 59,
+      "similarity": 0.71,
+      "current_type": "legacy_unresolved",
+      "body_preview": "FURST AND FONDUNG. In old English law. Time to advise or take counsel,\nJacob.",
+      "classification": "standalone"
+    },
+    {
+      "term": "GABULUS",
+      "matched_term": "GABULUS DENARIORUM",
+      "body_length": 63,
+      "matched_body_length": 96,
+      "similarity": 0.73,
+      "current_type": "legacy_unresolved",
+      "body_preview": "GABULUS DENARIORUM.\n\nRent paid\nin money. Seld. Tit. Hon. 321. :",
+      "classification": "standalone"
+    },
+    {
+      "term": "GAGER",
+      "matched_term": "GAGER DEL LEY",
+      "body_length": 301,
+      "matched_body_length": 21,
+      "similarity": 0.13,
+      "current_type": "legacy_unresolved",
+      "body_preview": "GAGER DE DELIVERANCE. In old\nEnglish law. When he who has distrained,\nbeing sued",
+      "classification": "standalone"
+    },
+    {
+      "term": "GLOVE",
+      "matched_term": "GLOVE SILVER",
+      "body_length": 224,
+      "matched_body_length": 211,
+      "similarity": 0.84,
+      "current_type": "legacy_unresolved",
+      "body_preview": "GLOVE SILVER. Extraordinary rewards formerly given to ofticers of courts,\netc.; ",
+      "classification": "standalone"
+    },
+    {
+      "term": "GOD",
+      "matched_term": "GOD AND MY COUNTRY",
+      "body_length": 475,
+      "matched_body_length": 439,
+      "similarity": 0.84,
+      "current_type": "legacy_unresolved",
+      "body_preview": "GOD AND MY COUNTRY\n\nGOD AND MY COUNTRY. The answer made by a prisoner, when arra",
+      "classification": "standalone"
+    },
+    {
+      "term": "GRASS",
+      "matched_term": "GRASS WEEK",
+      "body_length": 434,
+      "matched_body_length": 69,
+      "similarity": 0.28,
+      "current_type": "legacy_unresolved",
+      "body_preview": "GRASS HEARTH. In old records. The\ngrazing or turning up the earth with a plow.\nT",
+      "classification": "standalone"
+    },
+    {
+      "term": "GREGORIAN",
+      "matched_term": "GREGORIAN EPOCH",
+      "body_length": 225,
+      "matched_body_length": 90,
+      "similarity": 0.57,
+      "current_type": "legacy_unresolved",
+      "body_preview": "GREGORIAN CODE. The code or collection of constitutions made by the Roman\njurist",
+      "classification": "standalone"
+    },
+    {
+      "term": "GROOM",
+      "matched_term": "GROOM OF THE STOLE",
+      "body_length": 182,
+      "matched_body_length": 86,
+      "similarity": 0.63,
+      "current_type": "legacy_unresolved",
+      "body_preview": "GROOM OF THE STOLE. In England.\n\nAn officer of the royal household, who has\nchar",
+      "classification": "standalone"
+    },
+    {
+      "term": "GROSSE",
+      "matched_term": "GROSSE BOIS",
+      "body_length": 124,
+      "matched_body_length": 15,
+      "similarity": 0.22,
+      "current_type": "legacy_unresolved",
+      "body_preview": "GROSSE AVANTURE. Fr. In French\nmarine law. The contract of bottomry.\nOrd. Mar. l",
+      "classification": "standalone"
+    },
+    {
+      "term": "HABEAS",
+      "matched_term": "HABEAS CORPUS",
+      "body_length": 3680,
+      "matched_body_length": 3584,
+      "similarity": 0.8,
+      "current_type": "legacy_unresolved",
+      "body_preview": "HABEAS CORPORA JURATORUM.\nA writ commanding the sheriff to bring up\nthe persons ",
+      "classification": "standalone"
+    },
+    {
+      "term": "HABETO",
+      "matched_term": "HABETO TIBI RES TUAS",
+      "body_length": 121,
+      "matched_body_length": 99,
+      "similarity": 0.82,
+      "current_type": "legacy_unresolved",
+      "body_preview": "HABETO TIBI RES TUAS. Lat. Have\nor take your effects to yourself. One of the\nold",
+      "classification": "standalone"
+    },
+    {
+      "term": "HABITUAL",
+      "matched_term": "HABITUAL CRIMINAL",
+      "body_length": 2071,
+      "matched_body_length": 772,
+      "similarity": 0.66,
+      "current_type": "legacy_unresolved",
+      "body_preview": "HABITUAL CRIMINAL\n\n' Holmes v. Oregon & C: R. Co. (D. GC) 5 Fed.\n027; Nowlin v. ",
+      "classification": "standalone"
+    },
+    {
+      "term": "HOMINE",
+      "matched_term": "HOMINE REPLEGIANDO",
+      "body_length": 682,
+      "matched_body_length": 186,
+      "similarity": 0.24,
+      "current_type": "legacy_unresolved",
+      "body_preview": "HOMINE CAPTO IN WITHERNAM,.XUM. A writ to take him that had taken\napy bond man o",
+      "classification": "standalone"
+    },
+    {
+      "term": "HOMMES",
+      "matched_term": "HOMMES FEODAUX",
+      "body_length": 304,
+      "matched_body_length": 143,
+      "similarity": 0.52,
+      "current_type": "legacy_unresolved",
+      "body_preview": "HOMMES DE FIEF. Fr. In feudal law.\nMen of the fief; feudal tenants; the peers\nin",
+      "classification": "standalone"
+    },
+    {
+      "term": "HOUR",
+      "matched_term": "HOUR OF CAUSE",
+      "body_length": 4972,
+      "matched_body_length": 782,
+      "similarity": 0.12,
+      "current_type": "legacy_unresolved",
+      "body_preview": "HOUR. The twenty-fourth part of a natural day; sixty minutes of time.\n\nHOUR OF C",
+      "classification": "standalone"
+    },
+    {
+      "term": "IMPUTATION",
+      "matched_term": "IMPUTATION OF PAYMENT",
+      "body_length": 521,
+      "matched_body_length": 1325,
+      "similarity": 0.07,
+      "current_type": "legacy_unresolved",
+      "body_preview": "IMPUTATION OF PAYMENT\n\na particular locality, by which the real property\nadjoini",
+      "classification": "standalone"
+    },
+    {
+      "term": "INDEBITI",
+      "matched_term": "INDEBITI SOLUTIO",
+      "body_length": 225,
+      "matched_body_length": 206,
+      "similarity": 0.84,
+      "current_type": "legacy_unresolved",
+      "body_preview": "INDEBITI SOLUTIO. Lat. In the civfl and Scotch law. A payment of what is\nnot due",
+      "classification": "standalone"
+    },
+    {
+      "term": "INITIALIA",
+      "matched_term": "INITIALIA TESTIMONTI",
+      "body_length": 409,
+      "matched_body_length": 389,
+      "similarity": 0.83,
+      "current_type": "legacy_unresolved",
+      "body_preview": "INITIALIA TESTIMONTI. In Scotch\nlaw. Preliminaries of testimony. The preliminary",
+      "classification": "standalone"
+    },
+    {
+      "term": "INNER",
+      "matched_term": "INNER HOUSE",
+      "body_length": 260,
+      "matched_body_length": 145,
+      "similarity": 0.71,
+      "current_type": "legacy_unresolved",
+      "body_preview": "INNER BARRISTER. A serjeant or\nking's counsel, in England, who is admitted\nto pl",
+      "classification": "standalone"
+    },
+    {
+      "term": "INNS",
+      "matched_term": "INNS OF CHANCERY",
+      "body_length": 2355,
+      "matched_body_length": 612,
+      "similarity": 0.01,
+      "current_type": "legacy_unresolved",
+      "body_preview": "INNS OF COURT\n\nState v. Carr, 28 Or. 389, 42 Pac. 215.~Inmocent conveyances. A t",
+      "classification": "standalone"
+    },
+    {
+      "term": "INOFFICIOUS",
+      "matched_term": "INOFFICIOUS TESTAMENT",
+      "body_length": 206,
+      "matched_body_length": 449,
+      "similarity": 0.84,
+      "current_type": "legacy_unresolved",
+      "body_preview": "INOFFICIOUS TESTAMENT. A will\nnot in accordance with the testator’s natural\naffe",
+      "classification": "standalone"
+    },
+    {
+      "term": "INTERMITTENT",
+      "matched_term": "INTERMITTENT EASEMENT",
+      "body_length": 26,
+      "matched_body_length": 13,
+      "similarity": 0.56,
+      "current_type": "legacy_unresolved",
+      "body_preview": "INTERMITTENT EASEMENT. See",
+      "classification": "standalone"
+    },
+    {
+      "term": "INTOXICATING",
+      "matched_term": "INTOXICATING LIQUOR",
+      "body_length": 1090,
+      "matched_body_length": 700,
+      "similarity": 0.2,
+      "current_type": "legacy_unresolved",
+      "body_preview": "INTOXICATING LIQUOR\n\ntaking an appeal, to the other party, that\nthe court above ",
+      "classification": "standalone"
+    },
+    {
+      "term": "IPSISSIMIS",
+      "matched_term": "IPSISSIMIS VERBIS",
+      "body_length": 152,
+      "matched_body_length": 132,
+      "similarity": 0.76,
+      "current_type": "legacy_unresolved",
+      "body_preview": "IPSISSIMIS VERBIS. In the identical\nwords; opposed to “substantially.” Townsend ",
+      "classification": "standalone"
+    },
+    {
+      "term": "IPSO",
+      "matched_term": "IPSO JURE",
+      "body_length": 395,
+      "matched_body_length": 173,
+      "similarity": 0.47,
+      "current_type": "legacy_unresolved",
+      "body_preview": "IPSO FACTO. By the fact itself; by the\nmere fact. By the mere effect of an act o",
+      "classification": "standalone"
+    },
+    {
+      "term": "ITINERE",
+      "matched_term": "ITINERE FIAT",
+      "body_length": 173,
+      "matched_body_length": 130,
+      "similarity": 0.83,
+      "current_type": "legacy_unresolved",
+      "body_preview": "ITINERE PER ATTORNATUM. See\n\nITINERE FIAT. Lat. That nothing shall\nbe done (put ",
+      "classification": "standalone"
+    },
+    {
+      "term": "JEDBURGH",
+      "matched_term": "JEDBURGH JUSTICE",
+      "body_length": 280,
+      "matched_body_length": 277,
+      "similarity": 0.85,
+      "current_type": "legacy_unresolved",
+      "body_preview": "JEDBURGH JUSTICE. Summary justice inflicted upon a marauder or felon without a r",
+      "classification": "standalone"
+    },
+    {
+      "term": "JUDICES",
+      "matched_term": "JUDICES ORDINARII",
+      "body_length": 824,
+      "matched_body_length": 170,
+      "similarity": 0.5,
+      "current_type": "legacy_unresolved",
+      "body_preview": "JUDICES ORDINARII. Lat. In the\ncivil law. Ordinary judices; the common\njudices a",
+      "classification": "standalone"
+    },
+    {
+      "term": "JUMP",
+      "matched_term": "JUMP BAIL",
+      "body_length": 181,
+      "matched_body_length": 169,
+      "similarity": 0.83,
+      "current_type": "legacy_unresolved",
+      "body_preview": "JUMP BAIL. To abscond, withdraw, or\nsecrete one’s self, in violation of the obli",
+      "classification": "standalone"
+    },
+    {
+      "term": "JUNGERE",
+      "matched_term": "JUNGERE DUELLUM",
+      "body_length": 109,
+      "matched_body_length": 93,
+      "similarity": 0.84,
+      "current_type": "legacy_unresolved",
+      "body_preview": "JUNGERE DUELLUM. In old English\nlaw. To join the duellum; to engage in the\ncomba",
+      "classification": "standalone"
+    },
+    {
+      "term": "JUNIPERUS",
+      "matched_term": "JUNIPERUS SABINA",
+      "body_length": 82,
+      "matched_body_length": 64,
+      "similarity": 0.73,
+      "current_type": "legacy_unresolved",
+      "body_preview": "JUNIPERUS SABINA. In medical jurisprudence. This plant is commonly called\n“savin",
+      "classification": "standalone"
+    },
+    {
+      "term": "KNOCK",
+      "matched_term": "KNOCK DOWN",
+      "body_length": 440,
+      "matched_body_length": 427,
+      "similarity": 0.84,
+      "current_type": "legacy_unresolved",
+      "body_preview": "KNOCK DOWN. To assign to a bidder\nat an auction by a knock or blow of the\nhammer",
+      "classification": "standalone"
+    },
+    {
+      "term": "KNOW",
+      "matched_term": "KNOW ALL MEN",
+      "body_length": 178,
+      "matched_body_length": 164,
+      "similarity": 0.81,
+      "current_type": "legacy_unresolved",
+      "body_preview": "KNOW ALL MEN. In conveyancing. A\nform of public address, of great antiquity,\n\n‘a",
+      "classification": "standalone"
+    },
+    {
+      "term": "LADING",
+      "matched_term": "LADING LADING, BILL OF",
+      "body_length": 26,
+      "matched_body_length": 8,
+      "similarity": 0.47,
+      "current_type": "legacy_unresolved",
+      "body_preview": "LADING, BILL OF. See BILL.",
+      "classification": "standalone"
+    },
+    {
+      "term": "LAME",
+      "matched_term": "LAME DUCK",
+      "body_length": 90,
+      "matched_body_length": 80,
+      "similarity": 0.81,
+      "current_type": "legacy_unresolved",
+      "body_preview": "LAME DUCK. A cant term on the stock\nexchange for a person unable to -meet his\nen",
+      "classification": "standalone"
+    },
+    {
+      "term": "LAS",
+      "matched_term": "LAS PARTIDAS",
+      "body_length": 529,
+      "matched_body_length": 506,
+      "similarity": 0.83,
+      "current_type": "legacy_unresolved",
+      "body_preview": "LAS PARTIDAS\n\nLAS PARTIDAS. In Spanish law. The\n\nname of a code of laws, more fu",
+      "classification": "standalone"
+    },
+    {
+      "term": "LATERAL",
+      "matched_term": "LATERAL RAILROAD",
+      "body_length": 1040,
+      "matched_body_length": 207,
+      "similarity": 0.03,
+      "current_type": "legacy_unresolved",
+      "body_preview": "LATERAL SUPPORT\n\ndies is so called. Huse v. Brown, 8 Me. 169;\nHarrington v. Stee",
+      "classification": "standalone"
+    },
+    {
+      "term": "LEVANTES",
+      "matched_term": "LEVANTES ET CUBANTES",
+      "body_length": 137,
+      "matched_body_length": 116,
+      "similarity": 0.8,
+      "current_type": "legacy_unresolved",
+      "body_preview": "LEVANTES ET CUBANTES. Rising up\nand lying down. A term applied to cattle —\n8 Bl.",
+      "classification": "standalone"
+    },
+    {
+      "term": "LEVATO",
+      "matched_term": "LEVATO VELO",
+      "body_length": 1107,
+      "matched_body_length": 757,
+      "similarity": 0.01,
+      "current_type": "legacy_unresolved",
+      "body_preview": "LEVATO VELO\n\nfor such punishment. They were also granted\nby the king for the pur",
+      "classification": "standalone"
+    },
+    {
+      "term": "LICENSED",
+      "matched_term": "LICENSED VICTUALLER",
+      "body_length": 174,
+      "matched_body_length": 140,
+      "similarity": 0.8,
+      "current_type": "legacy_unresolved",
+      "body_preview": "LICENSED VICTUALLER. A term applied, in England, to all persons selling any\n\nG24",
+      "classification": "standalone"
+    },
+    {
+      "term": "LICKING",
+      "matched_term": "LICKING OF THUMBS",
+      "body_length": 73,
+      "matched_body_length": 54,
+      "similarity": 0.73,
+      "current_type": "legacy_unresolved",
+      "body_preview": "LICKING OF THUMBS. An ancient\nformality by which bargains were completed.",
+      "classification": "standalone"
+    },
+    {
+      "term": "LIDFORD",
+      "matched_term": "LIDFORD LAW",
+      "body_length": 95,
+      "matched_body_length": 81,
+      "similarity": 0.81,
+      "current_type": "legacy_unresolved",
+      "body_preview": "LIDFORD LAW. A sort of lynch law,\nwhereby a person was: first punished and\nthen ",
+      "classification": "standalone"
+    },
+    {
+      "term": "LIEUTENANCY",
+      "matched_term": "LIEUTENANCY LIEUTENANCY, COMMISSION OF",
+      "body_length": 53,
+      "matched_body_length": 24,
+      "similarity": 0.62,
+      "current_type": "legacy_unresolved",
+      "body_preview": "LIEUTENANCY, COMMISSION OF..\nSee COMMISSION OF ARRAY.",
+      "classification": "standalone"
+    },
+    {
+      "term": "LIVRE",
+      "matched_term": "LIVRE TOURNOIS",
+      "body_length": 775,
+      "matched_body_length": 187,
+      "similarity": 0.54,
+      "current_type": "legacy_unresolved",
+      "body_preview": "LIVRE TOURNOIS. <A coin used in\nFrance before the Revolution. It is to be\ncomput",
+      "classification": "standalone"
+    },
+    {
+      "term": "LODS",
+      "matched_term": "LODS ET VENTES",
+      "body_length": 168,
+      "matched_body_length": 151,
+      "similarity": 0.79,
+      "current_type": "legacy_unresolved",
+      "body_preview": "LODS ET VENTES. In old French and\nCanadian law. A fine payable by a roturier\non ",
+      "classification": "standalone"
+    },
+    {
+      "term": "LOW",
+      "matched_term": "LOW JUSTICE",
+      "body_length": 323,
+      "matched_body_length": 92,
+      "similarity": 0.42,
+      "current_type": "legacy_unresolved",
+      "body_preview": "LOW JUSTICE. In old European law,\njurisdiction of petty offenses, as distinguish",
+      "classification": "standalone"
+    },
+    {
+      "term": "LUCRATIVA",
+      "matched_term": "LUCRATIVA USUCAPIO",
+      "body_length": 1320,
+      "matched_body_length": 816,
+      "similarity": 0.03,
+      "current_type": "legacy_unresolved",
+      "body_preview": "LUCRATIVA CAUSA. Lat. In Roman\n\nlaw. <A consideration which is voluntary;\n\nthat ",
+      "classification": "standalone"
+    },
+    {
+      "term": "MAILLS",
+      "matched_term": "MAILLS AND DUTIES",
+      "body_length": 63,
+      "matched_body_length": 44,
+      "similarity": 0.75,
+      "current_type": "legacy_unresolved",
+      "body_preview": "MAILLS AND DUTIES. In Scotch law.\nThe rents of an estate. Bell.",
+      "classification": "standalone"
+    },
+    {
+      "term": "MAKING",
+      "matched_term": "MAKING LAW",
+      "body_length": 249,
+      "matched_body_length": 235,
+      "similarity": 0.74,
+      "current_type": "legacy_unresolved",
+      "body_preview": "MAKING LAW. In old practice. The\n\nformality of denying a plaintiffs charge.\n\nund",
+      "classification": "standalone"
+    },
+    {
+      "term": "MARITIMA",
+      "matched_term": "MARITIMA ANGLIAE",
+      "body_length": 312,
+      "matched_body_length": 175,
+      "similarity": 0.71,
+      "current_type": "legacy_unresolved",
+      "body_preview": "MARITIMA ANGLIZ. In old English\nlaw. The emolument or revenue coming\nto the king",
+      "classification": "standalone"
+    },
+    {
+      "term": "MAUNDY",
+      "matched_term": "MAUNDY THURSDAY",
+      "body_length": 92,
+      "matched_body_length": 58,
+      "similarity": 0.77,
+      "current_type": "legacy_unresolved",
+      "body_preview": "MAUNDY THURSDAY\n\nMAUNDY THURSDAY. The day preceding Good Friday, on which prince",
+      "classification": "standalone"
+    },
+    {
+      "term": "MEDIA",
+      "matched_term": "MEDIA ANNATA",
+      "body_length": 193,
+      "matched_body_length": 78,
+      "similarity": 0.58,
+      "current_type": "legacy_unresolved",
+      "body_preview": "MEDIA ANNATA. In Spanish law.\nHalf-yearly profits of land. McMullen v.\nHodge, 5 ",
+      "classification": "standalone"
+    },
+    {
+      "term": "MEDIANUS",
+      "matched_term": "MEDIANUS HOMO",
+      "body_length": 53,
+      "matched_body_length": 24,
+      "similarity": 0.62,
+      "current_type": "legacy_unresolved",
+      "body_preview": "MEDIANUS HOMO\nMEDIANUS HOMO. A man of middle\nfortune.",
+      "classification": "standalone"
+    },
+    {
+      "term": "MEDIATE",
+      "matched_term": "MEDIATE TESTIMONY",
+      "body_length": 527,
+      "matched_body_length": 17,
+      "similarity": 0.05,
+      "current_type": "legacy_unresolved",
+      "body_preview": "MEDIATE DESCENT. See DESCENT.\n\nMEDIATE POWERS. Those incident to\nprimary powers ",
+      "classification": "standalone"
+    },
+    {
+      "term": "MEDIUM",
+      "matched_term": "MEDIUM TEMPUS",
+      "body_length": 68,
+      "matched_body_length": 52,
+      "similarity": 0.69,
+      "current_type": "legacy_unresolved",
+      "body_preview": "MEDIUM TEMPUS.\nMeantime;\n\nIn old English law.\nmesne protits. Cowell.",
+      "classification": "standalone"
+    },
+    {
+      "term": "MIDDLE",
+      "matched_term": "MIDDLE TERM",
+      "body_length": 300,
+      "matched_body_length": 167,
+      "similarity": 0.71,
+      "current_type": "legacy_unresolved",
+      "body_preview": "MIDDLE TERM. A phrase used in logic to denote the term which occurs in both’\nof ",
+      "classification": "standalone"
+    },
+    {
+      "term": "MINORA",
+      "matched_term": "MINORA REGALIA",
+      "body_length": 139,
+      "matched_body_length": 107,
+      "similarity": 0.83,
+      "current_type": "legacy_unresolved",
+      "body_preview": "MINORA REGALIA\n\nMINORA REGALIA. In English law.\nThe lesser prerogatives of the c",
+      "classification": "standalone"
+    },
+    {
+      "term": "MIXTUM",
+      "matched_term": "MIXTUM IMPERIUM",
+      "body_length": 216,
+      "matched_body_length": 198,
+      "similarity": 0.82,
+      "current_type": "legacy_unresolved",
+      "body_preview": "MIXTUM IMPERIUM. Lat. In old\nEnglish law. Mixed authority; a kind of\ncivil power",
+      "classification": "standalone"
+    },
+    {
+      "term": "MORTIS",
+      "matched_term": "MORTIS CAUSA",
+      "body_length": 273,
+      "matched_body_length": 257,
+      "similarity": 0.77,
+      "current_type": "legacy_unresolved",
+      "body_preview": "MORTIS CAUSA. Lat. By reason of\ndeath ; in contemplation of death. Thus used\nin ",
+      "classification": "standalone"
+    },
+    {
+      "term": "MURORUM",
+      "matched_term": "MURORUM OPERATIO",
+      "body_length": 247,
+      "matched_body_length": 198,
+      "similarity": 0.77,
+      "current_type": "legacy_unresolved",
+      "body_preview": "MURORUM OPERATIO. Iat. The\n\nservice of work and labor done by inhabifants and ad",
+      "classification": "standalone"
+    },
+    {
+      "term": "NATI",
+      "matched_term": "NATI ET NASCITURI",
+      "body_length": 67,
+      "matched_body_length": 48,
+      "similarity": 0.75,
+      "current_type": "legacy_unresolved",
+      "body_preview": "NATI ET NASCITURI. Born and to\nbe born. All heirs, near and remote.",
+      "classification": "standalone"
+    },
+    {
+      "term": "NATURALIZED",
+      "matched_term": "NATURALIZED CITIZEN",
+      "body_length": 118,
+      "matched_body_length": 97,
+      "similarity": 0.84,
+      "current_type": "legacy_unresolved",
+      "body_preview": "NATURALIZED CITIZEN. One who,\nbeing an alien by birth, has received citizenship ",
+      "classification": "standalone"
+    },
+    {
+      "term": "NE",
+      "matched_term": "NE VARIETUR",
+      "body_length": 3409,
+      "matched_body_length": 250,
+      "similarity": 0.02,
+      "current_type": "legacy_unresolved",
+      "body_preview": "NE ADMITTAS. Lat. In. ecclesiastical\nlaw. The name of a prohibitory writ, direct",
+      "classification": "standalone"
+    },
+    {
+      "term": "NETHER",
+      "matched_term": "NETHER HOUSE OF PARLIAMENT",
+      "body_length": 278,
+      "matched_body_length": 247,
+      "similarity": 0.03,
+      "current_type": "legacy_unresolved",
+      "body_preview": "NETHER HOUSE\n\nNemo videtur fraudare eos qui sciunt\net consentiunt. No one seems ",
+      "classification": "standalone"
+    },
+    {
+      "term": "OBSTA",
+      "matched_term": "OBSTA PRINCIPIS",
+      "body_length": 53,
+      "matched_body_length": 338,
+      "similarity": 0.07,
+      "current_type": "legacy_unresolved",
+      "body_preview": "OBSTANTE. Withstanding;\nSee NON OBSTANTE.\n\nhindering.",
+      "classification": "standalone"
+    },
+    {
+      "term": "OPTIONAL",
+      "matched_term": "OPTIONAL WRIT",
+      "body_length": 497,
+      "matched_body_length": 242,
+      "similarity": 0.33,
+      "current_type": "legacy_unresolved",
+      "body_preview": "OPTIONAL WRIT\n\nOptima statuti interpretatriz est (omnibus particulis ejusdem ins",
+      "classification": "standalone"
+    },
+    {
+      "term": "ORANDO",
+      "matched_term": "ORANDO PRO REGE ET REGNO",
+      "body_length": 173,
+      "matched_body_length": 147,
+      "similarity": 0.83,
+      "current_type": "legacy_unresolved",
+      "body_preview": "ORANDO PRO REGE ET REGNO.\nAn ancient writ which issued, while there\nwas no stand",
+      "classification": "standalone"
+    },
+    {
+      "term": "ORDERS",
+      "matched_term": "ORDERS OF THE DAY",
+      "body_length": 755,
+      "matched_body_length": 581,
+      "similarity": 0.71,
+      "current_type": "legacy_unresolved",
+      "body_preview": "ORDERS. The directions as to the course\nand purpose of a voyage given by the own",
+      "classification": "standalone"
+    },
+    {
+      "term": "OSTENDIT",
+      "matched_term": "OSTENDIT VOBIS",
+      "body_length": 325,
+      "matched_body_length": 115,
+      "similarity": 0.24,
+      "current_type": "legacy_unresolved",
+      "body_preview": "OSTENSIBLE AGENCY. An implied or\npresumptive agency, which exists where one,\neit",
+      "classification": "standalone"
+    },
+    {
+      "term": "PARCELLA",
+      "matched_term": "PARCELLA TERR",
+      "body_length": 32,
+      "matched_body_length": 17,
+      "similarity": 0.69,
+      "current_type": "legacy_unresolved",
+      "body_preview": "PARCELLA TERR. A parcel of land.",
+      "classification": "standalone"
+    },
+    {
+      "term": "PARTE",
+      "matched_term": "PARTE NON COMPARENTE",
+      "body_length": 95,
+      "matched_body_length": 398,
+      "similarity": 0.07,
+      "current_type": "legacy_unresolved",
+      "body_preview": "PARTE INAUDITA. Lat. One side being unheard. Spoken of any action which\nis taken",
+      "classification": "standalone"
+    },
+    {
+      "term": "PARTES",
+      "matched_term": "PARTES FINIS NIHIL HABUERUNT",
+      "body_length": 223,
+      "matched_body_length": 193,
+      "similarity": 0.83,
+      "current_type": "legacy_unresolved",
+      "body_preview": "PARTES FINIS NIHIL HABUERUNT.\nIn old pleading. The parties to the fine had\nnothi",
+      "classification": "standalone"
+    },
+    {
+      "term": "PEDIS",
+      "matched_term": "PEDIS POSITIO",
+      "body_length": 731,
+      "matched_body_length": 186,
+      "similarity": 0.54,
+      "current_type": "legacy_unresolved",
+      "body_preview": "PEDIS POSSESSIO\n\nof money, or of something by which money, or\n\nsomething of mone",
+      "classification": "standalone"
+    },
+    {
+      "term": "PESSIMI",
+      "matched_term": "PESSIMI EXEMPLI",
+      "body_length": 221,
+      "matched_body_length": 103,
+      "similarity": 0.63,
+      "current_type": "legacy_unresolved",
+      "body_preview": "PESSIMI EXEMPLI\n\nPeople v. Chicago Theological Seminary, 174\nIll. 177, 51 N. B. ",
+      "classification": "standalone"
+    },
+    {
+      "term": "PETITIONING",
+      "matched_term": "PETITIONING CREDITOR",
+      "body_length": 110,
+      "matched_body_length": 89,
+      "similarity": 0.75,
+      "current_type": "legacy_unresolved",
+      "body_preview": "PETITIONING CREDITOR. The credftor at whose instance an adjudication of\nhankrupt",
+      "classification": "standalone"
+    },
+    {
+      "term": "PETITORY",
+      "matched_term": "PETITORY ACTION",
+      "body_length": 2316,
+      "matched_body_length": 493,
+      "similarity": 0.05,
+      "current_type": "legacy_unresolved",
+      "body_preview": "PETITORY ACTION\n\nin opposition, prnying for the exercise of the\njudicial powers ",
+      "classification": "standalone"
+    },
+    {
+      "term": "PICK",
+      "matched_term": "PICK OF LAND",
+      "body_length": 59,
+      "matched_body_length": 44,
+      "similarity": 0.8,
+      "current_type": "legacy_unresolved",
+      "body_preview": "PICK OF LAND.\nrunning into a corner.\n\nA narrow slip of land",
+      "classification": "standalone"
+    },
+    {
+      "term": "PIONEER",
+      "matched_term": "PIONEER PATENT",
+      "body_length": 27,
+      "matched_body_length": 11,
+      "similarity": 0.58,
+      "current_type": "legacy_unresolved",
+      "body_preview": "PIONEER PATENT. See PATENT.",
+      "classification": "standalone"
+    },
+    {
+      "term": "PIOUS",
+      "matched_term": "PIOUS USES",
+      "body_length": 35,
+      "matched_body_length": 23,
+      "similarity": 0.72,
+      "current_type": "legacy_unresolved",
+      "body_preview": "PIOUS USES. See CHARITABLE USES.\nre",
+      "classification": "standalone"
+    },
+    {
+      "term": "PRACTICE",
+      "matched_term": "PRACTICE COURT",
+      "body_length": 1195,
+      "matched_body_length": 281,
+      "similarity": 0.02,
+      "current_type": "legacy_unresolved",
+      "body_preview": "PRACTICE. The form or mode of proceeding in courts of justice for the enforcemen",
+      "classification": "standalone"
+    },
+    {
+      "term": "PROPRIA",
+      "matched_term": "PROPRIA PERSONA",
+      "body_length": 28,
+      "matched_body_length": 25,
+      "similarity": 0.8,
+      "current_type": "legacy_unresolved",
+      "body_preview": "PROPRIA PERSONA. See IN Pro-",
+      "classification": "standalone"
+    },
+    {
+      "term": "PROSECUTING",
+      "matched_term": "PROSECUTING WITNESS",
+      "body_length": 753,
+      "matched_body_length": 453,
+      "similarity": 0.01,
+      "current_type": "legacy_unresolved",
+      "body_preview": "PROSECUTING ATTORNEY. The\nname of the public officer (in several states)\nwho is ",
+      "classification": "standalone"
+    },
+    {
+      "term": "PUTS",
+      "matched_term": "PUTS AND REFUSALS",
+      "body_length": 369,
+      "matched_body_length": 91,
+      "similarity": 0.4,
+      "current_type": "legacy_unresolved",
+      "body_preview": "PUTS AND CALLS\n\nPUTS AND CALLS. A “put” in the\nlanguage of the grain or stock ma",
+      "classification": "standalone"
+    },
+    {
+      "term": "QUANDO",
+      "matched_term": "QUANDO ACCIDERINT",
+      "body_length": 5877,
+      "matched_body_length": 4968,
+      "similarity": 0.74,
+      "current_type": "legacy_unresolved",
+      "body_preview": "QUANDO ALIQUID MANDATUR ..\n\nattribute or characteristic by which one thing.\nis d",
+      "classification": "standalone"
+    },
+    {
+      "term": "QUANTI",
+      "matched_term": "QUANTI MINORIS",
+      "body_length": 357,
+      "matched_body_length": 392,
+      "similarity": 0.54,
+      "current_type": "legacy_unresolved",
+      "body_preview": "QUANTI MINORIS\n\nof a statute are special, but the reason or\nobject of it general",
+      "classification": "standalone"
+    },
+    {
+      "term": "QUANTUM",
+      "matched_term": "QUANTUM MERUIT",
+      "body_length": 1170,
+      "matched_body_length": 655,
+      "similarity": 0.14,
+      "current_type": "legacy_unresolved",
+      "body_preview": "QUANTUM DAMNIFICATUS? How\nmuch damnified? The name of an issue directed by a cou",
+      "classification": "standalone"
+    },
+    {
+      "term": "QUARENTENA",
+      "matched_term": "QUARENTENA TERRA",
+      "body_length": 131,
+      "matched_body_length": 24,
+      "similarity": 0.32,
+      "current_type": "legacy_unresolved",
+      "body_preview": "QUARENTENA TERRA\n\nnot enjoy his right because the owner had\n\ns0 obstructed it. C",
+      "classification": "standalone"
+    },
+    {
+      "term": "QUARTER",
+      "matched_term": "QUARTER SESSIONS",
+      "body_length": 1898,
+      "matched_body_length": 485,
+      "similarity": 0.02,
+      "current_type": "legacy_unresolved",
+      "body_preview": "QUARTER. The fourth part of anything, especially of a year. Also a length of\nfou",
+      "classification": "standalone"
+    },
+    {
+      "term": "QUATER",
+      "matched_term": "QUATER COUSIN",
+      "body_length": 26,
+      "matched_body_length": 11,
+      "similarity": 0.59,
+      "current_type": "legacy_unresolved",
+      "body_preview": "QUATER COUSIN. See CousIN.",
+      "classification": "standalone"
+    },
+    {
+      "term": "QUATUOR",
+      "matched_term": "QUATUOR PEDIBUS CURRIT",
+      "body_length": 91,
+      "matched_body_length": 69,
+      "similarity": 0.81,
+      "current_type": "legacy_unresolved",
+      "body_preview": "QUATUOR PEDIBUS CURRIT. Lat.\nIt runs upon four feet; it runs upon all\nfours. See",
+      "classification": "standalone"
+    },
+    {
+      "term": "QUID",
+      "matched_term": "QUID JURIS CLAMAT",
+      "body_length": 636,
+      "matched_body_length": 193,
+      "similarity": 0.56,
+      "current_type": "legacy_unresolved",
+      "body_preview": "QUID JURIS CLAMAT. In old English practice. A writ which lay for the\ngrantee of ",
+      "classification": "standalone"
+    },
+    {
+      "term": "QUINQUE",
+      "matched_term": "QUINQUE PORTUS",
+      "body_length": 62,
+      "matched_body_length": 46,
+      "similarity": 0.8,
+      "current_type": "legacy_unresolved",
+      "body_preview": "QUINQUE PORTUS. In old English\nlaw. The Cinque Ports. Spelman.",
+      "classification": "standalone"
+    },
+    {
+      "term": "QUIRE",
+      "matched_term": "QUIRE OF DOVER",
+      "body_length": 191,
+      "matched_body_length": 176,
+      "similarity": 0.81,
+      "current_type": "legacy_unresolved",
+      "body_preview": "QUIRE OF DOVER. In English law.\nA record in the exchequer, showing the tenures f",
+      "classification": "standalone"
+    },
+    {
+      "term": "QUOVIS",
+      "matched_term": "QUOVIS MODO",
+      "body_length": 229,
+      "matched_body_length": 961,
+      "similarity": 0.83,
+      "current_type": "legacy_unresolved",
+      "body_preview": "QUOVIS MODO. Lat. In whatever\nmanner.\n\nQuam de lucro dunorum queratur,\nmolior es",
+      "classification": "standalone"
+    },
+    {
+      "term": "RATABLE",
+      "matched_term": "RATABLE ESTATE",
+      "body_length": 201,
+      "matched_body_length": 184,
+      "similarity": 0.74,
+      "current_type": "legacy_unresolved",
+      "body_preview": "RATABLE ESTATE. Within the meaning of a tax law, this term means “taxable\nestate",
+      "classification": "standalone"
+    },
+    {
+      "term": "REAL",
+      "matched_term": "REAL LAW",
+      "body_length": 940,
+      "matched_body_length": 364,
+      "similarity": 0.01,
+      "current_type": "legacy_unresolved",
+      "body_preview": "REAL. In common law. Relating to\nland, as distinguished from personal property. ",
+      "classification": "standalone"
+    },
+    {
+      "term": "REBUS",
+      "matched_term": "REBUS SIC STANTIBUS",
+      "body_length": 77,
+      "matched_body_length": 54,
+      "similarity": 0.83,
+      "current_type": "legacy_unresolved",
+      "body_preview": "REBUS SIC STANTIBUS. lIat. At\n\nthis point of affairs; in these circumstances.",
+      "classification": "standalone"
+    },
+    {
+      "term": "RECTORIAL",
+      "matched_term": "RECTORIAL TITHES",
+      "body_length": 63,
+      "matched_body_length": 24,
+      "similarity": 0.56,
+      "current_type": "legacy_unresolved",
+      "body_preview": "RECTORIAL TITHES\n\n. RECTORIAL TITHES. Great or pre\ndial tithes.",
+      "classification": "standalone"
+    },
+    {
+      "term": "REDUCTIO",
+      "matched_term": "REDUCTIO AD ABSURDUM",
+      "body_length": 124,
+      "matched_body_length": 102,
+      "similarity": 0.8,
+      "current_type": "legacy_unresolved",
+      "body_preview": "REDUCTIO AD ABSURDUM. Lat. In\nlogic. The method of disproving an argument by sho",
+      "classification": "standalone"
+    },
+    {
+      "term": "REO",
+      "matched_term": "REO ABSENTE",
+      "body_length": 78,
+      "matched_body_length": 65,
+      "similarity": 0.82,
+      "current_type": "legacy_unresolved",
+      "body_preview": "REO ABSENTE. Lat. The defendant\nbeing absent; in the absence of the defendant.",
+      "classification": "standalone"
+    },
+    {
+      "term": "REPETITUM",
+      "matched_term": "REPETITUM NAMIUM",
+      "body_length": 122,
+      "matched_body_length": 605,
+      "similarity": 0.76,
+      "current_type": "legacy_unresolved",
+      "body_preview": "REPETITUM NAMIUM.. A repeated,\nsecond, or reciprocal distress; withernam.\n3 Bl. ",
+      "classification": "standalone"
+    },
+    {
+      "term": "REPETUNDARUM",
+      "matched_term": "REPETUNDARUM CRIMEN",
+      "body_length": 125,
+      "matched_body_length": 105,
+      "similarity": 0.83,
+      "current_type": "legacy_unresolved",
+      "body_preview": "REPETUNDARUM CRIMEN. In Roman law. The crime of bribery or extortion\nin a magist",
+      "classification": "standalone"
+    },
+    {
+      "term": "REVERSIBLE",
+      "matched_term": "REVERSIBLE ERROR",
+      "body_length": 28,
+      "matched_body_length": 10,
+      "similarity": 0.42,
+      "current_type": "legacy_unresolved",
+      "body_preview": "REVERSIBLE ERROR. See FRRor.",
+      "classification": "standalone"
+    },
+    {
+      "term": "RIER",
+      "matched_term": "RIER COUNTY",
+      "body_length": 223,
+      "matched_body_length": 210,
+      "similarity": 0.81,
+      "current_type": "legacy_unresolved",
+      "body_preview": "RIER COUNTY. In old English jaw.\nAfter-county; #4. e., after the end of the coun",
+      "classification": "standalone"
+    },
+    {
+      "term": "RIPUARIAN",
+      "matched_term": "RIPUARIAN PROPRIETORS",
+      "body_length": 342,
+      "matched_body_length": 50,
+      "similarity": 0.25,
+      "current_type": "legacy_unresolved",
+      "body_preview": "RIPUARIAN LAW. An ancient code of\nlaws by which the Ripuaril, a tribe of Franks\n",
+      "classification": "standalone"
+    },
+    {
+      "term": "RISING",
+      "matched_term": "RISING OF COURT",
+      "body_length": 287,
+      "matched_body_length": 272,
+      "similarity": 0.79,
+      "current_type": "legacy_unresolved",
+      "body_preview": "RISING OF COURT. Properly the final\nadjournment of the court for the term,\nthoug",
+      "classification": "standalone"
+    },
+    {
+      "term": "ROOT",
+      "matched_term": "ROOT OF TITLE",
+      "body_length": 171,
+      "matched_body_length": 105,
+      "similarity": 0.75,
+      "current_type": "legacy_unresolved",
+      "body_preview": "ROOT OF DESCENT. ‘The same as\n“stock of descent.”\n\nROOT OF TITLE. The document w",
+      "classification": "standalone"
+    },
+    {
+      "term": "RUNNING",
+      "matched_term": "RUNNING WITH THE REVERSION",
+      "body_length": 1779,
+      "matched_body_length": 172,
+      "similarity": 0.21,
+      "current_type": "legacy_unresolved",
+      "body_preview": "RUNNING ACCOUNT. An open unset:\ntled account, as distinguished from a stated\nand",
+      "classification": "standalone"
+    },
+    {
+      "term": "RUSTICUM",
+      "matched_term": "RUSTICUM JUDICIUM",
+      "body_length": 585,
+      "matched_body_length": 238,
+      "similarity": 0.02,
+      "current_type": "legacy_unresolved",
+      "body_preview": "RUSTICUM JUDICIUM\n\npasses to the assignee of that reversion\nBrown.\n\nRUSTICUM FOR",
+      "classification": "standalone"
+    },
+    {
+      "term": "SAINT",
+      "matched_term": "SAINT SIMONISM",
+      "body_length": 710,
+      "matched_body_length": 554,
+      "similarity": 0.76,
+      "current_type": "legacy_unresolved",
+      "body_preview": "SAINT MARTIN LE GRAND, COURT\nOF. An ancient court in London, of local\nimportance",
+      "classification": "standalone"
+    },
+    {
+      "term": "SALVIAN",
+      "matched_term": "SALVIAN INTERDICT",
+      "body_length": 45,
+      "matched_body_length": 27,
+      "similarity": 0.64,
+      "current_type": "legacy_unresolved",
+      "body_preview": "SALVIAN INTERDICT. See INTERbrctum SALVIANUM.",
+      "classification": "standalone"
+    },
+    {
+      "term": "SANITARY",
+      "matched_term": "SANITARY AUTHORITIES",
+      "body_length": 436,
+      "matched_body_length": 393,
+      "similarity": 0.84,
+      "current_type": "legacy_unresolved",
+      "body_preview": "SANITARY AUTHORITIES\n\nSANITARY AUTHORITIES. In English law. Bodies having jurisd",
+      "classification": "standalone"
+    },
+    {
+      "term": "SATISFACTORY",
+      "matched_term": "SATISFACTORY EVIDENCE",
+      "body_length": 26,
+      "matched_body_length": 3,
+      "similarity": 0.21,
+      "current_type": "legacy_unresolved",
+      "body_preview": "SATISFACTORY EVIDENCE. See",
+      "classification": "standalone"
+    },
+    {
+      "term": "SAY",
+      "matched_term": "SAY ABOUT",
+      "body_length": 279,
+      "matched_body_length": 272,
+      "similarity": 0.85,
+      "current_type": "legacy_unresolved",
+      "body_preview": "SAY ABOUT. This phrase, like “more\nor less,” is frequently introduced into conve",
+      "classification": "standalone"
+    },
+    {
+      "term": "SCUTAGIO",
+      "matched_term": "SCUTAGIO HABENDO",
+      "body_length": 174,
+      "matched_body_length": 155,
+      "similarity": 0.82,
+      "current_type": "legacy_unresolved",
+      "body_preview": "SCUTAGIO HABENDO. A writ that\nanciently lay against tenants by knight’s\nservice ",
+      "classification": "standalone"
+    },
+    {
+      "term": "SECURED",
+      "matched_term": "SECURED CREDITOR",
+      "body_length": 122,
+      "matched_body_length": 105,
+      "similarity": 0.84,
+      "current_type": "legacy_unresolved",
+      "body_preview": "SECURED CREDITOR. A creditor who\nholds some special pecuniary assurance of\npayme",
+      "classification": "standalone"
+    },
+    {
+      "term": "SED",
+      "matched_term": "SED VIDE",
+      "body_length": 2753,
+      "matched_body_length": 186,
+      "similarity": 0.15,
+      "current_type": "legacy_unresolved",
+      "body_preview": "SED QUARE\n\ndebt, by furnishing the creditor with a resource to be used in case o",
+      "classification": "standalone"
+    },
+    {
+      "term": "SEDATO",
+      "matched_term": "SEDATO ANIMO",
+      "body_length": 53,
+      "matched_body_length": 41,
+      "similarity": 0.78,
+      "current_type": "legacy_unresolved",
+      "body_preview": "SEDATO ANIMO.\npurpose. 5 Mod. 291.\n\nLat. With settled",
+      "classification": "standalone"
+    },
+    {
+      "term": "SEDE",
+      "matched_term": "SEDE PLENA",
+      "body_length": 87,
+      "matched_body_length": 75,
+      "similarity": 0.8,
+      "current_type": "legacy_unresolved",
+      "body_preview": "SEDE PLENA. Lat. The see being filled. A phrase used when a bishop’s see is not\n",
+      "classification": "standalone"
+    },
+    {
+      "term": "SEDENTE",
+      "matched_term": "SEDENTE CURIA",
+      "body_length": 71,
+      "matched_body_length": 56,
+      "similarity": 0.8,
+      "current_type": "legacy_unresolved",
+      "body_preview": "SEDENTE CURIA. Lat. The court sitting; during the sitting of the court.",
+      "classification": "standalone"
+    },
+    {
+      "term": "SHORT",
+      "matched_term": "SHORT CAUSE",
+      "body_length": 1460,
+      "matched_body_length": 337,
+      "similarity": 0.01,
+      "current_type": "legacy_unresolved",
+      "body_preview": "SHORT NOTICE\n\nsale of goods are frequently called “stores.”\nCom. v. Annis, 15 Gr",
+      "classification": "standalone"
+    },
+    {
+      "term": "SIETE",
+      "matched_term": "SIETE PARTIDAS",
+      "body_length": 53,
+      "matched_body_length": 188,
+      "similarity": 0.71,
+      "current_type": "legacy_unresolved",
+      "body_preview": "SIETE PARTIDAS.\nSee Las PARTIDAS.\n\nSpan. Seven parts,",
+      "classification": "standalone"
+    },
+    {
+      "term": "SIGNING",
+      "matched_term": "SIGNING JUDGMENT",
+      "body_length": 814,
+      "matched_body_length": 533,
+      "similarity": 0.02,
+      "current_type": "legacy_unresolved",
+      "body_preview": "SIGNING JUDGMENT\n\nbishop’s certificate to the court of chancery\nin order to obta",
+      "classification": "standalone"
+    },
+    {
+      "term": "SKELETON",
+      "matched_term": "SKELETON BILL",
+      "body_length": 57,
+      "matched_body_length": 42,
+      "similarity": 0.78,
+      "current_type": "legacy_unresolved",
+      "body_preview": "SKELETON BILL. One drawn, indorsed,\nor accepted in blank.",
+      "classification": "standalone"
+    },
+    {
+      "term": "SMALL",
+      "matched_term": "SMALL DEBTS COURTS",
+      "body_length": 318,
+      "matched_body_length": 126,
+      "similarity": 0.56,
+      "current_type": "legacy_unresolved",
+      "body_preview": "SMALL DEBTS COURTS. The several county courts established by St. 9 & 10\nVict. c.",
+      "classification": "standalone"
+    },
+    {
+      "term": "SPEAKING",
+      "matched_term": "SPEAKING DEMURRER",
+      "body_length": 385,
+      "matched_body_length": 20,
+      "similarity": 0.08,
+      "current_type": "legacy_unresolved",
+      "body_preview": "SPEAKING DEMURRER. See DemurSPEAKING ORDER. See Orpen. —\n\nSPEAKING WITH PROSECUT",
+      "classification": "standalone"
+    },
+    {
+      "term": "SPONTE",
+      "matched_term": "SPONTE OBLATA",
+      "body_length": 666,
+      "matched_body_length": 155,
+      "similarity": 0.44,
+      "current_type": "legacy_unresolved",
+      "body_preview": "SPONTE VIRUM MULIER\n\ncontra spoliatorem omnia presumuntur. 1\nSmith, Lead. Cas. 3",
+      "classification": "standalone"
+    },
+    {
+      "term": "STATU",
+      "matched_term": "STATU LIBER",
+      "body_length": 1841,
+      "matched_body_length": 153,
+      "similarity": 0.15,
+      "current_type": "legacy_unresolved",
+      "body_preview": "STATUS. The status of a person is his legal position or condition. Thus, when we",
+      "classification": "standalone"
+    },
+    {
+      "term": "STRANGER",
+      "matched_term": "STRANGER IN BLOOD",
+      "body_length": 115,
+      "matched_body_length": 96,
+      "similarity": 0.82,
+      "current_type": "legacy_unresolved",
+      "body_preview": "STRANGER IN BLOOD. Any person\nnot within the consideration of natural love\nand a",
+      "classification": "standalone"
+    },
+    {
+      "term": "SUBSEQUENT",
+      "matched_term": "SUBSEQUENT CONDITION",
+      "body_length": 36,
+      "matched_body_length": 16,
+      "similarity": 0.54,
+      "current_type": "legacy_unresolved",
+      "body_preview": "SUBSEQUENT CONDITION. See ConDITION,",
+      "classification": "standalone"
+    },
+    {
+      "term": "SUBSTANTIAL",
+      "matched_term": "SUBSTANTIAL DAMAGES",
+      "body_length": 1068,
+      "matched_body_length": 146,
+      "similarity": 0.18,
+      "current_type": "legacy_unresolved",
+      "body_preview": "SUBSTANTIAL DAMAGES\n\nwhether for the purpose of authenticating or\nattesting it, ",
+      "classification": "standalone"
+    },
+    {
+      "term": "SUBSTITUTIO",
+      "matched_term": "SUBSTITUTIO HAEREDIS",
+      "body_length": 657,
+      "matched_body_length": 636,
+      "similarity": 0.85,
+      "current_type": "legacy_unresolved",
+      "body_preview": "SUBSTITUTIO HZAREDIS. Lat. In\nRoman law, it was competent for a testator\nafter i",
+      "classification": "standalone"
+    },
+    {
+      "term": "SUGGESTIVE",
+      "matched_term": "SUGGESTIVE INTERROGATION",
+      "body_length": 260,
+      "matched_body_length": 150,
+      "similarity": 0.73,
+      "current_type": "legacy_unresolved",
+      "body_preview": "SUGGESTIVE INTERROGATION\n\nfore trial, his death may be suggested on the\nrecord,\n",
+      "classification": "standalone"
+    },
+    {
+      "term": "SUPPLETORY",
+      "matched_term": "SUPPLETORY OATH",
+      "body_length": 26,
+      "matched_body_length": 10,
+      "similarity": 0.44,
+      "current_type": "legacy_unresolved",
+      "body_preview": "SUPPLETORY OATH. See Oatu.",
+      "classification": "standalone"
+    },
+    {
+      "term": "SURFACE",
+      "matched_term": "SURFACE WATERS",
+      "body_length": 26,
+      "matched_body_length": 10,
+      "similarity": 0.56,
+      "current_type": "legacy_unresolved",
+      "body_preview": "SURFACE WATERS. Sce WATER.",
+      "classification": "standalone"
+    },
+    {
+      "term": "SUUS",
+      "matched_term": "SUUS JUDEX",
+      "body_length": 135,
+      "matched_body_length": 128,
+      "similarity": 0.77,
+      "current_type": "legacy_unresolved",
+      "body_preview": "SUUS JUDEX. Lat. In old English law.\nA proper judge; a judge having cognizance\no",
+      "classification": "standalone"
+    },
+    {
+      "term": "SWORN",
+      "matched_term": "SWORN BROTHERS",
+      "body_length": 316,
+      "matched_body_length": 94,
+      "similarity": 0.45,
+      "current_type": "legacy_unresolved",
+      "body_preview": "SWORN BROTHERS. In old English\nlaw. Persons who, by mutual oaths, covenant to sh",
+      "classification": "standalone"
+    },
+    {
+      "term": "TAURI",
+      "matched_term": "TAURI LIBERI LIBERTAS",
+      "body_length": 117,
+      "matched_body_length": 93,
+      "similarity": 0.8,
+      "current_type": "legacy_unresolved",
+      "body_preview": "TAURI LIBERI LIBERTAS. lIat. A\ncommon bull; because he was free to all the\ntenan",
+      "classification": "standalone"
+    },
+    {
+      "term": "THAVIES",
+      "matched_term": "THAVIES INN",
+      "body_length": 54,
+      "matched_body_length": 41,
+      "similarity": 0.75,
+      "current_type": "legacy_unresolved",
+      "body_preview": "THAVIES INN. An inn of chancery.\nSee INNS OF CHANCERY.",
+      "classification": "standalone"
+    },
+    {
+      "term": "TIPPLING",
+      "matched_term": "TIPPLING HOUSE",
+      "body_length": 341,
+      "matched_body_length": 326,
+      "similarity": 0.83,
+      "current_type": "legacy_unresolved",
+      "body_preview": "TIPPLING HOUSE. A piace where intoxicating drinks are sold in drams or small\nqua",
+      "classification": "standalone"
+    },
+    {
+      "term": "TROY",
+      "matched_term": "TROY WEIGHT",
+      "body_length": 354,
+      "matched_body_length": 92,
+      "similarity": 0.41,
+      "current_type": "legacy_unresolved",
+      "body_preview": "TROY WEIGHT\n\nson, 24 R. I.°817, 53 Atl. 98, 96 Am. St. Rep.\n716; Waring v. Penns",
+      "classification": "standalone"
+    },
+    {
+      "term": "UNCIARIUS",
+      "matched_term": "UNCIARIUS HERES",
+      "body_length": 95,
+      "matched_body_length": 78,
+      "similarity": 0.8,
+      "current_type": "legacy_unresolved",
+      "body_preview": "UNCIARIUS HZRES. Iat. In Roman\nlaw. An heir to one-twelfth of an estate\nor inher",
+      "classification": "standalone"
+    },
+    {
+      "term": "UNCONSCIONABLE",
+      "matched_term": "UNCONSCIONABLE BARGAIN",
+      "body_length": 236,
+      "matched_body_length": 209,
+      "similarity": 0.85,
+      "current_type": "legacy_unresolved",
+      "body_preview": "UNCONSCIONABLE BARGAIN. A\n\ncontract which no man in his senses, not\n\nunder delus",
+      "classification": "standalone"
+    },
+    {
+      "term": "UNCONTROLLABLE",
+      "matched_term": "UNCONTROLLABLE IMPULSE",
+      "body_length": 556,
+      "matched_body_length": 292,
+      "similarity": 0.05,
+      "current_type": "legacy_unresolved",
+      "body_preview": "UNCONTROLLABLE IMPULSE\n\nperson to have prevented, but one not occasioned in any ",
+      "classification": "standalone"
+    },
+    {
+      "term": "UNSEATED",
+      "matched_term": "UNSEATED LAND",
+      "body_length": 25,
+      "matched_body_length": 9,
+      "similarity": 0.53,
+      "current_type": "legacy_unresolved",
+      "body_preview": "UNSEATED LAND. See LAnpD.",
+      "classification": "standalone"
+    },
+    {
+      "term": "UNUS",
+      "matched_term": "UNUS NULLUS RULE, THE",
+      "body_length": 158,
+      "matched_body_length": 135,
+      "similarity": 0.82,
+      "current_type": "legacy_unresolved",
+      "body_preview": "UNUS NULLUS RULE, THE. The rule\nof evidence which obtains in the civil law,\nthat",
+      "classification": "standalone"
+    },
+    {
+      "term": "UPPER",
+      "matched_term": "UPPER BENCH",
+      "body_length": 961,
+      "matched_body_length": 180,
+      "similarity": 0.22,
+      "current_type": "legacy_unresolved",
+      "body_preview": "UPPER BENCH\n\nUnumgquodgque dissolvitur eodem lgamine quo ligatur. Every obligati",
+      "classification": "standalone"
+    },
+    {
+      "term": "VENTRE",
+      "matched_term": "VENTRE INSPICIENDO",
+      "body_length": 1596,
+      "matched_body_length": 271,
+      "similarity": 0.54,
+      "current_type": "legacy_unresolved",
+      "body_preview": "VENTRE INSPICIENDO. In old English law. <A writ that lay for an heir presumptive",
+      "classification": "standalone"
+    },
+    {
+      "term": "VIDUITATIS",
+      "matched_term": "VIDUITATIS PROFESSIO",
+      "body_length": 91,
+      "matched_body_length": 68,
+      "similarity": 0.79,
+      "current_type": "legacy_unresolved",
+      "body_preview": "VIDUITATIS PROFESSIO. Lat. The\n\nmaking a solemn profession to live a sole and\nch",
+      "classification": "standalone"
+    },
+    {
+      "term": "VILLA",
+      "matched_term": "VILLA REGIA",
+      "body_length": 59,
+      "matched_body_length": 46,
+      "similarity": 0.8,
+      "current_type": "legacy_unresolved",
+      "body_preview": "VILLA REGIA. Lat. In Saxon law. A\nroyal residence. Spelman.",
+      "classification": "standalone"
+    },
+    {
+      "term": "VILLANUM",
+      "matched_term": "VILLANUM SERVITIUM",
+      "body_length": 84,
+      "matched_body_length": 66,
+      "similarity": 0.8,
+      "current_type": "legacy_unresolved",
+      "body_preview": "VILLANUM SERVITIUM. In old English law. Villein service. Fleta, lib. 3, @\n13, § ",
+      "classification": "standalone"
+    },
+    {
+      "term": "VINCULO",
+      "matched_term": "VINCULO MATRIMONII",
+      "body_length": 104,
+      "matched_body_length": 27,
+      "similarity": 0.21,
+      "current_type": "legacy_unresolved",
+      "body_preview": "VINCULO. In Spanish law. The bond,\nchain, or tie of marriage. White, New Recop. ",
+      "classification": "standalone"
+    },
+    {
+      "term": "VOCABULA",
+      "matched_term": "VOCABULA ARTIS",
+      "body_length": 350,
+      "matched_body_length": 227,
+      "similarity": 0.76,
+      "current_type": "legacy_unresolved",
+      "body_preview": "VOCABULA ARTIS\n\nsubjects the party to the whole débts of the\ndeceased. 2 Kames, ",
+      "classification": "standalone"
+    },
+    {
+      "term": "WELL",
+      "matched_term": "WELL ENOWING",
+      "body_length": 437,
+      "matched_body_length": 426,
+      "similarity": 0.79,
+      "current_type": "legacy_unresolved",
+      "body_preview": "WELL ENOWING. A phrase used in\npleading as the technical expression in laying a ",
+      "classification": "standalone"
+    },
+    {
+      "term": "WEREGELT",
+      "matched_term": "WEREGELT THEF",
+      "body_length": 98,
+      "matched_body_length": 572,
+      "similarity": 0.12,
+      "current_type": "legacy_unresolved",
+      "body_preview": "WEREGELT THEF. Sax. In old Engsh law. <A robber who might be ransomed.\nFleta, li",
+      "classification": "standalone"
+    },
+    {
+      "term": "WHEN",
+      "matched_term": "WHEN AND WHERE",
+      "body_length": 106,
+      "matched_body_length": 90,
+      "similarity": 0.8,
+      "current_type": "legacy_unresolved",
+      "body_preview": "WHEN AND WHERE. Technical\nwords in pleading, formerly necessary in\nmaking full d",
+      "classification": "standalone"
+    },
+    {
+      "term": "WHITEHART",
+      "matched_term": "WHITEHART SILVER",
+      "body_length": 254,
+      "matched_body_length": 264,
+      "similarity": 0.03,
+      "current_type": "legacy_unresolved",
+      "body_preview": "WHITEHART SILVER\n\noften used where the time intended by it is,\nand will be until",
+      "classification": "standalone"
+    },
+    {
+      "term": "WRIT DE",
+      "matched_term": "WRIT DE BONO ET MALO",
+      "body_length": 286,
+      "matched_body_length": 58,
+      "similarity": 0.12,
+      "current_type": "recovered_main",
+      "body_preview": "WRIT DE. In English law. The name of\na writ which is sued by consent of both par",
+      "classification": "standalone"
+    },
+    {
+      "term": "WRITER",
+      "matched_term": "WRITER OF THE TALLIES",
+      "body_length": 389,
+      "matched_body_length": 115,
+      "similarity": 0.45,
+      "current_type": "legacy_unresolved",
+      "body_preview": "WRITER OF THE TALLIES. In England. An Officer of -the exchequer whose\nduty it wa",
+      "classification": "standalone"
+    },
+    {
+      "term": "WRITTEN",
+      "matched_term": "WRITTEN LAW",
+      "body_length": 290,
+      "matched_body_length": 276,
+      "similarity": 0.78,
+      "current_type": "legacy_unresolved",
+      "body_preview": "WRITTEN LAW. One of the two leading divisions of the Roman law, comprising\nthe l",
+      "classification": "standalone"
+    },
+    {
+      "term": "WRONGFULLY",
+      "matched_term": "WRONGFULLY INTENDING",
+      "body_length": 546,
+      "matched_body_length": 176,
+      "similarity": 0.39,
+      "current_type": "legacy_unresolved",
+      "body_preview": "WRONGFULLY INTENDING\n\nciently clerks in the office of the secretary of\nstate, by",
+      "classification": "standalone"
+    }
+  ],
+  "subentries": [
+    {
+      "term": "ADOPTIVE",
+      "matched_term": "ADOPTIVE ACT",
+      "body_length": 167,
+      "matched_body_length": 154,
+      "similarity": 0.88,
+      "current_type": "legacy_unresolved",
+      "body_preview": "ADOPTIVE ACT. An act of legislation\nwhich comes into operation within a limited\n",
+      "classification": "subentry"
+    },
+    {
+      "term": "AGGRAVATED",
+      "matched_term": "AGGRAVATED ASSAULT",
+      "body_length": 544,
+      "matched_body_length": 517,
+      "similarity": 0.92,
+      "current_type": "legacy_unresolved",
+      "body_preview": "AGGRAVATED ASSAULT. An _ as\nsault with circumstances of aggravation, or\nof a hei",
+      "classification": "subentry"
+    },
+    {
+      "term": "AGRICULTURAL",
+      "matched_term": "AGRICULTURAL LIEN",
+      "body_length": 1276,
+      "matched_body_length": 1252,
+      "similarity": 0.92,
+      "current_type": "legacy_unresolved",
+      "body_preview": "AGRICULTURAL LIEN. A statutory\nlien in some states to secure money or supplies a",
+      "classification": "subentry"
+    },
+    {
+      "term": "ALARM",
+      "matched_term": "ALARM LIST",
+      "body_length": 240,
+      "matched_body_length": 210,
+      "similarity": 0.86,
+      "current_type": "legacy_unresolved",
+      "body_preview": "ALARM LIST. The list of persons liable\nto military watches, who were at the same",
+      "classification": "subentry"
+    },
+    {
+      "term": "ALBUM",
+      "matched_term": "ALBUM BREVE",
+      "body_length": 65,
+      "matched_body_length": 52,
+      "similarity": 0.85,
+      "current_type": "legacy_unresolved",
+      "body_preview": "ALBUM BREVE. A biank writ; a writ\nwitb a blank or omission in it.",
+      "classification": "subentry"
+    },
+    {
+      "term": "ALBUS",
+      "matched_term": "ALBUS LIBER",
+      "body_length": 181,
+      "matched_body_length": 168,
+      "similarity": 0.88,
+      "current_type": "legacy_unresolved",
+      "body_preview": "ALBUS LIBER. The white book; an\nancient book containing a compilation of the\nlaw",
+      "classification": "subentry"
+    },
+    {
+      "term": "ALIO",
+      "matched_term": "ALIO INTUITU",
+      "body_length": 359,
+      "matched_body_length": 375,
+      "similarity": 0.89,
+      "current_type": "legacy_unresolved",
+      "body_preview": "ALIO INTUITU. Lat. In a different\nview; under a different aspect. 4 Rob.\nAdm. & ",
+      "classification": "subentry"
+    },
+    {
+      "term": "ALLOCATIONE",
+      "matched_term": "ALLOCATIONE FACIENDA",
+      "body_length": 575,
+      "matched_body_length": 539,
+      "similarity": 0.87,
+      "current_type": "legacy_unresolved",
+      "body_preview": "ALLOCATIONE FACIENDA. In old\nEnglish practice. A writ for allowing to an\naccount",
+      "classification": "subentry"
+    },
+    {
+      "term": "ANCIPITIS",
+      "matched_term": "ANCIPITIS USUS",
+      "body_length": 244,
+      "matched_body_length": 219,
+      "similarity": 0.89,
+      "current_type": "legacy_unresolved",
+      "body_preview": "ANCIPITIS USUS. Lat. In international law. Of doubtful use; the use of which\nfs ",
+      "classification": "subentry"
+    },
+    {
+      "term": "ANNUA",
+      "matched_term": "ANNUA PENSIONE",
+      "body_length": 125,
+      "matched_body_length": 109,
+      "similarity": 0.86,
+      "current_type": "legacy_unresolved",
+      "body_preview": "ANNUA PENSIONE. An ancient writ to\nprovide the king’s chaplain, if he had no pre",
+      "classification": "subentry"
+    },
+    {
+      "term": "APPROBATE",
+      "matched_term": "APPROBATE AND REPROBATE",
+      "body_length": 211,
+      "matched_body_length": 199,
+      "similarity": 0.9,
+      "current_type": "legacy_unresolved",
+      "body_preview": "APPROBATE AND REPROBATE. In\nTo approve and reject: to take\nadvantage of one part",
+      "classification": "subentry"
+    },
+    {
+      "term": "APTA",
+      "matched_term": "APTA VIBRO",
+      "body_length": 89,
+      "matched_body_length": 77,
+      "similarity": 0.86,
+      "current_type": "legacy_unresolved",
+      "body_preview": "APTA VIBRO. Fit for a husband; mar\nriageable; a woman who has reached marriageab",
+      "classification": "subentry"
+    },
+    {
+      "term": "APUD",
+      "matched_term": "APUD ACTA",
+      "body_length": 191,
+      "matched_body_length": 180,
+      "similarity": 0.88,
+      "current_type": "legacy_unresolved",
+      "body_preview": "APUD ACTA. Among the acts; among\nthe recorded proceedings. In the civil iaw,\nthi",
+      "classification": "subentry"
+    },
+    {
+      "term": "ARMATA",
+      "matched_term": "ARMATA VIS",
+      "body_length": 80,
+      "matched_body_length": 67,
+      "similarity": 0.86,
+      "current_type": "legacy_unresolved",
+      "body_preview": "ARMATA VIS. In the civil law. Armed\nforce. Dig. 43, 16,3; Fleta, lib. 4, ¢. 4. 7",
+      "classification": "subentry"
+    },
+    {
+      "term": "ARMORIAL",
+      "matched_term": "ARMORIAL BEARINGS",
+      "body_length": 458,
+      "matched_body_length": 438,
+      "similarity": 0.92,
+      "current_type": "legacy_unresolved",
+      "body_preview": "ARMORIAL BEARINGS. In English\nlaw. <A device depicted on the (now imaginary) shi",
+      "classification": "subentry"
+    },
+    {
+      "term": "ARRIAGE",
+      "matched_term": "ARRIAGE AND CARRIAGE",
+      "body_length": 194,
+      "matched_body_length": 172,
+      "similarity": 0.9,
+      "current_type": "legacy_unresolved",
+      "body_preview": "ARRIAGE AND CARRIAGE. In English and Scotch law. Indefinite services formerly de",
+      "classification": "subentry"
+    },
+    {
+      "term": "ARRIER",
+      "matched_term": "ARRIER BAN",
+      "body_length": 177,
+      "matched_body_length": 377,
+      "similarity": 0.88,
+      "current_type": "legacy_unresolved",
+      "body_preview": "ARRIER BAN. In feudal law. A second summons to join the lord, addressed to\nthose",
+      "classification": "subentry"
+    },
+    {
+      "term": "ARTICLED",
+      "matched_term": "ARTICLED CLERK",
+      "body_length": 285,
+      "matched_body_length": 271,
+      "similarity": 0.93,
+      "current_type": "legacy_unresolved",
+      "body_preview": "ARTICLED CLERK. In English law.\nA clerk bound to serve in the office of a solici",
+      "classification": "subentry"
+    },
+    {
+      "term": "ASSOCIE",
+      "matched_term": "ASSOCIE EN NOM",
+      "body_length": 344,
+      "matched_body_length": 330,
+      "similarity": 0.91,
+      "current_type": "legacy_unresolved",
+      "body_preview": "ASSOCIE EN NOM. In French Law. In\na société en commandité an associé en nom\nis o",
+      "classification": "subentry"
+    },
+    {
+      "term": "ASTRICTION",
+      "matched_term": "ASTRICTION TO A MILL",
+      "body_length": 203,
+      "matched_body_length": 181,
+      "similarity": 0.9,
+      "current_type": "legacy_unresolved",
+      "body_preview": "ASTRICTION TO A MILL. A servitude by which grain growing on certain lands\nor bro",
+      "classification": "subentry"
+    },
+    {
+      "term": "AUDITA",
+      "matched_term": "AUDITA QUERELA",
+      "body_length": 599,
+      "matched_body_length": 579,
+      "similarity": 0.91,
+      "current_type": "legacy_unresolved",
+      "body_preview": "AUDITA QUERELA. The name of a\nwrit constituting the initial process {n an action",
+      "classification": "subentry"
+    },
+    {
+      "term": "AWAY-GOING",
+      "matched_term": "AWAY-GOING CROP",
+      "body_length": 171,
+      "matched_body_length": 154,
+      "similarity": 0.92,
+      "current_type": "legacy_unresolved",
+      "body_preview": "AWAY-GOING CROP. A crop sown\nbefore the expiration of a tenancy, which\ncannot ri",
+      "classification": "subentry"
+    },
+    {
+      "term": "BALLIVO",
+      "matched_term": "BALLIVO AMOVENDO",
+      "body_length": 131,
+      "matched_body_length": 114,
+      "similarity": 0.87,
+      "current_type": "legacy_unresolved",
+      "body_preview": "BALLIVO AMOVENDO. An ancient\nwrit to remove a bailiff from his office for\nwant o",
+      "classification": "subentry"
+    },
+    {
+      "term": "BANCI",
+      "matched_term": "BANCI NARRATORES",
+      "body_length": 142,
+      "matched_body_length": 124,
+      "similarity": 0.86,
+      "current_type": "legacy_unresolved",
+      "body_preview": "BANCI NARRATORES. In old English law. Advocates; countors; serjeants.\nApplied to",
+      "classification": "subentry"
+    },
+    {
+      "term": "BANKRUPT",
+      "matched_term": "BANKRUPT LAW",
+      "body_length": 4547,
+      "matched_body_length": 2313,
+      "similarity": 0.86,
+      "current_type": "legacy_unresolved",
+      "body_preview": "BANKRUPT LAW. A law relating to\nbankrupts and the procedure against them in\nthe ",
+      "classification": "subentry"
+    },
+    {
+      "term": "BASKET",
+      "matched_term": "BASKET TENURE",
+      "body_length": 85,
+      "matched_body_length": 70,
+      "similarity": 0.86,
+      "current_type": "legacy_unresolved",
+      "body_preview": "BASKET TENURE. In feudal law.\nLands held by the service of making the\nking's bas",
+      "classification": "subentry"
+    },
+    {
+      "term": "BASSE",
+      "matched_term": "BASSE JUSTICE",
+      "body_length": 150,
+      "matched_body_length": 135,
+      "similarity": 0.91,
+      "current_type": "legacy_unresolved",
+      "body_preview": "BASSE JUSTICE. In-feudal law. Low\njustice; the right exercised by feudal lords\no",
+      "classification": "subentry"
+    },
+    {
+      "term": "BEST",
+      "matched_term": "BEST EVIDENCE",
+      "body_length": 673,
+      "matched_body_length": 681,
+      "similarity": 0.94,
+      "current_type": "legacy_unresolved",
+      "body_preview": "BEST EVIDENCE. Primary evidence,\nas distinguished from secondary; original,\nas d",
+      "classification": "subentry"
+    },
+    {
+      "term": "BISANTIUM",
+      "matched_term": "BISANTIUM BISANTIUM, BESANTINE, BEZANT",
+      "body_length": 219,
+      "matched_body_length": 189,
+      "similarity": 0.91,
+      "current_type": "legacy_unresolved",
+      "body_preview": "BISANTIUM, BESANTINE, BEZANT.\nAn ancient coin, first issued at Constantinople; i",
+      "classification": "subentry"
+    },
+    {
+      "term": "BLANCH",
+      "matched_term": "BLANCH HOLDING",
+      "body_length": 173,
+      "matched_body_length": 157,
+      "similarity": 0.89,
+      "current_type": "legacy_unresolved",
+      "body_preview": "BLANCH HOLDING. An ancient tenure of the law of Scotland, the duty payable\nbeing",
+      "classification": "subentry"
+    },
+    {
+      "term": "BONI",
+      "matched_term": "BONI HOMINES",
+      "body_length": 911,
+      "matched_body_length": 904,
+      "similarity": 0.92,
+      "current_type": "legacy_unresolved",
+      "body_preview": "BONI HOMINES. In old European law.\nGood men; a name given in early European\njuri",
+      "classification": "subentry"
+    },
+    {
+      "term": "BOVATA",
+      "matched_term": "BOVATA TERRA",
+      "body_length": 147,
+      "matched_body_length": 133,
+      "similarity": 0.92,
+      "current_type": "legacy_unresolved",
+      "body_preview": "BOVATA TERRZ. As much land as\none ox can cultivate. Said by some to be\nthirteen,",
+      "classification": "subentry"
+    },
+    {
+      "term": "BREAST",
+      "matched_term": "BREAST OF THE COURT",
+      "body_length": 276,
+      "matched_body_length": 254,
+      "similarity": 0.86,
+      "current_type": "legacy_unresolved",
+      "body_preview": "BREAST OF THE COURT. A metaphorical expression, signifying the conscience, discr",
+      "classification": "subentry"
+    },
+    {
+      "term": "BRING",
+      "matched_term": "BRING SUIT",
+      "body_length": 209,
+      "matched_body_length": 371,
+      "similarity": 0.91,
+      "current_type": "legacy_unresolved",
+      "body_preview": "BRING SUIT. To “bring” an action or\nsuit has a settled customary meaning at law,",
+      "classification": "subentry"
+    },
+    {
+      "term": "BROKEN",
+      "matched_term": "BROKEN STOWAGE",
+      "body_length": 87,
+      "matched_body_length": 71,
+      "similarity": 0.88,
+      "current_type": "legacy_unresolved",
+      "body_preview": "BROKEN STOWAGE. In maritime law.\nThat space in a ship which is not filled by\nher",
+      "classification": "subentry"
+    },
+    {
+      "term": "BUTTED",
+      "matched_term": "BUTTED AND BOUNDED",
+      "body_length": 120,
+      "matched_body_length": 100,
+      "similarity": 0.89,
+      "current_type": "legacy_unresolved",
+      "body_preview": "BUTTED AND BOUNDED. A phrase\nsometimes used in conveyancing, to introduce the bo",
+      "classification": "subentry"
+    },
+    {
+      "term": "CARLISLE",
+      "matched_term": "CARLISLE TABLES",
+      "body_length": 108,
+      "matched_body_length": 91,
+      "similarity": 0.88,
+      "current_type": "legacy_unresolved",
+      "body_preview": "CARLISLE TABLES. Life and annuity\ntables, compiled at Carlisle, England, about\n1",
+      "classification": "subentry"
+    },
+    {
+      "term": "CERA",
+      "matched_term": "CERA IMPRESSA",
+      "body_length": 283,
+      "matched_body_length": 268,
+      "similarity": 0.93,
+      "current_type": "legacy_unresolved",
+      "body_preview": "CERA IMPRESSA. Lat. An impressed\nseal. It does not necessarily refer to an\nimpre",
+      "classification": "subentry"
+    },
+    {
+      "term": "CIRCULAR",
+      "matched_term": "CIRCULAR NOTES",
+      "body_length": 419,
+      "matched_body_length": 403,
+      "similarity": 0.88,
+      "current_type": "legacy_unresolved",
+      "body_preview": "CIRCULAR NOTES. Similar instruments to “letters of credit.” They are drawn\nby re",
+      "classification": "subentry"
+    },
+    {
+      "term": "CIRCUMSTANTIAL",
+      "matched_term": "CIRCUMSTANTIAL EVIDENCE",
+      "body_length": 1671,
+      "matched_body_length": 1643,
+      "similarity": 0.92,
+      "current_type": "legacy_unresolved",
+      "body_preview": "CIRCUMSTANTIAL EVIDENCE. Evidence directed to the attending circumstances; evide",
+      "classification": "subentry"
+    },
+    {
+      "term": "COBRA-VENOM",
+      "matched_term": "COBRA-VENOM REACTION",
+      "body_length": 316,
+      "matched_body_length": 295,
+      "similarity": 0.89,
+      "current_type": "legacy_unresolved",
+      "body_preview": "COBRA-VENOM REACTION. In medical jurisprudence. A method of serum-diagnosis of i",
+      "classification": "subentry"
+    },
+    {
+      "term": "COGNITIONIBUS",
+      "matched_term": "COGNITIONIBUS MITTENDIS",
+      "body_length": 233,
+      "matched_body_length": 208,
+      "similarity": 0.92,
+      "current_type": "legacy_unresolved",
+      "body_preview": "COGNITIONIBUS MITTENDIS.. In\nEnglish law. <A writ to a justice of the common ple",
+      "classification": "subentry"
+    },
+    {
+      "term": "COGNITIONIS",
+      "matched_term": "COGNITIONIS CAUSA",
+      "body_length": 236,
+      "matched_body_length": 222,
+      "similarity": 0.94,
+      "current_type": "legacy_unresolved",
+      "body_preview": "COGNITIONIS CAUSZ. In Scotch\npractice. A name given to a judgment or\ndecree pron",
+      "classification": "subentry"
+    },
+    {
+      "term": "COMPTE",
+      "matched_term": "COMPTE ARRESTE",
+      "body_length": 184,
+      "matched_body_length": 168,
+      "similarity": 0.91,
+      "current_type": "legacy_unresolved",
+      "body_preview": "COMPTE ARRETE. Fr. An account\n\nstated in writing, and acknowledged to be\ncorrect",
+      "classification": "subentry"
+    },
+    {
+      "term": "CONSEILS",
+      "matched_term": "CONSEILS DE PRUD'HOMMES",
+      "body_length": 382,
+      "matched_body_length": 358,
+      "similarity": 0.88,
+      "current_type": "legacy_unresolved",
+      "body_preview": "CONSEILS DE PRUDHOMMES. In\nFrench law. <A species of trade tribunals,\ncharged wi",
+      "classification": "subentry"
+    },
+    {
+      "term": "CONTAGIOUS",
+      "matched_term": "CONTAGIOUS DISEASE",
+      "body_length": 285,
+      "matched_body_length": 264,
+      "similarity": 0.86,
+      "current_type": "legacy_unresolved",
+      "body_preview": "CONTAGIOUS DISEASE. One capable\n\nof being transmitted by mediate or immediate\nco",
+      "classification": "subentry"
+    },
+    {
+      "term": "COOLING",
+      "matched_term": "COOLING TIME",
+      "body_length": 440,
+      "matched_body_length": 425,
+      "similarity": 0.87,
+      "current_type": "legacy_unresolved",
+      "body_preview": "COOLING TIME. Time to recover “cool\nblood” after severe excitement or provocatio",
+      "classification": "subentry"
+    },
+    {
+      "term": "CORONATION",
+      "matched_term": "CORONATION OATH",
+      "body_length": 321,
+      "matched_body_length": 304,
+      "similarity": 0.92,
+      "current_type": "legacy_unresolved",
+      "body_preview": "CORONATION OATH. The oath adninistered to a sovereign at the ceremony\nof crownin",
+      "classification": "subentry"
+    },
+    {
+      "term": "COSA",
+      "matched_term": "COSA JUZGADA",
+      "body_length": 111,
+      "matched_body_length": 97,
+      "similarity": 0.9,
+      "current_type": "legacy_unresolved",
+      "body_preview": "COSA JUZGADA. In Spanish law. A\ncause or matter adjudged, (res judicata.)\nWhite,",
+      "classification": "subentry"
+    },
+    {
+      "term": "COSAS",
+      "matched_term": "COSAS COMUNES",
+      "body_length": 347,
+      "matched_body_length": 333,
+      "similarity": 0.92,
+      "current_type": "legacy_unresolved",
+      "body_preview": "COSAS COMUNES. In Spanish law. A\nterm corresponding to the res communes of the\nR",
+      "classification": "subentry"
+    },
+    {
+      "term": "COVENTRY",
+      "matched_term": "COVENTRY ACT",
+      "body_length": 303,
+      "matched_body_length": 290,
+      "similarity": 0.95,
+      "current_type": "legacy_unresolved",
+      "body_preview": "COVENTRY AOT. The name given to\nthe statute 22 & 23 Car. II. c. 1, which provide",
+      "classification": "subentry"
+    },
+    {
+      "term": "COVER",
+      "matched_term": "COVER INTO",
+      "body_length": 347,
+      "matched_body_length": 335,
+      "similarity": 0.92,
+      "current_type": "legacy_unresolved",
+      "body_preview": "COVER INTO. The phrase “covered into the treasury,” as used in acts of congress\n",
+      "classification": "subentry"
+    },
+    {
+      "term": "CUSTODIAM",
+      "matched_term": "CUSTODIAM LEASE",
+      "body_length": 226,
+      "matched_body_length": 208,
+      "similarity": 0.88,
+      "current_type": "legacy_unresolved",
+      "body_preview": "CUSTODIAM LEASE. In English law.\nA grant from the crown under the exchequer\nseal",
+      "classification": "subentry"
+    },
+    {
+      "term": "DEAF",
+      "matched_term": "DEAF AND DUMB",
+      "body_length": 327,
+      "matched_body_length": 310,
+      "similarity": 0.91,
+      "current_type": "legacy_unresolved",
+      "body_preview": "DEAF AND DUMB. A man that is born\ndeaf, dumb, and blind is looked upon by the\nla",
+      "classification": "subentry"
+    },
+    {
+      "term": "DECLINATORY",
+      "matched_term": "DECLINATORY PLEA",
+      "body_length": 208,
+      "matched_body_length": 189,
+      "similarity": 0.88,
+      "current_type": "legacy_unresolved",
+      "body_preview": "DECLINATORY PLEA. In _ English\npractice. The plea of sanctuary, or of benefit of",
+      "classification": "subentry"
+    },
+    {
+      "term": "DIEI",
+      "matched_term": "DIEI DICTIO",
+      "body_length": 249,
+      "matched_body_length": 236,
+      "similarity": 0.94,
+      "current_type": "legacy_unresolved",
+      "body_preview": "DIEI DICTIO. Lat. In Roman law.\nThis name was given to a notice promulgated\nby a",
+      "classification": "subentry"
+    },
+    {
+      "term": "DISPOSSESS",
+      "matched_term": "DISPOSSESS PROCEEDINGS",
+      "body_length": 230,
+      "matched_body_length": 206,
+      "similarity": 0.94,
+      "current_type": "legacy_unresolved",
+      "body_preview": "DISPOSSESS PROCEEDINGS. Summary process by a landlord to oust the tenant and reg",
+      "classification": "subentry"
+    },
+    {
+      "term": "DISPUTATIO",
+      "matched_term": "DISPUTATIO FORI",
+      "body_length": 116,
+      "matched_body_length": 98,
+      "similarity": 0.86,
+      "current_type": "legacy_unresolved",
+      "body_preview": "DISPUTATIO FORI. In the civil law.\nDiscussion or argument before a_ court.\nMacke",
+      "classification": "subentry"
+    },
+    {
+      "term": "DISSOLVING",
+      "matched_term": "DISSOLVING BOND",
+      "body_length": 266,
+      "matched_body_length": 251,
+      "similarity": 0.9,
+      "current_type": "legacy_unresolved",
+      "body_preview": "DISSOLVING BOND. A bond given to\nobtain the dissolution of a legal writ or\nproce",
+      "classification": "subentry"
+    },
+    {
+      "term": "DIVERSITE",
+      "matched_term": "DIVERSITE DES COURTS",
+      "body_length": 243,
+      "matched_body_length": 221,
+      "similarity": 0.92,
+      "current_type": "legacy_unresolved",
+      "body_preview": "DIVERSITE DES COURTS. A treatise\non courts and their jurisdiction, written in\nFr",
+      "classification": "subentry"
+    },
+    {
+      "term": "DOZEN",
+      "matched_term": "DOZEN PEERS",
+      "body_length": 157,
+      "matched_body_length": 144,
+      "similarity": 0.91,
+      "current_type": "legacy_unresolved",
+      "body_preview": "DOZEN PEERS. Twelve peers assembled at the instance of the barons, in the\nreign ",
+      "classification": "subentry"
+    },
+    {
+      "term": "DUPLICATUM",
+      "matched_term": "DUPLICATUM JUS",
+      "body_length": 549,
+      "matched_body_length": 521,
+      "similarity": 0.86,
+      "current_type": "legacy_unresolved",
+      "body_preview": "DUPLICATUM JUS. Double right.\nBract. fol. 283b. See Dsroit-Dkroit.\n\n- DUPLICITY.",
+      "classification": "subentry"
+    },
+    {
+      "term": "EJUSDEM",
+      "matched_term": "EJUSDEM GENERIS",
+      "body_length": 586,
+      "matched_body_length": 554,
+      "similarity": 0.87,
+      "current_type": "legacy_unresolved",
+      "body_preview": "EJUSDEM GENERIS. Of the same\n\nkind, class, or nature.\n\nIn statutory construction",
+      "classification": "subentry"
+    },
+    {
+      "term": "EMBER",
+      "matched_term": "EMBER DAYS",
+      "body_length": 704,
+      "matched_body_length": 692,
+      "similarity": 0.91,
+      "current_type": "legacy_unresolved",
+      "body_preview": "EMBER DAYS. In ecclesiastical law.\nThose days which the ancient fathers called\n“",
+      "classification": "subentry"
+    },
+    {
+      "term": "EMBLEMATA",
+      "matched_term": "EMBLEMATA TRIBONIANI",
+      "body_length": 458,
+      "matched_body_length": 436,
+      "similarity": 0.91,
+      "current_type": "legacy_unresolved",
+      "body_preview": "EMBLEMATA TRIBONIANI. In the\nRoman law. Alterations, modifications, and\n‘additio",
+      "classification": "subentry"
+    },
+    {
+      "term": "ESSENDI",
+      "matched_term": "ESSENDI QUIETUM DE TOLONIO",
+      "body_length": 225,
+      "matched_body_length": 197,
+      "similarity": 0.87,
+      "current_type": "legacy_unresolved",
+      "body_preview": "ESSENDI QUIETUM DE TOLONIO.\nA writ to be quit of toll; it lles for citizens\nand ",
+      "classification": "subentry"
+    },
+    {
+      "term": "EXAMINED",
+      "matched_term": "EXAMINED COPY",
+      "body_length": 121,
+      "matched_body_length": 106,
+      "similarity": 0.9,
+      "current_type": "legacy_unresolved",
+      "body_preview": "EXAMINED COPY. A copy of a record,\npublic book, or register, and which has been\n",
+      "classification": "subentry"
+    },
+    {
+      "term": "EXCOMMUNIOCATO",
+      "matched_term": "EXCOMMUNIOCATO RECAPIENDO",
+      "body_length": 296,
+      "matched_body_length": 268,
+      "similarity": 0.91,
+      "current_type": "legacy_unresolved",
+      "body_preview": "EXCOMMUNIOCATO RECAPIENDO.\nA writ commanding that persons excommunicated, who fo",
+      "classification": "subentry"
+    },
+    {
+      "term": "EXERCITOR",
+      "matched_term": "EXERCITOR NAVIS",
+      "body_length": 121,
+      "matched_body_length": 103,
+      "similarity": 0.86,
+      "current_type": "legacy_unresolved",
+      "body_preview": "EXERCITOR NAVIS. lIat. The temporary owner or charterer of a ship. Mackeld. Rom.",
+      "classification": "subentry"
+    },
+    {
+      "term": "EXETER",
+      "matched_term": "EXETER DOMESDAY",
+      "body_length": 526,
+      "matched_body_length": 518,
+      "similarity": 0.95,
+      "current_type": "legacy_unresolved",
+      "body_preview": "EXETER DOMESDAY. The name given\nto a record preserved among the muniments\n\n‘and ",
+      "classification": "subentry"
+    },
+    {
+      "term": "FALL",
+      "matched_term": "FALL OF LAND",
+      "body_length": 86,
+      "matched_body_length": 1245,
+      "similarity": 0.93,
+      "current_type": "legacy_unresolved",
+      "body_preview": "FALL OF LAND. In English law. A\nquantity of land six ells square superficial\n\nme",
+      "classification": "subentry"
+    },
+    {
+      "term": "FALSI",
+      "matched_term": "FALSI CRIMEN",
+      "body_length": 342,
+      "matched_body_length": 328,
+      "similarity": 0.92,
+      "current_type": "legacy_unresolved",
+      "body_preview": "FALSI CRIMEN. Fraudulent subornation or concealment, with design to darken\nor hi",
+      "classification": "subentry"
+    },
+    {
+      "term": "FESTA",
+      "matched_term": "FESTA IN CAPPIS",
+      "body_length": 187,
+      "matched_body_length": 170,
+      "similarity": 0.93,
+      "current_type": "legacy_unresolved",
+      "body_preview": "FESTA IN CAPPIS. In old English law.\nGrand holidays, on which choirs wore caps.\n",
+      "classification": "subentry"
+    },
+    {
+      "term": "FESTINUM",
+      "matched_term": "FESTINUM REMEDIUM",
+      "body_length": 207,
+      "matched_body_length": 196,
+      "similarity": 0.87,
+      "current_type": "legacy_unresolved",
+      "body_preview": "FESTINUM REMEDIUM. Iat. A\nspeedy remedy. The writ of assise was thus\ncharacteriz",
+      "classification": "subentry"
+    },
+    {
+      "term": "FIVE-MILE",
+      "matched_term": "FIVE-MILE ACT",
+      "body_length": 230,
+      "matched_body_length": 216,
+      "similarity": 0.91,
+      "current_type": "legacy_unresolved",
+      "body_preview": "FIVE-MILE AOT. An act of pariiament, passed in 1665, against non-conformists, wh",
+      "classification": "subentry"
+    },
+    {
+      "term": "FLORENTINE",
+      "matched_term": "FLORENTINE PANDECTS",
+      "body_length": 903,
+      "matched_body_length": 881,
+      "similarity": 0.94,
+      "current_type": "legacy_unresolved",
+      "body_preview": "FLORENTINE PANDECTS. A copy of\nthe Pandects discovered ,accidentally about\nthe y",
+      "classification": "subentry"
+    },
+    {
+      "term": "FLOWING",
+      "matched_term": "FLOWING LANDS",
+      "body_length": 318,
+      "matched_body_length": 303,
+      "similarity": 0.9,
+      "current_type": "legacy_unresolved",
+      "body_preview": "FLOWING LANDS. This term has acquired a definite and specific meaning in\nlaw. It",
+      "classification": "subentry"
+    },
+    {
+      "term": "FLY",
+      "matched_term": "FLY FOR IT",
+      "body_length": 201,
+      "matched_body_length": 189,
+      "similarity": 0.9,
+      "current_type": "legacy_unresolved",
+      "body_preview": "FLY FOR IT. On a criminal trial in\nformer times, it was usual after a verdict of",
+      "classification": "subentry"
+    },
+    {
+      "term": "FORTY-DAYS",
+      "matched_term": "FORTY-DAYS COURT",
+      "body_length": 100,
+      "matched_body_length": 82,
+      "similarity": 0.93,
+      "current_type": "legacy_unresolved",
+      "body_preview": "FORTY-DAYS COURT. In old English\nforest law. The court of attachment in forests,",
+      "classification": "subentry"
+    },
+    {
+      "term": "FUTURE",
+      "matched_term": "FUTURE DEBT",
+      "body_length": 148,
+      "matched_body_length": 107,
+      "similarity": 0.87,
+      "current_type": "legacy_unresolved",
+      "body_preview": "FUTURE DEBT. In Scotch law. A\ndebt which is created, but which will not become d",
+      "classification": "subentry"
+    },
+    {
+      "term": "GROWING",
+      "matched_term": "GROWING CROP",
+      "body_length": 568,
+      "matched_body_length": 540,
+      "similarity": 0.94,
+      "current_type": "legacy_unresolved",
+      "body_preview": "GROWING CROP. A crop must be considered and treated as a growing crop from\nthe t",
+      "classification": "subentry"
+    },
+    {
+      "term": "HABENTES",
+      "matched_term": "HABENTES HOMINES",
+      "body_length": 113,
+      "matched_body_length": 95,
+      "similarity": 0.89,
+      "current_type": "legacy_unresolved",
+      "body_preview": "HABENTES HOMINES. In old English law. Rich men; literally, having men.\nThe same ",
+      "classification": "subentry"
+    },
+    {
+      "term": "HABITABLE",
+      "matched_term": "HABITABLE REPAIR",
+      "body_length": 310,
+      "matched_body_length": 293,
+      "similarity": 0.88,
+      "current_type": "legacy_unresolved",
+      "body_preview": "HABITABLE REPAIR. A covenant by\na lessee to “put the premises into habitable\nrep",
+      "classification": "subentry"
+    },
+    {
+      "term": "HOLY",
+      "matched_term": "HOLY ORDERS",
+      "body_length": 333,
+      "matched_body_length": 320,
+      "similarity": 0.93,
+      "current_type": "legacy_unresolved",
+      "body_preview": "HOLY ORDERS. In ecclesiastical law.\nThe orders of bishops, (including archbishop",
+      "classification": "subentry"
+    },
+    {
+      "term": "HUNG",
+      "matched_term": "HUNG JURY",
+      "body_length": 95,
+      "matched_body_length": 84,
+      "similarity": 0.88,
+      "current_type": "legacy_unresolved",
+      "body_preview": "HUNG JURY. A jury so trreconcilably\ndivided in opinion that they cannot agree\nup",
+      "classification": "subentry"
+    },
+    {
+      "term": "IMMINENT",
+      "matched_term": "IMMINENT DANGER",
+      "body_length": 619,
+      "matched_body_length": 603,
+      "similarity": 0.91,
+      "current_type": "legacy_unresolved",
+      "body_preview": "IMMINENT DANGER. In relation to\nhomicide in self-defense, this term means\nimmedi",
+      "classification": "subentry"
+    },
+    {
+      "term": "IMPOSSIBLE",
+      "matched_term": "IMPOSSIBLE CONTRACTS",
+      "body_length": 361,
+      "matched_body_length": 655,
+      "similarity": 0.93,
+      "current_type": "legacy_unresolved",
+      "body_preview": "IMPOSSIBLE CONTRACTS. An impossible contract is one which the law will\nnot hold ",
+      "classification": "subentry"
+    },
+    {
+      "term": "INBOUND",
+      "matched_term": "INBOUND COMMON",
+      "body_length": 73,
+      "matched_body_length": 58,
+      "similarity": 0.87,
+      "current_type": "legacy_unresolved",
+      "body_preview": "INBOUND CQMMON. An uninclosed\ncommon, marked out, however, by boundaries.",
+      "classification": "subentry"
+    },
+    {
+      "term": "INFENSARE",
+      "matched_term": "INFENSARE CURIAM",
+      "body_length": 164,
+      "matched_body_length": 147,
+      "similarity": 0.88,
+      "current_type": "legacy_unresolved",
+      "body_preview": "INFENSARE CURIAM. Iat. An expression applied to a court when it suggested to an ",
+      "classification": "subentry"
+    },
+    {
+      "term": "INHUMAN",
+      "matched_term": "INHUMAN TREATMENT",
+      "body_length": 1359,
+      "matched_body_length": 1352,
+      "similarity": 0.86,
+      "current_type": "legacy_unresolved",
+      "body_preview": "INHUMAN TREATMENT. In the law\nof divorce. Such barbarous cruelty or severity as ",
+      "classification": "subentry"
+    },
+    {
+      "term": "INOPS",
+      "matched_term": "INOPS CONSILI",
+      "body_length": 178,
+      "matched_body_length": 162,
+      "similarity": 0.89,
+      "current_type": "legacy_unresolved",
+      "body_preview": "INOPS CONSILI. Lat. Destitute of\ncounsel; without legal counsel. <A term applied",
+      "classification": "subentry"
+    },
+    {
+      "term": "INSTITORIAL",
+      "matched_term": "INSTITORIAL POWER",
+      "body_length": 99,
+      "matched_body_length": 81,
+      "similarity": 0.88,
+      "current_type": "legacy_unresolved",
+      "body_preview": "INSTITORIAL POWER... The charge\ngiven to A clerk to manage a shop or store.\n1 Be",
+      "classification": "subentry"
+    },
+    {
+      "term": "INTERDICTUM",
+      "matched_term": "INTERDICTUM SALVIANUM",
+      "body_length": 429,
+      "matched_body_length": 406,
+      "similarity": 0.89,
+      "current_type": "legacy_unresolved",
+      "body_preview": "INTERDICTUM SALVIANUM. Lat.\nIn Roman law. The Salvian interdict. A\nprocess which",
+      "classification": "subentry"
+    },
+    {
+      "term": "INTERMIXTURE",
+      "matched_term": "INTERMIXTURE OF GOODS",
+      "body_length": 277,
+      "matched_body_length": 271,
+      "similarity": 0.93,
+      "current_type": "legacy_unresolved",
+      "body_preview": "INTERMIXTURE OF GOODS. Confusion of goods; the confusing or mingling\ntogether of",
+      "classification": "subentry"
+    },
+    {
+      "term": "JOCUS",
+      "matched_term": "JOCUS PARTITUS",
+      "body_length": 354,
+      "matched_body_length": 338,
+      "similarity": 0.94,
+      "current_type": "legacy_unresolved",
+      "body_preview": "JOCUS PARTITUS. In old English\npractice. A divided game, risk, or hazard.\nAn arr",
+      "classification": "subentry"
+    },
+    {
+      "term": "JOHN",
+      "matched_term": "JOHN DOE",
+      "body_length": 239,
+      "matched_body_length": 232,
+      "similarity": 0.87,
+      "current_type": "legacy_unresolved",
+      "body_preview": "JOHN DOE. The name which was usually given to the fictitious lessee of the\nplain",
+      "classification": "subentry"
+    },
+    {
+      "term": "JUDICATORES",
+      "matched_term": "JUDICATORES TERRARUM",
+      "body_length": 1140,
+      "matched_body_length": 1144,
+      "similarity": 0.95,
+      "current_type": "legacy_unresolved",
+      "body_preview": "JUDICATORES TERRARUM. Lat.\nPersons in the county palatine of Chester,\nwho, on a ",
+      "classification": "subentry"
+    },
+    {
+      "term": "JURATORY",
+      "matched_term": "JURATORY CAUTION",
+      "body_length": 189,
+      "matched_body_length": 170,
+      "similarity": 0.92,
+      "current_type": "legacy_unresolved",
+      "body_preview": "JURATORY CAUTION. In Scotch law.\nA description of caution (security) sometimes o",
+      "classification": "subentry"
+    },
+    {
+      "term": "KEELHALE",
+      "matched_term": "KEELHALE KEELHALE, KEELHAUL",
+      "body_length": 163,
+      "matched_body_length": 143,
+      "similarity": 0.88,
+      "current_type": "legacy_unresolved",
+      "body_preview": "KEELHALE, KEELHAUL. To drag a\nperson under the keel of a ship by means of\nropes ",
+      "classification": "subentry"
+    },
+    {
+      "term": "KISSING",
+      "matched_term": "KISSING THE BOOK",
+      "body_length": 192,
+      "matched_body_length": 174,
+      "similarity": 0.87,
+      "current_type": "legacy_unresolved",
+      "body_preview": "KISSING THE BOOK. The ceremony\nof touching the lips to a copy of the Bible,\nused",
+      "classification": "subentry"
+    },
+    {
+      "term": "LAGE",
+      "matched_term": "LAGE DAY",
+      "body_length": 108,
+      "matched_body_length": 98,
+      "similarity": 0.94,
+      "current_type": "legacy_unresolved",
+      "body_preview": "LAGE DAY. In old English law. A\nlaw day; a time of open court; the day of\nthe co",
+      "classification": "subentry"
+    },
+    {
+      "term": "LAMBETH",
+      "matched_term": "LAMBETH DEGREE",
+      "body_length": 153,
+      "matched_body_length": 137,
+      "similarity": 0.91,
+      "current_type": "legacy_unresolved",
+      "body_preview": "LAMBETH DEGREE. In English law.\nA degree conferred by the Archbishop of\nCanterbu",
+      "classification": "subentry"
+    },
+    {
+      "term": "LATA",
+      "matched_term": "LATA CULPA",
+      "body_length": 216,
+      "matched_body_length": 204,
+      "similarity": 0.9,
+      "current_type": "legacy_unresolved",
+      "body_preview": "LATA CULPA. Lat. In the law of bailment. Gross fault or neglect; extreme neglige",
+      "classification": "subentry"
+    },
+    {
+      "term": "LAUS",
+      "matched_term": "LAUS DEO",
+      "body_length": 70,
+      "matched_body_length": 61,
+      "similarity": 0.89,
+      "current_type": "legacy_unresolved",
+      "body_preview": "LAUS DEO. Lat. Praise be to God. An\n\neld heading to bills of exchange.",
+      "classification": "subentry"
+    },
+    {
+      "term": "LAVOR",
+      "matched_term": "LAVOR NUEVA",
+      "body_length": 76,
+      "matched_body_length": 63,
+      "similarity": 0.87,
+      "current_type": "legacy_unresolved",
+      "body_preview": "LAVOR NUEVA. In Spanish law. A\nnew work. Las Partidas, pt. 3, tit. 32, 1. 1.",
+      "classification": "subentry"
+    },
+    {
+      "term": "LEGANTINE",
+      "matched_term": "LEGANTINE CONSTITUTIONS",
+      "body_length": 229,
+      "matched_body_length": 203,
+      "similarity": 0.89,
+      "current_type": "legacy_unresolved",
+      "body_preview": "LEGANTINE CONSTITUTIONS. ‘The\nname of a code of ecclesiastical laws, enacted in ",
+      "classification": "subentry"
+    },
+    {
+      "term": "LEVARI",
+      "matched_term": "LEVARI FACIAS",
+      "body_length": 1136,
+      "matched_body_length": 1122,
+      "similarity": 0.93,
+      "current_type": "legacy_unresolved",
+      "body_preview": "LEVARI FACIAS. Lat. A writ of execution directing the sheriff to cause to be\nmad",
+      "classification": "subentry"
+    },
+    {
+      "term": "LEVITICAL",
+      "matched_term": "LEVITICAL DEGREES",
+      "body_length": 142,
+      "matched_body_length": 123,
+      "similarity": 0.9,
+      "current_type": "legacy_unresolved",
+      "body_preview": "LEVITICAL DEGREES. Degrees of\nkindred within which persons are prohibited\nto mar",
+      "classification": "subentry"
+    },
+    {
+      "term": "LIBRATA",
+      "matched_term": "LIBRATA TERRA",
+      "body_length": 186,
+      "matched_body_length": 171,
+      "similarity": 0.9,
+      "current_type": "legacy_unresolved",
+      "body_preview": "LIBRATA TERRZ. A portion of ground\ncontaining four oxgangs, and every oxgang\nfou",
+      "classification": "subentry"
+    },
+    {
+      "term": "LIQUIDATING",
+      "matched_term": "LIQUIDATING PARTNER",
+      "body_length": 213,
+      "matched_body_length": 192,
+      "similarity": 0.94,
+      "current_type": "legacy_unresolved",
+      "body_preview": "LIQUIDATING PARTNER. The partner who upon the dissolution or insolvency\nof the f",
+      "classification": "subentry"
+    },
+    {
+      "term": "LUCID",
+      "matched_term": "LUCID INTERVALS",
+      "body_length": 374,
+      "matched_body_length": 356,
+      "similarity": 0.92,
+      "current_type": "legacy_unresolved",
+      "body_preview": "LUCID INTERVALS. In medical jurisprudence. Intervals occurring in the mental lif",
+      "classification": "subentry"
+    },
+    {
+      "term": "LUCRA",
+      "matched_term": "LUCRA NUPTIALIA",
+      "body_length": 412,
+      "matched_body_length": 397,
+      "similarity": 0.93,
+      "current_type": "legacy_unresolved",
+      "body_preview": "LUCRA NUPTIALIA. Lat. In Roman\nlaw. <A term including everything which a\nhusband",
+      "classification": "subentry"
+    },
+    {
+      "term": "LUMPING",
+      "matched_term": "LUMPING SALE",
+      "body_length": 301,
+      "matched_body_length": 287,
+      "similarity": 0.92,
+      "current_type": "legacy_unresolved",
+      "body_preview": "LUMPING SALE. As applied to judicial\nSales, this term means a sale in mass, as\n\n",
+      "classification": "subentry"
+    },
+    {
+      "term": "LYON",
+      "matched_term": "LYON KING OF ARMS",
+      "body_length": 300,
+      "matched_body_length": 279,
+      "similarity": 0.88,
+      "current_type": "legacy_unresolved",
+      "body_preview": "LYON KING OF ARMS. In Scotch law.\n\n‘The ancient duty of this officer was to car\n",
+      "classification": "subentry"
+    },
+    {
+      "term": "MAD",
+      "matched_term": "MAD POINT",
+      "body_length": 219,
+      "matched_body_length": 196,
+      "similarity": 0.86,
+      "current_type": "legacy_unresolved",
+      "body_preview": "MAD. POINT\n\nMAD POINT. A term used to designate\nthe idea or subject to which is ",
+      "classification": "subentry"
+    },
+    {
+      "term": "MADRAS",
+      "matched_term": "MADRAS REGULATIONS",
+      "body_length": 118,
+      "matched_body_length": 93,
+      "similarity": 0.86,
+      "current_type": "legacy_unresolved",
+      "body_preview": "MADRAS REGULATIONS. Certain\nregulations prescribed for the government of\nthe Mad",
+      "classification": "subentry"
+    },
+    {
+      "term": "MARGINAL",
+      "matched_term": "MARGINAL NOTE",
+      "body_length": 391,
+      "matched_body_length": 375,
+      "similarity": 0.94,
+      "current_type": "legacy_unresolved",
+      "body_preview": "MARGINAL NOTE. In Scotch law. A\nnote inserted on the margin of a deed, embodying",
+      "classification": "subentry"
+    },
+    {
+      "term": "MARTIAL",
+      "matched_term": "MARTIAL LAW",
+      "body_length": 2636,
+      "matched_body_length": 2472,
+      "similarity": 0.9,
+      "current_type": "legacy_unresolved",
+      "body_preview": "MARTIAL LAW\n\nprison. The St. 5 & 6 Vict. c 22, abolished\nthis office, and substi",
+      "classification": "subentry"
+    },
+    {
+      "term": "MATERNA",
+      "matched_term": "MATERNA MATERNIS",
+      "body_length": 171,
+      "matched_body_length": 156,
+      "similarity": 0.88,
+      "current_type": "legacy_unresolved",
+      "body_preview": "MATERNA MATERNIS. Lat. A maxim of the French law, signifying that property of a ",
+      "classification": "subentry"
+    },
+    {
+      "term": "MEASURING",
+      "matched_term": "MEASURING MONEY",
+      "body_length": 153,
+      "matched_body_length": 135,
+      "similarity": 0.88,
+      "current_type": "legacy_unresolved",
+      "body_preview": "MEASURING MONEY. In old English\nlaw. <A duty which some persons exacted,\nby lett",
+      "classification": "subentry"
+    },
+    {
+      "term": "MEDITATIO",
+      "matched_term": "MEDITATIO FUGI",
+      "body_length": 98,
+      "matched_body_length": 82,
+      "similarity": 0.88,
+      "current_type": "legacy_unresolved",
+      "body_preview": "MEDITATIO FUGZ. In Scotch law.\nContemplation of flight; intention to abscond. 2 ",
+      "classification": "subentry"
+    },
+    {
+      "term": "MINISTRI",
+      "matched_term": "MINISTRI REGIS",
+      "body_length": 177,
+      "matched_body_length": 161,
+      "similarity": 0.92,
+      "current_type": "legacy_unresolved",
+      "body_preview": "MINISTRI REGIS. Lat. In old English law. Ministers of the king, applied to\nthe j",
+      "classification": "subentry"
+    },
+    {
+      "term": "MONITORY",
+      "matched_term": "MONITORY LETTERS",
+      "body_length": 170,
+      "matched_body_length": 152,
+      "similarity": 0.91,
+      "current_type": "legacy_unresolved",
+      "body_preview": "MONITORY LETTERS. Communica:\ntions of warning and admonition sent from\nan eccles",
+      "classification": "subentry"
+    },
+    {
+      "term": "MORTUUM",
+      "matched_term": "MORTUUM VADIUM",
+      "body_length": 162,
+      "matched_body_length": 136,
+      "similarity": 0.88,
+      "current_type": "legacy_unresolved",
+      "body_preview": "MORTUUM VADIUM. A dead pledge;\na mortgage, (g. v.;) a pledge where the profits\n\n",
+      "classification": "subentry"
+    },
+    {
+      "term": "MOTU",
+      "matched_term": "MOTU PROPRIO",
+      "body_length": 95,
+      "matched_body_length": 212,
+      "similarity": 0.87,
+      "current_type": "legacy_unresolved",
+      "body_preview": "MOTU PROPRIO. Lat. Of his own\nmotion. The commencing words of a certain\nkind of ",
+      "classification": "subentry"
+    },
+    {
+      "term": "NARROW",
+      "matched_term": "NARROW SEAS",
+      "body_length": 131,
+      "matched_body_length": 117,
+      "similarity": 0.86,
+      "current_type": "legacy_unresolved",
+      "body_preview": "NARROW SEAS. ‘Those seas which run\nbetween two coasts not far apart. The term\nis",
+      "classification": "subentry"
+    },
+    {
+      "term": "NEGLIGENT",
+      "matched_term": "NEGLIGENT ESCAPE",
+      "body_length": 326,
+      "matched_body_length": 306,
+      "similarity": 0.9,
+      "current_type": "legacy_unresolved",
+      "body_preview": "NEGLIGENT ESCAPE. An escape from\nconfinement effected by the prisoner without\nth",
+      "classification": "subentry"
+    },
+    {
+      "term": "NEMINE",
+      "matched_term": "NEMINE CONTRADICENTE",
+      "body_length": 331,
+      "matched_body_length": 309,
+      "similarity": 0.89,
+      "current_type": "legacy_unresolved",
+      "body_preview": "NEMINE CONTRADICENTE. Lat. No\none dissenting; no one voting in the negative. A p",
+      "classification": "subentry"
+    },
+    {
+      "term": "NIGER",
+      "matched_term": "NIGER LIBER",
+      "body_length": 98,
+      "matched_body_length": 85,
+      "similarity": 0.86,
+      "current_type": "legacy_unresolved",
+      "body_preview": "NIGER LIBER. The black book or register in the exchequer; chartularies of abbeys",
+      "classification": "subentry"
+    },
+    {
+      "term": "NON-ISSUABLE",
+      "matched_term": "NON-ISSUABLE PLEAS",
+      "body_length": 155,
+      "matched_body_length": 134,
+      "similarity": 0.92,
+      "current_type": "legacy_unresolved",
+      "body_preview": "NON-ISSUABLE PLEAS. Those upon\nwhich a decision would not determine the\n\naction ",
+      "classification": "subentry"
+    },
+    {
+      "term": "NUNC",
+      "matched_term": "NUNC PRO TUNC",
+      "body_length": 273,
+      "matched_body_length": 707,
+      "similarity": 0.85,
+      "current_type": "legacy_unresolved",
+      "body_preview": "NUNC PRO TUNC. Lat. Now for then.\nA phrase applied to acts allowed to be done\naf",
+      "classification": "subentry"
+    },
+    {
+      "term": "NUNCUPATIVE",
+      "matched_term": "NUNCUPATIVE WILL",
+      "body_length": 248,
+      "matched_body_length": 410,
+      "similarity": 0.95,
+      "current_type": "legacy_unresolved",
+      "body_preview": "NUNCUPATIVE WILL. A will which\ndepends merely upon oral evidence, having\nbeen de",
+      "classification": "subentry"
+    },
+    {
+      "term": "OBTORTO",
+      "matched_term": "OBTORTO COLLO",
+      "body_length": 147,
+      "matched_body_length": 132,
+      "similarity": 0.92,
+      "current_type": "legacy_unresolved",
+      "body_preview": "OBTORTO COLLO. In Roman law.\nTaking by the neck or collar; as a plaintiff\nwas al",
+      "classification": "subentry"
+    },
+    {
+      "term": "ONERANDO",
+      "matched_term": "ONERANDO PRO RATA PORTIONIS",
+      "body_length": 174,
+      "matched_body_length": 145,
+      "similarity": 0.87,
+      "current_type": "legacy_unresolved",
+      "body_preview": "ONERANDO PRO RATA PORTIONIS.\nA writ that lay for a joint tenant or tenant\nin com",
+      "classification": "subentry"
+    },
+    {
+      "term": "PACKED",
+      "matched_term": "PACKED PARCELS",
+      "body_length": 438,
+      "matched_body_length": 423,
+      "similarity": 0.91,
+      "current_type": "legacy_unresolved",
+      "body_preview": "PACKED PARCELS. The name for a\nconsignment of goods, consisting of one large\npar",
+      "classification": "subentry"
+    },
+    {
+      "term": "PARATUM",
+      "matched_term": "PARATUM HABEO",
+      "body_length": 175,
+      "matched_body_length": 160,
+      "similarity": 0.93,
+      "current_type": "legacy_unresolved",
+      "body_preview": "PARATUM HABEO. Lat. I have him\nin readiness. The return by the sheriff to a\ncapi",
+      "classification": "subentry"
+    },
+    {
+      "term": "PARCO",
+      "matched_term": "PARCO FRAOCTO",
+      "body_length": 107,
+      "matched_body_length": 92,
+      "similarity": 0.88,
+      "current_type": "legacy_unresolved",
+      "body_preview": "PARCO FRAOCTO. Pound-breach; also\nthe name of an old English writ against one\nch",
+      "classification": "subentry"
+    },
+    {
+      "term": "PARVUM",
+      "matched_term": "PARVUM CAPE",
+      "body_length": 97,
+      "matched_body_length": 72,
+      "similarity": 0.86,
+      "current_type": "legacy_unresolved",
+      "body_preview": "PARVUM CAPE\n\nPARVUM CAPE. See Petit Cape.\n\n' PAS. In French. Precedence; right o",
+      "classification": "subentry"
+    },
+    {
+      "term": "POSTED",
+      "matched_term": "POSTED WATERS",
+      "body_length": 395,
+      "matched_body_length": 380,
+      "similarity": 0.94,
+      "current_type": "legacy_unresolved",
+      "body_preview": "POSTED WATERS. In Vermont. Waters flowing through or lying upon inclosed\nor cult",
+      "classification": "subentry"
+    },
+    {
+      "term": "PROVING",
+      "matched_term": "PROVING OF THE TENOR",
+      "body_length": 95,
+      "matched_body_length": 73,
+      "similarity": 0.93,
+      "current_type": "legacy_unresolved",
+      "body_preview": "PROVING OF THE TENOR. In Scotch\npractice. An action for proving the tenor of\na l",
+      "classification": "subentry"
+    },
+    {
+      "term": "QUARTA",
+      "matched_term": "QUARTA DIVI PII",
+      "body_length": 450,
+      "matched_body_length": 1785,
+      "similarity": 0.92,
+      "current_type": "legacy_unresolved",
+      "body_preview": "QUARTA DIVI PII. In Roman law.\nThat portion of a testator’s estate which he\nwas ",
+      "classification": "subentry"
+    },
+    {
+      "term": "QUINTO",
+      "matched_term": "QUINTO EXACTUS",
+      "body_length": 289,
+      "matched_body_length": 274,
+      "similarity": 0.93,
+      "current_type": "legacy_unresolved",
+      "body_preview": "QUINTO EXACTUS. In old practice.\nCalled or exacted the fifth time. A return\nmade",
+      "classification": "subentry"
+    },
+    {
+      "term": "RATAM",
+      "matched_term": "RATAM REM HABERE",
+      "body_length": 113,
+      "matched_body_length": 95,
+      "similarity": 0.87,
+      "current_type": "legacy_unresolved",
+      "body_preview": "RATAM REM HABERE. Lat. In the\ncivil law. To hold a thing ratified; to rati-_\nfy ",
+      "classification": "subentry"
+    },
+    {
+      "term": "RATIONABILI",
+      "matched_term": "RATIONABILI PARTE BONORUM",
+      "body_length": 209,
+      "matched_body_length": 182,
+      "similarity": 0.91,
+      "current_type": "legacy_unresolved",
+      "body_preview": "RATIONABILI PARTE BONORUM.\nA writ that lay for the wife against the executors of",
+      "classification": "subentry"
+    },
+    {
+      "term": "RATIONALIBUS",
+      "matched_term": "RATIONALIBUS DIVISIS",
+      "body_length": 269,
+      "matched_body_length": 247,
+      "similarity": 0.95,
+      "current_type": "legacy_unresolved",
+      "body_preview": "RATIONALIBUS DIVISIS. An abolished writ which lay where two lords, in\ndivers tow",
+      "classification": "subentry"
+    },
+    {
+      "term": "REBUTTABLE",
+      "matched_term": "REBUTTABLE PRESUMPTION",
+      "body_length": 245,
+      "matched_body_length": 220,
+      "similarity": 0.91,
+      "current_type": "legacy_unresolved",
+      "body_preview": "REBUTTABLE PRESUMPTION. In\nthe law of evidence. A presumption which\nmay be rebut",
+      "classification": "subentry"
+    },
+    {
+      "term": "REFERENDO",
+      "matched_term": "REFERENDO SINGULA SINGULIS",
+      "body_length": 176,
+      "matched_body_length": 148,
+      "similarity": 0.86,
+      "current_type": "legacy_unresolved",
+      "body_preview": "REFERENDO SINGULA SINGULIS.\nLat. Referring individual or separate words\nto separ",
+      "classification": "subentry"
+    },
+    {
+      "term": "RIGGING",
+      "matched_term": "RIGGING THE MARKET",
+      "body_length": 265,
+      "matched_body_length": 245,
+      "similarity": 0.92,
+      "current_type": "legacy_unresolved",
+      "body_preview": "RIGGING THE MARKET. A term of\nthe stock-exchange, denoting the practice of\ninfla",
+      "classification": "subentry"
+    },
+    {
+      "term": "RUNRIG",
+      "matched_term": "RUNRIG LANDS",
+      "body_length": 348,
+      "matched_body_length": 334,
+      "similarity": 0.93,
+      "current_type": "legacy_unresolved",
+      "body_preview": "RUNRIG LANDS. Lands in Scotland\nwhere the ridges of a field belong alternatively",
+      "classification": "subentry"
+    },
+    {
+      "term": "SALIC",
+      "matched_term": "SALIC LAW",
+      "body_length": 565,
+      "matched_body_length": 929,
+      "similarity": 0.87,
+      "current_type": "legacy_unresolved",
+      "body_preview": "SALIC LAW. A hody of law framed by\nthe Salian Franks, after their settlement in\n",
+      "classification": "subentry"
+    },
+    {
+      "term": "SATISFIED",
+      "matched_term": "SATISFIED TERM",
+      "body_length": 1021,
+      "matched_body_length": 992,
+      "similarity": 0.9,
+      "current_type": "legacy_unresolved",
+      "body_preview": "SATISFIED TERM\n\nSATISFIED TERM. A term of years\n\nin land is thus called when the",
+      "classification": "subentry"
+    },
+    {
+      "term": "SCEPPA",
+      "matched_term": "SCEPPA SALIS",
+      "body_length": 90,
+      "matched_body_length": 160,
+      "similarity": 0.87,
+      "current_type": "legacy_unresolved",
+      "body_preview": "SCEPPA SALIS. An ancient measure\nof salt, the quantity of which is now not\nknown",
+      "classification": "subentry"
+    },
+    {
+      "term": "SELECT",
+      "matched_term": "SELECT COUNCIL",
+      "body_length": 296,
+      "matched_body_length": 280,
+      "similarity": 0.89,
+      "current_type": "legacy_unresolved",
+      "body_preview": "SELECT COUNCIL. The name given,\nin some states, to the upper house or branch\nof ",
+      "classification": "subentry"
+    },
+    {
+      "term": "SENILE",
+      "matched_term": "SENILE DEMENTIA",
+      "body_length": 400,
+      "matched_body_length": 353,
+      "similarity": 0.89,
+      "current_type": "legacy_unresolved",
+      "body_preview": "SENILE DEMENTIA. That peculiar decay of the mental faculties which occurs in\next",
+      "classification": "subentry"
+    },
+    {
+      "term": "SEQUESTRO",
+      "matched_term": "SEQUESTRO HABENDO",
+      "body_length": 460,
+      "matched_body_length": 441,
+      "similarity": 0.93,
+      "current_type": "legacy_unresolved",
+      "body_preview": "SEQUESTRO HABENDO. In English\necclesiastical law. A judicial writ for the\ndischa",
+      "classification": "subentry"
+    },
+    {
+      "term": "SERPENT-VENOM",
+      "matched_term": "SERPENT-VENOM REACTION",
+      "body_length": 272,
+      "matched_body_length": 248,
+      "similarity": 0.91,
+      "current_type": "legacy_unresolved",
+      "body_preview": "SERPENT-VENOM REACTION. A test\nfor insanity by means of the breaking up of\nthe r",
+      "classification": "subentry"
+    },
+    {
+      "term": "SERVITIIS",
+      "matched_term": "SERVITIIS ACQUIETANDIS",
+      "body_length": 186,
+      "matched_body_length": 150,
+      "similarity": 0.89,
+      "current_type": "legacy_unresolved",
+      "body_preview": "SERVITIIS ACQUIETANDIS. A judicial writ for a man distrained for services\nto one",
+      "classification": "subentry"
+    },
+    {
+      "term": "SEXTUS",
+      "matched_term": "SEXTUS DECRETALIUM",
+      "body_length": 320,
+      "matched_body_length": 343,
+      "similarity": 0.89,
+      "current_type": "legacy_unresolved",
+      "body_preview": "SEXTUS DECRETALIUM. Iat. The\nsixth (book) of the decretals; the sext, or\nsixth d",
+      "classification": "subentry"
+    },
+    {
+      "term": "SHARPING",
+      "matched_term": "SHARPING CORN",
+      "body_length": 184,
+      "matched_body_length": 169,
+      "similarity": 0.93,
+      "current_type": "legacy_unresolved",
+      "body_preview": "SHARPING CORN. A customary gift\nof corn, which, at every Christmas, the farmers ",
+      "classification": "subentry"
+    },
+    {
+      "term": "SITIO",
+      "matched_term": "SITIO GANADO MAYOR",
+      "body_length": 342,
+      "matched_body_length": 320,
+      "similarity": 0.91,
+      "current_type": "legacy_unresolved",
+      "body_preview": "SITIO GANADO MAYOR. S§p._ In\nSpanish and Mexican land law, a tract of\nland in th",
+      "classification": "subentry"
+    },
+    {
+      "term": "SIX-DAY",
+      "matched_term": "SIX-DAY LICENSE",
+      "body_length": 253,
+      "matched_body_length": 236,
+      "similarity": 0.89,
+      "current_type": "legacy_unresolved",
+      "body_preview": "SIX-DAY LICENSE. In English law.\nA liquor license, containing a condition that\nt",
+      "classification": "subentry"
+    },
+    {
+      "term": "SNOTTERING",
+      "matched_term": "SNOTTERING SILVER",
+      "body_length": 111,
+      "matched_body_length": 92,
+      "similarity": 0.89,
+      "current_type": "legacy_unresolved",
+      "body_preview": "SNOTTERING SILVER. A small duty\nwhich was paid by servile tenants in Wylegh to t",
+      "classification": "subentry"
+    },
+    {
+      "term": "SOLD",
+      "matched_term": "SOLD NOTE",
+      "body_length": 188,
+      "matched_body_length": 188,
+      "similarity": 0.91,
+      "current_type": "legacy_unresolved",
+      "body_preview": "SOLD NOTE. A note given by a broker,\nwho has effected a sale of merchandise, to\n",
+      "classification": "subentry"
+    },
+    {
+      "term": "SOUL",
+      "matched_term": "SOUL SCOT",
+      "body_length": 244,
+      "matched_body_length": 233,
+      "similarity": 0.95,
+      "current_type": "legacy_unresolved",
+      "body_preview": "SOUL SCOT. A mortuary, or customary\ngift due ministers, in many parishes of Engl",
+      "classification": "subentry"
+    },
+    {
+      "term": "SPIRITUALITIES",
+      "matched_term": "SPIRITUALITIES OF A BISHOP",
+      "body_length": 403,
+      "matched_body_length": 373,
+      "similarity": 0.91,
+      "current_type": "legacy_unresolved",
+      "body_preview": "SPIRITUALITIES OF A _ BISHOP.\nThose profits which a bishop receives in his\neccle",
+      "classification": "subentry"
+    },
+    {
+      "term": "SPIRITUOUS",
+      "matched_term": "SPIRITUOUS LIQUORS",
+      "body_length": 614,
+      "matched_body_length": 693,
+      "similarity": 0.92,
+      "current_type": "legacy_unresolved",
+      "body_preview": "SPIRITUOUS LIQUORS. These are inflammable liquids produced by distillation,\nand ",
+      "classification": "subentry"
+    },
+    {
+      "term": "STET",
+      "matched_term": "STET PROCESSUS",
+      "body_length": 80,
+      "matched_body_length": 451,
+      "similarity": 0.93,
+      "current_type": "legacy_unresolved",
+      "body_preview": "STET PROCESSUS. Stet processus is.\nan entry on the roll in the nature of a judg-",
+      "classification": "subentry"
+    },
+    {
+      "term": "STOP",
+      "matched_term": "STOP ORDER",
+      "body_length": 158,
+      "matched_body_length": 155,
+      "similarity": 0.87,
+      "current_type": "legacy_unresolved",
+      "body_preview": "STOP ORDER. The name of an order\ngrantable in English chancery practice, to\nprev",
+      "classification": "subentry"
+    },
+    {
+      "term": "SUA",
+      "matched_term": "SUA SPONTE",
+      "body_length": 96,
+      "matched_body_length": 84,
+      "similarity": 0.86,
+      "current_type": "legacy_unresolved",
+      "body_preview": "SUA SPONTE. Lat. Of his or its own\nwill or motion; voluntarily; without promptin",
+      "classification": "subentry"
+    },
+    {
+      "term": "SUGGESTIO",
+      "matched_term": "SUGGESTIO FALSI",
+      "body_length": 284,
+      "matched_body_length": 267,
+      "similarity": 0.92,
+      "current_type": "legacy_unresolved",
+      "body_preview": "SUGGESTIO FALSI. Lat. Suggestion\nor representation of that which is false;\nfalse",
+      "classification": "subentry"
+    },
+    {
+      "term": "SUUM",
+      "matched_term": "SUUM CUIIQUE TRIBUERE",
+      "body_length": 299,
+      "matched_body_length": 280,
+      "similarity": 0.86,
+      "current_type": "legacy_unresolved",
+      "body_preview": "SUUM OUIQUE TRIBUERE. Lat. To\nrender to every one his own. One of the\nthree fund",
+      "classification": "subentry"
+    },
+    {
+      "term": "SWEARING",
+      "matched_term": "SWEARING THE PEACE",
+      "body_length": 284,
+      "matched_body_length": 255,
+      "similarity": 0.95,
+      "current_type": "legacy_unresolved",
+      "body_preview": "SWEARING THE PEACE. Showing to\na magistrate that one has just cause to be\nafraid",
+      "classification": "subentry"
+    },
+    {
+      "term": "SWIET",
+      "matched_term": "SWIET WITNESS",
+      "body_length": 214,
+      "matched_body_length": 199,
+      "similarity": 0.9,
+      "current_type": "legacy_unresolved",
+      "body_preview": "SWIET WITNESS. A term colloquially\napplied to a witness who is unduly zealous\nor",
+      "classification": "subentry"
+    },
+    {
+      "term": "SWOLING",
+      "matched_term": "SWOLING OF LAND",
+      "body_length": 87,
+      "matched_body_length": 70,
+      "similarity": 0.88,
+      "current_type": "legacy_unresolved",
+      "body_preview": "SWOLING OF LAND. So much land\nas one’s plow can till in a year; a hide of\nland. ",
+      "classification": "subentry"
+    },
+    {
+      "term": "TAM",
+      "matched_term": "TAM QUAM",
+      "body_length": 385,
+      "matched_body_length": 376,
+      "similarity": 0.94,
+      "current_type": "legacy_unresolved",
+      "body_preview": "TAM QUAM. A phrase used as the name\nof a writ of error from inferfor courts, whe",
+      "classification": "subentry"
+    },
+    {
+      "term": "TINSEL",
+      "matched_term": "TINSEL OF THE FEU",
+      "body_length": 126,
+      "matched_body_length": 109,
+      "similarity": 0.9,
+      "current_type": "legacy_unresolved",
+      "body_preview": "TINSEL OF THE FEU. In Scotch law.\nThe loss of the feu, from allowing two years\no",
+      "classification": "subentry"
+    },
+    {
+      "term": "TOUCHING",
+      "matched_term": "TOUCHING A DEAD BODY",
+      "body_length": 270,
+      "matched_body_length": 248,
+      "similarity": 0.88,
+      "current_type": "legacy_unresolved",
+      "body_preview": "TOUCHING A DEAD BODY. It was\nan ancient superstition that the body of a\nmurdered",
+      "classification": "subentry"
+    },
+    {
+      "term": "TRADITURIN",
+      "matched_term": "TRADITURIN BALLIUM",
+      "body_length": 116,
+      "matched_body_length": 95,
+      "similarity": 0.89,
+      "current_type": "legacy_unresolved",
+      "body_preview": "TRADITURIN BALLIUM. Inold prac\n\ntice. Is delivered to bail. Emphatic words\nof th",
+      "classification": "subentry"
+    },
+    {
+      "term": "TROPHY",
+      "matched_term": "TROPHY MONEY",
+      "body_length": 161,
+      "matched_body_length": 147,
+      "similarity": 0.86,
+      "current_type": "legacy_unresolved",
+      "body_preview": "TROPHY MONEY. Money formerly collected and raised in London. and the several cou",
+      "classification": "subentry"
+    },
+    {
+      "term": "TUTELAM",
+      "matched_term": "TUTELAM REDDERE",
+      "body_length": 135,
+      "matched_body_length": 1140,
+      "similarity": 0.88,
+      "current_type": "legacy_unresolved",
+      "body_preview": "TUTELAM REDDERE. l[at. In the\ncivil law. To render an account of tutelage.\nCalvi",
+      "classification": "subentry"
+    },
+    {
+      "term": "TWELVE",
+      "matched_term": "TWELVE TABLES",
+      "body_length": 636,
+      "matched_body_length": 619,
+      "similarity": 0.95,
+      "current_type": "legacy_unresolved",
+      "body_preview": "TWELVE TABLES. The earliest statute or code of Roman law, framed by a commission",
+      "classification": "subentry"
+    },
+    {
+      "term": "TWELVE-DAY",
+      "matched_term": "TWELVE-DAY WRIT",
+      "body_length": 176,
+      "matched_body_length": 314,
+      "similarity": 0.9,
+      "current_type": "legacy_unresolved",
+      "body_preview": "TWELVE-DAY WRIT. A writ issued\n\nunder the St. 18 & 19 Vict. c. 67, for summary p",
+      "classification": "subentry"
+    },
+    {
+      "term": "UNASCERTAINED",
+      "matched_term": "UNASCERTAINED DUTIES",
+      "body_length": 343,
+      "matched_body_length": 322,
+      "similarity": 0.94,
+      "current_type": "legacy_unresolved",
+      "body_preview": "UNASCERTAINED DUTIES. Payment\nin gross, on an estimate as to amount, and\nwhere t",
+      "classification": "subentry"
+    },
+    {
+      "term": "UNAVOIDABLE",
+      "matched_term": "UNAVOIDABLE ACCIDENT",
+      "body_length": 118,
+      "matched_body_length": 310,
+      "similarity": 0.88,
+      "current_type": "legacy_unresolved",
+      "body_preview": "UNAVOIDABLE ACCIDENT. Not necessarily an accident which it was physically\nimposs",
+      "classification": "subentry"
+    },
+    {
+      "term": "UNNATURAL",
+      "matched_term": "UNNATURAL OFFENSE",
+      "body_length": 182,
+      "matched_body_length": 163,
+      "similarity": 0.89,
+      "current_type": "legacy_unresolved",
+      "body_preview": "UNNATURAL OFFENSE. The infamous crime against nature; (é. €., sodomy or\nbuggery.",
+      "classification": "subentry"
+    },
+    {
+      "term": "UNSOLEMN",
+      "matched_term": "UNSOLEMN WAR",
+      "body_length": 171,
+      "matched_body_length": 366,
+      "similarity": 0.88,
+      "current_type": "legacy_unresolved",
+      "body_preview": "UNSOLEMN WAR. War denounced\nwithout a declaration; war made not upon\ngeneral but",
+      "classification": "subentry"
+    },
+    {
+      "term": "UNWRITTEN",
+      "matched_term": "UNWRITTEN LAW",
+      "body_length": 933,
+      "matched_body_length": 917,
+      "similarity": 0.95,
+      "current_type": "legacy_unresolved",
+      "body_preview": "UNWRITTEN LAW. All that portion\nof the law, observed and administered in\nthe cou",
+      "classification": "subentry"
+    },
+    {
+      "term": "UPLIFTED",
+      "matched_term": "UPLIFTED HAND",
+      "body_length": 130,
+      "matched_body_length": 115,
+      "similarity": 0.89,
+      "current_type": "legacy_unresolved",
+      "body_preview": "UPLIFTED HAND. The hand raised\ntowards the heavens, in one of the forms of\ntakin",
+      "classification": "subentry"
+    },
+    {
+      "term": "UPSET",
+      "matched_term": "UPSET PRICE",
+      "body_length": 169,
+      "matched_body_length": 143,
+      "similarity": 0.93,
+      "current_type": "legacy_unresolved",
+      "body_preview": "UPSET PRICE\n\nUPSET PRICE. In sales by auctions, an\namount for which property to ",
+      "classification": "subentry"
+    },
+    {
+      "term": "VALUABLE",
+      "matched_term": "VALUABLE CONSIDERATION",
+      "body_length": 773,
+      "matched_body_length": 673,
+      "similarity": 0.89,
+      "current_type": "legacy_unresolved",
+      "body_preview": "VALUABLE CONSIDERATION\n\nthe mother, that a man was a Welshman.\nWharton.\n\nVALUABL",
+      "classification": "subentry"
+    },
+    {
+      "term": "VIAGERE",
+      "matched_term": "VIAGERE RENTE",
+      "body_length": 93,
+      "matched_body_length": 78,
+      "similarity": 0.87,
+      "current_type": "legacy_unresolved",
+      "body_preview": "VIAGERE RENTE. In French law. A\nrent-charge or annuity payable for the life of\nt",
+      "classification": "subentry"
+    },
+    {
+      "term": "VIDUA",
+      "matched_term": "VIDUA REGIS",
+      "body_length": 297,
+      "matched_body_length": 282,
+      "similarity": 0.91,
+      "current_type": "legacy_unresolved",
+      "body_preview": "VIDUA REGIS. Lat. In old English\nlaw. <A king’s widow. The widow of a tenant in ",
+      "classification": "subentry"
+    },
+    {
+      "term": "VILLENOUS",
+      "matched_term": "VILLENOUS JUDGMENT",
+      "body_length": 674,
+      "matched_body_length": 652,
+      "similarity": 0.92,
+      "current_type": "legacy_unresolved",
+      "body_preview": "VILLENOUS JUDGMENT. A judgment which deprived one of his Iibera ler,\nwhereby he ",
+      "classification": "subentry"
+    },
+    {
+      "term": "VITIOUS",
+      "matched_term": "VITIOUS INTROMISSION",
+      "body_length": 244,
+      "matched_body_length": 296,
+      "similarity": 0.94,
+      "current_type": "legacy_unresolved",
+      "body_preview": "VITIOUS INTROMISSION. In Scotch\nlaw. An unwarrantable intermeddling with\nthe mov",
+      "classification": "subentry"
+    },
+    {
+      "term": "VITIUM",
+      "matched_term": "VITIUM CLERICI",
+      "body_length": 545,
+      "matched_body_length": 405,
+      "similarity": 0.85,
+      "current_type": "legacy_unresolved",
+      "body_preview": "VITIUM CLERICI. In old English law.\nThe mistake of a clerk; a clerical error.\n\nV",
+      "classification": "subentry"
+    },
+    {
+      "term": "WILLS",
+      "matched_term": "WILLS ACT",
+      "body_length": 796,
+      "matched_body_length": 782,
+      "similarity": 0.91,
+      "current_type": "legacy_unresolved",
+      "body_preview": "WILLS ACT. InEngland. 1. The statute 32 Hen. VIII. c. 1, passed in 1540, by\nwhic",
+      "classification": "subentry"
+    }
+  ],
+  "duplicates": [
+    {
+      "term": "AMALPHITAN",
+      "matched_term": "AMALPHITAN CODE",
+      "body_length": 321,
+      "matched_body_length": 304,
+      "similarity": 0.95,
+      "current_type": "legacy_unresolved",
+      "body_preview": "AMALPHITAN CODE. A collection of\nsea-laws, compiled about the end of the\nelevent",
+      "classification": "duplicate"
+    },
+    {
+      "term": "ARM",
+      "matched_term": "ARM OF THE SEA",
+      "body_length": 436,
+      "matched_body_length": 421,
+      "similarity": 0.96,
+      "current_type": "legacy_unresolved",
+      "body_preview": "ARM OF THE SEA. A portion of the\nsea projetting inland, in which the tide ebbs\na",
+      "classification": "duplicate"
+    },
+    {
+      "term": "BANS",
+      "matched_term": "BANS OF MATRIMONY",
+      "body_length": 468,
+      "matched_body_length": 449,
+      "similarity": 0.98,
+      "current_type": "legacy_unresolved",
+      "body_preview": "BANS OF MATRIMONY. A public announcement of an intended marriage, required by th",
+      "classification": "duplicate"
+    },
+    {
+      "term": "CAPITIS",
+      "matched_term": "CAPITIS DIMINUTIO",
+      "body_length": 1169,
+      "matched_body_length": 1150,
+      "similarity": 0.97,
+      "current_type": "legacy_unresolved",
+      "body_preview": "CAPITIS DIMINUTIO. In Roman law.\nA diminishing or abridgment of personality.\nThi",
+      "classification": "duplicate"
+    },
+    {
+      "term": "CHILTERN",
+      "matched_term": "CHILTERN HUNDREDS",
+      "body_length": 847,
+      "matched_body_length": 829,
+      "similarity": 0.97,
+      "current_type": "legacy_unresolved",
+      "body_preview": "CHILTERN HUNDREDS. In English\nlaw. The stewardship of the Chiltern Hundreds is a",
+      "classification": "duplicate"
+    },
+    {
+      "term": "COAT",
+      "matched_term": "COAT ARMOR",
+      "body_length": 375,
+      "matched_body_length": 363,
+      "similarity": 0.96,
+      "current_type": "legacy_unresolved",
+      "body_preview": "COAT ARMOR. Heraldic ensigns, introduced by Richard I. from the Holy Land,\nwhere",
+      "classification": "duplicate"
+    },
+    {
+      "term": "COMMISSORIA",
+      "matched_term": "COMMISSORIA LEX",
+      "body_length": 578,
+      "matched_body_length": 561,
+      "similarity": 0.96,
+      "current_type": "legacy_unresolved",
+      "body_preview": "COMMISSORIA LEX. In Roman law.\nA clause which might be inserted in an\nagreement ",
+      "classification": "duplicate"
+    },
+    {
+      "term": "CONE",
+      "matched_term": "CONE AND KEY",
+      "body_length": 322,
+      "matched_body_length": 308,
+      "similarity": 0.96,
+      "current_type": "legacy_unresolved",
+      "body_preview": "CONE AND KEY. In old English law.\nA woman at fourteen or fifteen years of age\nma",
+      "classification": "duplicate"
+    },
+    {
+      "term": "CONSENSUAL",
+      "matched_term": "CONSENSUAL CONTRACT",
+      "body_length": 843,
+      "matched_body_length": 984,
+      "similarity": 0.95,
+      "current_type": "legacy_unresolved",
+      "body_preview": "CONSENSUAL CONTRACT. A term\n\nderived from the civil law, denoting a contract fou",
+      "classification": "duplicate"
+    },
+    {
+      "term": "CONTESTATIO",
+      "matched_term": "CONTESTATIO LITIS",
+      "body_length": 620,
+      "matched_body_length": 600,
+      "similarity": 0.97,
+      "current_type": "legacy_unresolved",
+      "body_preview": "CONTESTATIO LITIS. In Roman\nlaw. Contestation of suit; the framing an\nissue; joi",
+      "classification": "duplicate"
+    },
+    {
+      "term": "FUGAM",
+      "matched_term": "FUGAM FECIT",
+      "body_length": 306,
+      "matched_body_length": 293,
+      "similarity": 0.96,
+      "current_type": "legacy_unresolved",
+      "body_preview": "FUGAM FECIT. Lat. He has made\nflight; he fled. A clause inserted in an inquisiti",
+      "classification": "duplicate"
+    },
+    {
+      "term": "FUNCTUS",
+      "matched_term": "FUNCTUS OFFICIO",
+      "body_length": 400,
+      "matched_body_length": 383,
+      "similarity": 0.95,
+      "current_type": "legacy_unresolved",
+      "body_preview": "FUNCTUS OFFICIO. Lat. Having fulfilled the function, discharged the office, or\na",
+      "classification": "duplicate"
+    },
+    {
+      "term": "FUNGIBLE",
+      "matched_term": "FUNGIBLE THINGS",
+      "body_length": 989,
+      "matched_body_length": 970,
+      "similarity": 0.96,
+      "current_type": "legacy_unresolved",
+      "body_preview": "FUNGIBLE THINGS. Movable goods\nwhich may be estimated and replaced according to ",
+      "classification": "duplicate"
+    },
+    {
+      "term": "GRUB",
+      "matched_term": "GRUB STAKE",
+      "body_length": 614,
+      "matched_body_length": 598,
+      "similarity": 0.95,
+      "current_type": "legacy_unresolved",
+      "body_preview": "GRUB STAKE. In mining law. A contract between two parties by which one undertake",
+      "classification": "duplicate"
+    },
+    {
+      "term": "HEADRIGHT",
+      "matched_term": "HEADRIGHT CERTIFICATE",
+      "body_length": 653,
+      "matched_body_length": 630,
+      "similarity": 0.98,
+      "current_type": "legacy_unresolved",
+      "body_preview": "HEADRIGHT CERTIFICATE. In the\nlaws of the republic of Texas, a certificate\nissue",
+      "classification": "duplicate"
+    },
+    {
+      "term": "LEONINA",
+      "matched_term": "LEONINA SOCIETAS",
+      "body_length": 336,
+      "matched_body_length": 318,
+      "similarity": 0.96,
+      "current_type": "legacy_unresolved",
+      "body_preview": "LEONINA SOCIETAS. Lat. An attempted partnership, in which one party was\nto bear ",
+      "classification": "duplicate"
+    },
+    {
+      "term": "MANUFACTURING",
+      "matched_term": "MANUFACTURING CORPORATION",
+      "body_length": 435,
+      "matched_body_length": 407,
+      "similarity": 0.97,
+      "current_type": "legacy_unresolved",
+      "body_preview": "MANUFACTURING CORPORATION.\n\nA corporation engaged in the production of\n\nsome art",
+      "classification": "duplicate"
+    },
+    {
+      "term": "METAYER",
+      "matched_term": "METAYER SYSTEM",
+      "body_length": 504,
+      "matched_body_length": 491,
+      "similarity": 0.97,
+      "current_type": "legacy_unresolved",
+      "body_preview": "METAYER SYSTEM. A system of\nagricultural holdings, under which the land\nis divid",
+      "classification": "duplicate"
+    },
+    {
+      "term": "PLURIS",
+      "matched_term": "PLURIS PETITIO",
+      "body_length": 336,
+      "matched_body_length": 320,
+      "similarity": 0.95,
+      "current_type": "legacy_unresolved",
+      "body_preview": "PLURIS PETITIO. Lat. In Scotch\npractice. A demand of more than is due:\nBell.\n\nPl",
+      "classification": "duplicate"
+    },
+    {
+      "term": "RECLAMATION",
+      "matched_term": "RECLAMATION DISTRICT",
+      "body_length": 383,
+      "matched_body_length": 361,
+      "similarity": 0.96,
+      "current_type": "legacy_unresolved",
+      "body_preview": "RECLAMATION DISTRICT. A subdivision of a state created by legislative authority,",
+      "classification": "duplicate"
+    },
+    {
+      "term": "SEQUESTRARI",
+      "matched_term": "SEQUESTRARI FACIAS",
+      "body_length": 393,
+      "matched_body_length": 373,
+      "similarity": 0.96,
+      "current_type": "legacy_unresolved",
+      "body_preview": "SEQUESTRARI FACIAS. In English\necclesiastical practice. A process in the nature ",
+      "classification": "duplicate"
+    },
+    {
+      "term": "SOURCES",
+      "matched_term": "SOURCES OF THE LAW",
+      "body_length": 611,
+      "matched_body_length": 591,
+      "similarity": 0.95,
+      "current_type": "legacy_unresolved",
+      "body_preview": "SOURCES OF THE LAW. The origins\nfrom which particular positive laws derive\ntheir",
+      "classification": "duplicate"
+    },
+    {
+      "term": "SPLITTING",
+      "matched_term": "SPLITTING A CAUSE OF ACTION",
+      "body_length": 311,
+      "matched_body_length": 282,
+      "similarity": 0.98,
+      "current_type": "legacy_unresolved",
+      "body_preview": "SPLITTING A CAUSE OF ACTION.\nDividing a single cause of action, claim, or\ndemand",
+      "classification": "duplicate"
+    },
+    {
+      "term": "SUBSCRIBING",
+      "matched_term": "SUBSCRIBING WITNESS",
+      "body_length": 342,
+      "matched_body_length": 321,
+      "similarity": 0.95,
+      "current_type": "legacy_unresolved",
+      "body_preview": "SUBSCRIBING WITNESS. He who\nwitnesses or attests the signature of a party\nto an ",
+      "classification": "duplicate"
+    },
+    {
+      "term": "SUSPICIOUS",
+      "matched_term": "SUSPICIOUS CHARACTER",
+      "body_length": 610,
+      "matched_body_length": 566,
+      "similarity": 0.95,
+      "current_type": "legacy_unresolved",
+      "body_preview": "SUSPICIOUS CHARACTER\n\nSUSPICIOUS CHARACTER. In the\ncriminal laws of some of the ",
+      "classification": "duplicate"
+    },
+    {
+      "term": "VESTING",
+      "matched_term": "VESTING ORDER",
+      "body_length": 291,
+      "matched_body_length": 276,
+      "similarity": 0.95,
+      "current_type": "legacy_unresolved",
+      "body_preview": "VESTING ORDER. In English law. An\norder which may be granted by the chancery\ndiv",
+      "classification": "duplicate"
+    }
+  ],
+  "no_body": []
+}

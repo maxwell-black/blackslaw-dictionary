@@ -4819,7 +4819,7 @@
     "id": "BLD2-00389",
     "index": 389,
     "term": "ADOPTIVE",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -4827,7 +4827,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "ADOPTIVE ACT"
   },
   {
     "id": "BLD2-00390",
@@ -6569,7 +6570,7 @@
     "id": "BLD2-00528",
     "index": 528,
     "term": "AGGRAVATED",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -6577,7 +6578,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "AGGRAVATED ASSAULT"
   },
   {
     "id": "BLD2-00529",
@@ -7007,7 +7009,7 @@
     "id": "BLD2-00563",
     "index": 563,
     "term": "AGRICULTURAL",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -7015,7 +7017,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "AGRICULTURAL LIEN"
   },
   {
     "id": "BLD2-00564",
@@ -7302,7 +7305,7 @@
     "id": "BLD2-00586",
     "index": 586,
     "term": "ALARM",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -7310,7 +7313,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "ALARM LIST"
   },
   {
     "id": "BLD2-00587",
@@ -7416,7 +7420,7 @@
     "id": "BLD2-00595",
     "index": 595,
     "term": "ALBUM",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -7424,7 +7428,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "ALBUM BREVE"
   },
   {
     "id": "BLD2-00596",
@@ -7444,7 +7449,7 @@
     "id": "BLD2-00597",
     "index": 597,
     "term": "ALBUS",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -7452,7 +7457,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "ALBUS LIBER"
   },
   {
     "id": "BLD2-00598",
@@ -7930,7 +7936,7 @@
     "id": "BLD2-00635",
     "index": 635,
     "term": "ALIO",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -7938,7 +7944,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "ALIO INTUITU"
   },
   {
     "id": "BLD2-00636",
@@ -8182,7 +8189,7 @@
     "id": "BLD2-00655",
     "index": 655,
     "term": "ALLOCATIONE",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -8190,7 +8197,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "ALLOCATIONE FACIENDA"
   },
   {
     "id": "BLD2-00656",
@@ -8810,7 +8818,7 @@
     "id": "BLD2-00704",
     "index": 704,
     "term": "AMALPHITAN",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -8818,7 +8826,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "AMALPHITAN CODE"
   },
   {
     "id": "BLD2-00705",
@@ -9695,7 +9704,7 @@
     "id": "BLD2-00774",
     "index": 774,
     "term": "ANCIPITIS",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -9703,7 +9712,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "ANCIPITIS USUS"
   },
   {
     "id": "BLD2-00775",
@@ -10187,7 +10197,7 @@
     "id": "BLD2-00813",
     "index": 813,
     "term": "ANNUA",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -10195,7 +10205,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "ANNUA PENSIONE"
   },
   {
     "id": "BLD2-00814",
@@ -11685,7 +11696,7 @@
     "id": "BLD2-00930",
     "index": 930,
     "term": "APPROBATE",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -11693,7 +11704,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "APPROBATE AND REPROBATE"
   },
   {
     "id": "BLD2-00931",
@@ -11896,7 +11908,7 @@
     "id": "BLD2-00947",
     "index": 947,
     "term": "APTA",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -11904,7 +11916,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "APTA VIBRO"
   },
   {
     "id": "BLD2-00948",
@@ -11924,7 +11937,7 @@
     "id": "BLD2-00949",
     "index": 949,
     "term": "APUD",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -11932,7 +11945,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "APUD ACTA"
   },
   {
     "id": "BLD2-00950",
@@ -12850,7 +12864,7 @@
     "id": "BLD2-01021",
     "index": 1021,
     "term": "ARM",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -12858,7 +12872,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "ARM OF THE SEA"
   },
   {
     "id": "BLD2-01022",
@@ -12888,7 +12903,7 @@
     "id": "BLD2-01024",
     "index": 1024,
     "term": "ARMATA",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -12896,7 +12911,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "ARMATA VIS"
   },
   {
     "id": "BLD2-01025",
@@ -12963,7 +12979,7 @@
     "id": "BLD2-01030",
     "index": 1030,
     "term": "ARMORIAL",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -12971,7 +12987,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "ARMORIAL BEARINGS"
   },
   {
     "id": "BLD2-01031",
@@ -13359,7 +13376,7 @@
     "id": "BLD2-01061",
     "index": 1061,
     "term": "ARRIAGE",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -13367,7 +13384,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "ARRIAGE AND CARRIAGE"
   },
   {
     "id": "BLD2-01062",
@@ -13385,7 +13403,7 @@
     "id": "BLD2-01063",
     "index": 1063,
     "term": "ARRIER",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -13393,7 +13411,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "ARRIER BAN"
   },
   {
     "id": "BLD2-01064",
@@ -13616,7 +13635,7 @@
     "id": "BLD2-01081",
     "index": 1081,
     "term": "ARTICLED",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -13624,7 +13643,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "ARTICLED CLERK"
   },
   {
     "id": "BLD2-01082",
@@ -14474,7 +14494,7 @@
     "id": "BLD2-01150",
     "index": 1150,
     "term": "ASSOCIE",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -14482,7 +14502,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "ASSOCIE EN NOM"
   },
   {
     "id": "BLD2-01151",
@@ -14707,7 +14728,7 @@
     "id": "BLD2-01168",
     "index": 1168,
     "term": "ASTRICTION",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -14715,7 +14736,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "ASTRICTION TO A MILL"
   },
   {
     "id": "BLD2-01169",
@@ -15481,7 +15503,7 @@
     "id": "BLD2-01229",
     "index": 1229,
     "term": "AUDITA",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -15489,7 +15511,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "AUDITA QUERELA"
   },
   {
     "id": "BLD2-01230",
@@ -16386,7 +16409,7 @@
     "id": "BLD2-01300",
     "index": 1300,
     "term": "AWAY-GOING",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -16394,7 +16417,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "AWAY-GOING CROP"
   },
   {
     "id": "BLD2-01301",
@@ -17228,7 +17252,7 @@
     "id": "BLD2-01366",
     "index": 1366,
     "term": "BALLIVO",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -17236,7 +17260,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "BALLIVO AMOVENDO"
   },
   {
     "id": "BLD2-01367",
@@ -17366,7 +17391,7 @@
     "id": "BLD2-01377",
     "index": 1377,
     "term": "BANCI",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -17374,7 +17399,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "BANCI NARRATORES"
   },
   {
     "id": "BLD2-01378",
@@ -17532,7 +17558,7 @@
     "id": "BLD2-01390",
     "index": 1390,
     "term": "BANKRUPT",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -17540,7 +17566,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "BANKRUPT LAW"
   },
   {
     "id": "BLD2-01391",
@@ -17675,7 +17702,7 @@
     "id": "BLD2-01401",
     "index": 1401,
     "term": "BANS",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -17683,7 +17710,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "BANS OF MATRIMONY"
   },
   {
     "id": "BLD2-01402",
@@ -18216,7 +18244,7 @@
     "id": "BLD2-01444",
     "index": 1444,
     "term": "BASKET",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -18224,7 +18252,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "BASKET TENURE"
   },
   {
     "id": "BLD2-01445",
@@ -18242,7 +18271,7 @@
     "id": "BLD2-01446",
     "index": 1446,
     "term": "BASSE",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -18250,7 +18279,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "BASSE JUSTICE"
   },
   {
     "id": "BLD2-01447",
@@ -19241,7 +19271,7 @@
     "id": "BLD2-01525",
     "index": 1525,
     "term": "BEST",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -19249,7 +19279,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "BEST EVIDENCE"
   },
   {
     "id": "BLD2-01526",
@@ -19802,7 +19833,7 @@
     "id": "BLD2-01569",
     "index": 1569,
     "term": "BISANTIUM",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -19810,7 +19841,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "BISANTIUM BISANTIUM, BESANTINE, BEZANT"
   },
   {
     "id": "BLD2-01570",
@@ -20171,7 +20203,7 @@
     "id": "BLD2-01597",
     "index": 1597,
     "term": "BLANCH",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -20179,7 +20211,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "BLANCH HOLDING"
   },
   {
     "id": "BLD2-01598",
@@ -20854,7 +20887,7 @@
     "id": "BLD2-01650",
     "index": 1650,
     "term": "BONI",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -20862,7 +20895,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "BONI HOMINES"
   },
   {
     "id": "BLD2-01651",
@@ -21700,7 +21734,7 @@
     "id": "BLD2-01715",
     "index": 1715,
     "term": "BOVATA",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -21708,7 +21742,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "BOVATA TERRA"
   },
   {
     "id": "BLD2-01716",
@@ -21960,7 +21995,7 @@
     "id": "BLD2-01735",
     "index": 1735,
     "term": "BREAST",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -21968,7 +22003,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "BREAST OF THE COURT"
   },
   {
     "id": "BLD2-01736",
@@ -22374,7 +22410,7 @@
     "id": "BLD2-01768",
     "index": 1768,
     "term": "BRING",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -22382,7 +22418,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "BRING SUIT"
   },
   {
     "id": "BLD2-01769",
@@ -22504,7 +22541,7 @@
     "id": "BLD2-01778",
     "index": 1778,
     "term": "BROKEN",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -22512,7 +22549,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "BROKEN STOWAGE"
   },
   {
     "id": "BLD2-01779",
@@ -23450,7 +23488,7 @@
     "id": "BLD2-01853",
     "index": 1853,
     "term": "BUTTED",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -23458,7 +23496,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "BUTTED AND BOUNDED"
   },
   {
     "id": "BLD2-01854",
@@ -25069,7 +25108,7 @@
     "id": "BLD2-01979",
     "index": 1979,
     "term": "CAPITIS",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -25077,7 +25116,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "CAPITIS DIMINUTIO"
   },
   {
     "id": "BLD2-01980",
@@ -25588,7 +25628,7 @@
     "id": "BLD2-02020",
     "index": 2020,
     "term": "CARLISLE",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -25596,7 +25636,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "CARLISLE TABLES"
   },
   {
     "id": "BLD2-02021",
@@ -27491,7 +27532,7 @@
     "id": "BLD2-02168",
     "index": 2168,
     "term": "CERA",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -27499,7 +27540,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "CERA IMPRESSA"
   },
   {
     "id": "BLD2-02169",
@@ -29259,7 +29301,7 @@
     "id": "BLD2-02305",
     "index": 2305,
     "term": "CHILTERN",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -29267,7 +29309,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "CHILTERN HUNDREDS"
   },
   {
     "id": "BLD2-02306",
@@ -29900,7 +29943,7 @@
     "id": "BLD2-02354",
     "index": 2354,
     "term": "CIRCULAR",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -29908,7 +29951,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "CIRCULAR NOTES"
   },
   {
     "id": "BLD2-02355",
@@ -29962,7 +30006,7 @@
     "id": "BLD2-02359",
     "index": 2359,
     "term": "CIRCUMSTANTIAL",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -29970,7 +30014,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "CIRCUMSTANTIAL EVIDENCE"
   },
   {
     "id": "BLD2-02360",
@@ -31370,7 +31415,7 @@
     "id": "BLD2-02466",
     "index": 2466,
     "term": "COAT",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -31378,7 +31423,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "COAT ARMOR"
   },
   {
     "id": "BLD2-02467",
@@ -31396,7 +31442,7 @@
     "id": "BLD2-02468",
     "index": 2468,
     "term": "COBRA-VENOM",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -31404,7 +31450,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "COBRA-VENOM REACTION"
   },
   {
     "id": "BLD2-02469",
@@ -31678,7 +31725,7 @@
     "id": "BLD2-02490",
     "index": 2490,
     "term": "COGNITIONIBUS",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -31686,7 +31733,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "COGNITIONIBUS MITTENDIS"
   },
   {
     "id": "BLD2-02491",
@@ -31704,7 +31752,7 @@
     "id": "BLD2-02492",
     "index": 2492,
     "term": "COGNITIONIS",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -31712,7 +31760,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "COGNITIONIS CAUSA"
   },
   {
     "id": "BLD2-02493",
@@ -33070,7 +33119,7 @@
     "id": "BLD2-02597",
     "index": 2597,
     "term": "COMMISSORIA",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -33078,7 +33127,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "COMMISSORIA LEX"
   },
   {
     "id": "BLD2-02598",
@@ -34236,7 +34286,7 @@
     "id": "BLD2-02688",
     "index": 2688,
     "term": "COMPTE",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -34244,7 +34294,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "COMPTE ARRESTE"
   },
   {
     "id": "BLD2-02689",
@@ -35159,7 +35210,7 @@
     "id": "BLD2-02759",
     "index": 2759,
     "term": "CONE",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -35167,7 +35218,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "CONE AND KEY"
   },
   {
     "id": "BLD2-02760",
@@ -36250,7 +36302,7 @@
     "id": "BLD2-02845",
     "index": 2845,
     "term": "CONSEILS",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -36258,7 +36310,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "CONSEILS DE PRUD'HOMMES"
   },
   {
     "id": "BLD2-02846",
@@ -36278,7 +36331,7 @@
     "id": "BLD2-02847",
     "index": 2847,
     "term": "CONSENSUAL",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -36286,7 +36339,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "CONSENSUAL CONTRACT"
   },
   {
     "id": "BLD2-02848",
@@ -37186,7 +37240,7 @@
     "id": "BLD2-02918",
     "index": 2918,
     "term": "CONTAGIOUS",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -37194,7 +37248,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "CONTAGIOUS DISEASE"
   },
   {
     "id": "BLD2-02919",
@@ -37361,7 +37416,7 @@
     "id": "BLD2-02932",
     "index": 2932,
     "term": "CONTESTATIO",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -37369,7 +37424,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "CONTESTATIO LITIS"
   },
   {
     "id": "BLD2-02933",
@@ -38537,7 +38593,7 @@
     "id": "BLD2-03024",
     "index": 3024,
     "term": "COOLING",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -38545,7 +38601,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "COOLING TIME"
   },
   {
     "id": "BLD2-03025",
@@ -39018,7 +39075,7 @@
     "id": "BLD2-03062",
     "index": 3062,
     "term": "CORONATION",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -39026,7 +39083,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "CORONATION OATH"
   },
   {
     "id": "BLD2-03063",
@@ -39442,7 +39500,7 @@
     "id": "BLD2-03095",
     "index": 3095,
     "term": "COSA",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -39450,7 +39508,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "COSA JUZGADA"
   },
   {
     "id": "BLD2-03096",
@@ -39468,7 +39527,7 @@
     "id": "BLD2-03097",
     "index": 3097,
     "term": "COSAS",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -39476,7 +39535,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "COSAS COMUNES"
   },
   {
     "id": "BLD2-03098",
@@ -40459,7 +40519,7 @@
     "id": "BLD2-03174",
     "index": 3174,
     "term": "COVENTRY",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -40467,7 +40527,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "COVENTRY ACT"
   },
   {
     "id": "BLD2-03175",
@@ -40485,7 +40546,7 @@
     "id": "BLD2-03176",
     "index": 3176,
     "term": "COVER",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -40493,7 +40554,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "COVER INTO"
   },
   {
     "id": "BLD2-03177",
@@ -41953,7 +42015,7 @@
     "id": "BLD2-03290",
     "index": 3290,
     "term": "CUSTODIAM",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -41961,7 +42023,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "CUSTODIAM LEASE"
   },
   {
     "id": "BLD2-03291",
@@ -43650,7 +43713,7 @@
     "id": "BLD2-03417",
     "index": 3417,
     "term": "DEAF",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -43658,7 +43721,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "DEAF AND DUMB"
   },
   {
     "id": "BLD2-03418",
@@ -44907,7 +44971,7 @@
     "id": "BLD2-03511",
     "index": 3511,
     "term": "DECLINATORY",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -44915,7 +44979,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "DECLINATORY PLEA"
   },
   {
     "id": "BLD2-03512",
@@ -48723,7 +48788,7 @@
     "id": "BLD2-03809",
     "index": 3809,
     "term": "DIEI",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -48731,7 +48796,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "DIEI DICTIO"
   },
   {
     "id": "BLD2-03810",
@@ -50411,7 +50477,7 @@
     "id": "BLD2-03940",
     "index": 3940,
     "term": "DISPOSSESS",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -50419,7 +50485,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "DISPOSSESS PROCEEDINGS"
   },
   {
     "id": "BLD2-03941",
@@ -50475,7 +50542,7 @@
     "id": "BLD2-03945",
     "index": 3945,
     "term": "DISPUTATIO",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -50483,7 +50550,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "DISPUTATIO FORI"
   },
   {
     "id": "BLD2-03946",
@@ -50740,7 +50808,7 @@
     "id": "BLD2-03966",
     "index": 3966,
     "term": "DISSOLVING",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -50748,7 +50816,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "DISSOLVING BOND"
   },
   {
     "id": "BLD2-03967",
@@ -51118,7 +51187,7 @@
     "id": "BLD2-03996",
     "index": 3996,
     "term": "DIVERSITE",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -51126,7 +51195,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "DIVERSITE DES COURTS"
   },
   {
     "id": "BLD2-03997",
@@ -52651,7 +52721,7 @@
     "id": "BLD2-04116",
     "index": 4116,
     "term": "DOZEN",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -52659,7 +52729,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "DOZEN PEERS"
   },
   {
     "id": "BLD2-04117",
@@ -53768,7 +53839,7 @@
     "id": "BLD2-04203",
     "index": 4203,
     "term": "DUPLICATUM",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -53776,7 +53847,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "DUPLICATUM JUS"
   },
   {
     "id": "BLD2-04204",
@@ -55584,7 +55656,7 @@
     "id": "BLD2-04343",
     "index": 4343,
     "term": "EJUSDEM",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -55592,7 +55664,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "EJUSDEM GENERIS"
   },
   {
     "id": "BLD2-04344",
@@ -56172,7 +56245,7 @@
     "id": "BLD2-04389",
     "index": 4389,
     "term": "EMBER",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -56180,7 +56253,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "EMBER DAYS"
   },
   {
     "id": "BLD2-04390",
@@ -56211,7 +56285,7 @@
     "id": "BLD2-04392",
     "index": 4392,
     "term": "EMBLEMATA",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -56219,7 +56293,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "EMBLEMATA TRIBONIANI"
   },
   {
     "id": "BLD2-04393",
@@ -59281,7 +59356,7 @@
     "id": "BLD2-04634",
     "index": 4634,
     "term": "ESSENDI",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -59289,7 +59364,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "ESSENDI QUIETUM DE TOLONIO"
   },
   {
     "id": "BLD2-04635",
@@ -60516,7 +60592,7 @@
     "id": "BLD2-04730",
     "index": 4730,
     "term": "EXAMINED",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -60524,7 +60600,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "EXAMINED COPY"
   },
   {
     "id": "BLD2-04731",
@@ -60882,7 +60959,7 @@
     "id": "BLD2-04758",
     "index": 4758,
     "term": "EXCOMMUNIOCATO",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -60890,7 +60967,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "EXCOMMUNIOCATO RECAPIENDO"
   },
   {
     "id": "BLD2-04759",
@@ -61361,7 +61439,7 @@
     "id": "BLD2-04794",
     "index": 4794,
     "term": "EXERCITOR",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -61369,7 +61447,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "EXERCITOR NAVIS"
   },
   {
     "id": "BLD2-04795",
@@ -61456,7 +61535,7 @@
     "id": "BLD2-04801",
     "index": 4801,
     "term": "EXETER",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -61464,7 +61543,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "EXETER DOMESDAY"
   },
   {
     "id": "BLD2-04802",
@@ -63918,7 +63998,7 @@
     "id": "BLD2-04991",
     "index": 4991,
     "term": "FALL",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -63926,7 +64006,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "FALL OF LAND"
   },
   {
     "id": "BLD2-04992",
@@ -64064,7 +64145,7 @@
     "id": "BLD2-05002",
     "index": 5002,
     "term": "FALSI",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -64072,7 +64153,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "FALSI CRIMEN"
   },
   {
     "id": "BLD2-05003",
@@ -66124,7 +66206,7 @@
     "id": "BLD2-05162",
     "index": 5162,
     "term": "FESTA",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -66132,7 +66214,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "FESTA IN CAPPIS"
   },
   {
     "id": "BLD2-05163",
@@ -66176,7 +66259,7 @@
     "id": "BLD2-05166",
     "index": 5166,
     "term": "FESTINUM",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -66184,7 +66267,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "FESTINUM REMEDIUM"
   },
   {
     "id": "BLD2-05167",
@@ -67642,7 +67726,7 @@
     "id": "BLD2-05281",
     "index": 5281,
     "term": "FIVE-MILE",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -67650,7 +67734,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "FIVE-MILE ACT"
   },
   {
     "id": "BLD2-05282",
@@ -68017,7 +68102,7 @@
     "id": "BLD2-05310",
     "index": 5310,
     "term": "FLORENTINE",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -68025,7 +68110,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "FLORENTINE PANDECTS"
   },
   {
     "id": "BLD2-05311",
@@ -68113,7 +68199,7 @@
     "id": "BLD2-05317",
     "index": 5317,
     "term": "FLOWING",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -68121,7 +68207,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "FLOWING LANDS"
   },
   {
     "id": "BLD2-05318",
@@ -68218,7 +68305,7 @@
     "id": "BLD2-05325",
     "index": 5325,
     "term": "FLY",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -68226,7 +68313,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "FLY FOR IT"
   },
   {
     "id": "BLD2-05326",
@@ -70229,7 +70317,7 @@
     "id": "BLD2-05482",
     "index": 5482,
     "term": "FORTY-DAYS",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -70237,7 +70325,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "FORTY-DAYS COURT"
   },
   {
     "id": "BLD2-05483",
@@ -72390,7 +72479,7 @@
     "id": "BLD2-05647",
     "index": 5647,
     "term": "FUGAM",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -72398,7 +72487,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "FUGAM FECIT"
   },
   {
     "id": "BLD2-05648",
@@ -72585,7 +72675,7 @@
     "id": "BLD2-05662",
     "index": 5662,
     "term": "FUNCTUS",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -72593,7 +72683,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "FUNCTUS OFFICIO"
   },
   {
     "id": "BLD2-05663",
@@ -72772,7 +72863,7 @@
     "id": "BLD2-05676",
     "index": 5676,
     "term": "FUNGIBLE",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -72780,7 +72871,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "FUNGIBLE THINGS"
   },
   {
     "id": "BLD2-05677",
@@ -73025,7 +73117,7 @@
     "id": "BLD2-05696",
     "index": 5696,
     "term": "FUTURE",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -73033,7 +73125,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "FUTURE DEBT"
   },
   {
     "id": "BLD2-05697",
@@ -76741,7 +76834,7 @@
     "id": "BLD2-05989",
     "index": 5989,
     "term": "GROWING",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -76749,7 +76842,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "GROWING CROP"
   },
   {
     "id": "BLD2-05990",
@@ -76796,7 +76890,7 @@
     "id": "BLD2-05993",
     "index": 5993,
     "term": "GRUB",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -76804,7 +76898,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "GRUB STAKE"
   },
   {
     "id": "BLD2-05994",
@@ -77540,7 +77635,7 @@
     "id": "BLD2-06050",
     "index": 6050,
     "term": "HABENTES",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -77548,7 +77643,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "HABENTES HOMINES"
   },
   {
     "id": "BLD2-06051",
@@ -77706,7 +77802,7 @@
     "id": "BLD2-06063",
     "index": 6063,
     "term": "HABITABLE",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -77714,7 +77810,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "HABITABLE REPAIR"
   },
   {
     "id": "BLD2-06064",
@@ -79287,7 +79384,7 @@
     "id": "BLD2-06186",
     "index": 6186,
     "term": "HEADRIGHT",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -79295,7 +79392,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "HEADRIGHT CERTIFICATE"
   },
   {
     "id": "BLD2-06187",
@@ -81666,7 +81764,7 @@
     "id": "BLD2-06371",
     "index": 6371,
     "term": "HOLY",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -81674,7 +81772,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "HOLY ORDERS"
   },
   {
     "id": "BLD2-06372",
@@ -83063,7 +83162,7 @@
     "id": "BLD2-06481",
     "index": 6481,
     "term": "HUNG",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -83071,7 +83170,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "HUNG JURY"
   },
   {
     "id": "BLD2-06482",
@@ -84607,7 +84707,7 @@
     "id": "BLD2-06601",
     "index": 6601,
     "term": "IMMINENT",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -84615,7 +84715,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "IMMINENT DANGER"
   },
   {
     "id": "BLD2-06602",
@@ -85271,7 +85372,7 @@
     "id": "BLD2-06654",
     "index": 6654,
     "term": "IMPOSSIBLE",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -85279,7 +85380,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "IMPOSSIBLE CONTRACTS"
   },
   {
     "id": "BLD2-06655",
@@ -85841,7 +85943,7 @@
     "id": "BLD2-06699",
     "index": 6699,
     "term": "INBOUND",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -85849,7 +85951,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "INBOUND COMMON"
   },
   {
     "id": "BLD2-06700",
@@ -87558,7 +87661,7 @@
     "id": "BLD2-06834",
     "index": 6834,
     "term": "INFENSARE",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -87566,7 +87669,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "INFENSARE CURIAM"
   },
   {
     "id": "BLD2-06835",
@@ -88253,7 +88357,7 @@
     "id": "BLD2-06888",
     "index": 6888,
     "term": "INHUMAN",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -88261,7 +88365,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "INHUMAN TREATMENT"
   },
   {
     "id": "BLD2-06889",
@@ -88917,7 +89022,7 @@
     "id": "BLD2-06940",
     "index": 6940,
     "term": "INOPS",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -88925,7 +89030,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "INOPS CONSILI"
   },
   {
     "id": "BLD2-06941",
@@ -89764,7 +89870,7 @@
     "id": "BLD2-07005",
     "index": 7005,
     "term": "INSTITORIAL",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -89772,7 +89878,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "INSTITORIAL POWER"
   },
   {
     "id": "BLD2-07006",
@@ -90359,7 +90466,7 @@
     "id": "BLD2-07052",
     "index": 7052,
     "term": "INTERDICTUM",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -90367,7 +90474,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "INTERDICTUM SALVIANUM"
   },
   {
     "id": "BLD2-07053",
@@ -90565,7 +90673,7 @@
     "id": "BLD2-07068",
     "index": 7068,
     "term": "INTERMIXTURE",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -90573,7 +90681,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "INTERMIXTURE OF GOODS"
   },
   {
     "id": "BLD2-07069",
@@ -92768,7 +92877,7 @@
     "id": "BLD2-07239",
     "index": 7239,
     "term": "JOCUS",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -92776,7 +92885,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "JOCUS PARTITUS"
   },
   {
     "id": "BLD2-07240",
@@ -92794,7 +92904,7 @@
     "id": "BLD2-07241",
     "index": 7241,
     "term": "JOHN",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -92802,7 +92912,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "JOHN DOE"
   },
   {
     "id": "BLD2-07242",
@@ -93140,7 +93251,7 @@
     "id": "BLD2-07268",
     "index": 7268,
     "term": "JUDICATORES",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -93148,7 +93259,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "JUDICATORES TERRARUM"
   },
   {
     "id": "BLD2-07269",
@@ -93685,7 +93797,7 @@
     "id": "BLD2-07310",
     "index": 7310,
     "term": "JURATORY",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -93693,7 +93805,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "JURATORY CAUTION"
   },
   {
     "id": "BLD2-07311",
@@ -94558,7 +94671,7 @@
     "id": "BLD2-07378",
     "index": 7378,
     "term": "KEELHALE",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -94566,7 +94679,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "KEELHALE KEELHALE, KEELHAUL"
   },
   {
     "id": "BLD2-07379",
@@ -95060,7 +95174,7 @@
     "id": "BLD2-07417",
     "index": 7417,
     "term": "KISSING",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -95068,7 +95182,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "KISSING THE BOOK"
   },
   {
     "id": "BLD2-07418",
@@ -95950,7 +96065,7 @@
     "id": "BLD2-07484",
     "index": 7484,
     "term": "LAGE",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -95958,7 +96073,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "LAGE DAY"
   },
   {
     "id": "BLD2-07485",
@@ -96177,7 +96293,7 @@
     "id": "BLD2-07502",
     "index": 7502,
     "term": "LAMBETH",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -96185,7 +96301,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "LAMBETH DEGREE"
   },
   {
     "id": "BLD2-07503",
@@ -96843,7 +96960,7 @@
     "id": "BLD2-07554",
     "index": 7554,
     "term": "LATA",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -96851,7 +96968,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "LATA CULPA"
   },
   {
     "id": "BLD2-07555",
@@ -97354,7 +97472,7 @@
     "id": "BLD2-07594",
     "index": 7594,
     "term": "LAUS",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -97362,7 +97480,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "LAUS DEO"
   },
   {
     "id": "BLD2-07595",
@@ -97392,7 +97511,7 @@
     "id": "BLD2-07597",
     "index": 7597,
     "term": "LAVOR",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -97400,7 +97519,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "LAVOR NUEVA"
   },
   {
     "id": "BLD2-07598",
@@ -98065,7 +98185,7 @@
     "id": "BLD2-07650",
     "index": 7650,
     "term": "LEGANTINE",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -98073,7 +98193,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "LEGANTINE CONSTITUTIONS"
   },
   {
     "id": "BLD2-07651",
@@ -98600,7 +98721,7 @@
     "id": "BLD2-07692",
     "index": 7692,
     "term": "LEONINA",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -98608,7 +98729,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "LEONINA SOCIETAS"
   },
   {
     "id": "BLD2-07693",
@@ -98960,7 +99082,7 @@
     "id": "BLD2-07720",
     "index": 7720,
     "term": "LEVARI",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -98968,7 +99090,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "LEVARI FACIAS"
   },
   {
     "id": "BLD2-07721",
@@ -99061,7 +99184,7 @@
     "id": "BLD2-07728",
     "index": 7728,
     "term": "LEVITICAL",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -99069,7 +99192,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "LEVITICAL DEGREES"
   },
   {
     "id": "BLD2-07729",
@@ -99556,7 +99680,7 @@
     "id": "BLD2-07766",
     "index": 7766,
     "term": "LIBRATA",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -99564,7 +99688,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "LIBRATA TERRA"
   },
   {
     "id": "BLD2-07767",
@@ -100516,7 +100641,7 @@
     "id": "BLD2-07842",
     "index": 7842,
     "term": "LIQUIDATING",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -100524,7 +100649,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "LIQUIDATING PARTNER"
   },
   {
     "id": "BLD2-07843",
@@ -101789,7 +101915,7 @@
     "id": "BLD2-07942",
     "index": 7942,
     "term": "LUCID",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -101797,7 +101923,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "LUCID INTERVALS"
   },
   {
     "id": "BLD2-07943",
@@ -101815,7 +101942,7 @@
     "id": "BLD2-07944",
     "index": 7944,
     "term": "LUCRA",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -101823,7 +101950,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "LUCRA NUPTIALIA"
   },
   {
     "id": "BLD2-07945",
@@ -102008,7 +102136,7 @@
     "id": "BLD2-07959",
     "index": 7959,
     "term": "LUMPING",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -102016,7 +102144,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "LUMPING SALE"
   },
   {
     "id": "BLD2-07960",
@@ -102204,7 +102333,7 @@
     "id": "BLD2-07974",
     "index": 7974,
     "term": "LYON",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -102212,7 +102341,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "LYON KING OF ARMS"
   },
   {
     "id": "BLD2-07975",
@@ -102490,7 +102620,7 @@
     "id": "BLD2-07996",
     "index": 7996,
     "term": "MAD",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -102498,7 +102628,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "MAD POINT"
   },
   {
     "id": "BLD2-07997",
@@ -102542,7 +102673,7 @@
     "id": "BLD2-08000",
     "index": 8000,
     "term": "MADRAS",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -102550,7 +102681,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "MADRAS REGULATIONS"
   },
   {
     "id": "BLD2-08001",
@@ -104563,7 +104695,7 @@
     "id": "BLD2-08158",
     "index": 8158,
     "term": "MANUFACTURING",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -104571,7 +104703,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "MANUFACTURING CORPORATION"
   },
   {
     "id": "BLD2-08159",
@@ -104986,7 +105119,7 @@
     "id": "BLD2-08191",
     "index": 8191,
     "term": "MARGINAL",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -104994,7 +105127,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "MARGINAL NOTE"
   },
   {
     "id": "BLD2-08192",
@@ -105398,7 +105532,7 @@
     "id": "BLD2-08223",
     "index": 8223,
     "term": "MARTIAL",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -105406,7 +105540,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "MARTIAL LAW"
   },
   {
     "id": "BLD2-08224",
@@ -105609,7 +105744,7 @@
     "id": "BLD2-08240",
     "index": 8240,
     "term": "MATERNA",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -105617,7 +105752,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "MATERNA MATERNIS"
   },
   {
     "id": "BLD2-08241",
@@ -106058,7 +106194,7 @@
     "id": "BLD2-08276",
     "index": 8276,
     "term": "MEASURING",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -106066,7 +106202,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "MEASURING MONEY"
   },
   {
     "id": "BLD2-08277",
@@ -106369,7 +106506,7 @@
     "id": "BLD2-08300",
     "index": 8300,
     "term": "MEDITATIO",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -106377,7 +106514,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "MEDITATIO FUGI"
   },
   {
     "id": "BLD2-08301",
@@ -107747,7 +107885,7 @@
     "id": "BLD2-08406",
     "index": 8406,
     "term": "METAYER",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -107755,7 +107893,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "METAYER SYSTEM"
   },
   {
     "id": "BLD2-08407",
@@ -108483,7 +108622,7 @@
     "id": "BLD2-08463",
     "index": 8463,
     "term": "MINISTRI",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -108491,7 +108630,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "MINISTRI REGIS"
   },
   {
     "id": "BLD2-08464",
@@ -109961,7 +110101,7 @@
     "id": "BLD2-08579",
     "index": 8579,
     "term": "MONITORY",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -109969,7 +110109,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "MONITORY LETTERS"
   },
   {
     "id": "BLD2-08580",
@@ -110683,7 +110824,7 @@
     "id": "BLD2-08634",
     "index": 8634,
     "term": "MORTUUM",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -110691,7 +110832,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "MORTUUM VADIUM"
   },
   {
     "id": "BLD2-08635",
@@ -110811,7 +110953,7 @@
     "id": "BLD2-08644",
     "index": 8644,
     "term": "MOTU",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -110819,7 +110961,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "MOTU PROPRIO"
   },
   {
     "id": "BLD2-08645",
@@ -112188,7 +112331,7 @@
     "id": "BLD2-08750",
     "index": 8750,
     "term": "NARROW",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -112196,7 +112339,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "NARROW SEAS"
   },
   {
     "id": "BLD2-08751",
@@ -113158,7 +113302,7 @@
     "id": "BLD2-08826",
     "index": 8826,
     "term": "NEGLIGENT",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -113166,7 +113310,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "NEGLIGENT ESCAPE"
   },
   {
     "id": "BLD2-08827",
@@ -113337,7 +113482,7 @@
     "id": "BLD2-08840",
     "index": 8840,
     "term": "NEMINE",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -113345,7 +113490,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "NEMINE CONTRADICENTE"
   },
   {
     "id": "BLD2-08841",
@@ -113769,7 +113915,7 @@
     "id": "BLD2-08873",
     "index": 8873,
     "term": "NIGER",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -113777,7 +113923,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "NIGER LIBER"
   },
   {
     "id": "BLD2-08874",
@@ -114562,7 +114709,7 @@
     "id": "BLD2-08933",
     "index": 8933,
     "term": "NON-ISSUABLE",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -114570,7 +114717,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "NON-ISSUABLE PLEAS"
   },
   {
     "id": "BLD2-08934",
@@ -115776,7 +115924,7 @@
     "id": "BLD2-09026",
     "index": 9026,
     "term": "NUNC",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -115784,7 +115932,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "NUNC PRO TUNC"
   },
   {
     "id": "BLD2-09027",
@@ -115846,7 +115995,7 @@
     "id": "BLD2-09031",
     "index": 9031,
     "term": "NUNCUPATIVE",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -115854,7 +116003,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "NUNCUPATIVE WILL"
   },
   {
     "id": "BLD2-09032",
@@ -116665,7 +116815,7 @@
     "id": "BLD2-09094",
     "index": 9094,
     "term": "OBTORTO",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -116673,7 +116823,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "OBTORTO COLLO"
   },
   {
     "id": "BLD2-09095",
@@ -117698,7 +117849,7 @@
     "id": "BLD2-09172",
     "index": 9172,
     "term": "ONERANDO",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -117706,7 +117857,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "ONERANDO PRO RATA PORTIONIS"
   },
   {
     "id": "BLD2-09173",
@@ -119923,7 +120075,7 @@
     "id": "BLD2-09345",
     "index": 9345,
     "term": "PACKED",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -119931,7 +120083,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "PACKED PARCELS"
   },
   {
     "id": "BLD2-09346",
@@ -120656,7 +120809,7 @@
     "id": "BLD2-09402",
     "index": 9402,
     "term": "PARATUM",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -120664,7 +120817,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "PARATUM HABEO"
   },
   {
     "id": "BLD2-09403",
@@ -120789,7 +120943,7 @@
     "id": "BLD2-09412",
     "index": 9412,
     "term": "PARCO",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -120797,7 +120951,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "PARCO FRAOCTO"
   },
   {
     "id": "BLD2-09413",
@@ -121627,7 +121782,7 @@
     "id": "BLD2-09477",
     "index": 9477,
     "term": "PARVUM",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -121635,7 +121790,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "PARVUM CAPE"
   },
   {
     "id": "BLD2-09478",
@@ -126318,7 +126474,7 @@
     "id": "BLD2-09844",
     "index": 9844,
     "term": "PLURIS",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -126326,7 +126482,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "PLURIS PETITIO"
   },
   {
     "id": "BLD2-09845",
@@ -127553,7 +127710,7 @@
     "id": "BLD2-09939",
     "index": 9939,
     "term": "POSTED",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -127561,7 +127718,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "POSTED WATERS"
   },
   {
     "id": "BLD2-09940",
@@ -132677,7 +132835,7 @@
     "id": "BLD2-10333",
     "index": 10333,
     "term": "PROVING",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -132685,7 +132843,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "PROVING OF THE TENOR"
   },
   {
     "id": "BLD2-10334",
@@ -134537,7 +134696,7 @@
     "id": "BLD2-10477",
     "index": 10477,
     "term": "QUARTA",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -134545,7 +134704,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "QUARTA DIVI PII"
   },
   {
     "id": "BLD2-10478",
@@ -135214,7 +135374,7 @@
     "id": "BLD2-10529",
     "index": 10529,
     "term": "QUINTO",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -135222,7 +135382,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "QUINTO EXACTUS"
   },
   {
     "id": "BLD2-10530",
@@ -136116,7 +136277,7 @@
     "id": "BLD2-10599",
     "index": 10599,
     "term": "RATAM",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -136124,7 +136285,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "RATAM REM HABERE"
   },
   {
     "id": "BLD2-10600",
@@ -136191,7 +136353,7 @@
     "id": "BLD2-10605",
     "index": 10605,
     "term": "RATIONABILI",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -136199,7 +136361,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "RATIONABILI PARTE BONORUM"
   },
   {
     "id": "BLD2-10606",
@@ -136315,7 +136478,7 @@
     "id": "BLD2-10614",
     "index": 10614,
     "term": "RATIONALIBUS",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -136323,7 +136486,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "RATIONALIBUS DIVISIS"
   },
   {
     "id": "BLD2-10615",
@@ -136799,7 +136963,7 @@
     "id": "BLD2-10652",
     "index": 10652,
     "term": "REBUTTABLE",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -136807,7 +136971,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "REBUTTABLE PRESUMPTION"
   },
   {
     "id": "BLD2-10653",
@@ -137191,7 +137356,7 @@
     "id": "BLD2-10682",
     "index": 10682,
     "term": "RECLAMATION",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -137199,7 +137364,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "RECLAMATION DISTRICT"
   },
   {
     "id": "BLD2-10683",
@@ -138426,7 +138592,7 @@
     "id": "BLD2-10778",
     "index": 10778,
     "term": "REFERENDO",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -138434,7 +138600,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "REFERENDO SINGULA SINGULIS"
   },
   {
     "id": "BLD2-10779",
@@ -142750,7 +142917,7 @@
     "id": "BLD2-11114",
     "index": 11114,
     "term": "RIGGING",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -142758,7 +142925,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "RIGGING THE MARKET"
   },
   {
     "id": "BLD2-11115",
@@ -144194,7 +144362,7 @@
     "id": "BLD2-11226",
     "index": 11226,
     "term": "RUNRIG",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -144202,7 +144370,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "RUNRIG LANDS"
   },
   {
     "id": "BLD2-11227",
@@ -145028,7 +145197,7 @@
     "id": "BLD2-11291",
     "index": 11291,
     "term": "SALIC",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -145036,7 +145205,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "SALIC LAW"
   },
   {
     "id": "BLD2-11292",
@@ -145591,7 +145761,7 @@
     "id": "BLD2-11334",
     "index": 11334,
     "term": "SATISFIED",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -145599,7 +145769,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "SATISFIED TERM"
   },
   {
     "id": "BLD2-11335",
@@ -145985,7 +146156,7 @@
     "id": "BLD2-11364",
     "index": 11364,
     "term": "SCEPPA",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -145993,7 +146164,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "SCEPPA SALIS"
   },
   {
     "id": "BLD2-11365",
@@ -147463,7 +147635,7 @@
     "id": "BLD2-11478",
     "index": 11478,
     "term": "SELECT",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -147471,7 +147643,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "SELECT COUNCIL"
   },
   {
     "id": "BLD2-11479",
@@ -147843,7 +148016,7 @@
     "id": "BLD2-11507",
     "index": 11507,
     "term": "SENILE",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -147851,7 +148024,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "SENILE DEMENTIA"
   },
   {
     "id": "BLD2-11508",
@@ -148188,7 +148362,7 @@
     "id": "BLD2-11534",
     "index": 11534,
     "term": "SEQUESTRARI",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -148196,7 +148370,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "SEQUESTRARI FACIAS"
   },
   {
     "id": "BLD2-11535",
@@ -148250,7 +148425,7 @@
     "id": "BLD2-11539",
     "index": 11539,
     "term": "SEQUESTRO",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -148258,7 +148433,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "SEQUESTRO HABENDO"
   },
   {
     "id": "BLD2-11540",
@@ -148361,7 +148537,7 @@
     "id": "BLD2-11548",
     "index": 11548,
     "term": "SERPENT-VENOM",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -148369,7 +148545,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "SERPENT-VENOM REACTION"
   },
   {
     "id": "BLD2-11549",
@@ -148570,7 +148747,7 @@
     "id": "BLD2-11564",
     "index": 11564,
     "term": "SERVITIIS",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -148578,7 +148755,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "SERVITIIS ACQUIETANDIS"
   },
   {
     "id": "BLD2-11565",
@@ -149051,7 +149229,7 @@
     "id": "BLD2-11601",
     "index": 11601,
     "term": "SEXTUS",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -149059,7 +149237,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "SEXTUS DECRETALIUM"
   },
   {
     "id": "BLD2-11602",
@@ -149169,7 +149348,7 @@
     "id": "BLD2-11610",
     "index": 11610,
     "term": "SHARPING",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -149177,7 +149356,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "SHARPING CORN"
   },
   {
     "id": "BLD2-11611",
@@ -150534,7 +150714,7 @@
     "id": "BLD2-11717",
     "index": 11717,
     "term": "SITIO",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -150542,7 +150722,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "SITIO GANADO MAYOR"
   },
   {
     "id": "BLD2-11718",
@@ -150611,7 +150792,7 @@
     "id": "BLD2-11723",
     "index": 11723,
     "term": "SIX-DAY",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -150619,7 +150800,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "SIX-DAY LICENSE"
   },
   {
     "id": "BLD2-11724",
@@ -150998,7 +151180,7 @@
     "id": "BLD2-11754",
     "index": 11754,
     "term": "SNOTTERING",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -151006,7 +151188,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "SNOTTERING SILVER"
   },
   {
     "id": "BLD2-11755",
@@ -151424,7 +151607,7 @@
     "id": "BLD2-11787",
     "index": 11787,
     "term": "SOLD",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -151432,7 +151615,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "SOLD NOTE"
   },
   {
     "id": "BLD2-11788",
@@ -152903,7 +153087,7 @@
     "id": "BLD2-11896",
     "index": 11896,
     "term": "SOUL",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -152911,7 +153095,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "SOUL SCOT"
   },
   {
     "id": "BLD2-11897",
@@ -152969,7 +153154,7 @@
     "id": "BLD2-11901",
     "index": 11901,
     "term": "SOURCES",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -152977,7 +153162,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "SOURCES OF THE LAW"
   },
   {
     "id": "BLD2-11902",
@@ -153463,14 +153649,15 @@
     "id": "BLD2-11939",
     "index": 11939,
     "term": "SPIRITUALITIES",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "SPIRITUALITIES OF A BISHOP"
   },
   {
     "id": "BLD2-11940",
@@ -153502,7 +153689,7 @@
     "id": "BLD2-11942",
     "index": 11942,
     "term": "SPIRITUOUS",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -153510,7 +153697,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "SPIRITUOUS LIQUORS"
   },
   {
     "id": "BLD2-11943",
@@ -153541,7 +153729,7 @@
     "id": "BLD2-11945",
     "index": 11945,
     "term": "SPLITTING",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -153549,7 +153737,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "SPLITTING A CAUSE OF ACTION"
   },
   {
     "id": "BLD2-11946",
@@ -154624,7 +154813,7 @@
     "id": "BLD2-12030",
     "index": 12030,
     "term": "STET",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -154632,7 +154821,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "STET PROCESSUS"
   },
   {
     "id": "BLD2-12031",
@@ -154941,7 +155131,7 @@
     "id": "BLD2-12055",
     "index": 12055,
     "term": "STOP",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -154949,7 +155139,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "STOP ORDER"
   },
   {
     "id": "BLD2-12056",
@@ -155448,7 +155639,7 @@
     "id": "BLD2-12094",
     "index": 12094,
     "term": "SUA",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -155456,7 +155647,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "SUA SPONTE"
   },
   {
     "id": "BLD2-12095",
@@ -155885,7 +156077,7 @@
     "id": "BLD2-12129",
     "index": 12129,
     "term": "SUBSCRIBING",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -155893,7 +156085,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "SUBSCRIBING WITNESS"
   },
   {
     "id": "BLD2-12130",
@@ -156415,7 +156608,7 @@
     "id": "BLD2-12170",
     "index": 12170,
     "term": "SUGGESTIO",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -156423,7 +156616,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "SUGGESTIO FALSI"
   },
   {
     "id": "BLD2-12171",
@@ -157735,7 +157929,7 @@
     "id": "BLD2-12273",
     "index": 12273,
     "term": "SUSPICIOUS",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -157743,7 +157937,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "SUSPICIOUS CHARACTER"
   },
   {
     "id": "BLD2-12274",
@@ -157785,7 +157980,7 @@
     "id": "BLD2-12277",
     "index": 12277,
     "term": "SUUM",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -157793,7 +157988,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "SUUM CUIIQUE TRIBUERE"
   },
   {
     "id": "BLD2-12278",
@@ -157920,7 +158116,7 @@
     "id": "BLD2-12287",
     "index": 12287,
     "term": "SWEARING",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -157928,7 +158124,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "SWEARING THE PEACE"
   },
   {
     "id": "BLD2-12288",
@@ -157982,7 +158179,7 @@
     "id": "BLD2-12292",
     "index": 12292,
     "term": "SWIET",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -157990,7 +158187,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "SWIET WITNESS"
   },
   {
     "id": "BLD2-12293",
@@ -158022,7 +158220,7 @@
     "id": "BLD2-12295",
     "index": 12295,
     "term": "SWOLING",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -158030,7 +158228,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "SWOLING OF LAND"
   },
   {
     "id": "BLD2-12296",
@@ -159096,7 +159295,7 @@
     "id": "BLD2-12377",
     "index": 12377,
     "term": "TAM",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -159104,7 +159303,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "TAM QUAM"
   },
   {
     "id": "BLD2-12378",
@@ -162325,7 +162525,7 @@
     "id": "BLD2-12627",
     "index": 12627,
     "term": "TINSEL",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -162333,7 +162533,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "TINSEL OF THE FEU"
   },
   {
     "id": "BLD2-12628",
@@ -163193,7 +163394,7 @@
     "id": "BLD2-12694",
     "index": 12694,
     "term": "TOUCHING",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -163201,7 +163402,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "TOUCHING A DEAD BODY"
   },
   {
     "id": "BLD2-12695",
@@ -163481,7 +163683,7 @@
     "id": "BLD2-12716",
     "index": 12716,
     "term": "TRADITURIN",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -163489,7 +163691,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "TRADITURIN BALLIUM"
   },
   {
     "id": "BLD2-12717",
@@ -164799,7 +165002,7 @@
     "id": "BLD2-12819",
     "index": 12819,
     "term": "TROPHY",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -164807,7 +165010,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "TROPHY MONEY"
   },
   {
     "id": "BLD2-12820",
@@ -165280,7 +165484,7 @@
     "id": "BLD2-12857",
     "index": 12857,
     "term": "TUTELAM",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -165288,7 +165492,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "TUTELAM REDDERE"
   },
   {
     "id": "BLD2-12858",
@@ -165412,7 +165617,7 @@
     "id": "BLD2-12867",
     "index": 12867,
     "term": "TWELVE",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -165420,7 +165625,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "TWELVE TABLES"
   },
   {
     "id": "BLD2-12868",
@@ -165438,7 +165644,7 @@
     "id": "BLD2-12869",
     "index": 12869,
     "term": "TWELVE-DAY",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -165446,7 +165652,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "TWELVE-DAY WRIT"
   },
   {
     "id": "BLD2-12870",
@@ -165978,7 +166185,7 @@
     "id": "BLD2-12910",
     "index": 12910,
     "term": "UNASCERTAINED",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -165986,7 +166193,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "UNASCERTAINED DUTIES"
   },
   {
     "id": "BLD2-12911",
@@ -166006,7 +166214,7 @@
     "id": "BLD2-12912",
     "index": 12912,
     "term": "UNAVOIDABLE",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -166014,7 +166222,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "UNAVOIDABLE ACCIDENT"
   },
   {
     "id": "BLD2-12913",
@@ -166799,7 +167008,7 @@
     "id": "BLD2-12973",
     "index": 12973,
     "term": "UNNATURAL",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -166807,7 +167016,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "UNNATURAL OFFENSE"
   },
   {
     "id": "BLD2-12974",
@@ -166896,7 +167106,7 @@
     "id": "BLD2-12980",
     "index": 12980,
     "term": "UNSOLEMN",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -166904,7 +167114,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "UNSOLEMN WAR"
   },
   {
     "id": "BLD2-12981",
@@ -167014,7 +167225,7 @@
     "id": "BLD2-12989",
     "index": 12989,
     "term": "UNWRITTEN",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -167022,7 +167233,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "UNWRITTEN LAW"
   },
   {
     "id": "BLD2-12990",
@@ -167068,7 +167280,7 @@
     "id": "BLD2-12993",
     "index": 12993,
     "term": "UPLIFTED",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -167076,7 +167288,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "UPLIFTED HAND"
   },
   {
     "id": "BLD2-12994",
@@ -167122,7 +167335,7 @@
     "id": "BLD2-12997",
     "index": 12997,
     "term": "UPSET",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -167130,7 +167343,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "UPSET PRICE"
   },
   {
     "id": "BLD2-12998",
@@ -168205,7 +168419,7 @@
     "id": "BLD2-13076",
     "index": 13076,
     "term": "VALUABLE",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -168213,7 +168427,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "VALUABLE CONSIDERATION"
   },
   {
     "id": "BLD2-13077",
@@ -169481,7 +169696,7 @@
     "id": "BLD2-13165",
     "index": 13165,
     "term": "VESTING",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -169489,7 +169704,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "VESTING ORDER"
   },
   {
     "id": "BLD2-13166",
@@ -169754,7 +169970,7 @@
     "id": "BLD2-13184",
     "index": 13184,
     "term": "VIAGERE",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -169762,7 +169978,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "VIAGERE RENTE"
   },
   {
     "id": "BLD2-13185",
@@ -170212,7 +170429,7 @@
     "id": "BLD2-13216",
     "index": 13216,
     "term": "VIDUA",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -170220,7 +170437,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "VIDUA REGIS"
   },
   {
     "id": "BLD2-13217",
@@ -170551,7 +170769,7 @@
     "id": "BLD2-13240",
     "index": 13240,
     "term": "VILLENOUS",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -170559,7 +170777,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "VILLENOUS JUDGMENT"
   },
   {
     "id": "BLD2-13241",
@@ -171156,7 +171375,7 @@
     "id": "BLD2-13282",
     "index": 13282,
     "term": "VITIOUS",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -171164,7 +171383,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "VITIOUS INTROMISSION"
   },
   {
     "id": "BLD2-13283",
@@ -171184,7 +171404,7 @@
     "id": "BLD2-13284",
     "index": 13284,
     "term": "VITIUM",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -171192,7 +171412,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "VITIUM CLERICI"
   },
   {
     "id": "BLD2-13285",
@@ -174009,7 +174230,7 @@
     "id": "BLD2-13482",
     "index": 13482,
     "term": "WILLS",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -174017,7 +174238,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "WILLS ACT"
   },
   {
     "id": "BLD2-13483",
