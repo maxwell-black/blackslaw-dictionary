@@ -2392,10 +2392,11 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "32"
+    ],
     "flags": [
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -4780,11 +4781,12 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "51"
+    ],
     "flags": [
       "embedded_caps_subentry",
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -7536,11 +7538,12 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "67"
+    ],
     "flags": [
       "embedded_caps_subentry",
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -10916,11 +10919,12 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "86"
+    ],
     "flags": [
       "embedded_caps_subentry",
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -11509,10 +11513,11 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "90"
+    ],
     "flags": [
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -13550,11 +13555,12 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "101"
+    ],
     "flags": [
       "embedded_caps_subentry",
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -13819,10 +13825,11 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "103"
+    ],
     "flags": [
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -17748,10 +17755,11 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "130"
+    ],
     "flags": [
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -18656,10 +18664,11 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "135"
+    ],
     "flags": [
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -19878,11 +19887,12 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "147"
+    ],
     "flags": [
       "embedded_caps_subentry",
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -20056,11 +20066,12 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "148"
+    ],
     "flags": [
       "embedded_caps_subentry",
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -20874,11 +20885,12 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "154"
+    ],
     "flags": [
       "embedded_caps_subentry",
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -21111,11 +21123,12 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "156"
+    ],
     "flags": [
       "embedded_caps_subentry",
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -23565,11 +23578,12 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "169"
+    ],
     "flags": [
       "embedded_caps_subentry",
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -23593,11 +23607,12 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "170"
+    ],
     "flags": [
       "embedded_caps_subentry",
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -23929,10 +23944,11 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "172"
+    ],
     "flags": [
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -24773,11 +24789,12 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "176"
+    ],
     "flags": [
       "embedded_caps_subentry",
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -26512,11 +26529,12 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "188"
+    ],
     "flags": [
       "embedded_caps_subentry",
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -29973,11 +29991,12 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "212"
+    ],
     "flags": [
       "embedded_caps_subentry",
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -30442,11 +30461,12 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "217"
+    ],
     "flags": [
       "embedded_caps_subentry",
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -30699,11 +30719,12 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "218"
+    ],
     "flags": [
       "embedded_caps_subentry",
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -31078,11 +31099,12 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "221"
+    ],
     "flags": [
       "embedded_caps_subentry",
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -31120,11 +31142,12 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "223"
+    ],
     "flags": [
       "embedded_caps_subentry",
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -32148,11 +32171,12 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "227"
+    ],
     "flags": [
       "embedded_caps_subentry",
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -34721,11 +34745,12 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "249"
+    ],
     "flags": [
       "embedded_caps_subentry",
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -39978,11 +40003,12 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "293"
+    ],
     "flags": [
       "embedded_caps_subentry",
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -40800,11 +40826,12 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "309"
+    ],
     "flags": [
       "embedded_caps_subentry",
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -41278,10 +41305,11 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "314"
+    ],
     "flags": [
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -42974,10 +43002,11 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "329"
+    ],
     "flags": [
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -43293,11 +43322,12 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "343"
+    ],
     "flags": [
       "embedded_caps_subentry",
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -46574,10 +46604,11 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "362"
+    ],
     "flags": [
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -48502,11 +48533,12 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "376"
+    ],
     "flags": [
       "embedded_caps_subentry",
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -54004,10 +54036,11 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "416"
+    ],
     "flags": [
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -54259,10 +54292,11 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "418"
+    ],
     "flags": [
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -55015,11 +55049,12 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "424"
+    ],
     "flags": [
       "embedded_caps_subentry",
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -57119,10 +57154,11 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "435"
+    ],
     "flags": [
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -60586,11 +60622,12 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "467"
+    ],
     "flags": [
       "embedded_caps_subentry",
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -62703,11 +62740,12 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "482"
+    ],
     "flags": [
       "embedded_caps_subentry",
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -64634,10 +64672,11 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "495"
+    ],
     "flags": [
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -66559,11 +66598,12 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "506"
+    ],
     "flags": [
       "embedded_caps_subentry",
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -66573,11 +66613,12 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "506"
+    ],
     "flags": [
       "embedded_caps_subentry",
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -69325,10 +69366,11 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "524"
+    ],
     "flags": [
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -70338,11 +70380,12 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "528"
+    ],
     "flags": [
       "embedded_caps_subentry",
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -70459,10 +70502,11 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "529"
+    ],
     "flags": [
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -71420,11 +71464,12 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "533"
+    ],
     "flags": [
       "embedded_caps_subentry",
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -72028,10 +72073,11 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "537"
+    ],
     "flags": [
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -73576,10 +73622,11 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "545"
+    ],
     "flags": [
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -75335,11 +75382,12 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "553"
+    ],
     "flags": [
       "embedded_caps_subentry",
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -75465,11 +75513,12 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "554"
+    ],
     "flags": [
       "embedded_caps_subentry",
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -75613,11 +75662,12 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "555"
+    ],
     "flags": [
       "embedded_caps_subentry",
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -76896,11 +76946,12 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "561"
+    ],
     "flags": [
       "embedded_caps_subentry",
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -77424,11 +77475,12 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "565"
+    ],
     "flags": [
       "embedded_caps_subentry",
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -78462,11 +78514,12 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "571"
+    ],
     "flags": [
       "embedded_caps_subentry",
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -79208,11 +79261,12 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "574"
+    ],
     "flags": [
       "embedded_caps_subentry",
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -79733,10 +79787,11 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "578"
+    ],
     "flags": [
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -80495,11 +80550,12 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "581"
+    ],
     "flags": [
       "embedded_caps_subentry",
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -81416,10 +81472,11 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "584"
+    ],
     "flags": [
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -82561,11 +82618,12 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "591"
+    ],
     "flags": [
       "embedded_caps_subentry",
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -84715,10 +84773,11 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "604"
+    ],
     "flags": [
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -85854,10 +85913,11 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "622"
+    ],
     "flags": [
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -86470,11 +86530,12 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "626"
+    ],
     "flags": [
       "embedded_caps_subentry",
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -90951,11 +91012,12 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "664"
+    ],
     "flags": [
       "embedded_caps_subentry",
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -91738,11 +91800,12 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "668"
+    ],
     "flags": [
       "embedded_caps_subentry",
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -92415,11 +92478,12 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "671"
+    ],
     "flags": [
       "embedded_caps_subentry",
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -92441,11 +92505,12 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "671"
+    ],
     "flags": [
       "embedded_caps_subentry",
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -94135,10 +94200,11 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "695"
+    ],
     "flags": [
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -100117,11 +100183,12 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "739"
+    ],
     "flags": [
       "embedded_caps_subentry",
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -101557,10 +101624,11 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "750"
+    ],
     "flags": [
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -102616,11 +102684,12 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "756"
+    ],
     "flags": [
       "embedded_caps_subentry",
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -107514,10 +107583,11 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "786"
+    ],
     "flags": [
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -107756,10 +107826,11 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "787"
+    ],
     "flags": [
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -107858,10 +107929,11 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "788"
+    ],
     "flags": [
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -110060,11 +110132,12 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "802"
+    ],
     "flags": [
       "embedded_caps_subentry",
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -110346,10 +110419,11 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "803"
+    ],
     "flags": [
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -111113,11 +111187,12 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "808"
+    ],
     "flags": [
       "embedded_caps_subentry",
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -111638,11 +111713,12 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "755"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
-      "missing_source_candidate",
       "short_body"
     ]
   },
@@ -114668,11 +114744,12 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "839"
+    ],
     "flags": [
       "embedded_caps_subentry",
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -114767,11 +114844,12 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "838"
+    ],
     "flags": [
       "embedded_caps_subentry",
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -119236,10 +119314,11 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "875"
+    ],
     "flags": [
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -123541,11 +123620,12 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "903"
+    ],
     "flags": [
       "embedded_caps_subentry",
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -124720,11 +124800,12 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "909"
+    ],
     "flags": [
       "embedded_caps_subentry",
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -128557,11 +128638,12 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "941"
+    ],
     "flags": [
       "embedded_caps_subentry",
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -135096,10 +135178,11 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "993"
+    ],
     "flags": [
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -136786,11 +136869,12 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1005"
+    ],
     "flags": [
       "embedded_caps_subentry",
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -137325,10 +137409,11 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1009"
+    ],
     "flags": [
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -137374,10 +137459,11 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1009"
+    ],
     "flags": [
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -140046,11 +140132,12 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1032"
+    ],
     "flags": [
       "embedded_caps_subentry",
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -141787,10 +141874,11 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1043"
+    ],
     "flags": [
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -143076,10 +143164,11 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1053"
+    ],
     "flags": [
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -147058,11 +147147,12 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1078"
+    ],
     "flags": [
       "embedded_caps_subentry",
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -147265,11 +147355,12 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1078"
+    ],
     "flags": [
       "embedded_caps_subentry",
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -149763,11 +149854,12 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1098"
+    ],
     "flags": [
       "embedded_caps_subentry",
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -149777,11 +149869,12 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1098"
+    ],
     "flags": [
       "embedded_caps_subentry",
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -149956,11 +150049,12 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1099"
+    ],
     "flags": [
       "embedded_caps_subentry",
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -153847,10 +153941,11 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1115"
+    ],
     "flags": [
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -154020,10 +154115,11 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1116"
+    ],
     "flags": [
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -154479,10 +154575,11 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1120"
+    ],
     "flags": [
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -156800,10 +156897,11 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1134"
+    ],
     "flags": [
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -162102,10 +162200,11 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1167"
+    ],
     "flags": [
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -163594,11 +163693,12 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1178"
+    ],
     "flags": [
       "embedded_caps_subentry",
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -165367,10 +165467,11 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1191"
+    ],
     "flags": [
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -166224,11 +166325,12 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1195"
+    ],
     "flags": [
       "embedded_caps_subentry",
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -167255,10 +167357,11 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1202"
+    ],
     "flags": [
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -169796,11 +169899,12 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1217"
+    ],
     "flags": [
       "embedded_caps_subentry",
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -169853,11 +169957,12 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1217"
+    ],
     "flags": [
       "embedded_caps_subentry",
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -170011,10 +170116,11 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1217"
+    ],
     "flags": [
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -170293,11 +170399,12 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1219"
+    ],
     "flags": [
       "embedded_caps_subentry",
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -174289,10 +174396,11 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1241"
+    ],
     "flags": [
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -174386,11 +174494,12 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1241"
+    ],
     "flags": [
       "embedded_caps_subentry",
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -174400,11 +174509,12 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1241"
+    ],
     "flags": [
       "embedded_caps_subentry",
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -174570,10 +174680,11 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1242"
+    ],
     "flags": [
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -175206,11 +175317,12 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1243"
+    ],
     "flags": [
       "embedded_caps_subentry",
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -175930,11 +176042,12 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1249"
+    ],
     "flags": [
       "embedded_caps_subentry",
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
@@ -176079,10 +176192,11 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1249"
+    ],
     "flags": [
-      "low_match_score",
-      "missing_source_candidate"
+      "low_match_score"
     ]
   },
   {
