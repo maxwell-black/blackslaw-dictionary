@@ -2,7 +2,7 @@
 
 let manifest = null;
 let letterCache = Object.create(null);
-let currentLetter = 'A';
+let currentLetter = null;
 let currentMode = 'browse';
 let isDarkMode = false;
 let fontSize = 17;
@@ -127,10 +127,22 @@ function formatEntryBody(term, rawBody) {
   var paragraphs = text.split(/\n{2,}/).map(function(part) { return part.trim(); }).filter(Boolean);
   if (!paragraphs.length) return '<p></p>';
   return paragraphs.map(function(part) {
-    var html = escapeHtml(part).replace(/\n/g, '<br>');
+    var html = escapeHtml(part).replace(/\n/g, ' ');
     html = linkCrossReferences(html);
+    html = formatSubEntries(html);
     return '<p>' + html + '</p>';
   }).join('');
+}
+
+function formatSubEntries(html) {
+  // Bold sub-entry headwords: text from em-dash to first period
+  // Matches: —Sub-entry name. or \u2014Sub-entry name.
+  return html.replace(
+    /(\u2014|&mdash;)([\w\s,'-]+\.)/g,
+    function(match, dash, headword) {
+      return '<span class="sub-entry">' + dash + '<strong>' + headword + '</strong></span>';
+    }
+  );
 }
 
 function linkCrossReferences(html) {

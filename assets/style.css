@@ -522,8 +522,9 @@ main {
 
 .entry-meta {
   margin: 0 0 0.5rem;
-  font-size: 0.875rem;
-  opacity: 0.75;
+  font-size: 0.8rem;
+  color: var(--fg2);
+  opacity: 0.6;
 }
 
 .entry-meta a {
@@ -544,6 +545,17 @@ a.xref:hover {
 .entry-body p {
   margin: 0 0 0.8rem;
 }
+
+/* Sub-entry formatting */
+.sub-entry {
+  display: inline;
+}
+
+.sub-entry strong {
+  font-weight: 700;
+}
+
+
 
 .letter-heading {
   margin: 0 0 1rem;
