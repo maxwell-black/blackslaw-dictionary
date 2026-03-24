@@ -1,95 +1,95 @@
 {
   "A": {
     "file": "data/entries_a.json",
-    "count": 1262
+    "count": 1254
   },
   "B": {
     "file": "data/entries_b.json",
-    "count": 529
+    "count": 524
   },
   "C": {
     "file": "data/entries_c.json",
-    "count": 1390
+    "count": 1384
   },
   "D": {
     "file": "data/entries_d.json",
-    "count": 889
+    "count": 885
   },
   "E": {
     "file": "data/entries_e.json",
-    "count": 659
+    "count": 655
   },
   "F": {
     "file": "data/entries_f.json",
-    "count": 747
+    "count": 739
   },
   "G": {
     "file": "data/entries_g.json",
-    "count": 317
+    "count": 315
   },
   "H": {
     "file": "data/entries_h.json",
-    "count": 471
+    "count": 470
   },
   "I": {
     "file": "data/entries_i.json",
-    "count": 645
+    "count": 643
   },
   "J": {
     "file": "data/entries_j.json",
-    "count": 154
+    "count": 151
   },
   "K": {
     "file": "data/entries_k.json",
-    "count": 73
+    "count": 72
   },
   "L": {
     "file": "data/entries_l.json",
-    "count": 498
+    "count": 492
   },
   "M": {
     "file": "data/entries_m.json",
-    "count": 707
+    "count": 703
   },
   "N": {
     "file": "data/entries_n.json",
-    "count": 294
+    "count": 292
   },
   "O": {
     "file": "data/entries_o.json",
-    "count": 257
+    "count": 256
   },
   "P": {
     "file": "data/entries_p.json",
-    "count": 1052
+    "count": 1048
   },
   "Q": {
     "file": "data/entries_q.json",
-    "count": 125
+    "count": 122
   },
   "R": {
     "file": "data/entries_r.json",
-    "count": 663
+    "count": 656
   },
   "S": {
     "file": "data/entries_s.json",
-    "count": 1032
+    "count": 1023
   },
   "T": {
     "file": "data/entries_t.json",
-    "count": 528
+    "count": 524
   },
   "U": {
     "file": "data/entries_u.json",
-    "count": 155
+    "count": 154
   },
   "V": {
     "file": "data/entries_v.json",
-    "count": 261
+    "count": 257
   },
   "W": {
     "file": "data/entries_w.json",
-    "count": 255
+    "count": 253
   },
   "X": {
     "file": "data/entries_x.json",

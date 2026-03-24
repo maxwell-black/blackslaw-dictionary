@@ -3697,7 +3697,7 @@
     "id": "BLD2-00299",
     "index": 299,
     "term": "ADCORDABILIS",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -3705,7 +3705,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "ADCORDABILIS DENARII",
+    "body_oracle_evidence": "body matches canonical 'ADCORDABILIS DENARII' (similarity=0.878)"
   },
   {
     "id": "BLD2-00300",
@@ -7527,7 +7529,7 @@
     "id": "BLD2-00603",
     "index": 603,
     "term": "ALE",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -7535,7 +7537,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "ALE SILVER",
+    "body_oracle_evidence": "body matches canonical 'ALE SILVER' (similarity=0.992)"
   },
   {
     "id": "BLD2-00604",
@@ -8115,7 +8119,7 @@
     "id": "BLD2-00649",
     "index": 649,
     "term": "ALLEGING",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -8123,7 +8127,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "ALLEGING DIMINUTION",
+    "body_oracle_evidence": "body matches canonical 'ALLEGING DIMINUTION' (similarity=0.880)"
   },
   {
     "id": "BLD2-00650",
@@ -11646,7 +11652,7 @@
     "id": "BLD2-00926",
     "index": 926,
     "term": "APPRENTICIUS",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -11654,7 +11660,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "APPRENTICIUS AD LEGEM",
+    "body_oracle_evidence": "body matches canonical 'APPRENTICIUS AD LEGEM' (similarity=0.820)"
   },
   {
     "id": "BLD2-00927",
@@ -11784,7 +11792,7 @@
     "id": "BLD2-00937",
     "index": 937,
     "term": "APPROVED",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -11792,7 +11800,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "APPROVED INDORSED NOTES",
+    "body_oracle_evidence": "body matches canonical 'APPROVED INDORSED NOTES' (similarity=0.854)"
   },
   {
     "id": "BLD2-00938",
@@ -14134,7 +14144,7 @@
     "id": "BLD2-01121",
     "index": 1121,
     "term": "ASSERTORY",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -14142,7 +14152,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "ASSERTORY COVENANT",
+    "body_oracle_evidence": "body matches canonical 'ASSERTORY COVENANT' (similarity=0.897)"
   },
   {
     "id": "BLD2-01122",
@@ -15413,7 +15425,7 @@
     "id": "BLD2-01222",
     "index": 1222,
     "term": "AUCTORITATE",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -15421,7 +15433,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "AUCTORITATE PARLIAMENTI",
+    "body_oracle_evidence": "body matches canonical 'AUCTORITATE PARLIAMENTI' (similarity=1.000)"
   },
   {
     "id": "BLD2-01223",
@@ -15465,7 +15479,7 @@
     "id": "BLD2-01226",
     "index": 1226,
     "term": "AUDIENDO",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -15473,7 +15487,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "AUDIENDO ET TERMINANDO",
+    "body_oracle_evidence": "body matches canonical 'AUDIENDO ET TERMINANDO' (similarity=0.898)"
   },
   {
     "id": "BLD2-01227",
@@ -17001,7 +17017,7 @@
     "id": "BLD2-01346",
     "index": 1346,
     "term": "BAILLEUR",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -17009,7 +17025,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "BAILLEUR DE FONDS",
+    "body_oracle_evidence": "body matches canonical 'BAILLEUR DE FONDS' (similarity=0.826)"
   },
   {
     "id": "BLD2-01347",
@@ -18629,7 +18647,7 @@
     "id": "BLD2-01474",
     "index": 1474,
     "term": "BEAMS",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -18637,7 +18655,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "BEAMS AND BALANCE",
+    "body_oracle_evidence": "body matches canonical 'BEAMS AND BALANCE' (similarity=0.832)"
   },
   {
     "id": "BLD2-01475",
@@ -20232,7 +20252,7 @@
     "id": "BLD2-01599",
     "index": 1599,
     "term": "BLANCHE",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -20240,7 +20260,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "BLANCHE FIRME",
+    "body_oracle_evidence": "body matches canonical 'BLANCHE FIRME' (similarity=0.862)"
   },
   {
     "id": "BLD2-01600",
@@ -21957,7 +21979,7 @@
     "id": "BLD2-01732",
     "index": 1732,
     "term": "BREAD",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -21965,7 +21987,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "BREAD ACTS",
+    "body_oracle_evidence": "body matches canonical 'BREAD ACTS' (similarity=0.920)"
   },
   {
     "id": "BLD2-01733",
@@ -22970,8 +22994,8 @@
   {
     "id": "BLD2-01812",
     "index": 1812,
-    "term": "BURG",
-    "entry_type": "legacy_unresolved",
+    "term": "BURGH",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -22979,7 +23003,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "original_term": "BURG",
+    "body_oracle_evidence": "body-oracle 'BURGH' is OCR-confusion variant of 'BURG', novel headword"
   },
   {
     "id": "BLD2-01813",
@@ -23273,7 +23299,7 @@
     "id": "BLD2-01836",
     "index": 1836,
     "term": "BURNING",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -23281,7 +23307,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "BURNING FLUID",
+    "body_oracle_evidence": "body matches canonical 'BURNING FLUID' (similarity=0.952)"
   },
   {
     "id": "BLD2-01837",
@@ -35553,7 +35581,7 @@
     "id": "BLD2-02786",
     "index": 2786,
     "term": "CONFITENS",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -35561,7 +35589,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "CONFITENS REUS",
+    "body_oracle_evidence": "body matches canonical 'CONFITENS REUS' (similarity=0.821)"
   },
   {
     "id": "BLD2-02787",
@@ -35821,7 +35851,7 @@
     "id": "BLD2-02807",
     "index": 2807,
     "term": "CONJUGAL",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -35829,7 +35859,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "CONJUGAL RIGHTS",
+    "body_oracle_evidence": "body matches canonical 'CONJUGAL RIGHTS' (similarity=0.917)"
   },
   {
     "id": "BLD2-02808",
@@ -36202,7 +36234,7 @@
     "id": "BLD2-02837",
     "index": 2837,
     "term": "CONSCIENTIA",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -36210,7 +36242,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "CONSCIENTIA REI ALIENI",
+    "body_oracle_evidence": "body matches canonical 'CONSCIENTIA REI ALIENI' (similarity=0.930)"
   },
   {
     "id": "BLD2-02838",
@@ -36264,7 +36298,7 @@
     "id": "BLD2-02842",
     "index": 2842,
     "term": "CONSEIL",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -36272,7 +36306,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "CONSEIL DE FAMILLE",
+    "body_oracle_evidence": "body matches canonical 'CONSEIL DE FAMILLE' (similarity=0.933)"
   },
   {
     "id": "BLD2-02843",
@@ -38567,7 +38603,7 @@
     "id": "BLD2-03022",
     "index": 3022,
     "term": "COOL",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -38575,7 +38611,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "COOL BLOOD",
+    "body_oracle_evidence": "body matches canonical 'COOL BLOOD' (similarity=0.959)"
   },
   {
     "id": "BLD2-03023",
@@ -41991,7 +42029,7 @@
     "id": "BLD2-03288",
     "index": 3288,
     "term": "CUSTODIA",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -41999,7 +42037,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "CUSTODIA LEGIS",
+    "body_oracle_evidence": "body matches canonical 'CUSTODIA LEGIS' (similarity=0.901)"
   },
   {
     "id": "BLD2-03289",
@@ -45106,7 +45146,7 @@
     "id": "BLD2-03521",
     "index": 3521,
     "term": "DECREMENTUM",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -45114,7 +45154,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "DECREMENTUM MARIS",
+    "body_oracle_evidence": "body matches canonical 'DECREMENTUM MARIS' (similarity=0.921)"
   },
   {
     "id": "BLD2-03522",
@@ -46912,7 +46954,7 @@
     "id": "BLD2-03661",
     "index": 3661,
     "term": "DEN",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -46920,7 +46962,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "DEN AND STROND",
+    "body_oracle_evidence": "body matches canonical 'DEN AND STROND' (similarity=0.917)"
   },
   {
     "id": "BLD2-03662",
@@ -49924,7 +49968,7 @@
     "id": "BLD2-03897",
     "index": 3897,
     "term": "DISENTAILING",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -49932,7 +49976,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "DISENTAILING DEED",
+    "body_oracle_evidence": "body matches canonical 'DISENTAILING DEED' (similarity=0.839)"
   },
   {
     "id": "BLD2-03898",
@@ -50901,7 +50947,7 @@
     "id": "BLD2-03973",
     "index": 3973,
     "term": "DISTRACTED",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -50909,7 +50955,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "DISTRACTED PERSON",
+    "body_oracle_evidence": "body matches canonical 'DISTRACTED PERSON' (similarity=0.932)"
   },
   {
     "id": "BLD2-03974",
@@ -54427,7 +54475,7 @@
     "id": "BLD2-04248",
     "index": 4248,
     "term": "EAR",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -54435,7 +54483,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "EAR GRASS",
+    "body_oracle_evidence": "body matches canonical 'EAR GRASS' (similarity=0.946)"
   },
   {
     "id": "BLD2-04249",
@@ -55750,7 +55800,7 @@
     "id": "BLD2-04350",
     "index": 4350,
     "term": "ELDER",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -55758,7 +55808,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "ELDER BRETHREN",
+    "body_oracle_evidence": "body matches canonical 'ELDER BRETHREN' (similarity=0.944)"
   },
   {
     "id": "BLD2-04351",
@@ -60923,7 +60975,7 @@
     "id": "BLD2-04755",
     "index": 4755,
     "term": "EXCOMMUNICATO",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -60931,7 +60983,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "EXCOMMUNICATO CAPIENDO",
+    "body_oracle_evidence": "body matches canonical 'EXCOMMUNICATO CAPIENDO' (similarity=0.816)"
   },
   {
     "id": "BLD2-04756",
@@ -61786,7 +61840,7 @@
     "id": "BLD2-04820",
     "index": 4820,
     "term": "EXIGI",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -61794,7 +61848,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "EXIGI FACIAS",
+    "body_oracle_evidence": "body matches canonical 'EXIGI FACIAS' (similarity=0.823)"
   },
   {
     "id": "BLD2-04821",
@@ -63404,7 +63460,7 @@
     "id": "BLD2-04945",
     "index": 4945,
     "term": "FACTIO",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -63412,7 +63468,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "FACTIO TESTAMENTI",
+    "body_oracle_evidence": "body matches canonical 'FACTIO TESTAMENTI' (similarity=0.927)"
   },
   {
     "id": "BLD2-04946",
@@ -64236,7 +64294,7 @@
     "id": "BLD2-05009",
     "index": 5009,
     "term": "FALSO",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -64244,7 +64302,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "FALSO RETORNO BREVIUM",
+    "body_oracle_evidence": "body matches canonical 'FALSO RETORNO BREVIUM' (similarity=0.903)"
   },
   {
     "id": "BLD2-05010",
@@ -64381,7 +64441,7 @@
     "id": "BLD2-05020",
     "index": 5020,
     "term": "FAMILIARES",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -64389,7 +64449,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "FAMILIARES REGIS",
+    "body_oracle_evidence": "body matches canonical 'FAMILIARES REGIS' (similarity=0.923)"
   },
   {
     "id": "BLD2-05021",
@@ -64677,7 +64739,7 @@
     "id": "BLD2-05043",
     "index": 5043,
     "term": "FARYNDON",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -64685,7 +64747,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "FARYNDON INN",
+    "body_oracle_evidence": "body matches canonical 'FARYNDON INN' (similarity=0.812)"
   },
   {
     "id": "BLD2-05044",
@@ -72062,7 +72126,7 @@
     "id": "BLD2-05614",
     "index": 5614,
     "term": "FRIENDLY",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -72070,7 +72134,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "FRIENDLY SOCIETIES",
+    "body_oracle_evidence": "body matches canonical 'FRIENDLY SOCIETIES' (similarity=0.930)"
   },
   {
     "id": "BLD2-05615",
@@ -72430,7 +72496,7 @@
     "id": "BLD2-05643",
     "index": 5643,
     "term": "FUGA",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -72438,7 +72504,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "FUGA CATALLORUM",
+    "body_oracle_evidence": "body matches canonical 'FUGA CATALLORUM' (similarity=0.844)"
   },
   {
     "id": "BLD2-05644",
@@ -72842,7 +72910,7 @@
     "id": "BLD2-05674",
     "index": 5674,
     "term": "FUNERAL",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -72850,7 +72918,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "FUNERAL EXPENSES",
+    "body_oracle_evidence": "body matches canonical 'FUNERAL EXPENSES' (similarity=0.857)"
   },
   {
     "id": "BLD2-05675",
@@ -73021,7 +73091,7 @@
     "id": "BLD2-05688",
     "index": 5688,
     "term": "FURST",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -73029,7 +73099,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "FURST AND FONDUNG",
+    "body_oracle_evidence": "body matches canonical 'FURST AND FONDUNG' (similarity=0.853)"
   },
   {
     "id": "BLD2-05689",
@@ -73414,7 +73486,7 @@
     "id": "BLD2-05719",
     "index": 5719,
     "term": "GAGER",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -73422,7 +73494,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "GAGER DE DELIVERANCE",
+    "body_oracle_evidence": "body matches canonical 'GAGER DE DELIVERANCE' (similarity=0.880)"
   },
   {
     "id": "BLD2-05720",
@@ -75492,7 +75566,7 @@
     "id": "BLD2-05883",
     "index": 5883,
     "term": "GLOVE",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -75500,7 +75574,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "GLOVE SILVER",
+    "body_oracle_evidence": "body matches canonical 'GLOVE SILVER' (similarity=0.956)"
   },
   {
     "id": "BLD2-05884",
@@ -77757,7 +77833,7 @@
     "id": "BLD2-06059",
     "index": 6059,
     "term": "HABETO",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -77765,7 +77841,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "HABETO TIBI RES TUAS",
+    "body_oracle_evidence": "body matches canonical 'HABETO TIBI RES TUAS' (similarity=0.900)"
   },
   {
     "id": "BLD2-06060",
@@ -86598,7 +86676,7 @@
     "id": "BLD2-06750",
     "index": 6750,
     "term": "INDEBITI",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -86606,7 +86684,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "INDEBITI SOLUTIO",
+    "body_oracle_evidence": "body matches canonical 'INDEBITI SOLUTIO' (similarity=0.919)"
   },
   {
     "id": "BLD2-06751",
@@ -91602,7 +91682,7 @@
     "id": "BLD2-07140",
     "index": 7140,
     "term": "IPSISSIMIS",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -91610,7 +91690,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "IPSISSIMIS VERBIS",
+    "body_oracle_evidence": "body matches canonical 'IPSISSIMIS VERBIS' (similarity=0.901)"
   },
   {
     "id": "BLD2-07141",
@@ -93531,7 +93613,7 @@
     "id": "BLD2-07289",
     "index": 7289,
     "term": "JUMP",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -93539,7 +93621,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "JUMP BAIL",
+    "body_oracle_evidence": "body matches canonical 'JUMP BAIL' (similarity=0.960)"
   },
   {
     "id": "BLD2-07290",
@@ -93612,7 +93696,7 @@
     "id": "BLD2-07295",
     "index": 7295,
     "term": "JUNGERE",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -93620,7 +93704,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "JUNGERE DUELLUM",
+    "body_oracle_evidence": "body matches canonical 'JUNGERE DUELLUM' (similarity=0.911)"
   },
   {
     "id": "BLD2-07296",
@@ -93650,7 +93736,7 @@
     "id": "BLD2-07298",
     "index": 7298,
     "term": "JUNIPERUS",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -93658,7 +93744,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "JUNIPERUS SABINA",
+    "body_oracle_evidence": "body matches canonical 'JUNIPERUS SABINA' (similarity=0.836)"
   },
   {
     "id": "BLD2-07299",
@@ -95348,7 +95436,7 @@
     "id": "BLD2-07430",
     "index": 7430,
     "term": "KNOW",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -95356,7 +95444,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "KNOW ALL MEN",
+    "body_oracle_evidence": "body matches canonical 'KNOW ALL MEN' (similarity=0.936)"
   },
   {
     "id": "BLD2-07431",
@@ -96327,7 +96417,7 @@
     "id": "BLD2-07504",
     "index": 7504,
     "term": "LAME",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -96335,7 +96425,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "LAME DUCK",
+    "body_oracle_evidence": "body matches canonical 'LAME DUCK' (similarity=0.929)"
   },
   {
     "id": "BLD2-07505",
@@ -99063,7 +99155,7 @@
     "id": "BLD2-07718",
     "index": 7718,
     "term": "LEVANTES",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -99071,7 +99163,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "LEVANTES ET CUBANTES",
+    "body_oracle_evidence": "body matches canonical 'LEVANTES ET CUBANTES' (similarity=0.885)"
   },
   {
     "id": "BLD2-07719",
@@ -99755,7 +99849,7 @@
     "id": "BLD2-07771",
     "index": 7771,
     "term": "LICENSED",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -99763,7 +99857,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "LICENSED VICTUALLER",
+    "body_oracle_evidence": "body matches canonical 'LICENSED VICTUALLER' (similarity=0.879)"
   },
   {
     "id": "BLD2-07772",
@@ -99927,7 +100023,7 @@
     "id": "BLD2-07785",
     "index": 7785,
     "term": "LICKING",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -99935,7 +100031,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "LICKING OF THUMBS",
+    "body_oracle_evidence": "body matches canonical 'LICKING OF THUMBS' (similarity=0.850)"
   },
   {
     "id": "BLD2-07786",
@@ -99953,7 +100051,7 @@
     "id": "BLD2-07787",
     "index": 7787,
     "term": "LIDFORD",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -99961,7 +100059,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "LIDFORD LAW",
+    "body_oracle_evidence": "body matches canonical 'LIDFORD LAW' (similarity=0.920)"
   },
   {
     "id": "BLD2-07788",
@@ -101477,7 +101577,7 @@
     "id": "BLD2-07907",
     "index": 7907,
     "term": "LODS",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -101485,7 +101585,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "LODS ET VENTES",
+    "body_oracle_evidence": "body matches canonical 'LODS ET VENTES' (similarity=0.934)"
   },
   {
     "id": "BLD2-07908",
@@ -103029,7 +103131,7 @@
     "id": "BLD2-08027",
     "index": 8027,
     "term": "MAILLS",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -103037,7 +103139,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "MAILLS AND DUTIES",
+    "body_oracle_evidence": "body matches canonical 'MAILLS AND DUTIES' (similarity=0.822)"
   },
   {
     "id": "BLD2-08028",
@@ -107128,7 +107232,7 @@
     "id": "BLD2-08348",
     "index": 8348,
     "term": "MER",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -107136,7 +107240,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "MER RECOVERY",
+    "body_oracle_evidence": "body matches canonical 'MER RECOVERY' (similarity=0.942)"
   },
   {
     "id": "BLD2-08349",
@@ -109554,7 +109660,7 @@
     "id": "BLD2-08536",
     "index": 8536,
     "term": "MIXTUM",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -109562,7 +109668,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "MIXTUM IMPERIUM",
+    "body_oracle_evidence": "body matches canonical 'MIXTUM IMPERIUM' (similarity=0.928)"
   },
   {
     "id": "BLD2-08537",
@@ -111545,7 +111653,7 @@
     "id": "BLD2-08689",
     "index": 8689,
     "term": "MURORUM",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -111553,7 +111661,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "MURORUM OPERATIO",
+    "body_oracle_evidence": "body matches canonical 'MURORUM OPERATIO' (similarity=0.881)"
   },
   {
     "id": "BLD2-08690",
@@ -112391,7 +112501,7 @@
     "id": "BLD2-08754",
     "index": 8754,
     "term": "NATI",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -112399,7 +112509,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "NATI ET NASCITURI",
+    "body_oracle_evidence": "body matches canonical 'NATI ET NASCITURI' (similarity=0.835)"
   },
   {
     "id": "BLD2-08755",
@@ -112599,7 +112711,7 @@
     "id": "BLD2-08770",
     "index": 8770,
     "term": "NATURALIZED",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -112607,7 +112719,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "NATURALIZED CITIZEN",
+    "body_oracle_evidence": "body matches canonical 'NATURALIZED CITIZEN' (similarity=0.893)"
   },
   {
     "id": "BLD2-08771",
@@ -118345,7 +118459,7 @@
     "id": "BLD2-09210",
     "index": 9210,
     "term": "ORANDO",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -118353,7 +118467,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "ORANDO PRO REGE ET REGNO",
+    "body_oracle_evidence": "body matches canonical 'ORANDO PRO REGE ET REGNO' (similarity=0.919)"
   },
   {
     "id": "BLD2-09211",
@@ -121479,7 +121595,7 @@
     "id": "BLD2-09453",
     "index": 9453,
     "term": "PARTE",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -121487,7 +121603,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "PARTE INAUDITA",
+    "body_oracle_evidence": "body matches canonical 'PARTE INAUDITA' (similarity=0.865)"
   },
   {
     "id": "BLD2-09454",
@@ -121517,7 +121635,7 @@
     "id": "BLD2-09456",
     "index": 9456,
     "term": "PARTES",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -121525,7 +121643,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "PARTES FINIS NIHIL HABUERUNT",
+    "body_oracle_evidence": "body matches canonical 'PARTES FINIS NIHIL HABUERUNT' (similarity=0.918)"
   },
   {
     "id": "BLD2-09457",
@@ -124718,7 +124838,7 @@
     "id": "BLD2-09707",
     "index": 9707,
     "term": "PETITIONING",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -124726,7 +124846,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "PETITIONING CREDITOR",
+    "body_oracle_evidence": "body matches canonical 'PETITIONING CREDITOR' (similarity=0.874)"
   },
   {
     "id": "BLD2-09708",
@@ -132378,7 +132500,7 @@
     "id": "BLD2-10297",
     "index": 10297,
     "term": "PROSECUTING",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -132386,7 +132508,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "PROSECUTING ATTORNEY",
+    "body_oracle_evidence": "body matches canonical 'PROSECUTING ATTORNEY' (similarity=0.921)"
   },
   {
     "id": "BLD2-10298",
@@ -134892,7 +135016,7 @@
     "id": "BLD2-10491",
     "index": 10491,
     "term": "QUATUOR",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -134900,7 +135024,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "QUATUOR PEDIBUS CURRIT",
+    "body_oracle_evidence": "body matches canonical 'QUATUOR PEDIBUS CURRIT' (similarity=0.812)"
   },
   {
     "id": "BLD2-10492",
@@ -135304,7 +135430,7 @@
     "id": "BLD2-10523",
     "index": 10523,
     "term": "QUINQUE",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -135312,7 +135438,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "QUINQUE PORTUS",
+    "body_oracle_evidence": "body matches canonical 'QUINQUE PORTUS' (similarity=0.852)"
   },
   {
     "id": "BLD2-10524",
@@ -135408,7 +135536,7 @@
     "id": "BLD2-10531",
     "index": 10531,
     "term": "QUIRE",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -135416,7 +135544,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "QUIRE OF DOVER",
+    "body_oracle_evidence": "body matches canonical 'QUIRE OF DOVER' (similarity=0.943)"
   },
   {
     "id": "BLD2-10532",
@@ -136258,7 +136388,7 @@
     "id": "BLD2-10597",
     "index": 10597,
     "term": "RATABLE",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -136266,7 +136396,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "RATABLE ESTATE",
+    "body_oracle_evidence": "body matches canonical 'RATABLE ESTATE' (similarity=0.919)"
   },
   {
     "id": "BLD2-10598",
@@ -136932,7 +137064,7 @@
     "id": "BLD2-10649",
     "index": 10649,
     "term": "REBUS",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -136940,7 +137072,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "REBUS SIC STANTIBUS",
+    "body_oracle_evidence": "body matches canonical 'REBUS SIC STANTIBUS' (similarity=0.824)"
   },
   {
     "id": "BLD2-10650",
@@ -138437,7 +138571,7 @@
     "id": "BLD2-10765",
     "index": 10765,
     "term": "REDUCTIO",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -138445,7 +138579,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "REDUCTIO AD ABSURDUM",
+    "body_oracle_evidence": "body matches canonical 'REDUCTIO AD ABSURDUM' (similarity=0.903)"
   },
   {
     "id": "BLD2-10766",
@@ -140277,7 +140413,7 @@
     "id": "BLD2-10910",
     "index": 10910,
     "term": "REO",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -140285,7 +140421,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "REO ABSENTE",
+    "body_oracle_evidence": "body matches canonical 'REO ABSENTE' (similarity=0.909)"
   },
   {
     "id": "BLD2-10911",
@@ -140462,7 +140600,7 @@
     "id": "BLD2-10924",
     "index": 10924,
     "term": "REPETUNDARUM",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -140470,7 +140608,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "REPETUNDARUM CRIMEN",
+    "body_oracle_evidence": "body matches canonical 'REPETUNDARUM CRIMEN' (similarity=0.904)"
   },
   {
     "id": "BLD2-10925",
@@ -143400,7 +143540,7 @@
     "id": "BLD2-11151",
     "index": 11151,
     "term": "RISING",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -143408,7 +143548,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "RISING OF COURT",
+    "body_oracle_evidence": "body matches canonical 'RISING OF COURT' (similarity=0.898)"
   },
   {
     "id": "BLD2-11152",
@@ -144269,7 +144411,7 @@
     "id": "BLD2-11218",
     "index": 11218,
     "term": "RUNNING",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -144277,7 +144419,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "RUNNING ACCOUNT",
+    "body_oracle_evidence": "body matches canonical 'RUNNING ACCOUNT' (similarity=0.937)"
   },
   {
     "id": "BLD2-11219",
@@ -145942,7 +146086,7 @@
     "id": "BLD2-11347",
     "index": 11347,
     "term": "SAY",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -145950,7 +146094,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "SAY ABOUT",
+    "body_oracle_evidence": "body matches canonical 'SAY ABOUT' (similarity=0.918)"
   },
   {
     "id": "BLD2-11348",
@@ -146664,7 +146810,7 @@
     "id": "BLD2-11403",
     "index": 11403,
     "term": "SCUTAGIO",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -146672,7 +146818,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "SCUTAGIO HABENDO",
+    "body_oracle_evidence": "body matches canonical 'SCUTAGIO HABENDO' (similarity=0.930)"
   },
   {
     "id": "BLD2-11404",
@@ -147086,7 +147234,7 @@
     "id": "BLD2-11436",
     "index": 11436,
     "term": "SECURED",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -147094,7 +147242,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "SECURED CREDITOR",
+    "body_oracle_evidence": "body matches canonical 'SECURED CREDITOR' (similarity=0.907)"
   },
   {
     "id": "BLD2-11437",
@@ -147272,7 +147422,7 @@
     "id": "BLD2-11450",
     "index": 11450,
     "term": "SEDE",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -147280,7 +147430,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "SEDE PLENA",
+    "body_oracle_evidence": "body matches canonical 'SEDE PLENA' (similarity=0.914)"
   },
   {
     "id": "BLD2-11451",
@@ -147298,7 +147450,7 @@
     "id": "BLD2-11452",
     "index": 11452,
     "term": "SEDENTE",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -147306,7 +147458,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "SEDENTE CURIA",
+    "body_oracle_evidence": "body matches canonical 'SEDENTE CURIA' (similarity=0.882)"
   },
   {
     "id": "BLD2-11453",
@@ -150039,7 +150193,7 @@
     "id": "BLD2-11664",
     "index": 11664,
     "term": "SIDE-BAR",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [
@@ -150048,7 +150202,9 @@
     "flags": [
       "embedded_caps_subentry",
       "low_match_score"
-    ]
+    ],
+    "duplicate_of": "SIDE-BAR RULES",
+    "body_oracle_evidence": "body matches canonical 'SIDE-BAR RULES' (similarity=1.000)"
   },
   {
     "id": "BLD2-11665",
@@ -150840,7 +150996,7 @@
     "id": "BLD2-11726",
     "index": 11726,
     "term": "SKELETON",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -150848,7 +151004,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "SKELETON BILL",
+    "body_oracle_evidence": "body matches canonical 'SKELETON BILL' (similarity=0.848)"
   },
   {
     "id": "BLD2-11727",
@@ -154490,8 +154648,8 @@
   {
     "id": "BLD2-12004",
     "index": 12004,
-    "term": "STATU",
-    "entry_type": "legacy_unresolved",
+    "term": "STATUS",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -154499,7 +154657,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "original_term": "STATU",
+    "body_oracle_evidence": "body-oracle 'STATUS' is OCR-confusion variant of 'STATU', novel headword"
   },
   {
     "id": "BLD2-12005",
@@ -155297,7 +155457,7 @@
     "id": "BLD2-12067",
     "index": 12067,
     "term": "STRANGER",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -155305,7 +155465,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "STRANGER IN BLOOD",
+    "body_oracle_evidence": "body matches canonical 'STRANGER IN BLOOD' (similarity=0.910)"
   },
   {
     "id": "BLD2-12068",
@@ -158017,7 +158179,7 @@
     "id": "BLD2-12279",
     "index": 12279,
     "term": "SUUS",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -158025,7 +158187,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "SUUS JUDEX",
+    "body_oracle_evidence": "body matches canonical 'SUUS JUDEX' (similarity=0.928)"
   },
   {
     "id": "BLD2-12280",
@@ -159550,7 +159714,7 @@
     "id": "BLD2-12396",
     "index": 12396,
     "term": "TAURI",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -159558,7 +159722,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "TAURI LIBERI LIBERTAS",
+    "body_oracle_evidence": "body matches canonical 'TAURI LIBERI LIBERTAS' (similarity=0.886)"
   },
   {
     "id": "BLD2-12397",
@@ -161361,7 +161527,7 @@
     "id": "BLD2-12536",
     "index": 12536,
     "term": "THAVIES",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -161369,7 +161535,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "THAVIES INN",
+    "body_oracle_evidence": "body matches canonical 'THAVIES INN' (similarity=0.863)"
   },
   {
     "id": "BLD2-12537",
@@ -162631,7 +162799,7 @@
     "id": "BLD2-12634",
     "index": 12634,
     "term": "TIPPLING",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -162639,7 +162807,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "TIPPLING HOUSE",
+    "body_oracle_evidence": "body matches canonical 'TIPPLING HOUSE' (similarity=0.920)"
   },
   {
     "id": "BLD2-12635",
@@ -165694,7 +165864,7 @@
     "id": "BLD2-12872",
     "index": 12872,
     "term": "TWO",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -165702,7 +165872,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "TWO UNIVERSITIES",
+    "body_oracle_evidence": "body matches canonical 'TWO UNIVERSITIES' (similarity=0.985)"
   },
   {
     "id": "BLD2-12873",
@@ -167261,7 +167433,7 @@
     "id": "BLD2-12991",
     "index": 12991,
     "term": "UO",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -167269,7 +167441,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "UO DOMINICO",
+    "body_oracle_evidence": "body matches canonical 'UO DOMINICO' (similarity=0.993)"
   },
   {
     "id": "BLD2-12992",
@@ -169321,7 +169495,7 @@
     "id": "BLD2-13138",
     "index": 13138,
     "term": "VENTRE",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -169329,7 +169503,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "VENTRE INSPICIENDO",
+    "body_oracle_evidence": "body matches canonical 'VENTRE INSPICIENDO' (similarity=0.930)"
   },
   {
     "id": "BLD2-13139",
@@ -170467,7 +170643,7 @@
     "id": "BLD2-13218",
     "index": 13218,
     "term": "VIDUITATIS",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -170475,7 +170651,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "VIDUITATIS PROFESSIO",
+    "body_oracle_evidence": "body matches canonical 'VIDUITATIS PROFESSIO' (similarity=0.855)"
   },
   {
     "id": "BLD2-13219",
@@ -170652,7 +170830,7 @@
     "id": "BLD2-13231",
     "index": 13231,
     "term": "VILLA",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -170660,7 +170838,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "VILLA REGIA",
+    "body_oracle_evidence": "body matches canonical 'VILLA REGIA' (similarity=0.876)"
   },
   {
     "id": "BLD2-13232",
@@ -170722,7 +170902,7 @@
     "id": "BLD2-13236",
     "index": 13236,
     "term": "VILLANUM",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -170730,7 +170910,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "VILLANUM SERVITIUM",
+    "body_oracle_evidence": "body matches canonical 'VILLANUM SERVITIUM' (similarity=0.800)"
   },
   {
     "id": "BLD2-13237",
@@ -173392,7 +173574,7 @@
     "id": "BLD2-13422",
     "index": 13422,
     "term": "WELL",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -173400,7 +173582,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "WELL ENOWING",
+    "body_oracle_evidence": "body matches canonical 'WELL ENOWING' (similarity=0.827)"
   },
   {
     "id": "BLD2-13423",
@@ -173743,7 +173927,7 @@
     "id": "BLD2-13447",
     "index": 13447,
     "term": "WHEN",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -173751,7 +173935,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "duplicate_of": "WHEN AND WHERE",
+    "body_oracle_evidence": "body matches canonical 'WHEN AND WHERE' (similarity=0.918)"
   },
   {
     "id": "BLD2-13448",
