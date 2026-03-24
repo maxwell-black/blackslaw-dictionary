@@ -112,10 +112,16 @@ async function ensureAllLoaded() {
   await Promise.all(
     Object.keys(manifest).map(async (letter) => {
       if (!letterCache[letter]) {
-        const response = await fetch(manifest[letter].file);
-        const entries = await response.json();
-        letterCache[letter] = entries;
-        totalEntriesLoaded += entries.length;
+        try {
+          const response = await fetch(manifest[letter].file);
+          if (!response.ok) throw new Error('Failed to load ' + letter);
+          const entries = await response.json();
+          letterCache[letter] = entries;
+          totalEntriesLoaded += entries.length;
+        } catch (e) {
+          console.error('Failed to load letter ' + letter + ':', e);
+          letterCache[letter] = [];
+        }
       }
     })
   );
