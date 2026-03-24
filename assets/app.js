@@ -64,7 +64,17 @@ async function navigateToTerm(term) {
   renderLetter(firstChar);
   highlightCurrentLetter();
   document.title = term + ' \u2014 Black\u2019s Law Dictionary, 2nd Ed.';
-  setTimeout(function() { scrollToEntry(slug); }, 100);
+  setTimeout(function() {
+    var el = document.getElementById('entry-' + slug);
+    if (el) {
+      el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      el.style.background = 'var(--hover)';
+      setTimeout(function() { el.style.background = ''; }, 1200);
+    } else {
+      // Entry not found — show letter view with notice
+      document.getElementById('main').scrollTop = 0;
+    }
+  }, 100);
 }
 
 async function loadManifest() {
@@ -448,6 +458,18 @@ function setupEventListeners() {
 
   var searchBox = document.getElementById('search-box');
   searchBox.addEventListener('input', debounce(handleSearch, 200));
+  searchBox.addEventListener('keydown', function(event) {
+    if (event.key === 'Enter') {
+      event.preventDefault();
+      // Navigate to first visible entry in results
+      var firstEntry = document.querySelector('#entries .entry');
+      if (firstEntry) {
+        firstEntry.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        firstEntry.style.background = 'var(--hover)';
+        setTimeout(function() { firstEntry.style.background = ''; }, 1200);
+      }
+    }
+  });
 
   document.getElementById('fontDec').addEventListener('click', function() { changeFontSize(-1); });
   document.getElementById('fontInc').addEventListener('click', function() { changeFontSize(1); });
