@@ -1,14 +1,14 @@
 {
   "total_overlay_entries": 13641,
-  "live_entries": 13003,
+  "live_entries": 13001,
   "promoted_from_legacy": 1779,
   "body_sources": {
     "rebuilt": 10752,
-    "legacy": 2250,
+    "legacy": 2248,
     "manual_correction": 1
   },
   "types_in_live": {
-    "verified_main": 10513,
+    "verified_main": 10511,
     "provisional_main": 320,
     "legacy_retained": 1779,
     "headword_corrected": 9,
@@ -95852,14 +95852,6 @@
       "body_length": 73
     },
     {
-      "id": "BLD2-12553",
-      "term": "THEODOSIANUS",
-      "original_term": null,
-      "entry_type": "verified_main",
-      "body_source": "legacy",
-      "body_length": 1
-    },
-    {
       "id": "BLD2-12554",
       "term": "THEOF",
       "original_term": null,
@@ -103754,14 +103746,6 @@
       "entry_type": "verified_main",
       "body_source": "rebuilt",
       "body_length": 441
-    },
-    {
-      "id": "BLD2-13601",
-      "term": "Y.)",
-      "original_term": null,
-      "entry_type": "verified_main",
-      "body_source": "legacy",
-      "body_length": 1
     },
     {
       "id": "BLD2-13604",

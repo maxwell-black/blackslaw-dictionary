@@ -161582,7 +161582,8 @@
     "id": "BLD2-12553",
     "index": 12553,
     "term": "THEODOSIANUS",
-    "entry_type": "verified_main",
+    "entry_type": "fragment_artifact",
+    "fragment_reason": "body is scan artifact '|', irrecoverable from source page 1152",
     "confidence": 0.99,
     "source_headword": "THEODOSIANUS",
     "source_pages": [
@@ -175921,7 +175922,8 @@
     "id": "BLD2-13601",
     "index": 13601,
     "term": "Y.)",
-    "entry_type": "verified_main",
+    "entry_type": "fragment_artifact",
+    "fragment_reason": "body is '.', garbled page furniture from source_headword 'Y.) 208'",
     "confidence": 0.9,
     "source_headword": "Y.) 208",
     "source_pages": [

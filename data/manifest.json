@@ -77,7 +77,7 @@
   },
   "T": {
     "file": "data/entries_t.json",
-    "count": 529
+    "count": 528
   },
   "U": {
     "file": "data/entries_u.json",
@@ -97,7 +97,7 @@
   },
   "Y": {
     "file": "data/entries_y.json",
-    "count": 20
+    "count": 19
   },
   "Z": {
     "file": "data/entries_z.json",
