@@ -1,16 +1,16 @@
 {
   "total_overlay_entries": 13641,
-  "live_entries": 12910,
-  "promoted_from_legacy": 1686,
+  "live_entries": 12900,
+  "promoted_from_legacy": 1680,
   "body_sources": {
     "rebuilt": 10752,
-    "legacy": 2157,
+    "legacy": 2147,
     "manual_correction": 1
   },
   "types_in_live": {
-    "verified_main": 10511,
+    "verified_main": 10507,
     "provisional_main": 320,
-    "legacy_retained": 1686,
+    "legacy_retained": 1680,
     "headword_corrected": 11,
     "recovered_main": 160,
     "subentry": 201,
@@ -24732,14 +24732,6 @@
       "body_length": 3758
     },
     {
-      "id": "BLD2-03240",
-      "term": "CUILIBET",
-      "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "legacy",
-      "body_length": 392
-    },
-    {
       "id": "BLD2-03241",
       "term": "CUL",
       "original_term": null,
@@ -36740,14 +36732,6 @@
       "body_length": 52
     },
     {
-      "id": "BLD2-04805",
-      "term": "EXH",
-      "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "legacy",
-      "body_length": 220
-    },
-    {
       "id": "BLD2-04807",
       "term": "EXHAEREDATIO",
       "original_term": null,
@@ -45084,14 +45068,6 @@
       "body_length": 189
     },
     {
-      "id": "BLD2-05913",
-      "term": "GQ",
-      "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "legacy",
-      "body_length": 111
-    },
-    {
       "id": "BLD2-05914",
       "term": "GRACE",
       "original_term": null,
@@ -50586,14 +50562,6 @@
       "entry_type": "verified_main",
       "body_source": "rebuilt",
       "body_length": 249
-    },
-    {
-      "id": "BLD2-06633",
-      "term": "IMPERTIN",
-      "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "legacy",
-      "body_length": 628
     },
     {
       "id": "BLD2-06634",
@@ -57714,14 +57682,6 @@
       "entry_type": "legacy_retained",
       "body_source": "legacy",
       "body_length": 313
-    },
-    {
-      "id": "BLD2-07583",
-      "term": "LAU",
-      "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "legacy",
-      "body_length": 213
     },
     {
       "id": "BLD2-07584",
@@ -69476,14 +69436,6 @@
       "body_length": 321
     },
     {
-      "id": "BLD2-09164",
-      "term": "OMITT",
-      "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "legacy",
-      "body_length": 13210
-    },
-    {
       "id": "BLD2-09165",
       "term": "OMNI",
       "original_term": null,
@@ -77412,14 +77364,6 @@
       "body_length": 1437
     },
     {
-      "id": "BLD2-10206",
-      "term": "PROCURATORES",
-      "original_term": null,
-      "entry_type": "verified_main",
-      "body_source": "legacy",
-      "body_length": 5
-    },
-    {
       "id": "BLD2-10207",
       "term": "PROCURATORY",
       "original_term": null,
@@ -80060,14 +80004,6 @@
       "body_length": 207
     },
     {
-      "id": "BLD2-10555",
-      "term": "R A",
-      "original_term": null,
-      "entry_type": "verified_main",
-      "body_source": "legacy",
-      "body_length": 4
-    },
-    {
       "id": "BLD2-10556",
       "term": "R.&",
       "original_term": null,
@@ -80090,14 +80026,6 @@
       "entry_type": "verified_main",
       "body_source": "rebuilt",
       "body_length": 711
-    },
-    {
-      "id": "BLD2-10560",
-      "term": "R.G",
-      "original_term": null,
-      "entry_type": "verified_main",
-      "body_source": "legacy",
-      "body_length": 7
     },
     {
       "id": "BLD2-10561",
@@ -80130,14 +80058,6 @@
       "entry_type": "verified_main",
       "body_source": "rebuilt",
       "body_length": 328
-    },
-    {
-      "id": "BLD2-10565",
-      "term": "R.P",
-      "original_term": null,
-      "entry_type": "verified_main",
-      "body_source": "legacy",
-      "body_length": 5
     },
     {
       "id": "BLD2-10566",

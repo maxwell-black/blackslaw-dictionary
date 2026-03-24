@@ -41404,7 +41404,7 @@
     "id": "BLD2-03240",
     "index": 3240,
     "term": "CUILIBET",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [
@@ -41412,7 +41412,8 @@
     ],
     "flags": [
       "low_match_score"
-    ]
+    ],
+    "fragment_reason": "body is garbled spillover from CUCKOLD entry"
   },
   {
     "id": "BLD2-03241",
@@ -61644,14 +61645,15 @@
     "id": "BLD2-04805",
     "index": 4805,
     "term": "EXH",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "fragment_reason": "truncated headword fragment of EXHIBITION"
   },
   {
     "id": "BLD2-04806",
@@ -75950,14 +75952,15 @@
     "id": "BLD2-05913",
     "index": 5913,
     "term": "GQ",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "fragment_reason": "body is abbreviation table scan artifact"
   },
   {
     "id": "BLD2-05914",
@@ -85192,7 +85195,7 @@
     "id": "BLD2-06633",
     "index": 6633,
     "term": "IMPERTIN",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -85200,7 +85203,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "fragment_reason": "truncated headword fragment of IMPERTINENCE"
   },
   {
     "id": "BLD2-06634",
@@ -97436,14 +97440,15 @@
     "id": "BLD2-07583",
     "index": 7583,
     "term": "LAU",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "fragment_reason": "garbled segmentation fragment, body is LAUDEMIUM definition"
   },
   {
     "id": "BLD2-07584",
@@ -117861,7 +117866,7 @@
     "id": "BLD2-09164",
     "index": 9164,
     "term": "OMITT",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -117869,7 +117874,8 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "fragment_reason": "truncated headword, body starts mid-word 'ANCE.'"
   },
   {
     "id": "BLD2-09165",
@@ -131333,7 +131339,7 @@
     "id": "BLD2-10206",
     "index": 10206,
     "term": "PROCURATORES",
-    "entry_type": "verified_main",
+    "entry_type": "fragment_artifact",
     "confidence": 0.9,
     "source_headword": "PROCURATORES ECCLESIZ",
     "source_pages": [
@@ -131342,7 +131348,8 @@
     "flags": [
       "headword_mismatch",
       "short_body"
-    ]
+    ],
+    "fragment_reason": "body 'PARO-' is 5-char fragment"
   },
   {
     "id": "BLD2-10207",
@@ -135852,7 +135859,7 @@
     "id": "BLD2-10555",
     "index": 10555,
     "term": "R A",
-    "entry_type": "verified_main",
+    "entry_type": "fragment_artifact",
     "confidence": 0.9,
     "source_headword": "R.A",
     "source_pages": [
@@ -135861,7 +135868,8 @@
     "flags": [
       "headword_mismatch",
       "short_body"
-    ]
+    ],
+    "fragment_reason": "body '119.' is page number artifact"
   },
   {
     "id": "BLD2-10556",
@@ -135921,7 +135929,7 @@
     "id": "BLD2-10560",
     "index": 10560,
     "term": "R.G",
-    "entry_type": "verified_main",
+    "entry_type": "fragment_artifact",
     "confidence": 0.9,
     "source_headword": "R.A",
     "source_pages": [
@@ -135930,7 +135938,8 @@
     "flags": [
       "headword_mismatch",
       "short_body"
-    ]
+    ],
+    "fragment_reason": "body '344.' is page number artifact"
   },
   {
     "id": "BLD2-10561",
@@ -135991,7 +136000,7 @@
     "id": "BLD2-10565",
     "index": 10565,
     "term": "R.P",
-    "entry_type": "verified_main",
+    "entry_type": "fragment_artifact",
     "confidence": 0.9,
     "source_headword": "R.A",
     "source_pages": [
@@ -136000,7 +136009,8 @@
     "flags": [
       "headword_mismatch",
       "short_body"
-    ]
+    ],
+    "fragment_reason": "body '68. =' is page number artifact"
   },
   {
     "id": "BLD2-10566",
