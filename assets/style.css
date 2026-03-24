@@ -566,3 +566,11 @@ a.xref:hover {
 .letter-heading {
   margin: 0 0 1rem;
 }
+
+.search-truncated {
+  text-align: center;
+  padding: 1.5rem 1rem;
+  color: var(--fg2);
+  font-style: italic;
+  font-size: 0.9rem;
+}

@@ -1,0 +1,173 @@
+{
+  "total_entries": 12900,
+  "test_cases": [
+    {
+      "query": "mortgage",
+      "description": "Exact headword match",
+      "total_results": 128,
+      "top_5": [
+        "MORTGAGE",
+        "MORTGAGEE",
+        "CHATTEL MORTGAGE",
+        "DISMORTGAGE",
+        "SUBMORTGAGE"
+      ],
+      "pass": true,
+      "notes": [
+        "Top result correct: MORTGAGE"
+      ]
+    },
+    {
+      "query": "habeas corpus",
+      "description": "Multi-word exact match",
+      "total_results": 9,
+      "top_5": [
+        "HABEAS CORPUS",
+        "AD RESPONDENDUM",
+        "EXTRAORDINARY REMEDIES",
+        "FOURTH DAY",
+        "H"
+      ],
+      "pass": true,
+      "notes": [
+        "Top result correct: HABEAS CORPUS"
+      ]
+    },
+    {
+      "query": "mort",
+      "description": "Prefix matching",
+      "total_results": 230,
+      "top_5": [
+        "MORT",
+        "MORTALITY",
+        "MORTEM",
+        "MORTGAGE",
+        "MORTGAGEE"
+      ],
+      "pass": true,
+      "notes": [
+        "Contains MORTGAGE: yes",
+        "Contains MORTGAGEE: yes",
+        "Contains MORTMAIN: yes (beyond top 10)"
+      ]
+    },
+    {
+      "query": "negligence",
+      "description": "Exact match, long entry",
+      "total_results": 72,
+      "top_5": [
+        "NEGLIGENCE",
+        "ACCIDENT",
+        "BARRATRY",
+        "BREAKING",
+        "CARE"
+      ],
+      "pass": true,
+      "notes": [
+        "Top result correct: NEGLIGENCE"
+      ]
+    },
+    {
+      "query": "TRUST",
+      "description": "Case-insensitive exact match",
+      "total_results": 259,
+      "top_5": [
+        "TRUST",
+        "TRUSTEE",
+        "TRUSTER",
+        "TRUSTIS",
+        "TRUSTOR"
+      ],
+      "pass": true,
+      "notes": [
+        "Top result correct: TRUST"
+      ]
+    },
+    {
+      "query": "bail",
+      "description": "Short common term",
+      "total_results": 260,
+      "top_5": [
+        "BAIL",
+        "BAILABLE",
+        "BAILEE",
+        "BAILIE",
+        "BAILIFF"
+      ],
+      "pass": true,
+      "notes": [
+        "Top result correct: BAIL"
+      ]
+    },
+    {
+      "query": "a priori",
+      "description": "Latin phrase",
+      "total_results": 3,
+      "top_5": [
+        "A PRIORI",
+        "PREFERENCE",
+        "PREFERRED"
+      ],
+      "pass": true,
+      "notes": [
+        "Top result correct: A PRIORI"
+      ]
+    },
+    {
+      "query": "co heir",
+      "description": "Hyphenated term (CO-HEIR normalizes to \"co heir\")",
+      "total_results": 19,
+      "top_5": [
+        "CO-HEIR",
+        "CO-HEIRESS",
+        "ACCRETION",
+        "COHAERES",
+        "FELLOW-HEIR"
+      ],
+      "pass": true,
+      "notes": [
+        "Top result correct: CO-HEIR",
+        "Contains CO-HEIR: yes"
+      ]
+    },
+    {
+      "query": "larcenous",
+      "description": "Exact match (note: LARCENY not a headword \u2014 corpus gap)",
+      "total_results": 1,
+      "top_5": [
+        "LARCENOUS"
+      ],
+      "pass": true,
+      "notes": [
+        "Top result correct: LARCENOUS"
+      ]
+    },
+    {
+      "query": "quitclaim",
+      "description": "Compound term",
+      "total_results": 5,
+      "top_5": [
+        "QUITCLAIM",
+        "DEED",
+        "ENTIRE",
+        "QUIETE",
+        "REMISE"
+      ],
+      "pass": true,
+      "notes": [
+        "Contains QUITCLAIM: yes"
+      ]
+    }
+  ],
+  "all_passed": true,
+  "search_features": {
+    "exact_match": true,
+    "prefix_match": true,
+    "substring_match": true,
+    "case_insensitive": true,
+    "multi_word": true,
+    "body_search": true,
+    "result_limit": 80,
+    "ranking": "exact(100) > prefix(80) > substring(60) > body(20), alpha tiebreak"
+  }
+}

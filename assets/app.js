@@ -128,7 +128,13 @@ function renderSearchResults(entries) {
     return;
   }
   emptyState.style.display = 'none';
-  container.innerHTML = entries.map(renderEntry).join('');
+  var limited = entries.slice(0, MAX_SEARCH_RESULTS);
+  var html = limited.map(renderEntry).join('');
+  if (entries.length > MAX_SEARCH_RESULTS) {
+    html += '<p class="search-truncated">Showing ' + MAX_SEARCH_RESULTS +
+      ' of ' + entries.length + ' results. Refine your search for more specific results.</p>';
+  }
+  container.innerHTML = html;
 }
 
 function renderEntry(entry) {

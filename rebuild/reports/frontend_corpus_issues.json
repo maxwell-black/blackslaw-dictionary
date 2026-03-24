@@ -1,0 +1,18 @@
+{
+  "reported_by": "Prompt C frontend verification",
+  "date": "2026-03-23",
+  "issues": [
+    {
+      "type": "missing_headword",
+      "term": "LARCENY",
+      "severity": "medium",
+      "notes": "LARCENY is a fundamental legal term but is not a headword in the live corpus. Only LARCENOUS exists. Search for 'larceny' returns 32 body matches but no headword match. Likely suppressed or missing from the original OCR extraction."
+    },
+    {
+      "type": "missing_headword",
+      "term": "BOROUGH",
+      "severity": "low",
+      "notes": "BOROUGH is referenced by BURGH entry as '(q. v.)' but is not a headword. May be a variant spelling issue or missing entry."
+    }
+  ]
+}
