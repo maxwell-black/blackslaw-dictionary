@@ -1,11 +1,35 @@
 {
+  "previous_live_count": 12900,
+  "new_live_count": 12900,
+  "delta": 0,
   "total_overlay_entries": 13641,
   "live_entries": 12900,
   "promoted_from_legacy": 1680,
   "body_sources": {
-    "rebuilt": 10752,
+    "rebuilt": 10751,
     "legacy": 2147,
-    "manual_correction": 1
+    "manual_correction": 2
+  },
+  "counts_by_entry_type": {
+    "included": {
+      "verified_main": 10507,
+      "provisional_main": 320,
+      "legacy_retained": 1680,
+      "headword_corrected": 11,
+      "recovered_main": 160,
+      "subentry": 201,
+      "reversed_polarity": 3,
+      "alias_variant": 15,
+      "unmatched_keep": 3
+    },
+    "excluded": {
+      "junk_headword": 21,
+      "legacy_unresolved": 131,
+      "appendix_abbrev": 154,
+      "alias_phantom": 14,
+      "legacy_duplicate": 172,
+      "fragment_artifact": 249
+    }
   },
   "types_in_live": {
     "verified_main": 10507,
@@ -18,6 +42,8 @@
     "alias_variant": 15,
     "unmatched_keep": 3
   },
+  "changes_this_build": [],
+  "summary": "Live corpus: 12900 entries (0 from previous build of 12900). 1680 legacy_unresolved entries promoted to legacy_retained.",
   "entries": [
     {
       "id": "BLD2-00000",
@@ -35712,8 +35738,8 @@
       "term": "ESTOVERS",
       "original_term": null,
       "entry_type": "verified_main",
-      "body_source": "rebuilt",
-      "body_length": 807
+      "body_source": "manual_correction",
+      "body_length": 801
     },
     {
       "id": "BLD2-04674",

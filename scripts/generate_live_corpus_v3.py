@@ -142,6 +142,25 @@ def pick_body(
 def main() -> int:
     OUT_DIR.mkdir(parents=True, exist_ok=True)
 
+    # Read previous build report for delta tracking
+    prev_report_path = OUT_DIR / "live_build_report.json"
+    prev_report: dict | None = None
+    if prev_report_path.exists():
+        with prev_report_path.open("r", encoding="utf-8") as fh:
+            prev_report = json.load(fh)
+
+    prev_live_count = 0
+    prev_entries_by_id: dict[str, dict] = {}
+    if prev_report:
+        prev_live_count = prev_report.get("live_entries", prev_report.get("new_live_count", 0))
+        for pe in prev_report.get("entries", []):
+            prev_entries_by_id[pe["id"]] = pe
+
+    # Also check .prev_live_count file as fallback
+    prev_count_file = OUT_DIR / ".prev_live_count"
+    if prev_live_count == 0 and prev_count_file.exists():
+        prev_live_count = int(prev_count_file.read_text().strip())
+
     with OVERLAY_PATH.open("r", encoding="utf-8") as fh:
         overlay: list[dict] = json.load(fh)
     print(f"Loaded {len(overlay)} overlay entries")
@@ -170,11 +189,14 @@ def main() -> int:
     report_entries: list[dict] = []
     body_source_counts: dict[str, int] = {}
     type_in_live: dict[str, int] = {}
+    type_excluded: dict[str, int] = {}
     promoted_count = 0
+    current_entries_by_id: dict[str, dict] = {}
 
     for idx, (o, r) in enumerate(zip(overlay, rebuilt)):
         entry_type = o["entry_type"]
         term = o["term"]
+        eid = o["id"]
         original_term = o.get("original_term")
 
         # Look up legacy body by original_term for corrected entries
@@ -184,6 +206,7 @@ def main() -> int:
             legacy_entry = legacy_by_term.get(term)
 
         include = False
+        effective_type = entry_type
 
         if entry_type in LIVE_TYPES:
             include = True
@@ -191,10 +214,14 @@ def main() -> int:
             lb = ((legacy_entry or {}).get("body") or "").strip()
             if len(lb) >= MIN_LEGACY_BODY:
                 include = True
-                entry_type = "legacy_retained"
+                effective_type = "legacy_retained"
                 promoted_count += 1
 
         if not include:
+            type_excluded[entry_type] = type_excluded.get(entry_type, 0) + 1
+            current_entries_by_id[eid] = {
+                "id": eid, "term": term, "entry_type": entry_type, "included": False,
+            }
             continue
 
         body, body_source = pick_body(o, r, legacy_entry, original_term, body_corrections)
@@ -209,7 +236,7 @@ def main() -> int:
         source_pages = o.get("source_pages", [])
 
         body_source_counts[body_source] = body_source_counts.get(body_source, 0) + 1
-        type_in_live[entry_type] = type_in_live.get(entry_type, 0) + 1
+        type_in_live[effective_type] = type_in_live.get(effective_type, 0) + 1
 
         live_entries.append({
             "term": term,
@@ -217,14 +244,50 @@ def main() -> int:
             "source_pages": source_pages,
         })
 
-        report_entries.append({
-            "id": o["id"],
+        entry_report = {
+            "id": eid,
             "term": term,
             "original_term": original_term,
-            "entry_type": entry_type,
+            "entry_type": effective_type,
             "body_source": body_source,
             "body_length": len(body),
-        })
+        }
+        report_entries.append(entry_report)
+        current_entries_by_id[eid] = {
+            "id": eid, "term": term, "entry_type": effective_type, "included": True,
+        }
+
+    # Compute changes from previous build
+    changes_this_build: list[dict] = []
+    if prev_entries_by_id:
+        all_ids = set(prev_entries_by_id.keys()) | set(current_entries_by_id.keys())
+        for eid in sorted(all_ids):
+            prev = prev_entries_by_id.get(eid)
+            curr = current_entries_by_id.get(eid)
+            if not prev or not curr:
+                continue
+            prev_type = prev.get("entry_type", "unknown")
+            curr_type = curr.get("entry_type", "unknown")
+            if prev_type != curr_type:
+                changes_this_build.append({
+                    "id": eid,
+                    "headword": curr.get("term", prev.get("term", "")),
+                    "old_entry_type": prev_type,
+                    "new_entry_type": curr_type,
+                })
+
+    # Build summary
+    delta = len(live_entries) - prev_live_count if prev_live_count else 0
+    delta_str = f"+{delta}" if delta > 0 else str(delta)
+    summary_parts = [
+        f"Live corpus: {len(live_entries)} entries ({delta_str} from previous build of {prev_live_count}).",
+        f"{promoted_count} legacy_unresolved entries promoted to legacy_retained.",
+    ]
+    if changes_this_build:
+        summary_parts.append(
+            f"{len(changes_this_build)} entry classification(s) changed this build."
+        )
+    summary = " ".join(summary_parts)
 
     # Write outputs
     live_path = OUT_DIR / "blacks_entries.live_candidate.json"
@@ -233,15 +296,25 @@ def main() -> int:
         fh.write("\n")
 
     report_path = OUT_DIR / "live_build_report.json"
+    report_data = {
+        "previous_live_count": prev_live_count,
+        "new_live_count": len(live_entries),
+        "delta": delta,
+        "total_overlay_entries": len(overlay),
+        "live_entries": len(live_entries),
+        "promoted_from_legacy": promoted_count,
+        "body_sources": body_source_counts,
+        "counts_by_entry_type": {
+            "included": type_in_live,
+            "excluded": type_excluded,
+        },
+        "types_in_live": type_in_live,
+        "changes_this_build": changes_this_build,
+        "summary": summary,
+        "entries": report_entries,
+    }
     with report_path.open("w", encoding="utf-8") as fh:
-        json.dump({
-            "total_overlay_entries": len(overlay),
-            "live_entries": len(live_entries),
-            "promoted_from_legacy": promoted_count,
-            "body_sources": body_source_counts,
-            "types_in_live": type_in_live,
-            "entries": report_entries,
-        }, fh, indent=2, ensure_ascii=False)
+        json.dump(report_data, fh, indent=2, ensure_ascii=False)
         fh.write("\n")
 
     # Summary
@@ -252,6 +325,9 @@ def main() -> int:
     print(f"Live entries:            {len(live_entries)}")
     print(f"Excluded:                {len(overlay) - len(live_entries)}")
     print(f"Promoted from legacy:    {promoted_count}")
+    if prev_live_count:
+        print(f"Previous live count:     {prev_live_count}")
+        print(f"Delta:                   {delta_str}")
 
     print(f"\nEntry types in live build:")
     for t in ["verified_main", "provisional_main", "recovered_main",
@@ -261,9 +337,21 @@ def main() -> int:
             print(f"  {t:25s} {type_in_live[t]:>6,}")
     print(f"  {'TOTAL':25s} {len(live_entries):>6,}")
 
+    if type_excluded:
+        print(f"\nExcluded entry types:")
+        for t in sorted(type_excluded, key=lambda x: -type_excluded[x]):
+            print(f"  {t:25s} {type_excluded[t]:>6,}")
+
     print(f"\nBody sources:")
     for src, count in sorted(body_source_counts.items(), key=lambda x: -x[1]):
         print(f"  {src:25s} {count:>6,}")
+
+    if changes_this_build:
+        print(f"\nChanges this build: {len(changes_this_build)}")
+        for ch in changes_this_build[:10]:
+            print(f"  {ch['id']} {ch['headword']}: {ch['old_entry_type']} -> {ch['new_entry_type']}")
+        if len(changes_this_build) > 10:
+            print(f"  ... and {len(changes_this_build) - 10} more")
 
     print(f"\nOutput: {live_path}")
     print(f"Report: {report_path}")

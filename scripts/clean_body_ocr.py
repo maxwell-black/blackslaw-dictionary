@@ -7,7 +7,10 @@ Safe fixes applied:
 - "@" -> "a" when at word boundary before lowercase letter
 - "a@ " -> "a " (spurious @ after a)
 - "@b " -> "ab " at word boundary
+- "&@ " -> "a " and " @& " -> " a " (garbled ampersand+at for 'a')
+- "(@ " -> "(a " (@ after opening paren)
 - "4nd" -> "and", "4ll" -> "all", "4n " -> "an ", "4s " -> "as ", "4t " -> "at "
+- Isolated 'a' on its own line from @->a on page breaks
 - Double spaces -> single space
 """
 import json
@@ -37,7 +40,12 @@ def clean_body(body):
     # @ fixes (order matters — specific patterns before general)
     counted_sub(r'a@\s', 'a ', 'a@->a')
     counted_sub(r'@b\b', 'ab', '@b->ab')
+    # &@ and @& are garbled OCR for 'a' (ampersand+at or at+ampersand)
+    counted_sub(r'&@\s', 'a ', '&@->a')
+    counted_sub(r'\s@&\s', ' a ', '@&->a')
     counted_sub(r'\s@\s', ' a ', ' @ -> a')
+    # @ after opening paren: "(@ word" -> "(a word"
+    counted_sub(r'\(@\s', '(a ', '(@->a')
     # @ as standalone "a" before a word: space-@-word -> space-a-space-word
     counted_sub(r'(?<=\s)@(?=[a-z])', 'a ', '@->a (before lowercase)')
     counted_sub(r'^@(?=[a-z])', 'a ', '@->a (start of text)')
@@ -48,6 +56,10 @@ def clean_body(body):
     counted_sub(r'(?<![0-9§])4n\s', 'an ', '4n->an')
     counted_sub(r'(?<![0-9§])4s\s', 'as ', '4s->as')
     counted_sub(r'(?<![0-9§])4t\s', 'at ', '4t->at')
+
+    # Post-@ reflow cleanup: fix isolated 'a' left between paragraph breaks
+    # when @ was on its own line between \n\n breaks, @->a leaves \n a \n
+    counted_sub(r'\n a \n', ' a ', 'isolated-a-line')
 
     # Collapse double spaces
     counted_sub(r'  +', ' ', 'double spaces')
