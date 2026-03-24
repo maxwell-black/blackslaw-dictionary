@@ -8,9 +8,21 @@ let isDarkMode = false;
 let fontSize = 17;
 let totalEntriesLoaded = 0;
 let totalEntries = 0;
+let headwordSet = null;
 
 const FONT_SIZE_MIN = 14;
 const FONT_SIZE_MAX = 28;
+const MAX_SEARCH_RESULTS = 80;
+
+// Common words that should never be linked as cross-references
+const XREF_EXCLUDE = new Set([
+  'A','AN','AS','AT','BE','BY','DO','GO','HE','IF','IN','IS','IT',
+  'ME','MY','NO','OF','ON','OR','SO','TO','UP','WE','THE','AND',
+  'BUT','FOR','NOR','NOT','YET','ALL','ANY','ARE','HIS','HER','HAS',
+  'HAD','WAS','DID','CAN','MAY','ITS','OUR','OWN','USE','WAY','OUT',
+  'SUPRA','INFRA','ANTE','POST','ALSO','THOSE','TITLES','THAT',
+]);
+let isJumping = false;
 
 window.addEventListener('hashchange', handleDeepLink);
 document.addEventListener('DOMContentLoaded', init);
@@ -18,22 +30,41 @@ document.addEventListener('DOMContentLoaded', init);
 async function init() {
   loadSettings();
   setupEventListeners();
-  await loadManifest();
+  await Promise.all([loadManifest(), loadHeadwordIndex()]);
   setupSidebar();
   document.getElementById('loadingState').style.display = 'none';
   document.getElementById('welcomeState').style.display = 'block';
 
-  const hash = window.location.hash.slice(1);
+  var hash = decodeURIComponent(window.location.hash.slice(1));
   if (hash) {
-    const firstChar = hash.charAt(0).toUpperCase();
-    if (manifest[firstChar]) {
-      await loadLetter(firstChar);
-      hideWelcomeState();
-      renderLetter(firstChar);
-      highlightCurrentLetter();
-      setTimeout(() => scrollToEntry(hash), 100);
-    }
+    await navigateToTerm(hash);
   }
+}
+
+async function loadHeadwordIndex() {
+  try {
+    var response = await fetch('assets/headwords.json');
+    if (!response.ok) return;
+    var headwords = await response.json();
+    headwordSet = new Set(headwords.map(function(h) { return h.toUpperCase(); }));
+  } catch (e) {
+    console.error('Failed to load headword index:', e);
+  }
+}
+
+async function navigateToTerm(term) {
+  if (!manifest) return;
+  var slug = slugify(term);
+  var firstChar = term.charAt(0).toUpperCase();
+  if (!manifest[firstChar]) return;
+
+  currentLetter = firstChar;
+  if (!letterCache[firstChar]) await loadLetter(firstChar);
+  hideWelcomeState();
+  renderLetter(firstChar);
+  highlightCurrentLetter();
+  document.title = term + ' \u2014 Black\u2019s Law Dictionary, 2nd Ed.';
+  setTimeout(function() { scrollToEntry(slug); }, 100);
 }
 
 async function loadManifest() {
@@ -145,40 +176,166 @@ function formatSubEntries(html) {
   );
 }
 
+function makeXrefLink(slug, display) {
+  return '<a href="#' + slug + '" class="xref" onclick="jumpToEntry(\'' +
+    slug.replace(/'/g, "\\'") + '\');return false;">' + display + '</a>';
+}
+
+function resolveXrefTerm(rawTerm) {
+  // Resolve a cross-reference term via progressive word shortening from the right.
+  // Returns { html, remainder, matched }
+  if (!headwordSet || !rawTerm) return { html: rawTerm, remainder: '', matched: false };
+  var cleaned = rawTerm.trim().replace(/[,;:\s]+$/, '');
+  if (!cleaned || cleaned.length < 2) return { html: rawTerm, remainder: '', matched: false };
+  var upper = cleaned.toUpperCase();
+  if (XREF_EXCLUDE.has(upper)) return { html: cleaned, remainder: '', matched: false };
+  var words = cleaned.split(/\s+/);
+  for (var len = words.length; len >= 1; len--) {
+    var candidate = words.slice(0, len).join(' ');
+    var candidateUpper = candidate.toUpperCase();
+    if (candidateUpper.length < 2) continue;
+    if (XREF_EXCLUDE.has(candidateUpper)) continue;
+    if (headwordSet.has(candidateUpper)) {
+      var slug = slugify(candidate);
+      var link = makeXrefLink(slug, candidate);
+      var rest = words.slice(len);
+      return { html: link, remainder: rest.length ? ' ' + rest.join(' ') : '', matched: true };
+    }
+  }
+  return { html: cleaned, remainder: '', matched: false };
+}
+
+function resolveBackRef(rawTerm, preferRight) {
+  // Resolve a back-reference (q.v., which see) by trying all contiguous
+  // subsequences of words, longest first.
+  // preferRight=true iterates right-to-left (for q.v. — term is closest to marker)
+  // preferRight=false iterates left-to-right (for which see — primary term first)
+  if (!headwordSet || !rawTerm) return null;
+  var cleaned = rawTerm.trim().replace(/[,;:\.\s]+$/, '');
+  if (!cleaned) return null;
+  var words = cleaned.split(/\s+/);
+  for (var len = words.length; len >= 1; len--) {
+    var startFrom = preferRight ? words.length - len : 0;
+    var endAt = preferRight ? -1 : words.length - len + 1;
+    var step = preferRight ? -1 : 1;
+    for (var start = startFrom; preferRight ? start > endAt : start < endAt; start += step) {
+      var candidate = words.slice(start, start + len).join(' ');
+      var candidateUpper = candidate.toUpperCase();
+      if (candidateUpper.length < 2) continue;
+      if (XREF_EXCLUDE.has(candidateUpper)) continue;
+      if (headwordSet.has(candidateUpper)) {
+        var slug = slugify(candidate);
+        return {
+          link: makeXrefLink(slug, candidate),
+          before: words.slice(0, start).join(' '),
+          after: words.slice(start + len).join(' '),
+          matched: true
+        };
+      }
+    }
+  }
+  return null;
+}
+
 function linkCrossReferences(html) {
-  // Match "See TERM", "See also TERM", "Vide TERM", "(q. v.)", "(q.v.)"
-  // TERM is one or more uppercase words, possibly with hyphens/spaces
+  if (!headwordSet) return html;
+
+  // 1. Forward references: "See also|See|see|Vide|Same as" + UPPERCASE TERM(s)
   html = html.replace(
-    /\b(See also|See|Vide)\s+([A-Z][A-Z\s,\-]{1,40}[A-Z])\b/g,
-    function(match, prefix, term) {
-      var cleanTerm = term.replace(/,\s*$/, '').trim();
-      var slug = slugify(cleanTerm);
-      return prefix + ' <a href="#' + slug + '" class="xref" onclick="jumpToEntry(\'' +
-        escapeHtml(slug) + '\');return false;">' + cleanTerm + '</a>';
+    /\b(See also|see also|See|see|Vide|vide|Same as|same as)\s+([A-Z][A-Z \-,;']{0,80})/g,
+    function(match, prefix, captured) {
+      var cleaned = captured.replace(/[,;:\s]+$/, '');
+      if (!cleaned) return match;
+      // Semicolon-separated multi-refs: "See FRAUD; DECEIT; MALICE"
+      if (cleaned.indexOf(';') > -1) {
+        var parts = cleaned.split(/\s*;\s*/).filter(Boolean);
+        var rendered = parts.map(function(p) {
+          var result = resolveXrefTerm(p.trim());
+          if (result.matched) return result.html + result.remainder;
+          var isUpperPrefix = /^[A-Z]/.test(prefix);
+          if (isUpperPrefix) return '<span class="xref-unresolved">' + p.trim() + '</span>';
+          return p.trim();
+        });
+        return prefix + ' ' + rendered.join('; ');
+      }
+      var result = resolveXrefTerm(cleaned);
+      if (result.matched) return prefix + ' ' + result.html + result.remainder;
+      // Unresolved: style only for uppercase-starting prefixes (See, Vide)
+      if (/^[A-Z]/.test(prefix)) {
+        return prefix + ' <span class="xref-unresolved">' + cleaned + '</span>';
+      }
+      return match;
     }
   );
+
+  // 2. Back-reference: TERM (q. v.) or TERM (q.v.)
+  // preferRight=true: the term closest to (q.v.) is the intended target
+  html = html.replace(
+    /\b([A-Za-z][\w'-]*(?:\s+[A-Za-z][\w'-]*){0,3}),?\s*\(q\.\s*v\.\)/g,
+    function(match, preceding) {
+      if (match.indexOf('class="xref"') > -1) return match;
+      var result = resolveBackRef(preceding.trim(), true);
+      if (result) {
+        return (result.before ? result.before + ' ' : '') + result.link +
+          (result.after ? ' ' + result.after : '') + ' (q.&nbsp;v.)';
+      }
+      return match;
+    }
+  );
+
+  // 3. Back-reference: TERM, which see
+  // preferRight=true: the term closest to "which see" is the intended target
+  html = html.replace(
+    /\b([A-Za-z][\w'-]*(?:\s+[A-Za-z][\w'-]*){0,4}),?\s+which see\b/gi,
+    function(match, preceding) {
+      if (match.indexOf('class="xref"') > -1) return match;
+      var result = resolveBackRef(preceding.trim(), true);
+      if (result) {
+        return (result.before ? result.before + ' ' : '') + result.link +
+          (result.after ? ' ' + result.after : '') + ', which see';
+      }
+      return match;
+    }
+  );
+
   return html;
 }
 
 async function jumpToEntry(slug) {
-  // Try to find the entry's letter and navigate there
-  var parts = slug.split('-');
-  if (!parts.length) return;
-  var firstChar = parts[0].charAt(0).toUpperCase();
-  if (manifest && manifest[firstChar]) {
+  if (isJumping) return;
+  isJumping = true;
+  try {
+    var parts = slug.split('-');
+    if (!parts.length) { isJumping = false; return; }
+    var firstChar = parts[0].charAt(0).toUpperCase();
+    if (!manifest || !manifest[firstChar]) { isJumping = false; return; }
+    // Load the letter data if needed
     if (!letterCache[firstChar]) await loadLetter(firstChar);
-    var el = document.getElementById('entry-' + slug);
-    if (!el) {
-      // Switch to that letter first
-      await switchLetter(firstChar);
-      el = document.getElementById('entry-' + slug);
+    // Switch to the target letter if not already there
+    if (currentLetter !== firstChar || currentMode !== 'browse') {
+      currentLetter = firstChar;
+      currentMode = 'browse';
+      document.getElementById('search-box').value = '';
+      document.getElementById('resultCount').textContent = '';
+      hideWelcomeState();
+      renderLetter(firstChar);
+      highlightCurrentLetter();
     }
-    if (el) {
-      window.location.hash = slug;
-      el.scrollIntoView({ behavior: 'smooth', block: 'center' });
-      el.style.background = 'var(--hover)';
-      setTimeout(function() { el.style.background = ''; }, 1200);
-    }
+    // Update hash for bookmarkability
+    window.location.hash = slug;
+    // Scroll to and highlight the entry
+    setTimeout(function() {
+      var el = document.getElementById('entry-' + slug);
+      if (el) {
+        el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        el.style.background = 'var(--hover)';
+        setTimeout(function() { el.style.background = ''; }, 1200);
+      }
+      isJumping = false;
+    }, 50);
+  } catch (e) {
+    isJumping = false;
+    console.error('jumpToEntry error:', e);
   }
 }
 
@@ -345,8 +502,9 @@ function hideWelcomeState() {
 }
 
 function handleDeepLink() {
-  var hash = window.location.hash.slice(1);
-  if (hash) scrollToEntry(hash);
+  if (isJumping) return;
+  var hash = decodeURIComponent(window.location.hash.slice(1));
+  if (hash) navigateToTerm(hash);
 }
 
 function scrollToEntry(termHash) {

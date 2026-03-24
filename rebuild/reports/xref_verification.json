@@ -1,0 +1,322 @@
+{
+  "patterns": {},
+  "summary": {
+    "headword_count": 12900,
+    "forward_references": {
+      "total_patterns": 2660,
+      "resolved": 544,
+      "unresolved": 2124,
+      "resolution_rate": "20.5%"
+    },
+    "qv_references": {
+      "total_patterns": 83,
+      "resolved": 70,
+      "unresolved": 13,
+      "resolution_rate": "84.3%"
+    },
+    "which_see_references": {
+      "total_patterns": 13,
+      "resolved": 7,
+      "unresolved": 6,
+      "resolution_rate": "53.8%"
+    },
+    "total_all_patterns": 2756,
+    "total_resolved": 621,
+    "overall_resolution_rate": "22.5%"
+  },
+  "sample_resolved": [
+    {
+      "entry": "A VINCULO",
+      "pattern": "See DIVORCE",
+      "resolved_to": "DIVORCE"
+    },
+    {
+      "entry": "ABANDON",
+      "pattern": "See ABANDONMENT",
+      "resolved_to": "ABANDONMENT"
+    },
+    {
+      "entry": "ABET",
+      "pattern": "See ABETTOR",
+      "resolved_to": "ABETTOR"
+    },
+    {
+      "entry": "ABETTATOR",
+      "pattern": "See ABETTOR",
+      "resolved_to": "ABETTOR"
+    },
+    {
+      "entry": "ABIGEATUS",
+      "pattern": "See ABIGEUS",
+      "resolved_to": "ABIGEUS"
+    },
+    {
+      "entry": "ABIGERE",
+      "pattern": "See ABIGEUS",
+      "resolved_to": "ABIGEUS"
+    },
+    {
+      "entry": "ACCOMMODATION",
+      "pattern": "See INDORSEMENT",
+      "resolved_to": "INDORSEMENT"
+    },
+    {
+      "entry": "ACT",
+      "pattern": "See ATTAINDER",
+      "resolved_to": "ATTAINDER"
+    },
+    {
+      "entry": "ADEEM",
+      "pattern": "See ADEMPTION",
+      "resolved_to": "ADEMPTION"
+    },
+    {
+      "entry": "ADJUDICATION",
+      "pattern": "See ACCESSIO",
+      "resolved_to": "ACCESSIO"
+    },
+    {
+      "entry": "ADJUNCTIO",
+      "pattern": "See ACCESSIO",
+      "resolved_to": "ACCESSIO"
+    },
+    {
+      "entry": "ADMINICLE",
+      "pattern": "See ADMINICULUM",
+      "resolved_to": "ADMINICULUM"
+    },
+    {
+      "entry": "AFFIRMANCE",
+      "pattern": "See AFFIRM",
+      "resolved_to": "AFFIRM"
+    },
+    {
+      "entry": "AFFIRMANT",
+      "pattern": "See AFFIRMATION",
+      "resolved_to": "AFFIRMATION"
+    },
+    {
+      "entry": "AGGRAVATED",
+      "pattern": "See ASSAULT",
+      "resolved_to": "ASSAULT"
+    }
+  ],
+  "sample_unresolved": [
+    {
+      "entry": "A AVER",
+      "pattern": "See A",
+      "reason": "no headword match"
+    },
+    {
+      "entry": "A PALATIO",
+      "pattern": "See P",
+      "reason": "no headword match"
+    },
+    {
+      "entry": "ABANDONMENT",
+      "pattern": "See P",
+      "reason": "no headword match"
+    },
+    {
+      "entry": "ABBREVIATIONS",
+      "pattern": "see A",
+      "reason": "no headword match"
+    },
+    {
+      "entry": "ABIDE",
+      "pattern": "See M",
+      "reason": "no headword match"
+    },
+    {
+      "entry": "ABIGEUS",
+      "pattern": "See C",
+      "reason": "no headword match"
+    },
+    {
+      "entry": "ABJURE",
+      "pattern": "See ABJURBATION",
+      "reason": "no headword match"
+    },
+    {
+      "entry": "ABOUTISSEMENT",
+      "pattern": "See G",
+      "reason": "no headword match"
+    },
+    {
+      "entry": "ABOVE",
+      "pattern": "See BE- L",
+      "reason": "no headword match"
+    },
+    {
+      "entry": "ABRIDGMENT",
+      "pattern": "Vide B",
+      "reason": "no headword match"
+    },
+    {
+      "entry": "ABUT",
+      "pattern": "see L",
+      "reason": "no headword match"
+    },
+    {
+      "entry": "ACCEDAS",
+      "pattern": "See F",
+      "reason": "no headword match"
+    },
+    {
+      "entry": "ACCIDENT",
+      "pattern": "see S",
+      "reason": "no headword match"
+    },
+    {
+      "entry": "ACCIDENT",
+      "pattern": "see B",
+      "reason": "no headword match"
+    },
+    {
+      "entry": "ACCIDENT",
+      "pattern": "See also PERILS OF THE SE",
+      "reason": "no headword match"
+    }
+  ],
+  "sample_qv_resolved": [
+    {
+      "entry": "ACTIO",
+      "pattern": "more ancient actio civilia (q.v.)",
+      "resolved_to": "ACTIO"
+    },
+    {
+      "entry": "AD FILUM AQUI",
+      "pattern": "ad medtum fllum aque (q.v.)",
+      "resolved_to": "AD"
+    },
+    {
+      "entry": "AEQUITAS",
+      "pattern": "strictum or summum jus (q.v.)",
+      "resolved_to": "JUS"
+    },
+    {
+      "entry": "AGNATES",
+      "pattern": "with the Latin agnati (q.v.)",
+      "resolved_to": "AGNATI"
+    },
+    {
+      "entry": "ALIENI",
+      "pattern": "contrasted with Sur Juris (q.v.)",
+      "resolved_to": "JURIS"
+    },
+    {
+      "entry": "ALODE",
+      "pattern": "or allodium (q.v.)",
+      "resolved_to": "ALLODIUM"
+    },
+    {
+      "entry": "AMITTERE",
+      "pattern": "as amittere legem terra (q.v.)",
+      "resolved_to": "TERRA"
+    },
+    {
+      "entry": "ANTECESSOR",
+      "pattern": "An ancestor (q.v.)",
+      "resolved_to": "ANCESTOR"
+    },
+    {
+      "entry": "APPURTENANT",
+      "pattern": "is distinguished from appendant (q.v.)",
+      "resolved_to": "APPENDANT"
+    },
+    {
+      "entry": "ARRESTATIO",
+      "pattern": "An arrest (q.v.)",
+      "resolved_to": "ARREST"
+    }
+  ],
+  "sample_qv_unresolved": [
+    {
+      "entry": "ABAVITA",
+      "pattern": "a misprint for abamita (q.v.)",
+      "reason": "no headword match"
+    },
+    {
+      "entry": "BANE",
+      "pattern": "Deodands (q.v.)",
+      "reason": "no headword match"
+    },
+    {
+      "entry": "BURGH",
+      "pattern": "a borough (q.v.)",
+      "reason": "no headword match"
+    },
+    {
+      "entry": "BYE-BIL-WUFFA",
+      "pattern": "of A and B (q.v.)",
+      "reason": "no headword match"
+    },
+    {
+      "entry": "DECLINATOIRES",
+      "pattern": "and of conneit\u00e9 (q.v.)",
+      "reason": "no headword match"
+    },
+    {
+      "entry": "ENFITEUSIS",
+      "pattern": "Emphgteusis (q.v.)",
+      "reason": "no headword match"
+    },
+    {
+      "entry": "HALLE-GEMOTE",
+      "pattern": "dHaligemot (q.v.)",
+      "reason": "no headword match"
+    },
+    {
+      "entry": "LEX",
+      "pattern": "the Lez Pretoria (q.v.)",
+      "reason": "no headword match"
+    },
+    {
+      "entry": "MENSIS",
+      "pattern": "fence-month (q.v.)",
+      "reason": "no headword match"
+    },
+    {
+      "entry": "NAVAL",
+      "pattern": "Appertaining to the navy (q.v.)",
+      "reason": "no headword match"
+    }
+  ],
+  "sample_whichsee_resolved": [
+    {
+      "entry": "ASSISE",
+      "pattern": "Assise of fresh force, which see",
+      "resolved_to": "FORCE"
+    },
+    {
+      "entry": "ASSISE",
+      "pattern": "Assise of mort danccestor, which see",
+      "resolved_to": "MORT"
+    },
+    {
+      "entry": "ASSISE",
+      "pattern": "Assise of novel disseisin, which see",
+      "resolved_to": "NOVEL DISSEISIN"
+    },
+    {
+      "entry": "BREVIA",
+      "pattern": "The plural of breve, which see",
+      "resolved_to": "BREVE"
+    },
+    {
+      "entry": "BUTTALS",
+      "pattern": "abuttals, which see",
+      "resolved_to": "ABUTTALS"
+    },
+    {
+      "entry": "CONTROLLER",
+      "pattern": "A comptroller, which see",
+      "resolved_to": "COMPTROLLER"
+    },
+    {
+      "entry": "ISM",
+      "pattern": "Another name for maniacal-depressive insanity, which see",
+      "resolved_to": "INSANITY"
+    }
+  ]
+}
