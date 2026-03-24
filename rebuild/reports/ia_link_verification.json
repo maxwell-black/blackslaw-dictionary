@@ -1,0 +1,58 @@
+{
+  "verification_date": "2026-03-23",
+  "ia_identifier": "blacks-law-dictionary-2nd-edition-1910",
+  "url_template": "https://archive.org/details/blacks-law-dictionary-2nd-edition-1910/page/n{LEAF}/mode/1up",
+  "offset_formula": "leaf = printed_page + 11",
+  "offset_verified_against": "rebuild/out/source_pages.jsonl (leaf=21 -> printed_page=10, leaf=22 -> printed_page=11, etc.)",
+  "entries_tested": [
+    {
+      "term": "ABSTRACT",
+      "source_pages": ["11"],
+      "computed_leaf": 22,
+      "url": "https://archive.org/details/blacks-law-dictionary-2nd-edition-1910/page/n22/mode/1up",
+      "http_status": 200,
+      "pass": true
+    },
+    {
+      "term": "BAIL",
+      "source_pages": ["112", "113"],
+      "computed_leaf": 123,
+      "url": "https://archive.org/details/blacks-law-dictionary-2nd-edition-1910/page/n123/mode/1up",
+      "http_status": 200,
+      "pass": true
+    },
+    {
+      "term": "MORTGAGE",
+      "source_pages": ["793", "794"],
+      "computed_leaf": 804,
+      "url": "https://archive.org/details/blacks-law-dictionary-2nd-edition-1910/page/n804/mode/1up",
+      "http_status": 200,
+      "pass": true
+    },
+    {
+      "term": "NEGLIGENCE",
+      "source_pages": ["810", "811"],
+      "computed_leaf": 821,
+      "url": "https://archive.org/details/blacks-law-dictionary-2nd-edition-1910/page/n821/mode/1up",
+      "http_status": 200,
+      "pass": true
+    },
+    {
+      "term": "TRUST",
+      "source_pages": ["1175", "1176", "1177"],
+      "computed_leaf": 1186,
+      "url": "https://archive.org/details/blacks-law-dictionary-2nd-edition-1910/page/n1186/mode/1up",
+      "http_status": 200,
+      "pass": true
+    }
+  ],
+  "code_review": {
+    "function": "renderEntry() in assets/app.js",
+    "source_pages_field": "Array of printed page number strings",
+    "leaf_computation": "parseInt(p, 10) + 11",
+    "link_target": "_blank with rel=noopener",
+    "multi_page_display": "Comma-separated linked page numbers: 'Source p.42, 43'",
+    "non_numeric_handling": "Falls back to escapeHtml(p) — displayed but not linked"
+  },
+  "result": "PASS — all 5 URLs return HTTP 200, offset formula verified against source_pages.jsonl"
+}
