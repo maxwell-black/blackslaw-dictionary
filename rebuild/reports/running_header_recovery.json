@@ -1,0 +1,382 @@
+{
+  "summary": {
+    "RECOVERED_FROM_DJVU": 7,
+    "PARTIAL_DJVU": 13,
+    "NOT_RECOVERABLE": 3
+  },
+  "results": [
+    {
+      "raw_term": "COURT OF THE CORONER",
+      "corrected_term": "COURT OF THE CORONER",
+      "leaf": 299,
+      "classification": "RECOVERED_FROM_DJVU",
+      "detail": {
+        "match_type": "exact",
+        "source_index": 3102,
+        "source_headword": "COURT OF THE CORONER",
+        "body": "In Eng-\n-lish law.\nA court of record, to inquire, when\nany one dies in prison, or comes to a violent\nor sudden death, by what manner he came to\nhis end. 4 Steph. Comm. 323; 4 Bl. Comm.\n274. See CORONER.\n\nCOURTS OF THE COUNTIES PALA-",
+        "leaves": [
+          299
+        ]
+      },
+      "page_hits": 1
+    },
+    {
+      "raw_term": "COURT OF GREAT SESSIONS",
+      "corrected_term": "COURT OF GREAT SESSIONS",
+      "leaf": 300,
+      "classification": "PARTIAL_DJVU",
+      "detail": {
+        "page_hits": [
+          {
+            "leaf": 300,
+            "printed_page": "289",
+            "context": "289. COURT OF GREAT SESSIONS  NEW YORK) TOA COURT OF GENERAL ORIGINAL JURISDICTION IN CRIMINAL CASES..  COURT OF GREAT SESSIONS IN, WALES. A COURT FORMERLY HELD IN WALES; ABOLISHED BY 11 GEO. LV. AND 1 WM. IV. C 70, AND THE WELS"
+          }
+        ],
+        "note": "Found in page text but no clean headword/body extraction"
+      },
+      "page_hits": 1
+    },
+    {
+      "raw_term": "COURT OF PRIVATE LAND",
+      "corrected_term": "COURT OF PRIVATE LAND",
+      "leaf": 302,
+      "classification": "PARTIAL_DJVU",
+      "detail": {
+        "page_hits": [
+          {
+            "leaf": 302,
+            "printed_page": "291",
+            "context": "COURT OF PRIVATE LAND  UPON THE THOROUGH. REDUCTION OF THAT PRINCIPALITY AND THE SETTLING OF ITS POLITY IN THE REIGN OF HENRY VIII., WERE ERECTED ALL OVER THE COUNTRY. THESE COURTS, HOWEVER, HAVE BEEN ABOLISHED BY 1 WM. I"
+          },
+          {
+            "leaf": 303,
+            "printed_page": "292",
+            "context": "TORIAL COURTS; THE COURT OF CLAIMS; THE COURT OF PRIVATE LAND CLAIMS; AND THE CUSTOMS COURT. SEE THE SEVERAL TITLES.  COURTS OF THE UNIVERSITIES OF OXFORD AND CAMBRIDGE HAVE JURISDICTION IN ALL PERSONAL ACTIONS TO WHICH ANY MEMBER OR SERVANT OF THE RESPECTIVE U"
+          }
+        ],
+        "note": "Found in page text but no clean headword/body extraction"
+      },
+      "page_hits": 2
+    },
+    {
+      "raw_term": "DE ARTE. ET PARTE",
+      "corrected_term": "DE ARTE ET PARTE",
+      "leaf": 331,
+      "classification": "RECOVERED_FROM_DJVU",
+      "detail": {
+        "match_type": "exact",
+        "source_index": 3379,
+        "source_headword": "DE ARTE ET PARTE",
+        "body": "Of art and part.:\nA phrase in old Scotch law.\n\nDE ASPORTATIS RELIGIOSORUM,\nConcerning the property of religious persons\ncarried away. The title of the statute 35\nEdward I. passed to check the abuses of\nclerical possessions, one of which was the\nwaste they suffered by being drained into\nforeign countries. 2 Reeve. Eng. Law. 157;\n2 Inst. 580.",
+        "leaves": [
+          331
+        ]
+      },
+      "page_hits": 1
+    },
+    {
+      "raw_term": "DE BONIS TESTATORIS",
+      "corrected_term": "DE BONIS TESTATORIS",
+      "leaf": 332,
+      "classification": "PARTIAL_DJVU",
+      "detail": {
+        "page_hits": [
+          {
+            "leaf": 332,
+            "printed_page": "321",
+            "context": "DE BONIS TESTATORIS 821  DE BONIS TESTATORIS, OR INTES- TATI. OF THE GOODS OF THE TESTATOR, OR INTESTATE. A TERM APPLIED TO A JUDGMENT AWARDING EXECUTION AGAINST THE PROPERTY OF A TESTATOR OR INTESTATE, AS DISTINGUISHED"
+          }
+        ],
+        "note": "Found in page text but no clean headword/body extraction"
+      },
+      "page_hits": 1
+    },
+    {
+      "raw_term": "DE COMBUSTIONE DOMORUM. OF",
+      "corrected_term": "DE COMBUSTIONE DOMORUM",
+      "leaf": 333,
+      "classification": "NOT_RECOVERABLE",
+      "detail": {
+        "note": "LP definition was garbage (2 chars: \"of\"). Not in DjVu source candidates."
+      },
+      "page_hits": 1
+    },
+    {
+      "raw_term": "DE DEBITORE IN PARTES",
+      "corrected_term": "DE DEBITORE IN PARTES",
+      "leaf": 334,
+      "classification": "PARTIAL_DJVU",
+      "detail": {
+        "page_hits": [
+          {
+            "leaf": 333,
+            "printed_page": "322",
+            "context": "OF THE ARCHES, AND HIS COMMISSARY. ID.  DE DEBITORE IN PARTES  DE CORONATORE ELIGENDO. WRIT FOR ELECTING A CORONER. A WRIT ISSUED TO THE SHERIFF IN ENGLAND, COMMANDING HIM TO PROCEED TO THE ELECTION OF A CORONER, WHICH IS DONE IN FULL COUNTY COURT, THE FREEHOLD"
+          },
+          {
+            "leaf": 334,
+            "printed_page": "323",
+            "context": "DE DEBITORE IN PARTES  IN PIECES.\" THIS WAS THE NAME OF A LAW CONTAINED IN THE TWELVE TABLES, THE MEANING OF WHICH HAS OCCASIONED MUCH CONTROVERSY. SOME COMMENTATORS HAVE CONCLUDED THAT IT WAS LITERALLY THE PRIVILEGE OF T"
+          }
+        ],
+        "note": "Found in page text but no clean headword/body extraction"
+      },
+      "page_hits": 2
+    },
+    {
+      "raw_term": "DH-FIDE ET OFFICIO JUDICIS",
+      "corrected_term": "DE FIDE ET OFFICIO JUDICIS",
+      "leaf": 336,
+      "classification": "PARTIAL_DJVU",
+      "detail": {
+        "page_hits": [
+          {
+            "leaf": 335,
+            "printed_page": "324",
+            "context": "H. NAT. BREV. 158; NEW NAT. BREV. 352.  DE FIDE ET OFFICIO JUDICIS  DE EXPENSIS CIVIUM ET BURGEN- SIUM. <AN OBSOLETE WRIT ADDRESSED TO THE SHERIFF TO LEVY THE EXPENSES OF EVERY CITIZEN AND BURGESS OF PARLLAMENT. 4 INST. 46.  DE EXPENSIS MILITUM LEVANDIS. WRIT FOR LE"
+          }
+        ],
+        "note": "Found in page text but no clean headword/body extraction"
+      },
+      "page_hits": 1
+    },
+    {
+      "raw_term": "DF SUPERONERATIONE PASTURZ",
+      "corrected_term": "DE SUPERONERATIONE PASTURAE",
+      "leaf": 342,
+      "classification": "NOT_RECOVERABLE",
+      "detail": {
+        "note": "Not found in DjVu, LP, or overlay"
+      },
+      "page_hits": 0
+    },
+    {
+      "raw_term": "ET HOC PETIT QUOD INQUIRATUR",
+      "corrected_term": "ET HOC PETIT QUOD INQUIRATUR",
+      "leaf": 456,
+      "classification": "PARTIAL_DJVU",
+      "detail": {
+        "page_hits": [
+          {
+            "leaf": 456,
+            "printed_page": "445",
+            "context": "ET HOC PETIT QUOD INQUIRATUR PER PATRIAM. AND THIS HE PRAYS MAY BE INQUIRED OF BY THE COUNTRY. THE CONCLUSION OF A PLAINTIFF'S PLEADING, TENDERING AN ISSUE TO THE COUNTRY. 1 SALK. 6. LITERALLY TRANSLATED IN THE MODERN FORMS. O- "
+          }
+        ],
+        "note": "Found in page text but no clean headword/body extraction"
+      },
+      "page_hits": 1
+    },
+    {
+      "raw_term": "EX ABUNDANTI",
+      "corrected_term": "EX ABUNDANTI",
+      "leaf": 461,
+      "classification": "RECOVERED_FROM_DJVU",
+      "detail": {
+        "match_type": "exact",
+        "source_index": 4805,
+        "source_headword": "EX ABUNDANTI",
+        "body": "Out of abundance;\nabundantly; superfluously; more than sufficient. Calvin.\n\nEX ABUNDANTI CAUTELA. Lat.\nOut of abundant caution. \"The practice\nhas arisen abundanté cauicla.\" 8 East, 326;\nLord Ellenborough, 4 Maule & S. 544.",
+        "leaves": [
+          461
+        ]
+      },
+      "page_hits": 1
+    },
+    {
+      "raw_term": "EXPUNGE",
+      "corrected_term": "EXPUNGE",
+      "leaf": 480,
+      "classification": "NOT_RECOVERABLE",
+      "detail": {
+        "note": "DjVu fuzzy match was ESCUAGE (wrong word). Not in LP. Page text shows it on leaf 480 but no clean extraction."
+      },
+      "page_hits": 1
+    },
+    {
+      "raw_term": "IN EO QUOD PLUS SIT",
+      "corrected_term": "IN EO QUOD PLUS SIT",
+      "leaf": 613,
+      "classification": "PARTIAL_DJVU",
+      "detail": {
+        "page_hits": [
+          {
+            "leaf": 613,
+            "printed_page": "602",
+            "context": "IN EO QUOD PLUS SIT  DONE, OR ACTION BROUGHT, SOLELY TO HURT OR DISTRESS ANOTHER, IT IS SAID TO BE IN EMULATIONEM VICINI. 1 KAMES, HQ. 56.  IN EO QUOD PLUS SIT, SEMPER INEST ET MINUS. IN THE GREATER IS ALWAYS INCLUDED T"
+          }
+        ],
+        "note": "Found in page text but no clean headword/body extraction"
+      },
+      "page_hits": 1
+    },
+    {
+      "raw_term": "IN RE PROPRIA INIQUUM",
+      "corrected_term": "IN RE PROPRIA INIQUUM",
+      "leaf": 619,
+      "classification": "PARTIAL_DJVU",
+      "detail": {
+        "page_hits": [
+          {
+            "leaf": 619,
+            "printed_page": "608",
+            "context": "IN RE PROPRIA INIQUUM  TO PARTNERSHIPS, WHERE ONE PARTNER HAS A RIGHT TO WITHHOLD HIS ASSENT TO THE ACTS OF HIS COPARTNER. 3 KENT, COMM. 45.  IN RE PROPRIA INIQUUM ADMODUM EST ALICUI HOENTIAM TRIBUERE SENTENTIZS. IT IS EX"
+          }
+        ],
+        "note": "Found in page text but no clean headword/body extraction"
+      },
+      "page_hits": 1
+    },
+    {
+      "raw_term": "EIN VERBIS, NON VERBA",
+      "corrected_term": "IN VERBIS, NON VERBA",
+      "leaf": 621,
+      "classification": "PARTIAL_DJVU",
+      "detail": {
+        "page_hits": [
+          {
+            "leaf": 621,
+            "printed_page": "610",
+            "context": "- EIN VERBIS, NON VERBA  IN VORBIS, NON VERBA, SED RES ET RATIO, QUERENDA EST. JENK. CENT. 132. IN THE CONSTRUCTION OF WORDS, NOT THE MERE WORDS, BUT THE THING AND THE MEANING: ARE TO BE INQUIRED AFTER.  IN VINCULIS. IN. CH"
+          }
+        ],
+        "note": "Found in page text but no clean headword/body extraction"
+      },
+      "page_hits": 1
+    },
+    {
+      "raw_term": "JUS JURANDI FORMA",
+      "corrected_term": "JUS JURANDI FORMA",
+      "leaf": 690,
+      "classification": "PARTIAL_DJVU",
+      "detail": {
+        "page_hits": [
+          {
+            "leaf": 690,
+            "printed_page": "679",
+            "context": "JUS JURANDI FORMA -  THE CITY OF ROME, AND AFTERWARDS EXTENDED TO SOME OF THE COLONIES AND PROVINCES OF THE EMPIRE, CONSISTING PRINCIPALLY IN THE RIGHT TO HAVE A FREE CONSTITUTION, TO BE EXEMPT FROM THE LAND TAX, AND "
+          }
+        ],
+        "note": "Found in page text but no clean headword/body extraction"
+      },
+      "page_hits": 1
+    },
+    {
+      "raw_term": "KING'S CHAMBERS",
+      "corrected_term": "KING'S CHAMBERS",
+      "leaf": 699,
+      "classification": "RECOVERED_FROM_DJVU",
+      "detail": {
+        "match_type": "exact",
+        "source_index": 7477,
+        "source_headword": "KING'S CHAMBERS",
+        "body": "Those portions\nof the seas, adjacent to the coasts of Great\nBritain,. which are iuclosed within headlands\ns0 as to be cut off from the open sea by imaginary straight lines drawn from one prom- -\nontory to another.",
+        "leaves": [
+          699
+        ]
+      },
+      "page_hits": 1
+    },
+    {
+      "raw_term": "NON DEBET ACTORI LICERE",
+      "corrected_term": "NON DEBET ACTORI LICERE",
+      "leaf": 835,
+      "classification": "PARTIAL_DJVU",
+      "detail": {
+        "page_hits": [
+          {
+            "leaf": 835,
+            "printed_page": "824",
+            "context": "NON DEBET ACTORI LICERE  NON DEBET ACTORI MCERE QUOD REO NON PERMITTITUR. A PLAINTIFF OUGHT NOT TO BE ALLOWED WHAT IS NOT PERMITTED TO A DEFENDANT. <A RULE OF THE CIVIL LAW. DIG. 50, 17, 41  NON DEBET ADDUCI EXCEPTIO EJUS R"
+          }
+        ],
+        "note": "Found in page text but no clean headword/body extraction"
+      },
+      "page_hits": 1
+    },
+    {
+      "raw_term": "QUOD IN JURE SCRIPTO",
+      "corrected_term": "QUOD IN JURE SCRIPTO",
+      "leaf": 996,
+      "classification": "PARTIAL_DJVU",
+      "detail": {
+        "page_hits": [
+          {
+            "leaf": 996,
+            "printed_page": "985",
+            "context": "QUOD IN JURE SCRIPTO  - QUOD IN JURE SORIPTO '\"JUS'' APPELLATUR, ID IN LEGE ANGLIS ''RECTUM'' ESSE DICITUR. WHAT IN THE CIVIL LAW IS CALLED \"JUS,\" IN THE LAW OF ENGLAND IS SAID TO BE \"RECTUM,\" (RIGHT.) CO. LITT. 260; FLE"
+          }
+        ],
+        "note": "Found in page text but no clean headword/body extraction"
+      },
+      "page_hits": 1
+    },
+    {
+      "raw_term": "REPOSITION OF THE FOREST",
+      "corrected_term": "REPOSITION OF THE FOREST",
+      "leaf": 1031,
+      "classification": "RECOVERED_FROM_DJVU",
+      "detail": {
+        "match_type": "exact",
+        "source_index": 10815,
+        "source_headword": "REPOSITION OF THE FOREST",
+        "body": "In\nold English law. An act whereby certain\nforest grounds, belng made purlicu upon\nview, were by a second view laid to the forest again, put back into the forest. Manwood; Cowell.",
+        "leaves": [
+          1031
+        ]
+      },
+      "page_hits": 1
+    },
+    {
+      "raw_term": "SUITORS' FUND IN CHANCERY",
+      "corrected_term": "SUITORS' FUND IN CHANCERY",
+      "leaf": 1133,
+      "classification": "RECOVERED_FROM_DJVU",
+      "detail": {
+        "match_type": "exact",
+        "source_index": 11877,
+        "source_headword": "SUITORS' FUND IN CHANCERY",
+        "body": "In\nEngland. <A fund consisting of moneys\nwhich, having been paid into the court of\nchancery, are placed out for the benefit and\nbetter security of the suitors, including interest from the same. By St. 82 & 88 Vict.\nc. 91, § 4, the principal of this fund, amounting to over £3,000,000, was transferred to\nthe commissioners for the reduction of the\nnational debt. Mozley & Whitley.",
+        "leaves": [
+          1133
+        ]
+      },
+      "page_hits": 1
+    },
+    {
+      "raw_term": "SUSPICIOUS CHARACTER. IN THE",
+      "corrected_term": "SUSPICIOUS CHARACTER",
+      "leaf": 1141,
+      "classification": "RECOVERED_FROM_DJVU",
+      "detail": {
+        "match_type": "exact",
+        "source_index": 11964,
+        "source_headword": "SUSPICIOUS CHARACTER",
+        "body": "In the\ncriminal laws of some of the states, a person\nwho is known or strongly suspected to be an\nhabitual criminal, or against whom there is\nreasonable cause to believe that he has committed a crime or is planning or intending to\ncommit one, or whose actions and behavior\ngive good ground for suspicion and who can\ngive no good account of himself, and who may\ntherefore be arrested or required to give security for good behavior. See McFadin v.\nSan Antonio, 22 Tex. Civ. App. 140, 54 S. W.\n48; People v. Russell, 35 Misc. Rep. 765, 72\nN. Y. Supp. 1; 4 Bl. Comm. 252,",
+        "leaves": [
+          1141
+        ]
+      },
+      "page_hits": 1
+    },
+    {
+      "raw_term": "UBI NON EST PRINCIPALIS",
+      "corrected_term": "UBI NON EST PRINCIPALIS",
+      "leaf": 1193,
+      "classification": "PARTIAL_DJVU",
+      "detail": {
+        "page_hits": [
+          {
+            "leaf": 1193,
+            "printed_page": "1182",
+            "context": "UBI NON EST PRINCIPALIS  UBI NON EST PRINCIPALIS, NON POTEST ESSE ACCESSORIUS. 4 COKE, 43. WHERE THERE IS NO PRINCIPAL, THERE CANNOT BE AN ACCESSORY.  UBI NULLA EST CONJECTURA GUMS DUCAT ALIO, VERBA INTELLIGENDA SUNT CX PRO"
+          }
+        ],
+        "note": "Found in page text but no clean headword/body extraction"
+      },
+      "page_hits": 1
+    }
+  ]
+}

@@ -9,15 +9,15 @@
   },
   "C": {
     "file": "data/entries_c.json",
-    "count": 1392
+    "count": 1393
   },
   "D": {
     "file": "data/entries_d.json",
-    "count": 890
+    "count": 891
   },
   "E": {
     "file": "data/entries_e.json",
-    "count": 658
+    "count": 659
   },
   "F": {
     "file": "data/entries_f.json",
@@ -41,7 +41,7 @@
   },
   "K": {
     "file": "data/entries_k.json",
-    "count": 72
+    "count": 73
   },
   "L": {
     "file": "data/entries_l.json",
@@ -69,11 +69,11 @@
   },
   "R": {
     "file": "data/entries_r.json",
-    "count": 651
+    "count": 652
   },
   "S": {
     "file": "data/entries_s.json",
-    "count": 1026
+    "count": 1027
   },
   "T": {
     "file": "data/entries_t.json",

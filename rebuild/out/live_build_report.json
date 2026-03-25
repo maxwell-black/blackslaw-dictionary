@@ -1,15 +1,15 @@
 {
-  "previous_live_count": 12916,
-  "new_live_count": 12928,
-  "delta": 12,
-  "total_overlay_entries": 13685,
-  "live_entries": 12928,
+  "previous_live_count": 12928,
+  "new_live_count": 12934,
+  "delta": 6,
+  "total_overlay_entries": 13691,
+  "live_entries": 12934,
   "promoted_from_legacy": 1680,
   "body_sources": {
     "rebuilt": 10736,
     "legacy": 2145,
     "manual_correction": 15,
-    "overlay_direct": 32
+    "overlay_direct": 38
   },
   "counts_by_entry_type": {
     "included": {
@@ -17,7 +17,7 @@
       "provisional_main": 320,
       "legacy_retained": 1680,
       "headword_corrected": 20,
-      "recovered_main": 204,
+      "recovered_main": 210,
       "subentry": 201,
       "reversed_polarity": 3,
       "alias_variant": 15,
@@ -37,14 +37,14 @@
     "provisional_main": 320,
     "legacy_retained": 1680,
     "headword_corrected": 20,
-    "recovered_main": 204,
+    "recovered_main": 210,
     "subentry": 201,
     "reversed_polarity": 3,
     "alias_variant": 15,
     "unmatched_keep": 3
   },
   "changes_this_build": [],
-  "summary": "Live corpus: 12928 entries (+12 from previous build of 12916). 1680 legacy_unresolved entries promoted to legacy_retained.",
+  "summary": "Live corpus: 12934 entries (+6 from previous build of 12928). 1680 legacy_unresolved entries promoted to legacy_retained.",
   "entries": [
     {
       "id": "BLD2-00000",
@@ -103469,6 +103469,54 @@
       "entry_type": "recovered_main",
       "body_source": "manual_correction",
       "body_length": 505
+    },
+    {
+      "id": "BLD2-13685",
+      "term": "COURT OF THE CORONER",
+      "original_term": null,
+      "entry_type": "recovered_main",
+      "body_source": "overlay_direct",
+      "body_length": 232
+    },
+    {
+      "id": "BLD2-13686",
+      "term": "DE ARTE ET PARTE",
+      "original_term": null,
+      "entry_type": "recovered_main",
+      "body_source": "overlay_direct",
+      "body_length": 342
+    },
+    {
+      "id": "BLD2-13687",
+      "term": "EX ABUNDANTI",
+      "original_term": null,
+      "entry_type": "recovered_main",
+      "body_source": "overlay_direct",
+      "body_length": 222
+    },
+    {
+      "id": "BLD2-13689",
+      "term": "KING'S CHAMBERS",
+      "original_term": null,
+      "entry_type": "recovered_main",
+      "body_source": "overlay_direct",
+      "body_length": 213
+    },
+    {
+      "id": "BLD2-13690",
+      "term": "REPOSITION OF THE FOREST",
+      "original_term": null,
+      "entry_type": "recovered_main",
+      "body_source": "overlay_direct",
+      "body_length": 179
+    },
+    {
+      "id": "BLD2-13691",
+      "term": "SUITORS' FUND IN CHANCERY",
+      "original_term": null,
+      "entry_type": "recovered_main",
+      "body_source": "overlay_direct",
+      "body_length": 379
     }
   ]
 }
