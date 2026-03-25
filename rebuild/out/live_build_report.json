@@ -1,7 +1,7 @@
 {
-  "previous_live_count": 12934,
+  "previous_live_count": 12981,
   "new_live_count": 12981,
-  "delta": 47,
+  "delta": 0,
   "total_overlay_entries": 13738,
   "live_entries": 12981,
   "promoted_from_legacy": 1680,
@@ -44,7 +44,7 @@
     "unmatched_keep": 3
   },
   "changes_this_build": [],
-  "summary": "Live corpus: 12981 entries (+47 from previous build of 12934). 1680 legacy_unresolved entries promoted to legacy_retained.",
+  "summary": "Live corpus: 12981 entries (0 from previous build of 12981). 1680 legacy_unresolved entries promoted to legacy_retained.",
   "entries": [
     {
       "id": "BLD2-00000",

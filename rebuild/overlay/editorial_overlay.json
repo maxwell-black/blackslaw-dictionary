@@ -1167,7 +1167,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "10"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -3788,7 +3790,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "33"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -3837,7 +3841,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "33"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -4243,7 +4249,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "34"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -4535,7 +4543,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "38"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -5376,7 +5386,9 @@
     "entry_type": "reversed_polarity",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "43"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -5601,7 +5613,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "44"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -6130,7 +6144,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "48"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -6754,7 +6770,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "52"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -7157,7 +7175,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "54"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -7284,7 +7304,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "55"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -8515,7 +8537,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "62"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -8554,7 +8578,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "62"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -9901,7 +9927,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "70"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -10360,7 +10388,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "72"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -10413,7 +10443,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "73"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -10989,7 +11021,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "75"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -12800,7 +12834,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "86"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -13055,7 +13091,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "87"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -13116,7 +13154,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "87"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -13179,7 +13219,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "88"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -13337,7 +13379,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "89"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -13623,7 +13667,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "90"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -15637,7 +15683,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "106"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -15730,7 +15778,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "106"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -16037,7 +16087,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "108"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -16063,7 +16115,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "108"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -16103,7 +16157,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "109"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -17110,7 +17166,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "114"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -17162,7 +17220,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "115"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -17579,7 +17639,10 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "118",
+      "119"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -17619,7 +17682,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "119"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -18012,7 +18077,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "121"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -18433,7 +18500,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "123"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -19128,7 +19197,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "128"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -19179,7 +19250,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "129"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -19230,7 +19303,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "129"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -19267,7 +19342,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "129"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -19281,7 +19358,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "129"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -19515,7 +19594,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "130"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -19576,7 +19657,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "131"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -19806,7 +19889,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "136"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -19856,7 +19941,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "136"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -19910,7 +19997,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "136"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -20770,7 +20859,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "141"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -21101,7 +21192,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "145"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -21114,7 +21207,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "145"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -21474,7 +21569,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "146"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -21488,7 +21585,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "146"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -21880,7 +21979,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "149"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -22528,7 +22629,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "153"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -22870,7 +22973,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "155"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -24243,7 +24348,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "161"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -24554,7 +24661,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "163"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -24843,7 +24952,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "165"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -25543,7 +25654,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "171"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -25556,7 +25669,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "171"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -25816,7 +25931,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "172"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -26272,7 +26389,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "174"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -26625,7 +26744,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "177"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -26739,7 +26860,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "178"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -27563,7 +27686,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "182"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -28010,7 +28135,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "186"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -28236,7 +28363,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "187"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -29101,7 +29230,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "195"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -29423,7 +29554,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "197"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -29489,7 +29622,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "198"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -30627,7 +30762,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "206"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -32418,7 +32555,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "217"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -33467,7 +33606,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "228"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -33836,7 +33977,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "231"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -34423,7 +34566,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "235"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -34561,7 +34706,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "236"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -36398,7 +36545,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "248"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -37405,7 +37554,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "258"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -38802,7 +38953,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "270"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -38853,7 +39006,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "270"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -38928,7 +39083,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "271"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -39455,7 +39612,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "277"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -39518,7 +39677,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "278"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -39611,7 +39772,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "278"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -39930,7 +40093,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "279"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -40485,7 +40650,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "293"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -40689,7 +40856,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "296"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -41123,7 +41292,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "301"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -41160,7 +41331,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "301"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -42204,7 +42377,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "311"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -42258,7 +42433,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "311"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -42298,7 +42475,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "311"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -42612,7 +42791,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "314"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -42798,7 +42979,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "316"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -43759,7 +43942,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "332"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -49037,7 +49222,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "367"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -49191,7 +49378,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "369"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -50463,7 +50652,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "378"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -50658,7 +50849,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "379"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -51017,7 +51210,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "381"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -51627,7 +51822,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "386"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -51754,7 +51951,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "387"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -52027,7 +52226,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "389"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -53059,7 +53260,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "397"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -53150,7 +53353,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "398"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -53594,7 +53799,10 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "400",
+      "402"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -54402,7 +54610,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "407"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -55416,7 +55626,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "413"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -55493,7 +55705,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "413"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -55544,7 +55758,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "414"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -56289,7 +56505,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "418"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -57349,7 +57567,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "424"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -57737,7 +57957,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "426"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -58275,7 +58497,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "431"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -58973,7 +59197,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "436"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -59315,7 +59541,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "437"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -60456,7 +60684,11 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "446",
+      "447",
+      "448"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -60650,7 +60882,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "455"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -60849,7 +61083,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "457"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -61795,7 +62031,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "464"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -61820,7 +62058,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "464"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -62449,7 +62689,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "467"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -63546,7 +63788,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "476"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -63865,7 +64109,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "479"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -66134,7 +66380,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "492"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -66950,7 +67198,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "496"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -67668,7 +67918,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "502"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -67748,7 +68000,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "503"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -68228,7 +68482,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "505"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -68803,7 +69059,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "507"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -69509,7 +69767,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "513"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -71912,7 +72172,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "525"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -72012,7 +72274,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "525"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -72076,7 +72340,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "525"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -72449,7 +72715,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "527"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -73264,7 +73532,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "532"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -73478,7 +73748,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "533"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -73839,7 +74111,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "535"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -73958,7 +74232,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "535"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -74937,7 +75213,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "539"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -75636,7 +75914,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "542"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -76045,7 +76325,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "546"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -76355,7 +76637,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "547"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -76580,7 +76864,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "548"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -77192,7 +77478,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "552"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -77206,7 +77494,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "552"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -77504,7 +77794,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "553"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -77627,7 +77919,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "554"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -78562,7 +78856,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "560"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -79512,7 +79808,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "564"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -79732,7 +80030,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "565"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -80174,7 +80474,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "568"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -80225,7 +80527,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "568"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -80556,7 +80860,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "569"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -80892,7 +81198,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "570"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -81171,7 +81479,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "571"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -81365,7 +81675,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "572"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -81470,7 +81782,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "572"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -81708,7 +82022,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "573"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -83330,7 +83646,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "583"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -83518,7 +83836,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "584"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -83580,7 +83900,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "584"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -85798,7 +86120,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "598"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -85835,7 +86159,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "598"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -87122,7 +87448,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "617"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -87149,7 +87477,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "618"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -88262,7 +88592,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "625"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -88675,7 +89007,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "628"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -89794,7 +90128,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "638"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -91815,7 +92151,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "656"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -92308,7 +92646,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "656"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -92666,7 +93006,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "660"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -93088,7 +93430,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "663"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -93386,7 +93730,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "668"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -93784,7 +94130,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "670"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -94375,7 +94723,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "684"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -94785,7 +95135,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "685"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -95221,7 +95573,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "688"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -95892,7 +96246,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "692"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -96237,7 +96593,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "693"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -96262,7 +96620,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "693"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -96314,7 +96674,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "693"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -96739,7 +97101,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "695"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -97032,7 +97396,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "698"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -97058,7 +97424,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "698"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -97252,7 +97620,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "699"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -97713,7 +98083,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "704"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -97800,7 +98172,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "704"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -99026,7 +99400,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "711"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -99659,7 +100035,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "721"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -99688,7 +100066,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "722"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -99792,7 +100172,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "723"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -100166,7 +100548,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "725"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -100232,7 +100616,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "726"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -100323,7 +100709,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "727"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -100385,7 +100773,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "727"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -100612,7 +101002,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "729"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -101268,7 +101660,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "733"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -101551,7 +101945,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "736"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -103245,7 +103641,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "747"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -103781,7 +104179,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "750"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -103794,7 +104194,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "751"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -104090,7 +104492,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "753"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -104244,7 +104648,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "753"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -104647,7 +105053,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "756"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -104660,7 +105068,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "756"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -104806,7 +105216,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "757"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -104872,7 +105284,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "757"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -105507,7 +105921,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "762"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -105535,7 +105951,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "762"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -106054,7 +106472,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "766"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -106254,7 +106674,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "767"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -106280,7 +106702,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "768"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -106317,7 +106741,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "768"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -106787,7 +107213,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "770"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -106814,7 +107242,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "770"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -107243,7 +107673,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "772"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -107780,7 +108212,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "775"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -108435,7 +108869,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "779"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -110201,7 +110637,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "789"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -111328,7 +111766,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "796"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -112415,7 +112855,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "802"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -112621,7 +113063,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "804"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -113781,7 +114225,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "815"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -114598,7 +115044,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "825"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -115025,7 +115473,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "828"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -115102,7 +115552,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "829"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -115376,7 +115828,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "831"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -117599,7 +118053,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "850"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -117786,7 +118242,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "850"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -118605,7 +119063,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "857"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -119045,7 +119505,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "861"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -119370,7 +119832,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "863"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -119419,7 +119883,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "863"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -120471,7 +120937,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "869"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -120694,7 +121162,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "869"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -120822,7 +121292,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "870"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -121139,7 +121611,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "872"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -122023,7 +122497,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "879"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -122801,7 +123277,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "883"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -122966,7 +123444,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "884"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -123347,7 +123827,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "886"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -124507,7 +124989,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "896"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -124664,7 +125148,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "896"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -125154,7 +125640,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "898"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -125167,7 +125655,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "899"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -125987,7 +126477,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "902"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -126088,7 +126580,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "904"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -126678,7 +127172,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "908"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -126974,7 +127470,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "911"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -127225,7 +127723,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "913"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -127538,7 +128038,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "915"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -128102,7 +128604,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "921"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -128269,7 +128773,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "922"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -128349,7 +128855,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "927"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -128793,7 +129301,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "925"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -128940,7 +129450,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "930"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -129071,7 +129583,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "928"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -129536,7 +130050,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "929"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -129804,7 +130320,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "933"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -130626,7 +131144,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "941"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -132192,7 +132712,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "956"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -133883,7 +134405,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "968"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -134122,7 +134646,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "969"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -135204,7 +135730,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "978"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -137925,7 +138453,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1000"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -138233,7 +138763,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1002"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -140290,7 +140822,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1016"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -140437,7 +140971,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1017"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -140744,7 +141280,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1018"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -140807,7 +141345,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1019"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -140906,7 +141446,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1019"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -141043,7 +141585,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1021"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -141569,7 +142113,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1025"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -141637,7 +142183,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1025"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -141663,7 +142211,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1025"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -141911,7 +142461,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1029"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -142760,7 +143312,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1035"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -143412,7 +143966,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1041"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -144449,7 +145005,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1048"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -145670,7 +146228,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1055"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -145684,7 +146244,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1055"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -146653,7 +147215,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1060"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -147677,7 +148241,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1067"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -148795,7 +149361,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1075"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -149203,7 +149771,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1079"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -149331,7 +149901,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1081"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -149717,7 +150289,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1082"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -151467,7 +152041,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1093"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -153296,7 +153872,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1098"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -153939,7 +154517,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1102"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -154564,7 +155144,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1105"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -155090,7 +155672,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1110"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -155488,7 +156072,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1113"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -156657,7 +157243,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1119"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -156952,7 +157540,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1121"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -157587,7 +158177,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1125"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -157931,7 +158523,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1128"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -159492,7 +160086,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1135"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -160641,7 +161237,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1144"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -160654,7 +161252,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1144"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -161775,7 +162375,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1152"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -161840,7 +162442,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1152"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -162403,7 +163007,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1155"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -162612,7 +163218,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1156"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -164488,7 +165096,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1169"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -164700,7 +165310,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1171"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -165612,7 +166224,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1178"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -168769,7 +169383,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1197"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -168782,7 +169398,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1195"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -169694,7 +170312,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1202"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -170323,7 +170943,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1206"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -171466,7 +172088,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1210"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -171778,7 +172402,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1211"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -173005,7 +173631,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1218"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -173740,7 +174368,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1225"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -174193,7 +174823,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1227"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -174295,7 +174927,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1227"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -174492,7 +175126,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1228"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -174595,7 +175231,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1228"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -175133,7 +175771,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1231"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -176747,7 +177387,7 @@
     "entry_type": "recovered_main",
     "source_index": 3142,
     "source_pages": [
-      302
+      "302"
     ]
   },
   {
@@ -176757,7 +177397,7 @@
     "entry_type": "recovered_main",
     "source_index": 6783,
     "source_pages": [
-      617
+      "617"
     ]
   },
   {
@@ -176767,7 +177407,7 @@
     "entry_type": "recovered_main",
     "source_index": 4858,
     "source_pages": [
-      465
+      "465"
     ]
   },
   {
@@ -176777,7 +177417,7 @@
     "entry_type": "recovered_main",
     "source_index": 3116,
     "source_pages": [
-      300
+      "300"
     ]
   },
   {
@@ -176787,7 +177427,7 @@
     "entry_type": "recovered_main",
     "source_index": 3130,
     "source_pages": [
-      301
+      "301"
     ]
   },
   {
@@ -176797,7 +177437,7 @@
     "entry_type": "recovered_main",
     "source_index": 1862,
     "source_pages": [
-      176
+      "176"
     ]
   },
   {
@@ -176807,7 +177447,7 @@
     "entry_type": "recovered_main",
     "source_index": 8955,
     "source_pages": [
-      842
+      "842"
     ]
   },
   {
@@ -176817,7 +177457,7 @@
     "entry_type": "recovered_main",
     "source_index": 11124,
     "source_pages": [
-      1063
+      "1063"
     ]
   },
   {
@@ -176827,7 +177467,7 @@
     "entry_type": "recovered_main",
     "source_index": 11696,
     "source_pages": [
-      1117
+      "1117"
     ]
   },
   {
@@ -176837,7 +177477,7 @@
     "entry_type": "recovered_main",
     "source_index": 3144,
     "source_pages": [
-      302
+      "302"
     ]
   },
   {
@@ -176847,7 +177487,7 @@
     "entry_type": "recovered_main",
     "source_index": 4420,
     "source_pages": [
-      425
+      "425"
     ]
   },
   {
@@ -176857,7 +177497,7 @@
     "entry_type": "recovered_main",
     "source_index": 10953,
     "source_pages": [
-      1048
+      "1048"
     ]
   },
   {
@@ -176867,7 +177507,7 @@
     "entry_type": "recovered_main",
     "source_index": 8433,
     "source_pages": [
-      790
+      "790"
     ]
   },
   {
@@ -176877,7 +177517,7 @@
     "entry_type": "recovered_main",
     "source_index": 8126,
     "source_pages": [
-      764
+      "764"
     ]
   },
   {
@@ -176887,7 +177527,7 @@
     "entry_type": "recovered_main",
     "source_index": 8517,
     "source_pages": [
-      797
+      "797"
     ]
   },
   {
@@ -176897,7 +177537,7 @@
     "entry_type": "recovered_main",
     "source_index": 12037,
     "source_pages": [
-      1146
+      "1146"
     ]
   },
   {
@@ -176907,7 +177547,7 @@
     "entry_type": "recovered_main",
     "source_index": 9207,
     "source_pages": [
-      872
+      "872"
     ]
   },
   {
@@ -176917,7 +177557,7 @@
     "entry_type": "recovered_main",
     "source_index": 3375,
     "source_pages": [
-      330
+      "330"
     ]
   },
   {
@@ -176927,7 +177567,7 @@
     "entry_type": "recovered_main",
     "source_index": 4247,
     "source_pages": [
-      407
+      "407"
     ]
   },
   {
@@ -176937,7 +177577,7 @@
     "entry_type": "recovered_main",
     "source_index": 8326,
     "source_pages": [
-      783
+      "783"
     ]
   },
   {
@@ -176947,7 +177587,7 @@
     "entry_type": "recovered_main",
     "source_index": 8600,
     "source_pages": [
-      804
+      "804"
     ]
   },
   {
@@ -176957,7 +177597,7 @@
     "entry_type": "recovered_main",
     "source_index": 11074,
     "source_pages": [
-      1059
+      "1059"
     ]
   },
   {
@@ -176967,7 +177607,7 @@
     "entry_type": "recovered_main",
     "source_index": 306,
     "source_pages": [
-      43
+      "43"
     ]
   },
   {
@@ -176977,7 +177617,7 @@
     "entry_type": "recovered_main",
     "source_index": 2525,
     "source_pages": [
-      239
+      "239"
     ]
   },
   {
@@ -176987,7 +177627,7 @@
     "entry_type": "recovered_main",
     "source_index": 12155,
     "source_pages": [
-      1158
+      "1158"
     ]
   },
   {
@@ -176997,7 +177637,7 @@
     "entry_type": "recovered_main",
     "source_index": 12806,
     "source_pages": [
-      1220
+      "1220"
     ]
   },
   {
@@ -177007,7 +177647,7 @@
     "entry_type": "recovered_main",
     "source_index": 7400,
     "source_pages": [
-      690
+      "690"
     ]
   },
   {
@@ -177017,7 +177657,7 @@
     "entry_type": "recovered_main",
     "source_index": 10528,
     "source_pages": [
-      1005
+      "1005"
     ]
   },
   {
@@ -177027,7 +177667,7 @@
     "entry_type": "recovered_main",
     "source_index": 4369,
     "source_pages": [
-      421
+      "421"
     ]
   },
   {
@@ -177037,7 +177677,7 @@
     "entry_type": "recovered_main",
     "source_index": 13032,
     "source_pages": [
-      1240
+      "1240"
     ]
   },
   {
@@ -177047,7 +177687,7 @@
     "entry_type": "recovered_main",
     "source_index": 5483,
     "source_pages": [
-      520
+      "520"
     ]
   },
   {
@@ -177057,7 +177697,7 @@
     "entry_type": "recovered_main",
     "source_index": 3133,
     "source_pages": [
-      301
+      "301"
     ]
   },
   {
@@ -177093,7 +177733,9 @@
     "term": "ABSTRACT OF TITLE",
     "body": "",
     "entry_type": "recovered_main",
-    "source_pages": []
+    "source_pages": [
+      "11"
+    ]
   },
   {
     "id": "BLD2-13678",
@@ -177114,7 +177756,9 @@
     "term": "QUIA EMPTORES",
     "body": "",
     "entry_type": "recovered_main",
-    "source_pages": []
+    "source_pages": [
+      "981"
+    ]
   },
   {
     "id": "BLD2-13681",
@@ -177151,7 +177795,7 @@
     "entry_type": "recovered_main",
     "source_index": 3102,
     "source_pages": [
-      299
+      "299"
     ]
   },
   {
@@ -177161,7 +177805,7 @@
     "entry_type": "recovered_main",
     "source_index": 3379,
     "source_pages": [
-      331
+      "331"
     ]
   },
   {
@@ -177171,7 +177815,7 @@
     "entry_type": "recovered_main",
     "source_index": 4805,
     "source_pages": [
-      461
+      "461"
     ]
   },
   {
@@ -177181,7 +177825,7 @@
     "entry_type": "recovered_main",
     "source_index": 7477,
     "source_pages": [
-      699
+      "699"
     ]
   },
   {
@@ -177191,7 +177835,7 @@
     "entry_type": "recovered_main",
     "source_index": 10815,
     "source_pages": [
-      1031
+      "1031"
     ]
   },
   {
@@ -177201,7 +177845,7 @@
     "entry_type": "recovered_main",
     "source_index": 11877,
     "source_pages": [
-      1133
+      "1133"
     ]
   },
   {
@@ -177241,7 +177885,9 @@
     "term": "CHAMPERT",
     "entry_type": "recovered_main",
     "body": "Im old English law. A\nshare or division of land; champerty.\nIn old Scotch law. A gift or bribe,\ntaken by any great man or judge fron any\nperson, for delay of just actions, or furthering of wrongous actions, whether it be lands\nor any goods movable. Skene.",
-    "source_pages": [],
+    "source_pages": [
+      "188"
+    ],
     "_extraction_note": "Extracted from CHAMPART body (boundary split)"
   },
   {
@@ -177257,7 +177903,9 @@
     "term": "CONSULTA ECCLESIA",
     "entry_type": "recovered_main",
     "body": "In ecclesiastical law. A church full or provided for.\nCowell.",
-    "source_pages": [],
+    "source_pages": [
+      "256"
+    ],
     "_extraction_note": "Extracted from CONSULAR body (boundary split)"
   },
   {
@@ -177281,7 +177929,9 @@
     "term": "CULPRIT",
     "entry_type": "recovered_main",
     "body": "A person who is indicted for\na criminal offense, but not yet convicted.\nIt is not, however, a technical term of the\nlaw; and in ita vernacular usage it seems to\nimply only a light degree of censure or moral\nreprobation.\nBlackstone believes it an abbreviation of the\nold forms of arraignment, whereby, on the prisoner's pleading not guilty, the clerk would respond, \"culpabilis, prit,\" +. €., he is guilty and\n'the crown is: ready. It was (he says) the riva\nwoce replication, by the clerk, on behalf of the\ncrown, to the prisoner's plea 'of non culpabilts;\nprit being a technical word, anciently in use in\nthe formula of joining issue. 4 Bl. Comm. 339.\nBut a more plausible explanation is that given\nby Donaldson, (cited Whart. Lex.,) as. follows:\nThe clerk asks the prisoner, 'Are you aul\nor not guilty?' Prisoner \"Not guilty.\" Cle\n\"Ow il part, [may it prove 80.) How will you\nbe tried?' Prisoner, \"By God and my country.\" These words being hurried over, came to\nsound, \"culprit, how will you be tried?\" The\n'ordinary derivation is from culpa.",
-    "source_pages": [],
+    "source_pages": [
+      "304"
+    ],
     "_extraction_note": "Extracted from CULPABLE body (boundary split)"
   },
   {
@@ -177337,7 +177987,9 @@
     "term": "EN ARERE",
     "entry_type": "recovered_main",
     "body": "L. Fr. In time past. 2\nInst. 506. ;",
-    "source_pages": [],
+    "source_pages": [
+      "422"
+    ],
     "_extraction_note": "Extracted from EMPTIO REI SPERATA body (boundary split)"
   },
   {
@@ -177361,7 +178013,9 @@
     "term": "FLEMENE FRIT",
     "entry_type": "recovered_main",
     "body": "FLEMENES\nFRINTHE—FLYMENA FRYNTHE. The\nreception or relief of a fugitive or outlaw.\nJacob.",
-    "source_pages": [],
+    "source_pages": [
+      "504"
+    ],
     "_extraction_note": "Extracted from FLEM body (boundary split)"
   },
   {
@@ -177377,7 +178031,9 @@
     "term": "IMAN",
     "entry_type": "recovered_main",
     "body": "IMAM, or IMAUM. A Mohammedan prince having supreme spiritual as\nwell as temporal power; a regular priest of\nthe mosque",
-    "source_pages": [],
+    "source_pages": [
+      "591"
+    ],
     "_extraction_note": "Extracted from IMAGINE body (boundary split)"
   },
   {
@@ -177393,7 +178049,9 @@
     "term": "INFRA ANNOS NUBILES",
     "entry_type": "recovered_main",
     "body": "Under marriageable years; not yet of marriageable\nage.",
-    "source_pages": [],
+    "source_pages": [
+      "623"
+    ],
     "_extraction_note": "Extracted from INFORTIATUM body (boundary split)"
   },
   {
@@ -177433,7 +178091,9 @@
     "term": "OPERATION",
     "entry_type": "recovered_main",
     "body": "In general, the exertion\nof power; the process of operating or mode\nof action; an effect brought about in accordance with a definite plan. See Little\nRock vy. Parish, 36 Ark. 166; Fleming Oil Ca.\nv. South Penn Oil Co., 37 W. Va. 653, 17 8.\nE. 203. In surgical practice, the term is of\nindefinite import, but may be approximately\ndefined as. an act or succession of acts performed upon the body of a patient, for his\nrelief or restoration to normal conditions,\neither by manipulation or the use of surgical\ninstruments or both, as distinguished from\ntherapeutic treatment by the administration\nof drugs or other remedial agencies. See\nAkridge v. Noble, 114 Ga. 949, 41 8S. B. 78.\n—Oriminal operation. In medical jurisprudence. An operation to procure an abortion.\nMiller v. Bayer, 94 Wis., 68 N. W. 869.—\nOperation of law. This term expresses the\nmanner in which rights, and sometimes liabilities, devolve upon a person by the mere application to the particular transaction of the established rules of law, without the act or cooperation of the party himeelf.",
-    "source_pages": [],
+    "source_pages": [
+      "855"
+    ],
     "_extraction_note": "Extracted from OPERATIO body (boundary split)"
   },
   {
@@ -177449,7 +178109,9 @@
     "term": "PROHIBITIO DE VASTO",
     "entry_type": "recovered_main",
     "body": "DIRECTA\nPARTI, 'A judicial writ which used to be\naddressed to a tenant, prohibiting him from\nwaste, pending suit. Reg. Jud. 21; Moore,\n917.",
-    "source_pages": [],
+    "source_pages": [
+      "953"
+    ],
     "_extraction_note": "Extracted from PROHIBITED body (boundary split)"
   },
   {
@@ -177481,7 +178143,9 @@
     "term": "SAINT MARTIN LE GRAND",
     "entry_type": "recovered_main",
     "body": "COURT\nOF. An ancient court in London, of local\nimportance, formerly held in the church from\n\nwhich it took its name.;",
-    "source_pages": [],
+    "source_pages": [
+      "1052"
+    ],
     "_extraction_note": "Extracted from SAILORS body (boundary split)"
   },
   {
@@ -177489,7 +178153,9 @@
     "term": "SANGUINEM EMERE",
     "entry_type": "recovered_main",
     "body": "Lat. In feudal\nlaw. A redemption by villeins, of their\nblood or tenure, in order to become freemen.\n\nSanguinis conjunctio benevolentia devincit homines et caritate. A tie of blood\novercomes men through benevolence and\ncharity. Steere v. Steere, 5 Johns. Ch. (N. Y.) 1, 18, 9 Am. Dec. 256.",
-    "source_pages": [],
+    "source_pages": [
+      "1055"
+    ],
     "_extraction_note": "Extracted from SANG body (boundary split)"
   },
   {
@@ -177521,7 +178187,9 @@
     "term": "SPECIFICATION",
     "entry_type": "recovered_main",
     "body": "As used in the law\nrelating to patents and in building contracts,\n.the term denotes a particular or detailed\nstatement of the various elements involved,\nGilbert v. U. S., 1 Ct. Cl. 34; State v. Kendall, 15 Neb. 262, 18 N. W. 85; Wilson v.\nCoon (C. C.) 6 Fed. 614.\nIn military law. The clear and particular description of the charges preferred\nagainst a person accused of a military offense. Tytler, Mil. Law, 109; Carter v. Mc-\nClaughry, 183 U. S. 365, 22 Sup. Ct. 181, 46\nL. Ei. 236.\nIn the law of personal property. The\nacquisition of title to a thing by working it\ninto new forms or species from the raw material; corresponding to the spccificatio of\nthe Roman law. See Lampton v. Preston, 1\nJ. J. Marsh. (Ky.) 462, 19 Am. Dec. 104.\nIm practice. A detailed and particular\nenumeration of several points or matters\nurged or relied on by a party to a suit or\nproceeding; as, a \"specification of errors,\"\nor a \"specification of grounds of opposition\nto a bankrupt's discharge.\" See Railway Co.\nv. McArthur, 96 Tex. 65, 70 S. W. 317; In\nre Glass (D. C.) 119 Fed. 514.",
-    "source_pages": [],
+    "source_pages": [
+      "1100"
+    ],
     "_extraction_note": "Extracted from SPECIFICATIO body (boundary split)"
   },
   {
@@ -177529,7 +178197,9 @@
     "term": "STRAMINEUS HOMO",
     "entry_type": "recovered_main",
     "body": "L. Lat. A man of straw, one of no substance, put forward as bail or surety.",
-    "source_pages": [],
+    "source_pages": [
+      "1113"
+    ],
     "_extraction_note": "Extracted from STRADDLE body (boundary split)"
   },
   {
