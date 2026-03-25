@@ -1,0 +1,823 @@
+{
+  "summary": {
+    "LP_DEBRIS": 2,
+    "NOT_FOUND": 46,
+    "SUBENTRY_IN_PARENT": 22,
+    "FOUND_IN_OVERLAY": 1
+  },
+  "entries": [
+    {
+      "rank": 1,
+      "term": "I H. BI",
+      "norm": "I H. BI",
+      "definition_length": 2836,
+      "definition_preview": "ook. In mercantile law. A book in which an account of bilis of exchange and prom-issory notes, whether payable or receiv",
+      "classification": "LP_DEBRIS",
+      "detail": {
+        "reason": "Garbled term format (letter space letter-dot pattern)"
+      }
+    },
+    {
+      "rank": 2,
+      "term": "IS L. R",
+      "norm": "IS L. R",
+      "definition_length": 1895,
+      "definition_preview": "officer. Any officer of the United States who holds his appointment under the national government, whether his duties ar",
+      "classification": "NOT_FOUND",
+      "detail": {
+        "note": "Not in overlay or source candidates. Candidate for policy decision."
+      }
+    },
+    {
+      "rank": 3,
+      "term": "COURT OF EXCHEQUER",
+      "norm": "COURT OF EXCHEQUER",
+      "definition_length": 1324,
+      "definition_preview": "In English law. A very ancient court of record, set up by william the Conqueror as a part of the aula regis, aud afterwa",
+      "classification": "SUBENTRY_IN_PARENT",
+      "detail": {
+        "parent_entry": "EXCHEQUER",
+        "note": "Term appears in body of 'EXCHEQUER' as a subentry or reference"
+      }
+    },
+    {
+      "rank": 4,
+      "term": "MARQUE AND REPRISAL, LETTERS OF",
+      "norm": "MARQUE AND REPRISAL, LETTERS OF",
+      "definition_length": 1013,
+      "definition_preview": "These words, “marque” and “reprisal,\" are frequently used as synony-mous, but, taken in thelr strict etymological sense,",
+      "classification": "NOT_FOUND",
+      "detail": {
+        "note": "Not in overlay or source candidates. Candidate for policy decision."
+      }
+    },
+    {
+      "rank": 5,
+      "term": "PLUS PETITIO",
+      "norm": "PLUS PETITIO",
+      "definition_length": 991,
+      "definition_preview": "In Roman law. A phrase denoting the offense of claiming more thau was just In one’s pleadings. Thlfc mord might be claim",
+      "classification": "FOUND_IN_OVERLAY",
+      "detail": {
+        "match_type": "fuzzy (distance=2)",
+        "overlay_entries": [
+          {
+            "id": "BLD2-09845",
+            "term": "PLURIS PETITIO",
+            "entry_type": "verified_main",
+            "source_pages": [
+              "907"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "rank": 6,
+      "term": "UNFAIR COMPETITION",
+      "norm": "UNFAIR COMPETITION",
+      "definition_length": 942,
+      "definition_preview": "A term which may be applied generally to all dls-honest or fraudulent rivalry in trade and commerce, but Is particularly",
+      "classification": "SUBENTRY_IN_PARENT",
+      "detail": {
+        "parent_entry": "COMPETITION",
+        "note": "Term appears in body of 'COMPETITION' as a subentry or reference"
+      }
+    },
+    {
+      "rank": 7,
+      "term": "ARCHES COURT",
+      "norm": "ARCHES COURT",
+      "definition_length": 895,
+      "definition_preview": "In English ecclesiastical law. A court of appeal belonging to the Archbishop of Canterbury, the Judge of which is called",
+      "classification": "SUBENTRY_IN_PARENT",
+      "detail": {
+        "parent_entry": "COURT",
+        "note": "Term appears in body of 'COURT' as a subentry or reference"
+      }
+    },
+    {
+      "rank": 8,
+      "term": "COURT OF SESSION",
+      "norm": "COURT OF SESSION",
+      "definition_length": 860,
+      "definition_preview": "The name of the highest court of civil jurisdiction lu Scot-land. It was composed of fifteen judges, now of thirteen. It",
+      "classification": "NOT_FOUND",
+      "detail": {
+        "note": "Not in overlay or source candidates. Candidate for policy decision."
+      }
+    },
+    {
+      "rank": 9,
+      "term": "IN PERSONAM, IN REM",
+      "norm": "IN PERSONAM, IN REM",
+      "definition_length": 855,
+      "definition_preview": "In the Ro-maa law, from which they are taken, the expressions “in rem” and “in personam” were always opposed to one anot",
+      "classification": "NOT_FOUND",
+      "detail": {
+        "note": "Not in overlay or source candidates. Candidate for policy decision."
+      }
+    },
+    {
+      "rank": 10,
+      "term": "EX SCRIPTIS OLIM VISIS",
+      "norm": "EX SCRIPTIS OLIM VISIS",
+      "definition_length": 828,
+      "definition_preview": "From writings formerly seen. A term used as descriptive of that kind of proof of handwriting where the knowledge has bee",
+      "classification": "NOT_FOUND",
+      "detail": {
+        "note": "Not in overlay or source candidates. Candidate for policy decision."
+      }
+    },
+    {
+      "rank": 11,
+      "term": "COURT OF HONOR",
+      "norm": "COURT OF HONOR",
+      "definition_length": 807,
+      "definition_preview": "A court having Ju-risdiction to hear and redress injuries or affronts to a man’s honor or personal dignity, of a nature ",
+      "classification": "NOT_FOUND",
+      "detail": {
+        "note": "Not in overlay or source candidates. Candidate for policy decision."
+      }
+    },
+    {
+      "rank": 12,
+      "term": "COURT OF OYER AND TERMINER",
+      "norm": "COURT OF OYER AND TERMINER",
+      "definition_length": 803,
+      "definition_preview": "In English law. A court for the trial of cases of treason and felony. The commis-sloners of assise and nisi prius are ju",
+      "classification": "NOT_FOUND",
+      "detail": {
+        "note": "Not in overlay or source candidates. Candidate for policy decision."
+      }
+    },
+    {
+      "rank": 13,
+      "term": "SUPREME COURT OF JUDICATURE",
+      "norm": "SUPREME COURT OF JUDICATURE",
+      "definition_length": 801,
+      "definition_preview": "The court formed by the English judicature act, 1873, (as modified by the judicature act, 1875, the appellate jurisdicti",
+      "classification": "SUBENTRY_IN_PARENT",
+      "detail": {
+        "parent_entry": "SUPREME",
+        "note": "Term appears in body of 'SUPREME' as a subentry or reference"
+      }
+    },
+    {
+      "rank": 14,
+      "term": "ABSCONDING DEBTOR",
+      "norm": "ABSCONDING DEBTOR",
+      "definition_length": 797,
+      "definition_preview": "one,who;ab-sconds from his credltors. An absconding, debtor is oue who lives without the stpte, or who has intentionally",
+      "classification": "NOT_FOUND",
+      "detail": {
+        "note": "Not in overlay or source candidates. Candidate for policy decision."
+      }
+    },
+    {
+      "rank": 15,
+      "term": "CANTERBURY, ARCHBISHOP OF",
+      "norm": "CANTERBURY, ARCHBISHOP OF",
+      "definition_length": 789,
+      "definition_preview": "In English eccleslastlcal law. The primate of all England; the chief ecclesiastical digni-tary in the church. Hls custom",
+      "classification": "NOT_FOUND",
+      "detail": {
+        "note": "Not in overlay or source candidates. Candidate for policy decision."
+      }
+    },
+    {
+      "rank": 16,
+      "term": "STET BILLA",
+      "norm": "STET BILLA",
+      "definition_length": 763,
+      "definition_preview": "If the plalntlff ln a plaint in the mayor’s court of London has attached property belonging to the defendant and ob-tain",
+      "classification": "NOT_FOUND",
+      "detail": {
+        "note": "Not in overlay or source candidates. Candidate for policy decision."
+      }
+    },
+    {
+      "rank": 17,
+      "term": "NOTARY PUBLIC",
+      "norm": "NOTARY PUBLIC",
+      "definition_length": 742,
+      "definition_preview": "A public officer whose function ia to attest and certify, by his hand and official seal, certain classes of documents, i",
+      "classification": "NOT_FOUND",
+      "detail": {
+        "note": "Not in overlay or source candidates. Candidate for policy decision."
+      }
+    },
+    {
+      "rank": 18,
+      "term": "SALADINE TENTH",
+      "norm": "SALADINE TENTH",
+      "definition_length": 735,
+      "definition_preview": "A tax imposed in England and France, in 1188, by Pope Innocent III., to raise a fund for the crusade undertaken by Richa",
+      "classification": "NOT_FOUND",
+      "detail": {
+        "note": "Not in overlay or source candidates. Candidate for policy decision."
+      }
+    },
+    {
+      "rank": 19,
+      "term": "SUPERSTITIOUS USE",
+      "norm": "SUPERSTITIOUS USE",
+      "definition_length": 725,
+      "definition_preview": "In Engllsh law. when lands, tenements, rents, goods, or chattels are given, secured, or appointed for and towards the ma",
+      "classification": "SUBENTRY_IN_PARENT",
+      "detail": {
+        "parent_entry": "USE",
+        "note": "Term appears in body of 'USE' as a subentry or reference"
+      }
+    },
+    {
+      "rank": 20,
+      "term": "STATE OF FACTS",
+      "norm": "STATE OF FACTS",
+      "definition_length": 710,
+      "definition_preview": "Formerly, when a master in chancery was directed by the court of chancery to make an inquiry or investiga-tion lnto any ",
+      "classification": "NOT_FOUND",
+      "detail": {
+        "note": "Not in overlay or source candidates. Candidate for policy decision."
+      }
+    },
+    {
+      "rank": 21,
+      "term": "COURT OF STAR CHAMBER",
+      "norm": "COURT OF STAR CHAMBER",
+      "definition_length": 699,
+      "definition_preview": "This was an English court of very ancient origin, but new-modeled by St. 3 Hen. VII. c. 1, aud 21 Hen. VIII. c. 20, cons",
+      "classification": "NOT_FOUND",
+      "detail": {
+        "note": "Not in overlay or source candidates. Candidate for policy decision."
+      }
+    },
+    {
+      "rank": 22,
+      "term": "EJECTIONE FIRMS",
+      "norm": "EJECTIONE FIRMS",
+      "definition_length": 692,
+      "definition_preview": "Ejection, or ejectment of farm. The name of a writ or action of trespass, which lay at common law where lands or tenemen",
+      "classification": "NOT_FOUND",
+      "detail": {
+        "note": "Not in overlay or source candidates. Candidate for policy decision."
+      }
+    },
+    {
+      "rank": 23,
+      "term": "RHODIAN LAWS",
+      "norm": "RHODIAN LAWS",
+      "definition_length": 688,
+      "definition_preview": "This, the earliest code or collection of maritime laws, was formulated by the people of the island of Rhodes, who, by th",
+      "classification": "NOT_FOUND",
+      "detail": {
+        "note": "Not in overlay or source candidates. Candidate for policy decision."
+      }
+    },
+    {
+      "rank": 24,
+      "term": "COURT OF WARDS AND LIVERIES",
+      "norm": "COURT OF WARDS AND LIVERIES",
+      "definition_length": 683,
+      "definition_preview": "A court of record, established in England iu the reign of Henry VIII. For the sur-vey and management of the valuable fru",
+      "classification": "SUBENTRY_IN_PARENT",
+      "detail": {
+        "parent_entry": "WARDS",
+        "note": "Term appears in body of 'WARDS' as a subentry or reference"
+      }
+    },
+    {
+      "rank": 25,
+      "term": "SUBSTITUTIONAL, SUBSTITUTION-ARY",
+      "norm": "SUBSTITUTIONAL, SUBSTITUTION-ARY",
+      "definition_length": 677,
+      "definition_preview": "where a will contains a gift of property tq a class of persons, with a clause providing that on the death of a member of",
+      "classification": "NOT_FOUND",
+      "detail": {
+        "note": "Not in overlay or source candidates. Candidate for policy decision."
+      }
+    },
+    {
+      "rank": 26,
+      "term": "MILLBANK PRISON",
+      "norm": "MILLBANK PRISON",
+      "definition_length": 672,
+      "definition_preview": "Formerly called the “Penitentiary at Millbank.” A prison at westminster, for convicts under sentence of transportation, ",
+      "classification": "NOT_FOUND",
+      "detail": {
+        "note": "Not in overlay or source candidates. Candidate for policy decision."
+      }
+    },
+    {
+      "rank": 27,
+      "term": "MANCIPI RES",
+      "norm": "MANCIPI RES",
+      "definition_length": 666,
+      "definition_preview": "LaL In Roman law. Certain classes of thlngs which could not be aliened or transferred except by means of a certain forma",
+      "classification": "NOT_FOUND",
+      "detail": {
+        "note": "Not in overlay or source candidates. Candidate for policy decision."
+      }
+    },
+    {
+      "rank": 28,
+      "term": "ABSTRACT OF TITLE",
+      "norm": "ABSTRACT OF TITLE",
+      "definition_length": 654,
+      "definition_preview": "A condensed' history of tbe title to land, consisting of a synopsis or summary of the material or op-erative portion of ",
+      "classification": "NOT_FOUND",
+      "detail": {
+        "note": "Not in overlay or source candidates. Candidate for policy decision."
+      }
+    },
+    {
+      "rank": 29,
+      "term": "DAMNUM ABSQUE INJURIA",
+      "norm": "DAMNUM ABSQUE INJURIA",
+      "definition_length": 648,
+      "definition_preview": "Loss, hurt, or harm without injury in the legal sense, that is, withont such an invasion of rights as is redressible by ",
+      "classification": "SUBENTRY_IN_PARENT",
+      "detail": {
+        "parent_entry": "DAMNUM",
+        "note": "Term appears in body of 'DAMNUM' as a subentry or reference"
+      }
+    },
+    {
+      "rank": 30,
+      "term": "UNSOUND MIND",
+      "norm": "UNSOUND MIND",
+      "definition_length": 637,
+      "definition_preview": "A person of unsound mind is an adult who from infirmity of mind ls incapable of managing himself or his af-falrs. The te",
+      "classification": "SUBENTRY_IN_PARENT",
+      "detail": {
+        "parent_entry": "UNSOUND",
+        "note": "Term appears in body of 'UNSOUND' as a subentry or reference"
+      }
+    },
+    {
+      "rank": 31,
+      "term": "CO., ISI U",
+      "norm": "CO., ISI U",
+      "definition_length": 631,
+      "definition_preview": "ses the body of those principles and rules of action, relating to the govern-ment and security of persons and property, ",
+      "classification": "NOT_FOUND",
+      "detail": {
+        "note": "Not in overlay or source candidates. Candidate for policy decision."
+      }
+    },
+    {
+      "rank": 32,
+      "term": "MOBBING AND RIOTING",
+      "norm": "MOBBING AND RIOTING",
+      "definition_length": 613,
+      "definition_preview": "In Scotch law. A general term including all those convocations of the lieges for violent and un-lawful purposes, which a",
+      "classification": "NOT_FOUND",
+      "detail": {
+        "note": "Not in overlay or source candidates. Candidate for policy decision."
+      }
+    },
+    {
+      "rank": 33,
+      "term": "TALITER PROCESSUM EST",
+      "norm": "TALITER PROCESSUM EST",
+      "definition_length": 610,
+      "definition_preview": "Upon pleading the judgment of an inferior court, the proceedings preliminary to such judg-ment, and on which the same wa",
+      "classification": "NOT_FOUND",
+      "detail": {
+        "note": "Not in overlay or source candidates. Candidate for policy decision."
+      }
+    },
+    {
+      "rank": 34,
+      "term": "COURT FOR DIVORCE AND MATRI-MONIAL CAUSES",
+      "norm": "COURT FOR DIVORCE AND MATRI-MONIAL CAUSES",
+      "definition_length": 605,
+      "definition_preview": "This court was estab-lished by St. 20 & 21 Vict. c. 85, which trans-ferred to it all jurisdiction then exerclsable by an",
+      "classification": "NOT_FOUND",
+      "detail": {
+        "note": "Not in overlay or source candidates. Candidate for policy decision."
+      }
+    },
+    {
+      "rank": 35,
+      "term": "NORMAN FRENCH",
+      "norm": "NORMAN FRENCH",
+      "definition_length": 604,
+      "definition_preview": "The tongue in whlch several formal proceedings of state in England are stlll carrled on. The lan-guage, having remained ",
+      "classification": "SUBENTRY_IN_PARENT",
+      "detail": {
+        "parent_entry": "NORMAN",
+        "note": "Term appears in body of 'NORMAN' as a subentry or reference"
+      }
+    },
+    {
+      "rank": 36,
+      "term": "PROCES VERBAL",
+      "norm": "PROCES VERBAL",
+      "definition_length": 599,
+      "definition_preview": "In French law. A written report, whlch ls signed, setting forth a statement of facts. This term ls applled to the report",
+      "classification": "SUBENTRY_IN_PARENT",
+      "detail": {
+        "parent_entry": "PROCES",
+        "note": "Term appears in body of 'PROCES' as a subentry or reference"
+      }
+    },
+    {
+      "rank": 37,
+      "term": "DIVINE SERVICE",
+      "norm": "DIVINE SERVICE",
+      "definition_length": 598,
+      "definition_preview": "Divine service was the name of a feudal tenure, by which the tenants were obliged to do some special divine services in ",
+      "classification": "SUBENTRY_IN_PARENT",
+      "detail": {
+        "parent_entry": "DIVINE",
+        "note": "Term appears in body of 'DIVINE' as a subentry or reference"
+      }
+    },
+    {
+      "rank": 38,
+      "term": "ORPHANAGE PART",
+      "norm": "ORPHANAGE PART",
+      "definition_length": 598,
+      "definition_preview": "That portion of an intestate's effects which his children were entitled to by the custom of London. This custom appears ",
+      "classification": "NOT_FOUND",
+      "detail": {
+        "note": "Not in overlay or source candidates. Candidate for policy decision."
+      }
+    },
+    {
+      "rank": 39,
+      "term": "AMICUS CURLS",
+      "norm": "AMICUS CURLS",
+      "definition_length": 594,
+      "definition_preview": "Lat A friend of the court A by-stander (usually a counsel-lor) who Interposes and volunteers lnforma-tion upon some matt",
+      "classification": "NOT_FOUND",
+      "detail": {
+        "note": "Not in overlay or source candidates. Candidate for policy decision."
+      }
+    },
+    {
+      "rank": 40,
+      "term": "QUIA EMFTORES",
+      "norm": "QUIA EMFTORES",
+      "definition_length": 592,
+      "definition_preview": "“Because the pur-chasere.” The title of the statute of westm. S. (18 Edw. L c. 1.) This statute took from the tenants of",
+      "classification": "NOT_FOUND",
+      "detail": {
+        "note": "Not in overlay or source candidates. Candidate for policy decision."
+      }
+    },
+    {
+      "rank": 41,
+      "term": "DE ANNO BISSEXTILI",
+      "norm": "DE ANNO BISSEXTILI",
+      "definition_length": 590,
+      "definition_preview": "of the bis-sextile or leap year. The title of a statute passed ln the twenty-first year of Henry III., which in fact, ho",
+      "classification": "NOT_FOUND",
+      "detail": {
+        "note": "Not in overlay or source candidates. Candidate for policy decision."
+      }
+    },
+    {
+      "rank": 42,
+      "term": "DISCONTINUANCE OF AN ESTATE",
+      "norm": "DISCONTINUANCE OF AN ESTATE",
+      "definition_length": 587,
+      "definition_preview": "The termination or suspension of an estate-tail, in consequence of the act of the tenant ln tail, in conveying a larger ",
+      "classification": "SUBENTRY_IN_PARENT",
+      "detail": {
+        "parent_entry": "DISCONTINUANCE",
+        "note": "Term appears in body of 'DISCONTINUANCE' as a subentry or reference"
+      }
+    },
+    {
+      "rank": 43,
+      "term": "DRAMATIC COMPOSITION",
+      "norm": "DRAMATIC COMPOSITION",
+      "definition_length": 584,
+      "definition_preview": "In copy-right law. A literary work setting forth a story, incident, or scene from life, in which, however, the narrative",
+      "classification": "NOT_FOUND",
+      "detail": {
+        "note": "Not in overlay or source candidates. Candidate for policy decision."
+      }
+    },
+    {
+      "rank": 44,
+      "term": "MEN OF STRAW",
+      "norm": "MEN OF STRAW",
+      "definition_length": 580,
+      "definition_preview": "Men who used in former days to ply about courts of law, so called from their manner of makiug known their occupation, (i",
+      "classification": "NOT_FOUND",
+      "detail": {
+        "note": "Not in overlay or source candidates. Candidate for policy decision."
+      }
+    },
+    {
+      "rank": 45,
+      "term": "BUBBLE ACT",
+      "norm": "BUBBLE ACT",
+      "definition_length": 572,
+      "definition_preview": "The statute 6 Geo. I. c. 18, “for restraining several extravagant and unwarrantable practices herein mentioned,\" was so ",
+      "classification": "SUBENTRY_IN_PARENT",
+      "detail": {
+        "parent_entry": "BUBBLE",
+        "note": "Term appears in body of 'BUBBLE' as a subentry or reference"
+      }
+    },
+    {
+      "rank": 46,
+      "term": "PER STIRPES",
+      "norm": "PER STIRPES",
+      "definition_length": 569,
+      "definition_preview": "Lat By roots or stocks; by representatlon. This term, de-rived from the clvil law, ls much used in the law of descents a",
+      "classification": "SUBENTRY_IN_PARENT",
+      "detail": {
+        "parent_entry": "PER",
+        "note": "Term appears in body of 'PER' as a subentry or reference"
+      }
+    },
+    {
+      "rank": 47,
+      "term": "MORT CIVILE",
+      "norm": "MORT CIVILE",
+      "definition_length": 565,
+      "definition_preview": "In French law. Civil death, as upon conviction for felony. It was nominally abollshed by a law of the 31st of May, 1854,",
+      "classification": "NOT_FOUND",
+      "detail": {
+        "note": "Not in overlay or source candidates. Candidate for policy decision."
+      }
+    },
+    {
+      "rank": 48,
+      "term": "RURAL DEANS",
+      "norm": "RURAL DEANS",
+      "definition_length": 561,
+      "definition_preview": "In English ecclesias-tical la... Very ancient officers of the church, almost grown out of use, until about the middle of",
+      "classification": "NOT_FOUND",
+      "detail": {
+        "note": "Not in overlay or source candidates. Candidate for policy decision."
+      }
+    },
+    {
+      "rank": 49,
+      "term": "AD VALOREM",
+      "norm": "AD VALOREM",
+      "definition_length": 558,
+      "definition_preview": "According to value. Duties are either ad valorem or speei/fc; the former when the duty Is laid in the form of a percenta",
+      "classification": "NOT_FOUND",
+      "detail": {
+        "note": "Not in overlay or source candidates. Candidate for policy decision."
+      }
+    },
+    {
+      "rank": 50,
+      "term": "COMMON RECOVERY",
+      "norm": "COMMON RECOVERY",
+      "definition_length": 556,
+      "definition_preview": "In conveyanc-Ing. A species of common assurance, or mode of conveying lands by matter of record, formerly ln frequent us",
+      "classification": "NOT_FOUND",
+      "detail": {
+        "note": "Not in overlay or source candidates. Candidate for policy decision."
+      }
+    },
+    {
+      "rank": 51,
+      "term": "TERRITORIAL, TERRITORIALITY",
+      "norm": "TERRITORIAL, TERRITORIALITY",
+      "definition_length": 554,
+      "definition_preview": "These terms are used to slgnlfy connection with, or limitation with reference to, a par-tlcular country or territory. Th",
+      "classification": "NOT_FOUND",
+      "detail": {
+        "note": "Not in overlay or source candidates. Candidate for policy decision."
+      }
+    },
+    {
+      "rank": 52,
+      "term": "VTNOUS LIQUORS",
+      "norm": "VTNOUS LIQUORS",
+      "definition_length": 551,
+      "definition_preview": "Thfs term includes all alcoholic beverages made from the Juice of the grape by the process of fermentation, and perhaps ",
+      "classification": "NOT_FOUND",
+      "detail": {
+        "note": "Not in overlay or source candidates. Candidate for policy decision."
+      }
+    },
+    {
+      "rank": 53,
+      "term": "OUT OF THE STATE",
+      "norm": "OUT OF THE STATE",
+      "definition_length": 548,
+      "definition_preview": "In reference to rights, linblllties, or jurlsdlctlons arising out of the common law, thls phrase ls equivalent to “beyon",
+      "classification": "SUBENTRY_IN_PARENT",
+      "detail": {
+        "parent_entry": "OUT",
+        "note": "Term appears in body of 'OUT' as a subentry or reference"
+      }
+    },
+    {
+      "rank": 54,
+      "term": "JUS NATURALE",
+      "norm": "JUS NATURALE",
+      "definition_length": 542,
+      "definition_preview": "The natural law, or law of nature; law. or legal principles, sup-posed to be discoverable by the light of nature or abst",
+      "classification": "NOT_FOUND",
+      "detail": {
+        "note": "Not in overlay or source candidates. Candidate for policy decision."
+      }
+    },
+    {
+      "rank": 55,
+      "term": "REBELLIOUS ASSEMBLY",
+      "norm": "REBELLIOUS ASSEMBLY",
+      "definition_length": 541,
+      "definition_preview": "In Eng-lish law. A gathering of twelve persons or more, intending, going about, or practicing unlawfully and of their ow",
+      "classification": "NOT_FOUND",
+      "detail": {
+        "note": "Not in overlay or source candidates. Candidate for policy decision."
+      }
+    },
+    {
+      "rank": 56,
+      "term": "CATONIANA REGULA",
+      "norm": "CATONIANA REGULA",
+      "definition_length": 539,
+      "definition_preview": "In Roman law. The rule which is commonly expressed ln the maxim, Quod ab initio non valet tractu temporis non convalebit",
+      "classification": "SUBENTRY_IN_PARENT",
+      "detail": {
+        "parent_entry": "CATONIANA",
+        "note": "Term appears in body of 'CATONIANA' as a subentry or reference"
+      }
+    },
+    {
+      "rank": 57,
+      "term": "EBB AND FLOW",
+      "norm": "EBB AND FLOW",
+      "definition_length": 537,
+      "definition_preview": "An expression used Eoolesia est infra setatom ot in ons-formerly in this country to denote the limits todia domini regis",
+      "classification": "NOT_FOUND",
+      "detail": {
+        "note": "Not in overlay or source candidates. Candidate for policy decision."
+      }
+    },
+    {
+      "rank": 58,
+      "term": "ESTATE OF INHERITANCE",
+      "norm": "ESTATE OF INHERITANCE",
+      "definition_length": 537,
+      "definition_preview": "A species of freehold estate in lands, otherwlse called a “fee,” where the tenant ls not only entitled to enjoy the land",
+      "classification": "SUBENTRY_IN_PARENT",
+      "detail": {
+        "parent_entry": "INHERITANCE",
+        "note": "Term appears in body of 'INHERITANCE' as a subentry or reference"
+      }
+    },
+    {
+      "rank": 59,
+      "term": "IRRESISTIBLE IMPULSE",
+      "norm": "IRRESISTIBLE IMPULSE",
+      "definition_length": 537,
+      "definition_preview": "Used chief-ly ln criminal law, this term means an im-pulse to commit an unlawful or crimlnal act which cannot be resiste",
+      "classification": "SUBENTRY_IN_PARENT",
+      "detail": {
+        "parent_entry": "IRRESISTIBLE",
+        "note": "Term appears in body of 'IRRESISTIBLE' as a subentry or reference"
+      }
+    },
+    {
+      "rank": 60,
+      "term": "GRAMMAR SCHOOL",
+      "norm": "GRAMMAR SCHOOL",
+      "definition_length": 532,
+      "definition_preview": "In England, this term designates a school in which such in-struction is given as will prepare the stu-dent to enter a co",
+      "classification": "SUBENTRY_IN_PARENT",
+      "detail": {
+        "parent_entry": "GRAMMAR",
+        "note": "Term appears in body of 'GRAMMAR' as a subentry or reference"
+      }
+    },
+    {
+      "rank": 61,
+      "term": "WITHDRAWING A JUROR",
+      "norm": "WITHDRAWING A JUROR",
+      "definition_length": 532,
+      "definition_preview": "In prac-tice. The withdrawing of one of the twelve jurors from the box, with the result that, the jury heing now found t",
+      "classification": "NOT_FOUND",
+      "detail": {
+        "note": "Not in overlay or source candidates. Candidate for policy decision."
+      }
+    },
+    {
+      "rank": 62,
+      "term": "NOVELUE CONSTI-TUTIONES",
+      "norm": "NOVELUE CONSTI-TUTIONES",
+      "definition_length": 529,
+      "definition_preview": "NSTI-TUTIONES.) New constitutions; generally translated in English, “Novels.” The Latin name of those constitutions whic",
+      "classification": "NOT_FOUND",
+      "detail": {
+        "note": "Not in overlay or source candidates. Candidate for policy decision."
+      }
+    },
+    {
+      "rank": 63,
+      "term": "FORCIBLE TRESPASS",
+      "norm": "FORCIBLE TRESPASS",
+      "definition_length": 528,
+      "definition_preview": "In North Carolina, this Is an invasion of the rights of auother with respect to his personal prop-erty, of the same char",
+      "classification": "NOT_FOUND",
+      "detail": {
+        "note": "Not in overlay or source candidates. Candidate for policy decision."
+      }
+    },
+    {
+      "rank": 64,
+      "term": "FORCIBLE ENTRY AND DETAINER",
+      "norm": "FORCIBLE ENTRY AND DETAINER",
+      "definition_length": 527,
+      "definition_preview": "The action of forcible entry and detainer is a summary proceeding to recover possession of premises forcibly or unlawful",
+      "classification": "SUBENTRY_IN_PARENT",
+      "detail": {
+        "parent_entry": "FORCIBLE",
+        "note": "Term appears in body of 'FORCIBLE' as a subentry or reference"
+      }
+    },
+    {
+      "rank": 65,
+      "term": "JUS PRIVATUM",
+      "norm": "JUS PRIVATUM",
+      "definition_length": 525,
+      "definition_preview": "Private law; the law regulating the rights, couduct, and affairs of Individuals, as distinguished from “public” law, whi",
+      "classification": "SUBENTRY_IN_PARENT",
+      "detail": {
+        "parent_entry": "JUS",
+        "note": "Term appears in body of 'JUS' as a subentry or reference"
+      }
+    },
+    {
+      "rank": 66,
+      "term": "I W. A M",
+      "norm": "I W. A M",
+      "definition_length": 519,
+      "definition_preview": "rights. A formal and emphatic leg-islative assertion and declaration of popular rights and liberties usually promulgated",
+      "classification": "LP_DEBRIS",
+      "detail": {
+        "reason": "Garbled term format (letter space letter-dot pattern)"
+      }
+    },
+    {
+      "rank": 67,
+      "term": "JUS DISPONENDI",
+      "norm": "JUS DISPONENDI",
+      "definition_length": 516,
+      "definition_preview": "The right of dis-posing. An expression used either general-ly to signify the right of alienation, as when we speak of de",
+      "classification": "NOT_FOUND",
+      "detail": {
+        "note": "Not in overlay or source candidates. Candidate for policy decision."
+      }
+    },
+    {
+      "rank": 68,
+      "term": "INTER CONJUNCTAS PERSONAS",
+      "norm": "INTER CONJUNCTAS PERSONAS",
+      "definition_length": 515,
+      "definition_preview": "Between conjunct persons. By the act 1621, c. 18, all conveyances or alienations between conjunct persons, unless grante",
+      "classification": "SUBENTRY_IN_PARENT",
+      "detail": {
+        "parent_entry": "INTER",
+        "note": "Term appears in body of 'INTER' as a subentry or reference"
+      }
+    },
+    {
+      "rank": 69,
+      "term": "STATE OF FACTS AND PROPOSAL",
+      "norm": "STATE OF FACTS AND PROPOSAL",
+      "definition_length": 514,
+      "definition_preview": "In English lunacy practice, when a person has beeu found a lunatic, the next step is to submit to the master a scheme ca",
+      "classification": "NOT_FOUND",
+      "detail": {
+        "note": "Not in overlay or source candidates. Candidate for policy decision."
+      }
+    },
+    {
+      "rank": 70,
+      "term": "COURT OF PECULIARS",
+      "norm": "COURT OF PECULIARS",
+      "definition_length": 513,
+      "definition_preview": "A spiritual court in England, belng a branch of, and annexed to, the Court of Arches. It has a jurisdiction over all tho",
+      "classification": "NOT_FOUND",
+      "detail": {
+        "note": "Not in overlay or source candidates. Candidate for policy decision."
+      }
+    },
+    {
+      "rank": 71,
+      "term": "EX MERO MOTU",
+      "norm": "EX MERO MOTU",
+      "definition_length": 505,
+      "definition_preview": "TU. of his own mere motion; of his own accord; voluntarily and without prompting or request. Royal let-ters patent which",
+      "classification": "NOT_FOUND",
+      "detail": {
+        "note": "Not in overlay or source candidates. Candidate for policy decision."
+      }
+    }
+  ]
+}
