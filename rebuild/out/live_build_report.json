@@ -1,14 +1,14 @@
 {
-  "previous_live_count": 12884,
-  "new_live_count": 12916,
-  "delta": 32,
-  "total_overlay_entries": 13673,
-  "live_entries": 12916,
+  "previous_live_count": 12916,
+  "new_live_count": 12928,
+  "delta": 12,
+  "total_overlay_entries": 13685,
+  "live_entries": 12928,
   "promoted_from_legacy": 1680,
   "body_sources": {
     "rebuilt": 10736,
     "legacy": 2145,
-    "manual_correction": 3,
+    "manual_correction": 15,
     "overlay_direct": 32
   },
   "counts_by_entry_type": {
@@ -17,7 +17,7 @@
       "provisional_main": 320,
       "legacy_retained": 1680,
       "headword_corrected": 20,
-      "recovered_main": 192,
+      "recovered_main": 204,
       "subentry": 201,
       "reversed_polarity": 3,
       "alias_variant": 15,
@@ -37,14 +37,14 @@
     "provisional_main": 320,
     "legacy_retained": 1680,
     "headword_corrected": 20,
-    "recovered_main": 192,
+    "recovered_main": 204,
     "subentry": 201,
     "reversed_polarity": 3,
     "alias_variant": 15,
     "unmatched_keep": 3
   },
   "changes_this_build": [],
-  "summary": "Live corpus: 12916 entries (+32 from previous build of 12884). 1680 legacy_unresolved entries promoted to legacy_retained.",
+  "summary": "Live corpus: 12928 entries (+12 from previous build of 12916). 1680 legacy_unresolved entries promoted to legacy_retained.",
   "entries": [
     {
       "id": "BLD2-00000",
@@ -103373,6 +103373,102 @@
       "entry_type": "recovered_main",
       "body_source": "overlay_direct",
       "body_length": 513
+    },
+    {
+      "id": "BLD2-13673",
+      "term": "MARQUE AND REPRISAL, LETTERS OF",
+      "original_term": null,
+      "entry_type": "recovered_main",
+      "body_source": "manual_correction",
+      "body_length": 1013
+    },
+    {
+      "id": "BLD2-13674",
+      "term": "ABSCONDING DEBTOR",
+      "original_term": null,
+      "entry_type": "recovered_main",
+      "body_source": "manual_correction",
+      "body_length": 797
+    },
+    {
+      "id": "BLD2-13675",
+      "term": "STET BILLA",
+      "original_term": null,
+      "entry_type": "recovered_main",
+      "body_source": "manual_correction",
+      "body_length": 763
+    },
+    {
+      "id": "BLD2-13676",
+      "term": "SUBSTITUTIONAL, SUBSTITUTIONARY",
+      "original_term": null,
+      "entry_type": "recovered_main",
+      "body_source": "manual_correction",
+      "body_length": 677
+    },
+    {
+      "id": "BLD2-13677",
+      "term": "ABSTRACT OF TITLE",
+      "original_term": null,
+      "entry_type": "recovered_main",
+      "body_source": "manual_correction",
+      "body_length": 654
+    },
+    {
+      "id": "BLD2-13678",
+      "term": "COURT FOR DIVORCE AND MATRIMONIAL CAUSES",
+      "original_term": null,
+      "entry_type": "recovered_main",
+      "body_source": "manual_correction",
+      "body_length": 605
+    },
+    {
+      "id": "BLD2-13679",
+      "term": "AMICUS CURIAE",
+      "original_term": null,
+      "entry_type": "recovered_main",
+      "body_source": "manual_correction",
+      "body_length": 594
+    },
+    {
+      "id": "BLD2-13680",
+      "term": "QUIA EMPTORES",
+      "original_term": null,
+      "entry_type": "recovered_main",
+      "body_source": "manual_correction",
+      "body_length": 592
+    },
+    {
+      "id": "BLD2-13681",
+      "term": "NOVELLAE CONSTITUTIONES",
+      "original_term": null,
+      "entry_type": "recovered_main",
+      "body_source": "manual_correction",
+      "body_length": 529
+    },
+    {
+      "id": "BLD2-13682",
+      "term": "JUS DISPONENDI",
+      "original_term": null,
+      "entry_type": "recovered_main",
+      "body_source": "manual_correction",
+      "body_length": 516
+    },
+    {
+      "id": "BLD2-13683",
+      "term": "STATE OF FACTS AND PROPOSAL",
+      "original_term": null,
+      "entry_type": "recovered_main",
+      "body_source": "manual_correction",
+      "body_length": 514
+    },
+    {
+      "id": "BLD2-13684",
+      "term": "EX MERO MOTU",
+      "original_term": null,
+      "entry_type": "recovered_main",
+      "body_source": "manual_correction",
+      "body_length": 505
     }
   ]
 }
