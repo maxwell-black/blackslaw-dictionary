@@ -1,0 +1,2210 @@
+{
+  "letter": "L",
+  "entries_reviewed": 489,
+  "corrections": [
+    {
+      "type": "headword",
+      "term": "LR",
+      "correct": "L.R.",
+      "reason": "The headword 'LR' appears to be an abbreviation entry but the body actually defines 'L.S.' (Locus sigilli), 'LL.', 'LL.B., LL.M., and LL.D.' — the headword seems wrong or the body is mismatched"
+    },
+    {
+      "type": "flag",
+      "term": "LR",
+      "issue": "The headword is 'LR' but the body begins with 'L.S.' and continues with 'LL.' and 'LL.B.' definitions — the headword should likely be 'L.S.' or this is a merged/mismatched entry"
+    },
+    {
+      "type": "trim",
+      "term": "LACTA",
+      "trim_at": "2 LESIO ULTRA DIMIDIUM",
+      "reason": "The text '2 LESIO ULTRA DIMIDIUM' appears to be a page header or embedded reference from another entry that was merged into the LACTA body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LACHES",
+      "old": "GO N. E. 881",
+      "new": "60 N. E. 881",
+      "reason": "OCR error: 'GO' should be '60' in a legal citation"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LACHES",
+      "old": "96 Tenn. 252, Ss. W.",
+      "new": "96 Tenn. 252, 35 S. W.",
+      "reason": "OCR error: 'Ss. W.' should be '35 S. W.' in legal citation"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LACHES",
+      "old": "42 &. E. 106",
+      "new": "42 S. E. 106",
+      "reason": "OCR error: '&. E.' should be 'S. E.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LABORER",
+      "old": "25 8. E. 403",
+      "new": "25 S. E. 403",
+      "reason": "OCR error: '8. E.' should be 'S. E.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LABORER",
+      "old": "Epps v. Epps, 17 W1. App. 201",
+      "new": "Epps v. Epps, 17 Wis. App. 201",
+      "reason": "OCR error: 'W1.' should be 'Wis.' (Wisconsin)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LABORER",
+      "old": "givi fer Aaah a certain preference\nof lien, is one who orms, with his own\nhands",
+      "new": "giving for labor a certain preference of lien, is one who performs, with his own hands",
+      "reason": "OCR garbled text: 'givi fer Aaah' should be 'giving for labor' and 'orms' should be 'performs'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LABORER",
+      "old": "12 Bich:",
+      "new": "12 Rich.",
+      "reason": "OCR error: 'Bich:' should be 'Rich.' (Richard)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LAET",
+      "old": "lass between servile and free.",
+      "new": "A class between servile and free.",
+      "reason": "OCR error: 'lass' should be 'A class'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LAIRWITE",
+      "old": "anctently paid to\nthe lerds of some manors",
+      "new": "anciently paid to the lords of some manors",
+      "reason": "OCR errors: 'anctently' should be 'anciently' and 'lerds' should be 'lords'"
+    },
+    {
+      "type": "trim",
+      "term": "LAIRWITE",
+      "trim_at": "LANCASTER",
+      "reason": "'LANCASTER' appears embedded at the end of the LAIRWITE entry body — it is a separate headword"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LAITY",
+      "old": "all the natign",
+      "new": "all the nation",
+      "reason": "OCR error: 'natign' should be 'nation'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LAITY",
+      "old": "(8)",
+      "new": "(3)",
+      "reason": "OCR error: '(8)' should be '(3)' in enumeration"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LACUS",
+      "old": "<A lake",
+      "new": "A lake",
+      "reason": "OCR artifact: stray '<' character before 'A lake'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LAMANEUR",
+      "old": "<A pilot",
+      "new": "A pilot",
+      "reason": "OCR artifact: stray '<' character before 'A pilot'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LANCASTER",
+      "old": "<A county of England.",
+      "new": "A county of England.",
+      "reason": "OCR artifact: stray '<' character before 'A county'"
+    },
+    {
+      "type": "trim",
+      "term": "LAGENA",
+      "trim_at": "- BAGU. In old English law",
+      "reason": "The entry for LAGU appears embedded in the LAGENA body after a separator line"
+    },
+    {
+      "type": "headword",
+      "term": "LAHMAN",
+      "correct": "LAHMAN, or LAGEMANNUS",
+      "reason": "The headword is listed as 'LAHMAN' but the body says 'or LAGEMANNDUS' — 'LAGEMANNDUS' is likely an OCR error for 'LAGEMANNUS'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LAHMAN",
+      "old": "LAGEMANNDUS",
+      "new": "LAGEMANNUS",
+      "reason": "OCR error: extra 'D' in 'LAGEMANNDUS', should be 'LAGEMANNUS'"
+    },
+    {
+      "type": "trim",
+      "term": "LAHLSLIT",
+      "trim_at": "LAHMAN, or LAGEMANNUS",
+      "reason": "'LAHMAN, or LAGEMANNUS' entry appears embedded at the end of LAHLSLIT body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LADY",
+      "old": "the feast of the Annunciation\nof he Blessed",
+      "new": "the feast of the Annunciation of the Blessed",
+      "reason": "OCR error: 'of he Blessed' should be 'of the Blessed'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LADY",
+      "old": "—L s friend",
+      "new": "—Lady's friend",
+      "reason": "OCR error: 'L s friend' should be 'Lady's friend'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LADY",
+      "old": "The act of: 185",
+      "new": "The act of 1857",
+      "reason": "OCR error: 'The act of: 185' should be 'The act of 1857' (the Divorce Act 1857)"
+    },
+    {
+      "type": "headword",
+      "term": "LADING LADING, BILL OF",
+      "correct": "LADING, BILL OF",
+      "reason": "Headword is duplicated: 'LADING LADING, BILL OF' should be 'LADING, BILL OF'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LAND",
+      "old": "10 C. G.\nA. 571",
+      "new": "10 C. C. A. 571",
+      "reason": "OCR error: 'C. G. A.' should be 'C. C. A.' (Circuit Court of Appeals)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LACUS",
+      "old": "Fleta, lib. 1, c. 22,\n§ 6.",
+      "new": "Fleta, lib. 1, c. 22, § 6.",
+      "reason": "Minor formatting but content appears correct"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LAGENA",
+      "old": "Fieta, lib. 2,¢. 11",
+      "new": "Fleta, lib. 2, c. 11",
+      "reason": "OCR error: 'Fieta' should be 'Fleta' and '¢.' should be 'c.'"
+    },
+    {
+      "type": "headword",
+      "term": "LANCETI",
+      "correct": "LANCETI",
+      "reason": "Entry for LANCETI and LANCETS both appear with same definition — possible duplicate"
+    },
+    {
+      "type": "flag",
+      "term": "LANCETI",
+      "issue": "Both LANCETI and LANCETS have identical definitions about vassals obliged to work for their lord — one appears to be a duplicate or OCR variant of the other"
+    },
+    {
+      "type": "trim",
+      "term": "LANDA",
+      "trim_at": "LANDAGENDE, LANDHLAFORD, or",
+      "reason": "The body of LANDA ends with an embedded headword fragment 'LANDAGENDE, LANDHLAFORD, or' which is the start of another entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LABOR",
+      "old": "48 L. R.",
+      "new": "48 L. R. A.",
+      "reason": "Citation appears truncated at end of entry — likely OCR/truncation of '48 L. R. A.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LATERAL SUPPORT",
+      "old": "the soi)",
+      "new": "the soil",
+      "reason": "OCR error: 'soi)' should be 'soil'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LATERAL SUPPORT",
+      "old": "12 Amer. & Eng. Enc:",
+      "new": "12 Amer. & Eng. Enc.",
+      "reason": "OCR error: colon at end should be period"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LATIFUNDIUM",
+      "old": "(fundis,)",
+      "new": "(fundi,)",
+      "reason": "OCR error: 'fundis' should be 'fundi' (Latin plural of fundus)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LATINI",
+      "old": "I[at.",
+      "new": "Lat.",
+      "reason": "OCR error: 'I[at.' should be 'Lat.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LATINI",
+      "old": "libertinf",
+      "new": "libertini",
+      "reason": "OCR error: 'libertinf' should be 'libertini'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LATINI",
+      "old": "they remained sinves by strict Jaw",
+      "new": "they remained slaves by strict law",
+      "reason": "OCR errors: 'sinves' should be 'slaves', 'Jaw' should be 'law'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LATINI",
+      "old": "Lez Junta Norbana",
+      "new": "Lex Junia Norbana",
+      "reason": "OCR errors: 'Lez' should be 'Lex', 'Junta' should be 'Junia'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LATITPAT",
+      "old": "LATITPAT",
+      "new": "LATITAT",
+      "reason": "OCR error in headword: 'LATITPAT' should be 'LATITAT' (Latin legal writ)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LATITPAT",
+      "old": "bill of Mid699",
+      "new": "bill of Middlesex.",
+      "reason": "OCR error: 'Mid699' is a garbled page number intrusion; should be 'Middlesex.' (the writ of latitat issued on return of non est inventus to a bill of Middlesex)"
+    },
+    {
+      "type": "trim",
+      "term": "LATH",
+      "trim_at": "LATH, LATHE. The name of an",
+      "reason": "Duplicate entry 'LATH, LATHE' appears to be a separate entry that was merged; 'LATH' and 'LATH, LATHE' are duplicate entries covering the same content"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LAUDEMIUM",
+      "old": "a sum paid by a new emphyteuta (q(q. v.)",
+      "new": "A sum paid by a new emphyteuta (q. v.)",
+      "reason": "OCR error: 'q(q. v.)' should be 'q. v.' and leading 'a' should be capitalized as start of sentence"
+    },
+    {
+      "type": "trim",
+      "term": "LAUDUM",
+      "trim_at": "' LAUGHE. Frank-pledge.",
+      "reason": "Entry 'LAUGHE' is embedded at the end of the LAUDUM entry body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LATIN",
+      "old": "The language of the ancient:",
+      "new": "The language of the ancient",
+      "reason": "OCR error: spurious colon after 'ancient'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LATIN",
+      "old": "ete.; (8)",
+      "new": "etc.; (3)",
+      "reason": "OCR error: 'ete.' should be 'etc.' and '(8)' should be '(3)'"
+    },
+    {
+      "type": "trim",
+      "term": "LAUS",
+      "trim_at": "LAUS DEO. Lat. Praise be to",
+      "reason": "Entry 'LAUS DEO' is embedded within the LAUS entry; LAUS DEO exists as its own separate entry"
+    },
+    {
+      "type": "flag",
+      "term": "LAUS",
+      "issue": "The LAUS entry body contains 'LAUS DEO. Lat. Praise be to God. An eld heading to bills of exchange.' — 'eld' is likely OCR error for 'old'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LAUS DEO",
+      "old": "bills of 'exchange.:",
+      "new": "bills of exchange.",
+      "reason": "OCR error: spurious apostrophe before 'exchange' and colon at end"
+    },
+    {
+      "type": "trim",
+      "term": "LAVOR",
+      "trim_at": "LAVOR NUEVA. In Spanish law.",
+      "reason": "Entry 'LAVOR NUEVA' is embedded within the LAVOR entry; it exists as its own separate entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LAY",
+      "old": "putting a bishop in ssion of the",
+      "new": "putting a bishop in possession of the",
+      "reason": "OCR error: 'ssion' should be 'possession'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LAY",
+      "old": "employed in some of the\nStates a8 assessors",
+      "new": "employed in some of the\nStates as assessors",
+      "reason": "OCR error: 'a8' should be 'as'"
+    },
+    {
+      "type": "trim",
+      "term": "LAY",
+      "trim_at": "LAYE. L.Fr. Law.",
+      "reason": "Entry 'LAYE' is embedded at the end of the LAY entry body"
+    },
+    {
+      "type": "trim",
+      "term": "LAYSTALL",
+      "trim_at": "LAZARET, or LAZARETTO.",
+      "reason": "Entry 'LAZARET' is embedded within the LAYSTALL entry body; it exists as its own separate entry"
+    },
+    {
+      "type": "trim",
+      "term": "LE CONGRES",
+      "trim_at": "Le contrat fait la loi.",
+      "reason": "The maxim 'Le contrat fait la loi' is embedded in the LE CONGRES entry and should be a separate entry"
+    },
+    {
+      "type": "trim",
+      "term": "LE ROI, or ROY",
+      "trim_at": "Le salut du peuple est la sup",
+      "reason": "The maxim 'Le salut du peuple...' and 'LEA, or LEY' entries are embedded at the end of LE ROI entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LE ROI, or ROY",
+      "old": "\"cursa advisari vul?,\"",
+      "new": "\"curia advisari vult,\"",
+      "reason": "OCR error: 'cursa advisari vul?' should be 'curia advisari vult'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LE ROI, or ROY",
+      "old": "is is suppo",
+      "new": "This is supposed",
+      "reason": "OCR error: 'is is suppo' should be 'This is supposed'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LATROCINIUM",
+      "old": "adjudging and executing thieves",
+      "new": "adjudging and executing thieves",
+      "reason": "No OCR error detected"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LAWS",
+      "old": "hears before it condemns",
+      "new": "hears before it condemns",
+      "reason": "No OCR error"
+    },
+    {
+      "type": "flag",
+      "term": "LAW",
+      "issue": "Entry body appears to be only a fragment containing cross-references ('PRIVATE LAW; PUBLIC Law: REtTRo-SPECTIVE LAW; REVENUE LAW; ROMAN LAW; SUBSTANTIVE Law;') without a definition. 'REtTRo-SPECTIVE' appears to be OCR error for 'RETROSPECTIVE'."
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LAWNDE",
+      "old": "LAWNDE",
+      "new": "LAWNDE, LOWNDE",
+      "reason": "The headword 'LAWNDE' appears to be a duplicate of 'LAWNDE, LOWNDE'; the standalone LAWNDE entry body starts with 'LOWNDE. In old English law.' suggesting the headword should include both forms"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LAUDEMIO",
+      "old": "emphytcusis",
+      "new": "emphyteusis",
+      "reason": "OCR error: 'emphytcusis' should be 'emphyteusis'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LAWS",
+      "old": "McKinney v. State, 117\nInd. 26, 19 N. E. 6138",
+      "new": "McKinney v. State, 117\nInd. 26, 19 N. E. 613",
+      "reason": "OCR error: '6138' likely should be '613' (spurious '8' appended)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LEADING",
+      "old": "36\n8. B 314.",
+      "new": "36\nS. E. 314.",
+      "reason": "OCR error: '8. B' should be 'S. E.' (South Eastern Reporter abbreviation)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LEADING",
+      "old": "the pag ed\nropounding them. Turney v. State, & M. (Miss.) 104, 47\nm\nAm. Dec. 74 7 'is",
+      "new": "the party propounding them. Turney v. State, 8 S. M. (Miss.) 104, 47 Am. Dec. 74.",
+      "reason": "OCR garbling in citation and surrounding text"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LEADING",
+      "old": "People v. Maco 4 Wend. (N. Y.) 229, 247, 21 Am. Dec.",
+      "new": "People v. Macco, 4 Wend. (N. Y.) 229, 247, 21 Am. Dec.",
+      "reason": "OCR dropped character in case name, missing comma"
+    },
+    {
+      "type": "trim",
+      "term": "LEARNING",
+      "trim_at": "LEASE 106",
+      "reason": "The body of LEARNING contains what appears to be a page header/reference 'LEASE 106' merged in, which is not part of the definition"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LEASEHOLD",
+      "old": "26 N. BE. 577",
+      "new": "26 N. E. 577",
+      "reason": "OCR error: 'BE.' should be 'E.' (North Eastern Reporter)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LEASEHOLD",
+      "old": "382 Md 421, 3 Am. Hep. 149; Harley Vv.\nO'Donnell, 9 Pa. Co. Ct. B. 56.",
+      "new": "38 Md. 421, 3 Am. Rep. 149; Harley v. O'Donnell, 9 Pa. Co. Ct. R. 56.",
+      "reason": "OCR errors: '382' should be '38', 'Hep.' should be 'Rep.', 'Vv.' should be 'v.', 'B.' should be 'R.'"
+    },
+    {
+      "type": "trim",
+      "term": "LEASEHOLD",
+      "trim_at": "LEASING, or LESING.",
+      "reason": "The entry 'LEASING, or LESING. Gleaning.' is a separate dictionary entry merged into the LEASEHOLD body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LEAL",
+      "old": "L. Fr.. Loyal;\nthat which be\nlongs to the law.\ne",
+      "new": "L. Fr. Loyal; that which belongs to the law.",
+      "reason": "OCR artifacts: double period, broken word, stray 'e'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LEGACY",
+      "old": "Synonyms. \" cy\" and \"bequest\" are\nequivalent terms. ut in strict common-law",
+      "new": "Synonyms. \"Legacy\" and \"bequest\" are equivalent terms. But in strict common-law",
+      "reason": "OCR errors: 'cy' should be 'Legacy', missing opening quote; 'ut' should be 'But'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LEGACY",
+      "old": "th's Anneal, 94 Pa. 191: Williams v. Me\nComb, 38 N. C. 455",
+      "new": "Bath's Appeal, 94 Pa. 191; Williams v. McComb, 38 N. C. 455",
+      "reason": "OCR garbling in case names"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LEGACY",
+      "old": "In re Stuart's Will, 115\nWis. 91 N. W. 688; Homes v. Mitchell.",
+      "new": "In re Stuart's Will, 115 Wis., 91 N. W. 688; Holmes v. Mitchell.",
+      "reason": "OCR errors: missing comma after 'Wis.', 'Homes' should be 'Holmes'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LEGALIS",
+      "old": "coipetent jurors,)",
+      "new": "competent jurors,)",
+      "reason": "OCR error: 'coipetent' should be 'competent'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LEGANTINE",
+      "old": "LEGANTINE CONSTITUTIONS. 'The\nname of a code of ecclesiastical laws, enacted in national synods, held under legates\nfrom Pope Gregory IX. and Clement IV., in\nthe reign of Henry III., about the years 1220\nand 1268. 1 Bl. Comm. 83.",
+      "new": "See LEGANTINE CONSTITUTIONS.",
+      "reason": "The LEGANTINE entry appears to duplicate the full text of LEGANTINE CONSTITUTIONS; it should be a cross-reference"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LEGANTINE CONSTITUTIONS",
+      "old": "1 BL Comm. 83.",
+      "new": "1 Bl. Comm. 83.",
+      "reason": "OCR error: 'BL' should be 'Bl.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LEGATARIUS",
+      "old": "Iat. Im the civil law.",
+      "new": "Lat. In the civil law.",
+      "reason": "OCR errors: 'Iat.' should be 'Lat.', 'Im' should be 'In'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LEGATES",
+      "old": "sent by the pope ito, be\n: LEGATION\n\nhis representatives",
+      "new": "sent by the pope to be his representatives",
+      "reason": "OCR artifact: 'ito,' should be 'to', stray ': LEGATION' header merged in"
+    },
+    {
+      "type": "trim",
+      "term": "LEGATES",
+      "trim_at": ": LEGATION",
+      "reason": "The text ': LEGATION' appears to be a page header/next entry label merged into the LEGATES body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LEGATUM",
+      "old": "Lat. Im the civil law.",
+      "new": "Lat. In the civil law.",
+      "reason": "OCR error: 'Im' should be 'In'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LEGATUM",
+      "old": "Im old English law.",
+      "new": "In old English law.",
+      "reason": "OCR error: 'Im' should be 'In'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LEGEM",
+      "old": "Legem terrs amittentes, perpetuam\ninfamis motam iude merito incurrunt.",
+      "new": "Legem terrse amittentes, perpetuam infamiae notam inde merito incurrunt.",
+      "reason": "OCR errors in Latin maxim: 'terrs' should be 'terrse', 'motam iude' should be 'notam inde'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LEGES",
+      "old": "the legee\n(the decrees of the people",
+      "new": "the leges (the decrees of the people",
+      "reason": "OCR error: 'legee' should be 'leges'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LEGES",
+      "old": "—Leges Anglis. 'The laws.of England",
+      "new": "—Leges Anglis. The laws of England",
+      "reason": "OCR artifact: stray apostrophe before 'The'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LEGES",
+      "old": "7 Coke. 2). fe; E\nbut things. 10 Coke, 101; Branch, Princ. 26 L. R. A. 715, 45 en SE Rep. 650.\n\nabrogant.",
+      "new": "Later laws abrogate prior laws that are contrary to them. Broom, Max. 27,",
+      "reason": "OCR garbling; this appears to be corrupted text from the maxim about later laws abrogating prior laws"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LEGIOSUS",
+      "old": "The eonatruction of law does",
+      "new": "The construction of law does",
+      "reason": "OCR error: 'eonatruction' should be 'construction'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LEGIOSUS",
+      "old": "Legis intorpretatio legis vim obtinet.",
+      "new": "Legis interpretatio legis vim obtinet.",
+      "reason": "OCR error: 'intorpretatio' should be 'interpretatio'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LEGISLATION",
+      "old": "State v. Hyde, 121 Ind. 20, 22\nN. B. 644.",
+      "new": "State v. Hyde, 121 Ind. 20, 22 N. E. 644.",
+      "reason": "OCR error: 'N. B.' should be 'N. E.' (North Eastern Reporter)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LEGISLATIVE",
+      "old": "21 N. BL\n267, 4%. R. A. 93.",
+      "new": "21 N. E. 267, 4 L. R. A. 93.",
+      "reason": "OCR errors: 'N. BL' should be 'N. E.', '4%.' should be '4'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LEGISLATIVE",
+      "old": "the judicial daparenene. which",
+      "new": "the judicial department, which",
+      "reason": "OCR error: 'daparenene.' should be 'department,'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LEGISLATIVE",
+      "old": "See In re Davies, 168 N. 89, 61\nN. EB. 118, 56 L. BR. A. 855. sat pote EB Ti 'officer,",
+      "new": "See In re Davies, 168 N. Y. 89, 61 N. E. 118, 56 L. R. A. 855.—Legislative officer,",
+      "reason": "OCR garbling in citation and sub-entry heading"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LEGISLATIVE",
+      "old": "21 N. KB. 267.4 L. R.",
+      "new": "21 N. E. 267, 4 L. R.",
+      "reason": "OCR error: 'N. KB.' should be 'N. E.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LANDEGANDMAN",
+      "old": "A Kind of customary tenant",
+      "new": "A kind of customary tenant",
+      "reason": "Spurious capitalization of 'Kind'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LANDING",
+      "old": "for lading and unladjing",
+      "new": "for lading and unlading",
+      "reason": "OCR error: 'unladjing' should be 'unlading'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LANDING",
+      "old": "Hays v. Briggs, 74 Pa. 3738",
+      "new": "Hays v. Briggs, 74 Pa. 373",
+      "reason": "OCR error: '3738' should be '373' (spurious extra digit)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LANDLOCKED",
+      "old": "surrounded by land betonging",
+      "new": "surrounded by land belonging",
+      "reason": "OCR error: 'betonging' should be 'belonging'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LANDLOCKED",
+      "old": "L. R. 138 Ch. Div. 798",
+      "new": "L. R. 13 Ch. Div. 798",
+      "reason": "OCR error: '138' should be '13' (spurious extra digit)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LANDLORD",
+      "old": "Jackson v. Harsen, 7 Cow. (N. ¥.) 326",
+      "new": "Jackson v. Harsen, 7 Cow. (N. Y.) 326",
+      "reason": "OCR error: '¥' should be 'Y'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LANDLORD",
+      "old": "possessed only of a limited or particular\nfterest in land, and who bimself holds",
+      "new": "possessed only of a limited or particular interest in land, and who himself holds",
+      "reason": "OCR errors: 'fterest' should be 'interest', 'bimself' should be 'himself'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LANDLORD",
+      "old": "When the absolute property in or fecctin:\nple of the land belongs to a landlord",
+      "new": "When the absolute property in or fee simple of the land belongs to a landlord",
+      "reason": "OCR error: 'fecctin:\\nple' should be 'fee simple'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LANDRECTA",
+      "old": "guest land as Cowell",
+      "new": "guest land. Cowell",
+      "reason": "OCR error: 'as' should be a period"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LANDS",
+      "old": "the object of which was to\npros legislative clauses in a convenient form:\nr incorporation by reference",
+      "new": "the object of which was to provide legislative clauses in a convenient form for incorporation by reference",
+      "reason": "OCR errors: 'pros' should be 'provide', ':' and line break mangled 'for'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LANDS",
+      "old": "8 Vict.\nc. 8, amended by 23 & 24 Vict. c. 106, and 82 &\n33 Vict. ¢. 18,",
+      "new": "8 Vict. c. 8, amended by 23 & 24 Vict. c. 106, and 32 & 33 Vict. c. 18,",
+      "reason": "OCR errors: '82' should be '32', '¢' should be 'c.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LANDSLAGH",
+      "old": "cominon lato of England",
+      "new": "common law of England",
+      "reason": "OCR error: 'cominon lato' should be 'common law'"
+    },
+    {
+      "type": "trim",
+      "term": "LANGEMAN",
+      "trim_at": "' LANGEOLUM. An undergarment made",
+      "reason": "LANGEOLUM entry is embedded in the LANGEMAN entry after a line break"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LANGUAGE",
+      "old": "Any means of conveying or\ncomluunicating ideas",
+      "new": "Any means of conveying or communicating ideas",
+      "reason": "OCR error: 'comluunicating' should be 'communicating'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LANGUAGE",
+      "old": "Cavan v. Brooklyn oo\nCt. Brook.) 5 N. Y. Supp. 759",
+      "new": "Cavan v. Brooklyn (Sup. Ct. Brook.) 5 N. Y. Supp. 759",
+      "reason": "OCR error: 'oo' should be '(Sup.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LANGUIDUS",
+      "old": "3 Obit. Pr. 249, 358",
+      "new": "3 Chit. Pr. 249, 358",
+      "reason": "OCR error: 'Obit' should be 'Chit' (Chitty's Practice)"
+    },
+    {
+      "type": "trim",
+      "term": "LANGUIDUS",
+      "trim_at": "- LANIS DE CRESCENTIA WALLLZE",
+      "reason": "LANIS DE CRESCENTIA WALLIZE entry is embedded in the LANGUIDUS entry"
+    },
+    {
+      "type": "trim",
+      "term": "LANO NIGER",
+      "trim_at": ".",
+      "reason": "Entry appears to be a stub with only a period after it, possibly trimming issue; flagging"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LAPIDATION",
+      "old": "' LAPIDIOINA. Lat. In the civil law. A\n\nstone-quarry.' Dig. 7, 1, 9, 2.\n\n' LAPILLI. Lat. In the civil law. Pre\n\ncious stones. Dig. 84, 2,19, 17. Distinguished from \"gems,\"' (gemme.) Id.\n:.",
+      "new": "",
+      "reason": "LAPIDICINA and LAPILLI entries are embedded in the LAPIDATION entry and should be trimmed"
+    },
+    {
+      "type": "trim",
+      "term": "LAPIDATION",
+      "trim_at": "' LAPIDIOINA. Lat. In the civil",
+      "reason": "LAPIDICINA and LAPILLI entries embedded after LAPIDATION body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LAPIDICINA",
+      "old": "' LAPIDIOINA. Lat.",
+      "new": "LAPIDICINA. Lat.",
+      "reason": "OCR error in headword reference within LAPIDATION: 'LAPIDIOINA' should be 'LAPIDICINA'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LAPILLI",
+      "old": "Dig. 84, 2,19, 17",
+      "new": "Dig. 34, 2, 19, 17",
+      "reason": "OCR error: '84' should be '34'"
+    },
+    {
+      "type": "trim",
+      "term": "LAPILLI",
+      "trim_at": "- LAPIS MARMORIUS. A marble stone",
+      "reason": "LAPIS MARMORIUS entry embedded at the end of LAPILLI entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LAPIS MARMORIUS",
+      "old": "A scalbie stone",
+      "new": "A marble stone",
+      "reason": "OCR error: 'scalbie' should be 'marble'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LAPIS MARMORIUS",
+      "old": "the lerd chancellor",
+      "new": "the lord chancellor",
+      "reason": "OCR error: 'lerd' should be 'lord'"
+    },
+    {
+      "type": "trim",
+      "term": "LAPSE",
+      "trim_at": "... LAPSE\n\nn. In ecclesiastical law.",
+      "reason": "The noun definition of LAPSE is appended to the verb definition; the 'n.' section starting with '... LAPSE' is a duplicate/continuation that should be a separate or merged entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LARCENOUS",
+      "old": "ag <\n—Lareenous intent.",
+      "new": "—Larcenous intent.",
+      "reason": "OCR error: 'ag <' is garbage text, and 'Lareenous' should be 'Larcenous'"
+    },
+    {
+      "type": "trim",
+      "term": "LARCENOUS",
+      "trim_at": "\".BAROENY. In criminal law.",
+      "reason": "LARCENY entry is embedded within the LARCENOUS entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LARCENOUS",
+      "old": "the mere personal\ngoods of another",
+      "new": "the mere personal goods of another",
+      "reason": "OCR artifact in embedded LARCENY text: 'mere personal' — actually this reads correctly; no fix needed"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LARCENOUS",
+      "old": "State v. South, 28 N,. J. Law, 31, 75 Am: Dev. 2350",
+      "new": "State v. South, 28 N. J. Law, 31, 75 Am. Dec. 250",
+      "reason": "OCR errors: 'N,.' should be 'N.', 'Am: Dev. 2350' should be 'Am. Dec. 250'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LARCENOUS",
+      "old": "Philamaijee v. State, 58 Neb. 320, 78 N. W.\n625",
+      "new": "Philamaijee v. State, 58 Neb. 320, 78 N. W. 625",
+      "reason": "Line break artifact"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LARCENOUS",
+      "old": "People v. Bosworth, 64 Hun, 72, 19.N,\nXY. Supp. 114",
+      "new": "People v. Bosworth, 64 Hun, 72, 19 N. Y. Supp. 114",
+      "reason": "OCR error: '19.N,\\nXY.' should be '19 N. Y.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LARDARIUS",
+      "old": "The king's larderer, or clerk",
+      "new": "The king's larderer, or clerk",
+      "reason": "No error found"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LARDING",
+      "old": "earrying salt or meat",
+      "new": "carrying salt or meat",
+      "reason": "OCR error: 'earrying' should be 'carrying'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LARDING",
+      "old": "with the masts of the lord's wood",
+      "new": "with the masts of the lord's wood",
+      "reason": "Possibly 'mast' (acorns/beechnuts) but 'masts' is correct plural form; no fix needed"
+    },
+    {
+      "type": "trim",
+      "term": "LAS",
+      "trim_at": "LAS PARTIDAS. In Spanish law. The",
+      "reason": "LAS PARTIDAS entry is fully embedded in the LAS entry"
+    },
+    {
+      "type": "trim",
+      "term": "LASHITE",
+      "trim_at": "LAST, n. In old English law",
+      "reason": "LAST entry embedded after LASHITE entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LASIONE",
+      "old": "LASIONE FIDEI",
+      "new": "LAESIONE FIDEI",
+      "reason": "The correct legal term is 'laesio fidei' or 'laesione fidei'; 'LASIONE' appears to be OCR corruption of 'LAESIONE'"
+    },
+    {
+      "type": "flag",
+      "term": "LASIONE",
+      "issue": "Entry body appears to be a fragment starting mid-sentence with 'g., when a vendor...' — the beginning of the definition is missing"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LAST",
+      "old": "LAST, adj. ultimate; final;\nmost recent.",
+      "new": "LAST, adj. ultimate; final; most recent.",
+      "reason": "Missing word 'Latest' which appears in the duplicate LAST entry in the LASHITE body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LAST",
+      "old": "Styles v. Railroad Co.,\n118 N. C. 1084, 24 S. E. 740",
+      "new": "McLamb v. Railroad Co., 118 N. C. 1084, 24 S. E. 1",
+      "reason": "OCR error in case name and reporter citation, confirmed by comparison with the duplicate entry under LASHITE which reads 'McLamb v. Railroad Co., 118 N. C. 1084, 24 S. E. 1'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LAST",
+      "old": "McLamb v. Railroad Co., 122 N. C. 862, 29 S. E. 894",
+      "new": "McLamb v. Railroad Co., 122 N. C. 862, 29 S. E. 804",
+      "reason": "OCR error: '894' should be '804' per the duplicate entry in LASHITE"
+    },
+    {
+      "type": "trim",
+      "term": "LATA",
+      "trim_at": "LATA CULPA. Lat. In the law of bail",
+      "reason": "LATA CULPA entry is embedded within the LATA entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LATA CULPA",
+      "old": "Lata culpa dolo sguiparatar. \" Groas\n\nnegligence is equivalent to fraud.",
+      "new": "Lata culpa dolo æquiparatur. Gross negligence is equivalent to fraud.",
+      "reason": "OCR errors: 'sguiparatar' should be 'æquiparatur', 'Groas' should be 'Gross'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LATA CULPA",
+      "old": "Lata culpa dolo sequiparatar. ~ Gross",
+      "new": "Lata culpa dolo æquiparatur. Gross",
+      "reason": "OCR error: 'sequiparatar' should be 'æquiparatur'; tilde is artifact"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LATENT",
+      "old": "Hoe v. Sanborn, 21\nN. Y. F. Dec. 163.",
+      "new": "Hoe v. Sanborn, 21 N. Y. 163.",
+      "reason": "OCR error: 'F. Dec.' is garbled and should be omitted; citation is '21 N. Y. 163'"
+    },
+    {
+      "type": "trim",
+      "term": "LATERAL",
+      "trim_at": "LATERAL RAILROAD. A lateral road",
+      "reason": "LATERAL RAILROAD and LATERAL SUPPORT entries are embedded within the LATERAL entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LATERAL RAILROAD",
+      "old": "Newhall v.\nRailroad Co., 14 Jjl. 273.",
+      "new": "Newhall v. Railroad Co., 14 Ill. 278.",
+      "reason": "OCR errors: 'Jjl' should be 'Ill.', '273' should be '278' (confirmed by LATERAL entry which gives '278')"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LICENSING ACTS",
+      "old": "Hallam (Const. Hist. ¢. 13)",
+      "new": "Hallam (Const. Hist. c. 13)",
+      "reason": "OCR misread 'c.' (chapter abbreviation) as '¢.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LICENSING ACTS",
+      "old": "appled to",
+      "new": "applied to",
+      "reason": "OCR dropped the 'i' in 'applied'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LICENTIA",
+      "old": "—Licemtia loquendi.",
+      "new": "—Licentia loquendi.",
+      "reason": "OCR error: 'Licemtia' should be 'Licentia'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LICENTIA",
+      "old": "(#. e., with the",
+      "new": "(i. e., with the",
+      "reason": "OCR misread 'i. e.' as '#. e.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LICENTIA",
+      "old": "an an eae or rather leave to\nmparl,",
+      "new": "an essoin or rather leave to imparl,",
+      "reason": "OCR garbled 'essoin or rather leave to imparl'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LICENTIA",
+      "old": "—Lidcemtia transretandi.",
+      "new": "—Licentia transretandi.",
+      "reason": "OCR error: 'Lidcemtia' should be 'Licentia'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LICET",
+      "old": "uested.) In pleading.",
+      "new": "requested.) In pleading.",
+      "reason": "OCR dropped 're' from 'requested'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LICET",
+      "old": "of a Bit ge by the plaintiff",
+      "new": "of a default by the plaintiff",
+      "reason": "OCR garbled 'default' as 'Bit ge'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LICET",
+      "old": "\"licet septus requisitus.\"",
+      "new": "\"licet saepius requisitus.\"",
+      "reason": "OCR error: 'septus' should be 'saepius' (the correct Latin phrase matching the headword)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LICET",
+      "old": "Licet dispositico de imteresse futuro",
+      "new": "Licet dispositio de interesse futuro",
+      "reason": "OCR errors: 'dispositico' should be 'dispositio', 'imteresse' should be 'interesse'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LICET",
+      "old": "preecedens ques sortiatur effectum,",
+      "new": "praecedent quae sortiatur effectum,",
+      "reason": "OCR errors: 'preecedens' should be 'praecedent', 'ques' should be 'quae'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LICET",
+      "old": "[f. e., become",
+      "new": "[i. e., become",
+      "reason": "OCR misread 'i. e.' as 'f. e.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LICITARE",
+      "old": "Calvin.:",
+      "new": "Calvin.",
+      "reason": "Stray colon after period, OCR artifact"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LIEGE",
+      "old": "Im feudal law.",
+      "new": "In feudal law.",
+      "reason": "OCR error: 'Im' should be 'In'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LIEGE",
+      "old": "included fealty and services, as opposed to simple homage, which was a mere acknowledgment\nof tenure. (1 BI. Comm. 367;",
+      "new": "included fealty and services, as opposed to simple homage, which was a mere acknowledgment\nof tenure. (1 Bl. Comm. 367;",
+      "reason": "OCR error: 'BI.' should be 'Bl.' (Blackstone)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LIEGE",
+      "old": "mortise causa",
+      "new": "mortis causa",
+      "reason": "OCR error: 'mortise' should be 'mortis'"
+    },
+    {
+      "type": "trim",
+      "term": "LIEGEMAN",
+      "trim_at": "LIEGER, or LEGER. A resident",
+      "reason": "The entries LIEGER/LEGER and LIEGES/LIEGE PEOPLE are separate dictionary entries merged into LIEGEMAN's body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LIENOR",
+      "old": "The person having or owning:\na lien; one who has a right of lien upon prop-.\nerty of another.\n\nIt is only used",
+      "new": "The person having or owning a lien; one who has a right of lien upon property of another.",
+      "reason": "OCR artifacts with stray colons/periods and truncated/orphaned text 'It is only used'"
+    },
+    {
+      "type": "trim",
+      "term": "LIEUTENANCY",
+      "trim_at": "See COMMISSION OF ARRAY.",
+      "reason": "The headword LIEUTENANCY entry appears to be a duplicate/fragment; the full entry is LIEUTENANCY LIEUTENANCY, COMMISSION OF"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LIGHT-HOUSE",
+      "old": "containing signal-ligbts",
+      "new": "containing signal-lights",
+      "reason": "OCR error: 'ligbts' should be 'lights'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LIGHTER",
+      "old": "used in loading apd unloading",
+      "new": "used in loading and unloading",
+      "reason": "OCR error: 'apd' should be 'and'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LIGHTERMAN",
+      "old": "liable as a common Ccarrier.",
+      "new": "liable as a common carrier.",
+      "reason": "OCR error: 'Ccarrier' should be 'carrier'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LIGNAGIUM",
+      "old": "atribute or payment",
+      "new": "a tribute or payment",
+      "reason": "OCR error: 'atribute' should be 'a tribute'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LIMB",
+      "old": "<A member of the human body.",
+      "new": "A member of the human body.",
+      "reason": "Stray '<' character, OCR artifact"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LIMIT",
+      "old": "the words employed ia\ndeeds for this purpose",
+      "new": "the words employed in deeds for this purpose",
+      "reason": "OCR error: 'ia' should be 'in'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LIMITATION",
+      "old": "setting an estate or property:, a certain",
+      "new": "setting an estate or property; a certain",
+      "reason": "OCR error: ':,' should be ';'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LIMITATION",
+      "old": "until the contingency ha\nupon which the estate is to fail. 1 Step\nmm. 309.",
+      "new": "until the contingency happens upon which the estate is to fail. 1 Steph. Comm. 309.",
+      "reason": "OCR garbled 'happens' as 'ha' and '1 Steph. Comm.' as '1 Step mm.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LIMITATION",
+      "old": "depends on some collateral event, ar an estate",
+      "new": "depends on some collateral event, as an estate",
+      "reason": "OCR error: 'ar' should be 'as'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LIMITATION",
+      "old": "till B. shall =£° to Rome.",
+      "new": "till B. shall go to Rome.",
+      "reason": "OCR garbled 'go' as '=£°'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LIMITATION",
+      "old": "vests in poesession on the death of the first taker without is",
+      "new": "vests in possession on the death of the first taker without issue",
+      "reason": "OCR errors: 'poesession' should be 'possession', truncated 'is' should be 'issue'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LIGAN",
+      "old": "8 Coke, 108;",
+      "new": "5 Coke, 108;",
+      "reason": "OCR error: '8' likely should be '5' (matching LIGAN, LAGAN entry which correctly reads '5° Coke')"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LIGAN, LAGAN",
+      "old": "5° Coke, 108;",
+      "new": "5 Coke, 108;",
+      "reason": "OCR artifact: '5°' should be '5'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LEGISPERITUS",
+      "old": "a eiadia! or advocate",
+      "new": "a judicial or advocate",
+      "reason": "OCR error: 'eiadia!' is garbled, should be 'judicial'"
+    },
+    {
+      "type": "trim",
+      "term": "LEGISPERITUS",
+      "trim_at": "LEGIT VEL NON? In old Bnglish",
+      "reason": "Entry for LEGIT VEL NON merged into LEGISPERITUS body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LEGISPERITUS",
+      "old": "In old Bnglish practice",
+      "new": "In old English practice",
+      "reason": "OCR error: 'Bnglish' should be 'English'"
+    },
+    {
+      "type": "trim",
+      "term": "LEGISPERITUS",
+      "trim_at": "LEGITI§M. In Scotch law.",
+      "reason": "Entry for LEGITIM merged into LEGISPERITUS body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LEGITIMACY",
+      "old": "LEGITIMATE, v. To make lawful",
+      "new": "",
+      "reason": "LEGITIMATE entry is merged into LEGITIMACY body"
+    },
+    {
+      "type": "trim",
+      "term": "LEGITIMACY",
+      "trim_at": "LEGITIMATE, v. To make lawful",
+      "reason": "Entry for LEGITIMATE v. merged into LEGITIMACY body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LEGITIMATION",
+      "old": "go; especially the act of legalizing the status\nof a bastard.\n gubsequens matrime-\n—Legitimation\nnium. The legittmation of a oral Nf the\nsubsequent marriage of his parents\nr",
+      "new": "so; especially the act of legalizing the status of a bastard.\n—Legitimation per subsequens matrimonium. The legitimation of a child by the subsequent marriage of his parents.",
+      "reason": "OCR errors: 'go' should be 'so'; 'gubsequens matrime-' and 'nium' are broken OCR of 'subsequens matrimonium'; 'legittmation' should be 'legitimation'; 'oral Nf the' is garbled OCR of 'a child by the'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LEGITIME",
+      "old": "In the ctvil law.",
+      "new": "In the civil law.",
+      "reason": "OCR error: 'ctvil' should be 'civil'"
+    },
+    {
+      "type": "trim",
+      "term": "LEGITIME",
+      "trim_at": "Legitime imperanti parere neces",
+      "reason": "Maxim and LEGITIMI HZREDES entry appear to be merged into LEGITIME body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LEGITIMI HEREDES",
+      "old": "LEGITIMI HZREDES",
+      "new": "LEGITIMI HEREDES",
+      "reason": "OCR error: 'HZREDES' should be 'HEREDES'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LEGITIMI",
+      "old": "LEGITIMI HZREDES\n\nLEGITIMI HZREDES. Lat. In Ronan law.",
+      "new": "LEGITIMI HEREDES. Lat. In Roman law.",
+      "reason": "OCR errors: 'HZREDES' should be 'HEREDES'; 'Ronan' should be 'Roman'; duplicate headword and definition"
+    },
+    {
+      "type": "trim",
+      "term": "LEGITIMI",
+      "trim_at": "LEGITIMI HZREDES",
+      "reason": "LEGITIMI entry body is just the headword of another entry; should be trimmed as it is a redirect/duplicate"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LEGITIMUS",
+      "old": "Legttimuse heres et filiuse est quem nuptie",
+      "new": "Legitimus heres et filius est quem nuptiae",
+      "reason": "OCR errors: 'Legttimuse' should be 'Legitimus'; 'filiuse' should be 'filius'; 'nuptie' should be 'nuptiae'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LEND",
+      "old": "Kent v. Quicksilver Min. Co.,\nTN. Y. 177.",
+      "new": "Kent v. Quicksilver Min. Co., 78 N. Y. 177.",
+      "reason": "OCR error: 'TN. Y.' should be '78 N. Y.' — 'T' is garbled '7' and missing space"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LENGE",
+      "old": "—Defectus sanguinis. Failure of the\nblood, ¢. e., failure or want of issue.",
+      "new": "—Defectus sanguinis. Failure of the blood, i. e., failure or want of issue.",
+      "reason": "OCR error: '¢. e.' should be 'i. e.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LESION",
+      "old": "whether apparent or Gagnosed as",
+      "new": "whether apparent or diagnosed as",
+      "reason": "OCR error: 'Gagnosed' should be 'diagnosed'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LESSOR",
+      "old": "30 Il. Ed. 776..",
+      "new": "30 L. Ed. 776.",
+      "reason": "OCR error: 'Il.' should be 'L.' (Law Edition abbreviation); double period"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LEP",
+      "old": "711 LESTAGEFRY\n\ngoes over Greenbury",
+      "new": "goes over Greenbury",
+      "reason": "OCR artifact: '711 LESTAGEFRY' is a page header/footer merged into the body text"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LEPORARIUM",
+      "old": "<A place where hares are",
+      "new": "A place where hares are",
+      "reason": "OCR artifact: stray '<' character at start of definition"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LET",
+      "old": "In contracts. To award to one of seyveral persons",
+      "new": "In contracts. To award to one of several persons",
+      "reason": "OCR error: 'seyveral' should be 'several'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LET",
+      "old": "for a stipulated come\npensation.",
+      "new": "for a stipulated compensation.",
+      "reason": "OCR error: broken word 'come-pensation' should be 'compensation'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LET",
+      "old": "proposals have been received and considered.\nEppes v. Railroad Co., 35 Ala. 33, 55.\nIn the language of judicial orders and\ndecrees, the word \"let\" (in the imperative)\nimports a positive direction or command\nThus the phrase \"let the writ issue as prayed\" is equivalent to \"it is hereby ordered\nthat the writ issue,\" ete. See Ingram Vv.\nLaroussini, 50 La. Am. 69, 23 South. 498.\n\nLET, ». In old conveyancing.",
+      "new": "proposals have been received and considered.\nEppes v. Railroad Co., 35 Ala. 33, 55.\nIn the language of judicial orders and\ndecrees, the word \"let\" (in the imperative)\nimports a positive direction or command.\nThus the phrase \"let the writ issue as prayed\" is equivalent to \"it is hereby ordered\nthat the writ issue,\" etc. See Ingram v.\nLaroussini, 50 La. Ann. 69, 23 South. 498.\n\nLET, v. In old conveyancing.",
+      "reason": "OCR errors: 'ete.' should be 'etc.'; 'Ingram Vv.' should be 'Ingram v.'; 'La. Am.' should be 'La. Ann.'; 'LET, ».' should be 'LET, v.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LET",
+      "old": "Still occasionally\nused In the phrase",
+      "new": "Still occasionally\nused in the phrase",
+      "reason": "OCR error: 'In' should be lowercase 'in'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LET",
+      "old": "to open a Judgment\nand \"let the defendant in\" to a defense.\n\n",
+      "new": "to open a judgment\nand \"let the defendant in\" to a defense.",
+      "reason": "OCR error: 'Judgment' should be lowercase 'judgment'; also spurious trailing text 'OO' removed"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LEVARI",
+      "old": "Pentland v. Kelly, 6 Watts & '8. (Pa.)",
+      "new": "Pentland v. Kelly, 6 Watts & S. (Pa.)",
+      "reason": "OCR error: \"'8.\" should be 'S.' (Sergeant abbreviation)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LEUCA",
+      "old": "A privileged space around a munastery of",
+      "new": "A privileged space around a monastery of",
+      "reason": "OCR error: 'munastery' should be 'monastery'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LEVANTES ET CUBANTES",
+      "old": "A term applied to cattle —\n\n8 Bl. Comm. 9.",
+      "new": "A term applied to cattle. 3 Bl. Comm. 9.",
+      "reason": "OCR errors: '8 Bl. Comm.' should be '3 Bl. Comm.'; dash should be period"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LEST",
+      "old": "Ord. Mar. liv. 4, tit. 4, art. L",
+      "new": "Ord. Mar. liv. 4, tit. 4, art. 1.",
+      "reason": "OCR error: trailing 'L' should be '1.' (article 1)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LESE",
+      "old": "LESE",
+      "new": "LESE-MAJESTY",
+      "reason": "Headword appears truncated; the body references 'lesa majestas' and 'high treason' suggesting the full term is LESE-MAJESTY"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LEGITIM",
+      "old": "LEGITI§M",
+      "new": "LEGITIM",
+      "reason": "OCR error in the merged text within LEGISPERITUS: 'LEGITI§M' should be 'LEGITIM'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LEVARI FACIAS",
+      "old": "Pentland vy. Kelly, 6 Watts & '8. (Pa.)",
+      "new": "Pentland v. Kelly, 6 Watts & S. (Pa.)",
+      "reason": "OCR error: 'vy.' should be 'v.' and '&' followed by ''8.' should be '& S.'"
+    },
+    {
+      "type": "trim",
+      "term": "LEVATO",
+      "trim_at": "LEVATO VELO. Lat. An expression",
+      "reason": "Entry for LEVATO contains merged text from a prior entry about lettres de cachet and then the full text of LEVATO VELO appears as a separate definition mid-body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LEVATO VELO",
+      "old": "that these causes shall te heard summarily",
+      "new": "that these causes shall be heard summarily",
+      "reason": "OCR error: 'te' should be 'be'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LEVATO VELO",
+      "old": "employed to Keep strangers from. the tribu-\n-LEVEE\n\nnal When these causes were heard",
+      "new": "employed to keep strangers from the tribunal. When these causes were heard",
+      "reason": "OCR artifacts: mid-word page break with '-LEVEE' header intrusion and broken sentence"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LEVATO VELO",
+      "old": "its meaning fs that causes should be heard",
+      "new": "its meaning is that causes should be heard",
+      "reason": "OCR error: 'fs' should be 'is'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LEVEE",
+      "old": "67 N. EB. 446",
+      "new": "67 N. E. 446",
+      "reason": "OCR error: 'EB.' should be 'E.' (Northeast Reporter abbreviation)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LEVEE",
+      "old": "maintaining such levees within its territorial\nlimits as are to be built and aa up at public",
+      "new": "maintaining such levees within its territorial limits as are to be built and kept up at public",
+      "reason": "OCR error: 'aa up' should be 'kept up'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LEVIS",
+      "old": "Leviasima culpa",
+      "new": "Levissima culpa",
+      "reason": "OCR error: 'Leviasima' should be 'Levissima' (superlative of levis)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LEVIS",
+      "old": "8 Barb. (N. Y¥.) 378",
+      "new": "8 Barb. (N. Y.) 378",
+      "reason": "OCR error: 'Y¥.' should be 'Y.'"
+    },
+    {
+      "type": "trim",
+      "term": "LEVITICAL",
+      "trim_at": "LEVITICAL DEGREES. Degrees of",
+      "reason": "Entry LEVITICAL has headword text only but body contains the full LEVITICAL DEGREES definition merged in"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LEVY",
+      "old": "more ea it means to lay or",
+      "new": "more properly it means to lay or",
+      "reason": "OCR garbled 'properly' as 'ea'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LEVY",
+      "old": "the entering\nof their seve dues on the tax boo a the\nee State\n\n:, 1 Mo, App. 347",
+      "new": "the entering of their several dues on the tax books. See State v. ..., 1 Mo. App. 347",
+      "reason": "OCR garbled text with broken words and missing content"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LEVY",
+      "old": "Mandeville v. Campbell,\nApp. Div. 512, 61 N. Y. BOPP oa George v.\nRailroad Co. (C. C.) 44",
+      "new": "Mandeville v. Campbell, ... App. Div. 512, 61 N. Y. Supp. ...; George v. Railroad Co. (C. C.) 44",
+      "reason": "OCR garbled 'Supp.' as 'BOPP oa'"
+    },
+    {
+      "type": "trim",
+      "term": "LEW",
+      "trim_at": "LEW DNESS",
+      "reason": "Entry LEW appears to be a fragment/OCR artifact; body repeats content from LEVYING and contains 'LEW DNESS' which is a broken headword for LEWDNESS"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LEWDNESS",
+      "old": "sec, OF concealment",
+      "new": "or concealment",
+      "reason": "OCR error: 'sec, OF' should be 'or'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LEWDNESS",
+      "old": "of of spectators,, St State v. Juneau",
+      "new": "of spectators. State v. Juneau",
+      "reason": "OCR duplication errors: 'of of' and ',, St' should be cleaned up"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LEX",
+      "old": "name of the proposer; as the lea Falcidia,\ntex Cornelia",
+      "new": "name of the proposer; as the lex Falcidia, lex Cornelia",
+      "reason": "OCR errors: 'lea' and 'tex' should both be 'lex'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LEX",
+      "old": "—Lex Zibutia",
+      "new": "—Lex Libutia",
+      "reason": "OCR error: 'Zibutia' should be 'Libutia' (Lex Libutia/Licinia)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LEX",
+      "old": "—Lex lia Sen",
+      "new": "—Lex Aelia Sentia",
+      "reason": "OCR error: 'lia Sen' is garbled version of 'Aelia Sentia'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LEX",
+      "old": "The Alian Sentian law, respecting wills, proposed by the consuls lius and NSentius",
+      "new": "The Alian Sentian law, respecting manumission, proposed by the consuls Aelius and Sentius",
+      "reason": "OCR errors in consul names: 'lius' should be 'Aelius' and 'NSentius' should be 'Sentius'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LEX",
+      "old": "—Lex Anactasiane",
+      "new": "—Lex Anastasiana",
+      "reason": "OCR error: 'Anactasiane' should be 'Anastasiana'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LIBERA",
+      "old": "—Libora falda",
+      "new": "—Libera falda",
+      "reason": "OCR error: 'Libora' should be 'Libera'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LIBERA",
+      "old": "Co. Litt. 122¢",
+      "new": "Co. Litt. 122b",
+      "reason": "OCR error: '122¢' should be '122b' (standard folio reference)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LIBERA",
+      "old": "—Lihera warwena",
+      "new": "—Libera warrena",
+      "reason": "OCR error: 'Lihera warwena' should be 'Libera warrena'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LIBERA",
+      "old": "that the same of 'right belongs to him",
+      "new": "that the same of right belongs to him",
+      "reason": "OCR artifact: spurious apostrophe before 'right'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LIBERATE",
+      "old": "An origiuval writ",
+      "new": "An original writ",
+      "reason": "OCR error: 'origiuval' should be 'original'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LIBERATIO",
+      "old": "Im old English law.",
+      "new": "In old English law.",
+      "reason": "OCR error: 'Im' should be 'In'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LIBERATIO",
+      "old": "Im old Sootch law.",
+      "new": "In old Scotch law.",
+      "reason": "OCR errors: 'Im' should be 'In' and 'Sootch' should be 'Scotch'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LIBERI",
+      "old": "Im Saxon law.",
+      "new": "In Saxon law.",
+      "reason": "OCR error: 'Im' should be 'In'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LIBERI",
+      "old": "Im the civil law.",
+      "new": "In the civil law.",
+      "reason": "OCR error: 'Im' should be 'In'"
+    },
+    {
+      "type": "trim",
+      "term": "LIBERTATIBUS",
+      "trim_at": "LIBERTATIBUS EXIGENDIS IN ITI-",
+      "reason": "Entry LIBERTATIBUS body is truncated/merged with another entry heading LIBERTATIBUS EXIGENDIS IN ITINERE"
+    },
+    {
+      "type": "trim",
+      "term": "LIBERTI",
+      "trim_at": "Lat. In Roman law. Freedman.",
+      "reason": "Entry LIBERTI appears to duplicate LIBERTI, LIBERTINI; both have identical bodies"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LIBERTIES",
+      "old": "sed lceges Anglis somel manumissum semper",
+      "new": "sed leges Angliae semel manumissum semper",
+      "reason": "OCR errors: 'lceges' should be 'leges', 'Anglis' should be 'Angliae', 'somel' should be 'semel'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LIBERTY",
+      "old": "to enter into\nall contracts which may be proper, necessary,\nand essential to carrying out the purposes\nabove mentioned. Allgeyer vy. State of Louisiand, if Sup. Ct. 427",
+      "new": "to enter into all contracts which may be proper, necessary, and essential to carrying out the purposes above mentioned. Allgeyer v. State of Louisiana, 17 Sup. Ct. 427",
+      "reason": "OCR errors: 'vy.' should be 'v.', 'Louisiand' should be 'Louisiana', 'if' should be '17'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LIBRA",
+      "old": "[Abra arse et pensate",
+      "new": "Libra arsa et pensata",
+      "reason": "OCR error: '[Abra arse et pensate' should be 'Libra arsa et pensata'"
+    },
+    {
+      "type": "trim",
+      "term": "LIBRA",
+      "trim_at": "LIBRARIUS.,\nIn Roman law.",
+      "reason": "Entry LIBRA has LIBRARIUS definition merged at the end of its body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LIBRIPENS",
+      "old": "in the ceremony of emaucipation per ws e¢ libram",
+      "new": "in the ceremony of emancipation per aes et libram",
+      "reason": "OCR errors: 'emaucipation' should be 'emancipation', 'ws e¢' should be 'aes et'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LIBRIPENS",
+      "old": "Librorum appellatione ocontinentur",
+      "new": "Librorum appellatione continentur",
+      "reason": "OCR error: 'ocontinentur' should be 'continentur'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LICENCIADO",
+      "old": "universtties",
+      "new": "universities",
+      "reason": "OCR error: 'universtties' should be 'universities'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LICENSE",
+      "old": "State v. Hipp, 88 Ohio St. 226; Youngbiood\nv. Sexton, 82 Mich. 406",
+      "new": "State v. Hipp, 38 Ohio St. 226; Youngblood v. Sexton, 32 Mich. 406",
+      "reason": "OCR errors: 'Youngbiood' should be 'Youngblood'; citation numbers may also be garbled"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LICENSE",
+      "old": "49 L. BR. A. 408",
+      "new": "49 L. R. A. 408",
+      "reason": "OCR error: 'BR.' should be 'R.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LICENSE",
+      "old": "In the law of patents. <A written authority grauted",
+      "new": "In the law of patents. A written authority granted",
+      "reason": "OCR errors: '<A' should be 'A' and 'grauted' should be 'granted'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LIBRATA",
+      "trim_at": "LIBRATA TERRZ.",
+      "reason": "Headword formatting: 'LIBRATA TERRZ' appears to be OCR for 'LIBRATA TERRÆ'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LIBRATA",
+      "old": "LIBRATA TERRZ. A portion",
+      "new": "LIBRATA TERRÆ. A portion",
+      "reason": "OCR error in sub-entry headword: 'TERRZ' should be 'TERRÆ'"
+    },
+    {
+      "type": "trim",
+      "term": "LOW",
+      "trim_at": "LOW JUSTICE. In old European",
+      "reason": "Entry body begins with sub-entries rather than a definition for 'LOW' itself; LOW JUSTICE, LOW WATER, and LOWBOTE are separate entries merged in"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LOW JUSTICE",
+      "old": "as eee\ned from",
+      "new": "as distinguished from",
+      "reason": "OCR garbled 'distinguished'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LOW WATER",
+      "old": "'LOWBOTE. A recompense for the death\nof a man killed in a tumult. Cowell.",
+      "new": "",
+      "reason": "LOWBOTE is a separate entry merged into LOW WATER body"
+    },
+    {
+      "type": "trim",
+      "term": "LOW WATER",
+      "trim_at": "'LOWBOTE. A recompense for",
+      "reason": "LOWBOTE is a separate entry merged into LOW WATER body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LOYAL",
+      "old": "politfecal",
+      "new": "political",
+      "reason": "OCR error in 'political'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LOYALTY",
+      "old": "ile\nexisting",
+      "new": "the\nexisting",
+      "reason": "OCR error: 'ile' should be 'the'"
+    },
+    {
+      "type": "trim",
+      "term": "LUCID",
+      "trim_at": "LUCID INTERVALS. In medical",
+      "reason": "Entry body contains the full LUCID INTERVALS sub-entry definition rather than a definition for 'LUCID' itself"
+    },
+    {
+      "type": "trim",
+      "term": "LUCRA",
+      "trim_at": "LUCRA NUPTIALIA. Lat. In Roman",
+      "reason": "Entry body contains the LUCRA NUPTIALIA sub-entry merged in"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LUCRA NUPTIALIA",
+      "old": "<A term including everything which -a",
+      "new": "A term including everything which a",
+      "reason": "OCR artifact '<' and stray '-' before 'a'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LUCRATIVA CAUSA",
+      "old": "Bwice",
+      "new": "twice",
+      "reason": "OCR error: 'B' instead of 't' in 'twice'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LUCRATIVA USUCAPIO",
+      "old": "uwsucapio",
+      "new": "usucapio",
+      "reason": "OCR error: extra 'w' in 'usucapio'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LUCRATIVA USUCAPIO",
+      "old": "wswcapio",
+      "new": "usucapio",
+      "reason": "OCR error: 'wsw' instead of 'us' in 'usucapio'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LUCRATIVA USUCAPIO",
+      "old": "(¢. ¢e., dis\nhonest;)",
+      "new": "(i. e., dishonest;)",
+      "reason": "OCR error: '¢. ¢e.' should be 'i. e.'"
+    },
+    {
+      "type": "trim",
+      "term": "LUCRATIVE",
+      "trim_at": "_LUORATUS. In Scotch law.",
+      "reason": "LUORATUS (LUCRATUS) is a separate entry merged into LUCRATIVE body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LUCRATIVE",
+      "old": "_LUORATUS.",
+      "new": "LUCRATUS.",
+      "reason": "OCR error: 'LUORATUS' should be 'LUCRATUS'; also stray underscore"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LUCRATIVE",
+      "old": "incidenta] to the",
+      "new": "incidental to the",
+      "reason": "OCR error: ']' instead of 'l' in 'incidental'"
+    },
+    {
+      "type": "trim",
+      "term": "LUCRUM",
+      "trim_at": "LUCRUM CESSANS. Lat.",
+      "reason": "Entry body contains the LUCRUM CESSANS sub-entry merged in"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LUMEN",
+      "old": "Iat.",
+      "new": "Lat.",
+      "reason": "OCR error: 'I' instead of 'L' in 'Lat.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LUMEN",
+      "old": "A Hight or window.",
+      "new": "A light or window.",
+      "reason": "OCR error: 'H' instead of 'l' in 'light'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LUMINA",
+      "old": "In thecivillaw.",
+      "new": "In the civil law.",
+      "reason": "OCR error: missing space in 'the civil law'"
+    },
+    {
+      "type": "trim",
+      "term": "LUMPING",
+      "trim_at": "LUMPING SALE. As applied to judicial",
+      "reason": "Entry body contains the LUMPING SALE sub-entry merged in"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LUMPING SALE",
+      "old": "\"Jump\" or single gross",
+      "new": "\"lump\" or single gross",
+      "reason": "OCR error: 'J' instead of 'l' in 'lump'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LUNACY",
+      "old": "sufficient Benge 'showing",
+      "new": "sufficient showing",
+      "reason": "OCR error: 'Benge'' is garbled text"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LUNACY",
+      "old": "for an order an a",
+      "new": "for an order appointing a",
+      "reason": "OCR error: 'an a' should be 'appointing a'"
+    },
+    {
+      "type": "trim",
+      "term": "LUNAR",
+      "trim_at": "'LUNATIC. A person of deranged",
+      "reason": "LUNATIC entry and Lunaticus maxim merged into LUNAR body"
+    },
+    {
+      "type": "trim",
+      "term": "LYING",
+      "trim_at": "' LYING IN FRANOAISE.",
+      "reason": "LYING IN FRANCHISE is a separate entry merged into LYING body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LYING",
+      "old": "' LYING IN FRANOAISE.",
+      "new": "LYING IN FRANCHISE.",
+      "reason": "OCR error: 'FRANOAISE' should be 'FRANCHISE'"
+    },
+    {
+      "type": "trim",
+      "term": "LYON",
+      "trim_at": "LYON KING OF ARMS. In Scotch",
+      "reason": "Entry body contains the LYON KING OF ARMS sub-entry merged in"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LYON KING OF ARMS",
+      "old": "Cross of Bdinburgh.",
+      "new": "Cross of Edinburgh.",
+      "reason": "OCR error: 'Bdinburgh' should be 'Edinburgh'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LUPINUM",
+      "old": "Lat. To\nbe outlawed",
+      "new": "Lat. [Caput lupinum.] To be outlawed",
+      "reason": "The entry appears to be for 'CAPUT LUPINUM' or similar; body is truncated/missing the full headword phrase"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LUSHBOROW",
+      "old": "In old Pnglish law.",
+      "new": "In old English law.",
+      "reason": "OCR error: 'Pnglish' should be 'English'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LYEF-GELD",
+      "old": "Inoldrecords.",
+      "new": "In old records.",
+      "reason": "OCR error: missing spaces"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LYNCH",
+      "old": "20\n8. E. 585",
+      "new": "20 S. E. 585",
+      "reason": "OCR error: '8.' should be 'S.' in S. E. reporter abbreviation"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LYTZ",
+      "old": "difficulty ip\nlaw.",
+      "new": "difficulty in law.",
+      "reason": "OCR error: 'ip' should be 'in'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LOCAL",
+      "old": "cal assessment. <A charge",
+      "new": "—Local assessment. A charge",
+      "reason": "OCR error: 'cal assessment. <A' should be '—Local assessment. A' - the sub-entry heading is garbled"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LOCAL",
+      "old": "speciall nefited thereby. Gould v. Itimore, 59 Md. 380.",
+      "new": "specially benefited thereby. Gould v. Baltimore, 59 Md. 380.",
+      "reason": "OCR errors: 'speciall nefited' -> 'specially benefited', 'Itimore' -> 'Baltimore'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LOCAL",
+      "old": "bY populae vote,",
+      "new": "by popular vote,",
+      "reason": "OCR errors: 'bY' -> 'by', 'populae' -> 'popular'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LOCAL",
+      "old": "—Kocal... [truncated]",
+      "new": "—Local... [truncated]",
+      "reason": "OCR error: 'Kocal' -> 'Local'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LOCATAIRE",
+      "old": "A _ les\ngee, tenant, or renter.",
+      "new": "A lessee, tenant, or renter.",
+      "reason": "OCR error: 'A _ les gee' should be 'A lessee'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LOCATIO",
+      "old": "lat. In the civil law.",
+      "new": "Lat. In the civil law.",
+      "reason": "OCR error: 'lat.' should be 'Lat.' (capitalized as used throughout)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LOCATION",
+      "old": "Cunningham vy. Browning, 1\nBland (M4.) 329.",
+      "new": "Cunningham v. Browning, 1 Bland (Md.) 329.",
+      "reason": "OCR errors: 'vy.' -> 'v.', 'M4.' -> 'Md.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LOCATOR",
+      "old": "Im the civil and Scotch",
+      "new": "In the civil and Scotch",
+      "reason": "OCR error: 'Im' -> 'In'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LOCUPLES",
+      "old": "Dig. 50, 16, 234, L:",
+      "new": "Dig. 50, 16, 234.",
+      "reason": "OCR error: trailing 'L:' appears to be garbled punctuation"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LOCUS",
+      "old": "—Loous im guo.",
+      "new": "—Locus in quo.",
+      "reason": "OCR errors: 'Loous' -> 'Locus', 'im' -> 'in', 'guo' -> 'quo'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LOCUS",
+      "old": "— us delieti.",
+      "new": "—Locus delicti.",
+      "reason": "OCR errors: '— us delieti' should be '—Locus delicti'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LOCUS",
+      "old": "frojil Lecus partitus.",
+      "new": "fregit. Locus partitus.",
+      "reason": "OCR error: 'frojil' should be 'fregit' (standard legal phrase 'quare clausum fregit')"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LOCUS",
+      "old": "Cowell.Locus ponitentis.",
+      "new": "Cowell.—Locus poenitentiae.",
+      "reason": "OCR errors: missing em-dash before sub-entry, 'ponitentis' -> 'poenitentiae'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LOCUS",
+      "old": "—Locus rerit actum.",
+      "new": "—Locus regit actum.",
+      "reason": "OCR error: 'rerit' -> 'regit'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LOCUS",
+      "old": "8\nSay. Syst. § 381;",
+      "new": "Sav. Syst. § 381;",
+      "reason": "OCR error: '8 Say.' -> 'Sav.' (referring to Savigny's System)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LOCUS",
+      "old": "—Kocus standi.",
+      "new": "—Locus standi.",
+      "reason": "OCR error: 'Kocus' -> 'Locus'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LODE",
+      "old": "any zone\nor belt of mineralized roc lying within",
+      "new": "any zone or belt of mineralized rock lying within",
+      "reason": "OCR error: 'roc' -> 'rock'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LODE",
+      "old": "yource, impressed with the same forms,",
+      "new": "source, impressed with the same forms,",
+      "reason": "OCR error: 'yource' -> 'source'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LODE",
+      "old": "Montana Cent. Ry. Co. v. Migeon (OC.\nCc.) 68 Fed. 813;",
+      "new": "Montana Cent. Ry. Co. v. Migeon (C. C.) 68 Fed. 813;",
+      "reason": "OCR error: '(OC. Cc.)' -> '(C. C.)'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LODE",
+      "old": "32 L. Kd. 571.",
+      "new": "32 L. Ed. 571.",
+      "reason": "OCR error: 'Kd.' -> 'Ed.'"
+    },
+    {
+      "type": "trim",
+      "term": "LODE",
+      "trim_at": "LODEMAN, or LOADSMAN. The pilot",
+      "reason": "The entry for LODEMAN is merged into the LODE entry after the citations"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LODGER",
+      "old": "A tendnt of part",
+      "new": "A tenant of part",
+      "reason": "OCR error: 'tendnt' -> 'tenant'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LOMBARDS",
+      "old": "A name given to the nierchants of Italy,",
+      "new": "A name given to the merchants of Italy,",
+      "reason": "OCR error: 'nierchants' -> 'merchants'"
+    },
+    {
+      "type": "trim",
+      "term": "LOMBARDS",
+      "trim_at": "- LONDRES. L. Fr. London.",
+      "reason": "The entry for LONDRES is merged into the LOMBARDS entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LONG",
+      "old": "20 N. Y. upp. 865.",
+      "new": "20 N. Y. Supp. 865.",
+      "reason": "OCR error: 'upp.' -> 'Supp.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LOOCULUS",
+      "old": "In old records. A coffin; a\npurse.",
+      "new": "In old records. A coffin; a purse.",
+      "reason": "OCR error scrambled word order; should read 'A coffin; a purse' not split across lines with 'purse' before the definition"
+    },
+    {
+      "type": "headword",
+      "term": "LOOCULUS",
+      "correct": "LOCULUS",
+      "reason": "OCR error: 'LOOCULUS' should be 'LOCULUS' (Latin for a small place, coffin, or purse)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LOSS",
+      "old": "and prose from the fire,",
+      "new": "and proximately from the fire,",
+      "reason": "OCR error: 'prose' -> 'proximately'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LOSS",
+      "old": "56 Am. St. mg 481;",
+      "new": "56 Am. St. Rep. 481;",
+      "reason": "OCR error: 'mg' -> 'Rep.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LOSS",
+      "old": "2 PG ts Comm. 132,",
+      "new": "2 Phil. Ins. Comm. 132,",
+      "reason": "OCR error: 'PG ts' is garbled text"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LOSS",
+      "old": "by the poltey,",
+      "new": "by the policy,",
+      "reason": "OCR error: 'poltey' -> 'policy'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LOST",
+      "old": "pne that has totally gone",
+      "new": "one that has totally gone",
+      "reason": "OCR error: 'pne' -> 'one'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LOST",
+      "old": "know)-\nedge of that fact",
+      "new": "knowledge of that fact",
+      "reason": "OCR error: broken word 'know)- edge' -> 'knowledge'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LOST",
+      "old": "deposited in a secret place for Sak",
+      "new": "deposited in a secret place for safekeeping.",
+      "reason": "OCR error: 'Sak' is truncated 'safekeeping'"
+    },
+    {
+      "type": "trim",
+      "term": "LORDSHIP",
+      "trim_at": "a LOss 789",
+      "reason": "The page header 'a LOss 789' and LOSS entry are merged into the LORDSHIP entry"
+    },
+    {
+      "type": "trim",
+      "term": "LOTTERY",
+      "trim_at": "- promised or agreed to pay,",
+      "reason": "The body of LOTTERY is split; the continuation beginning with '- promised' belongs to LOTTERY but appears merged with LOU LE LEY DONE CHOSE heading"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LOU",
+      "old": "LOU LE LEY DONE CHOSE\n\n- promised or agreed to pay,",
+      "new": "The term/headword LOU appears to be a fragment of 'LOU LE LEY DONE CHOSE' merged with the continuation of the LOTTERY definition",
+      "reason": "OCR/layout error: the LOU entry contains the continuation of the LOTTERY definition before the actual LOU LE LEY DONE CHOSE content"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LOUAGE",
+      "old": "_ 1. Letting of things,—dailt a loyer being",
+      "new": "1. Letting of things,—bail à loyer being",
+      "reason": "OCR error: 'dailt' -> 'bail', leading underscore and space are OCR artifacts"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LOQUELA",
+      "old": "both names evidently referring to the talking together of the parties. Loquela sine\ndie, a postponement to an indefinite time.\n\nLoquendum ut vulgus; sentiendum ut\ndocti.",
+      "new": "both names evidently referring to the talking together of the parties. Loquela sine die, a postponement to an indefinite time.\n\nLoquendum ut vulgus; sentiendum ut docti.",
+      "reason": "No OCR error here; formatting only"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "LOQUELA",
+      "old": "words are used in a technical sense.\nthey must be understood technically; otherwise, when they may be supposed ta be",
+      "new": "words are used in a technical sense, they must be understood technically; otherwise, when they may be supposed to be",
+      "reason": "OCR errors: period after 'sense' should be comma, 'ta' -> 'to'"
+    }
+  ],
+  "errors": [
+    {
+      "batch": 7,
+      "error": "JSON parse error: ```json\n[\n  {\"type\": \"trim\", \"term\": \"LIMITATIONS\", \"trim_at\": \"RUSTICUM\\nRUSTICUM JUDICIUM\", \"reason\": \"Two unrelated headwords and a fragment ('passes to the assignee of that reversion Brown.') are "
+    }
+  ],
+  "by_type": {
+    "headword": 5,
+    "flag": 5,
+    "trim": 54,
+    "ocr_fix": 259
+  },
+  "elapsed_seconds": 125.8
+}

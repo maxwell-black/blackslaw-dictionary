@@ -1,0 +1,24 @@
+[
+  {
+    "type": "headword_review",
+    "term": "VWENDUE",
+    "suggested": "VENDUE",
+    "reason": "OCR error in headword: 'VWENDUE' should be 'VENDUE' (a public auction sale)"
+  },
+  {
+    "type": "flag",
+    "term": "VINOUS LIQUORS",
+    "issue": "Entry appears out of alphabetical order — 'VINOUS LIQUORS' starts with 'VI' but appears after entries starting with 'VU' and 'VW', suggesting it may be misplaced or merged from elsewhere in the dictionary"
+  },
+  {
+    "type": "flag",
+    "term": "VALOR",
+    "issue": "Headword appears to be truncated - body discusses 'valor maritagii' suggesting the full headword should be VALOR MARITAGII"
+  },
+  {
+    "type": "headword_review",
+    "term": "VATI",
+    "suggested": "VATI MITTENDO IN CANCELLARIUM",
+    "reason": "The headword 'VATI' is incomplete; the full headword appears in the body as 'VATI MITTENDO IN CANCELLARIUM' - though this may be 'FATI' or more likely the entry is 'MITTENDO IN CANCELLARIUM' with 'VATI' being a page artifact"
+  }
+]

@@ -1,0 +1,1029 @@
+{
+  "letter": "Q",
+  "entries_reviewed": 122,
+  "corrections": [
+    {
+      "type": "ocr_fix",
+      "term": "QUIT",
+      "old": "—Notice to ei A written notice given by",
+      "new": "—Notice to quit. A written notice given by",
+      "reason": "OCR mangled 'quit' into 'ei'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUIT",
+      "old": "stating that the fornar desires to repossess",
+      "new": "stating that the former desires to repossess",
+      "reason": "OCR error: 'fornar' should be 'former'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUITCLAIM",
+      "old": "Martin v. Morris, 62 Wis.\nao ee W. 525",
+      "new": "Martin v. Morris, 62 Wis. 400, 22 N. W. 525",
+      "reason": "OCR garbled the citation numbers"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUITTANCE",
+      "old": "An abbreviation of \"ac\nquittance;\"",
+      "new": "An abbreviation of \"acquittance;\"",
+      "reason": "OCR broke the word 'acquittance' across lines incorrectly"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUO",
+      "old": "quo minus suffictens\nezistit",
+      "new": "quo minus sufficiens existit",
+      "reason": "OCR errors: 'suffictens' should be 'sufficiens', 'ezistit' should be 'existit'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUO",
+      "old": "Old Nat. Brey. 148.",
+      "new": "Old Nat. Brev. 148.",
+      "reason": "OCR error: 'Brey' should be 'Brev.' (abbreviation for Breviarium)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUO",
+      "old": "anything ts constituted by that it is dissolved,",
+      "new": "anything is constituted by that it is dissolved.",
+      "reason": "OCR error: 'ts' should be 'is'"
+    },
+    {
+      "type": "trim",
+      "term": "QUO",
+      "trim_at": "QUOD AZDIFICATUR IN AREA",
+      "reason": "Embedded headword 'QUOD AEDIFICATUR IN AREA' appears at end of QUO entry body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUOAD",
+      "old": "Quocumgque modo velit; quocumgque",
+      "new": "Quocumque modo velit; quocumque",
+      "reason": "OCR error: 'Quocumgque' should be 'Quocumque'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUOAD",
+      "old": "Quod a quogque poenss nomine exactum",
+      "new": "Quod a quoque poenae nomine exactum",
+      "reason": "OCR errors: 'quogque' should be 'quoque', 'poenss' should be 'poenae'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUOAD",
+      "old": "Quod sdificatur in area legata cedit",
+      "new": "Quod aedificatur in area legata cedit",
+      "reason": "OCR error: 'sdificatur' should be 'aedificatur'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUOAD",
+      "old": "Quod alias bonum ect justum est",
+      "new": "Quod alias bonum et justum est",
+      "reason": "OCR error: 'ect' should be 'et'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUOAD",
+      "old": "non tamen ot jure naturali",
+      "new": "non tamen et jure naturali",
+      "reason": "OCR error: 'ot' should be 'et'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUOAD",
+      "old": "omnes homines oquali sunt",
+      "new": "omnes homines aequali sunt",
+      "reason": "OCR error: 'oquali' should be 'aequali'"
+    },
+    {
+      "type": "headword",
+      "term": "QUOAD",
+      "correct": "QUOAD",
+      "reason": "No headword fix needed; flagging entry instead - see flag"
+    },
+    {
+      "type": "flag",
+      "term": "QUOAD",
+      "issue": "The entry for QUOAD appears to define it as 'As to sacred things; for religious purposes' but QUOAD on its own normally means 'as to' or 'with respect to'. The phrase 'quoad sacra' means 'as to sacred things'. The body may be for QUOAD SACRA rather than QUOAD."
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUOD",
+      "old": "meant so and\n20.",
+      "new": "meant so and so.",
+      "reason": "OCR error: '20.' at end of line should be 'so.' completing the phrase 'meant so and so'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUOD",
+      "old": "Mann vy.\nMann's Ex'rs",
+      "new": "Mann v.\nMann's Ex'rs",
+      "reason": "OCR error: 'vy.' should be 'v.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUOD",
+      "old": "Quodoungue aliquis ob tutelam corporis",
+      "new": "Quodcumque aliquis ob tutelam corporis",
+      "reason": "OCR error: 'Quodoungue' should be 'Quodcumque'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUOD",
+      "old": "Quodque dissolvitur codem modo quo",
+      "new": "Quodque dissolvitur eodem modo quo",
+      "reason": "OCR error: 'codem' should be 'eodem'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUORUM",
+      "old": "unles3 a certain number",
+      "new": "unless a certain number",
+      "reason": "OCR error: 'unles3' should be 'unless'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUORUM",
+      "old": "§25; State v. Wilkesville Tp.",
+      "new": "525; State v. Wilkesville Tp.",
+      "reason": "OCR error: '§25' should be '525' (a page/report number in citation)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUORUM",
+      "old": "Quoram pretextu neo auget nec minuit sententiam",
+      "new": "Quorum pretextu nec auget nec minuit sententiam",
+      "reason": "OCR errors: 'Quoram' should be 'Quorum', 'neo' should be 'nec'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUORUM",
+      "old": "\"Quorum preteate\" neither increases",
+      "new": "\"Quorum pretextu\" neither increases",
+      "reason": "OCR error: 'preteate' should be 'pretextu'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUOT",
+      "old": "the bishop of the diocege within",
+      "new": "the bishop of the diocese within",
+      "reason": "OCR error: 'diocege' should be 'diocese'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUOTIENT",
+      "old": "A money ver.\ndict",
+      "new": "A money verdict",
+      "reason": "OCR broke 'verdict' across lines as 'ver.' and 'dict'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUOTIENT",
+      "old": "Moses v. Railroad Co., 3 Misc. Rep. 322, 23 N. ¥. Supp. 23.",
+      "new": "Moses v. Railroad Co., 3 Misc. Rep. 322, 23 N. Y. Supp. 23.",
+      "reason": "OCR error: '¥.' should be 'Y.' in 'N. Y. Supp.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUOTIENT",
+      "old": "ean potissimum oexcipiatur",
+      "new": "ea potissimum excipiatur",
+      "reason": "OCR errors: 'ean' should be 'ea', 'oexcipiatur' should be 'excipiatur'"
+    },
+    {
+      "type": "headword",
+      "term": "QUOTIES",
+      "correct": "QUOTIES",
+      "reason": "Headword appears correct but entry body is a duplicate/fragment from QUORUM entry"
+    },
+    {
+      "type": "trim",
+      "term": "QUOTIES",
+      "trim_at": "QUOTIES IN VERBIS",
+      "reason": "The QUOTIES entry body appears to be a duplicate fragment containing QUORUM content rather than a proper definition"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUOTIES",
+      "old": "31 Pac.\n116;",
+      "new": "31 Pac. 716;",
+      "reason": "OCR dropped the '7' from '716' in citation"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUOTIES",
+      "old": "Quorum pretextu nec auget nec mimuit sententiam",
+      "new": "Quorum pretextu nec auget nec minuit sententiam",
+      "reason": "OCR error: 'mimuit' should be 'minuit'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUOTIES",
+      "old": "\"Quorum pretestw\" neither increases",
+      "new": "\"Quorum pretextu\" neither increases",
+      "reason": "OCR error: 'pretestw' should be 'pretextu'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUOVIS",
+      "old": "Quam de lucro dunorum queratur,",
+      "new": "Quum de lucro duorum queratur,",
+      "reason": "OCR errors: 'Quam' should be 'Quum', 'dunorum' should be 'duorum'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUOVIS MODO",
+      "old": "Quum de lucre duorum queratur,\nmoelior est causa possidentis.",
+      "new": "Quum de lucro duorum queratur,\nmelior est causa possidentis.",
+      "reason": "OCR errors: 'lucre' should be 'lucro', 'moelior' should be 'melior'"
+    },
+    {
+      "type": "trim",
+      "term": "QUOVIS MODO",
+      "trim_at": "988 QUUM QUOD AGO",
+      "reason": "Page header '988 QUUM QUOD AGO' followed by additional maxims are merged into QUOVIS MODO entry; the Quum maxims belong to a separate QUUM entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUOVIS MODO",
+      "old": "benigne\ninterpretari et secundum id quod credible et eogitatum, credendum est.",
+      "new": "benigne\ninterpretari et secundum id quod credibile et cogitatum, credendum est.",
+      "reason": "OCR errors: 'credible' should be 'credibile', 'eogitatum' should be 'cogitatum'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUOVIS MODO",
+      "old": "me en quidem qus sequuntur locum",
+      "new": "nec ea quidem quae sequuntur locum",
+      "reason": "OCR errors in Latin maxim: 'me en' should be 'nec ea', 'qus' should be 'quae'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUUM",
+      "old": "ambigne aut",
+      "new": "ambigue aut",
+      "reason": "OCR error: 'ambigne' should be 'ambigue'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUUM",
+      "old": "credible et cogitatum",
+      "new": "credibile et cogitatum",
+      "reason": "OCR error: 'credible' should be 'credibile'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUUM",
+      "old": "Broom, Max. 437.",
+      "new": "Broom, Max. 487.",
+      "reason": "OCR error: '437' likely should be '487' matching the citation in the QUOVIS MODO entry for the same maxim"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUUM",
+      "old": "me ea quidem qus sequuntur locum",
+      "new": "nec ea quidem quae sequuntur locum",
+      "reason": "OCR errors: 'me' should be 'nec', 'qus' should be 'quae'"
+    },
+    {
+      "type": "headword",
+      "term": "QVERSMAN",
+      "correct": "QVERSMAN",
+      "reason": "Possibly should be OVERSMAN based on the body text which says 'UBERSMAN. In Scotch law. An umpire' - headword and body definition word are both garbled"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QVERSMAN",
+      "old": "QVERSMAN\nUBERSMAN.",
+      "new": "OVERSMAN",
+      "reason": "OCR error: both 'QVERSMAN' and 'UBERSMAN' are OCR corruptions of 'OVERSMAN' (Scotch law umpire)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUIA EMPTORES",
+      "old": "The title of the statute of westm. S. (18 Edw. L c. 1.)",
+      "new": "The title of the statute of Westm. 3. (18 Edw. I. c. 1.)",
+      "reason": "OCR errors: 'westm.' should be 'Westm.', 'S.' should be '3.', 'L' should be 'I.' (Roman numeral)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUIA EMPTORES",
+      "old": "\"Because the pur-chasere.\"",
+      "new": "\"Because the purchasers.\"",
+      "reason": "OCR error: 'pur-chasere' is a broken/garbled form of 'purchasers'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUIA EMPTORES",
+      "old": "the feudal lib-erty they claimed",
+      "new": "the feudal liberty they claimed",
+      "reason": "OCR error: 'lib-erty' is a broken form of 'liberty'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUIA EMPTORES",
+      "old": "sub-ject Brown",
+      "new": "subject. Brown.",
+      "reason": "OCR error: 'sub-ject' is broken 'subject', missing period after Brown"
+    },
+    {
+      "type": "trim",
+      "term": "QUARTER",
+      "trim_at": "QUARTER SESSIONS. In English",
+      "reason": "The entry for QUARTER SESSIONS is merged into the QUARTER entry after the Quarter section definition"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUARTERING",
+      "old": ". punishment of high treason.",
+      "new": "punishment of high treason.",
+      "reason": "Stray period and space before 'punishment'"
+    },
+    {
+      "type": "trim",
+      "term": "QUARTERING",
+      "trim_at": "QUARTERING SOLDIERS. The act of",
+      "reason": "QUARTERING SOLDIERS entry is merged into the QUARTERING entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUARTO",
+      "old": "Lat. On the\nfourth day after.",
+      "new": "Lat. On the fourth day after.",
+      "reason": "QUARTO DIE appears to be the full headword; entry seems truncated"
+    },
+    {
+      "type": "headword",
+      "term": "QUARTO",
+      "correct": "QUARTO DIE",
+      "reason": "The entry describes 'quarto die post' meaning 'on the fourth day after'; the headword appears truncated by OCR"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUASH",
+      "old": "8 Bl. Comm.\n303",
+      "new": "3 Bl. Comm. 303",
+      "reason": "OCR error: '8' should be '3' in the Blackstone citation"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUASI",
+      "old": "anal-\nThis term is used in legal phraseogous to.\nvlogy",
+      "new": "analogous to. This term is used in legal phraseology",
+      "reason": "OCR scrambled 'analogous to' and 'phraseology' across lines"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUATUOR PEDIBUS CURRIT",
+      "old": "See Axrzi-Fouss.",
+      "new": "See All-Fours.",
+      "reason": "OCR garbled 'ALL-FOURS' as 'Axrzi-Fouss'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUAY",
+      "old": "ay Orleans v. U. S., 10 Pet. 662, 715, 9 L. Ed.",
+      "new": "City of New Orleans v. U. S., 10 Pet. 662, 715, 9 L. Ed.",
+      "reason": "OCR dropped 'City of New' before 'Orleans'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUEEN",
+      "old": "—Queen consort. In ioe law. The wife\nof a reigning a 1 Bil. Comm. 218.",
+      "new": "—Queen consort. In English law. The wife of a reigning king. 1 Bl. Comm. 218.",
+      "reason": "OCR garbled 'English' as 'ioe', 'king' was dropped, and 'Bl.' misread as 'Bil.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUEEN",
+      "old": "\"Queen's OCounsel,\"'",
+      "new": "\"Queen's Counsel,\"",
+      "reason": "OCR error: 'OCounsel' should be 'Counsel'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUEM",
+      "old": "CILIO\nCILIO DISCUTIENDA ET TERMINANDA.",
+      "new": "",
+      "reason": "Garbled OCR fragment of the next entry (QUERELA CORAM REGE...) incorrectly appended to QUEM entry"
+    },
+    {
+      "type": "trim",
+      "term": "QUEM",
+      "trim_at": "CILIO\nCILIO DISCUTIENDA",
+      "reason": "Garbled fragment of a following entry (QUERELA CORAM REGE A CONCILIO...) merged into QUEM entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUERELA",
+      "old": "QUERELA CORAM REGGE A OON-\nCILIO DISCUTIENDA ET TERMI-",
+      "new": "QUERELA CORAM REGE A CONCILIO DISCUTIENDA ET TERMINANDA.",
+      "reason": "OCR garbled 'REGE' as 'REGGE', 'CONCILIO' as 'OON-CILIO', and truncated 'TERMINANDA'"
+    },
+    {
+      "type": "trim",
+      "term": "QUERELA",
+      "trim_at": "QUERELA CORAM REGGE A OON-",
+      "reason": "A separate entry (QUERELA CORAM REGE A CONCILIO...) is merged into the QUERELA entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUESTION",
+      "old": "—Eederal question.\nFEDERAL.",
+      "new": "—Federal question. See FEDERAL.",
+      "reason": "OCR error: 'Eederal' should be 'Federal'; missing 'See' word"
+    },
+    {
+      "type": "trim",
+      "term": "QUESTION",
+      "trim_at": "QUESTMAN, or QUESTMONGER. In",
+      "reason": "QUESTMAN entry is merged into the QUESTION entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUESTORES",
+      "old": "the comiiia,",
+      "new": "the comitia,",
+      "reason": "OCR error: 'comiiia' should be 'comitia'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUESTUS",
+      "old": "Lat. A writ",
+      "new": "Lat.",
+      "reason": "QUESTUS entry appears to be either misidentified or the body is from another entry (possibly QUOD PERMITTAT); needs review"
+    },
+    {
+      "type": "flag",
+      "term": "QUESTUS",
+      "issue": "The body of this entry ('A writ of nuisance, which, by 15 Edw. I...') appears to belong to a different entry, possibly QUOD PERMITTAT PROSTERNERE, not QUESTUS (which means 'acquisition/gain' in Latin)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUI",
+      "old": "called a \"que tam action;\"",
+      "new": "called a \"qui tam action;\"",
+      "reason": "OCR error: 'que tam' should be 'qui tam' to match the headword and legal term"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUIA",
+      "old": "inas-\nLat. Because; whereas;:\nmuch as.",
+      "new": "Lat. Because; whereas; inasmuch as.",
+      "reason": "OCR scrambled 'inasmuch as' across lines"
+    },
+    {
+      "type": "trim",
+      "term": "QUIA",
+      "trim_at": "QUIA DATUM EST NOBIS IFTELLI-",
+      "reason": "Fragment of another entry (QUIA DATUM EST NOBIS INTELLIGENDUM) merged into QUIA entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUIA TIMET",
+      "old": "a Dill filed by a party",
+      "new": "a bill filed by a party",
+      "reason": "OCR error: 'Dill' should be 'bill'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUICK",
+      "old": "QUICK WITH CHILD. See QUICKEN-",
+      "new": "QUICK WITH CHILD. See QUICKENING.",
+      "reason": "Entry for QUICK WITH CHILD is truncated; cross-reference cut off"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUICKENING",
+      "old": "Evans v. People, 49 N.\nY¥. 88.",
+      "new": "Evans v. People, 49 N. Y. 88.",
+      "reason": "OCR error: 'Y¥.' should be 'Y.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUICKENING",
+      "old": "Quioguid judicis auctoritati",
+      "new": "Quicquid judicis auctoritati",
+      "reason": "OCR error: 'Quioguid' should be 'Quicquid'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUICKENING",
+      "old": "Quiocquid solvitur,",
+      "new": "Quicquid solvitur,",
+      "reason": "OCR error: 'Quiocquid' should be 'Quicquid'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUICKENING",
+      "old": "Quicguid in excessu actum est,",
+      "new": "Quicquid in excessu actum est,",
+      "reason": "OCR error: 'Quicguid' should be 'Quicquid'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUID",
+      "old": "QUID PHO QUO.",
+      "new": "QUID PRO QUO.",
+      "reason": "OCR error: 'PHO' should be 'PRO'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUID PRO QUO",
+      "old": "Co. Litt. 1583.",
+      "new": "Co. Litt. 158b.",
+      "reason": "OCR likely misread 'b' as '3' in the citation; though could be 158a"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUIDAM",
+      "old": "Quidgquid enim sive dolo",
+      "new": "Quicquid enim sive dolo",
+      "reason": "OCR error: 'Quidgquid' should be 'Quicquid'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUIET",
+      "old": "the plaintiff's title to land by bringing into court\nan' adverse claimant",
+      "new": "the plaintiff's title to land by bringing into court an adverse claimant",
+      "reason": "OCR artifact: stray apostrophe in 'an''"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUIET",
+      "old": "the press of the fia' in\npace and without disturbance,",
+      "new": "the premises in peace and without disturbance,",
+      "reason": "OCR garbled 'premises' as 'press of the fia'' and 'peace' as 'pace'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUIET",
+      "old": "Green v. Hudeon River R. Co.,",
+      "new": "Green v. Hudson River R. Co.,",
+      "reason": "OCR error: 'Hudeon' should be 'Hudson'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUIETUS",
+      "old": "White v. Ditson, 140 Mass. 851,\n4N. E. 606, 564 Am. Rep. 478,",
+      "new": "White v. Ditson, 140 Mass. 351, 4 N. E. 606, 54 Am. Rep. 478,",
+      "reason": "OCR errors: '851' likely '351', '4N.' should be '4 N.', '564' likely '54'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUIETUS",
+      "old": "Oowell.",
+      "new": "Cowell.",
+      "reason": "OCR error: 'Oowell' should be 'Cowell'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUIETUS REDDITUS",
+      "old": "See QUITRENT.\nlaw. Quitrent. Spelman.",
+      "new": "See QUITRENT. law. Quitrent. Spelman.",
+      "reason": "The cross-reference 'See QUITRENT.' appears before 'law.' suggesting OCR reordering; should read 'In old English law. Quitrent. Spelman. See QUITRENT.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUIETUS REDDITUS",
+      "old": "4 Bl. Comm. 3817.",
+      "new": "4 Bl. Comm. 317.",
+      "reason": "OCR error: '3817' should be '317' in Blackstone citation"
+    },
+    {
+      "type": "trim",
+      "term": "QUINQUEPARTITE",
+      "trim_at": "QUINSTEME, or QUINZIME. Fiftee",
+      "reason": "QUINSTEME entry and QUINTAL entry are merged into QUINQUEPARTITE entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUINQUEPARTITE",
+      "old": "QUINSTEME, or QUINZIME. Fifteenths; also the fifteenth day after a festi-\nval.",
+      "new": "QUINSTEME, or QUINZIME. Fifteenths; also the fifteenth day after a festival.",
+      "reason": "Hyphenation artifact from OCR line break"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUINTAL",
+      "old": "cunque doceri,.",
+      "new": "",
+      "reason": "OCR artifact text fragment at end of entry; should be removed"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUINTO EXACTUS",
+      "old": "38 Bl. Comm. 283.",
+      "new": "3 Bl. Comm. 283.",
+      "reason": "OCR error: '38' should be '3' in Blackstone citation"
+    },
+    {
+      "type": "trim",
+      "term": "QUINTO",
+      "trim_at": "QUINTO EXACTUS. In old practice.",
+      "reason": "QUINTO EXACTUS entry is merged into the QUINTO entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUIRE OF DOVER",
+      "old": "A.-record in the exchequer,",
+      "new": "A record in the exchequer,",
+      "reason": "OCR artifact: stray hyphen after 'A'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUIRE OF DOVER",
+      "old": "Cingue Ports.",
+      "new": "Cinque Ports.",
+      "reason": "OCR error: 'Cingue' should be 'Cinque'"
+    },
+    {
+      "type": "trim",
+      "term": "Q TABLE",
+      "trim_at": "Rap. Jud. Q. B. R.",
+      "reason": "The body begins with an embedded table of abbreviations entry rather than a definition"
+    },
+    {
+      "type": "trim",
+      "term": "QU",
+      "trim_at": "Quae legi communi derogant",
+      "reason": "QU has no definition; body contains only maxims belonging to QUA MINORIS CULPAE or similar embedded entries"
+    },
+    {
+      "type": "trim",
+      "term": "QUAECUNQUE",
+      "trim_at": "QUAECUNQUE INTRA RATIONEM",
+      "reason": "Body begins with an embedded headword 'QUAECUNQUE INTRA RATIONEM' followed by its own content"
+    },
+    {
+      "type": "trim",
+      "term": "QUAERENS",
+      "trim_at": "QUZRENS NIHIL CAPIAT PER",
+      "reason": "Body contains embedded headword 'QUZRENS NIHIL CAPIAT PER' after the definition"
+    },
+    {
+      "type": "trim",
+      "term": "QUAESTIO",
+      "trim_at": "—Cadit questio.",
+      "reason": "Sub-entries use 'questio' and 'qusstio' with OCR errors; also 'quastio' appears garbled"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUAESTIO",
+      "old": "quastio perpetua",
+      "new": "quaestio perpetua",
+      "reason": "OCR dropped 'ae' ligature"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUAESTIO",
+      "old": "—Qusstio vexata.",
+      "new": "—Quaestio vexata.",
+      "reason": "OCR garbled 'ae' ligature in headword"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUAESTIO",
+      "old": "a question or\npone which has been differently decided",
+      "new": "a question or point which has been differently decided",
+      "reason": "OCR error: 'pone' should be 'point'"
+    },
+    {
+      "type": "trim",
+      "term": "QUAESTIONARII",
+      "trim_at": "QUZSTIONES PERPETUZ, in Roman",
+      "reason": "Body contains embedded entry 'QUZSTIONES PERPETUZ' (QUAESTIONES PERPETUAE) after the definition"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUAESTIONARII",
+      "old": "QUZSTIONES PERPETUZ",
+      "new": "QUAESTIONES PERPETUAE",
+      "reason": "OCR garbled ae ligatures"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUAESTOR",
+      "old": "—Qusstor sacri pale alatii.",
+      "new": "—Quaestor sacri palatii.",
+      "reason": "OCR garbled 'ae' ligature and 'palatii'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUAESTUS",
+      "old": "L. Lat. That estate whicha",
+      "new": "L. Lat. That estate which a",
+      "reason": "OCR merged 'which' and 'a'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUAESTUS",
+      "old": "\"haaredttas,\"",
+      "new": "\"haereditas,\"",
+      "reason": "OCR garbled 'haereditas'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUAESTUS",
+      "old": "Glan. 1, 7, ¢. 1.",
+      "new": "Glan. 1, 7, c. 1.",
+      "reason": "OCR error: '¢' should be 'c'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUALE",
+      "old": "Reg. Jud. &",
+      "new": "Reg. Jud. 6",
+      "reason": "OCR error: '&' likely should be '6' (page reference)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUALIFICATION",
+      "old": "ownership of a freeliold estate",
+      "new": "ownership of a freehold estate",
+      "reason": "OCR error: 'freeliold' should be 'freehold'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUALIFICATION",
+      "old": "having the\nlega uisites, endowed with qualities suitaae peg y e puepee-",
+      "new": "having the legal requisites, endowed with qualities suitable for the purpose.",
+      "reason": "OCR severely garbled this passage"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUALIFICATION",
+      "old": "Also a S iaation or Hmitation",
+      "new": "Also a qualification or limitation",
+      "reason": "OCR garbled 'qualification or limitation'"
+    },
+    {
+      "type": "headword",
+      "term": "QUALIFIED WORTER",
+      "correct": "QUALIFIED",
+      "reason": "Headword is garbled; should be 'QUALIFIED' (the body defines 'qualified' as adapted, fitted, entitled)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUALIFIED WORTER",
+      "old": "malified elector means",
+      "new": "qualified elector means",
+      "reason": "OCR error: 'malified' should be 'qualified'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUALIFIED WORTER",
+      "old": "who foes in fact Be",
+      "new": "who does in fact vote.",
+      "reason": "OCR garbled 'does in fact vote'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUALIFIED WORTER",
+      "old": "See pee;",
+      "new": "See ACCEPTANCE;",
+      "reason": "OCR garbled cross-reference"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUALIFIED WORTER",
+      "old": "See Free.—Qualified indorsement. Se\nINDORSEMENT.",
+      "new": "See FEE.—Qualified indorsement. See INDORSEMENT.",
+      "reason": "OCR errors: 'Free' should be 'FEE', 'Se' should be 'See'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUALIFIED WORTER",
+      "old": "In re House Bill No. 166, 9\n, 21 Pac. 473,",
+      "new": "In re House Bill No. 166, 9 Colo. 642, 21 Pac. 473,",
+      "reason": "OCR dropped citation volume/reporter"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUALIFY",
+      "old": "Archer v. State, 74 Md. 443, 22 Atl.\n8,",
+      "new": "Archer v. State, 74 Md. 443, 22 Atl. 8,",
+      "reason": "Formatting issue with line break in citation"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUALITY",
+      "old": "this\nterm deyotes comparative rank",
+      "new": "this term denotes comparative rank",
+      "reason": "OCR error: 'deyotes' should be 'denotes'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUALITY",
+      "old": "exercised, whether solely, Jomlly, in common, or\nin coparcenary.",
+      "new": "exercised, whether solely, jointly, in common, or in coparcenary.",
+      "reason": "OCR error: 'Jomlly' should be 'jointly'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUAMDIU",
+      "old": "QUAMDIU SE BENE GESGERIT.",
+      "new": "QUAMDIU SE BENE GESSERIT.",
+      "reason": "OCR error: 'GESGERIT' should be 'GESSERIT'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUAMDIU",
+      "old": "Quamvis aliquid ae se mom sit ianlumas\nftamen, si sit mali exempli, non est\nfaciendum.",
+      "new": "Quamvis aliquid per se non sit iniquum, tamen, si sit mali exempli, non est faciendum.",
+      "reason": "OCR severely garbled this maxim"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUAMDIU",
+      "old": "Quamvis lez stueralites teases restringenda tamen ext, ut, cessante ratiome, ipsa cegsat.",
+      "new": "Quamvis lex generaliter loquatur restringenda tamen est, ut, cessante ratione, ipsa cessat.",
+      "reason": "OCR severely garbled this maxim"
+    },
+    {
+      "type": "trim",
+      "term": "QUANDO",
+      "trim_at": "QUANDO ALIQUID MANDATUR . .",
+      "reason": "Body of QUANDO begins with an embedded headword 'QUANDO ALIQUID MANDATUR' and contains content that belongs to separate entries"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUANDO",
+      "old": "exercised, whether solely, only in common, or",
+      "new": "exercised, whether solely, jointly, in common, or",
+      "reason": "OCR dropped 'jointly' and replaced with 'only'"
+    },
+    {
+      "type": "trim",
+      "term": "QUANDO ALIQUID MANDATUR",
+      "trim_at": "Quam longum debet esse rationabile",
+      "reason": "Body contains only maxims from the QUAM entries, not the content for QUANDO ALIQUID MANDATUR"
+    },
+    {
+      "type": "trim",
+      "term": "QUANTI",
+      "trim_at": "QUANTI MINORIS. Lat. The name",
+      "reason": "Body contains an embedded QUANTI MINORIS headword entry after fragment text"
+    },
+    {
+      "type": "trim",
+      "term": "QUANTI MINORIS",
+      "trim_at": "QUANTUM DAMNIFICATUS?",
+      "reason": "Body contains an embedded QUANTUM DAMNIFICATUS entry after the QUANTI MINORIS definition"
+    },
+    {
+      "type": "trim",
+      "term": "QUANTUM",
+      "trim_at": "QUANTUM MERUIT. As much as he",
+      "reason": "Body begins with QUANTUM DAMNIFICATUS then embeds QUANTUM MERUIT as a separate headword"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUANTUM",
+      "old": "tis cennexio.",
+      "new": "tis connexio.",
+      "reason": "OCR error: 'cennexio' should be 'connexio'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUANTUM",
+      "old": "QUANTUM VALEBANT. As much as\n'they were worth. In pleading. The com'mon count",
+      "new": "QUANTUM VALEBANT. As much as they were worth. In pleading. The common count",
+      "reason": "OCR artifacts with apostrophes"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUANTUM",
+      "old": "goods were reasonably worth. $3 BI.\n.Comm. 161;",
+      "new": "goods were reasonably worth. 3 Bl. Comm. 161;",
+      "reason": "OCR error: '$3 BI.' should be '3 Bl.'"
+    },
+    {
+      "type": "trim",
+      "term": "QUANTUM MERUIT",
+      "trim_at": "Quantum tenens domino ox homagio",
+      "reason": "Body contains an embedded maxim 'Quantum tenens domino...' with OCR errors after the definition"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUANTUM MERUIT",
+      "old": "founded onan implied assumpstit or promise",
+      "new": "founded on an implied assumpsit or promise",
+      "reason": "OCR errors: 'onan' should be 'on an', 'assumpstit' should be 'assumpsit'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUANTUM MERUIT",
+      "old": "Quantum tenens domino ox homagio,",
+      "new": "Quantum tenens domino ex homagio,",
+      "reason": "OCR error: 'ox' should be 'ex'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUANTUM MERUIT",
+      "old": "debet esse deminii et homagii fidelita-\n'tis connexio.",
+      "new": "debet esse dominii et homagii fidelitatis connexio.",
+      "reason": "OCR error: 'deminii' should be 'dominii'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUARANTINE",
+      "old": "Im real proporty.",
+      "new": "In real property.",
+      "reason": "OCR errors: 'Im' should be 'In', 'proporty' should be 'property'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUARE",
+      "old": "Lat. Wherefore; for what reagon;",
+      "new": "Lat. Wherefore; for what reason;",
+      "reason": "OCR error: 'reagon' should be 'reason'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUARE",
+      "old": "QUARE EJEOCIT INFRA TERMINUM.",
+      "new": "QUARE EJECIT INFRA TERMINUM.",
+      "reason": "OCR error: 'EJEOCIT' should be 'EJECIT'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUARE",
+      "old": "Fitzh. Nat. Brey. 197 S.",
+      "new": "Fitzh. Nat. Brev. 197 S.",
+      "reason": "OCR error: 'Brey.' should be 'Brev.' (abbreviation for Brevia)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUARE",
+      "old": "A writ which lies for* the patron",
+      "new": "A writ which lies for the patron",
+      "reason": "OCR artifact: spurious asterisk"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUARE",
+      "old": "Abolished by 3 & 4\nWm.",
+      "new": "Abolished by 3 & 4 Wm.",
+      "reason": "Sentence appears truncated/cut off"
+    },
+    {
+      "type": "trim",
+      "term": "QUARENTENA",
+      "trim_at": "QUARENTENA TERRZ. A furlong.",
+      "reason": "Body contains embedded entry 'QUARENTENA TERRZ' (QUARENTENA TERRAE) after the definition"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUARENTENA",
+      "old": "QUARENTENA TERRZ.",
+      "new": "QUARENTENA TERRAE.",
+      "reason": "OCR error: 'TERRZ' should be 'TERRAE'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUARREL",
+      "old": "84 Ga. 287, 10 8S. E. 680,",
+      "new": "84 Ga. 287, 10 S. E. 680,",
+      "reason": "OCR error: '8S.' should be 'S.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUARRY",
+      "old": "39 L. R..A. 249,",
+      "new": "39 L. R. A. 249,",
+      "reason": "OCR error: extra period in 'L. R..A.'"
+    },
+    {
+      "type": "trim",
+      "term": "QUARTA",
+      "trim_at": "QUARTA DIVI PII. In Roman law.",
+      "reason": "QUARTA itself has no body definition; it only contains the embedded entries QUARTA DIVI PII and QUARTA FALCIDIA"
+    },
+    {
+      "type": "trim",
+      "term": "QUARTA DIVI PII",
+      "trim_at": "QUARTA FALCIDIA. In Roman law.",
+      "reason": "Body contains embedded entry QUARTA FALCIDIA and then QUARTER after the definition"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "QUANDO ACCIDERINT",
+      "old": "Quando aliquid mandatur: mandatus\net omne per quod pervenitur ad illud.",
+      "new": "Quando aliquid mandatur, mandatur et omne per quod pervenitur ad illud.",
+      "reason": "OCR error: colon should be comma, and 'mandatus' should be 'mandatur'"
+    }
+  ],
+  "errors": [],
+  "by_type": {
+    "ocr_fix": 117,
+    "trim": 26,
+    "headword": 5,
+    "flag": 2
+  },
+  "elapsed_seconds": 61.4
+}

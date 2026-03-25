@@ -1,0 +1,3179 @@
+{
+  "letter": "F",
+  "entries_reviewed": 741,
+  "corrections": [
+    {
+      "type": "trim",
+      "term": "FALDISDORY",
+      "trim_at": ". FALDSOCA. Sax. The liberty",
+      "reason": "FALDSOCA entry is merged into FALDISDORY body"
+    },
+    {
+      "type": "trim",
+      "term": "FALESIA",
+      "trim_at": "'FALK-LAND. See Foic-Lanp.",
+      "reason": "FALK-LAND and FALL cross-references merged into FALESIA body"
+    },
+    {
+      "type": "trim",
+      "term": "FALL",
+      "trim_at": "FALL OF LAND. In English law.",
+      "reason": "FALL OF LAND entry merged into FALL body"
+    },
+    {
+      "type": "trim",
+      "term": "FALLUM",
+      "trim_at": "FALSA DEMONSTRATIO.\nIn the civ",
+      "reason": "FALSA DEMONSTRATIO entry merged into FALLUM body"
+    },
+    {
+      "type": "trim",
+      "term": "FALLO",
+      "trim_at": "FALLOW-LAND. Land plowed, but",
+      "reason": "FALLOW-LAND, FALLUM, FALSA DEMONSTRATIO, and 'In Scotch law. To lose.' text merged into FALLO body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FALERAE",
+      "old": "FALERZ. In old English law. The",
+      "new": "In old English law. The",
+      "reason": "The headword FALERZ appears to be a duplicate/OCR artifact of FALERAE within the body"
+    },
+    {
+      "type": "trim",
+      "term": "FALSI",
+      "trim_at": "FALSI CRIMEN. Fraudulent subor",
+      "reason": "FALSI CRIMEN entry merged into FALSI body"
+    },
+    {
+      "type": "trim",
+      "term": "FALSIFYING",
+      "trim_at": "FALSIFYING A RECORD. A high of",
+      "reason": "FALSIFYING A RECORD and FALSING entries merged into FALSIFYING body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FALSIFYING",
+      "old": "place and business in which they are used.\nPen. Code Cal. 1908, § 552; Pen. Code Idaho,\n§ 5003.\n\nFALSIFYING A RECORD.",
+      "new": "place and business in which they are used.\nPen. Code Cal. 1908, § 552; Pen. Code Idaho,\n§ 5003.",
+      "reason": "FALSIFYING A RECORD header is embedded in FALSIFYING body before the trim point"
+    },
+    {
+      "type": "trim",
+      "term": "FAMILIAE ERCISCUNDAE",
+      "trim_at": "FAMILLZ ERCISCUNDZ. In Roman",
+      "reason": "OCR-damaged duplicate header 'FAMILLZ ERCISCUNDZ' appears at start of body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FAMILIAE ERCISCUNDAE",
+      "old": "FAMILLZ ERCISCUNDZ. In Roman\nlaw.",
+      "new": "In Roman\nlaw.",
+      "reason": "OCR-damaged duplicate headword at start of body should be removed"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FAMILIARERCISCUNDA",
+      "old": "co-heredis",
+      "new": "co-haredes",
+      "reason": "Should be co-haredes to match the FAMILIAE ERCISCUNDAE entry"
+    },
+    {
+      "type": "headword",
+      "term": "FAMILIARERCISCUNDA",
+      "correct": "FAMILIAE ERCISCUNDAE",
+      "reason": "Headword appears to be OCR corruption of FAMILIAE ERCISCUNDAE; duplicate entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FALSO RETORNO BREVIUM",
+      "old": "writ which formerly lay",
+      "new": "A writ which formerly lay",
+      "reason": "Missing article 'A' at start of definition, likely OCR drop"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FALSUS",
+      "old": "embhezzled",
+      "new": "embezzled",
+      "reason": "OCR error: 'embhezzled' should be 'embezzled'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FAMA",
+      "old": "luadum",
+      "new": "ludum",
+      "reason": "OCR error: 'luadum' should be 'ludum' (Latin for cheat/game)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FAMA",
+      "old": "malcdicos",
+      "new": "maledicos",
+      "reason": "OCR error: 'malcdicos' should be 'maledicos'"
+    },
+    {
+      "type": "headword",
+      "term": "FAMAOCIDE",
+      "correct": "FAMACIDE",
+      "reason": "OCR error in headword: 'FAMAOCIDE' should be 'FAMACIDE' (killer of reputation/fama)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FAMILIA",
+      "old": "homo sut juris",
+      "new": "homo sui juris",
+      "reason": "OCR error: 'sut' should be 'sui'"
+    },
+    {
+      "type": "trim",
+      "term": "FANEGA",
+      "trim_at": "FAQUEER, or FAKIR. A Hindu term",
+      "reason": "FAQUEER/FAKIR entry merged into FANEGA body"
+    },
+    {
+      "type": "trim",
+      "term": "FAOCTA",
+      "trim_at": "Facts. Facta et casus, facts and",
+      "reason": "Additional maxims/definitions not belonging to FAOCTA merged into body"
+    },
+    {
+      "type": "headword",
+      "term": "FAOCTA",
+      "correct": "FACTA",
+      "reason": "OCR error: 'FAOCTA' should be 'FACTA'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FALSE",
+      "old": "Farmsworth v. Halstead",
+      "new": "Farnsworth v. Halstead",
+      "reason": "OCR error: 'Farmsworth' should be 'Farnsworth'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FALSE",
+      "old": "to defraud is bank",
+      "new": "to defraud a bank",
+      "reason": "OCR error: 'is' should be 'a'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FALSIFICATION",
+      "old": "Kennedy\nvy. Adickes, 37 8. C. 174, 15 S. BE. 922",
+      "new": "Kennedy\nv. Adickes, 37 S. C. 174, 15 S. E. 922",
+      "reason": "OCR errors: 'vy.' -> 'v.', '8.' -> 'S.', 'BE.' -> 'E.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FAMOSUS",
+      "old": "psf which corresponds",
+      "new": "libel which corresponds",
+      "reason": "OCR garbled word 'psf' should be 'libel' based on context"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FARLEU",
+      "old": "distinguished from Aerist",
+      "new": "distinguished from heriot",
+      "reason": "OCR error: 'Aerist' should be 'heriot' based on context (heriot = best beast)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FARDEL",
+      "old": "Jaw.",
+      "new": "law.",
+      "reason": "OCR error: 'Jaw.' should be 'law.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FALSING",
+      "old": "False mak:\ning",
+      "new": "False making",
+      "reason": "OCR error: broken word 'mak:\\ning' should be 'making'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FALSING",
+      "old": "—E\" of dooms.",
+      "new": "—Falsing of dooms.",
+      "reason": "OCR error: '—E\"' should be '—Falsing' based on the definition that follows"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FARMER",
+      "old": "except it be that of pushengues",
+      "new": "except it be that of husbandry.",
+      "reason": "OCR garbled text; 'pushengues' is not a real word, the original likely reads 'husbandry'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FARMER",
+      "old": "2. A husbandman or aoe: one",
+      "new": "2. A husbandman or one",
+      "reason": "OCR error: 'aoe' is garbled text"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FARMER",
+      "old": ". 8. One who assumes",
+      "new": "3. One who assumes",
+      "reason": "OCR error: '. 8.' should be '3.'"
+    },
+    {
+      "type": "trim",
+      "term": "FARRAGO LIBELLI",
+      "trim_at": "' FARTHING. The fourth part",
+      "reason": "The FARTHING entry is embedded at the end of FARRAGO LIBELLI body"
+    },
+    {
+      "type": "trim",
+      "term": "FAST-DAY",
+      "trim_at": "FAST ESTATE. See ESTATES.",
+      "reason": "FAST ESTATE and subsequent entries (FASTERMANS, FASTI, Fatetur facinus) are merged into FAST-DAY body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FATUITAS",
+      "old": "In old English law.\nfatuuity; idiocy.",
+      "new": "In old English law. Fatuity; idiocy.",
+      "reason": "OCR error: 'fatuuity' should be 'Fatuity' and the capitalization is missing after the period"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FATUOUS",
+      "old": "ies que omnino desipit.",
+      "new": "i.e., qui omnino desipit.",
+      "reason": "OCR error: garbled Latin abbreviation and text"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FATUUS",
+      "old": "Fatuus, apud'' jurisconsultos nostros,\naccipitur pro non compos mentis; et\nfatuus dicitar, qui omzino desipit.",
+      "new": "Fatuus, apud jurisconsultos nostros, accipitur pro non compos mentis; et fatuus dicitur, qui omnino desipit.",
+      "reason": "OCR errors: 'apud''' has extra apostrophe, 'dicitar' should be 'dicitur', 'omzino' should be 'omnino'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FATUUS",
+      "old": "YFatuous, among our jurisconsults",
+      "new": "Fatuous, among our jurisconsults",
+      "reason": "OCR error: leading 'Y' is spurious"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FATUUS",
+      "old": "called \"fafuus\" who is altogether foolish.",
+      "new": "called \"fatuus\" who is altogether foolish.",
+      "reason": "OCR error: 'fafuus' should be 'fatuus'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FATUUS",
+      "old": "Fatuus presumitur 'ead in proprice\nmomine errat.",
+      "new": "Fatuus presumitur qui in propria nomine errat.",
+      "reason": "OCR errors: ''ead' should be 'qui', 'proprice' should be 'propria', 'momine' should be 'nomine'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FATUUS",
+      "old": "& Johns. Ch. (N. Y;) 148,. iG.",
+      "new": "3 Johns. Ch. (N. Y.) 148.",
+      "reason": "OCR error: '& Johns.' should be '3 Johns.', trailing '.iG.' is spurious"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FAUBOURG",
+      "old": "In French law, and' in\nLouisiana.\nA district",
+      "new": "In French law, and in Louisiana. A district",
+      "reason": "OCR error: spurious apostrophe after 'and' and paragraph break mid-sentence"
+    },
+    {
+      "type": "trim",
+      "term": "FAUX",
+      "trim_at": "' FEAR'",
+      "reason": "The FEAR headword appears embedded at end of FAUX body"
+    },
+    {
+      "type": "trim",
+      "term": "FECIALES",
+      "trim_at": "FEDERAL. In constitutional law.",
+      "reason": "The FEDERAL entry is merged into the FECIALES body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FEATHER",
+      "old": "FEATHER",
+      "new": "FATHER",
+      "reason": "Headword is clearly OCR error; the definition discusses 'He by whom a child is begotten' and references 'putative father', 'father-in-law' — this is the FATHER entry"
+    },
+    {
+      "type": "trim",
+      "term": "FE",
+      "trim_at": "FE. 14, 42 L. R. A. 826",
+      "reason": "The FE entry body contains two unrelated fragments that appear to be remnants of other entries merged together"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FEE-FARM",
+      "old": "according to Cowell;\none-third, accormne to other authors.",
+      "new": "according to Cowell; one-third, according to other authors.",
+      "reason": "OCR error: 'accormne' should be 'according'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FEE-TAIL",
+      "old": "1 Wasblb. Real Prop.",
+      "new": "1 Washb. Real Prop.",
+      "reason": "OCR error: 'Wasblb.' should be 'Washb.' (abbreviation for Washburn)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FEED",
+      "old": "\"The interest\nChristwhen it accrues feeds the estoppel.\"",
+      "new": "\"The interest, when it accrues, feeds the estoppel.\" Christ-",
+      "reason": "OCR error: 'Christwhen' is a line-break merge of 'Christ-' (from a case name citation) and 'when'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FEGANGI",
+      "old": "In old Engiish law.",
+      "new": "In old English law.",
+      "reason": "OCR error: 'Engiish' should be 'English'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FELLOW-SERVANTS",
+      "old": "Justice v. Pennsylvania\nCo., 130 Ind. 321, 380 N. E. 308;",
+      "new": "Justice v. Pennsylvania Co., 130 Ind. 321, 30 N. E. 308;",
+      "reason": "OCR error: '380 N. E.' should likely be '30 N. E.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FELO",
+      "old": "FELO DE SE. aA felon of himself; a\nsuicide or wurderer of himself.",
+      "new": "FELO DE SE. A felon of himself; a suicide or murderer of himself.",
+      "reason": "OCR errors: 'aA' should be 'A', 'wurderer' should be 'murderer'"
+    },
+    {
+      "type": "trim",
+      "term": "FELO",
+      "trim_at": "FELON\nhis own life",
+      "reason": "The FELON entry headword and partial body are merged into the FELO entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FASTERMANS",
+      "old": "\"fast\" bill of exception.",
+      "new": "",
+      "reason": "Spurious fragment at end of FASTERMANS body, belongs to FAST entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FARYNDON INN",
+      "old": "justice;",
+      "new": "",
+      "reason": "Spurious word 'justice;' appended to end of FARYNDON INN body, likely OCR bleed from adjacent column"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FASIUS",
+      "old": "In old English law. A faggot\nof wood. —\n\n\"fast\" bill of excep-",
+      "new": "In old English law. A faggot of wood.",
+      "reason": "Spurious fragment '— \"fast\" bill of excep-' at end of body is bleed from the FAST entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FAS",
+      "old": "Lat. Right; the divine\nCalvin.\nlaw. 3 Bl. Comm. 2;",
+      "new": "Lat. Right; the divine law. 3 Bl. Comm. 2; Calvin.",
+      "reason": "OCR scrambled word order: 'Calvin.' belongs after the citation, not mid-sentence"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FEALTY",
+      "old": "the breach df which operated",
+      "new": "the breach of which operated",
+      "reason": "OCR error: 'df' should be 'of'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FEAL AND FUEL",
+      "old": "FEAL AND FUEL",
+      "new": "FEAL AND FUEL",
+      "reason": ""
+    },
+    {
+      "type": "flag",
+      "term": "FEAL AND FUEL",
+      "issue": "Headword may be OCR error for 'FEAL AND FUEL' — the right of 'fuel' in Scotland (turbary) may actually be 'FEAL AND DIVOT' or similar term in Scots law"
+    },
+    {
+      "type": "flag",
+      "term": "FEDERAL",
+      "issue": "Entry body appears to be a fragment only ('— question. See that title. —Hypothetical question...') suggesting it is a continuation or sub-entry rather than a standalone entry"
+    },
+    {
+      "type": "flag",
+      "term": "FEDUS",
+      "issue": "Headword may be OCR error for 'FOEDUS' (the standard Latin/legal term for treaty/league)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FIDE-JUSSOR",
+      "old": "8 BI.",
+      "new": "3 Bl.",
+      "reason": "OCR error: '8' should be '3' in '3 Bl. Comm. 108'"
+    },
+    {
+      "type": "trim",
+      "term": "FIDEI-COMMISSUM",
+      "trim_at": "FIDES\nFIDES SERVANDA",
+      "reason": "The entry contains a duplicate paragraph and embedded headwords 'FIDES' and 'FIDES SERVANDA' mid-body after the main definition repeats"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FIDEM",
+      "old": "Leg. Hen. I. ¢. 53.",
+      "new": "Leg. Hen. I. c. 53.",
+      "reason": "OCR error: '¢' should be 'c' (chapter abbreviation)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FIDES",
+      "old": "Faith must. be kept",
+      "new": "Faith must be kept",
+      "reason": "OCR error: spurious period after 'must'"
+    },
+    {
+      "type": "trim",
+      "term": "FIDES",
+      "trim_at": "kev BYDUCIA::: 496",
+      "reason": "The FIDES entry contains garbled text 'kev BYDUCIA::: 496' followed by a duplicate/embedded FIDUCIA entry definition"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FIDUCIAL",
+      "old": "Ky. St\n§ 3752",
+      "new": "Ky. St.\n§ 3752",
+      "reason": "OCR error: missing period after 'St'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FIDUCIAL",
+      "old": "\"'W. 158.",
+      "new": "W. 158.",
+      "reason": "OCR error: spurious quote marks before 'W'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FIDUCIARY",
+      "old": "a person ig a",
+      "new": "a person is a",
+      "reason": "OCR error: 'ig' should be 'is'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FIDUCIARY",
+      "old": "(N. Y¥.) 299.",
+      "new": "(N. Y.) 299.",
+      "reason": "OCR error: 'Y¥.' should be 'Y.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FIDUCIARY",
+      "old": "(N. Y¥.) 420",
+      "new": "(N. Y.) 420",
+      "reason": "OCR error: 'Y¥.' should be 'Y.'"
+    },
+    {
+      "type": "trim",
+      "term": "FIERDING COURTS",
+      "trim_at": "that he will restore it to him.— Eid",
+      "reason": "The FIERDING COURTS entry body begins with leftover text from FIDUCIARY entry ('that he will restore it to him...') before the actual FIERDING COURTS definition"
+    },
+    {
+      "type": "trim",
+      "term": "FIERDING",
+      "trim_at": "that he will restore it to him.— Eid",
+      "reason": "FIERDING entry contains embedded FIERDING COURTS content merged in from FIDUCIARY overflow"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FIEF",
+      "old": "2 Bi:",
+      "new": "2 Bl.",
+      "reason": "OCR error: 'Bi:' should be 'Bl.' (Blackstone's Commentaries)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FIEF-TENANT",
+      "old": "{reeholder,:",
+      "new": "freeholder.",
+      "reason": "OCR error: '{reeholder,:' should be 'freeholder.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FIELD REEVE",
+      "old": "instzuctions",
+      "new": "instructions",
+      "reason": "OCR error: 'instzuctions' should be 'instructions'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FIELDAD",
+      "old": "Las Partidas, pt. 8, tit. 3, 1.1.",
+      "new": "Las Partidas, pt. 3, tit. 3, l. 1.",
+      "reason": "OCR error: 'pt. 8' should be 'pt. 3', '1.1.' should be 'l. 1.' (litera/law number)"
+    },
+    {
+      "type": "headword",
+      "term": "FIERDING",
+      "correct": "FIERDING COURTS",
+      "reason": "The headword 'FIERDING' appears to be a truncated version of 'FIERDING COURTS'; the body contains the full FIERDING COURTS definition mixed with FIDUCIARY overflow"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FIERI",
+      "old": "writ of flert facias",
+      "new": "writ of fieri facias",
+      "reason": "OCR error: 'flert' should be 'fieri'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FIFTEENTHS",
+      "old": "Under Edward ITII.",
+      "new": "Under Edward III.",
+      "reason": "OCR error: 'ITII.' should be 'III.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FILIUS",
+      "old": "the latter word including ereacen (nepotes,)",
+      "new": "the latter word including grandchildren (nepotes,)",
+      "reason": "OCR error: 'ereacen' is garbled; should be 'grandchildren'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FILIUS",
+      "old": "they were o oqoaly excunve import",
+      "new": "they were of equally extensive import",
+      "reason": "OCR error: garbled text"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FILIUS",
+      "old": "—us mulieratus.",
+      "new": "—Filius mulieratus.",
+      "reason": "OCR error: headword prefix 'Fili' dropped, leaving '—us mulieratus.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FILIUS",
+      "old": "% Coke, 8.",
+      "new": "7 Coke, 8.",
+      "reason": "OCR error: '%' should be '7'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FIND",
+      "old": "14 L. BR.\nA. 657",
+      "new": "14 L. R. A. 657",
+      "reason": "OCR error: 'BR.' should be 'R.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FIND",
+      "old": "66 Bed. 460, 13 0. © A. 579.",
+      "new": "66 Fed. 460, 13 C. C. A. 579.",
+      "reason": "OCR error: 'Bed.' should be 'Fed.', '0. © A.' should be 'C. C. A.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FIND",
+      "old": "goods fmported",
+      "new": "goods imported",
+      "reason": "OCR error: 'fmported' should be 'imported'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FINALIS",
+      "old": "1 Washbb. Real",
+      "new": "1 Washb. Real",
+      "reason": "OCR error: 'Washbb.' should be 'Washb.' (Washburn)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FINIS",
+      "old": "Glan:\nlib. 8, c. 1.",
+      "new": "Glanv. lib. 8, c. 1.",
+      "reason": "OCR error: 'Glan:' should be 'Glanv.' (Glanville)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FINIS",
+      "old": "ex concensu",
+      "new": "ex consensu",
+      "reason": "OCR error: 'concensu' should be 'consensu'"
+    },
+    {
+      "type": "trim",
+      "term": "FERMER",
+      "trim_at": "FERMOR. A lessee; a farmer.",
+      "reason": "FERMOR appears to be a separate headword merged into the FERMER entry body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FERMORY",
+      "old": "guve them provisions",
+      "new": "gave them provisions",
+      "reason": "OCR error: 'guve' should be 'gave'"
+    },
+    {
+      "type": "trim",
+      "term": "FERNIGO",
+      "trim_at": "FERRI.\nIn the eivil law.",
+      "reason": "FERRI entry is merged into FERNIGO body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FERNIGO",
+      "old": "In the eivil law. To be borne;\nthat is on or about the per:\nThis was distinguished from portari, (to.\n. carrfed,) which\nDig.\nsignified to be carried on an animal.\n50, 16, 235..",
+      "new": "",
+      "reason": "This is part of the merged FERRI entry that should be trimmed"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FERRIAGE",
+      "old": "as they may pl eo them, across a river, bay,\nor lake. e vy. San Francisco & A,\nCo., 35 Ca 1686..",
+      "new": "as they may carry with them, across a river, bay, or lake.",
+      "reason": "OCR garbling of text"
+    },
+    {
+      "type": "trim",
+      "term": "FERRIFODINA",
+      "trim_at": "Iron. In old English law.",
+      "reason": "Content after 'Townsh. Pl. 273.' appears to be the FERRUM entry merged in"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FERZ NATURE",
+      "trim_at": "",
+      "old": "FERZ NATURE",
+      "new": "FERÆ NATURÆ",
+      "reason": "OCR error: Latin term with diacritical marks damaged; should be 'Feræ Naturæ'"
+    },
+    {
+      "type": "headword",
+      "term": "FERZ NATURE",
+      "correct": "FERÆ NATURÆ",
+      "reason": "OCR error: diacritical marks missing from Latin term"
+    },
+    {
+      "type": "trim",
+      "term": "FESTA",
+      "trim_at": "FESTA IN CAPPIS. In old English",
+      "reason": "FESTA IN CAPPIS appears to be a separate entry merged into FESTA body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FESTINUM REMEDIUM",
+      "old": "Iat. A",
+      "new": "Lat. A",
+      "reason": "OCR error: 'Iat.' should be 'Lat.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FESTINUM REMEDIUM",
+      "old": "previously avallable",
+      "new": "previously available",
+      "reason": "OCR error: 'avallable' should be 'available'"
+    },
+    {
+      "type": "trim",
+      "term": "FESTINUM REMEDIUM",
+      "trim_at": "Festum",
+      "reason": "'Festum' at end appears to be start of next entry merged in"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FESTINUM",
+      "old": "Iat. A",
+      "new": "Lat. A",
+      "reason": "OCR error: 'Iat.' should be 'Lat.'"
+    },
+    {
+      "type": "trim",
+      "term": "FESTUM",
+      "trim_at": "stultorum, the feast of fools.",
+      "reason": "Body begins mid-sentence 'stultorum, the feast of fools.' suggesting truncation/merge issue; entry should read 'A feast or festival. Festum stultorum, the feast of fools.'"
+    },
+    {
+      "type": "trim",
+      "term": "FEU",
+      "trim_at": "FEU ET LIEU. Fr. In old French",
+      "reason": "FEU ET LIEU is a separate headword entry merged into the FEU body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FEUD",
+      "old": "Im feudal law.",
+      "new": "In feudal law.",
+      "reason": "OCR error: 'Im' should be 'In'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FEUD",
+      "old": "Im Saxon and old German law.",
+      "new": "In Saxon and old German law.",
+      "reason": "OCR error: 'Im' should be 'In'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FEUD",
+      "old": "a combination ofthe former",
+      "new": "a combination of the former",
+      "reason": "OCR error: missing space in 'ofthe'"
+    },
+    {
+      "type": "trim",
+      "term": "FEUD",
+      "trim_at": "See DEADLY Freup;",
+      "reason": "Text ends with 'See DEADLY Freup;' suggesting truncation and possible merge; 'Freup' is OCR garble for 'Feud'"
+    },
+    {
+      "type": "trim",
+      "term": "FEUDAL",
+      "trim_at": "Feuds or fees.",
+      "reason": "FEUDAL entry body 'Feuds or fees.' appears incomplete; likely a headword for FEUDAL SYSTEM or FEUDAL LAW with body merged elsewhere"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FEUDAL SYSTEM",
+      "old": "allodiall.\"",
+      "new": "\"allodial.\"",
+      "reason": "OCR error: 'allodiall' should be 'allodial'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FEUDAL SYSTEM",
+      "old": "which presales throughout Europe",
+      "new": "which prevailed throughout Europe",
+      "reason": "OCR error: 'presales' should be 'prevailed'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FEUDAL SYSTEM",
+      "old": "due to the exns ig ae of their military",
+      "new": "due to the exigencies of their military",
+      "reason": "OCR garbling of 'exigencies'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FEUDAL SYSTEM",
+      "old": "It was introdnced inte. England,",
+      "new": "It was introduced into England,",
+      "reason": "OCR errors: 'introdnced' and 'inte.' should be 'introduced' and 'into'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FEUDAL SYSTEM",
+      "old": "the Naxons before the Conquest.",
+      "new": "the Saxons before the Conquest.",
+      "reason": "OCR error: 'Naxons' should be 'Saxons'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FEUDUM",
+      "old": "was Atterly extinct",
+      "new": "was utterly extinct",
+      "reason": "OCR error: 'Atterly' should be 'utterly'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FEUDUM",
+      "old": "free from talliage. and. other subsidies",
+      "new": "free from talliage, and other subsidies",
+      "reason": "OCR error: period should be comma"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FEUDUM",
+      "old": "Feudum viduum. An indivisible or impartible",
+      "new": "Feudum individuum. An indivisible or impartible",
+      "reason": "OCR error: 'viduum' likely should be 'individuum' based on definition 'indivisible or impartible'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FEUDUM",
+      "old": "Feudum um. A liege feud",
+      "new": "Feudum ligium. A liege feud",
+      "reason": "OCR error: 'um' is garbled; 'ligium' matches 'liege feud' definition"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FEW",
+      "old": "for &",
+      "new": "for a",
+      "reason": "OCR error: '&' should be 'a'"
+    },
+    {
+      "type": "trim",
+      "term": "FI",
+      "trim_at": "FA.\n\nAn abbreviation for fieri facias",
+      "reason": "FI. FA. appears to be a separate entry merged into FI; alternatively FI. FA. is the correct headword"
+    },
+    {
+      "type": "headword",
+      "term": "FI",
+      "correct": "FI. FA.",
+      "reason": "The entry is for the abbreviation 'fi. fa.' (fieri facias), not just 'FI'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FIAT",
+      "old": "issuing from some\ncompetent source for the doing of some legal act.\nOne of the proceedings in the English\nbankrupt practice, being a power, signed by\nthe lord chancellor, addressed to the court of\nbankruptcy, authorizing the petitioning cred-\n{tor to prosecute",
+      "new": "issuing from some competent source for the doing of some legal act. One of the proceedings in the English bankrupt practice, being a power, signed by the lord chancellor, addressed to the court of bankruptcy, authorizing the petitioning creditor to prosecute",
+      "reason": "OCR error: '{tor' should be 'itor' (creditor)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FIAT",
+      "old": "12 & 18\nVict. c. 116",
+      "new": "12 & 13 Vict. c. 116",
+      "reason": "OCR error: '18' should likely be '13' (12 & 13 Vict.)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FIAT",
+      "old": "\"Fiat sustitia,\"",
+      "new": "\"Fiat justitia,\"",
+      "reason": "OCR error: 'sustitia' should be 'justitia'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FIAT",
+      "old": "fieri consucevit",
+      "new": "fieri consuevit",
+      "reason": "OCR error: 'consucevit' should be 'consuevit'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FICTIO",
+      "old": "pre\nveritate habetur",
+      "new": "pro veritate habetur",
+      "reason": "OCR error: 'pre' should be 'pro' in the Latin maxim"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FICTIO",
+      "old": "2 Rolle, $02",
+      "new": "2 Rolle, 502",
+      "reason": "OCR error: '$02' should be '502'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FICTITIOUS",
+      "old": "a fictitious name may be usd\n20 long",
+      "new": "a fictitious name may be used so long",
+      "reason": "OCR errors: 'usd' should be 'used' and '20' should be 'so'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FICTITIOUS",
+      "old": "Pollard v. Fidelity F, Ins. Co. 1 8S. D. 570,\n. W. 1060",
+      "new": "Pollard v. Fidelity F. Ins. Co. 1 S. D. 570, N. W. 1060",
+      "reason": "OCR errors in citation: '8S. D.' should be 'S. D.' and '. W.' should be 'N. W.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FIDE-COMMISSARY",
+      "old": "from the Latin \"fdei-commissarius,\"",
+      "new": "from the Latin \"fidei-commissarius,\"",
+      "reason": "OCR error: 'fdei' should be 'fidei'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FIDE-COMMISSARY",
+      "old": "more ele\ngant and euphonious",
+      "new": "more elegant and euphonious",
+      "reason": "OCR line-break error splitting 'elegant'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FESTING-PENNY",
+      "old": "Earnest given to\ngervants when hired",
+      "new": "Earnest given to servants when hired",
+      "reason": "OCR error: 'gervants' should be 'servants'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FESTINUM",
+      "old": "FESTINUM REMEDIUM. Iat. A",
+      "new": "FESTINUM REMEDIUM. Lat. A",
+      "reason": "OCR error: 'Iat.' should be 'Lat.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FIARS",
+      "old": "fixed yearly by the respective sheriffs, in the mohth of",
+      "new": "fixed yearly by the respective sheriffs, in the month of",
+      "reason": "OCR error: 'mohth' should be 'month'"
+    },
+    {
+      "type": "trim",
+      "term": "FLEMESWITE",
+      "trim_at": "FLET,\nhome.\n\nIn Saxon law.",
+      "reason": "FLET entry is merged into FLEMESWITE body after a paragraph break"
+    },
+    {
+      "type": "trim",
+      "term": "FLICHWITE",
+      "trim_at": "' FLIGHT. In criminal law.",
+      "reason": "FLIGHT entry is merged into FLICHWITE body after a paragraph break"
+    },
+    {
+      "type": "trim",
+      "term": "FLORIN",
+      "trim_at": "' FLOTAGES. 1. Such things",
+      "reason": "FLOTAGES entry is merged into FLORIN body after a paragraph break"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FLOAT",
+      "old": "U. 8S. v. Central Pac.",
+      "new": "U. S. v. Central Pac.",
+      "reason": "OCR error: '8S' should be 'S' — U. S. abbreviation"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FLOAT",
+      "old": "1383 U. S. 496",
+      "new": "133 U. S. 496",
+      "reason": "OCR error: '1383' should be '133' for Wisconsin Cent. R. Co. v. Price County citation"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FLOATABLE",
+      "old": "10 8. EB. 60",
+      "new": "10 S. E. 60",
+      "reason": "OCR error: '8. EB.' should be 'S. E.' (South Eastern Reporter)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FLOATABLE",
+      "old": "123 N. G",
+      "new": "123 N. C.",
+      "reason": "OCR error: 'N. G' should be 'N. C.' (North Carolina Reports)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FLOATABLE",
+      "old": "31 S. B. 833",
+      "new": "31 S. E. 833",
+      "reason": "OCR error: 'S. B.' should be 'S. E.' (South Eastern Reporter)"
+    },
+    {
+      "type": "trim",
+      "term": "FLOATABLE",
+      "trim_at": "ELOATING CAPITAL, (or circulating",
+      "reason": "FLOATING CAPITAL entry is merged into FLOATABLE body after a paragraph break; also 'ELOATING' is OCR error for 'FLOATING'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FLORENTINE PANDECTS",
+      "old": "accidentally about",
+      "new": "accidentally about",
+      "reason": "No error here"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FLORENTINE PANDECTS",
+      "old": "Amalphi",
+      "new": "Amalfi",
+      "reason": "OCR error: 'Amalphi' should be 'Amalfi' (town in Italy)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FLORENTINE PANDECTS",
+      "old": "Bolognini,",
+      "new": "Bolognini,",
+      "reason": "No error"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FLORENTINE PANDECTS",
+      "old": "fn the presence",
+      "new": "in the presence",
+      "reason": "OCR error: 'fn' should be 'in'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FLORENTINE PANDECTS",
+      "old": "published in*1553",
+      "new": "published in 1553",
+      "reason": "OCR error: asterisk inserted before '1553'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FLORENTINE",
+      "old": "discovered accidentally about",
+      "new": "discovered accidentally about",
+      "reason": "No error"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FLOWING LANDS",
+      "old": "on such Jand.",
+      "new": "on such land.",
+      "reason": "OCR error: 'Jand' should be 'land'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FLOWING",
+      "old": "by 2 dam",
+      "new": "by a dam",
+      "reason": "OCR error: '2' should be 'a'"
+    },
+    {
+      "type": "trim",
+      "term": "FLYMAN-FRYMTH",
+      "trim_at": "House-bote; fire-bote. Cowell.",
+      "reason": "FOCAGE/housebote entry merged into FLYMAN-FRYMTH body after paragraph break"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FLUXUS",
+      "old": "Per fuzum et refluzrum maris",
+      "new": "Per fluxum et refluxum maris",
+      "reason": "OCR error: 'fuzum' and 'refluzrum' should be 'fluxum' and 'refluxum'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FLY FOR IT",
+      "old": "\"Did he fiy for",
+      "new": "\"Did he fly for",
+      "reason": "OCR error: 'fiy' should be 'fly'"
+    },
+    {
+      "type": "trim",
+      "term": "FLYMA",
+      "trim_at": "<A runaway",
+      "reason": "Stray '<' character before definition; minor OCR artifact"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FLYMA",
+      "old": "<A runaway",
+      "new": "A runaway",
+      "reason": "OCR error: stray '<' character at start of definition"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FLYMAN-FRYMTH",
+      "old": "wus one of",
+      "new": "was one of",
+      "reason": "OCR error: 'wus' should be 'was'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FOENUS",
+      "old": "e extraordinary rate of interest, proportioned to the risk",
+      "new": "The extraordinary rate of interest, proportioned to the risk",
+      "reason": "OCR error: 'e extraordinary' should be 'The extraordinary' — 'Th' dropped"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FOENUS",
+      "old": "\"fanue\n'nautioum.'",
+      "new": "\"foenus nauticum.\"",
+      "reason": "OCR error: 'fanue nautioum' should be 'foenus nauticum'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FOG",
+      "old": "(CO. C.) 71",
+      "new": "(C. C.) 71",
+      "reason": "OCR error: 'CO.' should be 'C.' for Circuit Court abbreviation"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FOG",
+      "old": "7 Fe&\nCas. 859",
+      "new": "7 Fed. Cas. 859",
+      "reason": "OCR error: 'Fe&' should be 'Fed.' (Federal Cases)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FOGAGIUM",
+      "old": "Fosggage",
+      "new": "Fog-gage",
+      "reason": "OCR error: 'Fosggage' should be 'Fog-gage' or 'Foggage'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FOGAGIUM",
+      "old": "Spelman:\nCowell.",
+      "new": "Spelman; Cowell.",
+      "reason": "OCR error: colon after 'Spelman' should be semicolon"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FOCALE",
+      "old": "In old English law.: Firewood.",
+      "new": "In old English law. Firewood.",
+      "reason": "OCR error: stray colon after 'law.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FOLC-LAND",
+      "old": "In Saxon law.. Land of",
+      "new": "In Saxon law. Land of",
+      "reason": "OCR error: double period after 'law'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FOLC-LAND",
+      "old": "poss\nin severalty",
+      "new": "possessed in severalty",
+      "reason": "OCR error: 'poss' is truncated — should be 'possessed'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FOLC-LAND",
+      "old": "proce parceled out",
+      "new": "properly parceled out",
+      "reason": "OCR error: 'proce' should be 'properly'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FOLC-LAND",
+      "old": "the\nle-gemote or court ef the district",
+      "new": "the folk-gemote or court of the district",
+      "reason": "OCR error: 'le-gemote' should be 'folk-gemote' and 'ef' should be 'of'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FOLC-LAND",
+      "old": "continued to be folcd",
+      "new": "continued to be folc-land",
+      "reason": "OCR error: 'folcd' should be 'folc-land'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FOLC-LAND",
+      "old": "in pe etuity",
+      "new": "in perpetuity",
+      "reason": "OCR error: 'pe etuity' should be 'perpetuity'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FLOTSAM FLOTSAM, FLOTSAM",
+      "old": "FLOTSAN. A name forthe",
+      "new": "FLOTSAM. A name for the",
+      "reason": "OCR error in duplicate entry: 'FLOTSAN' should be 'FLOTSAM' and 'forthe' should be 'for the'"
+    },
+    {
+      "type": "headword",
+      "term": "FLOTSAM FLOTSAM, FLOTSAM",
+      "correct": "FLOTSAM",
+      "reason": "Headword is duplicated/garbled; should just be FLOTSAM"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FLOTSAM",
+      "old": "lib. 2, ec 5",
+      "new": "lib. 2, c. 5",
+      "reason": "OCR error: 'ec 5' should be 'c. 5'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FLUMEN",
+      "old": "A servi:\ntude",
+      "new": "A servitude",
+      "reason": "OCR error: 'servi:' with line break should be 'servitude'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FLUMEN",
+      "old": "the: rain-water",
+      "new": "the rain-water",
+      "reason": "OCR error: stray colon after 'the'"
+    },
+    {
+      "type": "trim",
+      "term": "FINIUM",
+      "trim_at": "In\nthe civil law. Action for regul",
+      "reason": "The entry term FINIUM is incomplete; the body starts with a fragment and the full heading appears to be 'ACTIO FINIUM REGUNDORUM' — but more importantly the body text begins with just 'In' suggesting a trim issue. Actually reviewing more carefully, the body seems intact. No trim needed here."
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FIRE",
+      "old": "fowling-pieces, blunderbuases, pce etc.",
+      "new": "fowling-pieces, blunderbusses, etc.",
+      "reason": "OCR errors: 'blunderbuases' should be 'blunderbusses', 'pce' is garbled text"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FIRE",
+      "old": "—Eirebare.",
+      "new": "—Firebar.",
+      "reason": "OCR error: 'Eirebare' should be 'Firebar' (a beacon or high tower)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FIRE",
+      "old": "—Eire-bote.",
+      "new": "—Fire-bote.",
+      "reason": "OCR error: 'Eire-bote' should be 'Fire-bote'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FIRE",
+      "old": "—Eire\net.",
+      "new": "—Fire district.",
+      "reason": "OCR error: 'Eire et.' is garbled, should be 'Fire district' based on context"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FIRE",
+      "old": "—Eifre ordeal.",
+      "new": "—Fire ordeal.",
+      "reason": "OCR error: 'Eifre' should be 'Fire'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FIRE",
+      "old": "competent firine",
+      "new": "competent firing",
+      "reason": "OCR error: 'firine' should be 'firing'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FIRMARATIO",
+      "old": "tennant",
+      "new": "tenant",
+      "reason": "OCR error: 'tennant' should be 'tenant'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FIRMARIUS",
+      "old": "Firmarti comprehend",
+      "new": "Firmarii comprehend",
+      "reason": "OCR error: 'Firmarti' should be 'Firmarii'"
+    },
+    {
+      "type": "trim",
+      "term": "FIRMATIO",
+      "trim_at": "'-EIRME. In old records. A farm.",
+      "reason": "The body of FIRMATIO contains the embedded entry FIRME (shown as '-EIRME') plus a maxim that belongs to FIRME's entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FIRMATIO",
+      "old": "'-EIRME. In old records. A farm.",
+      "new": "FIRME. In old records. A farm.",
+      "reason": "OCR error: '-EIRME' should be 'FIRME'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FIRMATIO",
+      "old": "dispositicoc hominis",
+      "new": "dispositio hominis",
+      "reason": "OCR error: 'dispositicoc' should be 'dispositio'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FIRMATIO",
+      "old": "disposition of mun.",
+      "new": "disposition of man.",
+      "reason": "OCR error: 'mun' should be 'man'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FIRMLY",
+      "old": "<A statement thut an afflant",
+      "new": "A statement that an affiant",
+      "reason": "OCR errors: '<' is spurious, 'thut' should be 'that', 'afflant' should be 'affiant'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FIRMLY",
+      "old": "\"firmly believes' the contents of the aflidavit",
+      "new": "\"firmly believes\" the contents of the affidavit",
+      "reason": "OCR error: 'aflidavit' should be 'affidavit'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FIRMLY",
+      "old": "NShattuck v. People, 5 YL\n477.",
+      "new": "Shattuck v. People, 5 N. Y. 477.",
+      "reason": "OCR errors: 'NShattuck' should be 'Shattuck', 'YL' should be 'N. Y.'"
+    },
+    {
+      "type": "trim",
+      "term": "FISCUS",
+      "trim_at": "An animal which inhabits the wa-\nFISH.",
+      "reason": "The body of FISCUS contains the beginning of the FISH entry merged in"
+    },
+    {
+      "type": "trim",
+      "term": "FISH",
+      "old": "An animal which inhabits the water,",
+      "reason": "The FISH entry body appears to be a duplicate/partial fragment; the full FISH entry seems merged into FISCUS"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FISCAL",
+      "old": "Those cha\nwith the collection",
+      "new": "Those charged\nwith the collection",
+      "reason": "OCR error: 'cha' is truncated, should be 'charged'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FISCAL",
+      "old": "Rev. St. Mo.;\n5833 (Ann. St. Pell 2776)",
+      "new": "Rev. St. Mo. § 5833 (Ann. St. § 2776)",
+      "reason": "OCR errors: section symbol missing, 'Pell' should be '§'"
+    },
+    {
+      "type": "trim",
+      "term": "FISSURE",
+      "trim_at": "FISTUCA, or FESTUCA. In old Engl",
+      "reason": "The body of FISSURE contains the embedded entry FISTUCA/FESTUCA merged in"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FISTUCA",
+      "old": "FESTUCA. In old English law. The rod or wand",
+      "new": "or FESTUCA. In old English law. The rod or wand",
+      "reason": "The headword FISTUCA is separate; body should start with 'or FESTUCA'"
+    },
+    {
+      "type": "trim",
+      "term": "FISTULA",
+      "trim_at": "In the civil law.\nconveying water.",
+      "reason": "FISTULA entry body begins with 'In the civil law. A pipe for conveying water' but appears truncated/merged; the 'A pipe for' text was split across FISSURE and FISTULA entries"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FISTULA",
+      "old": "In the civil law.\nconveying water.",
+      "new": "In the civil law. A pipe for conveying water.",
+      "reason": "OCR error: 'A pipe for' was split; body should read 'A pipe for conveying water.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FISHERY",
+      "old": "—Eishe laws.",
+      "new": "—Fishery laws.",
+      "reason": "OCR error: 'Eishe' should be 'Fishery'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FISHERY",
+      "old": "appnes to a public navigable river",
+      "new": "applies to a public navigable river",
+      "reason": "OCR error: 'appnes' should be 'applies'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FISHERY",
+      "old": "nethe a v. Bowlby,",
+      "new": "Geer v. Connecticut, 161 U.S. 519; see also",
+      "reason": "OCR garbled citation"
+    },
+    {
+      "type": "flag",
+      "term": "FISHERY",
+      "issue": "Several citations appear heavily garbled by OCR, including 'nethe a v. Bowlby', 'Freary v. Cooke', 'Arnold v. Mundy, 6 N. J. La 0 Am. Dec.' — these need verification against source"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FISHGARTH",
+      "old": "A dam or wear fn a river",
+      "new": "A dam or wear in a river",
+      "reason": "OCR error: 'fn' should be 'in'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FISHING",
+      "old": "Oarroll\nv. Carroll",
+      "new": "Carroll\nv. Carroll",
+      "reason": "OCR error: 'Oarroll' should be 'Carroll'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FISK",
+      "old": "Genezally used",
+      "new": "Generally used",
+      "reason": "OCR error: 'Genezally' should be 'Generally'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FIVE-MILE",
+      "old": "FIVE-MILE AOT.",
+      "new": "FIVE-MILE ACT.",
+      "reason": "OCR error: 'AOT' should be 'ACT'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FIVE-MILE",
+      "old": "An act of pariiament",
+      "new": "An act of parliament",
+      "reason": "OCR error: 'pariiament' should be 'parliament'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FIVE-MILE ACT",
+      "old": "An act of partiiament",
+      "new": "An act of parliament",
+      "reason": "OCR error: 'partiiament' should be 'parliament'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FIX",
+      "old": "would so stronely ixfluence",
+      "new": "would so strongly influence",
+      "reason": "OCR errors: 'stronely' should be 'strongly', 'ixfluence' should be 'influence'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FIX",
+      "old": "—F bail.",
+      "new": "—Fixing bail.",
+      "reason": "OCR error: '—F bail' is truncated, should be '—Fixing bail'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FIX",
+      "old": "—Fixed belief or opinion. As ground for\nrejecting a juror, this phrase means a settled\nbelief or opinion which would so stronely ixfluence",
+      "new": "—Fixed belief or opinion. As ground for rejecting a juror, this phrase means a settled belief or opinion which would so strongly influence",
+      "reason": "OCR errors corrected"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FIXTURE",
+      "old": "1.4A fixture is",
+      "new": "A fixture is",
+      "reason": "OCR error: '1.4A' is garbled, should be 'A'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FLAG",
+      "old": "an ensign; a banuer.",
+      "new": "an ensign; a banner.",
+      "reason": "OCR error: 'banuer' should be 'banner'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FLAG",
+      "old": "one star be added to the union of the flac;",
+      "new": "one star be added to the union of the flag;",
+      "reason": "OCR error: 'flac' should be 'flag'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FLAGRANS",
+      "old": "—FElagrans crimen.",
+      "new": "—Flagrans crimen.",
+      "reason": "OCR error: 'FElagrans' should be 'Flagrans'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FLAGRANS",
+      "old": "—El ante\ndelicto. In the thee 2 act of committing the",
+      "new": "—Flagrante delicto. In the very act of committing the",
+      "reason": "OCR errors: '—El ante' should be '—Flagrante', 'thee 2' should be 'very'"
+    },
+    {
+      "type": "trim",
+      "term": "FLAGRANT",
+      "trim_at": "FLAGRANT DELIT. In French law.",
+      "reason": "The body of FLAGRANT contains the embedded entries FLAGRANT DELIT and FLAGRANT NECESSITY merged in"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FLAVIANUM",
+      "old": "FLICHWiTE",
+      "new": "",
+      "reason": "OCR artifact: 'FLICHWiTE' appears at end of FLAVIANUM entry body — this is a stray headword from the next entry that got merged in"
+    },
+    {
+      "type": "trim",
+      "term": "FLAVIANUM",
+      "trim_at": "FLICHWiTE",
+      "reason": "The word 'FLICHWiTE' at the end of FLAVIANUM's body is a stray embedded headword"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FLECTA",
+      "old": "A feathered or: fleet.-arrow,",
+      "new": "A feathered or fleet arrow.",
+      "reason": "OCR errors: spurious colon and hyphen"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FLEE",
+      "old": "A' metaphorical",
+      "new": "A metaphorical",
+      "reason": "OCR error: spurious apostrophe after 'A'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FLAT",
+      "old": "Am. Dee. 309.",
+      "new": "Am. Dec. 309.",
+      "reason": "OCR error: 'Dee' should be 'Dec'"
+    },
+    {
+      "type": "trim",
+      "term": "FORTHCOMING",
+      "trim_at": "FORTHCOMING BOND. A bond given",
+      "reason": "FORTHCOMING BOND is a separate sub-entry embedded in the FORTHCOMING body after a paragraph break"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FORTHWITH",
+      "old": "a defendant {18",
+      "new": "a defendant is",
+      "reason": "OCR error: '{18' should be 'is'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FORTIA",
+      "old": "Bract. fols.\n138, 1388b.",
+      "new": "Bract. fols.\n138, 138b.",
+      "reason": "OCR error: '1388b' should be '138b'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FORTIA",
+      "old": "fortta",
+      "new": "fortia",
+      "reason": "OCR error: 'fortta' should be 'fortia'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FORTILITY",
+      "old": "11 Hen. VII. ¢. 18.",
+      "new": "11 Hen. VII. c. 18.",
+      "reason": "OCR error: '¢' should be 'c'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FORTUIT",
+      "old": "Fortuttment",
+      "new": "Fortuitement",
+      "reason": "OCR error: 'Fortuttment' should be 'Fortuitement' (French adverb)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FORTUITOUS",
+      "old": "not caused\nby either of the rties, nor such as they",
+      "new": "not caused\nby either of the parties, nor such as they",
+      "reason": "OCR error: 'rties' should be 'parties'"
+    },
+    {
+      "type": "trim",
+      "term": "FORTUNATUS",
+      "trim_at": "FORTY-HOURS' PROCESS. In practice",
+      "reason": "FORTY-HOURS' PROCESS is a separate dictionary entry embedded in FORTUNATUS body"
+    },
+    {
+      "type": "trim",
+      "term": "FORTY-DAYS",
+      "trim_at": "FORTY-DAYS COURT. In old English",
+      "reason": "FORTY-DAYS COURT is a separate dictionary entry embedded in FORTY-DAYS body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FORUM",
+      "old": "—FEorum actus.",
+      "new": "—Forum actus.",
+      "reason": "OCR error: 'FEorum' should be 'Forum'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FORUM",
+      "old": "Forum conise.",
+      "new": "Forum conscientiae.",
+      "reason": "OCR error: 'conise' appears to be a garbled rendering of 'conscientiae' (forum of conscience)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FORUM",
+      "old": "—Feram contentiosum.",
+      "new": "—Forum contentiosum.",
+      "reason": "OCR error: 'Feram' should be 'Forum'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FORUM",
+      "old": "Forum ean,\nrei.",
+      "new": "Forum eam,\nrei.",
+      "reason": "OCR error in 'Forum ean, rei' - likely 'Forum rei gentis' or similar; flagging garbled text"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FORUM",
+      "old": "St. Westm:\n2, c. 43.",
+      "new": "St. Westm.\n2, c. 43.",
+      "reason": "OCR error: colon after 'Westm' should be a period"
+    },
+    {
+      "type": "trim",
+      "term": "FORUM CONVENIENS",
+      "trim_at": "FORUM NON CONVENIENS",
+      "reason": "FORUM NON CONVENIENS is a separate dictionary entry embedded in FORUM CONVENIENS body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FORUM OPERATIO",
+      "old": "FORUM OPERATIO",
+      "new": "FOSSATURA",
+      "reason": "The body of this entry describes 'fossatura' (fosse-work service), and the next entry is FOSSAE - 'FORUM OPERATIO' appears to be a misidentified headword; the content matches FOSSATURA"
+    },
+    {
+      "type": "trim",
+      "term": "FORUM OPERATIO",
+      "trim_at": "FOSSAE",
+      "reason": "FOSSAE appears as an embedded entry headword within the FORUM OPERATIO body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FOSSATUM",
+      "old": "FOSSE-WAY, or FOSSE. One of the\nfour ancient Roman ways through England.\nSpelman.",
+      "new": "",
+      "reason": "FOSSE-WAY entry is embedded in FOSSATUM body after the main definition - should be trimmed"
+    },
+    {
+      "type": "trim",
+      "term": "FOSSATUM",
+      "trim_at": "FOSSE-WAY, or FOSSE. One of the",
+      "reason": "FOSSE-WAY is a separate dictionary entry embedded in FOSSATUM body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FORURTH",
+      "old": "In old records.\nof ground. Cowell.\n\nFORWARDING MERCHANT, or FOR-",
+      "new": "In old records. A furrow or strip of ground. Cowell.",
+      "reason": "OCR damage: definition text missing ('A furrow or strip') and next entry heading fragment 'FORWARDING MERCHANT, or FOR-' is merged in"
+    },
+    {
+      "type": "trim",
+      "term": "FORURTH",
+      "trim_at": "FORWARDING MERCHANT, or FOR-",
+      "reason": "Fragment of next entry heading merged into FORURTH body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FOREST",
+      "old": "—Forest courts. In Pinglish law.",
+      "new": "—Forest courts. In English law.",
+      "reason": "OCR error: 'Pinglish' should be 'English'"
+    },
+    {
+      "type": "trim",
+      "term": "FORESTALL",
+      "trim_at": "—Ferestalling. Obstructing the",
+      "reason": "The sub-entry '—Ferestalling' appears to be a corrupted/duplicate entry and the FORESTALL entry merges into FORESTALLING content"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FORESTALL",
+      "old": "—Ferestalling.",
+      "new": "—Forestalling.",
+      "reason": "OCR error: 'Ferestalling' should be 'Forestalling'"
+    },
+    {
+      "type": "trim",
+      "term": "FORESTALLING",
+      "trim_at": "FORESTALLING THE MARKET\nLoirdis",
+      "reason": "The body of FORESTALLING starts with what appears to be a fragment ('Loirdis assesouris forsaidis') before the actual FORESTALLING THE MARKET entry, suggesting content from another entry (likely a Scots law case citation) was merged in. The entry FORESTALLING THE MARKET appears embedded within."
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FORESTALLING THE MARKET",
+      "old": "4 BJ. Comm. 158.",
+      "new": "4 Bl. Comm. 158.",
+      "reason": "OCR error: 'BJ.' should be 'Bl.' (Blackstone's Commentaries)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FORESTALLING THE MARKET",
+      "old": "formerly an indictable offense {n England",
+      "new": "formerly an indictable offense in England",
+      "reason": "OCR error: '{n' should be 'in'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FORESTALLING THE MARKET",
+      "old": "acquiring 80\nlarge a quantity",
+      "new": "acquiring so large a quantity",
+      "reason": "OCR error: '80' should be 'so'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FORESTALLING THE MARKET",
+      "old": "Both forestalling and engrossing may enter. into",
+      "new": "Both forestalling and engrossing may enter into",
+      "reason": "OCR artifact: spurious period before 'into'"
+    },
+    {
+      "type": "trim",
+      "term": "FORFEITABLE",
+      "trim_at": "nexed by law to some illegal act",
+      "reason": "The body of FORFEITABLE continues beyond its definition into what is clearly the beginning of the FORFEITURE entry ('nexed by law to some illegal act or negligence in the owner of lands...' matching '2 Bl. Comm. 267' which is cited under FORFEITURE)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FORGERY",
+      "old": "falsely making or materially altering. with",
+      "new": "falsely making or materially altering, with",
+      "reason": "OCR error: period should be comma"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FORGERY",
+      "old": "The thing itself, so falsely made. imitated.\nor forged",
+      "new": "The thing itself, so falsely made, imitated, or forged",
+      "reason": "OCR errors: periods should be commas"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FORGERY",
+      "old": "arrangement of zgenuine facts",
+      "new": "arrangement of genuine facts",
+      "reason": "OCR error: 'zgenuine' should be 'genuine'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FORGERY",
+      "old": "ae x act, 1870. The statute 33 & 34\nVict. ¢. was passed for the punishment of\nBui. Law Dicr.(2p Ep.)—33\n\noe Sil of stock certificates",
+      "new": "The Forgery Act, 1870. The statute 33 & 34 Vict. c. 58 was passed for the punishment of forgery of stock certificates",
+      "reason": "OCR garbling of 'Forgery Act, 1870' and surrounding text"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FORISJURARE",
+      "old": "lost his rights as heir. Cange.-\nciam forisjurare.",
+      "new": "lost his rights as heir. Du Cange.—Patriam forisjurare.",
+      "reason": "OCR error: 'Cange.-' should be 'Du Cange.—' and 'ciam' should be part of 'Patriam'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FORISFAMILIATED",
+      "old": "forisfamillated (forisfamiliari)",
+      "new": "forisfamiliated (forisfamiliari)",
+      "reason": "OCR error: 'forisfamillated' has double 'l', should be 'forisfamiliated'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FORISJUDICATIO",
+      "old": "Co. Litt, 1000.",
+      "new": "Co. Litt. 100b.",
+      "reason": "OCR error: comma after 'Litt' should be period, and '1000' likely should be '100b' (a folio reference)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FORISFACERE",
+      "old": "against or beyond the,\nlaw.",
+      "new": "against or beyond the law.",
+      "reason": "OCR error: spurious comma after 'the'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FORISFACERE",
+      "old": "Forisfaccre, i. e., extra legem seu consuetudimem facere.",
+      "new": "Forisfacere, i. e., extra legem seu consuetudinem facere.",
+      "reason": "OCR errors: 'Forisfaccre' should be 'Forisfacere', 'consuetudimem' should be 'consuetudinem'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FORISFACERE",
+      "old": "Forisfacere, 7. e.,",
+      "new": "Forisfacere, i. e.,",
+      "reason": "OCR error: '7.' should be 'i.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FORMA",
+      "old": "—Forma et figura judicii. The form and\nshape of \"fadgment or judicial action.",
+      "new": "—Forma et figura judicii. The form and shape of judgment or judicial action.",
+      "reason": "OCR error: 'fadgment' should be 'judgment'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FORMA",
+      "old": "12 Coke, T.",
+      "new": "12 Coke, 7.",
+      "reason": "OCR error: 'T.' should be '7.' (a number, not a letter)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FORMEDON",
+      "old": "recover oar ainst the actual",
+      "new": "recover against the actual",
+      "reason": "OCR error: 'oar ainst' should be 'against'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FORMEDON",
+      "old": "—Formedon in the Scusctsane.",
+      "new": "—Formedon in the remainder.",
+      "reason": "OCR error: 'Scusctsane' is garbled and should be 'remainder' based on context (the three species are: descender, remainder, reverter)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FORLER-LAND",
+      "old": "pecyliar custom",
+      "new": "peculiar custom",
+      "reason": "OCR error: 'pecyliar' should be 'peculiar'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FORO",
+      "old": "deterniine causes",
+      "new": "determine causes",
+      "reason": "OCR error: 'deterniine' should be 'determine'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FORGE",
+      "old": "imitation of some else, with a view",
+      "new": "imitation of something else, with a view",
+      "reason": "OCR error: 'some else' should be 'something else'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FORFEITURE",
+      "old": "1. A punishment annexed by law to some felony or negligence.\n\nIn Scotch law, the loss of lands, tenements, or hereditaments",
+      "new": "1. A punishment annexed by law to some felony or negligence in the owner of lands, tenements, or hereditaments",
+      "reason": "OCR/merge error: 'In Scotch law' appears incorrectly inserted; the original text (matching FORFEITABLE overflow) should read as a continuation of point 1"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FORMED",
+      "old": "FORMED",
+      "new": "FORMED ACTION",
+      "reason": "The headword appears truncated; the body defines 'An action for which a set form of words is prescribed' suggesting the headword should be 'FORMED ACTION'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FORMED DESIGN",
+      "old": "128 Ala. 17%,\n~\n29 South. 569",
+      "new": "128 Ala. 179, 29 South. 569",
+      "reason": "OCR error: '17%' should be '179' and the tilde is spurious"
+    },
+    {
+      "type": "trim",
+      "term": "FOLGERE",
+      "trim_at": "FOOT OF THE FINE",
+      "reason": "Entry for FOOT OF THE FINE headword is merged at end of FOLGERE body"
+    },
+    {
+      "type": "trim",
+      "term": "FOLK-LAND",
+      "trim_at": "FOLK-MOTE. See",
+      "reason": "FOLK-LAND body appears to contain only a cross-reference that belongs to a FOLK-MOTE entry rather than being the definition of FOLK-LAND itself; likely OCR/merge issue"
+    },
+    {
+      "type": "flag",
+      "term": "FOLK-LAND",
+      "issue": "Body reads 'FOLK-MOTE. See Foic-Lanpv;' FoL_c-GEeMore.' which appears to be severely garbled OCR of cross-references; likely should be 'See FOLK-LAND; FOLK-GEMOTE' or similar"
+    },
+    {
+      "type": "trim",
+      "term": "FONDS",
+      "trim_at": "FONDS ET BIENS. Fr.",
+      "reason": "FONDS body contains two embedded entries (FONDS ET BIENS and FONDS PERDUS) that are separate headwords; FONDS body should be trimmed before these embedded entries"
+    },
+    {
+      "type": "trim",
+      "term": "FOOT",
+      "trim_at": "FOOT OF THE FINE. The",
+      "reason": "FOOT body contains embedded entry FOOT OF THE FINE followed by FOOTGELD; these are separate headwords merged into FOOT"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FOOT",
+      "old": "'-FOOTGELD. In the forest law. An\n»amercement for not cutting out the ball or\ncutting off the claws of a dog's.feet, (expeditating him.) To be quit of footgeld is to\nhave the privilege of keeping dogs in the forest unlasced without punishment or control.\nManwood.",
+      "new": "FOOTGELD. In the forest law. An amercement for not cutting out the ball or cutting off the claws of a dog's feet, (expeditating him.) To be quit of footgeld is to have the privilege of keeping dogs in the forest unlaced without punishment or control. Manwood.",
+      "reason": "OCR artifacts: leading apostrophe and angle bracket before FOOTGELD, 'unlasced' should be 'unlaced'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FOOT-PRINTS",
+      "old": "Burrill, Cire. Evy. 264.",
+      "new": "Burrill, Circ. Ev. 264.",
+      "reason": "OCR error: 'Cire. Evy.' should be 'Circ. Ev.' (abbreviation for Circumstantial Evidence)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FONDS ET BIENS",
+      "old": "168\nTl. 682, 48 N. BE. 454.",
+      "new": "168 Ill. 682, 48 N. E. 454.",
+      "reason": "OCR error: 'Tl.' should be 'Ill.' (Illinois) and 'BE.' should be 'E.' (North Eastern Reporter)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FONDS ET BIENS",
+      "old": "Adams v. Akerlund, 168\nTl. 682, 48 N. BE. 454.",
+      "new": "Adams v. Akerlund, 168 Ill. 682, 48 N. E. 454.",
+      "reason": "OCR error: 'Tl.' should be 'Ill.' and 'BE.' should be 'E.'"
+    },
+    {
+      "type": "trim",
+      "term": "FORBANNITUS",
+      "trim_at": "' FORBARRER. L. Fr.",
+      "reason": "FORBARRER entry is embedded at end of FORBANNITUS body"
+    },
+    {
+      "type": "trim",
+      "term": "FORDANNO",
+      "trim_at": "' FORDIKA",
+      "reason": "FORDIKA headword embedded at end of FORDANNO body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FORCE",
+      "old": "Watson v. Railway Co;\n7 Misc. Rep. 562, 28 N. Y. Supp. 84; Plank\nRoad Co. vy. Robbins, 22 Barb. (N. Y.)° 667.",
+      "new": "Watson v. Railway Co., 7 Misc. Rep. 562, 28 N. Y. Supp. 84; Plank Road Co. v. Robbins, 22 Barb. (N. Y.) 667.",
+      "reason": "OCR errors: semicolon after 'Co' should be period, 'vy.' should be 'v.', superscript '°' is OCR artifact"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FORCE",
+      "old": "reecous",
+      "new": "rescous",
+      "reason": "OCR error: 'reecous' should be 'rescous' (a legal term for rescuing goods)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FORCE",
+      "old": "the act Say age of was done with violence.",
+      "new": "the act complained of was done with violence.",
+      "reason": "OCR garble: 'Say age of' should be 'complained of'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FORCE",
+      "old": "under the peers of force (vis)",
+      "new": "under the peril of force (vis)",
+      "reason": "OCR error: 'peers' should be 'peril'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FORCED",
+      "old": "In practice. <A sale",
+      "new": "In practice. A sale",
+      "reason": "OCR artifact: '<A' should be 'A'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FORCIBLE",
+      "old": "Gore vy. Altice, 33 Wash. 335, T4 Pac. 556;",
+      "new": "Gore v. Altice, 33 Wash. 335, 74 Pac. 556;",
+      "reason": "OCR errors: 'vy.' should be 'v.' and 'T4' should be '74'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FORDA",
+      "old": "In old records. <A ford",
+      "new": "In old records. A ford",
+      "reason": "OCR artifact: '<A' should be 'A'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FORDANNO",
+      "old": "He\nSpelman.\nwho first assaulted another.",
+      "new": "He who first assaulted another. Spelman.",
+      "reason": "OCR line break disorder; 'Spelman.' citation misplaced"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FORENSIO",
+      "old": "cheniistry",
+      "new": "chemistry",
+      "reason": "OCR error: 'cheniistry' should be 'chemistry'"
+    },
+    {
+      "type": "headword",
+      "term": "FORENSIO",
+      "correct": "FORENSIC",
+      "reason": "Headword appears to be OCR error; body discusses 'forensic' medicine and the word 'Forensic' appears in the body text"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FORENSIS",
+      "old": "In eld Sootch law.",
+      "new": "In old Scotch law.",
+      "reason": "OCR errors: 'eld' should be 'old', 'Sootch' should be 'Scotch'"
+    },
+    {
+      "type": "trim",
+      "term": "FORENSIS",
+      "trim_at": "FORESAID is used in Scotch",
+      "reason": "FORESAID entry embedded at end of FORENSIS body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FOREHAND",
+      "old": "FOREHAND",
+      "new": "FOREHAND RENT",
+      "reason": "Body discusses 'forehand rent' specifically; though 'FOREHAND' alone may be acceptable"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FOREIGNER",
+      "old": "Yates v. Jams, 10 Tex. 168.",
+      "new": "Yates v. Iams, 10 Tex. 168.",
+      "reason": "OCR error: 'Jams' likely should be 'Iams' (a surname)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FOREJUDGE",
+      "old": "—Forejadger.",
+      "new": "—Forejudger.",
+      "reason": "OCR error: 'Forejadger' should be 'Forejudger'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FOREMAN",
+      "old": "who speaks or answera\nfor the jury.",
+      "new": "who speaks or answers for the jury.",
+      "reason": "OCR error: 'answera' should be 'answers'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FORESAID",
+      "old": "FORESAID is used in Scotch law as\naforesaid is in English, and sometimes, In a\nplural form, foresaids.",
+      "new": "FORESAID is used in Scotch law as aforesaid is in English, and sometimes, in a plural form, foresaids.",
+      "reason": "OCR capitalization error: 'In' should be 'in'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FOLO-GEMOTE",
+      "old": "FOLO-GEMOTE",
+      "new": "FOLK-GEMOTE",
+      "reason": "Headword misspelled; should be FOLK-GEMOTE based on body content and cross-reference in FOLK-LAND entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FOREFAULT",
+      "old": "To for\nfeit;: to lose.",
+      "new": "To forfeit; to lose.",
+      "reason": "OCR line break splitting 'forfeit' and extra colon after semicolon"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FOR",
+      "old": "Sweeny v. Eas-\nWall. 166, 17 L. Ed. 681;",
+      "new": "Sweeney v. Easter, Wall. 166, 17 L. Ed. 681;",
+      "reason": "OCR line break cut off case name 'Eas-[ter]' and party name 'Sweeney'"
+    },
+    {
+      "type": "flag",
+      "term": "FOLDAGE",
+      "issue": "Body reads 'ford for exemption' but likely should be 'lord for exemption' (consistent with context of lord of a manor)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FOLDAGE",
+      "old": "paid to\nthe ford for exemption",
+      "new": "paid to the lord for exemption",
+      "reason": "OCR error: 'ford' should be 'lord' in context of manorial rights"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FOREIN",
+      "old": "An old form of foreign, (q¢. v.)",
+      "new": "An old form of foreign, (q. v.)",
+      "reason": "OCR error: 'q¢.' should be 'q.'"
+    },
+    {
+      "type": "trim",
+      "term": "FOSSULUS",
+      "trim_at": "FOSTER\nFOSTER, v. To nourish",
+      "reason": "The FOSTER entry is merged into the FOSSULUS body after a paragraph break"
+    },
+    {
+      "type": "trim",
+      "term": "FOSTERING",
+      "trim_at": ". EOSTERLAND. Land given",
+      "reason": "A version of the FOSTERLAND entry is embedded in the FOSTERING body after a paragraph break, with damaged headword 'EOSTERLAND'"
+    },
+    {
+      "type": "trim",
+      "term": "FOUJDAR",
+      "trim_at": "=F\" court. In Hindu law",
+      "reason": "A sub-entry for Foujdar court is appended with garbled formatting '=F\"' instead of being properly formatted"
+    },
+    {
+      "type": "trim",
+      "term": "FOUR-MEMBER FIRM",
+      "trim_at": "FOUR-MONTHS' IMPRISONMENT",
+      "reason": "The FOUR-MONTHS' IMPRISONMENT entry is merged into the FOUR-MEMBER FIRM body"
+    },
+    {
+      "type": "trim",
+      "term": "FOY",
+      "trim_at": "FOYNER\nIn old English law",
+      "reason": "The FOYNER entry appears merged into or following FOY incorrectly"
+    },
+    {
+      "type": "trim",
+      "term": "FOYNER",
+      "trim_at": "FR., FRANCI\nFR., FRANCI. Lat.",
+      "reason": "Multiple FR. abbreviation entries are merged into the FOYNER body"
+    },
+    {
+      "type": "trim",
+      "term": "FPARDING-DEAL",
+      "trim_at": ". FARE. A voyage or passage",
+      "reason": "A FARE entry is embedded in the FPARDING-DEAL body after a paragraph break"
+    },
+    {
+      "type": "headword",
+      "term": "FPARDING-DEAL",
+      "correct": "FOARDING-DEAL",
+      "reason": "OCR error: 'FPARDING' should be 'FOARDING' (the fourth part of an acre)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FOUNDEROSA",
+      "old": "out of repatr, as a road",
+      "new": "out of repair, as a road",
+      "reason": "OCR error: 'repatr' should be 'repair'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FOX'S LIBEL ACT",
+      "old": "of the sense eecribe' to it",
+      "new": "of the sense ascribed to it",
+      "reason": "OCR error: 'eecribe'' should be 'ascribed'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FR",
+      "old": "Corpus Juris Ot\nvtlis",
+      "new": "Corpus Juris Civilis",
+      "reason": "OCR error: 'Ot vtlis' should be 'Civilis'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FR",
+      "old": "the several extracts from\njuristic writings of which it 1s composed",
+      "new": "the several extracts from juristic writings of which it is composed",
+      "reason": "OCR error: '1s' should be 'is'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FRAGMENTA",
+      "old": "Corpus Juris Ctvilis",
+      "new": "Corpus Juris Civilis",
+      "reason": "OCR error: 'Ctvilis' should be 'Civilis'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FRACTIONAL",
+      "old": "does not measure\nup to the full extent or include the whole\nacreage, because a portion of it is cut off by\nan overlapping survey, a river or lake, or\nsome other external interference. See Tolleston Club v. State, 141 Ind. 197, 38 N. EB. 214",
+      "new": "does not measure up to the full extent or include the whole acreage, because a portion of it is cut off by an overlapping survey, a river or lake, or some other external interference. See Tolleston Club v. State, 141 Ind. 197, 38 N. E. 214",
+      "reason": "OCR error: 'N. EB.' should be 'N. E.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FRACTIONAL",
+      "old": "the exterior\nboundary lines are laid down to include the\nwhole of such a division ar such a claim",
+      "new": "the exterior boundary lines are laid down to include the whole of such a division or such a claim",
+      "reason": "OCR error: 'ar' should be 'or'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FRACTION",
+      "old": "Generally the ree does not\nallow the fraction of a day",
+      "new": "Generally the law does not allow the fraction of a day",
+      "reason": "OCR error: 'ree' should be 'law'"
+    },
+    {
+      "type": "flag",
+      "term": "FOUJDAR",
+      "issue": "The sub-entry '=F\" court. In Hindu law. A tribunal for administering criminal law.' appears to be a garbled sub-entry that should read '—Foujdar court.' with proper formatting"
+    },
+    {
+      "type": "flag",
+      "term": "FOX-HUNTING",
+      "issue": "Entry appears to be a fabricated/erroneous entry not typical of Black's Law Dictionary 2nd edition; the citations '4 Bl. Comm. 116' do not match this topic"
+    },
+    {
+      "type": "flag",
+      "term": "FOURSQUARE",
+      "issue": "Entry appears to be a fabricated/erroneous entry; the definition repeats that of FOUNT and does not correspond to a real legal term"
+    },
+    {
+      "type": "flag",
+      "term": "FOURTH",
+      "issue": "Entry appears to be a fabricated/erroneous entry not typical of Black's Law Dictionary 2nd edition"
+    },
+    {
+      "type": "flag",
+      "term": "FOURTH DAY",
+      "issue": "Entry appears to be a fabricated/erroneous entry not typical of Black's Law Dictionary 2nd edition"
+    },
+    {
+      "type": "flag",
+      "term": "FOUR-IN-HAND",
+      "issue": "Entry appears to be a fabricated/erroneous entry not typical of Black's Law Dictionary 2nd edition"
+    },
+    {
+      "type": "flag",
+      "term": "FOUR-FOLD, PUNISHMENT",
+      "issue": "Entry appears to be a fabricated/erroneous entry; unusual headword format and content"
+    },
+    {
+      "type": "flag",
+      "term": "FOUR-MEMBER FIRM",
+      "issue": "Entry appears to be a fabricated/erroneous entry not typical of Black's Law Dictionary 2nd edition"
+    },
+    {
+      "type": "flag",
+      "term": "FOURIERISM",
+      "issue": "Entry appears to be a fabricated/erroneous entry not typical of Black's Law Dictionary 2nd edition"
+    },
+    {
+      "type": "flag",
+      "term": "FOY",
+      "issue": "Entry definition 'A fine or amercement for a misdeed' does not match the known legal meaning of 'foy' (a farewell feast); likely erroneous"
+    },
+    {
+      "type": "flag",
+      "term": "FOYNER",
+      "issue": "Entry definition 'A fine or amercement for a misdeed' appears erroneous/fabricated; real term means a thrusting weapon"
+    },
+    {
+      "type": "flag",
+      "term": "FOX-HUNTING",
+      "issue": "Entry content and citations appear fabricated"
+    },
+    {
+      "type": "flag",
+      "term": "FOWLS",
+      "issue": "Entry is missing its headword qualifier — appears to begin mid-sentence 'Such fowls as are preserved under the game laws in warrens' without a proper introductory phrase; likely truncated"
+    },
+    {
+      "type": "flag",
+      "term": "FOUR-CORNER RULE",
+      "issue": "This appears to be a duplicate/variant of FOUR CORNERS; may be a fabricated entry"
+    },
+    {
+      "type": "flag",
+      "term": "FOULE",
+      "issue": "Entry may be correct but 'Merl. Rep. h. t.' citation seems unusual for a French law term in Black's"
+    },
+    {
+      "type": "flag",
+      "term": "FOULEE",
+      "issue": "Same as FOULE — may be correct but warrants verification"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FRANCHISE",
+      "old": "of common.",
+      "new": "of common",
+      "reason": "Erroneous period mid-phrase; 'common right' continues on next line"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FRANCHISE",
+      "old": "derived.",
+      "new": "derived",
+      "reason": "Erroneous period mid-sentence"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FRANCHISE",
+      "old": "franchise {s defined",
+      "new": "franchise is defined",
+      "reason": "OCR error: '{s' should be 'is'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FRANCHISE",
+      "old": "38 Minn. 3866;",
+      "new": "38 Minn. 386;",
+      "reason": "OCR error: '3866' should be '386' (extra digit)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FRANCHISE",
+      "old": "Lasher v. People, 183 Il]. 226",
+      "new": "Lasher v. People, 183 Ill. 226",
+      "reason": "OCR error: 'Il].' should be 'Ill.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FRANCHISE",
+      "old": "Chicago & W. I. R.\nCo. v. Dunbar, 95 I]. 575",
+      "new": "Chicago & W. I. R.\nCo. v. Dunbar, 95 Ill. 575",
+      "reason": "OCR error: 'I].' should be 'Ill.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FRANCHISE",
+      "old": "Morgan v. Louisiana, 93 U.\n8S. 228",
+      "new": "Morgan v. Louisiana, 93 U.\nS. 228",
+      "reason": "OCR error: '8S.' should be 'S.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FRANCHISE",
+      "old": "incor\nrated bank",
+      "new": "incorporated bank",
+      "reason": "OCR error: word broken incorrectly, missing 'po'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FRANCHISE",
+      "old": "People v. Utica\nns. Co.",
+      "new": "People v. Utica\nIns. Co.",
+      "reason": "OCR error: 'ns.' should be 'Ins.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FRANCHISE",
+      "old": "both in a on and popular sense",
+      "new": "both in a legal and popular sense",
+      "reason": "OCR error: 'a on' should be 'a legal'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FRANCHISE",
+      "old": "the different wers of a",
+      "new": "the different powers of a",
+      "reason": "OCR error: 'wers' should be 'powers'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FRANCHISE",
+      "old": "the right to hold and: disse of property",
+      "new": "the right to hold and dispose of property",
+      "reason": "OCR error: 'disse' should be 'dispose'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FRANCHISE",
+      "old": "In a popuar sense",
+      "new": "In a popular sense",
+      "reason": "OCR error: 'popuar' should be 'popular'"
+    },
+    {
+      "type": "trim",
+      "term": "FRANKING",
+      "trim_at": "FRANKELEYN, (spelled, also,",
+      "reason": "Entry for FRANKELEYN is embedded at end of FRANKING body; it is a separate dictionary entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FRATER",
+      "old": "hsreditate paterna",
+      "new": "hereditate paterna",
+      "reason": "OCR error: 'hsreditate' should be 'hereditate'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FRATERNITY",
+      "old": "is sqme people of a place",
+      "new": "is some people of a place",
+      "reason": "OCR error: 'sqme' should be 'some'"
+    },
+    {
+      "type": "trim",
+      "term": "FRAUDARE",
+      "trim_at": "'FRAUDULENT. Based on fraud",
+      "reason": "Entry for FRAUDULENT is embedded at end of FRAUDARE body; it is a separate dictionary entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FRAUDARE",
+      "old": "a purpose or Gesign to carry out a fraud",
+      "new": "a purpose or design to carry out a fraud",
+      "reason": "OCR error: 'Gesign' should be 'design'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FRAUDULENT",
+      "old": "BRhame vy. Lewis",
+      "new": "Rhame v. Lewis",
+      "reason": "OCR error: 'BRhame vy.' should be 'Rhame v.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FRAUDULENT",
+      "old": "Land v.\nEffries, 5 Rand. (Nee) 601",
+      "new": "Land v.\nEffries, 5 Rand. (Va.) 601",
+      "reason": "OCR error: '(Nee)' should be '(Va.)'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FRAUDEM",
+      "old": "Fraus est odiosa et non presumenda.",
+      "new": "Fraus est odiosa et non praesumenda.",
+      "reason": "OCR error: 'presumenda' should be 'praesumenda' consistent with FRAUS entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FRAUS",
+      "old": "Fraus est celare frandem.",
+      "new": "Fraus est celare fraudem.",
+      "reason": "OCR error: 'frandem' should be 'fraudem'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FRAUS",
+      "old": "Fraus est odiosa et non prsesumenda.",
+      "new": "Fraus est odiosa et non praesumenda.",
+      "reason": "OCR error: 'prsesumenda' should be 'praesumenda'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FRAUS",
+      "old": "Fleta, lib. 1, ¢c\n18, § 15",
+      "new": "Fleta, lib. 1, c.\n18, § 15",
+      "reason": "OCR error: '¢c' should be 'c.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FREDUM",
+      "old": "paid the muayistrate",
+      "new": "paid the magistrate",
+      "reason": "OCR error: 'muayistrate' should be 'magistrate'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FREIGHT",
+      "old": "paid for the carringe of goods on\nland",
+      "new": "paid for the carriage of goods on\nland",
+      "reason": "OCR error: 'carringe' should be 'carriage'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FREIGHT",
+      "old": "paid for the carriage of goods on\nland from place to place, (usually by a rallroad company",
+      "new": "paid for the carriage of goods on\nland from place to place, (usually by a railroad company",
+      "reason": "OCR error: 'rallroad' should be 'railroad'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FREIGHT",
+      "old": "Patapsco Ins. Co.\nSO a 7 Gill & J. (Md.) 300",
+      "new": "Patapsco Ins. Co.\nv. 7 Gill & J. (Md.) 300",
+      "reason": "OCR error: 'SO a' should be 'v.' (case citation abbreviation)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FRENCHMAN",
+      "old": "Bract. Hib. 3,\ntr. 2, c«. 15",
+      "new": "Bract. lib. 3,\ntr. 2, c. 15",
+      "reason": "OCR error: 'Hib.' should be 'lib.' and 'c«.' should be 'c.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FRENDWITE",
+      "old": "harbored apn outlawed friend",
+      "new": "harbored an outlawed friend",
+      "reason": "OCR error: 'apn' should be 'an'"
+    },
+    {
+      "type": "trim",
+      "term": "FREOBORGH",
+      "trim_at": "FREQUENT, +v. To visit often",
+      "reason": "Entry for FREQUENT is embedded at end of FREOBORGH body; it is a separate dictionary entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FREOBORGH",
+      "old": "FREQUENT, +v. To visit often",
+      "new": "FREQUENT, v. To visit often",
+      "reason": "OCR error: '+v.' should be 'v.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FREQUENT",
+      "old": "1. 'To visit often",
+      "new": "v. To visit often",
+      "reason": "OCR error: '1.' should be 'v.' (this is a verb definition marker)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FRESH",
+      "old": "where a man had n disseised",
+      "new": "where a man had been disseised",
+      "reason": "OCR error: 'had n disseised' should be 'had been disseised'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FRESH",
+      "old": "Force done within fort Fitzh.",
+      "new": "Force done within forty days. Fitzh.",
+      "reason": "OCR error: 'fort' should be 'forty days'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FRESH",
+      "old": "he heir or\nreversioner in a case",
+      "new": "The heir or\nreversioner in a case",
+      "reason": "OCR error: 'he heir' should be 'The heir'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FRESH",
+      "old": "People v. Pool, Cal. 578",
+      "new": "People v. Pool, 8 Cal. 578",
+      "reason": "OCR error: volume number likely missing before 'Cal.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FRETEUR",
+      "old": "In French warine law.",
+      "new": "In French marine law.",
+      "reason": "OCR error: 'warine' should be 'marine'"
+    },
+    {
+      "type": "headword",
+      "term": "FRETTUM",
+      "correct": "FRETTUM, FRECTUM",
+      "reason": "The body begins 'FRECTUM.' suggesting the headword should include both forms; a separate entry FRETTUM, FRECTUM already exists which is the correct form"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FREEMAN",
+      "old": "5 & 6 Wm. [V. ¢c. 76",
+      "new": "5 & 6 Wm. IV. c. 76",
+      "reason": "OCR error: '[V.' should be 'IV.' and '¢c.' should be 'c.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FREEHOLD",
+      "old": "a freehold which has descended to a man, upon\nwhich he may enter at pleasure, but whi...",
+      "new": "a freehold which has descended to a man, upon\nwhich he may enter at pleasure, but which...",
+      "reason": "OCR truncation artifact; 'whi...' should be 'which'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FRESCA",
+      "old": "Fresh water,\nor rain and land flood.\n\nfollowing",
+      "new": "Fresh water,\nor rain and land flood.",
+      "reason": "OCR artifact: stray word 'following' appended after definition"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FUND",
+      "old": "uast pledging in advance",
+      "new": "vast pledging in advance",
+      "reason": "OCR error: 'uast' should be 'vast'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FUNGIBLE THINGS",
+      "old": "cannot be ance oe indifferently one for another",
+      "new": "cannot be used indifferently one for another",
+      "reason": "OCR error: 'ance oe' is garbled text"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FURCA",
+      "old": "—Furca et flagellum. Gallows and fe\nTenure ad furcam et flagellum, tenure by ga\nlows and whip.",
+      "new": "—Furca et flagellum. Gallows and whip. Tenure ad furcam et flagellum, tenure by gallows and whip.",
+      "reason": "OCR error: 'fe' and 'ga lows' are broken words from 'whip' and 'gallows'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FURCA",
+      "old": "—Eurea et fossa.",
+      "new": "—Furca et fossa.",
+      "reason": "OCR error: 'Eurea' should be 'Furca'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FURIOSUS",
+      "old": "An insane man; &\nmadman; a lunatic.",
+      "new": "An insane man; a madman; a lunatic.",
+      "reason": "OCR error: '&' should be 'a'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FURIOSUS",
+      "old": "- Fariosus solo furore punitur.",
+      "new": "Furiosus solo furore punitur.",
+      "reason": "OCR error: 'Fariosus' should be 'Furiosus'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FURIOSUS",
+      "old": "Fariosus stipulare non potest nec aliquid negotium agere",
+      "new": "Furiosus stipulare non potest nec aliquid negotium agere",
+      "reason": "OCR error: 'Fariosus' should be 'Furiosus'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FURLOUGH",
+      "old": "espe-\nClally",
+      "new": "especially",
+      "reason": "OCR error: line break and capital C in middle of word"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FURNITURE",
+      "old": "Bell v. Golding, 27 Ind. 1738.",
+      "new": "Bell v. Golding, 27 Ind. 173.",
+      "reason": "OCR error: '1738' likely should be '173' (page/citation number with extra digit)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FURNITURE",
+      "old": "Weaver v. The 8S. G. Owens",
+      "new": "Weaver v. The S. G. Owens",
+      "reason": "OCR error: '8S.' should be 'S.' (8 misread as S prefix)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FURNITURE",
+      "old": "will not pass hy a bequest",
+      "new": "will not pass by a bequest",
+      "reason": "OCR error: 'hy' should be 'by'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FURTHER",
+      "old": "occassionally",
+      "new": "occasionally",
+      "reason": "OCR error: double 's' in 'occasionally'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FURTHER",
+      "old": "Pennsylvania Co. v. Loughlin, 1389 Pa. 612",
+      "new": "Pennsylvania Co. v. Loughlin, 139 Pa. 612",
+      "reason": "OCR error: '1389' should be '139' (citation year/page garbled)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FURTHER",
+      "old": "—Further ections.",
+      "new": "—Further directions.",
+      "reason": "OCR error: 'ections' should be 'directions'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FURTHER",
+      "old": "decretal or-ler",
+      "new": "decretal order",
+      "reason": "OCR error: 'or-ler' should be 'order'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FURTHERANCE",
+      "old": "Powers v. Comm., 114 Ky. 2387, 70 S..-\nW. 652.",
+      "new": "Powers v. Comm., 114 Ky. 237, 70 S. W. 652.",
+      "reason": "OCR error: '2387' should be '237' and 'S..-' is broken text for 'S.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FURTUM",
+      "old": "—Furtaum manifestum.",
+      "new": "—Furtum manifestum.",
+      "reason": "OCR error: 'Furtaum' should be 'Furtum'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FURTUM",
+      "old": "Bract. fol. 1500.",
+      "new": "Bract. fol. 150.",
+      "reason": "OCR error: '1500' should be '150' (folio citation with extra zero)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FURTUM",
+      "old": "Furtum est contrectatio rei aliens",
+      "new": "Furtum est contrectatio rei alienae",
+      "reason": "OCR error: 'aliens' should be 'alienae' (Latin genitive feminine)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FURTUM",
+      "old": "$3 Inst.",
+      "new": "3 Inst.",
+      "reason": "OCR error: '$3' should be '3'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FUSTIGATIO",
+      "old": "lib. 3, tr. 1, ¢. 6.",
+      "new": "lib. 3, tr. 1, c. 6.",
+      "reason": "OCR error: '¢' should be 'c'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FUTURES",
+      "old": "there is a rominal contract of sule for",
+      "new": "there is a nominal contract of sale for",
+      "reason": "OCR error: 'rominal' should be 'nominal' and 'sule' should be 'sale'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FUTURES",
+      "old": "King v. Quidnick Co., 14 R. I. 1388",
+      "new": "King v. Quidnick Co., 14 R. I. 138",
+      "reason": "OCR error: '1388' should be '138'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FUTURES",
+      "old": "26 N. EB. 568",
+      "new": "26 N. E. 568",
+      "reason": "OCR error: 'EB.' should be 'E.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FUTURI",
+      "old": "(et all men now living",
+      "new": "(let all men now living",
+      "reason": "OCR error: 'et' should be 'let' in the English translation"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FYRD",
+      "old": "trinoda necesst-.\ntas.",
+      "new": "trinoda necessitas.",
+      "reason": "OCR error: word broken across lines, 'necesst- tas' should be 'necessitas'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FYRD",
+      "old": "a summons to join the\nfyrd or army.—Fyrdsocne, (or fyrdsoken.)\nExemption from military duty: exemption from\nservice in the fyrd.—Fyrdwite. A fine imposed for neglecting to join the fyrd when srmmoned.",
+      "new": "a summons to join the fyrd or army.—Fyrdsocne, (or fyrdsoken.) Exemption from military duty; exemption from service in the fyrd.—Fyrdwite. A fine imposed for neglecting to join the fyrd when summoned.",
+      "reason": "OCR error: 'srmmoned' should be 'summoned'"
+    },
+    {
+      "type": "trim",
+      "term": "FYRD",
+      "trim_at": "G. In the Law French orthography",
+      "reason": "Entry for the letter G is merged into the FYRD entry body"
+    },
+    {
+      "type": "trim",
+      "term": "FUTURI",
+      "trim_at": "A Celtic word, meaning.",
+      "reason": "FUZ/FUST entry merged into FUTURI body"
+    },
+    {
+      "type": "trim",
+      "term": "FUSTIGATIO",
+      "trim_at": "In old English law. A staff,",
+      "reason": "FUSTIS entry content merged into FUSTIGATIO body"
+    },
+    {
+      "type": "trim",
+      "term": "FUNDI",
+      "trim_at": "FUNDI PATRIMONIALES. Lands of",
+      "reason": "FUNDI PATRIMONIALES entry is duplicated/merged into FUNDI body"
+    },
+    {
+      "type": "trim",
+      "term": "FUTURE",
+      "trim_at": "FUTURE DEBT. In Scotch law.",
+      "reason": "FUTURE DEBT and FUTURE ESTATE entries merged into FUTURE body"
+    },
+    {
+      "type": "trim",
+      "term": "FUNGIBLES",
+      "trim_at": "FUNGIBLES RES. Lat. In the civil",
+      "reason": "FUNGIBLES entry headword should be FUNGIBILES RES or similar; body contains what appears to be a separate entry merged in"
+    },
+    {
+      "type": "flag",
+      "term": "FUNDANDAE",
+      "issue": "The entry appears incomplete - likely the full Latin term is missing from the headword (possibly 'FUNDANDAE JURISDICTIONIS' or similar), and the definition seems to start mid-sentence without identifying the subject"
+    },
+    {
+      "type": "flag",
+      "term": "FUNGIBLES",
+      "issue": "The headword 'FUNGIBLES' with body starting 'FUNGIBLES RES. Lat.' suggests the headword may actually be 'FUNGIBILES RES' and the entry is malformed"
+    },
+    {
+      "type": "flag",
+      "term": "FYLE",
+      "issue": "Cross-reference at end reads 'See FY.e.' which appears to be OCR damage - likely 'See FYLE' or 'See FYLED'"
+    },
+    {
+      "type": "flag",
+      "term": "FURANDI",
+      "issue": "Entry body 'Lat. An intention of stealing.' is very brief and likely missing the full Latin phrase as headword - probably should be 'ANIMUS FURANDI'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FRIARS",
+      "old": "(8) Dominicans, or",
+      "new": "(3) Dominicans, or",
+      "reason": "OCR error: '8' should be '3' in numbered list"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FRIENDLY SOCIETIES",
+      "old": "in aickness, infancy,",
+      "new": "in sickness, infancy,",
+      "reason": "OCR error: 'aickness' should be 'sickness'"
+    },
+    {
+      "type": "trim",
+      "term": "FRIVOLOUS",
+      "trim_at": "FRODMORTEL, or FREOMORT",
+      "reason": "Entry for FRODMORTEL merged into FRIVOLOUS body"
+    },
+    {
+      "type": "trim",
+      "term": "FRUCTITIUM",
+      "trim_at": "breaking or wreck of ships",
+      "reason": "Fragment of another entry merged into FRUCTITIUM body; 'Arable land. Mon. Angl.' is followed by unrelated text about naufragium"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FRUCTUS",
+      "old": "—Eructus fundi.",
+      "new": "—Fructus fundi.",
+      "reason": "OCR error: 'Eructus' should be 'Fructus'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FRUCTUS",
+      "old": "Al] revenues and recompe which, though not fruits, properly speakng,",
+      "new": "All revenues and recompense which, though not fruits, properly speaking,",
+      "reason": "OCR errors: 'Al]' -> 'All', 'recompe' -> 'recompense', 'speakng' -> 'speaking'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FRUCTUS",
+      "old": "The fruits of a wine when they are separated from\nit.",
+      "new": "The fruits of a thing when they are separated from it.",
+      "reason": "OCR error: 'wine' should be 'thing' (referring to fructus separati)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FRUCTUS",
+      "old": "Fructus augent hsreditatem.",
+      "new": "Fructus augent hereditatem.",
+      "reason": "OCR error: 'hsreditatem' should be 'hereditatem'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FRUIT",
+      "old": "in popular languase are called",
+      "new": "in popular language are called",
+      "reason": "OCR error: 'languase' should be 'language'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FRUIT",
+      "old": "serve for the reroduction of their species.",
+      "new": "serve for the reproduction of their species.",
+      "reason": "OCR error: 'reroduction' should be 'reproduction'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FRUIT",
+      "old": "interest on re an example.",
+      "new": "interest on money is an example.",
+      "reason": "OCR error: 'interest on re' is garbled; should be 'interest on money is'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FRUMGYLD",
+      "old": "made to the kindred of a slain person fn recompense",
+      "new": "made to the kindred of a slain person in recompense",
+      "reason": "OCR error: 'fn' should be 'in'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FRUSSURA",
+      "old": "mequit cum effectu. [Ie sues",
+      "new": "nequit cum effectu. He sues",
+      "reason": "OCR errors: 'mequit' should be 'nequit', '[Ie' should be 'He'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FRUSSURA",
+      "old": "That power is fo\n\n'no purpose",
+      "new": "That power is to no purpose",
+      "reason": "OCR error: 'fo' should be 'to'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FRUSSURA",
+      "old": "Frustra fit per plura, quod fierl potest",
+      "new": "Frustra fit per plura, quod fieri potest",
+      "reason": "OCR error: 'fierl' should be 'fieri'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FRUSSURA",
+      "old": "Frustra legis auxilium invocat [querit] qui in legem committit.",
+      "new": "Frustra legis auxilium invocat [quaerit] qui in legem committit.",
+      "reason": "OCR error: 'querit' should be 'quaerit'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FRUSSURA",
+      "old": "Halk Lat. Max. 50.",
+      "new": "Halki. Lat. Max. 50.",
+      "reason": "OCR error in citation abbreviation"
+    },
+    {
+      "type": "trim",
+      "term": "FRODMORTEL",
+      "trim_at": "FRONTAGE—FRONTAGER. In Eng:",
+      "reason": "Entry for FRONTAGE/FRONTAGER merged into FRODMORTEL body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FRODMORTEL",
+      "old": "Mon. Ang}. t. 1, p. 173.",
+      "new": "Mon. Angl. t. 1, p. 173.",
+      "reason": "OCR error: 'Ang}' should be 'Angl'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FRODMORTEL",
+      "old": "lability\nof frontagers",
+      "new": "liability of frontagers",
+      "reason": "OCR error: 'lability' should be 'liability'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FRODMORTEL",
+      "old": "local {mprovements",
+      "new": "local improvements",
+      "reason": "OCR error: '{mprovements' should be 'improvements'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FRIVOLOUS",
+      "old": "Strong v.\nSproul, 538 N. Y. 499",
+      "new": "Strong v. Sproul, 53 N. Y. 499",
+      "reason": "OCR error: '538' should likely be '53' based on N.Y. reporter volumes"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FRIVOLOUS",
+      "old": "Gray v. Gidiere, -4\nStrob. (S. C.) 442",
+      "new": "Gray v. Gidiere, 4 Strob. (S. C.) 442",
+      "reason": "OCR error: '-4' should be '4'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FRIVOLOUS",
+      "old": "Peacock v. Williams (e.\nC.) 110 Fed. 916.",
+      "new": "Peacock v. Williams (C. C.) 110 Fed. 916.",
+      "reason": "OCR error: '(e.\nC.)' should be '(C. C.)'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FRIVOLOUS",
+      "old": "Brown v. Jenison, 1 Code\nR. N. S. (N. Y¥.) 157.",
+      "new": "Brown v. Jenison, 1 Code R. N. S. (N. Y.) 157.",
+      "reason": "OCR error: 'Y¥.' should be 'Y.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FUAGO, FOCAGE",
+      "old": "levied by Edward ITI.",
+      "new": "levied by Edward III.",
+      "reason": "OCR error: 'ITI' should be 'III'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FUERO",
+      "old": "—Euero de m A special tribunal",
+      "new": "—Fuero de marina. A special tribunal",
+      "reason": "OCR error: 'Euero de m' is garbled and should be 'Fuero de marina'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FUERO",
+      "old": "Ir contra fuero,",
+      "new": "Ir contra fuero,",
+      "reason": "No change needed - this appears to be Spanish"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FUERO",
+      "old": "promulgated by Alhonso the Tearned, (el Sabto.)",
+      "new": "promulgated by Alfonso the Learned, (el Sabio.)",
+      "reason": "OCR errors: 'Alhonso' -> 'Alfonso', 'Tearned' -> 'Learned', 'Sabto' -> 'Sabio'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FUERO",
+      "old": "published\nae A. D. 982.",
+      "new": "published A. D. 982.",
+      "reason": "OCR error: 'ae' is spurious"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FUGITIVE",
+      "old": "Roberts v. ~\nevade arrest",
+      "new": "evade arrest",
+      "reason": "OCR artifact: 'Roberts v. ~' appears to be a garbled line break in the middle of the sentence"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FUGITIVE",
+      "old": "People v. Hyatt, 172 N. Y. 176, 64 N. EB.",
+      "new": "People v. Hyatt, 172 N. Y. 176, 64 N. E.",
+      "reason": "OCR error: 'EB.' should be 'E.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FUGUES",
+      "old": "See AvUdence.",
+      "new": "See Automatism.",
+      "reason": "OCR error: 'AvUdence' is garbled; given context of ambulatory automatism, likely a cross-reference"
+    },
+    {
+      "type": "flag",
+      "term": "FUGUES",
+      "issue": "Body reads 'See AvUdence. Ambulatory automatism.' - 'AvUdence' appears to be a severely garbled cross-reference word; unclear what the correct term should be"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FULL",
+      "old": "Ample; complete; perfect; immature; not wanting",
+      "new": "Ample; complete; perfect; mature; not wanting",
+      "reason": "OCR error: 'immature' should be 'mature' - the definition means complete/not lacking"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FUNCTIONARY",
+      "old": "Bui.Law Dicr.(2p Ep.)—34\n\n§29",
+      "new": "",
+      "reason": "OCR artifacts: printer's reference marks embedded in entry body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FUMAGE",
+      "old": "The game as fuage,",
+      "new": "The same as fuage,",
+      "reason": "OCR error: 'game' should be 'same'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FUMAGE",
+      "old": "Comm. 324.",
+      "new": "1 Bl. Comm. 324.",
+      "reason": "OCR error: citation reference truncated, should include '1 Bl.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FUNCTION",
+      "old": "Dig. 82,\n65, 1.",
+      "new": "Dig. 32, 65, 1.",
+      "reason": "OCR error: '82' should be '32'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FUAGE, FOCAGE",
+      "old": "levied by Edward ITI.",
+      "new": "levied by Edward III.",
+      "reason": "OCR error: 'ITI' should be 'III'"
+    },
+    {
+      "type": "trim",
+      "term": "FUAGE",
+      "trim_at": "FOCAGE. Hearth money.",
+      "reason": "FUAGE entry appears to contain a duplicate/merged entry for FUAGE, FOCAGE"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FUGITATE",
+      "old": "in Scotch practice.",
+      "new": "In Scotch practice.",
+      "reason": "OCR error: lowercase 'in' should be capitalized at start of body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FRIDHBURGUS",
+      "old": "Bract. fol. 124b.",
+      "new": "Bract. fol. 124b.",
+      "reason": "No change needed"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FRITH",
+      "old": "Frithda. Guildhall;",
+      "new": "Frithgild. Guildhall;",
+      "reason": "OCR error: 'Frithda' appears to be 'Frithgild' - a guild for peace maintenance, consistent with the definition given"
+    },
+    {
+      "type": "flag",
+      "term": "FRITH",
+      "issue": "'Frithda. Guildhall; a company or fraternity for the maintenance of peace' - 'Frithda' may be OCR corruption of 'Frithgild' or another term; needs verification"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FRUCTUS",
+      "old": "Sparrow <\nv. Pond,",
+      "new": "Sparrow v. Pond,",
+      "reason": "OCR error: '<' is spurious character and line break splits citation"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FRUCTUS",
+      "old": "16 L. R. A. 108,",
+      "new": "16 L. R. A. 103,",
+      "reason": "OCR error: '108' should be '103' matching the earlier citation of same case"
+    },
+    {
+      "type": "flag",
+      "term": "FRODMORTEL",
+      "issue": "Entry body starts with 'or FREOMORTEL' suggesting the headword should be 'FRODMORTEL, or FREOMORTEL' - this appears to be a continuation/duplicate of the definition also embedded at end of FRIVOLOUS entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FRODMORTEL",
+      "old": "An imniunity for committing manslaughter.",
+      "new": "An immunity for committing manslaughter.",
+      "reason": "OCR error: 'imniunity' should be 'immunity'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FRIVOLOUS",
+      "old": "An imniunity for committing manslaughter.\nMon. Ang}. t. 1, p. 178.",
+      "new": "An immunity for committing manslaughter. Mon. Angl. t. 1, p. 178.",
+      "reason": "OCR errors in embedded FRODMORTEL entry: 'imniunity'->'immunity', 'Ang}'-> 'Angl'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "FUERO",
+      "old": "\"cartas pucblas.\"",
+      "new": "\"cartas pueblas.\"",
+      "reason": "OCR error: 'pucblas' should be 'pueblas'"
+    }
+  ],
+  "errors": [
+    {
+      "batch": 0,
+      "error": "JSON parse error: Looking through all entries carefully for OCR errors, trim issues, and headword problems:\n\n```json\n[\n  {\"type\": \"ocr_fix\", \"term\": \"FABRICATE\", \"old\": \"~Fabricated evidence. Evidence manufac\\ntured or"
+    },
+    {
+      "batch": 3,
+      "error": "JSON parse error: ```json\n[\n  {\"type\": \"ocr_fix\", \"term\": \"FELONIA\", \"old\": \"* {§ntention.\", \"new\": \"intention.\", \"reason\": \"OCR artifact: asterisk and curly brace with garbled characters should be plain text continuat"
+    }
+  ],
+  "by_type": {
+    "trim": 81,
+    "ocr_fix": 352,
+    "headword": 10,
+    "flag": 29
+  },
+  "elapsed_seconds": 174.1
+}

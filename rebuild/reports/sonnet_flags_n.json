@@ -1,0 +1,72 @@
+[
+  {
+    "type": "headword_review",
+    "term": "NEGOTIORUM",
+    "suggested": "NEGOTIORUM GESTOR",
+    "reason": "The entry defines a 'transacter or manager of business; a person voluntarily constituting himself agent for another' which is the standard definition of negotiorum gestor in civil law"
+  },
+  {
+    "type": "headword_review",
+    "term": "NW",
+    "suggested": "N.",
+    "reason": "The entry headword appears to be 'N.' based on content discussing abbreviations like N.A., N.B., N.D., etc."
+  },
+  {
+    "type": "flag",
+    "term": "NATURA",
+    "issue": "The entry headword 'NATURA' seems incomplete. The body discusses 'Old Natura Brevium' and several maxims, suggesting the headword should be 'NATURA BREVIUM' or similar. Also contains multiple maxims that may be separate entries."
+  },
+  {
+    "type": "headword_review",
+    "term": "NATURALE",
+    "suggested": "NATURALE EST QUIDLIBET",
+    "reason": "The headword appears truncated; the maxim 'Naturale est quidlibet dissolvi eo modo quo ligatur' is what is being defined"
+  },
+  {
+    "type": "flag",
+    "term": "NAUTICUM",
+    "issue": "Headword may be truncated - likely 'FOENUS NAUTICUM' based on the definition content about maritime interest/bottomry"
+  },
+  {
+    "type": "headword_review",
+    "term": "NASOITURUS",
+    "suggested": "NASCITURUS",
+    "reason": "OCR error: 'NASOITURUS' should be 'NASCITURUS' - the body text uses the correct form 'nasiturus' is about one not yet born"
+  },
+  {
+    "type": "headword_review",
+    "term": "NON-ASSESSA",
+    "suggested": "NON-ASSESSABLE",
+    "reason": "Headword is truncated; the full term is NON-ASSESSABLE as shown by the body content and the following separate entry"
+  },
+  {
+    "type": "headword_review",
+    "term": "NEPUOY",
+    "suggested": "NEPVOY",
+    "reason": "OCR error: likely 'NEVOY' or 'NEPVOY' — Scotch law term for grandson; 'U' misread"
+  },
+  {
+    "type": "headword_review",
+    "term": "NONSE ET DECIMAE",
+    "suggested": "NONAE ET DECIMAE",
+    "reason": "OCR error: 'NONSE' should be 'NONAE' (Latin for ninths and tenths)"
+  },
+  {
+    "type": "headword_review",
+    "term": "NOT",
+    "suggested": "NOT PROVEN",
+    "reason": "Entry describes the Scottish verdict 'not proven' — headword appears truncated by OCR"
+  },
+  {
+    "type": "headword_review",
+    "term": "NOVA",
+    "suggested": "NOVA STATUTA",
+    "reason": "Entry describes 'New statutes' called Nova Statuta — headword appears truncated"
+  },
+  {
+    "type": "headword_review",
+    "term": "NOCTES",
+    "suggested": "NOCTES",
+    "reason": "Headword appears correct but body repeats it as 'NOOTES' — OCR error in body already flagged"
+  }
+]

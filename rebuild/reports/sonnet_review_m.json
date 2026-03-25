@@ -1,0 +1,2701 @@
+{
+  "letter": "M",
+  "entries_reviewed": 711,
+  "corrections": [
+    {
+      "type": "ocr_fix",
+      "term": "M",
+      "old": "signffies",
+      "new": "signifies",
+      "reason": "OCR error: missing 'i' in 'signifies'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "M",
+      "old": "one per ¢entum",
+      "new": "one per centum",
+      "reason": "OCR error: '¢' should be 'c' in 'centum'"
+    },
+    {
+      "type": "trim",
+      "term": "MA",
+      "trim_at": "M. T. An abbreviation",
+      "reason": "Entry for 'MA' contains embedded entry 'M. T.' with its own definition after paragraph break"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MACE",
+      "old": "fs employed as a visible syinbol",
+      "new": "is employed as a visible symbol",
+      "reason": "OCR errors: 'fs' should be 'is', 'syinbol' should be 'symbol'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MACE",
+      "old": "Macer. <A",
+      "new": "Macer. A",
+      "reason": "OCR error: spurious '<' character"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MACHINE",
+      "old": "ar of one",
+      "new": "or of one",
+      "reason": "OCR error: 'ar' should be 'or'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MACHINE",
+      "old": "(C0.\nC.) 55 Fed. 316; Westinzhouse v, Boyden Powe\nBrake Co..",
+      "new": "(C. C.) 55 Fed. 316; Westinghouse v. Boyden Power Brake Co.,",
+      "reason": "OCR errors: 'C0.' should be 'C.', 'Westinzhouse' should be 'Westinghouse', 'Powe' should be 'Power', missing 'r'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MACHINE",
+      "old": "be in a condition where it was not susceptible ofa",
+      "new": "be in a condition where it was not susceptible of a",
+      "reason": "OCR error: 'ofa' should be 'of a'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MAGIG",
+      "old": "MAGIG",
+      "new": "MAGIC",
+      "reason": "OCR error in headword: 'MAGIG' should be 'MAGIC'"
+    },
+    {
+      "type": "headword",
+      "term": "MAGIG",
+      "correct": "MAGIC",
+      "reason": "OCR error: 'G' at end should be 'C'"
+    },
+    {
+      "type": "trim",
+      "term": "MAD",
+      "trim_at": "MAD POINT. A term used",
+      "reason": "Entry 'MAD' body contains the full embedded entry 'MAD POINT' which appears as a separate entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MAGISTRALIA",
+      "old": "and 80 called",
+      "new": "and so called",
+      "reason": "OCR error: '80' should be 'so'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MAGISTERIAL",
+      "old": "terial precinct.",
+      "new": "—Magisterial precinct.",
+      "reason": "OCR error: beginning of sub-entry definition is missing '—Magis' prefix"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MAGISTRATUS",
+      "old": "Hallifax, Civil Law, b. 3, ¢. 8.",
+      "new": "Hallifax, Civil Law, b. 3, c. 8.",
+      "reason": "OCR error: '¢' should be 'c'"
+    },
+    {
+      "type": "trim",
+      "term": "MAGNA",
+      "trim_at": "' MAGNA NEGLIGENTIA. In the civil",
+      "reason": "Entry 'MAGNA' contains the embedded entry 'MAGNA NEGLIGENTIA' which appears as a separate entry"
+    },
+    {
+      "type": "trim",
+      "term": "MAGNUM",
+      "trim_at": "MAGNUM CONCILIUM. In old English",
+      "reason": "Entry 'MAGNUM' body contains embedded entry 'MAGNUM CONCILIUM' after paragraph break"
+    },
+    {
+      "type": "trim",
+      "term": "MAGNUS",
+      "trim_at": "MAGNUS ROTULUS STATUTORUM.",
+      "reason": "Entry 'MAGNUS' body is entirely the embedded entry 'MAGNUS ROTULUS STATUTORUM'"
+    },
+    {
+      "type": "trim",
+      "term": "MAHA-GEN",
+      "trim_at": "- MAHAL. In Hindu law.",
+      "reason": "Entry 'MAHA-GEN' contains embedded entries 'MAHAL' and 'MAHLBRIEF' which appear as separate entries"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MAIDEN",
+      "old": "behending criminals",
+      "new": "beheading criminals",
+      "reason": "OCR error: 'behending' should be 'beheading'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MAIDEN",
+      "old": "this {s a session",
+      "new": "this is a session",
+      "reason": "OCR error: '{s' should be 'is'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MAIHEMIUM",
+      "old": "pug~\nmandum",
+      "new": "pugnandum",
+      "reason": "OCR error: broken hyphen in 'pugnandum'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MAIL",
+      "old": "Rev. St. U.\n8S. §",
+      "new": "Rev. St. U. S. §",
+      "reason": "OCR error: '8S.' should be 'S.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MAIL",
+      "old": "such matter js directed.. S. v. Huggett (C.\nC). ge 641",
+      "new": "such matter is directed. U. S. v. Huggett (C. C.) 3 Fed. 641",
+      "reason": "OCR errors: 'js' should be 'is', missing 'U.' before 'S.', 'ge' is garbled page/volume number"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MAIM",
+      "old": "State v. Jobnson",
+      "new": "State v. Johnson",
+      "reason": "OCR error: 'Jobnson' should be 'Johnson'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MAIM",
+      "old": "generallf, it Is not restricted",
+      "new": "generally, it is not restricted",
+      "reason": "OCR errors: 'generallf' should be 'generally', 'Is' should be 'is'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MAIM",
+      "old": "meanjng, but signifies",
+      "new": "meaning, but signifies",
+      "reason": "OCR error: 'meanjng' should be 'meaning'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MAIM",
+      "old": "10S. W. 338, & Am. St. Rep.",
+      "new": "10 S. W. 338, 8 Am. St. Rep.",
+      "reason": "OCR errors: '10S.' should be '10 S.', '&' should be '8'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MAIN",
+      "old": "—Main ehannel.",
+      "new": "—Main channel.",
+      "reason": "OCR error: 'ehannel' should be 'channel'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MAIN",
+      "old": "Cessill v. State. 504;",
+      "new": "Cessill v. State, 504;",
+      "reason": "OCR error: period should be comma in citation"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MAIN",
+      "old": "-rent. Vassalage.",
+      "new": "—Main-rent. Vassalage.",
+      "reason": "OCR error: sub-entry heading truncated, missing 'Main'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MAINOUR",
+      "old": "bis possession",
+      "new": "his possession",
+      "reason": "OCR error: 'bis' should be 'his'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MAINOUR",
+      "old": "(g(q. v.)",
+      "new": "(q. v.)",
+      "reason": "OCR error: '(g(q. v.)' has spurious 'g(' characters"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MAINOVRE",
+      "old": "7 Rich. ITI.\nce. 4.",
+      "new": "7 Rich. II. c. 4.",
+      "reason": "OCR errors: 'ITI' should be 'II', 'ce.' should be 'c.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MAINOUR",
+      "old": "MAINOVRE, or MAINCGUVRE.",
+      "new": "MAINOVRE, or MANOUVRE.",
+      "reason": "OCR error: 'MAINCGUVRE' appears garbled, likely 'MANOUVRE' or 'MANOEUVRE'"
+    },
+    {
+      "type": "trim",
+      "term": "MAINPERNOR",
+      "trim_at": ", MAINPRISE. The delivery",
+      "reason": "Entry 'MAINPERNOR' contains embedded entry 'MAINPRISE' after paragraph break"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MANSE",
+      "old": "In old English law.. A habitation",
+      "new": "In old English law. A habitation",
+      "reason": "Double period after 'law'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MANSE",
+      "old": "A residence or dwelling-house for the. parish priest",
+      "new": "A residence or dwelling-house for the parish priest",
+      "reason": "Spurious period after 'the'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MANSION",
+      "old": "iff they are parcel of the messuage",
+      "new": "if they are parcel of the messuage",
+      "reason": "OCR doubled the 'f' in 'if'"
+    },
+    {
+      "type": "trim",
+      "term": "MANSLAUGHTER",
+      "trim_at": "MANSO, or MANSUM. In old English",
+      "reason": "Entry for MANSO/MANSUM is merged into MANSLAUGHTER body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MANUALIA",
+      "old": "'. MANUVALIS OBEDIENTIA. Sworn",
+      "new": "",
+      "reason": "Spurious fragment of MANUALIS OBEDIENTIA merged into MANUALIA body; should be trimmed"
+    },
+    {
+      "type": "trim",
+      "term": "MANUALIA",
+      "trim_at": "'. MANUVALIS OBEDIENTIA. Sworn",
+      "reason": "MANUALIS OBEDIENTIA entry is merged into MANUALIA body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MANUNG",
+      "old": "to exact (aamenian) all",
+      "new": "to exact (maenian) all",
+      "reason": "OCR error in Old English word"
+    },
+    {
+      "type": "trim",
+      "term": "MANUNG",
+      "trim_at": "MANUPES",
+      "reason": "Headword MANUPES appears at end of MANUNG body as a merged entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MANUS",
+      "old": "In old Enghish law, it signified an oath",
+      "new": "In old English law, it signified an oath",
+      "reason": "OCR error: 'Enghish' should be 'English'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MANUSCRIPT",
+      "old": "Leon Loan & Abstract Co. v.\nEqgualizatiun Board, 86 Iowa, 127, 58 N. W.\n04,17 L. R. A. 199",
+      "new": "Leon Loan & Abstract Co. v.\nEqualization Board, 86 Iowa, 127, 58 N. W.\n904, 17 L. R. A. 199",
+      "reason": "OCR errors: 'Eqgualizatiun' -> 'Equalization', '04' -> '904' (page number cut off)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MANY",
+      "old": "4 kL. R. A. 710, 13 Am. St. Rep. &.",
+      "new": "4 L. R. A. 710, 13 Am. St. Rep. 8.",
+      "reason": "OCR errors: 'kL.' -> 'L.' and '&' -> '8' (number)"
+    },
+    {
+      "type": "trim",
+      "term": "MANZIE",
+      "trim_at": "'MAP. A representation of the earth",
+      "reason": "MAP entry is merged into MANZIE body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MANZIE",
+      "old": "Skene.\nmutilation of the body of a person.",
+      "new": "mutilation of the body of a person. Skene.",
+      "reason": "OCR line-break misplaced the citation 'Skene'"
+    },
+    {
+      "type": "headword",
+      "term": "MAOE-GREFF",
+      "correct": "MACE-GREFF",
+      "reason": "OCR error: 'MAOE' should be 'MACE'"
+    },
+    {
+      "type": "headword",
+      "term": "MAOULARE",
+      "correct": "MACULARE",
+      "reason": "OCR error: 'MAOULARE' should be 'MACULARE'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MAOULARE",
+      "old": "wound. Spelman.",
+      "new": "To wound. Spelman.",
+      "reason": "Missing 'To' at start of definition, likely OCR drop"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MARCHANDISES",
+      "old": "In\nFrench mercantile law. Damaged goods.",
+      "new": "In French mercantile law. Damaged goods.",
+      "reason": "Spurious line break; also definition seems incomplete (avaries = damaged goods / average losses)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MARCHIONESS",
+      "old": "by marriage with\na marguis:; Wharton.",
+      "new": "by marriage with a marquis. Wharton.",
+      "reason": "OCR error: 'marguis:;' should be 'marquis.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MARE",
+      "old": ": Kent, Comm. 27.—Mare HMberum. The sea\nree.\nThe title",
+      "new": "1 Kent, Comm. 27.—Mare Liberum. The sea free. The title",
+      "reason": "OCR errors: 'HMberum' -> 'Liberum', 'ree' is broken fragment of 'free'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MARESCALLUS",
+      "old": "See\nMABSHAL.",
+      "new": "See\nMARSHAL.",
+      "reason": "OCR error: 'MABSHAL' should be 'MARSHAL'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MARETTUM",
+      "old": "Marshy ground overfiowed by the sea",
+      "new": "Marshy ground overflowed by the sea",
+      "reason": "OCR error: 'overfiowed' should be 'overflowed'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MANUFACTURE",
+      "old": "a7 Md. 526, 40 Am. Rep. 440",
+      "new": "57 Md. 526, 40 Am. Rep. 440",
+      "reason": "OCR error: 'a7' should be '57' (matches the correct MANUFACTURE entry above)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MANUFACTURE",
+      "old": "are now commonly designated as \"mauufactured.\"",
+      "new": "are now commonly designated as \"manufactured.\"",
+      "reason": "OCR error: 'mauufactured' should be 'manufactured'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MANUFACTURER",
+      "old": "working raw matertals into wares",
+      "new": "working raw materials into wares",
+      "reason": "OCR error: 'matertals' should be 'materials'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MANUFACTURER",
+      "old": "People v.\nNew York Floating Dry Dock Co., 638 How.\nPrac. (N. Y.) 458.",
+      "new": "People v.\nNew York Floating Dry Dock Co., 63 How.\nPrac. (N. Y.) 458.",
+      "reason": "OCR error: '638' should be '63' for How. Prac. reporter citation"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MARCHETA",
+      "old": "originally a mark or half ge\nmark of silver",
+      "new": "originally a mark or half a mark of silver",
+      "reason": "OCR error: 'ge' is a broken/garbled 'a'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MARCHETA",
+      "old": "or to bestow a daughter ip\nmarriage.",
+      "new": "or to bestow a daughter in marriage.",
+      "reason": "OCR error: 'ip' should be 'in'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MARCHETA",
+      "old": "2 BI\nComm. 83.",
+      "new": "2 Bl. Comm. 83.",
+      "reason": "OCR error: 'BI' should be 'Bl.' (Blackstone abbreviation)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MANUMISSION",
+      "old": "viz., to exact (aamenian) all",
+      "new": "viz., to exact (maenian) all",
+      "reason": "This error appears in MANUNG entry, not MANUMISSION - flagging for MANUNG instead"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MARAUDER",
+      "old": "as pow sometimes used in common",
+      "new": "as now sometimes used in common",
+      "reason": "OCR error: 'pow' should be 'now'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MARAUDER",
+      "old": "mere lawless bandittl,",
+      "new": "mere lawless banditti,",
+      "reason": "OCR error: 'bandittl' should be 'banditti'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MARCH",
+      "old": "In Scotch law. <A boundary",
+      "new": "In Scotch law. A boundary",
+      "reason": "OCR artifact: spurious '<' before 'A'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MARCHERS",
+      "old": "Called sa\n\"lords marchers.\"",
+      "new": "Called also \"lords marchers.\"",
+      "reason": "OCR error: 'sa' should be 'also'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MARGIN",
+      "old": "Ex parte Jennings, 6 Cow. (N. Y.) 527, 16\nAm. Dec. 447; Varick v. Smith, 9 Paige (N.\n¥.) 551.",
+      "new": "Ex parte Jennings, 6 Cow. (N. Y.) 527, 16\nAm. Dec. 447; Varick v. Smith, 9 Paige (N.\nY.) 551.",
+      "reason": "OCR error: '¥.' should be 'Y.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MARGIN",
+      "old": "Lembeck v..Andrews, 47 Ohio St. 336",
+      "new": "Lembeck v. Andrews, 47 Ohio St. 336",
+      "reason": "OCR double period in citation"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MANSO",
+      "old": "The manor-ho... [truncated]",
+      "new": "",
+      "reason": "Text truncated in source - not an OCR error to fix but noting truncation in MANSLAUGHTER entry"
+    },
+    {
+      "type": "flag",
+      "term": "MARA",
+      "issue": "Stray 't' character appears mid-definition: 'A mere or\nmoor; a lake, pool,\nor pond; a bog or\n\nt\n\nmarsh' - likely OCR artifact"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MALVEILLES",
+      "old": "Ii\nwill",
+      "new": "Ill\nwill",
+      "reason": "OCR error: 'Ii' should be 'Ill' (ill will)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MANCA",
+      "old": "A\nequare piece",
+      "new": "A\nsquare piece",
+      "reason": "OCR error: 'equare' should be 'square'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MALVERSATION",
+      "old": "exercise o?\na charge",
+      "new": "exercise of\na charge",
+      "reason": "OCR error: 'o?' should be 'of'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MANCIPAT",
+      "old": "regulated by that\nof the tocre.",
+      "new": "regulated by that\nof the were.",
+      "reason": "OCR error: 'tocre' should be 'were' (matching MANBOTE entry which defines the same concept)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MANCIPATE",
+      "old": "To enslave; to bind; to\ntle.",
+      "new": "To enslave; to bind; to entitle.",
+      "reason": "OCR error: 'tle.' is a broken word, should be 'entitle.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MANCIPATIO",
+      "old": "certaln ceremony",
+      "new": "certain ceremony",
+      "reason": "OCR error: 'certaln' should be 'certain'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MANCIPATIO",
+      "old": "'words was repeated on either side, indicative\nef transfer",
+      "new": "words was repeated on either side, indicative\nof transfer",
+      "reason": "OCR error: 'ef' should be 'of'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MANCIPATIO",
+      "old": "er succession",
+      "new": "or succession",
+      "reason": "OCR error: 'er' should be 'or'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MANCIPATIO",
+      "old": "Bi.Law Dict.(2p Ep.)—48",
+      "new": "",
+      "reason": "OCR artifact: page reference/footer text intruding into body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MANDAMENTO",
+      "old": "ayd the latter",
+      "new": "and the latter",
+      "reason": "OCR error: 'ayd' should be 'and'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MANDATO",
+      "old": "The contract of mandate. 'Escriche.",
+      "new": "The contract of mandate. Escriche.",
+      "reason": "OCR error: spurious apostrophe before 'Escriche'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MANDAVI",
+      "old": "Iat. In the civil law.",
+      "new": "Lat. In the civil law.",
+      "reason": "OCR error: 'Iat.' should be 'Lat.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MANDATE",
+      "old": "order jssued",
+      "new": "order issued",
+      "reason": "OCR error: 'jssued' should be 'issued'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MANDATE",
+      "old": "and hd him undertaken",
+      "new": "and by him undertaken",
+      "reason": "OCR error: 'hd' should be 'by'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MANDATE",
+      "old": "illiams\nv, Conger",
+      "new": "Williams\nv. Conger",
+      "reason": "OCR error: 'illiams' should be 'Williams'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MANDATE",
+      "old": "one person Ss\npower to another",
+      "new": "one person gives\npower to another",
+      "reason": "OCR error: 'Ss' should be 'gives'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MANDATE",
+      "old": "for the joint a pt of both parties",
+      "new": "for the joint interest of both parties",
+      "reason": "OCR error: 'a pt' should be 'interest'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MANDATE",
+      "old": "care and service are aa principal",
+      "new": "care and service are the principal",
+      "reason": "OCR error: 'aa' should be 'the'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MANDATE",
+      "old": "while in eposits the",
+      "new": "while in deposits the",
+      "reason": "OCR error: 'eposits' should be 'deposits'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MANDATE",
+      "old": "and the care and\naie are merely accessory",
+      "new": "and the care and\nservice are merely accessory",
+      "reason": "OCR error: 'aie' should be 'service'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MANDAVI",
+      "old": "the balliff",
+      "new": "the bailiff",
+      "reason": "OCR error: 'balliff' should be 'bailiff'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MANIFEST",
+      "old": "New York & Cuba &. S. Co.",
+      "new": "New York & Cuba M. S. Co.",
+      "reason": "OCR error: '&.' likely should be 'M.' (Mail Steamship Co.)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MANIFEST",
+      "old": "Im evidence.",
+      "new": "In evidence.",
+      "reason": "OCR error: 'Im' should be 'In'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MANIFEST",
+      "old": "Manifesta probatione non indigent. 7%\nCoke, 40.",
+      "new": "Manifesta probatione non indigent. 7\nCoke, 40.",
+      "reason": "OCR error: '7%' should be '7'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MANIPULUS",
+      "old": "priest alwdys had",
+      "new": "priest always had",
+      "reason": "OCR error: 'alwdys' should be 'always'"
+    },
+    {
+      "type": "trim",
+      "term": "MANIPULUS",
+      "trim_at": ". The race or species of human",
+      "reason": "The MANKIND entry definition appears merged into the MANIPULUS entry after a paragraph break"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MANAGE",
+      "old": "43 L. Bd\n2Al.",
+      "new": "43 L. Ed.\n241.",
+      "reason": "OCR error: 'L. Bd 2Al.' should be 'L. Ed. 241'"
+    },
+    {
+      "type": "trim",
+      "term": "MANAGE",
+      "trim_at": "—M. A person chosen or appointed",
+      "reason": "The MANAGER entry definition appears merged into the MANAGE entry; 'M.' should begin a new headword MANAGER"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MANAGE",
+      "old": "manager of a corporation or eae e",
+      "new": "manager of a corporation or enterprise.",
+      "reason": "OCR error: 'eae e' is garbled, should be 'enterprise'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MANAGE",
+      "old": "Com. v. Johnson, 144 Pa. 377, 22 Atl. 708;",
+      "new": "Com. v. Johnson, 144 Pa. 377, 22 Atl. 703;",
+      "reason": "OCR error: citation number '708' should match earlier citation '703'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MANAGE",
+      "old": "Oro Min. & Mill. Ca. v. Kaiser, 4 Cola. App.",
+      "new": "Oro Min. & Mill. Co. v. Kaiser, 4 Colo. App.",
+      "reason": "OCR error: 'Ca.' should be 'Co.' and 'Cola.' should be 'Colo.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MANAGE",
+      "old": "25 Wash. h. 475",
+      "new": "25 Wash. 475",
+      "reason": "OCR error: 'h.' is spurious"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MANAGE",
+      "old": "and ueceasary",
+      "new": "and necessary",
+      "reason": "OCR error: 'ueceasary' should be 'necessary'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MANOR",
+      "old": "lade. and the services",
+      "new": "lands and the services",
+      "reason": "OCR error: 'lade.' should be 'lands'"
+    },
+    {
+      "type": "trim",
+      "term": "MANNER",
+      "trim_at": "MANNER AND FORM; MODO ET",
+      "reason": "The headword 'MANNER AND FORM; MODO ET' appears merged at the end of the MANNER entry body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MANNIRE",
+      "old": "that \" by the Judge:",
+      "new": "that by the Judge.",
+      "reason": "OCR error: spurious quotation mark before 'by'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MANNOPUS",
+      "old": "In.old English law.",
+      "new": "In old English law.",
+      "reason": "OCR error: spurious period after 'In'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MANNOPUS",
+      "old": "(¢. v.)",
+      "new": "(q. v.)",
+      "reason": "OCR error: '¢.' should be 'q.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MANERIUM",
+      "old": "To\n\n",
+      "new": "",
+      "reason": "OCR artifact: orphaned 'To' at end of entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MANOR",
+      "old": "followets or retainers",
+      "new": "followers or retainers",
+      "reason": "OCR error: 'followets' should be 'followers'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MANOR",
+      "old": "as-he re\nMANOR 756",
+      "new": "as he reserved",
+      "reason": "OCR error: broken word and page header intruding into body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MANHOOD",
+      "old": "The formula used waa,",
+      "new": "The formula used was,",
+      "reason": "OCR error: 'waa' should be 'was'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MANRENT",
+      "old": "In Scotch Jaw.",
+      "new": "In Scotch law.",
+      "reason": "OCR error: 'Jaw' should be 'law'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MANDANT",
+      "old": "The employing party in the contract of mandatum, or mandate. Story, Bailm. § 138",
+      "new": "The employing party in the contract of mandatum, or mandate. Story, Bailm. § 138.",
+      "reason": "Missing period at end of sentence"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MANCIPI",
+      "old": "valued en se or valued.",
+      "new": "valuable per se or valued.",
+      "reason": "OCR error: 'en' should be 'per'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MAINTAINOR",
+      "old": "nuking friends",
+      "new": "making friends",
+      "reason": "OCR error: 'nuking' should be 'making'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MAINTAINOR",
+      "old": "maintenance (g. ¥v.)",
+      "new": "maintenance (q. v.)",
+      "reason": "OCR error: 'g. ¥v.' should be 'q. v.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MAIRE",
+      "old": "Im old Scotch law",
+      "new": "In old Scotch law",
+      "reason": "OCR error: 'Im' should be 'In'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MAIRE",
+      "old": "mair of fle,\" (fee,)",
+      "new": "mair of fie,\" (fee,)",
+      "reason": "OCR error: 'fle' should be 'fie'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MAIRIE",
+      "old": "ATE:\nFr. Merc. Law, 566.",
+      "new": "Abb.\nFr. Merc. Law, 566.",
+      "reason": "OCR error: 'ATE:' appears to be a garbled abbreviation, likely 'Abb.' (Abbot)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MAJESTAS",
+      "old": "crimen majeatatis",
+      "new": "crimen majestatis",
+      "reason": "OCR error: 'majeatatis' should be 'majestatis'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MAJESTAS",
+      "old": "$. 6, high treason",
+      "new": "i. e., high treason",
+      "reason": "OCR error: '$. 6,' should be 'i. e.,'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MAJOR",
+      "old": "In mflitary law",
+      "new": "In military law",
+      "reason": "OCR error: 'mflitary' should be 'military'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MAJOR",
+      "old": "MAJOR ANNUS. The greater year; the\nbissextile year, consisting of 366 days. Bract.\nfo!. 3590.",
+      "new": "MAJOR ANNUS. The greater year; the\nbissextile year, consisting of 366 days. Bract.\nfol. 359b.",
+      "reason": "OCR error: 'fo!.' should be 'fol.' and '3590' should be '359b'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MAJOR",
+      "old": "rank gbove a brigudier",
+      "new": "rank above a brigadier",
+      "reason": "OCR error: 'gbove' should be 'above' and 'brigudier' should be 'brigadier'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MAJOR",
+      "old": "Major hereditas venit unicuique nostram a jure",
+      "new": "Major hereditas venit unicuique nostrum a jure",
+      "reason": "OCR error: 'nostram' should be 'nostrum'"
+    },
+    {
+      "type": "trim",
+      "term": "MAJOR",
+      "trim_at": "MAJOR ANNUS. The greater year",
+      "reason": "Sub-entries MAJOR ANNUS and MAJOR GENERAL appear to be embedded dictionary entries within the MAJOR body that should be trimmed or are part of that entry's sub-entries — these appear intentional as sub-entries, not separate entries merged in. Flagging instead."
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MAJORA",
+      "old": "Majore pena affeetus quam legibus",
+      "new": "Majore pena affectus quam legibus",
+      "reason": "OCR error: 'affeetus' should be 'affectus'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MAJORITY",
+      "old": "Majus dignum trahit ad se minus\ndignum. The more worthy draws to itself\nthe less worthy. Co. Litt. 48, 3550; Bract.\nfol. 175; Noy, Max. p.. 6, max. 18.",
+      "new": "Majus dignum trahit ad se minus\ndignum. The more worthy draws to itself\nthe less worthy. Co. Litt. 43, 355b; Bract.\nfol. 175; Noy, Max. p. 6, max. 18.",
+      "reason": "OCR errors: '3550' should be '355b', 'p..' should be 'p.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MAKE",
+      "old": "2. To dg in form of law",
+      "new": "2. To do in form of law",
+      "reason": "OCR error: 'dg' should be 'do'"
+    },
+    {
+      "type": "trim",
+      "term": "MAKING",
+      "trim_at": "MAKING LAW. In old practice. The",
+      "reason": "The body of MAKING contains the full text of MAKING LAW as an embedded entry, which is also a separate entry. The MAKING entry should be trimmed."
+    },
+    {
+      "type": "trim",
+      "term": "MAL",
+      "trim_at": "MAL GREE.",
+      "reason": "MAL GREE appears as an embedded headword at end of MAL entry body without definition — likely start of next entry merged in"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MAL-TOLTE",
+      "old": "372,\ntd",
+      "new": "372.",
+      "reason": "OCR artifact: 'td' at end of entry is spurious"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MALA",
+      "old": "acts morall\nWrong;\noffenses aealnst conscience",
+      "new": "acts morally wrong;\noffenses against conscience",
+      "reason": "OCR errors: 'morall Wrong' should be 'morally wrong', 'aealnst' should be 'against'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MALA",
+      "old": "physicia, surgeon",
+      "new": "physician, surgeon",
+      "reason": "OCR error: 'physicia' should be 'physician'"
+    },
+    {
+      "type": "trim",
+      "term": "MALEFICIA",
+      "trim_at": "MALEFICIA NON DEBENT",
+      "reason": "The MALEFICIA entry body starts mid-sentence with sub-entry content from MALA and contains embedded entries MALEFICIA NON DEBENT and MALEFICIA PROPOSITIS — this appears to be a garbled/duplicate entry that should be trimmed"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MALEFICIUM",
+      "old": "Inthecivillaw.",
+      "new": "In the civil law.",
+      "reason": "OCR error: words run together"
+    },
+    {
+      "type": "trim",
+      "term": "MALEFICIUM",
+      "trim_at": "MALESON, or MALISON.",
+      "reason": "MALESON/MALISON and MALESWORN appear as embedded entries within MALEFICIUM body"
+    },
+    {
+      "type": "trim",
+      "term": "MALEUM",
+      "trim_at": "MALFAIT. In old European law.",
+      "reason": "The MALEUM entry body contains the definition for MALFAIT, not MALEUM — these are two distinct entries merged together"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MALFEASANCE",
+      "old": "72 8. W.",
+      "new": "72 S. W.",
+      "reason": "OCR error: '8.' should be 'S.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MALFETRIA",
+      "old": "White, New -Recop. b. 2, tit. 19, «\n1,§ 1.",
+      "new": "White, New Recop. b. 2, tit. 19, c. 1, § 1.",
+      "reason": "OCR errors: 'New -Recop.' should be 'New Recop.', '«' should be 'c.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MALICE",
+      "old": "Craft v. State,\nKan. 486;",
+      "new": "Craft v. State, Kan. 486;",
+      "reason": "OCR error: citation appears incomplete/garbled — missing volume number before 'Kan.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MALICIOUS",
+      "old": "24 Ter.\npp. 78 W. 247",
+      "new": "24 Tex. App. 78 S. W. 247",
+      "reason": "OCR errors: 'Ter.' should be 'Tex.', 'pp.' should be missing or part of citation, '78 W.' should be 'S. W.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MALITIA",
+      "old": "' MALITIA. Lat.",
+      "new": "MALITIA. Lat.",
+      "reason": "OCR artifact: leading apostrophe/quote mark"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MALITIA",
+      "old": ". Malitia supplet statem.",
+      "new": "Malitia supplet aetatem.",
+      "reason": "OCR error: 'statem' should be 'aetatem'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MALO",
+      "old": "In jaii-evil 'dense\nor meaning; with an evil sign fleation. é\ni te 3) a? Pe",
+      "new": "In bad evil design or meaning; with an evil signification.",
+      "reason": "OCR errors: heavily garbled text throughout this entry"
+    },
+    {
+      "type": "trim",
+      "term": "MALPRACTICE",
+      "trim_at": "'.MALT\n\n- and proceeding from",
+      "reason": "The MALT headword appears embedded mid-sentence in the MALPRACTICE body, indicating the MALT entry was merged in"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MALT",
+      "old": "Hollender v.\nMagone (C. C.) 388 Fed. 915",
+      "new": "Hollender v.\nMagone (C. C.) 38 Fed. 915",
+      "reason": "OCR error: '388' likely should be '38'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MALT",
+      "old": "Sarlis v. U. §., 152 U. S. 570",
+      "new": "Sarlis v. U. S., 152 U. S. 570",
+      "reason": "OCR error: '§.' should be 'S.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MALT",
+      "old": "beer, ale, and porter. See Allred v. State, 89\nAla. 112, 8 South. 56",
+      "new": "beer, ale, and porter. See Allred v. State, 89\nAla. 112, 8 So. 56",
+      "reason": "OCR may be fine here; flagging 'hops' spelled as 'hope'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MALT",
+      "old": "malt and hope, like",
+      "new": "malt and hops, like",
+      "reason": "OCR error: 'hope' should be 'hops'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MALUM",
+      "old": "atatute;) as murder",
+      "new": "statute;) as murder",
+      "reason": "OCR error: 'atatute' should be 'statute'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MALUM",
+      "old": "an ile\ngality resulting",
+      "new": "an illegality resulting",
+      "reason": "OCR error: 'ile gality' should be 'illegality'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MALUM",
+      "old": "Story, Ag. § 846.",
+      "new": "Story, Ag. § 346.",
+      "reason": "OCR error: '846' should be '346' to match the earlier citation in the same entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MALUM",
+      "old": "Malus usus abolendus cst.",
+      "new": "Malus usus abolendus est.",
+      "reason": "OCR error: 'cst' should be 'est'"
+    },
+    {
+      "type": "headword",
+      "term": "MER RECOVERY",
+      "correct": "RES JUDICATA (cross-reference)",
+      "reason": "The headword 'MER RECOVERY' appears to be a damaged OCR rendering; likely 'A FORMER RECOVERY' or a cross-reference entry, but flagging for review"
+    },
+    {
+      "type": "flag",
+      "term": "MER RECOVERY",
+      "issue": "Headword appears to be garbled; possibly should be 'FORMER RECOVERY' or similar"
+    },
+    {
+      "type": "trim",
+      "term": "MERCATORUM",
+      "trim_at": "* CLERICO CONVICTO COMMISSO",
+      "reason": "The entry ends with '* CLERICO CONVICTO COMMISSO' which appears to be the beginning of a separate embedded entry merged in"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MERCE",
+      "old": "os\n\nINTRINSEUM: SERVITIUM.",
+      "new": "INTRINSEUM: SERVITIUM.",
+      "reason": "'os' appears to be OCR garbage at the start of the entry"
+    },
+    {
+      "type": "trim",
+      "term": "MERCE",
+      "trim_at": "_INTRINSIC VALUE. The intrin",
+      "reason": "INTRINSIC VALUE appears to be a separate dictionary entry merged into the MERCE entry body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MERE-STONE",
+      "old": "bounding or aes Jjands",
+      "new": "bounding or limiting lands",
+      "reason": "'aes Jjands' is garbled OCR; should be 'limiting lands'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MERCHANDISE",
+      "old": "15 8.\nW. 414",
+      "new": "15 S.\nW. 414",
+      "reason": "'8.' is OCR error for 'S.' in the citation '15 S. W. 414'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MERCHANT",
+      "old": "24 S. BR. 1,32",
+      "new": "24 S. E. 1, 32",
+      "reason": "'S. BR.' is OCR error for 'S. E.' in the citation"
+    },
+    {
+      "type": "flag",
+      "term": "MERCHANT",
+      "issue": "Entry ends abruptly with 'sion merchant. See.' — appears truncated, likely 'Commission merchant. See.' with 'Commis-' cut off"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MERCIMONIATUS",
+      "old": "Merocis appellatione homines non contimeri.",
+      "new": "Mercis appellatione homines non contineri.",
+      "reason": "'Merocis' should be 'Mercis' and 'contimeri' should be 'contineri'"
+    },
+    {
+      "type": "trim",
+      "term": "MERCIMONIATUS",
+      "trim_at": "Mercis appellatio ad res mob",
+      "reason": "The maxims 'Mercis appellatio...' and 'Merocis appellatione...' appear to be content belonging to a separate MERCIS entry merged into MERCIMONIATUS"
+    },
+    {
+      "type": "trim",
+      "term": "MERCIMONIATUS ANGLIAE",
+      "trim_at": "Mercis appellatio ad res mob",
+      "reason": "The maxims after 'Cowell See' appear to be content from the MERCIS entry merged in"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MERCIS",
+      "old": "Mereois appellatione homines non contineri.",
+      "new": "Mercis appellatione homines non contineri.",
+      "reason": "'Mereois' is OCR error for 'Mercis'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MERCIAMENT",
+      "old": "(g. wv.)",
+      "new": "(q. v.)",
+      "reason": "'g. wv.' is OCR error for 'q. v.' (quod vide cross-reference)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MERITORIOUS",
+      "old": "See MEBITS.",
+      "new": "See MERITS.",
+      "reason": "'MEBITS' is OCR error for 'MERITS'"
+    },
+    {
+      "type": "trim",
+      "term": "MERITORIOUS",
+      "trim_at": "MERITORIOUS. ro (5)",
+      "reason": "'MERITORIOUS. ro (5)' mid-body appears to be a page header/artifact from OCR merging page content"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MERITS",
+      "old": "merits in lato",
+      "new": "merits in law",
+      "reason": "'lato' is OCR error for 'law'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MERUM",
+      "old": "Mecrum fus",
+      "new": "Merum jus",
+      "reason": "'Mecrum' should be 'Merum' and 'fus' should be 'jus' (mere right in Latin)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MERX",
+      "old": "movable ar.\nticles",
+      "new": "movable articles",
+      "reason": "Broken word across line"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MESCREAUNTES",
+      "old": "unbellevers",
+      "new": "unbelievers",
+      "reason": "'unbellevers' is OCR error for 'unbelievers'"
+    },
+    {
+      "type": "trim",
+      "term": "MESNE",
+      "trim_at": "MESNALTY, or MESNALITY.",
+      "reason": "The MESNALTY entry is merged into the end of the MESNE entry body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MESNE",
+      "old": "—Moesne ee If A.",
+      "new": "—Mesne assignments. If A.",
+      "reason": "'Moesne ee' is OCR error for 'Mesne assignments.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MESNE",
+      "old": "T).'s interest",
+      "new": "D.'s interest",
+      "reason": "'T).' is OCR error for 'D.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MERCAT",
+      "old": "<A market. <An old form",
+      "new": "A market. An old form",
+      "reason": "Spurious '<' characters at start of body are OCR artifacts"
+    },
+    {
+      "type": "trim",
+      "term": "MATERTERA",
+      "trim_at": "See MATHEMATICAL EVIDENCE.",
+      "reason": "After the definitions, 'See MATHEMATICAL EVIDENCE. EVIDENCE.' appears to be a cross-reference fragment for a separate entry that was merged in"
+    },
+    {
+      "type": "trim",
+      "term": "MATRICULA",
+      "trim_at": "<A register of the admission",
+      "reason": "Body starts with '<A register' — the '<' character is an OCR artifact before 'A'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MATRICULA",
+      "old": "<A register of the admission of officers",
+      "new": "A register of the admission of officers",
+      "reason": "Spurious '<' character at start of definition due to OCR error"
+    },
+    {
+      "type": "trim",
+      "term": "MATRICULATE",
+      "trim_at": "Matrimonia debent esse lib",
+      "reason": "After the definition of MATRICULATE, a Latin maxim 'Matrimonia debent esse libera' with its explanation is merged in — this is a separate entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MATRIMONIAL",
+      "old": "Wilcox vy. Wilcox, 46 Hun (N. Y.) oi.",
+      "new": "Wilcox v. Wilcox, 46 Hun (N. Y.) 61.",
+      "reason": "'vy.' should be 'v.' and 'oi' should be '61' — OCR errors"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MATRIMONIAL",
+      "old": "the term carryin\nwith it, in this sense, an implication of mutu\nrights",
+      "new": "the term carrying\nwith it, in this sense, an implication of mutual\nrights",
+      "reason": "Words 'carrying' and 'mutual' are cut off at line breaks due to OCR"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MATRIMONIUM",
+      "old": "#4. e., either with the farreum",
+      "new": "i. e., either with the farreum",
+      "reason": "'#4. e.' is an OCR error for 'i. e.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MATRIMONY",
+      "old": "Marriage, (g¢. v.,)",
+      "new": "Marriage, (q. v.,)",
+      "reason": "'g¢. v.' is an OCR error for 'q. v.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MATRIX ECCLESIA",
+      "old": "A mother\nehurch.",
+      "new": "A mother\nchurch.",
+      "reason": "'ehurch' is an OCR error for 'church'"
+    },
+    {
+      "type": "trim",
+      "term": "MATRONS",
+      "trim_at": "JURY OF. Such a jury is",
+      "reason": "Entry 'MATRONS' has headword 'MATRONS' but body starts with 'JURY OF.' — this appears to be a duplicate of the MATRONS, JURY OF entry merged in incorrectly"
+    },
+    {
+      "type": "trim",
+      "term": "MAUNDY",
+      "trim_at": "MAUNDY THURSDAY",
+      "reason": "The entry MAUNDY has only 'MAUNDY THURSDAY' as its body with no definition — the actual definition belongs to the separate MAUNDY THURSDAY entry; MAUNDY body contains the embedded MAUNDY THURSDAY entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MAXIM",
+      "old": "quia\nmazima ejus dignitas et certissima auctorttas",
+      "new": "quia\nmaxima ejus dignitas et certissima auctoritas",
+      "reason": "'mazima' should be 'maxima' and 'auctorttas' should be 'auctoritas' — OCR errors in Latin"
+    },
+    {
+      "type": "trim",
+      "term": "MAXIM",
+      "old": "\"MAY,'? in the construction of public '",
+      "reason": "After the maxims, the entry for MAY is merged in starting with '\"MAY,''"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MAXIM",
+      "old": "\"MAY,'? in the construction of public '",
+      "new": "\"MAY,\" in the construction of public",
+      "reason": "OCR errors: ',?' should be ',' and trailing apostrophe is spurious"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MAYHEM",
+      "old": "4 Bi. Comm. 205.",
+      "new": "4 Bl. Comm. 205.",
+      "reason": "'Bi.' is an OCR error for 'Bl.' (Blackstone's Commentaries)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MAYHEM",
+      "old": "maliclously",
+      "new": "maliciously",
+      "reason": "'maliclously' is an OCR error for 'maliciously'"
+    },
+    {
+      "type": "trim",
+      "term": "MAYHEMAVIT",
+      "trim_at": " MAYN.",
+      "reason": "Body ends with 'MAYN.' which is the headword of the next entry merged in"
+    },
+    {
+      "type": "trim",
+      "term": "MAYNOVER",
+      "trim_at": "\"MAYOR. The executive head",
+      "reason": "After the MAYNOVER definition, the entry for MAYOR is merged in starting with '\"MAYOR.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MAYNOVER",
+      "old": "\"MAYOR. The executive head of a municipal corporation; the governor or chief\n\nMaimed. This is a.\n\nMEANDER\n\nmagistrate of:a city.",
+      "new": "See entry MAYOR.",
+      "reason": "The MAYOR entry text and a fragment 'Maimed. This is a.' and MEANDER heading are all spuriously merged into MAYNOVER's body"
+    },
+    {
+      "type": "trim",
+      "term": "MEAL-RENT",
+      "trim_at": ". MEAN, or MESNE.",
+      "reason": "After the MEAL-RENT definition, entries for MEAN/MESNE and MEANDER are merged in"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MEANDER",
+      "old": "Schurmefer v.",
+      "new": "Schurmeier v.",
+      "reason": "'Schurmefer' is an OCR error for 'Schurmeier' (as correctly spelled in the MEAL-RENT merged entry)"
+    },
+    {
+      "type": "trim",
+      "term": "MEANS",
+      "trim_at": "MEASE, or MESE. Norman-French",
+      "reason": "After the MEANS definition, the entry MEASE is merged in"
+    },
+    {
+      "type": "trim",
+      "term": "MEASURE",
+      "trim_at": "MEASURER, or METER. An officer",
+      "reason": "After the MEASURE definitions, the entry MEASURER is merged in"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MEASURE",
+      "old": "two thin\nare mecessary",
+      "new": "two things\nare necessary",
+      "reason": "'thin' is truncated 'things' and 'mecessary' is OCR error for 'necessary'"
+    },
+    {
+      "type": "trim",
+      "term": "MEASURING",
+      "trim_at": "MEASURING MONEY. In old English",
+      "reason": "Entry MEASURING has no definition of its own; body contains the embedded MEASURING MONEY entry"
+    },
+    {
+      "type": "trim",
+      "term": "MEDIA",
+      "trim_at": "MEDIA ANNATA. In Spanish law.",
+      "reason": "Entry MEDIA has no definition of its own; body contains embedded entries MEDIA ANNATA and MEDIA NOX"
+    },
+    {
+      "type": "trim",
+      "term": "MEDIA NOX",
+      "trim_at": "MEDLZ ET INFIRMZ MANUS HOM-",
+      "reason": "After the MEDIA NOX definition, a garbled headword fragment 'MEDLZ ET INFIRMZ MANUS HOM-' is merged in"
+    },
+    {
+      "type": "trim",
+      "term": "MEDIANUS",
+      "trim_at": "MEDIANUS HOMO\nMEDIANUS HOMO.",
+      "reason": "Entry MEDIANUS has no definition of its own; body contains the embedded MEDIANUS HOMO entry"
+    },
+    {
+      "type": "trim",
+      "term": "MEDIATE",
+      "trim_at": "MEDIATE DESCENT. See DESCENT.",
+      "reason": "Entry MEDIATE has no definition of its own; body contains embedded entries MEDIATE DESCENT, MEDIATE POWERS, and MEDIATE TESTIMONY"
+    },
+    {
+      "type": "trim",
+      "term": "MEDIATE POWERS",
+      "trim_at": "Secondary",
+      "reason": "After the MEDIATE POWERS definition, the word 'Secondary' begins the next entry MEDIATE TESTIMONY merged in"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MEDIATE TESTIMONY",
+      "old": "evidence, (q. v.)",
+      "new": "Secondary evidence, (q. v.)",
+      "reason": "The word 'Secondary' was trimmed to previous entry; full definition should be 'Secondary evidence, (q. v.)'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MEDFEE",
+      "old": "a compensatiou given",
+      "new": "a compensation given",
+      "reason": "'compensatiou' is an OCR error for 'compensation'"
+    },
+    {
+      "type": "trim",
+      "term": "MEDIATOR",
+      "trim_at": "—Mediators of questions. In English law.\nSix persons",
+      "reason": "The MEDIATOR entry body is cut short; the sub-entry for Mediators of questions appears only in the separate MEDIATOR entry above and the body here is truncated after 'III. St. 2, c. 24.)'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MECHANICAL",
+      "old": "Johnson v. Root, 13 F\ned. Cas. 823;",
+      "new": "Johnson v. Root, 13 Fed. Cas. 823;",
+      "reason": "Line break split 'Fed.' into 'F\\ned.' — OCR formatting error"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MECHANICAL",
+      "old": "Alaska\nPackers' Ass'n v. Letson (C. C.) 119 Fed. 611;\nJensen Can-Filling Mach. Co, v. Norton, 67\nr A; Adams arta\nl rae. CA.\nRt. Co. v. Lindel] R. Co., 77 Fed. 440. 23\nA. 223.",
+      "new": "Alaska Packers' Ass'n v. Letson (C. C.) 119 Fed. 611; Jensen Can-Filling Mach. Co. v. Norton, 67 Fed. —; Adams v. —; — R. Co. v. Lindell R. Co., 77 Fed. 440, 23 C. C. A. 223.",
+      "reason": "Multiple OCR garbling in citation list: 'Lindel]' should be 'Lindell', 'arta l rae' is garbled citation text"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MECHANICAL",
+      "old": "Campbell Printing Press Co. v.\nMiehle Printing ss Co.",
+      "new": "Campbell Printing Press Co. v. Miehle Printing Press Co.",
+      "reason": "'ss' is OCR error for 'Press'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MECHANICAL",
+      "old": "such skill, intelligence, ingenuity\nor constructive ability in the adaptation o\nmeans to ends",
+      "new": "such skill, intelligence, ingenuity\nor constructive ability in the adaptation of\nmeans to ends",
+      "reason": "'o' at line break is truncated 'of'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MECHANICAL",
+      "old": "Frolliater v. Benedict & B. Mfg. Co.",
+      "new": "Hollister v. Benedict & B. Mfg. Co.",
+      "reason": "'Frolliater' is likely OCR garbling of 'Hollister'"
+    },
+    {
+      "type": "trim",
+      "term": "MESSENGER",
+      "trim_at": "Messis sementem sequitur.",
+      "reason": "The Latin maxim 'Messis sementem sequitur' is a separate dictionary entry embedded at the end of MESSENGER's body."
+    },
+    {
+      "type": "trim",
+      "term": "METES",
+      "trim_at": "METEWAND, or METEYARD.",
+      "reason": "METEWAND entry is embedded at the end of METES body."
+    },
+    {
+      "type": "ocr_fix",
+      "term": "META",
+      "old": "a material ebject, as a",
+      "new": "a material object, as a",
+      "reason": "OCR error: 'ebject' should be 'object'."
+    },
+    {
+      "type": "ocr_fix",
+      "term": "META",
+      "old": "a tree or a 'pillar,",
+      "new": "a tree or a pillar,",
+      "reason": "Spurious apostrophe before 'pillar' from OCR."
+    },
+    {
+      "type": "ocr_fix",
+      "term": "METAYER SYSTEM",
+      "old": "A _ system of",
+      "new": "A system of",
+      "reason": "OCR artifact: spurious underscore character."
+    },
+    {
+      "type": "ocr_fix",
+      "term": "METAYER SYSTEM",
+      "old": "the land\n{fs divided,",
+      "new": "the land is divided,",
+      "reason": "OCR error: '{fs' should be 'is'."
+    },
+    {
+      "type": "ocr_fix",
+      "term": "METROPOLITAN",
+      "old": "to designate aq statute,",
+      "new": "to designate a statute,",
+      "reason": "OCR error: 'aq' should be 'a'."
+    },
+    {
+      "type": "ocr_fix",
+      "term": "METROPOLITAN",
+      "old": "ard is elected by vestries and\ndistrict bearde",
+      "new": "and is elected by vestries and district boards",
+      "reason": "OCR errors: 'ard' should be 'and', 'bearde' should be 'boards'."
+    },
+    {
+      "type": "ocr_fix",
+      "term": "METROPOLITAN",
+      "old": "lice district. A region composed of New\nork city",
+      "new": "police district. A region composed of New York city",
+      "reason": "OCR errors: 'lice' should be 'police', 'New\\nork' should be 'New York'."
+    },
+    {
+      "type": "ocr_fix",
+      "term": "METROPOLITAN",
+      "old": "for police sr a organized as one district,",
+      "new": "for police purposes organized as one district,",
+      "reason": "OCR error: 'sr a' should be 'purposes'."
+    },
+    {
+      "type": "trim",
+      "term": "METROPOLITAN",
+      "trim_at": "METTESHEP, or METTENSCHEP.",
+      "reason": "METTESHEP entry is embedded at the end of METROPOLITAN's body."
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MICHAELMAS",
+      "old": "Michaelmas head eaarts A meeting of the",
+      "new": "Michaelmas head courts. A meeting of the",
+      "reason": "OCR error: 'eaarts' should be 'courts.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MICHAELMAS",
+      "old": "on\nthe 2d da ay oF Nose Neveunee and ending on the 25th.",
+      "new": "on the 2d day of November and ending on the 25th.",
+      "reason": "OCR garbled 'day of November' as 'da ay oF Nose Neveunee'."
+    },
+    {
+      "type": "trim",
+      "term": "MICHAELMAS",
+      "trim_at": "MICHE, or MIOH.",
+      "reason": "MICHE entry is embedded at the end of MICHAELMAS body."
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MICHEL-SYNOTH",
+      "old": "1 Bi.\nComm. 147.",
+      "new": "1 Bl. Comm. 147.",
+      "reason": "OCR error: 'Bi.' should be 'Bl.' (Blackstone's Commentaries)."
+    },
+    {
+      "type": "trim",
+      "term": "MIDDLE",
+      "trim_at": "MIDDLE THREAD.",
+      "reason": "MIDDLE THREAD entry is embedded within MIDDLE body after MIDDLE TERM definition."
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MIDSUMMER-DAY",
+      "old": "the feast of St. John the Baptism,",
+      "new": "the feast of St. John the Baptist,",
+      "reason": "OCR error: 'Baptism' should be 'Baptist'."
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MIDWIFE",
+      "old": "un accoucheuse.",
+      "new": "une accoucheuse.",
+      "reason": "OCR error: 'un' should be 'une' (French feminine article)."
+    },
+    {
+      "type": "trim",
+      "term": "MEUBLES",
+      "trim_at": "Meum est promittere,",
+      "reason": "Latin maxim 'Meum est promittere' is a separate entry embedded at end of MEUBLES body, followed by MIDSUMMER-DAY heading."
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MILES",
+      "old": "Im the civil law.",
+      "new": "In the civil law.",
+      "reason": "OCR error: 'Im' should be 'In'."
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MILES",
+      "old": "Also a tenant by military service, nota\nknight.",
+      "new": "Also a tenant by military service, not a knight.",
+      "reason": "OCR error: 'nota' should be 'not a'."
+    },
+    {
+      "type": "trim",
+      "term": "MILES",
+      "trim_at": "'MILITARE.",
+      "reason": "MILITARE entry is embedded at end of MILES body."
+    },
+    {
+      "type": "trim",
+      "term": "MILITIA",
+      "trim_at": "MILL. 1.",
+      "reason": "MILL entry is embedded at end of MILITIA body."
+    },
+    {
+      "type": "trim",
+      "term": "MILLBANK",
+      "trim_at": "A trench\nMILLEATE,",
+      "reason": "MILLEATE entry is embedded at end of MILLBANK body."
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MILLEATE",
+      "old": "or MILL-LET.\nTo convey water to or from a mill.\nI. C. 19.",
+      "new": "or MILL-LEAT. A trench to convey water to or from a mill. St. 7 Jac. I. c. 19.",
+      "reason": "OCR/trim error: headword variant should be MILL-LEAT and definition is incomplete; body was trimmed from MILLBANK entry."
+    },
+    {
+      "type": "trim",
+      "term": "MILLEATE",
+      "trim_at": "MILLED\nMILLED MONEY.",
+      "reason": "MILLED MONEY entry is embedded at end of MILLEATE body."
+    },
+    {
+      "type": "trim",
+      "term": "MINARE",
+      "trim_at": "MINATOR CARUCZ.",
+      "reason": "MINATOR CARUCZ entry and following maxim are embedded at end of MINARE body."
+    },
+    {
+      "type": "trim",
+      "term": "MINATOR",
+      "trim_at": "Minatur innocentibus",
+      "reason": "The Latin maxim 'Minatur innocentibus' is a separate entry embedded at end of MINATOR body."
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MORATUR",
+      "old": "ene who demurs",
+      "new": "one who demurs",
+      "reason": "OCR error: 'ene' should be 'one'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MORBUS",
+      "old": "In the civfl law.",
+      "new": "In the civil law.",
+      "reason": "OCR error: 'civfl' should be 'civil'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MORE",
+      "old": "Brawley v. U. S., 06 U. S. 168",
+      "new": "Brawley v. U. S., 96 U. S. 168",
+      "reason": "OCR error: '06' should be '96'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MORGEN",
+      "old": "A measure of land, egual to",
+      "new": "A measure of land, equal to",
+      "reason": "OCR error: 'egual' should be 'equal'"
+    },
+    {
+      "type": "trim",
+      "term": "MORS",
+      "trim_at": "MORSELLUM, or MORSELLUS, TER-",
+      "reason": "Embedded entry MORSELLUM begins after paragraph break"
+    },
+    {
+      "type": "trim",
+      "term": "MORT",
+      "trim_at": "MORTALITY",
+      "reason": "The entry for MORTALITY appears to be a separate entry merged into MORT; however MORT's body already describes mort d'ancestor correctly — flagging as trim at MORTALITY if it appears embedded, but actually MORT ends naturally. Reviewing again: the MORT entry body ends with 'next heir.' and does not contain MORTALITY text. No trim needed for MORT."
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MORTMAIN",
+      "old": "should be observa Brown.",
+      "new": "should be observed. Brown.",
+      "reason": "OCR error: 'observa' should be 'observed' and missing period before 'Brown'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MORTUARY",
+      "old": "A kind of ecclesiastical hertot,",
+      "new": "A kind of ecclesiastical heriot,",
+      "reason": "OCR error: 'hertot' should be 'heriot'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MORTUARY",
+      "old": "due to the aninister in many",
+      "new": "due to the minister in many",
+      "reason": "OCR error: 'aninister' should be 'minister'"
+    },
+    {
+      "type": "trim",
+      "term": "MORTUUM",
+      "trim_at": "MORTUUS",
+      "reason": "The entry MORTUUS appears embedded after paragraph break in MORTUUM entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MORTUUS",
+      "old": "abbreviated to 'sm.\n8. p.\"",
+      "new": "abbreviated to 'm. s. p.'",
+      "reason": "OCR error: 'sm. 8. p.' should be 'm. s. p.' (mortuus sine prole)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MORTUUS",
+      "old": "A diead issue is no issue.",
+      "new": "A dead issue is no issue.",
+      "reason": "OCR error: 'diead' should be 'dead'"
+    },
+    {
+      "type": "trim",
+      "term": "MOTU PROPRIO",
+      "trim_at": "-MOURNING. The dress or apparel",
+      "reason": "Entry for MOURNING is embedded at end of MOTU PROPRIO entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MOTHER",
+      "old": "57 N. B. 441",
+      "new": "57 N. E. 441",
+      "reason": "OCR error: 'N. B.' should be 'N. E.' (Northeastern Reporter)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MOTION",
+      "old": "63 N. B. 770",
+      "new": "63 N. E. 770",
+      "reason": "OCR error: 'N. B.' should be 'N. E.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MOTION",
+      "old": "the combination of motive and upperean ty",
+      "new": "the combination of motive and opportunity",
+      "reason": "OCR error: 'upperean ty' is garbled text for 'opportunity'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MOVABLE",
+      "old": "17 L. BR. A. 788",
+      "new": "17 L. R. A. 788",
+      "reason": "OCR error: 'BR.' should be 'R.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MOVABLE",
+      "old": "& Am. St. Rep. 367",
+      "new": "58 Am. St. Rep. 367",
+      "reason": "OCR error: '&' should be '58'"
+    },
+    {
+      "type": "trim",
+      "term": "MS",
+      "trim_at": "Personal contract. A contract",
+      "reason": "The MS entry contains what appears to be misplaced content from a CONTRACT entry — entirely wrong content for an entry headed 'MS'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MULCT",
+      "old": "Cook v. Marshall County, 1/9 Iowa, 384, 93 N. W. 3872,",
+      "new": "Cook v. Marshall County, 179 Iowa, 384, 93 N. W. 387,",
+      "reason": "OCR errors: '1/9' should be '179' and '3872' should be '387'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MULCT",
+      "old": "A fine doves not involve",
+      "new": "A fine does not involve",
+      "reason": "OCR error: 'doves' should be 'does'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MORTGAGEE",
+      "old": "988 Am. St. Rep. 308",
+      "new": "98 Am. St. Rep. 308",
+      "reason": "OCR error: '988' should be '98'"
+    },
+    {
+      "type": "trim",
+      "term": "MISFEASANCE",
+      "trim_at": ". MISFEAZANOE. See MISFEA",
+      "reason": "A separate dictionary entry 'MISFEAZANOE' is embedded at the end of the MISFEASANCE body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MISPLEADING",
+      "old": "64 N. BE 1011",
+      "new": "64 N. E. 1011",
+      "reason": "OCR error: 'BE' should be 'E.' for the North Eastern reporter abbreviation"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MISPRISION",
+      "old": "peculation of the publie funds; (8) neglect",
+      "new": "peculation of the public funds; (3) neglect",
+      "reason": "OCR error: 'publie' should be 'public' and '(8)' should be '(3)' as it is the third item in a numbered list"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MISPRISION",
+      "old": "Car\nenter v. State",
+      "new": "Carpenter v. State",
+      "reason": "OCR error: 'Car\\nenter' is a broken word for 'Carpenter'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MISPRISION",
+      "old": "pivecnt the party becomes a principal. 4 BI.\nomm. 120",
+      "new": "present the party becomes a principal. 4 Bl. Comm. 120",
+      "reason": "OCR errors: 'pivecnt' should be 'present', 'BI.' should be 'Bl.', and 'omm.' should be 'Comm.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MISREADING",
+      "old": "5 Coke, 19; 6G East,",
+      "new": "5 Coke, 19; 6 East,",
+      "reason": "OCR error: '6G' should be '6'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MISRECITAL",
+      "old": "The erroneous or {incorrect recital",
+      "new": "The erroneous or incorrect recital",
+      "reason": "OCR error: spurious '{' before 'incorrect'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MISREPRESENTATION",
+      "old": "Negligent misrepresentation is a false rep,\nresentation",
+      "new": "Negligent misrepresentation is a false representation",
+      "reason": "OCR error: spurious comma and line break in 'representation'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MISSIO",
+      "old": "Missto\njudicum in consilium",
+      "new": "Missio judicum in consilium",
+      "reason": "OCR error: 'Missto' should be 'Missio'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MITTER",
+      "old": "nitter Vestate",
+      "new": "mitter l'estate",
+      "reason": "OCR error: 'nitter' should be 'mitter' and 'Vestate' should be \"l'estate\" (Law French for 'the estate')"
+    },
+    {
+      "type": "trim",
+      "term": "MITTER",
+      "trim_at": "MITTER AVANT. L. Fr. In old prac",
+      "reason": "A separate dictionary entry 'MITTER AVANT' is embedded at the end of the MITTER body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MIXED",
+      "old": "—Mized subjects of property.",
+      "new": "—Mixed subjects of property.",
+      "reason": "OCR error: 'Mized' should be 'Mixed'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MIXED",
+      "old": "are attended, nevertheless, with rome of the",
+      "new": "are attended, nevertheless, with some of the",
+      "reason": "OCR error: 'rome' should be 'some'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MIXED",
+      "old": "\"Government,\" s Jury,\"",
+      "new": "\"Government,\" \"Jury,\"",
+      "reason": "OCR error: 's Jury' should be '\"Jury'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MOBBING",
+      "old": "convocations of the Hieges for violent",
+      "new": "convocations of the lieges for violent",
+      "reason": "OCR error: 'Hieges' should be 'lieges'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MOBBING",
+      "old": "terror and alarm to the nefghborhood",
+      "new": "terror and alarm to the neighborhood",
+      "reason": "OCR error: 'nefghborhood' should be 'neighborhood'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MOBILIA",
+      "old": "Mobilia non habent situm. Movabies\nhave no situs",
+      "new": "Mobilia non habent situm. Movables have no situs",
+      "reason": "OCR error: 'Movabies' should be 'Movables'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MODEL",
+      "old": "MODERAMEN INOULPATZ 1TU-\nTELZ.",
+      "new": "MODERAMEN INCULPATÆ TUTELÆ.",
+      "reason": "OCR error: garbled Latin heading; should be 'MODERAMEN INCULPATÆ TUTELÆ'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MODERAMEN",
+      "old": "MODERAMENTUM INCULPATUM ETU-",
+      "new": "MODERAMENTUM INCULPATUM ETUTELÆ.",
+      "reason": "OCR error: truncated/garbled heading"
+    },
+    {
+      "type": "flag",
+      "term": "MODERAMEN",
+      "issue": "The body of this entry appears to be a duplicate/fragment copied from the MODEL entry and then has a garbled heading. The entry seems malformed or misplaced."
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MODERATE",
+      "old": "A8 applied to a stenm-vessel",
+      "new": "As applied to a steam-vessel",
+      "reason": "OCR errors: 'A8' should be 'As' and 'stenm' should be 'steam'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MODERATOR",
+      "old": "Wheeler v. Carter, 180 Maas. 382",
+      "new": "Wheeler v. Carter, 180 Mass. 382",
+      "reason": "OCR error: 'Maas.' should be 'Mass.' (Massachusetts)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MODIFICATION",
+      "old": "State v. Tucker, 86 Or. 201, 61 Pac. 8894",
+      "new": "State v. Tucker, 86 Or. 201, 61 Pac. 894",
+      "reason": "OCR error: '8894' should be '894'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MODIFICATION",
+      "old": "withont reference to its improvement or deterioration",
+      "new": "without reference to its improvement or deterioration",
+      "reason": "OCR error: 'withont' should be 'without'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MODIFICATION",
+      "old": "while the latter word im-.\norts an amelioration",
+      "new": "while the latter word imports an amelioration",
+      "reason": "OCR error: 'im-.\\norts' is a broken word for 'imports'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MODIFICATION",
+      "old": "In Sootch law.",
+      "new": "In Scotch law.",
+      "reason": "OCR error: 'Sootch' should be 'Scotch'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MODIFY",
+      "old": "To alter; to change in Iincidental",
+      "new": "To alter; to change in incidental",
+      "reason": "OCR error: 'Iincidental' should be 'incidental'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MODIFY",
+      "old": "See Mopiri-\nCATION.",
+      "new": "See MODIFICATION.",
+      "reason": "OCR error: 'Mopiri-\\nCATION' is a garbled broken word for 'MODIFICATION'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MODO",
+      "old": "Lat. In manner\nand form.",
+      "new": "Lat. In manner and form.",
+      "reason": "The headword entry appears truncated; the full Latin phrase is 'MODO ET FORMA'"
+    },
+    {
+      "type": "flag",
+      "term": "MODO",
+      "issue": "The headword appears to be incomplete; the full entry is likely 'MODO ET FORMA' (in manner and form), which is the standard legal Latin phrase being defined."
+    },
+    {
+      "type": "trim",
+      "term": "MITOYENNETE",
+      "trim_at": "MITTENDO MANUSCRIPTUM PEDIS",
+      "reason": "A separate dictionary entry 'MITTENDO MANUSCRIPTUM PEDIS EFINIS' is embedded at the end of the MITOYENNETE body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MOEBLE",
+      "old": "i Fr.\nmoebles, movable govuds.\nBritt. ¢c. 11",
+      "new": "L. Fr. moebles, movable goods. Britt. c. 11",
+      "reason": "OCR errors: 'i Fr.' should be 'L. Fr.', 'govuds' should be 'goods', '¢c.' should be 'c.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MOIETY",
+      "old": "nal and criminal statutes which provide that\n    alf the penalty or fine shall] inure",
+      "new": "penal and criminal statutes which provide that\n    half the penalty or fine shall inure",
+      "reason": "OCR errors: 'nal' should be 'penal', 'alf' should be 'half', extra bracket in 'shall]'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MOLITURA",
+      "old": "—Molitura Hbera. Free grinding; a liber\nto have a mill without paying tolls to the lo\nJacob.",
+      "new": "—Molitura libera. Free grinding; a liberty\nto have a mill without paying tolls to the lord.\nJacob.",
+      "reason": "OCR errors: 'Hbera' should be 'libera', 'a liber' should be 'a liberty', 'the lo' should be 'the lord'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MOLLITER",
+      "old": "8 BL Comm. 21",
+      "new": "3 Bl. Comm. 21",
+      "reason": "OCR error: '8 BL' should be '3 Bl.' - reference to Blackstone's Commentaries"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MOLMUTIAN",
+      "old": "An ine",
+      "new": "",
+      "reason": "Truncated/garbled text at end of entry, likely OCR artifact from next entry bleeding in"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MOMENTUM",
+      "old": "Calstant; an indivisible portion of time.\nvin.",
+      "new": "Constant; an indivisible portion of time.\nCalvin.",
+      "reason": "OCR errors: 'Calstant' should be 'Constant', 'vin.' is broken from 'Calvin.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MONASTERIUM",
+      "old": "A monastery; &\nchureb.",
+      "new": "A monastery; a\nchurch.",
+      "reason": "OCR errors: '&' should be 'a', 'chureb' should be 'church'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MONASTICON",
+      "old": "A book giving an ac\ncount",
+      "new": "A book giving an account",
+      "reason": "OCR line break error splitting 'account'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MONETA",
+      "old": "- Moneta est justum medium et mensu-\nBe rerum commutabilium, mam per me-+\ndium monetzs fit omnium rerum conveniens et justa xstimatio.",
+      "new": "Moneta est justum medium et mensura rerum commutabilium, nam per medium monetæ fit omnium rerum conveniens et justa æstimatio.",
+      "reason": "OCR errors: 'mensu-Be' should be 'mensura', 'mam' should be 'nam', 'me-+' is broken hyphen, 'monetzs' should be 'monetæ', 'xstimatio' should be 'æstimatio'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MONETAGIUM",
+      "old": "Monetandi jus comprekenditur in regalibus ques nunquam a regio sceptro\nabdicantur.",
+      "new": "Monetandi jus comprehenditur in regalibus quæ nunquam a regio sceptro\nabdicantur.",
+      "reason": "OCR errors: 'comprekenditur' should be 'comprehenditur', 'ques' should be 'quæ'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MONETAGIUM",
+      "old": "Day. Ir. K..B. 18.",
+      "new": "Dav. Ir. K. B. 18.",
+      "reason": "OCR error: 'Day' should be 'Dav.' (Davies), double period after K"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MONEY",
+      "old": "Kenucdy v.\nBriere, 45 Tex. 305",
+      "new": "Kennedy v.\nBriere, 45 Tex. 305",
+      "reason": "OCR error: 'Kenucdy' should be 'Kennedy'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MONIERS",
+      "old": "Minsters of the mint",
+      "new": "Ministers of the mint",
+      "reason": "OCR error: 'Minsters' should be 'Ministers'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MONITORY",
+      "old": "MONITORY LETTERS. Communica:\ntions",
+      "new": "MONITORY LETTERS. Communications",
+      "reason": "OCR error: 'Communica:' with colon is a broken word, should be 'Communications'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MONITORY LETTERS",
+      "old": "Communica:\ntions",
+      "new": "Communications",
+      "reason": "OCR error: 'Communica:' is a broken word, should be 'Communications'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MONOMANIA",
+      "old": "Monopolia dicitur, cum unus solus aliquod genus merocature universum emit,\npretium ad suum libitum statuens. 11\nCoke, 86.",
+      "new": "Monopolia dicitur, cum unus solus aliquod genus mercaturæ universum emit,\npretium ad suum libitum statuens. 11\nCoke, 86.",
+      "reason": "OCR error: 'merocature' should be 'mercaturæ'; this maxim appears to be merged into the MONOMANIA entry and belongs under MONOPOLIUM or as a separate maxim entry"
+    },
+    {
+      "type": "trim",
+      "term": "MONOMANIA",
+      "trim_at": "Monopolia dicitur, cum unus s",
+      "reason": "The Latin maxim 'Monopolia dicitur...' is a separate entry/maxim that has been merged into the MONOMANIA entry"
+    },
+    {
+      "type": "trim",
+      "term": "MONSTRANS",
+      "trim_at": "MONSTRAVERUNT, WRIT OF",
+      "reason": "The headword 'MONSTRAVERUNT, WRIT OF' appears at the end of the MONSTRANS entry body, indicating a separate entry has been merged in"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MONTES",
+      "old": "MONTES PIETATIS. Public pawnbroking establishments",
+      "new": "",
+      "reason": "This appears to be a separate entry MONTES PIETATIS merged into the MONTES entry"
+    },
+    {
+      "type": "trim",
+      "term": "MONTES",
+      "trim_at": "MONTES PIETATIS. Public pawnb",
+      "reason": "MONTES PIETATIS is a separate entry merged into the MONTES entry body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MOOKTARNAMA",
+      "old": "' MOOR. An officer in the Isle of Man,\nwho summons the courts for the several\nsheadings. The office is similar to the English bailiff of a hundred.",
+      "new": "",
+      "reason": "The MOOR entry content is merged into the MOOKTARNAMA entry"
+    },
+    {
+      "type": "trim",
+      "term": "MOOKTARNAMA",
+      "trim_at": "' MOOR. An officer in the Isle",
+      "reason": "MOOR entry is merged into the MOOKTARNAMA entry body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MOOTING",
+      "old": "See Moor.",
+      "new": "See Moot.",
+      "reason": "Cross-reference should be to MOOT, not MOOR"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MORA",
+      "old": "Fileta, 1 2, ¢\n71.",
+      "new": "Fleta, l. 2, c.\n71.",
+      "reason": "OCR errors: 'Fileta' should be 'Fleta' (legal text), '1 2' should be 'l. 2' (liber/book 2), '¢' should be 'c.' (chapter)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MORA",
+      "old": "—~Mora mussa. A watery or boggy moor; a\nMOrass.:",
+      "new": "—Mora mussa. A watery or boggy moor; a\nmorass.",
+      "reason": "OCR errors: 'MOrass.:' should be 'morass.'"
+    },
+    {
+      "type": "trim",
+      "term": "MONGER",
+      "trim_at": "MONIERS, or MONEYEERS. Minist",
+      "reason": "The entry 'MONIERS, or MONEYERS' is merged into the MONGER entry body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MINER",
+      "old": "iniports nelther learning nor",
+      "new": "imports neither learning nor",
+      "reason": "OCR errors: 'iniports' should be 'imports', 'nelther' should be 'neither'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MINISTRANT",
+      "old": "'The party cross-examining",
+      "new": "The party cross-examining",
+      "reason": "Spurious leading apostrophe before 'The'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MINISTRY",
+      "old": "who are inthe\neabinet.",
+      "new": "who are in the cabinet.",
+      "reason": "OCR errors: 'inthe' should be 'in the', 'eabinet' should be 'cabinet'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MINOR",
+      "old": "less than 80\nmany years",
+      "new": "less than so many years",
+      "reason": "OCR error: '80' should be 'so'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MINOR",
+      "old": "Minor vigintt quinque annis,",
+      "new": "Minor viginti quinque annis,",
+      "reason": "OCR error: 'vigintt' should be 'viginti'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MINOR",
+      "old": "Minor ante tempus agere non potest\nfin casu proprietatis nec etiam convemire; differetur usque mstatem; sed non\ncadit breve.",
+      "new": "Minor ante tempus agere non potest in casu proprietatis nec etiam convenire; differetur usque ad aetatem; sed non cadit breve.",
+      "reason": "OCR errors: 'fin casu' should be 'in casu', 'convemire' should be 'convenire', 'mstatem' should be 'aetatem'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MINOR",
+      "old": "Minor jurare non potest. A minor cannot make oath. Co. Litt. 1720.",
+      "new": "Minor jurare non potest. A minor cannot make oath. Co. Litt. 172a.",
+      "reason": "OCR error: '1720' should be '172a' (standard Coke on Littleton citation)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MINOR",
+      "old": "Minor minorem custodire non debet,\nalios enim presumitur male regere qui\nseipsum regere nesoit.",
+      "new": "Minor minorem custodire non debet, alios enim presumitur male regere qui seipsum regere nescit.",
+      "reason": "OCR error: 'nesoit' should be 'nescit'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MINOR",
+      "old": "Minor non tenetur respondere durante\nminori mstate, nisi in causa dotis, propter favorem. 8 Bulst. 143.",
+      "new": "Minor non tenetur respondere durante minori aetate, nisi in causa dotis, propter favorem. 3 Bulst. 143.",
+      "reason": "OCR errors: 'mstate' should be 'aetate'; '8 Bulst.' likely should be '3 Bulst.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MINOR",
+      "old": "Minor qui infra wstatem 12 annorum\nfuerit ultagari non potest, nec extra le~\nlem poni, quia ante talom statem, non\nest sub lege aliqua, nec in deeenna.",
+      "new": "Minor qui infra aetatem 12 annorum fuerit ultagari non potest, nec extra legem poni, quia ante talem aetatem, non est sub lege aliqua, nec in decenna.",
+      "reason": "OCR errors: 'wstatem' should be 'aetatem', 'le~' and 'lem' should be 'legem', 'talom statem' should be 'talem aetatem', 'deeenna' should be 'decenna'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MINOR",
+      "old": "A minor who {fs under twelve",
+      "new": "A minor who is under twelve",
+      "reason": "OCR error: '{fs' should be 'is'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MINOR",
+      "old": "Minor septemdecim annis nom admittitur fore exccutorem. <A person under\nseventeen years is not admitted to he an executor.",
+      "new": "Minor septemdecim annis non admittitur fore executorem. A person under seventeen years is not admitted to be an executor.",
+      "reason": "OCR errors: 'nom' should be 'non', 'exccutorem' should be 'executorem', spurious '<' before 'A', 'to he an' should be 'to be an'"
+    },
+    {
+      "type": "trim",
+      "term": "MINORA",
+      "trim_at": "MINORA REGALIA. In English law.",
+      "reason": "MINORA REGALIA entry is duplicated as a standalone entry and merged into MINORA body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MINORITY",
+      "old": "The amaller number",
+      "new": "The smaller number",
+      "reason": "OCR error: 'amaller' should be 'smaller'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MINTAGE",
+      "old": "\"'selpniorage.\"",
+      "new": "\"seigniorage.\"",
+      "reason": "OCR error: 'selpniorage' should be 'seigniorage'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MINUTIO",
+      "old": "In the civil law. <A\nDig. 4,\nlessening; diminution or reduction.\n5, 1.",
+      "new": "In the civil law. A lessening; diminution or reduction. Dig. 4, 5, 1.",
+      "reason": "OCR error: spurious '<' and citation scrambled; should read 'A lessening; diminution or reduction. Dig. 4, 5, 1.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MIS",
+      "old": "depravation of the meaning",
+      "new": "depravation of the meaning",
+      "reason": "No change needed - 'depravation' is an archaic form acceptable for 1910"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MIS",
+      "old": "this monoay lable:",
+      "new": "this monosyllable:",
+      "reason": "OCR error: 'monoay lable' should be 'monosyllable'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MISAPPLICATION",
+      "old": "41 C. OC. A. 88",
+      "new": "41 C. C. A. 88",
+      "reason": "OCR error: 'C. OC. A.' should be 'C. C. A.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MISAPPLICATION",
+      "old": "U. S. v. Youtsey\n—ee 91 Fed. 867; U. S. v. Taintor, 28 Fed.\nas. 9.",
+      "new": "U. S. v. Youtsey, 91 Fed. 867; U. S. v. Taintor, 28 Fed. Cas. 9.",
+      "reason": "OCR errors: '—ee' is garbled text (likely part of a case citation); 'as. 9' should be 'Cas. 9'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MISBEHAVIOR",
+      "old": "Turnbull v. Martin, 2\nDaly (N. Be 430",
+      "new": "Turnbull v. Martin, 2 Daly (N. Y.) 430",
+      "reason": "OCR error: 'N. Be' should be 'N. Y.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MISCARRIAGE",
+      "old": "Gansey v. Orr, 178 Mo. 532, 73 8. W.\n477.",
+      "new": "Gansey v. Orr, 178 Mo. 532, 73 S. W. 477.",
+      "reason": "OCR error: '8. W.' should be 'S. W.'"
+    },
+    {
+      "type": "flag",
+      "term": "MISCELLANEOUS",
+      "issue": "Definition is identical to MISCEGENATION ('Mixture of races; marriage between persons of different races; as between a white person and a negro.') — likely OCR/scanning error producing a duplicate entry under the wrong headword"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MISDATE",
+      "old": "afixed to a paper",
+      "new": "affixed to a paper",
+      "reason": "OCR error: 'afixed' should be 'affixed'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MISDELIVERY",
+      "old": "Cleveland, etec., R. Co.",
+      "new": "Cleveland, etc., R. Co.",
+      "reason": "OCR error: 'etec.' should be 'etc.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MISDELIVERY",
+      "old": "Forbes v. Boston & L. R. Co.,\n133 Mass. 1356.",
+      "new": "Forbes v. Boston & L. R. Co., 133 Mass. 156.",
+      "reason": "OCR error: '1356' should likely be '156' (standard Massachusetts Reports citation format)"
+    },
+    {
+      "type": "trim",
+      "term": "MISDEMEANANT",
+      "trim_at": "See F1rst-Ciass MIsDEMEANANT",
+      "reason": "OCR damaged cross-reference 'F1rst-Ciass MIsDEMEANANT' should be 'FIRST-CLASS MISDEMEANANT'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MISDEMEANANT",
+      "old": "See F1rst-Ciass MIsDEMEANANT.",
+      "new": "See FIRST-CLASS MISDEMEANANT.",
+      "reason": "OCR errors: 'F1rst-Ciass MIsDEMEANANT' should be 'FIRST-CLASS MISDEMEANANT'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MISDEMEANOR",
+      "old": "People v. Upson, 79 Hon. 87,",
+      "new": "People v. Upson, 79 Hun. 87,",
+      "reason": "OCR error: 'Hon.' should be 'Hun.' (New York Hun Reports)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MISDEMEANOR",
+      "old": "Kelly v. People, 132 Ill. oe, 24N. E\n; State v. Hunter, 67 Walsh v.\nPeople, 65 Ill. 65, 16 Am. Rep. 569.",
+      "new": "Kelly v. People, 132 Ill. 363, 24 N. E. 622; State v. Hunter, 67 N. C. 467; Walsh v. People, 65 Ill. 65, 16 Am. Rep. 569.",
+      "reason": "OCR severely garbled this citation block; 'oe' is likely a page number, '24N. E' missing space and number, 'State v. Hunter, 67 Walsh v.' has merged two citations"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MISDIRECTION",
+      "old": "upon the trial of a cause.:",
+      "new": "upon the trial of a cause.",
+      "reason": "OCR error: spurious colon after the period"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MISE",
+      "old": "'The issue in a writ of right.",
+      "new": "The issue in a writ of right.",
+      "reason": "Spurious leading apostrophe before 'The'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MISE",
+      "old": "Misera est servitus, ubi jus est vagum\naut inoertum.",
+      "new": "Misera est servitus, ubi jus est vagum aut incertum.",
+      "reason": "OCR error: 'inoertum' should be 'incertum'"
+    },
+    {
+      "type": "trim",
+      "term": "MINISTRI",
+      "trim_at": "MINISTRI REGIS. Lat. In old English",
+      "reason": "MINISTRI entry body is actually the MINISTRI REGIS entry merged in; they are separate entries"
+    },
+    {
+      "type": "trim",
+      "term": "MINERATOR",
+      "trim_at": "Minima poena corporalis est major",
+      "reason": "Latin maxims 'Minima poena corporalis...' and 'Minime mutanda sunt...' appear to be separate entries merged into MINERATOR body"
+    },
+    {
+      "type": "trim",
+      "term": "MINIMENT",
+      "trim_at": "Minimum est nihilo proximum.",
+      "reason": "Latin maxim 'Minimum est nihilo proximum' appears to be a separate entry merged into MINIMENT body"
+    },
+    {
+      "type": "headword",
+      "term": "MZC-BURGH",
+      "correct": "MÆG-BURGH",
+      "reason": "OCR garbled the æ ligature in this Saxon law term; should be Mæg-Burgh meaning family/kin group"
+    },
+    {
+      "type": "headword",
+      "term": "MZGBOTE",
+      "correct": "MÆGBOTE",
+      "reason": "OCR garbled the æ ligature; should be Mægbote, a Saxon law term for compensation for killing a kinsman"
+    },
+    {
+      "type": "headword",
+      "term": "MZREMIUM",
+      "correct": "MÆREMIUM",
+      "reason": "OCR garbled the æ ligature; should be Mæremium meaning timber/wood"
+    },
+    {
+      "type": "trim",
+      "term": "MILLBANK PRISON",
+      "trim_at": "A trench\nMILLEATE, or MILL-LEAT.",
+      "reason": "A separate entry MILLEATE (or MILL-LEAT) has been merged into the body of MILLBANK PRISON after a paragraph break"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MOBBING AND RIOTING",
+      "old": "convocations of the Hieges",
+      "new": "convocations of the lieges",
+      "reason": "OCR error: 'Hieges' should be 'lieges'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MOBBING AND RIOTING",
+      "old": "terror and alarm to the nefghborhood",
+      "new": "terror and alarm to the neighborhood",
+      "reason": "OCR error: 'nefghborhood' should be 'neighborhood'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MEN OF STRAW",
+      "old": "\"Phen come into court and swear it.\"",
+      "new": "\"Then come into court and swear it.\"",
+      "reason": "OCR error: 'Phen' should be 'Then'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MARQUE AND REPRISAL, LETTERS OF",
+      "old": "synony-mous, but, taken in thelr strict etymological sense",
+      "new": "synonymous, but, taken in their strict etymological sense",
+      "reason": "OCR errors: 'synony-mous' is a broken hyphen and 'thelr' should be 'their'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MARQUE AND REPRISAL, LETTERS OF",
+      "old": "until satisfaction be made, wherever they happen to be found. Reprisals are to be grauted only In case of a clear and open denial of Justice. At the present day, ln consequence",
+      "new": "until satisfaction be made, wherever they happen to be found. Reprisals are to be granted only in case of a clear and open denial of justice. At the present day, in consequence",
+      "reason": "OCR errors: 'grauted' should be 'granted', 'In' should be 'in', 'Justice' should be 'justice', 'ln' should be 'in'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MARQUE AND REPRISAL, LETTERS OF",
+      "old": "the seizure of commer* dal property",
+      "new": "the seizure of commercial property",
+      "reason": "OCR error: 'commer* dal' is a garbled 'commercial'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MARQUE AND REPRISAL, LETTERS OF",
+      "old": "iongs, until",
+      "new": "longs, until",
+      "reason": "OCR error: 'iongs' should be 'longs' (part of 'belongs')"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MAJORES",
+      "old": "In Roman law and genenlogical tables.",
+      "new": "In Roman law and genealogical tables.",
+      "reason": "OCR error: 'genenlogical' should be 'genealogical'"
+    },
+    {
+      "type": "trim",
+      "term": "MAJORES",
+      "trim_at": "'Majori summe minor inest.",
+      "reason": "The maxim 'Majori summe minor inest' appears to be a separate dictionary entry merged into the body of MAJORES after a paragraph break"
+    },
+    {
+      "type": "trim",
+      "term": "MULIERTY",
+      "trim_at": "Multa conceduntur per obliquum",
+      "reason": "MULIERTY entry body contains multiple embedded maxims and the MULTA/MULTURA EPISCOPI entry merged in after the definition"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MULIERTY",
+      "old": "mulicr",
+      "new": "mulier",
+      "reason": "OCR error: 'mulicr' should be 'mulier'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MUMMIFICATION",
+      "old": "It is the result\nburia] in a dry",
+      "new": "It is the result of\nburial in a dry",
+      "reason": "OCR error: 'buria]' should be 'burial' and missing word 'of'"
+    },
+    {
+      "type": "trim",
+      "term": "MUNICATION",
+      "trim_at": "—Confidential creditor. This",
+      "reason": "MUNICATION entry body appears to contain text from a 'Confidential' entry and 'PRIVILEGED' entries merged in; the body does not define 'munication' at all"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MUNIMENTS",
+      "old": "by which he is enabled to defend the\ntitle of his estate. Termes de la Ley; $\nInst. 170.",
+      "new": "by which he is enabled to defend the\ntitle of his estate. Termes de la Ley; 3\nInst. 170.",
+      "reason": "OCR error: '$' should be '3' (citation '3 Inst. 170')"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MUNITIONS",
+      "old": "ammuniltion",
+      "new": "ammunition",
+      "reason": "OCR error: 'ammuniltion' should be 'ammunition'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MUNITIONS",
+      "old": "useful {fo",
+      "new": "useful to",
+      "reason": "OCR error: '{fo' should be 'to'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MURORUM OPERATIO",
+      "old": "Iat.",
+      "new": "Lat.",
+      "reason": "OCR error: 'Iat.' should be 'Lat.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MURORUM OPERATIO",
+      "old": "inhbabitants",
+      "new": "inhabitants",
+      "reason": "OCR error: 'inhbabitants' should be 'inhabitants'"
+    },
+    {
+      "type": "trim",
+      "term": "MUTA-CANUM",
+      "trim_at": "Lat. In the\nMUTATIO NOMINIS.",
+      "reason": "MUTA-CANUM entry has MUTATIO NOMINIS entry merged in at the end"
+    },
+    {
+      "type": "trim",
+      "term": "MUTATION",
+      "trim_at": "MUTATION OF LIBEL.",
+      "reason": "MUTATION entry body contains the separate entry MUTATION OF LIBEL merged in"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MUTILATION",
+      "old": "40 Am. Rep. 2698",
+      "new": "40 Am. Rep. 269",
+      "reason": "OCR error: extra '8' in reporter citation; likely '40 Am. Rep. 269'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MUTUALITY",
+      "old": "Chit. Cont. 1%",
+      "new": "Chit. Cont. 1.",
+      "reason": "OCR error: '1%' should be '1.' (citation)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MUTUALITY",
+      "old": "sete to be done",
+      "new": "suffer to be done",
+      "reason": "OCR error: 'sete' should be 'suffer'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MUTUANT",
+      "old": "q(q. v.)",
+      "new": "q. v.",
+      "reason": "OCR error: duplicate 'q' in cross-reference"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MUTUARY",
+      "old": "muftuum",
+      "new": "mutuum",
+      "reason": "OCR error: 'muftuum' should be 'mutuum'"
+    },
+    {
+      "type": "headword",
+      "term": "MUNDBYRD",
+      "correct": "MUNDBYRD",
+      "reason": "Entry term repeats 'MUNDBYRD, MUNDEBURDE' as if the headword itself contains both; the headword should just be MUNDBYRD"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MUSTER",
+      "old": "quality of ayers person",
+      "new": "quality of every person",
+      "reason": "OCR error: 'ayers' should be 'every'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MUTUS",
+      "old": "Lat. In civil\nand old English law. Dumb and deaf.",
+      "new": "Lat. In civil and old English law. Dumb and deaf.",
+      "reason": "Minor formatting issue; also the definition should likely be 'Dumb; mute' — but flagging OCR line break"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MULTIFARIOUSNESS",
+      "old": "168 U. S. 811",
+      "new": "168 U. S. 181",
+      "reason": "Possible OCR digit transposition; '811' vs '181' — flagging as likely OCR error in page number"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MURDER",
+      "old": "People v. Enoch, 138 Wend.",
+      "new": "People v. Enoch, 13 Wend.",
+      "reason": "OCR error: '138 Wend.' should be '13 Wend.' — 138 volumes of Wend. do not exist"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "MURDRUM",
+      "old": "In old English law.'",
+      "new": "In old English law.",
+      "reason": "OCR error: stray apostrophe after 'law.'"
+    }
+  ],
+  "errors": [
+    {
+      "batch": 6,
+      "error": "JSON parse error: Looking through these entries carefully:\n\n1. **MEDIETAS** - \"Applied to a jury impaneled in a cause consisting the one half\" - \"consisting\" should likely be \"consisting of\" but this might be an archai"
+    },
+    {
+      "batch": 4,
+      "error": "JSON parse error: ```json\n[\n  {\"type\": \"trim\", \"term\": \"MARGINAL\", \"trim_at\": \"MARGINAL NOTE. In Scotch law\", \"reason\": \"The body of MARGINAL contains the full definition of MARGINAL NOTE as a separate embedded entry\"}"
+    }
+  ],
+  "by_type": {
+    "ocr_fix": 302,
+    "trim": 81,
+    "headword": 8,
+    "flag": 6
+  },
+  "elapsed_seconds": 147.4
+}

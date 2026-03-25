@@ -1,0 +1,115 @@
+[
+  {
+    "type": "flag",
+    "term": "BASTARDUS",
+    "issue": "Body contains content from BASILICA entry about Constantinople rather than content about 'BASTARDUS NON POTEST HEREDARE'"
+  },
+  {
+    "type": "flag",
+    "term": "BASTARDY",
+    "issue": "Body appears to be only a fragment: \"'The method provided by statute of proceeding against the putative father to secure a proper maintenance for the bastard.\" - may be missing the main definition of bastardy (the offense of begetting a bastard child) which appears in BASTARDIZE entry"
+  },
+  {
+    "type": "flag",
+    "term": "BD",
+    "issue": "Entry body contains misplaced content about PARCEL makers and RAPE (division of county), unrelated to 'BD' as an abbreviation; appears to be severely garbled/misassigned content"
+  },
+  {
+    "type": "headword_review",
+    "term": "BABON",
+    "suggested": "BACON",
+    "reason": "The body discusses 'Customary estates' which belongs under a CUSTOM-related entry; the headword appears to be a misplaced/damaged entry. However, given the body content about customary estates, this appears to be a fragment of a CUSTOM entry merged incorrectly. Flagging as headword issue."
+  },
+  {
+    "type": "flag",
+    "term": "BAITING",
+    "issue": "The entry headword 'BAITING' has body text that appears to be a continuation of the BAILMENT entry ('ed into locatio rei, or hiring...'), suggesting OCR page-flow error where BAILMENT overflow text was placed under BAITING heading"
+  },
+  {
+    "type": "flag",
+    "term": "BABON",
+    "issue": "Headword 'BABON' appears to be completely wrong - the body contains content from a CUSTOM-related entry about customary estates, customary freehold, etc. This may be a severe OCR/page-flow error."
+  },
+  {
+    "type": "flag",
+    "term": "BARATRIAM",
+    "issue": "Entry headword appears to be a fragment or misplaced entry; body contains text that belongs to BAR entry (about barristers, court-room) and the headword 'BARATRIAM' does not match the content about a 'BARRISTER COMMITTEE'"
+  },
+  {
+    "type": "flag",
+    "term": "BEYOND",
+    "issue": "Entry appears truncated mid-sentence at 'Wakefield v.' - body is incomplete"
+  },
+  {
+    "type": "flag",
+    "term": "BH",
+    "issue": "This entry appears to be OCR garbage - a mix of unrelated case citations, legal maxims, and abbreviation table entries jumbled together. Not a real dictionary entry."
+  },
+  {
+    "type": "flag",
+    "term": "BI",
+    "issue": "This entry appears to be OCR garbage - a mix of unrelated legal commentary, Saxon law definitions, and a Latin maxim jumbled together. Not a real dictionary entry."
+  },
+  {
+    "type": "flag",
+    "term": "BINDING",
+    "issue": "Entry headword may be incomplete - likely 'BINDING OVER' based on the definition content about recognizance and bail."
+  },
+  {
+    "type": "flag",
+    "term": "BISANTIUM",
+    "issue": "This appears to be a duplicate entry - the same content appears under 'BISANTIUM BISANTIUM, BESANTINE, BEZANT'. One of the two entries may be an OCR artifact or the headword is damaged."
+  },
+  {
+    "type": "headword_review",
+    "term": "BISANTIUM BISANTIUM, BESANTINE, BEZANT",
+    "suggested": "BISANTIUM, BESANTINE, BEZANT",
+    "reason": "Headword has 'BISANTIUM' duplicated due to OCR error."
+  },
+  {
+    "type": "flag",
+    "term": "BK",
+    "issue": "This entry appears to be OCR garbage - a mix of unrelated case citations and legal definitions. Not a real dictionary entry. Similar to BH and BI entries."
+  },
+  {
+    "type": "headword_review",
+    "term": "BLACK-ROD",
+    "suggested": "BLACK-ROD, GENTLEMAN USHER OF",
+    "reason": "The headword is incomplete; it should include 'GENTLEMAN USHER OF' as shown in body and duplicate entry"
+  },
+  {
+    "type": "headword_review",
+    "term": "BUSONES",
+    "suggested": "BUSONES COMITATUS",
+    "reason": "The entry headword is just 'BUSONES' but the full term is 'BUSONES COMITATUS' as shown in the body"
+  },
+  {
+    "type": "headword_review",
+    "term": "BUTTED",
+    "suggested": "BUTTED AND BOUNDED",
+    "reason": "The entry headword is just 'BUTTED' but the body immediately shows the full term 'BUTTED AND BOUNDED'"
+  },
+  {
+    "type": "flag",
+    "term": "BLEND",
+    "issue": "This entry has headword 'BLEND' but the body begins with 'BLENDED FUND' — the headword appears to be incorrect or truncated; it should likely be 'BLENDED FUND'"
+  },
+  {
+    "type": "headword_review",
+    "term": "BRETTS",
+    "suggested": "BRETTS AND SCOTTS, LAWS OF THE",
+    "reason": "Headword is incomplete; the full entry title is BRETTS AND SCOTTS, LAWS OF THE, as shown in the body"
+  },
+  {
+    "type": "headword_review",
+    "term": "BROCARIUS BROCARIUS, BROCATOR",
+    "suggested": "BROCARIUS, BROCATOR",
+    "reason": "Headword is duplicated/garbled; should be 'BROCARIUS, BROCATOR'"
+  },
+  {
+    "type": "headword_review",
+    "term": "BRUTUM",
+    "suggested": "BRUTUM FULMEN",
+    "reason": "Entry body says 'An empty noise; an empty threat' which is the definition of 'brutum fulmen'; headword appears truncated"
+  }
+]

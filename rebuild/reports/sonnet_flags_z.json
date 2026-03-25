@@ -1,0 +1,42 @@
+[
+  {
+    "type": "headword_review",
+    "term": "ZEFESN",
+    "suggested": "ZFESN",
+    "reason": ""
+  },
+  {
+    "type": "flag",
+    "term": "ZEFESN",
+    "issue": "Headword appears to be an OCR error; unable to determine correct spelling from context about feeding swine under oaks/beeches"
+  },
+  {
+    "type": "headword_review",
+    "term": "ZEGROTO",
+    "suggested": "EGROTO",
+    "reason": "Leading 'Z' is likely OCR artifact; term should be EGROTO (Latin: being sick), consistent with body text 'Holt egroto'"
+  },
+  {
+    "type": "headword_review",
+    "term": "ZEGYLDE",
+    "suggested": "EGYLDE",
+    "reason": "Leading 'Z' is likely OCR artifact; term relates to Anglo-Saxon 'gild' (payment), should be EGYLDE"
+  },
+  {
+    "type": "headword_review",
+    "term": "ZEIR",
+    "suggested": "YEIR",
+    "reason": "ZEIR is Old Scots for 'year'; OCR likely misread 'Y' as 'Z'; body text 'Zeir ahd day' also suggests OCR error"
+  },
+  {
+    "type": "headword_review",
+    "term": "ZETHELING",
+    "suggested": "AETHELING",
+    "reason": "OCR error; 'ZETHELING' should be 'AETHELING', the Saxon term for a prince/noble of the blood; body confirms 'In Saxon law'"
+  },
+  {
+    "type": "flag",
+    "term": "ZETHELING",
+    "issue": "Body begins with 'AFFECTIONATE. In Saxon law, generally a prince of the blood.' — 'AFFECTIONATE' appears to be a spurious inserted word or OCR artifact; the definition should read 'In Saxon law, generally a prince of the blood. A noble;'"
+  }
+]

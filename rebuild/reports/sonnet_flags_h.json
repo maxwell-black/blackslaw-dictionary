@@ -1,0 +1,89 @@
+[
+  {
+    "type": "headword_review",
+    "term": "HEC",
+    "suggested": "HEC EST CONVENTIO",
+    "reason": "The actual headword should be 'HEC EST CONVENTIO' as shown in the body"
+  },
+  {
+    "type": "headword_review",
+    "term": "HEORDFZATE",
+    "suggested": "HEORDFATE",
+    "reason": "Headword appears garbled; consistent with 'HEORDFATE' as shown in the HENRICUS merged entry"
+  },
+  {
+    "type": "flag",
+    "term": "HAUKER",
+    "issue": "HAUKER appears to be a duplicate/OCR variant of HAWKER — likely headword should be HAWKER"
+  },
+  {
+    "type": "headword_review",
+    "term": "HAEARETICO",
+    "suggested": "HAERETICO",
+    "reason": "Headword has extra 'A': 'HAEARETICO' should be 'HAERETICO'"
+  },
+  {
+    "type": "headword_review",
+    "term": "HETZRARCHA",
+    "suggested": "HETZRARCHA",
+    "reason": "Possible headword issue but unclear - flagging separately"
+  },
+  {
+    "type": "flag",
+    "term": "HETZRARCHA",
+    "issue": "Headword may be garbled - possibly should be 'HIERARCHA' or similar term meaning head of a religious house"
+  },
+  {
+    "type": "flag",
+    "term": "HETZRIA",
+    "issue": "Headword may be garbled - possibly should be 'HETAERIA' or 'HETRIA' (Roman law term for company/college)"
+  },
+  {
+    "type": "flag",
+    "term": "HIBITIONEM",
+    "issue": "Headword appears to be a fragment of a longer Latin phrase - likely 'NON COMMITTIT VASTUM CONTRA PRO-HIBITIONEM' truncated by OCR"
+  },
+  {
+    "type": "flag",
+    "term": "HIDEL",
+    "issue": "'ce. 5, 6; Cowell.' at end of body may be a garbled citation reference"
+  },
+  {
+    "type": "flag",
+    "term": "HIKENILD",
+    "issue": "Entry seems very short and may be missing content about the other great Roman roads"
+  },
+  {
+    "type": "flag",
+    "term": "HIRST",
+    "issue": "Entry appears to have headword 'HIRST' but body starts with 'HURST.' - may be two entries merged or headword should be 'HIRST, or HURST'"
+  },
+  {
+    "type": "flag",
+    "term": "HULEA",
+    "issue": "Entry body contains 'A small vessel.' followed by 'In old records. A hulk or Cowell.' - the second part may belong to a HULK entry or is misplaced"
+  },
+  {
+    "type": "flag",
+    "term": "HUOUSQUE",
+    "issue": "Headword appears to be 'HUOUSQUE' but the correct Latin term is likely 'HACTENUS' or 'HUCUSQUE' - possible OCR error in headword"
+  },
+  {
+    "type": "headword_review",
+    "term": "HOOCUS",
+    "suggested": "HOOCUS SALT",
+    "reason": "The entry headword appears to be 'HOOCUS' but the body begins with 'HOOCUS SALT' as the full term; however this may be a formatting issue where HOOCUS SALT is the full headword"
+  },
+  {
+    "type": "headword_review",
+    "term": "HOSTILARIA HOSTILARIA, HOSPITALARIA",
+    "suggested": "HOSTILARIA",
+    "reason": "The headword is duplicated/garbled; should be just HOSTILARIA"
+  },
+  {
+    "type": "headword_review",
+    "term": "HOSTILARIA HOSTILARIA, HOSPITALARIA",
+    "suggested": "HOSTILARIA",
+    "reason": "Duplicate headword entry; this appears to be same as the HOSTILARIA entry"
+  }
+]

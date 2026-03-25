@@ -1,0 +1,40 @@
+[
+  {
+    "type": "flag",
+    "term": "OBSTA",
+    "issue": "Entry appears to be a fragment; 'OBSTA PRINCIPIS' and 'OBSTANTE' seem to be separate entries merged or split oddly. The body 'OBSTANTE. Withstanding; See NON OBSTANTE. hindering.' looks like OBSTANTE entry content merged here."
+  },
+  {
+    "type": "headword_review",
+    "term": "OBZ,RATUS",
+    "suggested": "OBRATUS",
+    "reason": "OCR error: 'Z,' in headword should be nothing; correct term is OBRATUS (Latin: bound debtor)"
+  },
+  {
+    "type": "headword_review",
+    "term": "ONERARI",
+    "suggested": "ONERARI NON",
+    "reason": "The plea described ('he ought not to be charged') corresponds to the plea 'onerari non' in debt actions; the headword appears truncated"
+  },
+  {
+    "type": "flag",
+    "term": "OSTENDIT",
+    "issue": "The entry body contains only 'OSTENSIBLE AGENCY' definition with no definition for 'OSTENDIT' itself. The headword OSTENDIT appears to be a fragment or incorrectly formed entry — the body belongs to OSTENSIBLE AGENCY."
+  },
+  {
+    "type": "flag",
+    "term": "OLAUSE",
+    "issue": "Headword appears to be OCR-damaged. Definition describes 'a precautionary stipulation inserted in a deed making a good tenant to the precipe in a common recovery' — possibly should be 'CLAUSE' or a specific named clause"
+  },
+  {
+    "type": "headword_review",
+    "term": "OXFILD",
+    "suggested": "OXFILD",
+    "reason": "Flagging: OXFORD and OXFILD have identical definitions - one is likely a duplicate or OCR error of the headword"
+  },
+  {
+    "type": "flag",
+    "term": "OXFORD",
+    "issue": "Entry for OXFORD has exactly the same definition as OXFILD - one headword is likely an OCR error of the other. 'OXFILD' may be the correct archaic term, making OXFORD a duplicate with a corrupted/wrong headword, or vice versa."
+  }
+]

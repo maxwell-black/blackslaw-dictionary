@@ -1,0 +1,37 @@
+[
+  {
+    "type": "headword_review",
+    "term": "WIFE'sS EQUITY",
+    "suggested": "WIFE'S EQUITY",
+    "reason": "OCR error in headword: 'WIFE'sS' should be 'WIFE'S'"
+  },
+  {
+    "type": "headword_review",
+    "term": "WELL ENOWING",
+    "suggested": "WELL KNOWN",
+    "reason": "OCR error: 'ENOWING' should be 'KNOWN' — the entry defines the pleading term 'well known'"
+  },
+  {
+    "type": "headword_review",
+    "term": "WEREGELT",
+    "suggested": "WEREGELT THEF",
+    "reason": "The body text for 'WEREGELT' actually defines 'WEREGELT THEF' — the headword appears truncated, but there is a separate WEREGELT THEF entry; this entry for WEREGELT has different content (Scotch law) so headword may be correct"
+  },
+  {
+    "type": "headword_review",
+    "term": "WER",
+    "suggested": "RED BOOK OF THE EXCHEQUER",
+    "reason": "The body describes a book kept in the English exchequer — the headword 'WER' does not match the content; likely a different entry was OCR'd under the wrong headword"
+  },
+  {
+    "type": "flag",
+    "term": "WER",
+    "issue": "Body text ('The name of an ancient book kept in the English exchequer...') does not match headword 'WER'. This appears to be content from a different entry misassigned here."
+  },
+  {
+    "type": "headword_review",
+    "term": "WEREGELD",
+    "suggested": "WEREGELT",
+    "reason": "The headword 'WEREGELD' appears to be a variant/OCR of 'WEREGELT'; the body starts with 'WEREGELT THEF' suggesting this is the WEREGELT entry"
+  }
+]

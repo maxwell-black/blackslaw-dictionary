@@ -1,20 +1,11 @@
 {
   "total_entries": 12981,
-  "entries_changed": 82,
+  "entries_changed": 68,
   "pattern_counts": {
-    "qv_paren_fix": 2,
-    "hyphen_rejoin": 102,
-    "hyphen_space_rejoin": 12,
-    "gv->qv": 1
+    "hyphen_rejoin": 84,
+    "hyphen_space_rejoin": 8
   },
   "changes": [
-    {
-      "term": "ABUTTALS",
-      "fixes": {
-        "qv_paren_fix": 1
-      },
-      "chars_changed": 1
-    },
     {
       "term": "ACCOUNT",
       "fixes": {
@@ -23,15 +14,14 @@
       "chars_changed": 1
     },
     {
-      "term": "ADEMPTION",
+      "term": "AD IDEM",
       "fixes": {
-        "hyphen_rejoin": 1,
-        "hyphen_space_rejoin": 1
+        "hyphen_rejoin": 1
       },
-      "chars_changed": 2
+      "chars_changed": 1
     },
     {
-      "term": "AFTER",
+      "term": "ADIPOCERE",
       "fixes": {
         "hyphen_rejoin": 1
       },
@@ -45,7 +35,14 @@
       "chars_changed": 1
     },
     {
-      "term": "APPORTIONMENT",
+      "term": "ANIMAL",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "ARRECT",
       "fixes": {
         "hyphen_rejoin": 1
       },
@@ -59,6 +56,13 @@
       "chars_changed": 2
     },
     {
+      "term": "AUTOCRACY",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
       "term": "BAIL",
       "fixes": {
         "hyphen_rejoin": 1
@@ -67,13 +71,6 @@
     },
     {
       "term": "BEST EVIDENCE",
-      "fixes": {
-        "hyphen_rejoin": 2
-      },
-      "chars_changed": 2
-    },
-    {
-      "term": "BONA",
       "fixes": {
         "hyphen_rejoin": 2
       },
@@ -101,25 +98,18 @@
       "chars_changed": 1
     },
     {
-      "term": "COMPLAINT",
+      "term": "CARIAGIUM",
       "fixes": {
         "hyphen_rejoin": 1
       },
       "chars_changed": 1
     },
     {
-      "term": "CONSUL",
+      "term": "COMPLAINT",
       "fixes": {
-        "hyphen_rejoin": 2
+        "hyphen_rejoin": 1
       },
-      "chars_changed": 2
-    },
-    {
-      "term": "COURT",
-      "fixes": {
-        "hyphen_rejoin": 2
-      },
-      "chars_changed": 2
+      "chars_changed": 1
     },
     {
       "term": "CURIA",
@@ -143,6 +133,13 @@
       "chars_changed": 1
     },
     {
+      "term": "DEFOROIATIO",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
       "term": "DESPONSATION",
       "fixes": {
         "hyphen_space_rejoin": 1
@@ -157,13 +154,6 @@
       "chars_changed": 3
     },
     {
-      "term": "DISCHARGE",
-      "fixes": {
-        "gv->qv": 1
-      },
-      "chars_changed": 1
-    },
-    {
       "term": "DISCONTINUANCE",
       "fixes": {
         "hyphen_rejoin": 1
@@ -174,13 +164,6 @@
       "term": "DOMO",
       "fixes": {
         "hyphen_space_rejoin": 1
-      },
-      "chars_changed": 1
-    },
-    {
-      "term": "DOUBLE",
-      "fixes": {
-        "hyphen_rejoin": 1
       },
       "chars_changed": 1
     },
@@ -200,13 +183,6 @@
     },
     {
       "term": "EMPLOY",
-      "fixes": {
-        "hyphen_space_rejoin": 1
-      },
-      "chars_changed": 1
-    },
-    {
-      "term": "ERECT",
       "fixes": {
         "hyphen_space_rejoin": 1
       },
@@ -234,54 +210,11 @@
       "chars_changed": 1
     },
     {
-      "term": "FRUSSURA",
-      "fixes": {
-        "hyphen_space_rejoin": 1
-      },
-      "chars_changed": 1
-    },
-    {
-      "term": "GOING",
-      "fixes": {
-        "hyphen_rejoin": 2
-      },
-      "chars_changed": 2
-    },
-    {
-      "term": "GROWING CROP",
-      "fixes": {
-        "hyphen_rejoin": 1
-      },
-      "chars_changed": 1
-    },
-    {
-      "term": "HAERES",
-      "fixes": {
-        "hyphen_rejoin": 1,
-        "qv_paren_fix": 1
-      },
-      "chars_changed": 2
-    },
-    {
       "term": "HOMMES",
       "fixes": {
         "hyphen_rejoin": 1
       },
       "chars_changed": 1
-    },
-    {
-      "term": "HOUR",
-      "fixes": {
-        "hyphen_rejoin": 1
-      },
-      "chars_changed": 1
-    },
-    {
-      "term": "HYSTERIA",
-      "fixes": {
-        "hyphen_rejoin": 3
-      },
-      "chars_changed": 3
     },
     {
       "term": "ISSUE",
@@ -305,9 +238,9 @@
       "chars_changed": 1
     },
     {
-      "term": "LAPSE",
+      "term": "KENTLAGE",
       "fixes": {
-        "hyphen_rejoin": 1
+        "hyphen_space_rejoin": 1
       },
       "chars_changed": 1
     },
@@ -317,13 +250,6 @@
         "hyphen_rejoin": 2
       },
       "chars_changed": 2
-    },
-    {
-      "term": "LIBRIPENS",
-      "fixes": {
-        "hyphen_space_rejoin": 1
-      },
-      "chars_changed": 1
     },
     {
       "term": "LITERARY",
@@ -340,14 +266,14 @@
       "chars_changed": 1
     },
     {
-      "term": "MATERTERA",
+      "term": "MUNICIPAL",
       "fixes": {
-        "hyphen_rejoin": 1
+        "hyphen_space_rejoin": 1
       },
       "chars_changed": 1
     },
     {
-      "term": "MUNICIPAL",
+      "term": "NATION",
       "fixes": {
         "hyphen_space_rejoin": 1
       },
@@ -389,14 +315,7 @@
       "chars_changed": 1
     },
     {
-      "term": "OUSTER",
-      "fixes": {
-        "hyphen_rejoin": 1
-      },
-      "chars_changed": 1
-    },
-    {
-      "term": "PANEL",
+      "term": "PRECES",
       "fixes": {
         "hyphen_rejoin": 1
       },
@@ -431,13 +350,6 @@
       "chars_changed": 1
     },
     {
-      "term": "QUARTA DIVI PII",
-      "fixes": {
-        "hyphen_rejoin": 1
-      },
-      "chars_changed": 1
-    },
-    {
       "term": "RECOUSSE",
       "fixes": {
         "hyphen_rejoin": 1
@@ -445,9 +357,9 @@
       "chars_changed": 1
     },
     {
-      "term": "REPLEGIARI",
+      "term": "REDEUNDO",
       "fixes": {
-        "hyphen_space_rejoin": 1
+        "hyphen_rejoin": 1
       },
       "chars_changed": 1
     },
@@ -459,21 +371,7 @@
       "chars_changed": 2
     },
     {
-      "term": "RESTRAIN",
-      "fixes": {
-        "hyphen_rejoin": 2
-      },
-      "chars_changed": 2
-    },
-    {
       "term": "REVENUE",
-      "fixes": {
-        "hyphen_rejoin": 1
-      },
-      "chars_changed": 1
-    },
-    {
-      "term": "REVISING",
       "fixes": {
         "hyphen_rejoin": 1
       },
@@ -494,21 +392,28 @@
       "chars_changed": 2
     },
     {
-      "term": "SALE",
-      "fixes": {
-        "hyphen_rejoin": 2
-      },
-      "chars_changed": 2
-    },
-    {
-      "term": "SELF-REGARDING",
-      "fixes": {
-        "hyphen_rejoin": 2
-      },
-      "chars_changed": 2
-    },
-    {
       "term": "SEPARATION",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "SIETE PARTIDAS",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "SIMILITER",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "SOURCES OF THE LAW",
       "fixes": {
         "hyphen_rejoin": 1
       },
@@ -522,7 +427,14 @@
       "chars_changed": 1
     },
     {
-      "term": "TALIO",
+      "term": "TENEMENT",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "TERMOR",
       "fixes": {
         "hyphen_rejoin": 1
       },
@@ -536,7 +448,7 @@
       "chars_changed": 1
     },
     {
-      "term": "TORTIOUS",
+      "term": "UNDEFENDED",
       "fixes": {
         "hyphen_rejoin": 1
       },
@@ -544,13 +456,6 @@
     },
     {
       "term": "VOCABULA",
-      "fixes": {
-        "hyphen_rejoin": 1
-      },
-      "chars_changed": 1
-    },
-    {
-      "term": "WEREGELT THEF",
       "fixes": {
         "hyphen_rejoin": 1
       },
@@ -567,13 +472,6 @@
       "term": "WILLS",
       "fixes": {
         "hyphen_rejoin": 1
-      },
-      "chars_changed": 1
-    },
-    {
-      "term": "WORSHIP",
-      "fixes": {
-        "hyphen_space_rejoin": 1
       },
       "chars_changed": 1
     },

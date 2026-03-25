@@ -1,0 +1,121 @@
+{
+  "letter": "Z",
+  "entries_reviewed": 16,
+  "corrections": [
+    {
+      "type": "headword",
+      "term": "ZEFESN",
+      "correct": "ZFESN",
+      "issue": "Headword may be OCR error — flagging for review"
+    },
+    {
+      "type": "flag",
+      "term": "ZEFESN",
+      "issue": "Headword appears to be an OCR error; unable to determine correct spelling from context about feeding swine under oaks/beeches"
+    },
+    {
+      "type": "headword",
+      "term": "ZEGROTO",
+      "correct": "EGROTO",
+      "reason": "Leading 'Z' is likely OCR artifact; term should be EGROTO (Latin: being sick), consistent with body text 'Holt egroto'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ZEGROTO",
+      "old": "<A term used in some of the older reports.",
+      "new": "A term used in some of the older reports.",
+      "reason": "Spurious '<' character at start of sentence, OCR artifact"
+    },
+    {
+      "type": "headword",
+      "term": "ZEGYLDE",
+      "correct": "EGYLDE",
+      "reason": "Leading 'Z' is likely OCR artifact; term relates to Anglo-Saxon 'gild' (payment), should be EGYLDE"
+    },
+    {
+      "type": "headword",
+      "term": "ZEIR",
+      "correct": "YEIR",
+      "reason": "ZEIR is Old Scots for 'year'; OCR likely misread 'Y' as 'Z'; body text 'Zeir ahd day' also suggests OCR error"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ZEIR",
+      "old": "\"Zeir ahd day.\"",
+      "new": "\"Yeir and day.\"",
+      "reason": "OCR errors: 'Z' should be 'Y' (Old Scots 'Yeir'), 'ahd' should be 'and'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ZEMINDAR",
+      "old": "the cuitivators",
+      "new": "the cultivators",
+      "reason": "OCR error: 'cuitivators' should be 'cultivators'"
+    },
+    {
+      "type": "trim",
+      "term": "ZETETICK",
+      "trim_at": "ZIGARI, or ZINGARI. Rogues",
+      "reason": "The entry for ZIGARI/ZINGARI is a separate dictionary entry merged into the body of ZETETICK"
+    },
+    {
+      "type": "headword",
+      "term": "ZETHELING",
+      "correct": "AETHELING",
+      "reason": "OCR error; 'ZETHELING' should be 'AETHELING', the Saxon term for a prince/noble of the blood; body confirms 'In Saxon law'"
+    },
+    {
+      "type": "trim",
+      "term": "ZETHELING",
+      "trim_at": "AFFECTIONATE. In Saxon law",
+      "reason": "The word 'AFFECTIONATE' appears to be an erroneous merged entry or OCR artifact inserted into the headword definition"
+    },
+    {
+      "type": "flag",
+      "term": "ZETHELING",
+      "issue": "Body begins with 'AFFECTIONATE. In Saxon law, generally a prince of the blood.' — 'AFFECTIONATE' appears to be a spurious inserted word or OCR artifact; the definition should read 'In Saxon law, generally a prince of the blood. A noble;'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ZOLL-VEREIN",
+      "old": "<A union of German",
+      "new": "A union of German",
+      "reason": "Spurious '<' character at start of body, OCR artifact"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ZYGOCEPHALUM",
+      "old": "Nov. 17, ¢. &",
+      "new": "Nov. 17, c. 8.",
+      "reason": "OCR error: '¢. &' should be 'c. 8.' (chapter 8 citation)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ZYGOSTATES",
+      "old": "controversies avout the weight",
+      "new": "controversies about the weight",
+      "reason": "OCR error: 'avout' should be 'about'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ZYTHUM",
+      "old": "Iat. A liquor or beverage:",
+      "new": "Lat. A liquor or beverage:",
+      "reason": "OCR error: 'Iat.' should be 'Lat.' (abbreviation for Latin)"
+    },
+    {
+      "type": "trim",
+      "term": "ZYTHUM",
+      "trim_at": "TABLE OF ABBREVIATIONS",
+      "reason": "TABLE OF ABBREVIATIONS is a separate section appended to the last dictionary entry and should be trimmed"
+    }
+  ],
+  "errors": [],
+  "by_type": {
+    "headword": 5,
+    "flag": 2,
+    "ocr_fix": 7,
+    "trim": 3
+  },
+  "elapsed_seconds": 16.7
+}

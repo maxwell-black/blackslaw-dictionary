@@ -1,0 +1,280 @@
+{
+  "letter": "J",
+  "entries_reviewed": 153,
+  "corrections": [
+    {
+      "type": "trim",
+      "term": "JUZGADO",
+      "trim_at": "K.\n\"King's\nK. B.. An abbrev",
+      "reason": "Entries for 'K.' and 'K. B.' are embedded at the end of the JUZGADO body after a paragraph break"
+    },
+    {
+      "type": "trim",
+      "term": "JACENS",
+      "trim_at": ". SACET IN ORE. Lat. In old",
+      "reason": "A separate entry 'SACET IN ORE' (likely JACET IN ORE) is merged into the JACENS body after a paragraph break"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "JAC",
+      "old": "princtpally",
+      "new": "principally",
+      "reason": "OCR error: 'princtpally' should be 'principally'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "JACOBUS",
+      "old": "24s8.",
+      "new": "24s.",
+      "reason": "OCR error: '24s8.' should be '24s.' - the 8 is a scanning artifact"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "JACTITATION",
+      "old": "known at common law as \"slabder of title'",
+      "new": "known at common law as \"slander of title\"",
+      "reason": "OCR error: 'slabder' should be 'slander'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "JACTITATION",
+      "old": "—Jactitation of a ht to a church sitting",
+      "new": "—Jactitation of a right to a church sitting",
+      "reason": "OCR error: 'ht' is garbled, should be 'right'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "JACTITATION",
+      "old": "he has a right or title to a pew or wager in",
+      "new": "he has a right or title to a pew or seat in",
+      "reason": "OCR error: 'wager' should be 'seat' in context of church pew"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "JACTIVUS",
+      "old": "tossed\nLost by default;\naway.",
+      "new": "Lost by default; tossed away.",
+      "reason": "OCR line-break error scrambled the definition"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "JACTUS",
+      "old": "re one per\nson was building",
+      "new": "where one person was building",
+      "reason": "OCR error: 're' should be 'where'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "JACTUS",
+      "old": "acquiring a right by wsucapio",
+      "new": "acquiring a right by usucapio",
+      "reason": "OCR error: 'wsucapio' should be 'usucapio'"
+    },
+    {
+      "type": "trim",
+      "term": "JAMUNLINGI",
+      "trim_at": "a are\n\n_gaoler.\n\n~\n\nJANITOR",
+      "reason": "Garbled text and a fragment of another entry (JANITOR with gaoler reference) is merged into the JAMUNLINGI body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "JAMUNLINGI",
+      "old": "The same as conwnendati.",
+      "new": "The same as commendati.",
+      "reason": "OCR error: 'conwnendati' should be 'commendati'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "JAQUES",
+      "old": "In old Engiish law.\nmoney.",
+      "new": "In old English law. Small money.",
+      "reason": "OCR error: 'Engiish' should be 'English'; definition appears incomplete/truncated with just 'money'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "JAVELIN-MEN",
+      "old": "Yeomen retdined by",
+      "new": "Yeomen retained by",
+      "reason": "OCR error: 'retdined' should be 'retained'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "JAVELOUR",
+      "old": "1 Pite. Crim. Tr. pt. 1, p. 33.\n_ gaoler.",
+      "new": "1 Pitc. Crim. Tr. pt. 1, p. 33.",
+      "reason": "OCR error: 'Pite.' should be 'Pitc.' (abbreviation for Pitcairn); '_ gaoler.' is a fragment from adjacent entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "JEDBURGH JUSTICE",
+      "old": "Also\nwritten '\"Jeddart\" or \"Jedwood\" justice.\n\nYeoman. Cow-",
+      "new": "Also written \"Jeddart\" or \"Jedwood\" justice.",
+      "reason": "The text 'Yeoman. Cow-' at end belongs to the JEMAN entry and is merged in here"
+    },
+    {
+      "type": "trim",
+      "term": "JEDBURGH JUSTICE",
+      "trim_at": "Yeoman. Cow-",
+      "reason": "Fragment from JEMAN entry merged into JEDBURGH JUSTICE body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "JEOFAILE",
+      "old": "Geofalle,)",
+      "new": "(jeofaile,)",
+      "reason": "OCR error: 'Geofalle' should be 'jeofaile' with opening parenthesis"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "JEOFAILE",
+      "old": "the yoo is charged",
+      "new": "the jury is charged",
+      "reason": "OCR error: 'yoo' should be 'jury'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "JEOPARDY",
+      "old": "crimfinal",
+      "new": "criminal",
+      "reason": "OCR error: 'crimfinal' should be 'criminal'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "JESSE",
+      "old": "<A large brass candlestick",
+      "new": "A large brass candlestick",
+      "reason": "OCR error: spurious '<' at start of definition"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "JOCALIA",
+      "old": "nre assets",
+      "new": "are assets",
+      "reason": "OCR error: 'nre' should be 'are'"
+    },
+    {
+      "type": "trim",
+      "term": "JOCELET",
+      "trim_at": "'JOCUS. In old English law. A game",
+      "reason": "Entry for JOCUS is merged into JOCELET body after paragraph break"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "JOCUS PARTITUS",
+      "old": "Bract. fols. 211),",
+      "new": "Bract. fols. 211b,",
+      "reason": "OCR error: '211)' should be '211b' (folio reference)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "JOINTLY",
+      "old": "Acting together or im eoncert",
+      "new": "Acting together or in concert",
+      "reason": "OCR error: 'im eoncert' should be 'in concert'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "JOINTLY",
+      "old": "Case v. Owen, 139\nInd. 22, 38 N. B. 305,",
+      "new": "Case v. Owen, 139 Ind. 22, 38 N. E. 305,",
+      "reason": "OCR error: 'N. B.' should be 'N. E.' (North Eastern Reporter)"
+    },
+    {
+      "type": "trim",
+      "term": "JOINTLY",
+      "trim_at": "'JOINTRESS, JOINTURESS.",
+      "reason": "Entry for JOINTRESS/JOINTURESS is merged into the JOINTLY body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "JOINTURE",
+      "old": "estate n lands",
+      "new": "estate in lands",
+      "reason": "OCR error: 'n' should be 'in'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "JOINTURE",
+      "old": "Fellers v. Fellers, 564 Neb. 694,",
+      "new": "Fellers v. Fellers, 56 Neb. 694,",
+      "reason": "OCR error: '564' should likely be '56' - Nebraska volume number"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "JOINTURE",
+      "old": "but, in its more usual form, ft is",
+      "new": "but, in its more usual form, it is",
+      "reason": "OCR error: 'ft' should be 'it'"
+    },
+    {
+      "type": "trim",
+      "term": "JOINTURE",
+      "trim_at": "JONCARIA, or JUNCARIA. In old",
+      "reason": "Entry for JONCARIA is merged into JOINTURE body after paragraph break"
+    },
+    {
+      "type": "headword",
+      "term": "JOOCUS",
+      "correct": "JOCUS",
+      "reason": "OCR error in headword: 'JOOCUS' should be 'JOCUS'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "JOINT",
+      "old": "but aot severally",
+      "new": "but not severally",
+      "reason": "OCR error: 'aot' should be 'not'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "JOINT",
+      "old": "may be enforced either by 8\noint action",
+      "new": "may be enforced either by a joint action",
+      "reason": "OCR error: '8' should be 'a' and line break split 'a joint'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "JOINT",
+      "old": "1 Black, Judgm. §§ 208, 23%.",
+      "new": "1 Black, Judgm. §§ 208, 232.",
+      "reason": "OCR error: '23%' should be '232'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "JOINT",
+      "old": "Hall v. Lanning, 91 U. 8S. 168,",
+      "new": "Hall v. Lanning, 91 U. S. 168,",
+      "reason": "OCR error: 'U. 8S.' should be 'U. S.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "JOINT",
+      "old": "enjoyed 'so\n\nlong as they both",
+      "new": "enjoyed so long as they both",
+      "reason": "OCR error: spurious apostrophe and line break"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "JOINT",
+      "old": "As soom >",
+      "new": "As soon",
+      "reason": "OCR error: 'soom >' should be 'soon'"
+    }
+  ],
+  "errors": [
+    {
+      "batch": 1,
+      "error": "JSON parse error: ```json\n[\n  {\"type\": \"ocr_fix\", \"term\": \"JOUR\", \"old\": \"otherwise called \\\"jour en nisi priue.'—Jour\", \"new\": \"otherwise called \\\"jour en nisi prius.'—Jour\", \"reason\": \"OCR error: 'priue' should be 'p"
+    },
+    {
+      "batch": 2,
+      "error": "JSON parse error: ```json\n[\n  {\"type\": \"trim\", \"term\": \"JURAT\", \"trim_at\": \"JURATA\\nJURATA.\\nof twelve\", \"reason\": \"The JURAT entry body contains the full JURATA entry merged in after a paragraph break\"},\n  {\"type\": \"o"
+    }
+  ],
+  "by_type": {
+    "trim": 7,
+    "ocr_fix": 30,
+    "headword": 1
+  },
+  "elapsed_seconds": 61.4
+}

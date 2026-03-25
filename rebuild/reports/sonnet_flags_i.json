@@ -1,0 +1,116 @@
+[
+  {
+    "type": "flag",
+    "term": "ILLICITUM",
+    "issue": "Definition 'An illegal corporation' seems incomplete or incorrect for the Latin term 'illicitum' which generally means 'unlawful/illegal thing'"
+  },
+  {
+    "type": "flag",
+    "term": "INCEST",
+    "issue": "Citation 'Dinkey v. Com., 17 Pa. 129, 55 Am. Dec. 542' — the INCEPTION entry lists this as '50 Am. Dec. 542'; one may be an OCR error"
+  },
+  {
+    "type": "headword_review",
+    "term": "INDISTER",
+    "suggested": "INDISTANTER",
+    "reason": "INDISTER is not a legal term; the entry defines 'without delay' which is INDISTANTER; the real INDISTANTER entry was merged into INDISPENSABLE"
+  },
+  {
+    "type": "headword_review",
+    "term": "INDITEE",
+    "suggested": "INDITEE",
+    "reason": "Actually should be INDICTEE - person indicted"
+  },
+  {
+    "type": "headword_review",
+    "term": "INFIDUCIARE",
+    "suggested": "INFIDUCIARE",
+    "reason": "Entry body starts with 'INFIDUCIARE' repeated then '- EINFIDUOCIARE' — the real headword and body are garbled; the entry appears to be a duplicate/OCR artifact of an embedded entry in INFIDELITAS"
+  },
+  {
+    "type": "headword_review",
+    "term": "INITIALIA TESTIMONTI",
+    "suggested": "INITIALIA TESTIMONII",
+    "reason": "Latin genitive of 'testimonium' is 'testimonii', not 'testimonti' — OCR dropped a letter"
+  },
+  {
+    "type": "headword_review",
+    "term": "INNUMINATE",
+    "suggested": "INNUINATE",
+    "reason": "OCR error in headword; based on body ('innminate or insinuate'), this entry is about insinuating in pleading, likely headword should be 'INNUINATE' or more likely 'INSINUATE' - flagging"
+  },
+  {
+    "type": "flag",
+    "term": "INNUMINATE",
+    "issue": "Headword appears to be OCR-damaged; body describes 'innminate or insinuate' in pleading context. Correct headword may be 'INNUINATE' or possibly a different term entirely. Body also has 'innminate' which appears to be OCR for 'innuinate' or 'insinuate'."
+  },
+  {
+    "type": "headword_review",
+    "term": "IRRREGULAR",
+    "suggested": "IRREGULAR",
+    "reason": "Headword has triple 'R' - OCR duplication error"
+  },
+  {
+    "type": "flag",
+    "term": "ISM",
+    "issue": "This entire entry appears misplaced or incorrectly headworded. The content describes forms of insanity (Affective insanity, Involutional insanity, Maniacal-depressive insanity, etc.) and seems to be a continuation of or fragment from the INSANITY entry"
+  },
+  {
+    "type": "headword_review",
+    "term": "ISSUE LEX SCRIPTA EST",
+    "suggested": "ITA LEX SCRIPTA EST",
+    "reason": "OCR error: 'ISSUE' should be 'ITA' - this is the Latin maxim 'Ita lex scripta est'"
+  },
+  {
+    "type": "headword_review",
+    "term": "ISSUE QUOD",
+    "suggested": "ITA QUOD",
+    "reason": "OCR error: 'ISSUE' should be 'ITA' - this is the Latin phrase 'Ita quod'"
+  },
+  {
+    "type": "headword_review",
+    "term": "ISSUE TE DEUS ADJUVET",
+    "suggested": "ITA TE DEUS ADJUVET",
+    "reason": "OCR error: 'ISSUE' should be 'ITA' - this is the Latin phrase 'Ita te Deus adjuvet'"
+  },
+  {
+    "type": "headword_review",
+    "term": "ISSUE TE DEUS ADJUVET ET OMNES SANCTI",
+    "suggested": "ITA TE DEUS ADJUVET ET OMNES SANCTI",
+    "reason": "OCR error: 'ISSUE' should be 'ITA'"
+  },
+  {
+    "type": "headword_review",
+    "term": "ISSUE UTERE TUO UT ALIENUM NON LAEDEAS",
+    "suggested": "ITA UTERE TUO UT ALIENUM NON LAEDEAS",
+    "reason": "OCR error: 'ISSUE' should be 'ITA'"
+  },
+  {
+    "type": "headword_review",
+    "term": "ISSUE SEMPER FIAT RELATIO UT VALEAT DISPOSITIO",
+    "suggested": "ITA SEMPER FIAT RELATIO UT VALEAT DISPOSITIO",
+    "reason": "OCR error: 'ISSUE' should be 'ITA'"
+  },
+  {
+    "type": "flag",
+    "term": "ITINERE",
+    "issue": "Headword appears to be fragment; the entry cross-references 'ITINERE PER ATTORNATUM' and contains embedded text about 'NE QUID IN LOCO... ITINERE FIAT' interdict. Structure is confused."
+  },
+  {
+    "type": "headword_review",
+    "term": "ITRENARCHA",
+    "suggested": "IRENARCH",
+    "reason": "OCR error in headword; the Roman official is 'irenarch' (from Greek eirēnarchēs, peace-ruler), not 'itrenarcha'"
+  },
+  {
+    "type": "headword_review",
+    "term": "IMAN",
+    "suggested": "IMAM",
+    "reason": "The body immediately clarifies the headword as 'IMAM, or IMAUM' - the headword 'IMAN' is an OCR error for 'IMAM'"
+  },
+  {
+    "type": "flag",
+    "term": "INNOVARE",
+    "issue": "The definition is duplicated - the same sentence appears twice verbatim ('It is also the name of a writ which lay where a man was disseised...'). This is likely a copy/OCR error."
+  }
+]

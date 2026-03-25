@@ -1,0 +1,144 @@
+[
+  {
+    "type": "headword_review",
+    "term": "ECOLESIARCH",
+    "suggested": "ECCLESIARCH",
+    "reason": "OCR error in headword: 'ECOLESIARCH' should be 'ECCLESIARCH'"
+  },
+  {
+    "type": "headword_review",
+    "term": "ECOLESIAST",
+    "suggested": "ECCLESIAST",
+    "reason": "OCR error in headword: 'ECOLESIAST' should be 'ECCLESIAST'"
+  },
+  {
+    "type": "headword_review",
+    "term": "ECCLESIS",
+    "suggested": "ECCLESIAE",
+    "reason": "OCR error in headword: 'ECCLESIS' should likely be 'ECCLESIAE' based on the content (ECOLESIS SCULPTURA)"
+  },
+  {
+    "type": "flag",
+    "term": "ELAOO",
+    "issue": "Headword 'ELAOO' appears unusual; may be OCR error for 'ELAION' or similar term meaning a place covered with standing water"
+  },
+  {
+    "type": "flag",
+    "term": "ELDESTIA",
+    "issue": "Headword shows 'AELDESTIA' as an alternative at start of body — may be that the actual headword should be AELDESTIA and ELDESTIA is the variant, or the headword is garbled"
+  },
+  {
+    "type": "flag",
+    "term": "ELEEMOSYN",
+    "issue": "Headword 'ELEEMOSYN' appears truncated; the body seems to be a continuation fragment from the ELECTION entry (contains sub-entries for Regular election, Special election) rather than a standalone entry for ELEEMOSYN"
+  },
+  {
+    "type": "flag",
+    "term": "ELIZABETH",
+    "issue": "Headword 'ELIZABETH' does not match body content which defines 'ADVICE' — this appears to be a misattributed or garbled entry; body content belongs to ADVICE entry and ends with ADVOCATE suggesting further merging"
+  },
+  {
+    "type": "flag",
+    "term": "ELOGIUM",
+    "issue": "Opening angle bracket '<' before 'A will or testament' may be OCR artifact"
+  },
+  {
+    "type": "headword_review",
+    "term": "EFALCIDIAN",
+    "suggested": "FALCIDIAN",
+    "reason": "The headword should be FALCIDIAN (the Falcidian Law), the 'E' prefix is an OCR or scanning error"
+  },
+  {
+    "type": "flag",
+    "term": "EL",
+    "issue": "The body of this entry appears to be a fragment about 'Proprietary governments' and 'Proprietary rights' which seems misplaced or belongs to a different entry (possibly under 'P'). The headword 'EL' does not match the content."
+  },
+  {
+    "type": "headword_review",
+    "term": "ENDA",
+    "suggested": "ENDA IN SCACCARIO",
+    "reason": "The headword appears to be incomplete; the full term is 'ENDA IN SCACCARIO' as shown in the body"
+  },
+  {
+    "type": "headword_review",
+    "term": "EODIOUS",
+    "suggested": "ECDICUS",
+    "reason": "The body describes 'the attorney, proctor, or advocate of a corporation' and 'bishops' proctors; church lawyers' — this appears to be the entry for ECDICUS (or similar Latin legal term), not 'EODIOUS' which is an OCR corruption"
+  },
+  {
+    "type": "headword_review",
+    "term": "EPISCOPAOCY",
+    "suggested": "EPISCOPACY",
+    "reason": "OCR error in headword within merged entry: 'EPISCOPAOCY' should be 'EPISCOPACY'"
+  },
+  {
+    "type": "flag",
+    "term": "ERRORES",
+    "issue": "The body of this entry appears to be a continuation of the ERROR entry's sub-definitions (Fundamental error, Harmless error, etc.) rather than a definition of 'ERRORES SCRIBENTIS'. The headword and content seem misaligned."
+  },
+  {
+    "type": "flag",
+    "term": "ERE-MURDER",
+    "issue": "Entry body reads 'MURDER. See MANSLAUGHTER.' which is unusual—likely should just be 'See MANSLAUGHTER.' or a brief definition"
+  },
+  {
+    "type": "headword_review",
+    "term": "EXIGENDARY",
+    "suggested": "EXIGENDARY",
+    "reason": "Body starts with 'Ah' which is an OCR error for 'An'"
+  },
+  {
+    "type": "headword_review",
+    "term": "EXCOMMUNIOCATO",
+    "suggested": "EXCOMMUNICATO",
+    "reason": "OCR error in headword: 'EXCOMMUNIOCATO' should be 'EXCOMMUNICATO'"
+  },
+  {
+    "type": "headword_review",
+    "term": "EYDE",
+    "suggested": "EYDE",
+    "reason": "The entry appears to contain 'BYE-WITNESS' as a cross-reference artifact; however the headword itself may be 'AIDE' — flagging for review"
+  },
+  {
+    "type": "flag",
+    "term": "EYDE",
+    "issue": "Headword 'EYDE' likely should be 'AIDE' (Aid; assistance: relief. A subsidy.) — appears to be OCR misread of 'AIDE'"
+  },
+  {
+    "type": "flag",
+    "term": "EXCULPATION",
+    "issue": "This entry appears to be a duplicate/fragment of 'EXCULPATION, LETTERS OF' - the headword is incomplete and body is garbled"
+  },
+  {
+    "type": "flag",
+    "term": "EXCUSAT",
+    "issue": "This entry appears to be a duplicate fragment of the maxim 'Excusat aut extenuat...' that already appears at the end of the EXCUSABLE entry. The body references 'Bl. Comm. § 340' while EXCUSABLE references 'Bl. Judgm. § 340' - one may be incorrect."
+  },
+  {
+    "type": "flag",
+    "term": "EXECUTIONE",
+    "issue": "Body ends with 'EXECUTIONE FAOCIENDA IN WITH-' which appears to be a truncated headword for another entry (likely 'EXECUTIONE FACIENDA IN WITHERNAM'). The entry body itself ('A writ commanding execution of a judgment. Obsolete. Cowell.') belongs to 'EXECUTIONE JUDICII' or a similar writ entry."
+  },
+  {
+    "type": "flag",
+    "term": "EXEMPLI",
+    "issue": "Headword appears truncated - should likely be 'EXEMPLI GRATIA' (for the purpose of example)"
+  },
+  {
+    "type": "flag",
+    "term": "EXERCITOR",
+    "issue": "This entry seems to be a duplicate of EXERCITOR NAVIS - the headword 'EXERCITOR' has the body starting with 'EXERCITOR NAVIS. Lat.' suggesting the full headword should be 'EXERCITOR NAVIS'"
+  },
+  {
+    "type": "headword_review",
+    "term": "EXHERES",
+    "suggested": "EXHAERES",
+    "reason": "The Latin term for 'one disinherited' is 'exhaeres'; OCR error dropped the 'a'"
+  },
+  {
+    "type": "headword_review",
+    "term": "EXQUZSTOR",
+    "suggested": "EXQUAESTOR",
+    "reason": "OCR error in headword: 'EXQUZSTOR' should be 'EXQUAESTOR' (duplicate entry exists with correct headword)"
+  }
+]

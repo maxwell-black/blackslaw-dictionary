@@ -1,0 +1,5418 @@
+{
+  "letter": "A",
+  "entries_reviewed": 1261,
+  "corrections": [
+    {
+      "type": "trim",
+      "term": "ABBREVIATORS",
+      "trim_at": "ABBROOCHMENT, or ABBROAOH-",
+      "reason": "Embedded headword entry ABBROOCHMENT appears at end of ABBREVIATORS body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ABDICATION",
+      "old": "into the bands of a superior",
+      "new": "into the hands of a superior",
+      "reason": "OCR error: 'bands' should be 'hands'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ABDUCTION",
+      "old": "8 Bl. Comm. 1389-141",
+      "new": "3 Bl. Comm. 139-141",
+      "reason": "OCR error: '8' should be '3', and '1389' should be '139'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ABDUCTION",
+      "old": "138 N. D. 85, 99 N. VW. 1085",
+      "new": "13 N. D. 85, 99 N. W. 1085",
+      "reason": "OCR errors: '138' should be '13', 'VW.' should be 'W.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ABET",
+      "old": "former term does not imply, guilty\nknowled or.felonious intent",
+      "new": "former term does not imply guilty knowledge or felonious intent",
+      "reason": "OCR error: 'knowled or.' is broken text for 'knowledge or'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ABET",
+      "old": "79 lowe 460",
+      "new": "79 Iowa 460",
+      "reason": "OCR error: 'lowe' should be 'Iowa'"
+    },
+    {
+      "type": "trim",
+      "term": "ABEYANCE",
+      "trim_at": "ABIATICUS, or AVIATICUS. L. lat.",
+      "reason": "Embedded entry ABIATICUS appears at end of ABEYANCE body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ABIATICUS",
+      "old": "or AVIATIOCUS. L. Iat.",
+      "new": "or AVIATICUS. L. Lat.",
+      "reason": "OCR errors: 'AVIATIOCUS' should be 'AVIATICUS', 'Iat.' should be 'Lat.'"
+    },
+    {
+      "type": "trim",
+      "term": "ABILITY",
+      "trim_at": "ABISHERING, or ABISHERSING.",
+      "reason": "Embedded entries ABISHERING and ABIJUDICATIO appear at end of ABILITY body"
+    },
+    {
+      "type": "trim",
+      "term": "ABISHERING",
+      "trim_at": "ABJUDICATIO",
+      "reason": "Embedded entry ABJUDICATIO appears mid-body of ABISHERING"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ABISHERING",
+      "old": "a forfelture or amercement",
+      "new": "a forfeiture or amercement",
+      "reason": "OCR error: 'forfelture' should be 'forfeiture'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ABISHERING",
+      "old": "free from the eee of",
+      "new": "free from the control of",
+      "reason": "OCR error: 'eee' is garbled text for 'control'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ABISHERING",
+      "old": "the forfeltures and amercements",
+      "new": "the forfeitures and amercements",
+      "reason": "OCR error: 'forfeltures' should be 'forfeitures'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ABJURATION",
+      "old": "18 N. BE. 148",
+      "new": "18 N. E. 148",
+      "reason": "OCR error: 'BE.' should be 'E.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ABIGEUS",
+      "old": "And those who frequently id this",
+      "new": "And those who frequently did this",
+      "reason": "OCR error: 'id' should be 'did'"
+    },
+    {
+      "type": "trim",
+      "term": "ABLEGATI",
+      "trim_at": ". ABLOCATIO. A letting out to hire",
+      "reason": "Embedded entry ABLOCATIO appears at end of ABLEGATI body"
+    },
+    {
+      "type": "trim",
+      "term": "ABMATERTERA",
+      "trim_at": "ABOVE °",
+      "reason": "Spurious text 'ABOVE °' and cross-reference text appears at end of ABMATERTERA body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ABMATERTERA",
+      "old": "Bract. fol. 68)",
+      "new": "Bract. fol. 68b",
+      "reason": "OCR error: closing parenthesis should be 'b' indicating folio side"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ABNEPTIS",
+      "old": "granddaughter of a grandgon or granddaughter",
+      "new": "granddaughter of a grandson or granddaughter",
+      "reason": "OCR error: 'grandgon' should be 'grandson'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ABODE",
+      "old": "52\nN. B. 308",
+      "new": "52 N. E. 308",
+      "reason": "OCR error: 'N. B.' should be 'N. E.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ABOLITION",
+      "old": "desist frum further Dre\nsecution. 25 Hen.",
+      "new": "desist from further prosecution. 25 Hen.",
+      "reason": "OCR errors: 'frum' should be 'from', 'Dre-secution' is broken 'prosecution'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ABORTION",
+      "old": "The cig:\ncarriage or premature delivery",
+      "new": "The miscarriage or premature delivery",
+      "reason": "OCR error: 'cig:carriage' is broken 'miscarriage'"
+    },
+    {
+      "type": "trim",
+      "term": "ABOVE",
+      "trim_at": "ABOVE CITED, or MENTIONED.",
+      "reason": "Embedded entry ABOVE CITED appears at end of ABOVE body"
+    },
+    {
+      "type": "trim",
+      "term": "ABRIDGMENT",
+      "trim_at": "ABRIDGMENT OF DAMAGES.",
+      "reason": "Embedded entries ABRIDGMENT OF DAMAGES and ABROGATE appear at end of ABRIDGMENT body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ABRIDGE",
+      "old": "Story v. Holgunmbe",
+      "new": "Story v. Holcombe",
+      "reason": "OCR error: 'Holgunmbe' should be 'Holcombe'"
+    },
+    {
+      "type": "trim",
+      "term": "ABROGATION",
+      "trim_at": "- ABSCOND. To go in a clandestine",
+      "reason": "Embedded entries ABSCOND and ABSCONDING DEBTOR appear at end of ABROGATION body"
+    },
+    {
+      "type": "trim",
+      "term": "ABSENTEE",
+      "trim_at": "ABSENTEES, or DES ABSENTEES.",
+      "reason": "Embedded entry ABSENTEES appears at end of ABSENTEE body"
+    },
+    {
+      "type": "trim",
+      "term": "ABSENTEES",
+      "trim_at": "ABSOILE—ASSOILE. To pardon or set",
+      "reason": "Embedded entries ABSOILE and Absoluta sententia maxim appear at end of ABSENTEES body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ABSENTEES",
+      "old": "Absentia ejus qui reipublics caus&i",
+      "new": "Absentia ejus qui reipublicæ causâ",
+      "reason": "OCR error: 'reipublics' and 'caus&i' are garbled Latin"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ABSOLUTELY",
+      "old": "10 ABSTENTION",
+      "new": "",
+      "reason": "OCR artifact: page header 'ABSTENTION' has been merged into the body text"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ABSOLUTION",
+      "old": "- Im French law.",
+      "new": "In French law.",
+      "reason": "OCR error: '- Im' should be 'In'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ACCUSE",
+      "old": "29 8. E. 444",
+      "new": "29 S. E. 444",
+      "reason": "OCR error: '8' should be 'S' in abbreviation S.E."
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ACCUSE",
+      "old": "all ay coho charges",
+      "new": "all charges",
+      "reason": "OCR garbled text: 'all ay coho charges' should be 'all charges'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ACCUSE",
+      "old": "State v. South, Rich.\nw (8. C.) 489",
+      "new": "State v. South, Rich. (S. C.) 489",
+      "reason": "OCR error: 'w (8. C.)' should be '(S. C.)'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ACKNOWLEDGMENT",
+      "old": "49 N. EL. 753",
+      "new": "49 N. E. 753",
+      "reason": "OCR error: 'N. EL.' should be 'N. E.' (Northeastern Reporter)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ACKNOWLEDGMENT",
+      "old": "33 N. ¥. Supp. 256",
+      "new": "33 N. Y. Supp. 256",
+      "reason": "OCR error: '¥' should be 'Y'"
+    },
+    {
+      "type": "trim",
+      "term": "ACKNOWLEDGMENT",
+      "trim_at": "ACKNOWLEDGMENT:",
+      "reason": "The headword 'ACKNOWLEDGMENT:' appears mid-body as a duplicate heading before continuing text, indicating a page break artifact that should be trimmed"
+    },
+    {
+      "type": "headword",
+      "term": "ACOCESSARY",
+      "correct": "ACCESSARY",
+      "reason": "OCR error in headword: 'ACOCESSARY' should be 'ACCESSARY' (accessary to adultery)"
+    },
+    {
+      "type": "headword",
+      "term": "ACOCRESCERE",
+      "correct": "ACCRESCERE",
+      "reason": "OCR error in headword: 'ACOCRESCERE' should be 'ACCRESCERE'"
+    },
+    {
+      "type": "headword",
+      "term": "ACOIDERE",
+      "correct": "ACCIDERE",
+      "reason": "OCR error in headword: 'ACOIDERE' should be 'ACCIDERE'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ACOIDERE",
+      "old": "quando acctderint",
+      "new": "quando acciderint",
+      "reason": "OCR error: 'acctderint' should be 'acciderint'"
+    },
+    {
+      "type": "headword",
+      "term": "ACOION",
+      "correct": "ACCION",
+      "reason": "OCR error in headword: 'ACOION' should be 'ACCION' (Spanish law term for right of action)"
+    },
+    {
+      "type": "headword",
+      "term": "ACOROACH",
+      "correct": "ACROACH",
+      "reason": "OCR error in headword: 'ACOROACH' should be 'ACROACH' (duplicate entry of ACROACH exists)"
+    },
+    {
+      "type": "headword",
+      "term": "ACOROOCHER",
+      "correct": "ACROOCHER",
+      "reason": "OCR error in headword: 'ACOROOCHER' should be 'ACROOCHER'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ACQUIESCE",
+      "old": "26 Pace.\n898",
+      "new": "26 Pac. 898",
+      "reason": "OCR error: 'Pace.' should be 'Pac.' (Pacific Reporter)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ACQUIESCENCE",
+      "old": "merely passive tte while acquiescence im",
+      "new": "merely passive attitude, while acquiescence im",
+      "reason": "OCR garbled 'tte' should be 'attitude,'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ACQUIESCENCE",
+      "old": "ux v. Haggin, 69 Cal.\n5, 10 Pac. 678",
+      "new": "Lux v. Haggin, 69 Cal. 255, 10 Pac. 678",
+      "reason": "OCR dropped first letter of case name 'Lux'"
+    },
+    {
+      "type": "trim",
+      "term": "ACQUIT",
+      "trim_at": "ACQUIT A CAUTION. In French law.",
+      "reason": "A separate entry 'ACQUIT A CAUTION' is merged into the body of ACQUIT after the definition"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ACQUIRE",
+      "old": "In fhe law of contracts",
+      "new": "In the law of contracts",
+      "reason": "OCR error: 'fhe' should be 'the'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ACQUISITION",
+      "old": "through occupancy or accession, (g. v.,)",
+      "new": "through occupancy or accession, (q. v.,)",
+      "reason": "OCR error: 'g. v.' should be 'q. v.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ACQUITTANCE",
+      "old": "not requiring to\nbe under seal.",
+      "new": "not requiring to be under seal.",
+      "reason": "Minor line break issue, but also: 'relcase' should be 'release'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ACQUITTANCE",
+      "old": "not requiring to\nbe under seal",
+      "new": "not requiring to be under seal",
+      "reason": "OCR line break"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ACQUITTANCE",
+      "old": "from a relcase in not",
+      "new": "from a release in not",
+      "reason": "OCR error: 'relcase' should be 'release'"
+    },
+    {
+      "type": "trim",
+      "term": "ACTA",
+      "trim_at": "ACTA IN UNO",
+      "reason": "The headword 'ACTA IN UNO' and surrounding entries (Act of parliament, Act of providence, etc.) appear to be merged into the ACTA entry body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ACTA DIURNA",
+      "old": "Acta exteriora indicant interiors se=-\nereta.",
+      "new": "Acta exteriora indicant interiora secreta.",
+      "reason": "OCR errors: 'interiors' should be 'interiora', 'se=-\nereta' should be 'secreta'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ACTA DIURNA",
+      "old": "Tray. Lat. Max. Lh.",
+      "new": "Tray. Lat. Max. 11.",
+      "reason": "OCR error: 'Lh.' should be '11.' (page number)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ACTE",
+      "old": "—Acte de cesssion.",
+      "new": "—Acte de cession.",
+      "reason": "OCR error: 'cesssion' has extra 's', should be 'cession'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ACTIO",
+      "old": "procecding to enforce",
+      "new": "proceeding to enforce",
+      "reason": "OCR error: 'procecding' should be 'proceeding'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ACTIO",
+      "old": "lay in behalf of\na mayer to reduce",
+      "new": "lay in behalf of a buyer to reduce",
+      "reason": "OCR error: 'mayer' should be 'buyer'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ACTIO",
+      "old": "the juder had power",
+      "new": "the judge had power",
+      "reason": "OCR error: 'juder' should be 'judge'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ACTIO",
+      "old": "unter, Rom. Law, 332.—\narbitraria.",
+      "new": "Hunter, Rom. Law, 332.—Actio arbitraria.",
+      "reason": "OCR dropped 'H' from 'Hunter' and 'Actio' from heading"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ACTIO",
+      "old": "Id. 825.—Aetio\nbonse fidei.",
+      "new": "Id. 825.—Actio bonae fidei.",
+      "reason": "OCR error: 'Aetio' should be 'Actio', 'bonse' should be 'bonae'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ACTIO",
+      "old": "—Actio eommodati.",
+      "new": "—Actio commodati.",
+      "reason": "OCR error: 'eommodati' should be 'commodati'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ACTIO",
+      "old": "the obliga.iions",
+      "new": "the obligations",
+      "reason": "OCR error: 'obliga.iions' should be 'obligations'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ACTIO",
+      "old": "Poth. Prét\nUsage, n. 75",
+      "new": "Poth. Prêt à Usage, n. 75",
+      "reason": "OCR line break disrupted citation"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ACTIO",
+      "old": "unter, Rom. Law, 194.",
+      "new": "Hunter, Rom. Law, 194.",
+      "reason": "OCR dropped 'H' from 'Hunter'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ACTIO",
+      "old": "—Aotio condictio indebitati.",
+      "new": "—Actio condictio indebitati.",
+      "reason": "OCR error: 'Aotio' should be 'Actio'"
+    },
+    {
+      "type": "trim",
+      "term": "ACTIO CIVILIS",
+      "trim_at": "ACTIO EX CONTRACTU 25",
+      "reason": "Page header/number 'ACTIO EX CONTRACTU 25' appears embedded in the body text"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ACTIO CIVILIS",
+      "old": "criminalia et civtlia",
+      "new": "criminalia et civilia",
+      "reason": "OCR error: 'civtlia' should be 'civilia'"
+    },
+    {
+      "type": "trim",
+      "term": "ACTIO EX CONTRACTU",
+      "trim_at": "_AOTIO EX DELIOTO.",
+      "reason": "Entries ACTIO EX DELICTO, ACTIO IN PERSONAM are merged into ACTIO EX CONTRACTU body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ACTIO EX CONTRACTU",
+      "old": "_AOTIO EX DELIOTO.",
+      "new": "ACTIO EX DELICTO.",
+      "reason": "OCR error: 'AOTIO' should be 'ACTIO', 'DELIOTO' should be 'DELICTO'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ACTIO EX CONTRACTU",
+      "old": "#2 maleficio",
+      "new": "Ex maleficio",
+      "reason": "OCR error: '#2' should be 'Ex'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ACTIO EX CONTRACTU",
+      "old": "_ ACTFIO IN PERSONAM.",
+      "new": "ACTIO IN PERSONAM.",
+      "reason": "OCR error: 'ACTFIO' should be 'ACTIO'"
+    },
+    {
+      "type": "trim",
+      "term": "ACTIO IN REM",
+      "trim_at": ". ACTIO NON. In pleading.",
+      "reason": "Entry ACTIO NON is merged into ACTIO IN REM body; also ACTIO NON ACCREVIT INFRA SEX appears as truncated heading"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ACTIO NON ULTERIUS",
+      "old": "introduced in piace of",
+      "new": "introduced in place of",
+      "reason": "OCR error: 'piace' should be 'place'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ACTIO PERSONALIS",
+      "old": "See Personat Ao-",
+      "new": "See Personal Action.",
+      "reason": "OCR error: 'Personat Ao-' is truncated/garbled cross-reference to 'Personal Action'"
+    },
+    {
+      "type": "trim",
+      "term": "ACTION",
+      "trim_at": "ACTION 26",
+      "reason": "Page header 'ACTION 26' embedded in body text mid-entry"
+    },
+    {
+      "type": "trim",
+      "term": "ABSQUE",
+      "trim_at": "ABSQUE ALIQUO INDE REDEN",
+      "reason": "The ABSQUE entry body contains multiple embedded sub-entries (ABSQUE ALIQUO INDE REDENDO, ABSQUE CONSIDERATIONE CURIZ) that are separate dictionary entries"
+    },
+    {
+      "type": "headword",
+      "term": "ABSQUE HOO",
+      "correct": "ABSQUE HOC",
+      "reason": "OCR error: 'HOO' should be 'HOC' (Latin 'without this')"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ABSQUE IMPETITIONE VASTI",
+      "old": "Ilability",
+      "new": "liability",
+      "reason": "OCR error: capital I instead of lowercase l"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ABSQUE IMPETITIONE VASTI",
+      "old": "(¢mpetitio,)",
+      "new": "(impetitio,)",
+      "reason": "OCR error: ¢ should be i"
+    },
+    {
+      "type": "trim",
+      "term": "ABSTENTION",
+      "trim_at": "ABSTRAOT, ». An abstract is",
+      "reason": "ABSTRAOT (ABSTRACT) entry is merged into the ABSTENTION body after a paragraph break"
+    },
+    {
+      "type": "headword",
+      "term": "ACCESSORY OCONTRAOT",
+      "correct": "ACCESSORY CONTRACT",
+      "reason": "OCR error: 'OCONTRAOT' should be 'CONTRACT'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ABSURDITY",
+      "old": "is -so. irrational",
+      "new": "is so irrational",
+      "reason": "OCR artifact: spurious period and space"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ABUSE",
+      "old": "employ {t In a",
+      "new": "employ it in a",
+      "reason": "OCR error: '{t' should be 'it', 'In' should be 'in'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ABUSE",
+      "old": "38 8. 'W.",
+      "new": "38 S. W.",
+      "reason": "OCR error: '8.' should be 'S.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ABUSE",
+      "old": "26 N. B. 622",
+      "new": "26 N. E. 622",
+      "reason": "OCR error: 'B.' should be 'E.' (N.E. reporter)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ABUSE",
+      "old": "62.N. B. 107",
+      "new": "62 N. E. 107",
+      "reason": "OCR error: 'B.' should be 'E.' (N.E. reporter)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ABUT",
+      "old": "ye gpeing separated by no more than a small\nd inconsiderable distance, but not when anchee lot",
+      "new": "yet being separated by no more than a small and inconsiderable distance, but not when another lot",
+      "reason": "OCR garbling of 'yet being' and 'and' and 'another'"
+    },
+    {
+      "type": "trim",
+      "term": "ABUT",
+      "trim_at": "- ABUTMENTS. The ends of a",
+      "reason": "ABUTMENTS entry is merged into the ABUT body"
+    },
+    {
+      "type": "trim",
+      "term": "ABUTTALS",
+      "trim_at": "AD ETIAM. (Lat. And also.)",
+      "reason": "AC ETIAM/AD ETIAM and subsequent entries (AC SI, ACADEMY) are merged into the ABUTTALS body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ACCEPTARE",
+      "old": "to errs",
+      "new": "to agree",
+      "reason": "OCR error: 'errs' appears to be garbled; in context 'to accept; to agree to assent' makes sense"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ACCEPTILATION",
+      "old": "(®th Ed.)",
+      "new": "(5th Ed.)",
+      "reason": "OCR error: ® symbol instead of digit for edition number"
+    },
+    {
+      "type": "trim",
+      "term": "ACCEPTOR",
+      "trim_at": "ACCEPTOR SUPRA PROTEST.",
+      "reason": "ACCEPTOR SUPRA PROTEST appears to be a separate sub-entry merged into ACCEPTOR body"
+    },
+    {
+      "type": "trim",
+      "term": "ACCOMENDA",
+      "trim_at": "AOCOMMODATION. An arrange",
+      "reason": "ACCOMMODATION entry merged into ACCOMENDA body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ACCOMENDA",
+      "old": "the owner of the property abs the master power",
+      "new": "the owner of the property gives the master power",
+      "reason": "OCR error: 'abs' should be 'gives'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ACCOMMODATION LANDS",
+      "old": "TIand\nhought by a bullder",
+      "new": "Land bought by a builder",
+      "reason": "OCR errors: 'TIand' should be 'Land', 'hought' should be 'bought', 'bullder' should be 'builder'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ACCOMMODATION LANDS",
+      "old": "fmproved",
+      "new": "improved",
+      "reason": "OCR error: 'f' instead of 'i'"
+    },
+    {
+      "type": "trim",
+      "term": "ACCOMMODATION PAPER",
+      "trim_at": "ACCOMMODATION WORKS. Work",
+      "reason": "ACCOMMODATION WORKS and ACCOMPLICE entries are merged into ACCOMMODATION PAPER body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ACCESSARY",
+      "old": "Accessary before the faite.",
+      "new": "Accessary before the fact.",
+      "reason": "OCR error: 'faite' should be 'fact'"
+    },
+    {
+      "type": "trim",
+      "term": "ACCESSARY",
+      "trim_at": "ACCESSARY 14",
+      "reason": "Page header 'ACCESSARY 14' and continuation text merged into the entry body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ACCIDENT",
+      "old": "Brown v. Kendall, 6 Cush.\n(Mags.); United States v. Boyd (C. C.) 45\nii\nFed. 851;",
+      "new": "Brown v. Kendall, 6 Cush. (Mass.); United States v. Boyd (C. C.) 45 Fed. 851;",
+      "reason": "OCR errors: 'Mags.' should be 'Mass.', spurious 'ii' page artifact inserted"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ACCIDENT",
+      "old": "fs not the result",
+      "new": "is not the result",
+      "reason": "OCR error: 'fs' should be 'is'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ACCIDENT",
+      "old": "relievable {n equity",
+      "new": "relievable in equity",
+      "reason": "OCR error: '{n' should be 'in'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ACCRUE",
+      "old": "98 U. 8S. 470, 476, 25 L. Kd",
+      "new": "98 U. S. 470, 476, 25 L. Ed.",
+      "reason": "OCR errors: '8S.' should be 'S.', 'Kd' should be 'Ed.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ACCRUE",
+      "old": "Napa State Flospital",
+      "new": "Napa State Hospital",
+      "reason": "OCR error: 'Flospital' should be 'Hospital'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ACCRUING",
+      "old": "accunmilating",
+      "new": "accumulating",
+      "reason": "OCR error: garbled word"
+    },
+    {
+      "type": "trim",
+      "term": "ACCUMULATED",
+      "trim_at": "ACCUMULATED SURPLUS\n\nheirs",
+      "reason": "The ACCUMULATED entry appears to be a fragment/duplicate header with text belonging to ACCRETION merged in, followed by ACCUMULATED SURPLUS definition"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ACCOUNTANT",
+      "old": "ACCOUNTANT GENERAL, or AC-\nCOMPTANT GENERAL.",
+      "new": "ACCOUNTANT GENERAL, or ACCOMPTANT GENERAL.",
+      "reason": "Line break artifact from OCR scanning"
+    },
+    {
+      "type": "trim",
+      "term": "ACCOUNTANT",
+      "trim_at": "ACCOUNTANT GENERAL, or AC-",
+      "reason": "ACCOUNTANT GENERAL / ACCOMPTANT GENERAL sub-entry merged into ACCOUNTANT body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ACCESSORY OBLIGATION",
+      "old": "eivil law",
+      "new": "civil law",
+      "reason": "OCR error: 'eivil' should be 'civil'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ACCESSORY OCONTRAOT",
+      "old": "eivil law",
+      "new": "civil law",
+      "reason": "OCR error: 'eivil' should be 'civil'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ACCEPTARE",
+      "old": "Lat. Im old pleading.",
+      "new": "Lat. In old pleading.",
+      "reason": "OCR error: 'Im' should be 'In'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ACCEPTEUR",
+      "old": "In Frerich law.",
+      "new": "In French law.",
+      "reason": "OCR error: 'Frerich' should be 'French'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ACCEPTANCE",
+      "old": "an.acceptance by one on whom a Dill is",
+      "new": "an acceptance by one on whom a bill is",
+      "reason": "OCR errors: spurious period after 'an', 'Dill' should be 'bill'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ACCEPT",
+      "old": "engage to puy it",
+      "new": "engage to pay it",
+      "reason": "OCR error: 'puy' should be 'pay'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ACCORD",
+      "old": "Kromer_v.",
+      "new": "Kromer v.",
+      "reason": "OCR error: underscore artifact instead of space"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ACCORD",
+      "old": "Ciy. Code Cal § 1521;\nCiv. Code Dak. $ 859.",
+      "new": "Civ. Code Cal. § 1521; Civ. Code Dak. § 859.",
+      "reason": "OCR errors: 'Ciy.' should be 'Civ.', '$' should be '§'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ACCRETION",
+      "old": "Bmeric v. Alvarado",
+      "new": "Emeric v. Alvarado",
+      "reason": "OCR error: 'Bmeric' should be 'Emeric'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ACCRETION",
+      "old": "45\nIa. Ann. 262",
+      "new": "45 La. Ann. 262",
+      "reason": "OCR error: 'Ia.' should be 'La.' (Louisiana Annual Reports)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ACCRUING",
+      "old": "138 Ohio St. 382",
+      "new": "138 Ohio St. 382",
+      "reason": ""
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ACCESSION",
+      "old": "comes entitled to it",
+      "new": "becomes entitled to it",
+      "reason": "OCR error: 'comes' missing initial 'be'"
+    },
+    {
+      "type": "flag",
+      "term": "ABUTTALS",
+      "issue": "Entry body contains 'AD ETIAM' but the AC entry references 'AC ETIAM' - the merged embedded entry may be 'AC ETIAM' not 'AD ETIAM'; needs verification of correct headword"
+    },
+    {
+      "type": "flag",
+      "term": "ACCOUNTABLE",
+      "issue": "Definition reads 'An instrument acknowledging the receipt of money...' which sounds like a definition for 'ACCOUNTABLE RECEIPT' or similar term, not 'ACCOUNTABLE' alone. May be truncated or wrong headword."
+    },
+    {
+      "type": "flag",
+      "term": "ACCUMULATED",
+      "issue": "Entry headword appears to be a fragment - likely should be 'ACCUMULATED SURPLUS' with body text, but a separate ACCUMULATED SURPLUS entry also exists. The body of ACCUMULATED contains text from ACCRETION entry followed by ACCUMULATED SURPLUS definition, suggesting serious OCR merge issue."
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ACTION OF BOOK DEBT",
+      "old": "boox-account",
+      "new": "book-account",
+      "reason": "OCR error: 'boox' should be 'book'"
+    },
+    {
+      "type": "trim",
+      "term": "ACTIONABLE",
+      "trim_at": "ACTOR,",
+      "reason": "The entry body ends mid-sentence and 'ACTOR,' appears as an embedded headword at the end, indicating the next entry was merged in"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ACTIONABLE",
+      "old": "{nfluential",
+      "new": "influential",
+      "reason": "OCR error: '{' should be 'i'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ACTIONABLE",
+      "old": "—A.e ble muisamee.",
+      "new": "—Actionable nuisance.",
+      "reason": "OCR garbled 'Actionable nuisance' into '—A.e ble muisamee.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ACTIONARE",
+      "old": "actfio",
+      "new": "actio",
+      "reason": "OCR error: 'actfio' should be 'actio'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ACTIONARY",
+      "old": "ection",
+      "new": "action",
+      "reason": "OCR error: 'ection' should be 'action'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ACTIONES",
+      "old": "ce. 24",
+      "new": "c. 24",
+      "reason": "OCR error: 'ce.' should be 'c.' (chapter abbreviation)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ACTRIX",
+      "old": "8 Co. 1460",
+      "new": "8 Co. 146b",
+      "reason": "OCR error: '1460' likely should be '146b' (folio reference)"
+    },
+    {
+      "type": "trim",
+      "term": "ACTON",
+      "trim_at": "ACTON BURNELL, STATUTE OF",
+      "reason": "The headword is 'ACTON' but the body begins with 'ACTON BURNELL, STATUTE OF' as if it is a sub-entry or the headword itself is wrong; the entry appears to be 'ACTON BURNELL, STATUTE OF' merged under 'ACTON'"
+    },
+    {
+      "type": "headword",
+      "term": "ACTON",
+      "correct": "ACTON BURNELL, STATUTE OF",
+      "reason": "The headword 'ACTON' is incomplete; the full headword should be 'ACTON BURNELL, STATUTE OF' as indicated by the body text"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ACTUAL",
+      "old": "theoretical o: possible",
+      "new": "theoretical or possible",
+      "reason": "OCR error: 'o:' should be 'or'"
+    },
+    {
+      "type": "trim",
+      "term": "ACTUAL",
+      "trim_at": "ACTUS °",
+      "reason": "The body contains 'ACTUS °' which appears to be the beginning of the next dictionary entry merged in"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ACTUAL",
+      "old": "Morgan's LL & T. R. S. 8S. Co.",
+      "new": "Morgan's L. & T. R. & S. S. Co.",
+      "reason": "OCR error in citation abbreviation"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ACTUARY",
+      "old": "thd value",
+      "new": "the value",
+      "reason": "OCR error: 'thd' should be 'the'"
+    },
+    {
+      "type": "trim",
+      "term": "AD ASSISAS CAPIENDAS",
+      "trim_at": "AD AUDIENDUM ET TERMINAN-",
+      "reason": "The body ends with a merged headword 'AD AUDIENDUM ET TERMINAN-' which is the start of the next entry"
+    },
+    {
+      "type": "trim",
+      "term": "AD CAMPI PARTEM",
+      "trim_at": "Adapted to the\nAD CAPTUM VULGI.",
+      "reason": "The body contains an embedded entry 'AD CAPTUM VULGI' with its definition merged in"
+    },
+    {
+      "type": "trim",
+      "term": "AD CAMPI PARTEM",
+      "trim_at": "AD COLLIGENDUM BONA DEFUNC-",
+      "reason": "The body also contains the beginning of another merged entry 'AD COLLIGENDUM BONA DEFUNC-'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AD FACIENDUM",
+      "old": "rectpicendum",
+      "new": "recipiendum",
+      "reason": "OCR error: 'rectpicendum' should be 'recipiendum'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AD FEODI FIRMAM",
+      "old": "Bieta",
+      "new": "Fleta",
+      "reason": "OCR error: 'Bieta' should be 'Fleta' (legal text reference)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AD FILUM AQUI",
+      "old": "AD FILUM AQUI",
+      "new": "AD FILUM AQUAE",
+      "reason": "OCR error in headword: 'AQUI' should be 'AQUAE' (Latin genitive of aqua)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AD FILUM AQUI",
+      "old": "fol. 208);",
+      "new": "fol. 208b;",
+      "reason": "OCR error: ')' should be 'b' in folio reference"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AD FIRMAM",
+      "old": "Ad flrmam noctis",
+      "new": "Ad firmam noctis",
+      "reason": "OCR error: 'flrmam' should be 'firmam'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AD FIRMAM",
+      "old": "Ad feods\nfirmam",
+      "new": "Ad feodi firmam",
+      "reason": "OCR error: 'feods' should be 'feodi'"
+    },
+    {
+      "type": "trim",
+      "term": "A",
+      "trim_at": "\"A\".\" The English indefinite",
+      "reason": "The entry for 'A' (the Latin ballot letter) has a second entry '\"A.\"' (the English indefinite article) merged into the body after a paragraph break"
+    },
+    {
+      "type": "trim",
+      "term": "A AVER",
+      "trim_at": "'A CELO USQUE AD CENTRUM",
+      "reason": "Entry 'A CELO USQUE AD CENTRUM' and subsequent maxim text merged into A AVER body"
+    },
+    {
+      "type": "trim",
+      "term": "A LIBELLIS",
+      "trim_at": "A l'impossible nul n'est",
+      "reason": "Latin maxim 'A l'impossible nul n'est tenu' appears as a separate entry merged into A LIBELLIS body"
+    },
+    {
+      "type": "trim",
+      "term": "A NATIVITATE",
+      "trim_at": "A:non posse ad non esse",
+      "reason": "Latin maxim entry merged into A NATIVITATE body after semicolon"
+    },
+    {
+      "type": "trim",
+      "term": "A PALATIO",
+      "trim_at": "A piratis aut latronibus cap",
+      "reason": "Two Latin maxim entries about pirates merged into A PALATIO body"
+    },
+    {
+      "type": "trim",
+      "term": "A QUO",
+      "trim_at": "A QUO; A QUA. From which.",
+      "reason": "A secondary entry 'A QUO; A QUA' merged into A QUO body"
+    },
+    {
+      "type": "trim",
+      "term": "A RENDRE",
+      "trim_at": "A rescriptis valet argument",
+      "reason": "Latin maxim entry merged into A RENDRE body"
+    },
+    {
+      "type": "trim",
+      "term": "A RUBRO",
+      "trim_at": "A summo remedio ad inuferi",
+      "reason": "Multiple Latin maxim entries merged into A RUBRO body"
+    },
+    {
+      "type": "trim",
+      "term": "A VINCULO",
+      "trim_at": "Ab abusu ad usum non valet",
+      "reason": "Latin maxim entry merged into A VINCULO body"
+    },
+    {
+      "type": "trim",
+      "term": "AB INCONVENIENTI",
+      "trim_at": "_ 4B INITIO. Lat. From the",
+      "reason": "Entry AB INITIO merged into AB INCONVENIENTI body with garbled headword '4B INITIO'"
+    },
+    {
+      "type": "trim",
+      "term": "ABALIENATIO",
+      "trim_at": ". ABAMITA. Lat. In the civi",
+      "reason": "ABAMITA entry merged into ABALIENATIO body"
+    },
+    {
+      "type": "trim",
+      "term": "ABATEMENT",
+      "trim_at": "ABATEMENT OF A NUISANCE.",
+      "reason": "ABATEMENT OF A NUISANCE entry merged into ABATEMENT body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "A FORTIORI",
+      "old": "less improbable, unusual, or ener must\nalso exist.;",
+      "new": "less improbable, unusual, or extraordinary, must also exist.",
+      "reason": "OCR garbled 'extraordinary' as 'ener' and sentence is incomplete"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "A RUBRO",
+      "old": "a. 17",
+      "new": "c. 17",
+      "reason": "Likely OCR error: 'a.' should be 'c.' for chapter citation in Bynkershoek"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "A RUBRO",
+      "old": "Tray. Lat. Max.; Bell, \"Ravric.\"",
+      "new": "Tray. Lat. Max.; Bell, \"Rubric.\"",
+      "reason": "OCR error: 'Ravric' should be 'Rubric'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "A RUBRO",
+      "old": "reinedy",
+      "new": "remedy",
+      "reason": "OCR error"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "A RUBRO",
+      "old": "A TEMPORE OUJUS CONTRARII\nMEMORIA NON EXISTET. From time\nof which mefhuory to the contrary does not\nexist.\n\nA verbis legis nom est recedendum.\nBrom the words of the law there must be\nno departure.",
+      "new": "A TEMPORE CUJUS CONTRARII MEMORIA NON EXISTET. From time of which memory to the contrary does not exist.\n\nA verbis legis non est recedendum. From the words of the law there must be no departure.",
+      "reason": "Multiple OCR errors: 'OUJUS' should be 'CUJUS', 'mefhuory' should be 'memory', 'nom' should be 'non', 'Brom' should be 'From'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AB EPISTOLIS",
+      "old": "charge of the correspondence (eptstole) of",
+      "new": "charge of the correspondence (epistolae) of",
+      "reason": "OCR error: 'eptstole' should be 'epistolae'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AB EPISTOLIS",
+      "old": "Calvin.; Splegelias.;",
+      "new": "Calvin.; Spelgelius.",
+      "reason": "OCR error in author name 'Splegelias' should be 'Spelgelius' (Jan van der Spiegel)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AB INCONVENIENTI",
+      "old": "_ 4B INITIO. Lat. From the beginning;\nfrom the first act. A party is said to be\na trespasser abd initio, an estate to be good\nab initio, an agreement or deed to be void ad\ninitio, a marriage to be unlawful ab initio,\nand the like. Plow. 6a, 164; 1 Bl. Comm.\n440.",
+      "new": "",
+      "reason": "This is actually a separate entry AB INITIO incorrectly merged; the duplicate standalone AB INITIO entry handles this"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AB INITIO",
+      "old": "au agreement or deed to be void ab\ntnitio, a marriage to be ulawful ab initio,\nand the like. Plow. 6¢, 16¢; 1 Bl. Comm.\n440.",
+      "new": "an agreement or deed to be void ab initio, a marriage to be unlawful ab initio, and the like. Plow. 6a, 16a; 1 Bl. Comm. 440.",
+      "reason": "OCR errors: 'au'->'an', 'tnitio'->'initio', 'ulawful'->'unlawful', '6¢, 16¢'->'6a, 16a'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AB IRATO",
+      "old": "a bd\ndrato",
+      "new": "ab irato",
+      "reason": "OCR error: 'a bd drato' is garbled 'ab irato'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ABACTOR",
+      "old": "A cattle\nthlef.",
+      "new": "A cattle thief.",
+      "reason": "OCR error: 'thlef' should be 'thief'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ABADENGO",
+      "old": "owned by an ecclesiasticnl corporation",
+      "new": "owned by an ecclesiastical corporation",
+      "reason": "OCR error: 'ecclesiasticnl' should be 'ecclesiastical'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ABALIENATIO",
+      "old": "transfer of property\nfrom ove Roman citizen to another.",
+      "new": "transfer of property from one Roman citizen to another.",
+      "reason": "OCR error: 'ove' should be 'one'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ABALIENATIO",
+      "old": "the Digest and I stitutes, cs <vell\nas in the feudal law",
+      "new": "the Digest and Institutes, as well as in the feudal law",
+      "reason": "OCR errors: 'I stitutes'->'Institutes', 'cs <vell'->'as well'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ABATEMENT",
+      "old": "In Eugland, in\nequity pleading",
+      "new": "In England, in equity pleading",
+      "reason": "OCR error: 'Eugland' should be 'England'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ABATEMENT",
+      "old": "Im chancery practice.",
+      "new": "In chancery practice.",
+      "reason": "OCR error: 'Im' should be 'In'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ABATEMENT",
+      "old": "Im mercantile law.",
+      "new": "In mercantile law.",
+      "reason": "OCR error: 'Im' should be 'In'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ABATEMENT",
+      "old": "duties\nflue on imported goods",
+      "new": "duties due on imported goods",
+      "reason": "OCR error: 'flue' should be 'due'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ABATEMENT",
+      "old": "A'. diminution or decrease",
+      "new": "A diminution or decrease",
+      "reason": "OCR error: 'A'.' should be 'A'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ABATEMENT",
+      "old": "amount of aia\nimposed upon any person",
+      "new": "amount of a tax imposed upon any person",
+      "reason": "OCR error: 'aia' garbled, should be 'a tax'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ABATEMENT",
+      "old": "pecunjary legacies",
+      "new": "pecuniary legacies",
+      "reason": "OCR error: 'pecunjary' should be 'pecuniary'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ABATEMENT",
+      "old": "payable sre\nnot suflicient",
+      "new": "payable are not sufficient",
+      "reason": "OCR errors: 'sre'->'are', 'suflicient'->'sufficient'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ABATOR",
+      "old": "In real property law, a stran:\nger who, having no right of entry, contrives\nto get possession of an estate of freehold, to\nthe prejudice of the heir or devisee, befere\n\ny\nthe latter can enter",
+      "new": "In real property law, a stranger who, having no right of entry, contrives to get possession of an estate of freehold, to the prejudice of the heir or devisee, before the latter can enter",
+      "reason": "OCR errors: 'stran:ger'->'stranger', 'befere y'->'before'; stray character 'y' is OCR artifact"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ABATOR",
+      "old": "one ©\nwho abates, prostrates, or destroys a nulsance.",
+      "new": "one who abates, prostrates, or destroys a nuisance.",
+      "reason": "OCR errors: '©' is spurious character, 'nulsance'->'nuisance'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ABATUDA",
+      "old": "Afoneta abatuda",
+      "new": "Moneta abatuda",
+      "reason": "OCR error: 'Afoneta' should be 'Moneta'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ABAVUNCULUS",
+      "old": "A great-great-grandmother's brother, (abavie\nfrater.)",
+      "new": "A great-great-grandfather's brother, (abavi frater.)",
+      "reason": "OCR error: 'abavie' should be 'abavi'; also 'grandmother' is likely 'grandfather' per the Latin abavus (great-great-grandfather)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ABAVUS",
+      "old": "Inst. 3, 6, 4; Dig.\n$8, 10, 1, 6",
+      "new": "Inst. 3, 6, 4; Dig. 38, 10, 1, 6",
+      "reason": "OCR error: '$8' should be '38'"
+    },
+    {
+      "type": "headword",
+      "term": "ABBAOCY",
+      "correct": "ABBACY",
+      "reason": "OCR error: 'ABBAOCY' should be 'ABBACY'"
+    },
+    {
+      "type": "flag",
+      "term": "AA",
+      "issue": "Entry body appears to be garbled dictionary entries about 'Time' (time of memory, time-policy, etc.) that do not belong under headword 'AA'. This appears to be a severely misplaced block of text."
+    },
+    {
+      "type": "flag",
+      "term": "AB",
+      "issue": "The body describes 'An officer having charge of acta' which corresponds to the headword 'A ACTIS' not 'AB'. The entry appears to be for 'A ACTIS' merged under wrong headword."
+    },
+    {
+      "type": "ocr_fix",
+      "term": "A DATU",
+      "old": "Haths\nv. Ash",
+      "new": "Hatter v. Ash",
+      "reason": "OCR error: 'Haths' appears to be garbled; the same case 'Hatter v. Ash' is cited later in the same entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "A CONSILHOIS",
+      "old": "A CONSILHOIS",
+      "new": "A CONSILIIS",
+      "reason": "Headword OCR error: 'CONSILHOIS' should be 'CONSILIIS' (matches body text referencing 'a consiliis')"
+    },
+    {
+      "type": "headword",
+      "term": "A CONSILHOIS",
+      "correct": "A CONSILIIS",
+      "reason": "OCR error in headword: 'CONSILHOIS' should be 'CONSILIIS'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AD IDEM",
+      "old": "Hsh the same point.",
+      "new": "lish the same point.",
+      "reason": "OCR error: 'Hsh' should be 'lish' (continuation of 'estab-lish')"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AD INDE",
+      "old": "Ad inde requtsttus",
+      "new": "Ad inde requisitus",
+      "reason": "OCR error: 'requtsttus' should be 'requisitus'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AD INQUIRENDUM",
+      "old": "To inguire",
+      "new": "To inquire",
+      "reason": "OCR error: 'inguire' missing 'q'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AD INTERIM",
+      "old": "ad inierim",
+      "new": "ad interim",
+      "reason": "OCR error: 'inierim' should be 'interim'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AD JUDICIUM",
+      "old": "Ad judtcium provocarc",
+      "new": "Ad judicium provocare",
+      "reason": "OCR errors: 'judtcium' should be 'judicium', 'provocarc' should be 'provocare'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AD JUNGENDUM AUXILIUM",
+      "old": "See Arp",
+      "new": "See Aid Prayer.",
+      "reason": "OCR error: 'Arp' appears to be garbled abbreviation for 'Aid Prayer'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AD LARGUM",
+      "old": "Jre ad largum",
+      "new": "Ire ad largum",
+      "reason": "OCR error: 'Jre' should be 'Ire'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AD LARGUM",
+      "old": "in exvtenso",
+      "new": "in extenso",
+      "reason": "OCR error: 'exvtenso' should be 'extenso'"
+    },
+    {
+      "type": "trim",
+      "term": "AD LITEM",
+      "trim_at": "AD LUCRANDUM VEL PERDEN-",
+      "reason": "Next dictionary entry 'AD LUCRANDUM VEL PERDENDUM' begins embedded at end of AD LITEM body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AD MAJOREM CAUTELAM",
+      "old": "[For\ngreater security.",
+      "new": "For greater security.",
+      "reason": "OCR error: spurious '[' bracket at start of definition"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AD MANUM",
+      "old": "Bt querens sectam habeat ad manum",
+      "new": "Et querens sectam habeat ad manum",
+      "reason": "OCR error: 'Bt' should be 'Et' (Latin conjunction)"
+    },
+    {
+      "type": "trim",
+      "term": "AD MEDIUM FILUM AQUI",
+      "trim_at": "AD MEDIUM FILUM Viz.",
+      "reason": "Embedded entry 'AD MEDIUM FILUM VIÆ' appears merged into AD MEDIUM FILUM AQUÆ body"
+    },
+    {
+      "type": "headword",
+      "term": "AD MEDIUM FILUM AQUI",
+      "correct": "AD MEDIUM FILUM AQUÆ",
+      "reason": "OCR error: 'AQUI' should be 'AQUÆ' (Latin for 'of the water')"
+    },
+    {
+      "type": "trim",
+      "term": "AD MEDIUM FILUM VIAE",
+      "trim_at": "special verdict was formerly",
+      "reason": "Spurious text 'special verdict was formerly' from AD LARGUM entry appears merged into body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AD RATIONEM PONERE",
+      "old": "sisnifying",
+      "new": "signifying",
+      "reason": "OCR error: 'sisnifying' should be 'signifying'"
+    },
+    {
+      "type": "trim",
+      "term": "AD RECOGNOSCENDUM",
+      "trim_at": "AD REPARATIONEM ET SUSTEN-",
+      "reason": "Next dictionary entry 'AD REPARATIONEM ET SUSTENTATIONEM' begins embedded at end of AD RECOGNOSCENDUM body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AD SATISFACIENDUM",
+      "old": "capias ad satisfacicendum",
+      "new": "capias ad satisfaciendum",
+      "reason": "OCR error: 'satisfacicendum' should be 'satisfaciendum'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AD SECTAM",
+      "old": "\"A. v B. o> '",
+      "new": "\"A. v. B.\"",
+      "reason": "OCR error: garbled closing of the case title format"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AD STUDENDUM ET ORANDUM",
+      "old": "eolleges and universities",
+      "new": "colleges and universities",
+      "reason": "OCR error: 'eolleges' should be 'colleges'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AD STUDENDUM ET ORANDUM",
+      "old": "T. Raym. 10L",
+      "new": "T. Raym. 101.",
+      "reason": "OCR error: 'L' should be '1' in citation number"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AD TERMINUM QUI PRETERIT",
+      "old": "Words fn the",
+      "new": "Words in the",
+      "reason": "OCR error: 'fn' should be 'in'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AD TERMINUM QUI PRETERIT",
+      "old": "See Biteh.\nNat. Brev. 201.",
+      "new": "See Fitch. Nat. Brev. 201.",
+      "reason": "OCR error: 'Biteh' should be 'Fitch' (Fitzherbert's Natura Brevium)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AD PIOS USUS",
+      "old": "AD QUZRIMONIAM.\nof.",
+      "new": "AD QUÆRIMONIAM. On complaint of.",
+      "reason": "OCR error: 'QUZRIMONIAM' should be 'QUÆRIMONIAM'; entry is merged/misformatted"
+    },
+    {
+      "type": "trim",
+      "term": "AD QUOD DAMNUM",
+      "trim_at": "AD QUOD. ' 39",
+      "reason": "Page header/number 'AD QUOD. 39' intruded into body text"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AD RECOGNOSCENDUM",
+      "old": "Fileta, lib. 2, c« 65, § 12.",
+      "new": "Fileta, lib. 2, c. 65, § 12.",
+      "reason": "OCR error: 'c«' should be 'c.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AD RESPONDENDUM",
+      "old": "a cupias ad respondendum",
+      "new": "a capias ad respondendum",
+      "reason": "OCR error: 'cupias' should be 'capias'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AD RECOGNOSCENDUM",
+      "old": "mominibus rerum dependet",
+      "new": "nominibus rerum dependet",
+      "reason": "OCR error: 'mominibus' should be 'nominibus' (Latin: names)"
+    },
+    {
+      "type": "trim",
+      "term": "ADDRESS",
+      "trim_at": "- ADDUCE. To present",
+      "reason": "Entry ADDUCE is embedded at end of ADDRESS body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ADDRESS",
+      "old": "bill is filed.)",
+      "new": "bill is filed.",
+      "reason": "OCR error: spurious ')' parenthesis"
+    },
+    {
+      "type": "trim",
+      "term": "ADELANTADO",
+      "trim_at": "ADELING, or ATHELING.",
+      "reason": "Entry ADELING/ATHELING is embedded at end of ADELANTADO body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ADDICTIO",
+      "old": "coram domino rege in cancel-\n3;",
+      "new": "coram domino rege in cancellaria; the addition showing the difference.",
+      "reason": "OCR/truncation error: 'cancel-3;' is garbled 'cancellaria;'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ADEMPTION",
+      "old": "(1 Rop. as p. )",
+      "new": "(1 Rop. Leg. p. )",
+      "reason": "OCR error: 'as' should be 'Leg.' in citation to Roper on Legacies"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ADEQUATE",
+      "old": "care proportionate to the risk to be incu.",
+      "new": "care proportionate to the risk to be incurred.",
+      "reason": "OCR error: 'incu.' is truncated 'incurred.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ADEQUATE",
+      "old": "48 S W._170",
+      "new": "48 S. W. 170",
+      "reason": "OCR error: 'S W._170' should be 'S. W. 170'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ADEQUATE",
+      "old": "oe and efficient to the ends of justice\na its prompt administration as the remedy\nin ee",
+      "new": "as adequate and efficient to the ends of justice and its prompt administration as the remedy in equity.",
+      "reason": "OCR errors: garbled text in adequate remedy definition"
+    },
+    {
+      "type": "trim",
+      "term": "ADFERRUMINATIO",
+      "trim_at": "34 ADJACENT",
+      "reason": "Page header '34 ADJACENT' followed by continuation of entry text merged into body"
+    },
+    {
+      "type": "headword",
+      "term": "ADIEU ADIEU, UL",
+      "correct": "ADIEU",
+      "reason": "Duplicate/corrupted headword; should be 'ADIEU' - the 'ADIEU, UL' portion appears to be OCR corruption of a page header or duplicate"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ADIPOCERE",
+      "old": "{cally margarate",
+      "new": "ically margarate",
+      "reason": "OCR error: opening brace instead of 'i' in 'chemically'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ADIT",
+      "old": "along'a lode. SElectro-\nMagnetic M. & D. Co.",
+      "new": "along a lode. Electro-\nMagnetic M. & D. Co.",
+      "reason": "OCR error: erroneous apostrophe in 'along a' and spurious 'S' before 'Electro'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ADIT",
+      "old": "6 Colo. 27&",
+      "new": "6 Colo. 278",
+      "reason": "OCR error: '&' should be '8' (page number 278)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ADJOURN",
+      "old": "La Farge v. Yan Wagenen",
+      "new": "La Farge v. Van Wagenen",
+      "reason": "OCR error: 'Yan' should be 'Van'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ADJOURN",
+      "old": "(N. ¥.) 54",
+      "new": "(N. Y.) 54",
+      "reason": "OCR error: '¥' should be 'Y'"
+    },
+    {
+      "type": "headword",
+      "term": "ADJOURNED",
+      "correct": "ADJOURNED SUMMONS",
+      "reason": "The body describes 'a summons taken out in chambers' - the headword appears truncated/incomplete; should be 'ADJOURNED SUMMONS'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ADJUDGE",
+      "old": "(GiL\n304;)",
+      "new": "(Gil. 304;)",
+      "reason": "OCR error: 'GiL' should be 'Gil.' (abbreviation for Gilfillan's reports)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ADJUDGATE",
+      "old": "Sans v. New York, 31\nMise. Rep. 558",
+      "new": "Sans v. New York, 31\nMisc. Rep. 558",
+      "reason": "OCR error: 'Mise.' should be 'Misc.'"
+    },
+    {
+      "type": "trim",
+      "term": "ADJUDICATION",
+      "trim_at": "ADJUNCTIO. In the civil law.",
+      "reason": "The entry for ADJUNCTIO is embedded at the end of the ADJUDICATION entry body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ADJUNCTIO",
+      "old": "building, (inadificatio ,)\nsowing, (setio;)",
+      "new": "building, (inaedificatio;)\nsowing, (satio;)",
+      "reason": "OCR errors: 'inadificatio' should be 'inaedificatio' and 'setio' should be 'satio'"
+    },
+    {
+      "type": "headword",
+      "term": "ADJUNCTUM",
+      "correct": "ADJUNCTUM ACCESSORIUM",
+      "reason": "The body contains the full term 'ADJUNCTUM ACCESSORIUM' as a sub-entry header; this entry appears to be a duplicate/fragment of ADJUNCTUM ACCESSORIUM"
+    },
+    {
+      "type": "trim",
+      "term": "ADJUNCTUM",
+      "trim_at": "ADJUNCTUM ACCESSORIUM. An ac",
+      "reason": "The body contains an embedded headword 'ADJUNCTUM ACCESSORIUM' followed by its definition"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ADJUST",
+      "old": "113 Iowa, 211, 8+ N. W.\n1049",
+      "new": "113 Iowa, 211, 84 N. W. 1049",
+      "reason": "OCR error: '8+' should be '84'"
+    },
+    {
+      "type": "trim",
+      "term": "ADJUSTMENT",
+      "trim_at": "36 ADMINICULAR",
+      "reason": "Page header '36 ADMINICULAR' merged into body of entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ADJUSTMENT",
+      "old": "fs entitled",
+      "new": "is entitled",
+      "reason": "OCR error: 'fs' should be 'is'"
+    },
+    {
+      "type": "trim",
+      "term": "ADMINICULAR",
+      "trim_at": "To give adminicu-",
+      "reason": "The body is cut off and contains the beginning of the ADMINICULATE entry merged in"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ADMINICULAR",
+      "old": "Auxillary to.",
+      "new": "Auxiliary to.",
+      "reason": "Spelling error: 'Auxillary' should be 'Auxiliary'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ADMINICULATE",
+      "old": "To give adminicu-iar evidence",
+      "new": "To give adminicular evidence",
+      "reason": "OCR error: 'adminicu-iar' is a broken/corrupted word for 'adminicular'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ADMINISTER",
+      "old": "4 Pennewill (Del.)\n108. 53 Atl. 861",
+      "new": "4 Pennewill (Del.) 108, 53 Atl. 861",
+      "reason": "OCR error: period after '108' should be a comma separating citations"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ADMINISTRATIVE",
+      "old": "prescribes in detail the manner of their\nwrangles fy being concerned with such topics as",
+      "new": "prescribes in detail the manner of their activity, being concerned with such topics as",
+      "reason": "OCR error: 'wrangles fy' is garbled text that should read 'activity,' or similar phrase"
+    },
+    {
+      "type": "trim",
+      "term": "ADMINISTRATIVE",
+      "trim_at": "ADMINISTRATOR, in the most usual",
+      "reason": "The ADMINISTRATOR entry is merged into the body of the ADMINISTRATIVE entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ADMINISTRATIVE",
+      "old": "Eeople v. Salsbury, 134 Mich. 537, 96 N. W.",
+      "new": "People v. Salsbury, 134 Mich. 537, 96 N. W.",
+      "reason": "OCR error: 'Eeople' should be 'People'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ADMINISTRATOR",
+      "old": "letters of adininistration",
+      "new": "letters of administration",
+      "reason": "OCR error: 'adininistration' should be 'administration'"
+    },
+    {
+      "type": "trim",
+      "term": "ADMINISTRATOR",
+      "trim_at": "—Domestic administrator. One appo",
+      "reason": "Embedded sub-entries starting with '—Domestic administrator' and '—Foreign administrator' appear to be merged into the parent entry body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ADMINISTRATOR",
+      "old": "Nov. 9%,",
+      "new": "Nov. 92,",
+      "reason": "OCR error: '%' should be '2'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ADMIRAL",
+      "old": "Im European law.",
+      "new": "In European law.",
+      "reason": "OCR error: 'Im' should be 'In'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ADMIRAL",
+      "old": "An of:",
+      "new": "An of-",
+      "reason": "OCR error: colon should be hyphen (line break artifact)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ADMIRAL",
+      "old": "collegium ammtralitatis",
+      "new": "collegium admiralitatis",
+      "reason": "OCR error: 'ammtralitatis' should be 'admiralitatis'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ADMIRAL",
+      "old": "Admiral] js also",
+      "new": "Admiral is also",
+      "reason": "OCR error: 'Admiral]' should be 'Admiral', 'js' should be 'is'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ADMIRAL",
+      "old": "admirnl of the fleet",
+      "new": "admiral of the fleet",
+      "reason": "OCR error: 'admirnl' should be 'admiral'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ADMIRALITAS",
+      "old": "An ussociation",
+      "new": "An association",
+      "reason": "OCR error: 'ussociation' should be 'association'"
+    },
+    {
+      "type": "trim",
+      "term": "ADMISSION",
+      "trim_at": "89 ADMONITION",
+      "reason": "Page header '89 ADMONITION' and embedded next entry content merged into ADMISSION body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ADMISSION TO BAIL",
+      "old": "In European law.",
+      "new": "",
+      "reason": "Fragment 'In European law.' appears to be a stray line merged in from another entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ADMITTENDO",
+      "old": "A writ\nfor associating",
+      "new": "A writ for associating",
+      "reason": "Entry body appears truncated/missing the full Latin title 'In socium admittendo'"
+    },
+    {
+      "type": "flag",
+      "term": "ADMITTENDO",
+      "issue": "Headword appears incomplete — likely should be 'ADMITTENDO IN SOCIUM' based on context about associating knights to justices of assize"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ADMONITIO",
+      "old": "A triple or\nthreefold warning",
+      "new": "A triple or threefold warning",
+      "reason": "Entry headword likely incomplete — should be 'ADMONITIO TRINA' based on context"
+    },
+    {
+      "type": "flag",
+      "term": "ADMONITIO",
+      "issue": "Headword appears incomplete — likely should be 'ADMONITIO TRINA' based on the body describing a 'triple or threefold warning'"
+    },
+    {
+      "type": "trim",
+      "term": "ADMONITIO",
+      "trim_at": "-ADMONITION. In _ ecclesiastical law",
+      "reason": "Entry for ADMONITION is merged into ADMONITIO body"
+    },
+    {
+      "type": "trim",
+      "term": "ADMORTIZATION",
+      "trim_at": "' ADM'R. _This abbreviation",
+      "reason": "Sub-entry for ADM'R is merged into ADMORTIZATION body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ADNEPOS",
+      "old": "The son: of a grent-greatgrandson",
+      "new": "The son of a great-great-grandson",
+      "reason": "OCR errors: spurious colon after 'son', 'grent' should be 'great'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ADNOTATIO",
+      "old": "annotations principis",
+      "new": "annotatione principis",
+      "reason": "OCR error: likely 'annotatione' (ablative) not 'annotations'"
+    },
+    {
+      "type": "trim",
+      "term": "ADNOTATIO",
+      "trim_at": "ADOLESCENCE.' Tiiat age which follows",
+      "reason": "Entry for ADOLESCENCE is merged into ADNOTATIO body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ADOPT",
+      "old": "Rhodes.v. U. §8., Dev. Ct. Cl. 47",
+      "new": "Rhodes v. U. S., Dev. Ct. Cl. 47",
+      "reason": "OCR error: '§8.' should be 'S.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ADOPT",
+      "old": "constitutional ainendment",
+      "new": "constitutional amendment",
+      "reason": "OCR error: 'ainendment' should be 'amendment'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ADOPT",
+      "old": "Meal v. People, 42 N. Y¥. 282",
+      "new": "Neal v. People, 42 N. Y. 282",
+      "reason": "OCR error: 'Meal' should be 'Neal', 'Y¥.' should be 'Y.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ADOPT",
+      "old": "Eckford v. Knox, 67 Tex. 200, 2.8.\nW. 372",
+      "new": "Eckford v. Knox, 67 Tex. 200, 2 S. W. 372",
+      "reason": "OCR error: '2.8.' should be '2 S.'"
+    },
+    {
+      "type": "trim",
+      "term": "ADOPTIVE",
+      "trim_at": "ADOPTIVE ACT. An act of legislation",
+      "reason": "ADOPTIVE ACT entry is merged into ADOPTIVE body; ADOPTIVE ACT has its own separate entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ADSCRIPTI",
+      "old": "ound to the coal-pit",
+      "new": "bound to the coal-pit",
+      "reason": "OCR error: missing initial 'b' in 'bound'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ADSTIPULATOR",
+      "old": "Sandars, Just. Inst.\n(th Ed.) 348",
+      "new": "Sandars, Just. Inst. (5th Ed.) 348",
+      "reason": "OCR error: '(th Ed.)' should be '(5th Ed.)'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ADULTERATION",
+      "old": "The term fs generally",
+      "new": "The term is generally",
+      "reason": "OCR error: 'fs' should be 'is'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ADULTERATOR",
+      "old": "Ja. the: civil\nlaw. <A forger; a counterfeiter.. Adulteratores monete, counterfeiters of guns:",
+      "new": "In the civil law. A forger; a counterfeiter. Adulteratores monetæ, counterfeiters of coins:",
+      "reason": "OCR errors: 'Ja.' should be 'In', 'the:' should be 'the', '<A' should be 'A', 'guns' should be 'coins', 'monete' should be 'monetæ'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ADULTERINE",
+      "old": "Begotten. in an eaviber\nous intercourse. In. tke. Koman, and canon\nlaw, adulterine bastards were - distinguished\nfrom such as were, the issue.of two unmarried persons, and the,.fprmer were treated.\nwith more severity, nat being. allowed the.\nstatus of natural, 7 and' Being ineligible to holy. orders.",
+      "new": "Begotten in an adulterous intercourse. In the Roman and canon law, adulterine bastards were distinguished from such as were the issue of two unmarried persons, and the former were treated with more severity, not being allowed the status of natural children, and being ineligible to holy orders.",
+      "reason": "Multiple OCR errors throughout"
+    },
+    {
+      "type": "trim",
+      "term": "ADULTERINE",
+      "trim_at": "ADULTERINE Guitns. * Traders acting",
+      "reason": "ADULTERINE GUILDS entry merged into ADULTERINE body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ADULTERIUM",
+      "old": "Tt 'fmme aneientiy: ime\nposed as a punishment",
+      "new": "A fine anciently imposed as a punishment",
+      "reason": "Heavy OCR corruption at start of entry"
+    },
+    {
+      "type": "trim",
+      "term": "ADULTEROUS",
+      "trim_at": "ADULTEROUS ' BASTARDY, Adulterous",
+      "reason": "ADULTEROUS BASTARDY entry merged into ADULTEROUS body; it has its own separate entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ADULTEROUS BASTARDY",
+      "old": "are * thoge produced",
+      "new": "are those produced",
+      "reason": "OCR error: 'thoge' should be 'those'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ADULTEROUS BASTARDY",
+      "old": "Civil Code te art. 182. eo",
+      "new": "Civil Code La. art. 182.",
+      "reason": "OCR error: 'te' should be 'La.', trailing 'eo' is spurious"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ADULTERY",
+      "old": "Civil Code Cal. § 98.",
+      "new": "Civil Code Cal. § 93.",
+      "reason": "OCR error: likely '§ 93' not '§ 98' (adultery definition section)"
+    },
+    {
+      "type": "flag",
+      "term": "ADULTERY",
+      "issue": "Citation 'Civil Code Cal. § 98' may be an OCR error for a different section number"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ADULTERY",
+      "old": "State v. Fellows, 50 Wis. 65, 6 N.\nW. 239; State v. Searle, 56 Vt. 516;\nv. Lash",
+      "new": "State v. Fellows, 50 Wis. 65, 6 N. W. 239; State v. Searle, 56 Vt. 516; State v. Lash",
+      "reason": "OCR error: 'v. Lash' is missing the preceding 'State' (likely cut off by line break)"
+    },
+    {
+      "type": "trim",
+      "term": "ADS",
+      "trim_at": "ADSCENDENTES 4",
+      "reason": "Page reference 'ADSCENDENTES 4' is a stray page header merged into ADS entry"
+    },
+    {
+      "type": "trim",
+      "term": "ADVENTITIOUS",
+      "trim_at": "ADVENTITIOUS. Lat. Fortuitou",
+      "reason": "A second entry 'ADVENTITIOUS' (Latin definition) is embedded in the body of the first ADVENTITIOUS entry after a paragraph break"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ADVANCES",
+      "old": "(N. ¥.) 69.",
+      "new": "(N. Y.) 69.",
+      "reason": "OCR error: ¥ should be Y in New York abbreviation"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ADVANCES",
+      "old": "taken fn its ordinary",
+      "new": "taken in its ordinary",
+      "reason": "OCR error: 'fn' should be 'in'"
+    },
+    {
+      "type": "trim",
+      "term": "ADVERSE",
+      "trim_at": "ADVERSE PARTY 43",
+      "reason": "The text 'ADVERSE PARTY 43' at the end of the ADVERSE entry is a page header or embedded next-entry reference that should be trimmed"
+    },
+    {
+      "type": "trim",
+      "term": "ADVISARE",
+      "trim_at": "ADVISE. To give an opinion",
+      "reason": "The ADVISE entry content is merged into the ADVISARE entry body; ADVISARE body should only contain its own definition, not the full ADVISE entry"
+    },
+    {
+      "type": "trim",
+      "term": "ADVOUTRY",
+      "trim_at": "ADVOWEE, or AVOWEE. The per",
+      "reason": "The ADVOWEE entry is merged at the end of the ADVOUTRY body after paragraph break"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ADVOCATUS",
+      "old": "ad eoclesiam, mnomine-proprio, non atlieno,",
+      "new": "ad ecclesiam, nomine-proprio, non alieno,",
+      "reason": "OCR errors: 'eoclesiam' should be 'ecclesiam', 'mnomine' should be 'nomine', 'atlieno' should be 'alieno'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ADVOCATUS",
+      "old": "Co. Litt. 119.:",
+      "new": "Co. Litt. 119.",
+      "reason": "Extra colon after period is OCR artifact"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ADVOUTRER",
+      "old": "34 S. B. 73",
+      "new": "34 S. E. 73",
+      "reason": "OCR error: 'S. B.' should be 'S. E.' (Southeastern Reporter)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ADVOWSON",
+      "old": "\"advrowee.\"",
+      "new": "\"advowee.\"",
+      "reason": "OCR error: 'advrowee' should be 'advowee'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ADVOWSON",
+      "old": "2 BL.\nComm. 22; 1 Crabb, Real Prop. p. 131,\n§ 119.—Advowson in gross.\nAn advowson separated from the manor, and\nannexed to the person. 2 Bl. Comm.: 3\nLitt. 120;",
+      "new": "2 Bl.\nComm. 22; 1 Crabb, Real Prop. p. 131,\n§ 119.—Advowson in gross.\nAn advowson separated from the manor, and\nannexed to the person. 2 Bl. Comm. 22; Co.\nLitt. 120;",
+      "reason": "OCR errors: '2 BL.' should be '2 Bl.' and '2 Bl. Comm.: 3 Litt.' should be '2 Bl. Comm. 22; Co. Litt.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AEDILITIUM EDICTUM",
+      "old": "AEDILITIUM EDICTUM EDICTUM. In the Roman\nlaw. The 4dilitian Edict",
+      "new": "AEDILITIUM EDICTUM. In the Roman\nlaw. The Ædilitian Edict",
+      "reason": "OCR duplication of 'EDICTUM' and '4dilitian' should be 'Ædilitian'"
+    },
+    {
+      "type": "trim",
+      "term": "AEDIFICARE",
+      "trim_at": "AEdificare in tuo proprio solo",
+      "reason": "The maxim 'AEdificare in tuo proprio solo non licet...' and its explanation are a separate embedded entry that continues into AEDIFICATUM"
+    },
+    {
+      "type": "trim",
+      "term": "AEDIFICATUM",
+      "trim_at": "AEDIFICATUM SOLO",
+      "reason": "The body starts with a repeated headword 'AEDIFICATUM SOLO' followed by separate maxim entries that are merged in"
+    },
+    {
+      "type": "trim",
+      "term": "AEQUITAS",
+      "trim_at": "ZESNECIA",
+      "reason": "'ZESNECIA' appears mid-body as a separate headword embedded in AEQUITAS entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AEQUITAS",
+      "old": "Co. Litt. 24D.",
+      "new": "Co. Litt. 24b.",
+      "reason": "OCR error: '24D' should be '24b' (referring to folio page 24b of Coke on Littleton)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AEQUITAS",
+      "old": "in no.writing",
+      "new": "in no writing",
+      "reason": "OCR error: missing space after period"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AEQUITAS",
+      "old": "ZEquitas nunguam",
+      "new": "ZEquitas nunquam",
+      "reason": "OCR error: 'nunguam' should be 'nunquam'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AEQUITAS",
+      "old": "juri auxilfatur",
+      "new": "juri auxiliatur",
+      "reason": "OCR error: 'auxilfatur' should be 'auxiliatur'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AEQUUS",
+      "old": "ex a quus among",
+      "new": "ex aequis among",
+      "reason": "OCR error: 'ex a quus' should be 'ex aequis' (Latin for 'equally')"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AERA",
+      "old": "The derivatign of the word",
+      "new": "The derivation of the word",
+      "reason": "OCR error: 'derivatign' should be 'derivation'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AETAS",
+      "old": "—Aetas legitima. The age; the age of\npuberty. Dig. 3, 5, 27, pr.; 12, 30, os\nFf, 1, pr—2Aetas perfecta.",
+      "new": "—Aetas legitima. The age; the age of\npuberty. Dig. 3, 5, 27, pr.; 12, 30, 5; Id.\n1, pr.—Aetas perfecta.",
+      "reason": "OCR garbled: 'os Ff, 1, pr—2Aetas' contains multiple errors"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AETAS",
+      "old": "the one and twentieth (of age). Cod. 6, 61, 8, 3.",
+      "new": "the one and twentieth year (of age). Cod. 6, 61, 8, 3.",
+      "reason": "Word 'year' appears to be missing based on context"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ADVOCATOR",
+      "old": "In Scotch practice.\nAp appellant.",
+      "new": "In Scotch practice.\nAn appellant.",
+      "reason": "OCR error: 'Ap' should be 'An'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ADVOCATOR",
+      "old": "yotched",
+      "new": "vouched",
+      "reason": "OCR error: 'yotched' should be 'vouched'"
+    },
+    {
+      "type": "trim",
+      "term": "ADVERTISEMENT",
+      "trim_at": "ADVERTISEMENTS OF QUEEN",
+      "reason": "The text 'ADVERTISEMENTS OF QUEEN' at end of ADVERTISEMENT body is the beginning of the next embedded entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ADVICE",
+      "old": "presented for acceptanfe or\n\n. payment are frequently dishonored for scart\nof advice.",
+      "new": "presented for acceptance or payment are frequently dishonored for want of advice.",
+      "reason": "OCR errors: 'acceptanfe' should be 'acceptance', 'scart' should be 'want'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ADVOCATE",
+      "old": "—Advocate meral, The adviser of the",
+      "new": "—Advocate general. The adviser of the",
+      "reason": "OCR error: 'meral' should be 'general'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ADVOCATE",
+      "old": "—Advocate, lo The principal",
+      "new": "—Advocate, lord. The principal",
+      "reason": "OCR error: 'lo' should be 'lord'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ADVOCATE",
+      "old": "e has the power. of appearing",
+      "new": "He has the power of appearing",
+      "reason": "OCR error: 'e has' should be 'He has', spurious period"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ADVENTURE",
+      "old": "ag synonymous",
+      "new": "as synonymous",
+      "reason": "OCR error: 'ag' should be 'as'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ADVENTURE",
+      "old": "s0, with",
+      "new": "so, with",
+      "reason": "OCR error: 's0' should be 'so'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ADVENTURE",
+      "old": "ss adventure. In maritime law.",
+      "new": "Gross adventure. In maritime law.",
+      "reason": "OCR error: 'ss' should be 'Gross' (gross adventure is a recognized maritime law term for bottomry loan)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ADVENT",
+      "old": "either upon St. Andrew's day, being the 30th\nof November, or the next to it. and continuing",
+      "new": "either upon St. Andrew's day, being the 30th\nof November, or the next to it, and continuing",
+      "reason": "OCR error: period after 'it' should be a comma"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ADVOCATIONE",
+      "old": "writ which lay for tithes",
+      "new": "A writ which lay for tithes",
+      "reason": "OCR error: missing 'A' at start of body (entry appears truncated)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AGENESIA",
+      "old": "elther",
+      "new": "either",
+      "reason": "OCR error: 'elther' should be 'either'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AGENS",
+      "old": "Iat.",
+      "new": "Lat.",
+      "reason": "OCR error: 'Iat.' should be 'Lat.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AGENS",
+      "old": "lib. 4,c 15, 3 8",
+      "new": "lib. 4, c. 15, § 8",
+      "reason": "OCR error: '3 8' should be '§ 8', and formatting of citation"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AGER",
+      "old": "Iat. In the civil law. <A",
+      "new": "Lat. In the civil law. A",
+      "reason": "OCR error: 'Iat.' should be 'Lat.' and '<A' should be 'A'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AGER",
+      "old": "18 La. 167, 36",
+      "new": "18 La. 122, 36",
+      "reason": "Possible OCR issue but uncertain; flagging separately"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AGER",
+      "old": "Municipality\nNo. 2 vy. Orleans",
+      "new": "Municipality No. 2 v. Orleans",
+      "reason": "OCR error: 'vy.' should be 'v.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AGGRAVATED",
+      "old": "eommit",
+      "new": "commit",
+      "reason": "OCR error: 'eommit' should be 'commit'"
+    },
+    {
+      "type": "trim",
+      "term": "AGGRAVATED",
+      "trim_at": "51 . AGILLARIUS",
+      "reason": "The entry ends with '§ 51 . AGILLARIUS' which appears to be the start of an embedded next entry reference"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AGGRAVATED ASSAULT",
+      "old": "eommit",
+      "new": "commit",
+      "reason": "OCR error: 'eommit' should be 'commit'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AGGRAVATED ASSAULT",
+      "old": "113 Fed. 902;",
+      "new": "113 Fed. 992;",
+      "reason": "OCR error: '902' should be '992' based on the AGGRAVATED entry which cites same case as 113 Fed. 992"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AGGRAVATED ASSAULT",
+      "old": "misdeae etc.",
+      "new": "misdemeanor, etc.",
+      "reason": "OCR error: 'misdeae' is garbled truncation of 'misdemeanor'"
+    },
+    {
+      "type": "trim",
+      "term": "AGGRAVATED ASSAULT",
+      "trim_at": "51 AGILLARIUS",
+      "reason": "AGILLARIUS appears to be a separate embedded entry at the end"
+    },
+    {
+      "type": "trim",
+      "term": "AGGREGATE",
+      "trim_at": "—Aggregate corporation. See CoRPORA-",
+      "reason": "Entry body is cut short and appears to contain the start of a sub-entry or cross-reference that trails off"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AGGREGATIO",
+      "old": "The meeting of minds. The moment when a contract\nis.complete.",
+      "new": "The meeting of minds. The moment when a contract is complete.",
+      "reason": "OCR error: 'is.complete' should be 'is complete'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AGNOMEN",
+      "old": "& man gets",
+      "new": "a man gets",
+      "reason": "OCR error: '&' should be 'a'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AGNOMEN",
+      "old": "Ainsworth;",
+      "new": "Ainsworth;",
+      "reason": "No error detected here"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AGREAMENTUM",
+      "old": "Agreeinent;",
+      "new": "Agreement;",
+      "reason": "OCR error: 'Agreeinent' should be 'Agreement'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AGREE",
+      "old": "exchunge",
+      "new": "exchange",
+      "reason": "OCR error: 'exchunge' should be 'exchange'"
+    },
+    {
+      "type": "trim",
+      "term": "AGREE",
+      "trim_at": "AGREE. In French law. A solicitor",
+      "reason": "Second 'AGREE.' heading in body introduces a separate entry for the French law meaning; this appears to be a merged entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AGIOTAGE",
+      "old": "A. speculation",
+      "new": "A speculation",
+      "reason": "OCR error: 'A.' should be 'A'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AGIOTAGE",
+      "old": "'agtotcur.'",
+      "new": "'agioteur.'",
+      "reason": "OCR error: 'agtotcur' is garbled; should be 'agioteur' (French term for speculator)"
+    },
+    {
+      "type": "trim",
+      "term": "AGIST",
+      "trim_at": "AGISTATIO ANIMALIUM IN FOR-",
+      "reason": "End of AGIST entry contains start of next entry AGISTATIO ANIMALIUM IN FORESTA embedded"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AGISTATIO",
+      "old": "AGISTATIO ANIMALIUM IN FORESTA\nESTA.",
+      "new": "AGISTATIO ANIMALIUM IN FORESTA.",
+      "reason": "OCR error: 'ESTA.' is a line-break artifact repeating part of 'FORESTA'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AGREEMENT",
+      "old": "some property, right, or eines",
+      "new": "some property, right, or benefit.",
+      "reason": "OCR error: 'eines' is garbled; context and Bac. Abr. suggest 'benefit'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AGREEMENT",
+      "old": "or the nappentog of a contingency.",
+      "new": "or the happening of a contingency.",
+      "reason": "OCR error: 'nappentog' should be 'happening'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AGREEMENT",
+      "old": "Esecutory agreements are such as are to\nbe performegpin the future.",
+      "new": "Executory agreements are such as are to be performed in the future.",
+      "reason": "OCR error: 'performegpin' should be 'performed in'"
+    },
+    {
+      "type": "trim",
+      "term": "AGILLARIUS",
+      "trim_at": "AGIO §2",
+      "reason": "AGIO appears embedded at the end of AGILLARIUS entry"
+    },
+    {
+      "type": "trim",
+      "term": "AGRICULTURAL",
+      "trim_at": "- AGRICULTURE. The science or art of",
+      "reason": "AGRICULTURE entry is merged into AGRICULTURAL entry body"
+    },
+    {
+      "type": "trim",
+      "term": "AGRICULTURAL LIEN",
+      "trim_at": "' AGRICULTURE. The science or art of",
+      "reason": "AGRICULTURE entry is merged into AGRICULTURAL LIEN entry body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AGRICULTURAL LIEN",
+      "old": "29 N. W. 895;",
+      "new": "29 N. W. 895;",
+      "reason": "No error"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AGRICULTURAL LIEN",
+      "old": "7 Heisk. (Tenn.) 6510;",
+      "new": "7 Heisk. (Tenn.) 510;",
+      "reason": "OCR error: '6510' should be '510'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AGRICULTURAL LIEN",
+      "old": "Springer\nv. Lewis, 22 Pa. 198.",
+      "new": "Springer v. Lewis, 22 Pa. 193.",
+      "reason": "OCR error: '198' should be '193' based on the AGRICULTURAL entry citing same case as 22 Pa. 193"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AGRICULTURAL LIEN",
+      "old": "it ig agriculture,",
+      "new": "it is agriculture,",
+      "reason": "OCR error: 'ig' should be 'is'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AHTEID",
+      "old": "Bavarluns.",
+      "new": "Bavarians.",
+      "reason": "OCR error: 'Bavarluns' should be 'Bavarians'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AID",
+      "old": "synohym",
+      "new": "synonym",
+      "reason": "OCR error: 'synohym' should be 'synonym'"
+    },
+    {
+      "type": "trim",
+      "term": "AID",
+      "trim_at": "AID AND ABET. In criminal law.",
+      "reason": "AID AND ABET is a separate entry merged into the AID entry body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AGNEFRIDA",
+      "old": "",
+      "new": "",
+      "reason": "No error"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AGNATI",
+      "old": "if his life had prolonged to their\ntime.",
+      "new": "if his life had been prolonged to their time.",
+      "reason": "OCR error: missing 'been'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AGNATI",
+      "old": "for\nstance,",
+      "new": "for instance,",
+      "reason": "OCR error: 'for stance' should be 'for instance' (line break artifact)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AGNATIC",
+      "old": "[From agnati, ¢(q. v.)",
+      "new": "[From agnati, (q. v.)",
+      "reason": "OCR error: '¢(' should be '('"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AIDS",
+      "old": "to make the\nlord's eldest son avd heir apparent a knight;.",
+      "new": "to make the\nlord's eldest son and heir apparent a knight;.",
+      "reason": "OCR error: 'avd' should be 'and'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AIR",
+      "old": "Bank vy. Kennett, 101 Mo. App. 370, 74:8. W. 474",
+      "new": "Bank v. Kennett, 101 Mo. App. 370, 74 S. W. 474",
+      "reason": "OCR errors: 'vy.' should be 'v.', '74:8.' should be '74 S.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AIR-WAY",
+      "old": "To malicioualy fill up",
+      "new": "To maliciously fill up",
+      "reason": "OCR error: 'malicioualy' should be 'maliciously'"
+    },
+    {
+      "type": "trim",
+      "term": "AKIN",
+      "trim_at": "AL. L. Fr. Atthte; tothe",
+      "reason": "The entry for AKIN contains a merged entry for 'AL' after '% Mod. 140.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AKIN",
+      "old": "% Mod. 140.",
+      "new": "2 Mod. 140.",
+      "reason": "OCR error: '%' should be '2'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AL",
+      "old": "Al warre; at\nthe bar.",
+      "new": "Al barre; at\nthe bar.",
+      "reason": "OCR error: 'warre' should be 'barre' (matching the definition 'at the bar')"
+    },
+    {
+      "type": "trim",
+      "term": "AL",
+      "trim_at": "AL Courts, FEDERAL Courts",
+      "reason": "The AL entry contains merged text from other entries (AL Courts, FEDERAL Courts, HIGH COMMISSION, AL LAW) which are separate dictionary entries"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ALANERARIUS",
+      "old": "from\nelanus, a dog known to the ancients. A faleconer.",
+      "new": "from\nelanus, a dog known to the ancients. A falconer.",
+      "reason": "OCR error: 'faleconer' should be 'falconer'"
+    },
+    {
+      "type": "trim",
+      "term": "ALARM",
+      "trim_at": "ALARM LIST. The list of",
+      "reason": "The ALARM entry contains the ALARM LIST entry merged in"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ALARM",
+      "old": "* 65\n\nALCOHOLISM",
+      "new": "",
+      "reason": "Page number and next entry header merged into ALARM entry"
+    },
+    {
+      "type": "trim",
+      "term": "ALBA",
+      "trim_at": "ALBA FIRMA. In old English",
+      "reason": "The ALBA entry contains the ALBA FIRMA entry merged in"
+    },
+    {
+      "type": "trim",
+      "term": "ALBUM",
+      "trim_at": "ALBUM BREVE. A biank writ",
+      "reason": "The ALBUM entry contains the ALBUM BREVE entry merged in"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ALBUM BREVE",
+      "old": "A biank writ",
+      "new": "A blank writ",
+      "reason": "OCR error: 'biank' should be 'blank'"
+    },
+    {
+      "type": "trim",
+      "term": "ALBUS",
+      "trim_at": "ALBUS LIBER. The white book",
+      "reason": "The ALBUS entry contains the ALBUS LIBER entry merged in"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ALCOHOLISM",
+      "old": "leas quantities",
+      "new": "less quantities",
+      "reason": "OCR error: 'leas' should be 'less'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ALCOHOLISM",
+      "old": "longeontinued",
+      "new": "long-continued",
+      "reason": "OCR error: 'longeontinued' should be 'long-continued'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ALDERMAN",
+      "old": "alder-",
+      "new": "",
+      "reason": "Broken word 'alder-' at end of entry is a remnant of a hyphenated page break, should be removed"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ALDERMANNUS",
+      "old": "L. Lat. An\nman, g. v.",
+      "new": "L. Lat. An alderman, q. v.",
+      "reason": "OCR error: 'An\\nman' is a broken word; should be 'An alderman'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ALDERMANNUS",
+      "old": "wa peate se:",
+      "new": "wapentachii.",
+      "reason": "OCR error: 'wa peate se:' is garbled text for 'wapentachii.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ALDERMANNUS",
+      "old": "suposed by Spelman to be the same with the chief\nusticiary of England",
+      "new": "supposed by Spelman to be the same with the chief justiciary of England",
+      "reason": "OCR errors: 'suposed' should be 'supposed', 'usticiary' should be 'justiciary'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ALE-HOUSE",
+      "old": "A pluce where ale is sold",
+      "new": "A place where ale is sold",
+      "reason": "OCR error: 'pluce' should be 'place'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ALE-STAKE",
+      "old": "A muypole or long stake",
+      "new": "A maypole or long stake",
+      "reason": "OCR error: 'muypole' should be 'maypole'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ALEATORY",
+      "old": "ALER:-A DIEU. L. F*®.\nIn old practice. To be dismissed from court;\nto go\nquit. Literally, \"to go to God.\"",
+      "new": "",
+      "reason": "Merged entry 'ALER A DIEU' appended to ALEATORY entry body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ALFET",
+      "old": "avater was poured, in which a criminal",
+      "new": "water was poured, in which a criminal",
+      "reason": "OCR error: 'avater' should be 'water'"
+    },
+    {
+      "type": "trim",
+      "term": "ALGARUM",
+      "trim_at": "ALGARUM MARIS. Probably a",
+      "reason": "The ALGARUM entry contains the ALGARUM MARIS entry merged in"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ALIAS",
+      "old": "elias,) when placed between two-names ib a",
+      "new": "alias,) when placed between two names in a",
+      "reason": "OCR errors: 'elias' should be 'alias', 'two-names' should be 'two names', 'ib' should be 'in'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ALIAS",
+      "old": "A fictltious name",
+      "new": "A fictitious name",
+      "reason": "OCR error: 'fictltious' should be 'fictitious'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ALIAS",
+      "old": "Kennedy\nvy. People, 1 Cow. Cr, Rep. (N..¥.) 119.—AHas\nwrit.",
+      "new": "Kennedy\nv. People, 1 Cow. Cr. Rep. (N.Y.) 119.—Alias\nwrit.",
+      "reason": "OCR errors: 'vy.' should be 'v.', 'N..¥.' should be 'N.Y.', 'AHas' should be 'Alias'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ALIAS",
+      "old": "An alas writ is a second writ",
+      "new": "An alias writ is a second writ",
+      "reason": "OCR error: 'alas' should be 'alias'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ALIEN",
+      "old": "Lynch v. Clarke.\n1 Sandf. Ch. (N.Y.) 668",
+      "new": "Lynch v. Clarke, 1 Sandf. Ch. (N.Y.) 668",
+      "reason": "OCR error: period after 'Clarke.' should be a comma"
+    },
+    {
+      "type": "trim",
+      "term": "ALIEN",
+      "trim_at": "ALIEN or ALIENATE. v. To",
+      "reason": "The ALIEN entry contains the separate entry 'ALIEN or ALIENATE' (verb form) merged in, along with the maxim 'Aliena negotia...'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ALIENATE",
+      "old": "Alien is\nvery commonly used in the same sense. 1\nWashb. Real Prop. 53.\n\"Sell, alicnate, and dispone\"",
+      "new": "Alien is\nvery commonly used in the same sense. 1\nWashb. Real Prop. 53.\n\"Sell, alienate, and dispone\"",
+      "reason": "OCR error: 'alicnate' should be 'alienate'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ALIENATE",
+      "old": "Alienatio rei prefertur juri accrescendi. Alienntion is favored by the law",
+      "new": "Alienatio rei prefertur juri accrescendi. Alienation is favored by the law",
+      "reason": "OCR error: 'Alienntion' should be 'Alienation'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AFFECTUS",
+      "old": "suspicion of bies",
+      "new": "suspicion of bias",
+      "reason": "OCR error: 'bies' should be 'bias'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AFFEER",
+      "old": "should nay.",
+      "new": "should pay.",
+      "reason": "OCR error: 'nay' should be 'pay'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AFFILARE",
+      "old": "L. Lat. To file or afiile.",
+      "new": "L. Lat. To file or afile.",
+      "reason": "OCR error: 'afiile' should be 'afile'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AFFILARE",
+      "old": "8 Coke, 160. De recordo afflatum, affiled of record. 2 Ld",
+      "new": "8 Coke, 160. De recordo afflatum, affiled of record. 2 Ld.",
+      "reason": "Minor formatting, but more importantly '8 Coke' may be correct; leaving as is"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AFFILE",
+      "old": "2 Maule & 8.",
+      "new": "2 Maule & S.",
+      "reason": "OCR error: '8' should be 'S' (Selwyn abbreviation)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AFFILE",
+      "old": "Ale.:",
+      "new": "file.",
+      "reason": "OCR error: 'Ale.:' appears to be a garbled rendering of 'file.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AFFILIATION",
+      "old": "Im French law. <A species of adoption",
+      "new": "In French law. A species of adoption",
+      "reason": "OCR error: 'Im' should be 'In' and '<A' should be 'A'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AFFILIATION",
+      "old": "The person afiiliated succeeded",
+      "new": "The person affiliated succeeded",
+      "reason": "OCR error: 'afiiliated' should be 'affiliated'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AFFILIATION",
+      "old": "affiliated te another convent.",
+      "new": "affiliated to another convent.",
+      "reason": "OCR error: 'te' should be 'to'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AFFINES",
+      "old": "Affinis mei affinis non est mihi af-\nAmis.",
+      "new": "Affinis mei affinis non est mihi affinis.",
+      "reason": "OCR error: hyphenated line break corrupted 'affinis' into 'af-\\nAmis'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AFFINITAS",
+      "old": "—A fini\ntas affinitatis.",
+      "new": "—Affinitas affinitatis.",
+      "reason": "OCR error: line break split 'Affinitas' into 'A fini\\ntas'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AFFINITAS",
+      "old": "Chinn v. State, 47 Ohio\nt. 575, 26 N. E. 11 L. R. A. 680.",
+      "new": "Chinn v. State, 47 Ohio St. 575, 26 N. E. 11 L. R. A. 680.",
+      "reason": "OCR error: 'Ohio\\nt.' should be 'Ohio St.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AFFINITY",
+      "old": "those who are related to the one by blood\nare related to the other by affinity. Gib.\nCod. 412; 1 Bl. Comm. 435.",
+      "new": "those who are related to the one by blood are related to the other by affinity. Gib. Cod. 412; 1 Bl. Comm. 435.",
+      "reason": "Minor line break issue, but also 'one flesh, °' has a stray degree symbol"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AFFINITY",
+      "old": "one flesh, °",
+      "new": "one flesh,",
+      "reason": "OCR artifact: stray '°' character after comma"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AFFINITY",
+      "old": "—Quasi affinity. In the civil law. The af:\nfinity",
+      "new": "—Quasi affinity. In the civil law. The affinity",
+      "reason": "OCR error: 'af:\\nfinity' should be 'affinity'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AFFIRM",
+      "old": "to declare that it Is valid",
+      "new": "to declare that it is valid",
+      "reason": "OCR error: 'Is' should be 'is'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AFFIRMANCE",
+      "old": "by tlie party",
+      "new": "by the party",
+      "reason": "OCR error: 'tlie' should be 'the'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AFFIRMANCE",
+      "old": "a ' doubtful authority has\neen exercised",
+      "new": "a doubtful authority has been exercised",
+      "reason": "OCR error: 'has\\neen' should be 'has been'"
+    },
+    {
+      "type": "trim",
+      "term": "AFFIRMANCE",
+      "trim_at": "AFFIRMANCE DAY GENERAL. In",
+      "reason": "A new dictionary entry 'AFFIRMANCE DAY GENERAL' is embedded at the end of the AFFIRMANCE body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AFFIRMANT",
+      "old": "instend of sworn to",
+      "new": "instead of sworn to",
+      "reason": "OCR error: 'instend' should be 'instead'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AFFIRMANT",
+      "old": "Affirmantis est probare. IIe who affirms",
+      "new": "Affirmantis est probare. He who affirms",
+      "reason": "OCR error: 'IIe' should be 'He'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AFFIRMANT",
+      "old": "Porter v. Steveus, 9 Cush.",
+      "new": "Porter v. Stevens, 9 Cush.",
+      "reason": "OCR error: 'Steveus' should be 'Stevens'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AFFIRMANT",
+      "old": "Affirmanti, mon neganti incumbit prohatia.",
+      "new": "Affirmanti, non neganti incumbit probatio.",
+      "reason": "OCR errors: 'mon' should be 'non', 'prohatia' should be 'probatio'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AFFIRMANT",
+      "old": ". Steph. Pl. 84.\n\n\" AFFIRMATION.",
+      "new": ". Steph. Pl. 84.",
+      "reason": "The entry for AFFIRMATION appears to be duplicated/merged into AFFIRMANT body; the stray quote and heading should be trimmed"
+    },
+    {
+      "type": "trim",
+      "term": "AFFIRMANT",
+      "trim_at": "\" AFFIRMATION.\nIn practice. A solemn",
+      "reason": "The AFFIRMATION entry is embedded at the end of the AFFIRMANT body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AFFIRMATIVE",
+      "old": "in aries words, to sustain the burden of proof.\nott.",
+      "new": "in other words, to sustain the burden of proof. Stott.",
+      "reason": "OCR errors: 'aries' should be 'other', 'ott.' is a truncated author name, likely 'Stott.'"
+    },
+    {
+      "type": "trim",
+      "term": "AFFIRMATIVE",
+      "trim_at": "AFFRANOBISE,",
+      "reason": "The word 'AFFRANOBISE,' appears to be a garbled headword (likely AFFRANCHISE) embedded mid-body in the AFFIRMATIVE entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AFFIRMATIVE",
+      "old": "AFFRANOBISE,",
+      "new": "AFFRANCHISE.",
+      "reason": "OCR error: 'AFFRANOBISE' is a garbled rendering of 'AFFRANCHISE'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AFFIRMATIVE",
+      "old": "tive in favor of the adverse petty.",
+      "new": "tive in favor of the adverse party.",
+      "reason": "OCR error: 'petty' should be 'party'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AFFIRMATIVE",
+      "old": "—A tive\nrelief.",
+      "new": "—Affirmative relief.",
+      "reason": "OCR error: '—A tive\\nrelief.' should be '—Affirmative relief.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AFFIRMATIVE",
+      "old": "may Drover: be",
+      "new": "may properly be",
+      "reason": "OCR error: 'Drover:' should be 'properly'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AFFIRMATIVE",
+      "old": "A statute couchin affirmative",
+      "new": "A statute couched in affirmative",
+      "reason": "OCR error: 'couchin' should be 'couched in'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AFFORCIAMENTUM",
+      "old": "In old English\n\nInw. - A fortress",
+      "new": "In old English law. A fortress",
+      "reason": "OCR error: 'Inw.' should be 'law.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AFFRANCHIR",
+      "old": "Kelhan.",
+      "new": "Kelham.",
+      "reason": "OCR error: 'Kelhan' should be 'Kelham'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AFFRANCHISE",
+      "old": "To iiberate;",
+      "new": "To liberate;",
+      "reason": "OCR error: 'iiberate' should be 'liberate'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AFFRAY",
+      "old": "Hawk. P. C. bk. 1. ¢ 65. § 3; 4\nI. Comm. 146",
+      "new": "Hawk. P. C. bk. 1, c. 65, § 3; 4 Bl. Comm. 146",
+      "reason": "OCR errors: '¢' should be 'c.', 'I. Comm.' should be 'Bl. Comm.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AFFRAY",
+      "old": "Sureme Council vy. Garrigus, 104 Ind. 133, 3\n. EB. 818, 54 Am. Rep. 298.",
+      "new": "Supreme Council v. Garrigus, 104 Ind. 133, 3 N. E. 818, 54 Am. Rep. 298.",
+      "reason": "OCR errors: 'Sureme' should be 'Supreme', '. EB.' should be 'N. E.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AFFRAY",
+      "old": "quer ome manner, in any public place to the\nisturbance",
+      "new": "quarrelsome manner, in any public place to the disturbance",
+      "reason": "OCR errors: 'quer ome' should be 'quarrelsome', 'isturbance' should be 'disturbance'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AFFRAY",
+      "old": "county jai) not exceeding",
+      "new": "county jail not exceeding",
+      "reason": "OCR error: 'jai)' should be 'jail'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AFFRI",
+      "old": "Affri, or afrt\nearuce;",
+      "new": "Affri, or afri caruce;",
+      "reason": "OCR error: 'afrt\\nearuce' should be 'afri caruce'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AFORETHOUGHT",
+      "old": "Bu. Law Dictr.(2p Ep.)—4\n\n49 AGARDER",
+      "new": "",
+      "reason": "OCR artifact: page header/footer 'Bu. Law Dictr.(2p Ep.)—4\\n\\n49 AGARDER' intruded into the AFORETHOUGHT body"
+    },
+    {
+      "type": "trim",
+      "term": "AFORETHOUGHT",
+      "trim_at": "Bu. Law Dictr.(2p Ep.)—4",
+      "reason": "Page number and dictionary title header/footer inserted mid-entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AFTER",
+      "old": "Bigelow v. Wilson, 1 Pick.\n(Mass.) Taylor v. Jacoby,",
+      "new": "Bigelow v. Wilson, 1 Pick. (Mass.); Taylor v. Jacoby,",
+      "reason": "OCR error: missing semicolon between citations, likely a page break issue"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AGAINST",
+      "old": "State v. Murphy, 15 R. J.\n543, 10 Atl. 585.",
+      "new": "State v. Murphy, 15 R. I. 543, 10 Atl. 585.",
+      "reason": "OCR error: 'R. J.' should be 'R. I.' (Rhode Island)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AGAINST",
+      "old": "31 KE Am. Rep. 531; Beyer v. People, 86 N.",
+      "new": "31 Am. Rep. 531; Beyer v. People, 86 N.",
+      "reason": "OCR error: 'KE' is extraneous characters"
+    },
+    {
+      "type": "trim",
+      "term": "AGE",
+      "trim_at": "Water. Kel-\nAGE, Awe, Aive.",
+      "reason": "A new sub-entry 'AGE, Awe, Aive. L. Fr. Water.' and 'AGE PRAYER' are embedded at the end of the AGE body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AGENCY",
+      "old": "39 LL. R. A. 860;",
+      "new": "39 L. R. A. 860;",
+      "reason": "OCR error: 'LL.' should be 'L.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AGENCY",
+      "old": "170 N. ¥. 13,",
+      "new": "170 N. Y. 13,",
+      "reason": "OCR error: '¥.' should be 'Y.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AGENCY",
+      "old": "cy of necessity.",
+      "new": "—Agency of necessity.",
+      "reason": "OCR error: beginning of sub-entry 'Agency of necessity' is garbled, missing '—Agen'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AGENCY",
+      "old": "22 Misc. Rep. 700,\nN. Y. Supp. 1046.",
+      "new": "22 Misc. Rep. 700, N. Y. Supp. 1046.",
+      "reason": "OCR error: citation likely missing volume number before 'N. Y. Supp.'"
+    },
+    {
+      "type": "trim",
+      "term": "ALMOIN",
+      "trim_at": ".- ALMOXARIFAZGO. In Spanish",
+      "reason": "ALMOXARIFAZGO entry is merged into ALMOIN body after a paragraph break"
+    },
+    {
+      "type": "trim",
+      "term": "ALMS",
+      "trim_at": "ALNAGER, or ULNAGER. A sworn",
+      "reason": "ALNAGER entry is merged into ALMS body after a paragraph break"
+    },
+    {
+      "type": "trim",
+      "term": "ALTA",
+      "trim_at": "ALTA VIA. L. Lat. In old Eng",
+      "reason": "ALTA VIA sub-entry merged in; also ALTA PRODITIO appears as body rather than headword — the entry seems to be for ALTA PRODITIO and ALTA VIA combined under headword ALTA"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ALTER",
+      "old": "to vary {n some degree",
+      "new": "to vary in some degree",
+      "reason": "OCR error: '{n' should be 'in'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ALTER",
+      "old": "41 8. BE. 259",
+      "new": "41 S. E. 259",
+      "reason": "OCR error: '8. BE.' should be 'S. E.' (Southeastern Reporter abbreviation)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ALTERATION",
+      "old": "In either a it is Lay erly enon:\nnated an alteration",
+      "new": "In either case it is properly denominated an alteration",
+      "reason": "OCR garbling of 'case it is properly denominated'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ALTERATION",
+      "old": "The term is also to be distineee from",
+      "new": "The term is also to be distinguished from",
+      "reason": "OCR error: 'distineee' should be 'distinguished'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ALTERATION",
+      "old": "which does not ee 43 interfere with the\nexisting marks or signs, ai Shag a different",
+      "new": "which does not positively interfere with the existing marks or signs, but gives a different",
+      "reason": "OCR garbling of text"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ALTERATION",
+      "old": "tenor or significance to ie whole",
+      "new": "tenor or significance to the whole",
+      "reason": "OCR error: 'ie' should be 'the'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ALTERATION",
+      "old": "it is an alfone: ag PP! 8 of Miles",
+      "new": "it is an alteration. Appeal of Miles",
+      "reason": "OCR garbling of 'alteration. Appeal of Miles'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ALTO",
+      "old": "63 AMBASSADOL",
+      "reason": "Page header/folio 'AMBASSADOL' is OCR corruption of 'AMBASSADOR' intruding into body",
+      "new": ""
+    },
+    {
+      "type": "trim",
+      "term": "ALTO",
+      "trim_at": "63 AMBASSADOL",
+      "reason": "Page number and next-entry header 'AMBASSADOL' merged into body of ALTO"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ALZ",
+      "old": "ALZ ECCLESIASTICAL",
+      "new": "AISLE ECCLESIASTICAL",
+      "reason": "Headword 'ALZ' appears to be OCR corruption; the body references 'wings or side aisles of a church' suggesting headword should be AISLE"
+    },
+    {
+      "type": "headword",
+      "term": "ALZ",
+      "correct": "AISLE",
+      "reason": "Body describes church aisles; 'ALZ' is likely OCR corruption of 'AISLE'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AMBIGUITY",
+      "old": "Nindle v. State Bank",
+      "new": "Nindle v. State Bank",
+      "reason": "Possibly correct as-is; flagging for review"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AMBULATORY",
+      "old": "followed the king's person, aid was",
+      "new": "followed the king's person, and was",
+      "reason": "OCR error: 'aid' should be 'and'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AMBULATORY",
+      "old": "embulatory until it is filed",
+      "new": "ambulatory until it is filed",
+      "reason": "OCR error: 'embulatory' should be 'ambulatory'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AMENABLE",
+      "old": "Miller v. Com., 1 Duy. (Ky.) 17",
+      "new": "Miller v. Com., 1 Duv. (Ky.) 17",
+      "reason": "OCR error: 'Duy.' should be 'Duv.' (Duvall's Kentucky Reports)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AMENDMENT",
+      "old": "which is done either of course, or",
+      "new": "which is done either of course, or",
+      "reason": "No change needed here"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AMENDMENT",
+      "old": "Any writing made or proposed as an {mprovement",
+      "new": "Any writing made or proposed as an improvement",
+      "reason": "OCR error: '{mprovement' should be 'improvement'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AMENDE",
+      "old": "A species of punishment",
+      "new": "A species of punishment",
+      "reason": "No change needed"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AMERCEMENT",
+      "old": "imposed arbitrarily at the discretion of the court or the lord. Goodyear v.\nSawyer (C. C.) 17 Fed. 9.",
+      "new": "imposed arbitrarily at the discretion of the court or the lord. Goodyear v. Sawyer (C. C.) 17 Fed. 9.",
+      "reason": "No OCR error, just line break"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AMERCEMENT",
+      "old": "the remedy against ao sheriff",
+      "new": "the remedy against a sheriff",
+      "reason": "OCR error: 'ao' should be 'a'"
+    },
+    {
+      "type": "trim",
+      "term": "AMERICAN",
+      "trim_at": "AMEUBLISSEMENT 66",
+      "reason": "Page header 'AMEUBLISSEMENT 66' merged into body of AMERICAN entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AMERICAN",
+      "old": "in case of apy subsequent insurance.",
+      "new": "in case of any subsequent insurance,",
+      "reason": "OCR error: 'apy' should be 'any'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AMENTIA",
+      "old": "See JNSANITY",
+      "new": "See INSANITY",
+      "reason": "OCR error: 'JNSANITY' should be 'INSANITY'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AMICABLE",
+      "old": "between maa & parties",
+      "new": "between parties",
+      "reason": "OCR garbled 'parties' into 'maa & parties'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AMICABLE",
+      "old": "he arbitrators\nGught to determine",
+      "new": "The arbitrators\nought to determine",
+      "reason": "OCR error: 'he' should be 'The' and 'Gught' should be 'ought'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AMICABLE",
+      "old": "authorized to abatersomething",
+      "new": "authorized to abate something",
+      "reason": "OCR merged 'abate' and 'something' together"
+    },
+    {
+      "type": "trim",
+      "term": "AMICABLE",
+      "trim_at": "AMICUS CURIZ.- Lat. A friend of",
+      "reason": "The AMICUS CURIAE entry is embedded at the end of the AMICABLE entry"
+    },
+    {
+      "type": "headword",
+      "term": "AMICUS",
+      "correct": "AMICUS CURIAE",
+      "reason": "The headword is incomplete; the full term is AMICUS CURIAE as shown in the body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AMIRAL",
+      "old": "paternal aunt. An",
+      "new": "",
+      "reason": "Stray text from another entry (AMITA) merged into AMIRAL body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AMITTERE",
+      "old": "legem torrss",
+      "new": "legem terrae",
+      "reason": "OCR error: 'torrss' should be 'terrae'"
+    },
+    {
+      "type": "trim",
+      "term": "AMONG",
+      "trim_at": "AMORTIZATION 67",
+      "reason": "The page header 'AMORTIZATION 67' and following content from the AMORTIZATION entry are merged into the AMONG entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AMOUNT",
+      "old": "—~—Amount covered",
+      "new": "—Amount covered",
+      "reason": "OCR garbled the dash prefix"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AMOUNT",
+      "old": "Amount controversy. The\ndamages claimed or. lief demanded; the\nrig toe claimed or sued for.",
+      "new": "Amount in controversy. The\ndamages claimed or relief demanded; the\nright or claim sued for.",
+      "reason": "OCR errors: 'or. lief' should be 'or relief', 'rig toe' should be 'right', missing 'in'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AMOUNT",
+      "old": "Smith v. Giles,\n5 Tex. 341: Barber v. Kennedy, 18 Minn.\n316, (Gil. 196; Hailrcee Co. v. Cunnigan, 95\nTox. 439, 888.",
+      "new": "Smith v. Giles,\n5 Tex. 341; Barber v. Kennedy, 18 Minn.\n316, (Gil. 196); Railroad Co. v. Cunningham, 95\nTex. 439.",
+      "reason": "OCR errors: 'Hailrcee Co.' likely 'Railroad Co.', 'Cunnigan' likely 'Cunningham', 'Tox.' should be 'Tex.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AMOUNT",
+      "old": "In \"icity he diminution",
+      "new": "In insurance. The diminution",
+      "reason": "OCR garbled 'insurance. The' into '\"icity he'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AMOTIO",
+      "old": "1 Swint.\n2085. \"°°",
+      "new": "1 Swint.\n208.",
+      "reason": "OCR error: '2085. \"°°' is garbled, likely a page/citation number with OCR artifacts"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ANAESTHESIA",
+      "old": "A register, Inventory, or\ncommentary.",
+      "new": "",
+      "reason": "Stray text from ANAGRAPH entry merged into ANAESTHESIA entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ANARCHY",
+      "old": "destruetion",
+      "new": "destruction",
+      "reason": "OCR error: 'destruetion' should be 'destruction'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ANARCHY",
+      "old": "absence of aljl political",
+      "new": "absence of all political",
+      "reason": "OCR error: 'aljl' should be 'all'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ANARCHY",
+      "old": "Lewis v..Dally News Co.",
+      "new": "Lewis v. Daily News Co.",
+      "reason": "OCR error: double dot and 'Dally' should be 'Daily'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ANARCHY",
+      "old": "73 N. ¥. Supp. 220; Von Gerichten\nv. Seitz, 94 App. Div, 130, 87 N. Y. Supp.\n068.",
+      "new": "73 N. Y. Supp. 220; Von Gerichten\nv. Seitz, 94 App. Div. 130, 87 N. Y. Supp.\n968.",
+      "reason": "OCR error: '¥' should be 'Y', '068' should be '968'"
+    },
+    {
+      "type": "headword",
+      "term": "ANCIENT Y",
+      "correct": "ANCIENTY",
+      "reason": "Space inserted by OCR into the headword; should be 'ANCIENTY'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ANCIENT",
+      "old": "and may admitted in evidence",
+      "new": "and may be admitted in evidence",
+      "reason": "OCR dropped word 'be'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ANCIENT",
+      "old": "denominated conyholds of base tenure",
+      "new": "denominated copyholds of base tenure",
+      "reason": "OCR error: 'conyholds' should be 'copyholds'"
+    },
+    {
+      "type": "trim",
+      "term": "ANCIPITIS",
+      "trim_at": "ANGUISH",
+      "reason": "The word 'ANGUISH' at the end of the ANCIPITIS body is a stray headword from another entry merged in"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ANECIUS",
+      "old": "a ncas",
+      "new": "ancas",
+      "reason": "OCR inserted a space in the middle of the word 'ancas'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ANALOGY",
+      "old": "recourse to cases on &\ndifferent subject-matter",
+      "new": "recourse to cases on a\ndifferent subject-matter",
+      "reason": "OCR error: '&' should be 'a'"
+    },
+    {
+      "type": "trim",
+      "term": "ANGLESCHERIA",
+      "trim_at": "Anglis jura in omni casu libert",
+      "reason": "Latin maxim entry appears merged into ANGLESCHERIA body after the definition ends"
+    },
+    {
+      "type": "trim",
+      "term": "ANGUISH",
+      "trim_at": "ANGYLD. In Saxon law. The rate",
+      "reason": "ANGYLD is a separate dictionary entry merged into ANGUISH body"
+    },
+    {
+      "type": "trim",
+      "term": "ANHLOTE",
+      "trim_at": "' ANIENS, or ANIENT. Null, void,",
+      "reason": "ANIENS/ANIENT entry merged into ANHLOTE body"
+    },
+    {
+      "type": "trim",
+      "term": "ANIMAL",
+      "trim_at": "' Animalia fera, si facta sint man",
+      "reason": "Latin maxim entry merged into ANIMAL body after the sub-entries"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ANIMAL",
+      "old": "iecamberay them from wildness, but which, at\ncommon law, by reason of their base nature,\nas possible subjects of a larare not regarde\nceny.",
+      "new": "reclaiming them from wildness, but which, at\ncommon law, by reason of their base nature,\nare not regarded as possible subjects of a lar-\nceny.",
+      "reason": "OCR garbled 'reclaiming' and 'are not regarded as possible subjects of a larceny'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ANIMO",
+      "old": "Reptublicandi",
+      "new": "Republicandi",
+      "reason": "OCR error: extra 't' in 'Republicandi'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ANIMO",
+      "old": "See ANiIMUS",
+      "new": "See ANIMUS",
+      "reason": "OCR error: 'ANiIMUS' should be 'ANIMUS'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ANIMUS",
+      "old": "Iat.",
+      "new": "Lat.",
+      "reason": "OCR error: 'Iat.' should be 'Lat.'"
+    },
+    {
+      "type": "trim",
+      "term": "ANNOS",
+      "trim_at": "Actio non datur non damnificato.",
+      "reason": "Latin maxims (separate entries) merged into ANNOS body"
+    },
+    {
+      "type": "trim",
+      "term": "ANNOTATION",
+      "trim_at": "Annua nec debitum judex non separ",
+      "reason": "Latin maxim entry merged into ANNOTATION body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ANNUA",
+      "old": "ANNUA PENSIONE. An ancient writ to\nprovide the king's chaplain, if he had no preferment, with a pension. Reg. Orig. 165, 307.",
+      "new": "",
+      "reason": "The ANNUA entry body duplicates the ANNUA PENSIONE entry; ANNUA body should only contain the maxim text from ANNOTATION's trim, not the duplicate writ definition"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ANNO",
+      "old": "not being in the lish language.\nState v. Gilbert, 13 Vt. 647; ale v. Vesper,",
+      "new": "not being in the English language.\nState v. Gilbert, 13 Vt. 647; Hale v. Vesper,",
+      "reason": "OCR dropped 'Eng' from 'English' and dropped 'H' from 'Hale'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ANNUITY",
+      "old": "chargeable ohly on the person",
+      "new": "chargeable only on the person",
+      "reason": "OCR error: 'ohly' should be 'only'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ANNUITY",
+      "old": "2 Bi.\nComm. 40",
+      "new": "2 Bl.\nComm. 40",
+      "reason": "OCR error: 'Bi.' should be 'Bl.' (Blackstone)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ANNUITY",
+      "old": "Bract. fol. 2030;",
+      "new": "Bract. fol. 203b;",
+      "reason": "OCR error: '2030' should be '203b' (folio reference)"
+    },
+    {
+      "type": "trim",
+      "term": "ANNULUS",
+      "trim_at": "ANNULUS ET BACULUS. (Lat. ring",
+      "reason": "ANNULUS ET BACULUS is a separate dictionary entry merged into ANNULUS body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ANNUS",
+      "old": "—Anemus, dies, et vastum.",
+      "new": "—Annus, dies, et vastum.",
+      "reason": "OCR error: 'Anemus' should be 'Annus'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ANNUS",
+      "old": "us u - <A year made up of available\nor serviceable days. MBrissonius",
+      "new": "—Anni utiles. A year made up of available\nor serviceable days. Brissonius",
+      "reason": "OCR garbled sub-entry heading 'Anni utiles' and 'Brissonius'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ANNUS",
+      "old": "the ltomans",
+      "new": "the Romans",
+      "reason": "OCR error: 'ltomans' should be 'Romans'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ANNICULUS",
+      "old": "Dig. 50, 16, 1384; Id. 182; Calvin.",
+      "new": "Dig. 50, 16, 134; Id. 182; Calvin.",
+      "reason": "OCR error: '1384' likely should be '134' based on Digest citation format"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ANNICULUS",
+      "old": "caleulate the civil year",
+      "new": "calculate the civil year",
+      "reason": "OCR error: 'caleulate' should be 'calculate'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ANONYMOUS",
+      "old": "¢. ¢., without giving",
+      "new": "i. e., without giving",
+      "reason": "OCR error: '¢. ¢.' should be 'i. e.'"
+    },
+    {
+      "type": "trim",
+      "term": "ANOYSANCE",
+      "trim_at": "ANSEL, ANSUL,.or AUNCEL. In old",
+      "reason": "ANSEL entry merged into ANOYSANCE body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ANNUITIES",
+      "old": "pious uses.;",
+      "new": "pious uses.",
+      "reason": "OCR error: spurious semicolon after period"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ANNUA",
+      "old": "ANNUA PENSIONE. An ancient writ to\nprovide the king's chaplain, If he had no preferment",
+      "new": "ANNUA PENSIONE. An ancient writ to\nprovide the king's chaplain, if he had no preferment",
+      "reason": "OCR error: 'If' should be 'if'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ANNIENTED",
+      "old": "Litt. e.\n8, § 741.",
+      "new": "Litt. § 741.",
+      "reason": "OCR split the Littleton citation; should be 'Litt. § 741'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ANNUUS",
+      "old": "Reg. Orig. 158).",
+      "new": "Reg. Orig. 158b.",
+      "reason": "OCR error: '158)' should be '158b' (folio reference)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ANTI",
+      "old": "internatienal",
+      "new": "international",
+      "reason": "OCR error: 'internatienal' should be 'international'"
+    },
+    {
+      "type": "trim",
+      "term": "ANTICHRESIS",
+      "trim_at": "ANTICIPATION 74\n\npawn relates to",
+      "reason": "The page header 'ANTICIPATION 74' and continuation text about pawn/antichresis appears to be a merged entry; the body of ANTICHRESIS ends with the Louisiana law discussion and the continuation after the page break belongs to a different formatting issue"
+    },
+    {
+      "type": "trim",
+      "term": "AO",
+      "trim_at": "_ ACADEMY. In its original",
+      "reason": "The entry for AO SI contains an embedded ACADEMY entry starting with '_ ACADEMY.' which is a separate dictionary entry merged in"
+    },
+    {
+      "type": "headword",
+      "term": "AOCCEDAS",
+      "correct": "ACCEDAS",
+      "reason": "The headword 'AOCCEDAS' appears to be a malformed version of 'ACCEDAS' (as in 'Accedas ad Vice Comitem')"
+    },
+    {
+      "type": "headword",
+      "term": "AONTEMPT",
+      "correct": "CONTEMPT",
+      "reason": "The headword 'AONTEMPT' is clearly a mangled version of 'CONTEMPT' (the body discusses 'CONTEMPT OF CONGRESS')"
+    },
+    {
+      "type": "trim",
+      "term": "AONTEMPT",
+      "trim_at": "CONTEMPT OF CONGRESS",
+      "reason": "This appears to be a fragment of a CONTEMPT entry that has been incorrectly placed as a separate entry with a garbled headword"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "APEX",
+      "old": "within his surface exterior undaries",
+      "new": "within his surface exterior boundaries",
+      "reason": "OCR error: 'undaries' should be 'boundaries'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "APEX",
+      "old": "beyond his end-lines or vertical pene drawn\ndownward ibe ae This is ca Kee the apex\nrule. Rev. St. § 2322 (U. S. Comp. St.\n1901, cies xine v. \"Mining Co., 9 Mont.\n543, ¢. 200.",
+      "new": "beyond his end-lines or vertical planes drawn downward indefinitely. This is called the apex rule. Rev. St. § 2322 (U. S. Comp. St. 1901); Argentine Mining Co. v. Mining Co., 9 Mont. 543.",
+      "reason": "Severe OCR corruption in the last paragraph of the APEX entry"
+    },
+    {
+      "type": "headword",
+      "term": "APNCGA",
+      "correct": "APNOEA",
+      "reason": "The headword is severely garbled; the body describes difficulty breathing/respiration which matches 'Apnoea' (also spelled Apnea)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "APOCHA",
+      "old": "APOCHZ. ONERATORLZ.",
+      "new": "APOCHÆ ONERATORIÆ.",
+      "reason": "OCR error in sub-entry headword; should be 'Apochæ Oneratoriæ' (Bills of lading)"
+    },
+    {
+      "type": "headword",
+      "term": "APOORISARIUS",
+      "correct": "APOCRISARIUS",
+      "reason": "The headword 'APOORISARIUS' is a misspelling/OCR error; the body refers to 'Apocrisarius' and 'APOCRISARIUS' is the correct term"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "APOSTATA",
+      "old": "renounced the Christian pat",
+      "new": "renounced the Christian faith",
+      "reason": "OCR error: 'pat' should be 'faith'"
+    },
+    {
+      "type": "trim",
+      "term": "APOTHECARY",
+      "trim_at": "APOTHECARY 76",
+      "reason": "The page header 'APOTHECARY 76' is embedded in the APOTHECA entry body, indicating a page break artifact"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "APOTHECARY",
+      "old": "State v. Iiolmes",
+      "new": "State v. Holmes",
+      "reason": "OCR error: 'Iiolmes' should be 'Holmes'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "APPARURA",
+      "old": "furniture, finplements, tackle,",
+      "new": "furniture, implements, tackle,",
+      "reason": "OCR error: 'finplements' should be 'implements'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "APPARITOR",
+      "old": "enyloyed to serve",
+      "new": "employed to serve",
+      "reason": "OCR error: 'enyloyed' should be 'employed'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "APPEAL",
+      "old": "Cunningham v.\nNeagle, 1385 U. S. 1",
+      "new": "Cunningham v. Neagle, 135 U. S. 1",
+      "reason": "OCR error: '1385' should be '135' (correct U.S. Reports citation)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "APICES",
+      "old": "to turn a plaintiff around and mgke him pay",
+      "new": "to turn a plaintiff around and make him pay",
+      "reason": "OCR error: 'mgke' should be 'make'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ANTICHRESIS",
+      "old": "thereby acquites",
+      "new": "thereby acquires",
+      "reason": "OCR error: 'acquites' should be 'acquires'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ANTIQUUM",
+      "old": "ANTIQUUM",
+      "new": "ANTIQUUM DOMINICUM",
+      "reason": "The body says 'Ancient demesne' which corresponds to 'Antiquum Dominicum'; headword appears truncated"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ANTITHETARIDS",
+      "old": "ANTITHETARIDS",
+      "new": "ANTITHETARIUS",
+      "reason": "OCR error in headword; correct Latin term is 'Antithetarius' based on the definition provided"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ANUELS",
+      "old": "ANUELS",
+      "new": "ANUELS L.",
+      "reason": "The body starts '&. Fr.' suggesting the headword may be truncated, though this may be correct formatting for Law French abbreviation"
+    },
+    {
+      "type": "flag",
+      "term": "ANUELS",
+      "issue": "Body starts with '&. Fr.' which appears to be an OCR error for 'L. Fr.' (Law French), as Anuels is a Law French term for Year Books"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ANUELS",
+      "old": "&. Fr.",
+      "new": "L. Fr.",
+      "reason": "OCR error: '&' should be 'L' in the abbreviation 'L. Fr.' (Law French)"
+    },
+    {
+      "type": "flag",
+      "term": "ANTIQUA",
+      "issue": "Headword may be incomplete; the full term appears to be 'ANTIQUA STATUTA' based on the body which mentions it is 'Also called Vetera Statuta'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ANTINOMY",
+      "old": "same as antinomia, (q. Vv.) -",
+      "new": "same as antinomia, (q. v.)",
+      "reason": "OCR error: 'q. Vv.' should be 'q. v.' and trailing dash is spurious"
+    },
+    {
+      "type": "trim",
+      "term": "APPEARAND",
+      "trim_at": "77 APPENDANT",
+      "reason": "Page header '77 APPENDANT' merged into entry body"
+    },
+    {
+      "type": "trim",
+      "term": "APPORTIONMENT",
+      "trim_at": "79 APPREHEND",
+      "reason": "Page header '79 APPREHEND' merged into entry body"
+    },
+    {
+      "type": "trim",
+      "term": "APPREHEND",
+      "trim_at": "APPREHENSIO 80",
+      "reason": "Page header 'APPREHENSIO 80' merged into entry body"
+    },
+    {
+      "type": "trim",
+      "term": "APPENDANT",
+      "trim_at": "APPENDITIA. The appendages",
+      "reason": "Separate entry APPENDITIA merged into APPENDANT body"
+    },
+    {
+      "type": "trim",
+      "term": "APPLICATION",
+      "trim_at": "- APPLY. 1. To make a formal",
+      "reason": "APPLY entry merged into APPLICATION body"
+    },
+    {
+      "type": "trim",
+      "term": "APPOSER",
+      "trim_at": "APPOSTILLE, or APOSTILLE.",
+      "reason": "APPOSTILLE entry merged into APPOSER body"
+    },
+    {
+      "type": "trim",
+      "term": "APPROBATE",
+      "trim_at": "APPROBATE AND REPROBATE. In",
+      "reason": "APPROBATE AND REPROBATE entry merged into APPROBATE body; APPROBATE itself appears incomplete"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "APPOINTMENT",
+      "old": "13 Ves Ct. 3",
+      "new": "13 S. Ct. 3",
+      "reason": "OCR error: 'Ves Ct.' should be 'S. Ct.' (Supreme Court reporter citation)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "APPORTIONMENT",
+      "old": "638 Am. St. Rep. 791",
+      "new": "63 Am. St. Rep. 791",
+      "reason": "OCR error: '638' should be '63' in volume number"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "APPREHENSION",
+      "old": "53 N. EB. 604",
+      "new": "53 N. E. 604",
+      "reason": "OCR error: 'EB' should be 'E.' (Northeastern Reporter)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "APPREHENSION",
+      "old": "to acquire possession of a thing, Dy which",
+      "new": "to acquire possession of a thing, by which",
+      "reason": "OCR error: 'Dy' should be 'by'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "APPOSAL",
+      "old": "St. 22 & 23 Car.\n[I.; Cowell.",
+      "new": "St. 22 & 23 Car. II.; Cowell.",
+      "reason": "OCR error: bracket and newline broke 'II.' into '[I.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "APPOSTILLE",
+      "old": "an addition or annotation mate",
+      "new": "an addition or annotation made",
+      "reason": "OCR error: 'mate' should be 'made'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "APPROPRIATE",
+      "old": "one's vwn",
+      "new": "one's own",
+      "reason": "OCR error: 'vwn' should be 'own'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "APPROPRIATE",
+      "old": "heirs, dr others",
+      "new": "heirs, or others",
+      "reason": "OCR error: 'dr' should be 'or'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "APPROVEMENT",
+      "old": "Whiskey Cases, 99 1'. S.\n599",
+      "new": "Whiskey Cases, 99 U. S. 599",
+      "reason": "OCR error: '1'. S.' should be 'U. S.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "APPELLATE",
+      "old": "aeted upon by an inferior court",
+      "new": "acted upon by an inferior court",
+      "reason": "OCR error: 'aeted' should be 'acted'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "APPELLOR",
+      "old": "In oid English law.",
+      "new": "In old English law.",
+      "reason": "OCR error: 'oid' should be 'old'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "APPRAISER",
+      "old": "merchants engared in trade",
+      "new": "merchants engaged in trade",
+      "reason": "OCR error: 'engared' should be 'engaged'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "APPRAISER",
+      "old": "Oclberman y.\nMerritt",
+      "new": "Oelberman v. Merritt",
+      "reason": "OCR error: 'Oclberman y.' should be 'Oelberman v.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "APPLICARE",
+      "old": "Iat. In old English law.",
+      "new": "Lat. In old English law.",
+      "reason": "OCR error: 'Iat.' should be 'Lat.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "APPOINTOR",
+      "old": "2 Bouv. Inst. pn. 1923.",
+      "new": "2 Bouv. Inst. n. 1923.",
+      "reason": "OCR error: 'pn.' should be 'n.' (note number)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "APPREHEND",
+      "old": "44 LL R. A. 809",
+      "new": "44 L. R. A. 809",
+      "reason": "OCR error: 'LL' should be 'L.'"
+    },
+    {
+      "type": "flag",
+      "term": "APPENSURA",
+      "issue": "Body text appears scrambled: 'Payment of money by Cowell. weight instead of by count.' - 'Cowell.' appears mid-sentence, likely OCR/layout error displacing citation"
+    },
+    {
+      "type": "flag",
+      "term": "APPERTAIN",
+      "issue": "Body text appears broken: 'To belong to; to have See APrelation to; to be appurtenant to. PURTENANT.' - cross-reference to APPURTENANT is garbled as 'See APrelation to' and 'PURTENANT'"
+    },
+    {
+      "type": "headword",
+      "term": "ARD OF THE UNIVERSITIES",
+      "correct": "COURT OF THE UNIVERSITIES",
+      "reason": "The headword is missing 'COURT OF THE' — the entry describes a court for scholars at Oxford or Cambridge, and the correct term is 'Court of the Universities'"
+    },
+    {
+      "type": "trim",
+      "term": "ARD OF THE UNIVERSITIES",
+      "trim_at": "ARD.—Moral insanity. See IN",
+      "reason": "A separate entry 'ARD.—Moral insanity' is merged into the body after the definition, beginning with 'ARD.—Moral insanity. See INSANITY.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "APT",
+      "old": "upion lapse of time; as, where a thing is requi",
+      "new": "upon lapse of time; as, where a thing is required",
+      "reason": "OCR errors: 'upion' should be 'upon', 'requi' is a broken word that should be 'required'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "APT",
+      "old": "phrase more usually ref+rs to",
+      "new": "phrase more usually refers to",
+      "reason": "OCR error: 'ref+rs' should be 'refers'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ARBITER",
+      "old": "who may ae wholly at his",
+      "new": "who may act wholly at his",
+      "reason": "OCR error: 'ae' should be 'act'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ARBITER",
+      "old": "jadgment of a sound man",
+      "new": "judgment of a sound man",
+      "reason": "OCR error: 'jadgment' should be 'judgment'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ARBITER",
+      "old": "if he hag exceeded his authority",
+      "new": "if he has exceeded his authority",
+      "reason": "OCR error: 'hag' should be 'has'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AQUA",
+      "old": "—Agqua sestiva.",
+      "new": "—Aqua æstiva.",
+      "reason": "OCR error: 'Agqua' should be 'Aqua'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AQUA",
+      "old": "Ruuning",
+      "new": "Running",
+      "reason": "OCR error: 'Ruuning' should be 'Running'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AQUA",
+      "old": "Agua fontanea.",
+      "new": "Aqua fontanea.",
+      "reason": "OCR error: 'Agua' should be 'Aqua'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AQUA",
+      "old": "Agua profiuens. Flowing or running water. ig. 1, 8, 2.",
+      "new": "Aqua profluens. Flowing or running water. Dig. 1, 8, 2.",
+      "reason": "OCR errors: 'Agua' should be 'Aqua', 'profiuens' should be 'profluens', 'ig.' should be 'Dig.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AQUA",
+      "old": "8 Bulst. 339; $\nKent, Comm. 4398.",
+      "new": "3 Bulst. 339; 3 Kent, Comm. 439.",
+      "reason": "OCR errors: '8 Bulst.' should be '3 Bulst.', '$' should be '3', '4398' should be '439'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ARBITRATION",
+      "old": "This _ take\nplace where a merchant",
+      "new": "This takes place where a merchant",
+      "reason": "OCR error: '_ take' should be 'takes'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ARBITRATOR",
+      "old": "Mobile v. Wood (C. C.) 95 Fed. 5388;",
+      "new": "Mobile v. Wood (C. C.) 95 Fed. 538;",
+      "reason": "OCR error: '5388' should be '538'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ARCHICAPELLANUS",
+      "old": "L. Lat. In old\nBuropean law.",
+      "new": "L. Lat. In old\nEuropean law.",
+      "reason": "OCR error: 'Buropean' should be 'European'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ARCTA",
+      "old": "ad satisfaciendum, (q. b.,)",
+      "new": "ad satisfaciendum, (q. v.,)",
+      "reason": "OCR error: 'q. b.' should be 'q. v.' (quod vide cross-reference)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ARCHES",
+      "old": "for a Jong time united",
+      "new": "for a long time united",
+      "reason": "OCR error: 'Jong' should be 'long'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ARCHES",
+      "old": "inferior ecclesinstical courts",
+      "new": "inferior ecclesiastical courts",
+      "reason": "OCR error: 'ecclesinstical' should be 'ecclesiastical'"
+    },
+    {
+      "type": "flag",
+      "term": "APTA",
+      "issue": "This entry appears to be a duplicate header/stub for APTA VIBRO — the body of APTA contains the full definition of APTA VIBRO, suggesting APTA alone is not a valid standalone entry but rather OCR split the compound headword"
+    },
+    {
+      "type": "flag",
+      "term": "APUD",
+      "issue": "This entry appears to be a duplicate header/stub for APUD ACTA — the body of APUD contains the full definition of APUD ACTA, suggesting the compound headword was split by OCR"
+    },
+    {
+      "type": "flag",
+      "term": "AQUAE",
+      "issue": "This entry appears to duplicate AQUA DUCTUS — the body is identical to AQUA DUCTUS, suggesting OCR mis-read the headword 'AQUAE DUCTUS' as 'AQUAE' with body 'DUCTUS. In the civil law...'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ARDENT",
+      "old": "Spirituous or dis- ©\n\ntilled liquors.",
+      "new": "Spirituous or distilled liquors.",
+      "reason": "OCR artifact: line break and '©' symbol inserted mid-word 'distilled'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AREA",
+      "old": "<A vacant space ina city;",
+      "new": "A vacant space in a city;",
+      "reason": "OCR artifact: '<' before 'A' and missing space in 'ina'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AREOPAGITE",
+      "old": "behind. Also",
+      "new": "",
+      "reason": "OCR artifact: stray text 'behind. Also' appended to end of entry, belongs to following ARETRO entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ARGUMENT",
+      "old": "consizts",
+      "new": "consists",
+      "reason": "OCR error: 'consizts' should be 'consists'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ARGUMENT",
+      "old": "aly State v. California Min. Co., 13 Nev.",
+      "new": "",
+      "reason": "OCR artifact: garbled citation text, truncated entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ARGUMENTUM",
+      "old": "negative mon valet; valet e converso. AD",
+      "new": "negative non valet; valet e converso. An",
+      "reason": "OCR errors: 'mon' should be 'non', 'AD' should be 'An'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ARGUMENTUM",
+      "old": "inconvweniens",
+      "new": "inconveniens",
+      "reason": "OCR error: 'inconvweniens' should be 'inconveniens'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ARGUMENTUM",
+      "old": "inconvenjence",
+      "new": "inconvenience",
+      "reason": "OCR error: 'inconvenjence' should be 'inconvenience'"
+    },
+    {
+      "type": "trim",
+      "term": "ARGUMENTUM",
+      "trim_at": "ARGUMENTUM A DIVISIONE",
+      "reason": "Entry for ARGUMENTUM begins with a sub-entry header 'ARGUMENTUM A DIVISIONE' and then repeats content already covered in ARGUMENTATIVE; this appears to be a misplaced or duplicate entry"
+    },
+    {
+      "type": "trim",
+      "term": "ARIBANNUM",
+      "trim_at": "ARIERBAN, or ARRIERE-BAN.",
+      "reason": "A separate entry ARIERBAN/ARRIERE-BAN is merged into the ARIBANNUM body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ARIMANNI",
+      "old": "<A mediseval term for a",
+      "new": "A medieval term for a",
+      "reason": "OCR artifact: '<' before 'A' and 'mediseval' should be 'medieval'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ARIMANNI",
+      "old": "puying rent",
+      "new": "paying rent",
+      "reason": "OCR error: 'puying' should be 'paying'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ARIMAGNI",
+      "old": "A medieval term for a",
+      "new": "A medieval term for a",
+      "reason": "No fix needed - correct as is"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ARMATA",
+      "old": "ARMATA VIS. In the civil law. Armed\nforce. Dig. 43, 16,3; Fleta, lib. 4, ¢. 4. 7",
+      "new": "",
+      "reason": "OCR artifact: ARMATA entry body is just a duplicate of ARMATA VIS with garbled characters (¢ for c, extra 7)"
+    },
+    {
+      "type": "trim",
+      "term": "ARMATA",
+      "trim_at": "ARMATA VIS. In the civil law.",
+      "reason": "ARMATA entry improperly contains the full ARMATA VIS sub-entry; these are separate entries"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ARMATA VIS",
+      "old": "Dig. 438, 16, 8;",
+      "new": "Dig. 43, 16, 3;",
+      "reason": "OCR error: '438' should be '43' and '8' should be '3'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ARMATA VIS",
+      "old": "Fleta, lib. 4, c 4.",
+      "new": "Fleta, lib. 4, c. 4.",
+      "reason": "OCR error: missing period after 'c'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ARMORIAL",
+      "old": "<A device depicted on the (now imaginary)",
+      "new": "A device depicted on the (now imaginary)",
+      "reason": "OCR artifact: '<' before 'A'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ARMORIAL",
+      "old": "souta et gladii et galex, sed et fustes e%\nlapides continentur.",
+      "new": "scuta et gladii et galeæ, sed et fustes et lapides continentur.",
+      "reason": "OCR errors: 'souta' should be 'scuta', 'galex' should be 'galeæ', 'e%' should be 'et'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ARMORIAL BEARINGS",
+      "old": "souta et gladii et gales, sed et fustes ec\nlapides continentur.",
+      "new": "scuta et gladii et galeæ, sed et fustes et lapides continentur.",
+      "reason": "OCR errors: 'souta' should be 'scuta', 'gales' should be 'galeæ', 'ec' should be 'et'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ARMORIAL BEARINGS",
+      "old": "recelved from ancestry.",
+      "new": "received from ancestry.",
+      "reason": "OCR error: 'recelved' should be 'received'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ARMS",
+      "old": "Co. Litt. 1610, 162¢;",
+      "new": "Co. Litt. 161b, 162a;",
+      "reason": "OCR error: '1610' and '162¢' are garbled citation page references"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ARMS",
+      "old": "(g(q. v.)",
+      "new": "(q. v.)",
+      "reason": "OCR error: duplicate/garbled '(g(q. v.)' should be '(q. v.)'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ARMY",
+      "old": "to inclade the navy",
+      "new": "to include the navy",
+      "reason": "OCR error: 'inclade' should be 'include'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ARMY",
+      "old": "as distinfuished from the navy",
+      "new": "as distinguished from the navy",
+      "reason": "OCR error: 'distinfuished' should be 'distinguished'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ARMY",
+      "old": "In re Bailey, 2 Sawy. 205, Fed.\ntaty No But see In re Stewart, 7 Rob.",
+      "new": "In re Bailey, 2 Sawy. 205, Fed. Cas. No. [number]. But see In re Stewart, 7 Rob.",
+      "reason": "OCR error: 'taty No' is garbled, should be 'Cas. No.' followed by a case number"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AROMATARIUS",
+      "old": "87 ARRAS",
+      "new": "",
+      "reason": "OCR artifact: page number and next entry header '87 ARRAS' appended to end of AROMATARIUS entry"
+    },
+    {
+      "type": "trim",
+      "term": "AROMATARIUS",
+      "trim_at": "87 ARRAS",
+      "reason": "Page number and next headword merged into this entry's body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ARPENTATOR",
+      "old": "A tmeasurer or surveyor",
+      "new": "A measurer or surveyor",
+      "reason": "OCR error: 'tmeasurer' should be 'measurer'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ARRAS",
+      "old": "ARRAY 88",
+      "new": "",
+      "reason": "OCR artifact: next entry headword and page number 'ARRAY 88' appended to end of ARRAS entry"
+    },
+    {
+      "type": "trim",
+      "term": "ARRAS",
+      "trim_at": "ARRAY 88",
+      "reason": "Page number and next headword merged into this entry's body"
+    },
+    {
+      "type": "trim",
+      "term": "ARRAY",
+      "trim_at": "ARREARS, or ARREARAGES.",
+      "reason": "A separate entry for ARREARS/ARREARAGES is merged into the ARRAY body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ARRECT",
+      "old": "SODS8.",
+      "new": "sons.",
+      "reason": "OCR error: 'SODS8' should be 'sons' - garbled text in 'accused or suspected persons'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ARRENDAMIENTO",
+      "old": "¢«. 1.:",
+      "new": "c. 1.",
+      "reason": "OCR error: garbled characters in citation"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ARREST",
+      "old": "Im criminal practice.",
+      "new": "In criminal practice.",
+      "reason": "OCR error: 'Im' should be 'In'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ARREST",
+      "old": "The upprebension",
+      "new": "The apprehension",
+      "reason": "OCR error: 'upprebension' should be 'apprehension'"
+    },
+    {
+      "type": "trim",
+      "term": "ARRESTMENT",
+      "trim_at": "ARRESTMENT AJTURISDICTIONIS",
+      "reason": "Embedded entries ARRESTMENT AJTURISDICTIONIS FUNDANDZ CAUSA and ARRESTO FACTO SUPER BONIS MERCATORUM ALIENIGENORUM appear after the main ARRESTMENT definition"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ARRESTMENT",
+      "old": "ARRESTMENT AJTURISDICTIONIS FUNDANDZ CAUSA",
+      "new": "ARRESTMENT AD JURISDICTIONEM FUNDANDAM CAUSA",
+      "reason": "OCR error in headword: 'AJTURISDICTIONIS' should be 'AD JURISDICTIONEM' and 'FUNDANDZ' should be 'FUNDANDAM'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ARRESTMENT",
+      "old": "relensed",
+      "new": "released",
+      "reason": "OCR error: 'relensed' should be 'released'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ARRETTED",
+      "old": "Staundef. P. C. 45.",
+      "new": "Standef. P. C. 45.",
+      "reason": "Possible OCR issue with author name, though could be correct abbreviation"
+    },
+    {
+      "type": "trim",
+      "term": "ARRIER",
+      "trim_at": "ARRIVE",
+      "reason": "The word ARRIVE appears as a merged entry at the end of ARRIER BAN's body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ARRIER BAN",
+      "old": "A seecond summons",
+      "new": "A second summons",
+      "reason": "OCR error: 'seecond' should be 'second'"
+    },
+    {
+      "type": "trim",
+      "term": "ARRIER BAN",
+      "trim_at": "89 ARRIVE\n\nARRIERE FIEF",
+      "reason": "Page number '89 ARRIVE' and embedded ARRIERE FIEF entry appear within ARRIER BAN body"
+    },
+    {
+      "type": "trim",
+      "term": "ARRIERE",
+      "trim_at": "ARRIERE VASSAL. In feudal law.",
+      "reason": "ARRIERE VASSAL entry is embedded within the ARRIERE body after ARRIERE FIEF definition"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ARROGATION",
+      "old": "3% Am. Rep. 802",
+      "new": "30 Am. Rep. 802",
+      "reason": "OCR error: '3%' should be '30'"
+    },
+    {
+      "type": "trim",
+      "term": "ARSURA",
+      "trim_at": "90 ARTICLES",
+      "reason": "Page number '90 ARTICLES' appears embedded in the body of ARSURA"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ARSZ ET PENSATZ",
+      "old": "ARSZ ET PENSATZ",
+      "new": "ARSZ ET PENSATA",
+      "reason": "Possible OCR error in headword; likely 'ARSE ET PENSATA' (burnt and weighed)"
+    },
+    {
+      "type": "headword",
+      "term": "ARSZ ET PENSATZ",
+      "correct": "ARSE ET PENSATA",
+      "reason": "OCR error: Latin term should be 'ARSE ET PENSATA' meaning 'burnt and weighed'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ART",
+      "old": "which its beneficial",
+      "new": "which is beneficial",
+      "reason": "OCR error: 'its' should be 'is'"
+    },
+    {
+      "type": "trim",
+      "term": "ARTICLED",
+      "trim_at": "ARTICLED CLERK. In English law.",
+      "reason": "ARTICLED CLERK entry is embedded within ARTICLED body"
+    },
+    {
+      "type": "trim",
+      "term": "ARTICLES",
+      "trim_at": "$1",
+      "reason": "Page marker '$1' (should be '91') appears embedded in the ARTICLES body"
+    },
+    {
+      "type": "headword",
+      "term": "ARTICLES ARTICLES, WORDS OF",
+      "correct": "ARTICLES, WORDS OF",
+      "reason": "Duplicate word 'ARTICLES' in headword due to OCR/formatting error"
+    },
+    {
+      "type": "trim",
+      "term": "ARTIFICER",
+      "trim_at": "ARTIFICIAL 92",
+      "reason": "Page header 'ARTIFICIAL 92' is embedded at the end of ARTIFICER body"
+    },
+    {
+      "type": "trim",
+      "term": "ARTIFICIAL",
+      "trim_at": "Technically; scien-",
+      "reason": "The word 'Technically; scien-' at the end appears to be the beginning of the ARTIFICIALLY entry merged in"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ARTIFICIALLY",
+      "old": "tifically; using terms of art.",
+      "new": "Technically; scientifically; using terms of art.",
+      "reason": "The body is missing the first word 'Technically; scien-' which was split across entries due to OCR/formatting"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ARVIL-SUPPER",
+      "old": "arvril, arral,",
+      "new": "arvil, arral,",
+      "reason": "OCR error: 'arvril' should be 'arvil'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AS",
+      "old": "\"scrtans,\"",
+      "new": "\"sextans,\"",
+      "reason": "OCR error: 'scrtans' should be 'sextans' (a Roman fraction = 1/6)"
+    },
+    {
+      "type": "trim",
+      "term": "AS AGAINST; AS BETWEEN",
+      "trim_at": "ASSART",
+      "reason": "Text after 'Wharton.' includes embedded content about 'common-law' compound adjective and marine insurance that doesn't belong to this entry, plus page reference 'ASSART'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AS AGAINST; AS BETWEEN",
+      "old": "as beteccen himself",
+      "new": "as between himself",
+      "reason": "OCR error: 'beteccen' should be 'between'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ASCERTAIN",
+      "old": "44 S, W. 578.",
+      "new": "44 S. W. 578.",
+      "reason": "OCR error: comma instead of period after 'S'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ASSART",
+      "old": "Consult Afanwood's Forest\nLatics, pt. I, p. 171.",
+      "new": "Consult Manwood's Forest\nLaws, pt. I, p. 171.",
+      "reason": "OCR error: 'Afanwood' should be 'Manwood' and 'Latics' should be 'Laws'"
+    },
+    {
+      "type": "trim",
+      "term": "ASSART",
+      "trim_at": "ASSASSINATION - 98",
+      "reason": "Page header 'ASSASSINATION - 98' and content from the next entry has been merged into the ASSART body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ASSEMBLY",
+      "old": "Const. U. 8S. Amend. art. 1.",
+      "new": "Const. U. S. Amend. art. 1.",
+      "reason": "OCR error: '8S' should be 'S.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ASSEMBLY",
+      "old": "9 Car.. 91\n431",
+      "new": "9 Car. & P. 431",
+      "reason": "OCR error: garbled citation"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ASSENT",
+      "old": "18 8. W. 430",
+      "new": "18 S. W. 430",
+      "reason": "OCR error: '8.' should be 'S.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ASSENT",
+      "old": "Insurance - Ve\nYoung",
+      "new": "Insurance Co. v.\nYoung",
+      "reason": "OCR error: 'Ve' should be 'Co. v.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ASSEVERATION",
+      "old": "An affirmation; a posttive assertion",
+      "new": "An affirmation; a positive assertion",
+      "reason": "OCR error: 'posttive' should be 'positive'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ASSESSMENT",
+      "old": "57 N. B. 114",
+      "new": "57 N. E. 114",
+      "reason": "OCR error: 'B' should be 'E' in N.E. reporter citation"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ASSESSMENT",
+      "old": "59 8. W. 541",
+      "new": "59 S. W. 541",
+      "reason": "OCR error: '8.' should be 'S.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ASSESSMENT",
+      "old": "39 S. BE. 785",
+      "new": "39 S. E. 785",
+      "reason": "OCR error: 'BE.' should be 'E.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ASSETS",
+      "old": "1 Story,\n. Jur. $5381",
+      "new": "1 Story, Eq. Jur. § 381",
+      "reason": "OCR error: missing 'Eq.' and '$5' should be '§'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ASSETS",
+      "old": "means which a any\nebts.\nhas, as compared with his Habilities or",
+      "new": "means which a man has, as compared with his liabilities or debts.",
+      "reason": "OCR errors: 'a any' should be 'a man', 'Habilities' should be 'liabilities', word order scrambled"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ASSAULT",
+      "old": "1 Si0 on the person",
+      "new": "injury on the person",
+      "reason": "OCR error: '1 Si0 on' is garbled text that should be 'injury on'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ASSAULT",
+      "old": "Hill (N. x) 351.;",
+      "new": "Hill (N. Y.) 351.",
+      "reason": "OCR error: 'x' should be 'Y'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ASSAY",
+      "old": "A trial of weights and measures by &\nstandard",
+      "new": "A trial of weights and measures by a standard",
+      "reason": "OCR error: '&' should be 'a'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ASSECURARE",
+      "old": "To assure, or make se-\"\ncure",
+      "new": "To assure, or make secure",
+      "reason": "OCR error: spurious quotation mark and line break in 'secure'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ASSIGNMENT",
+      "old": "except in the\ncare a an executor",
+      "new": "except in the case of an executor",
+      "reason": "OCR error: 'care a an' should be 'case of an'"
+    },
+    {
+      "type": "trim",
+      "term": "ASSIGNMENT",
+      "trim_at": "ASSIGNMENT 97",
+      "reason": "Page header 'ASSIGNMENT 97' appears embedded in the body, indicating truncation point of merged content"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ASSISE",
+      "old": "Hale, Com. Baw, c.\n11",
+      "new": "Hale, Com. Law, c. 11",
+      "reason": "OCR error: 'Baw' should be 'Law'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ASSISE",
+      "old": "Bui.Law Dict.(2p Ep.)—7",
+      "new": "Bul. Law Dict. (2d Ed.)—7",
+      "reason": "OCR error: garbled abbreviation for 'Bulletin Law Dictionary (2d Edition)'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ASSIST",
+      "old": "St. 7 & &\nVict. c. 71",
+      "new": "St. 7 & 8 Vict. c. 71",
+      "reason": "OCR error: second '&' should be '8'"
+    },
+    {
+      "type": "trim",
+      "term": "ASSIST",
+      "trim_at": "' ASSISTANT JUDGE.",
+      "reason": "The entry for ASSISTANT JUDGE has been merged into the ASSIST body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ASSOCIATION",
+      "old": "The unton\nof a company",
+      "new": "The union of a company",
+      "reason": "OCR error: 'unton' should be 'union'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ASSOCIATION",
+      "old": "National ase tions.",
+      "new": "National associations.",
+      "reason": "OCR error: 'ase tions' should be 'associations'"
+    },
+    {
+      "type": "trim",
+      "term": "ASSOCIATION",
+      "trim_at": "ASSOCIATION. 99",
+      "reason": "Page header 'ASSOCIATION. 99' embedded in body indicates merged content"
+    },
+    {
+      "type": "trim",
+      "term": "ASSOCIE",
+      "trim_at": "ASSOCIE EN NOM. In French Law.",
+      "reason": "The ASSOCIE EN NOM entry is merged into the ASSOCIE entry; they appear to be duplicate/merged entries"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ASSISE",
+      "old": "Assisa de mensuxis",
+      "new": "Assisa de mensuris",
+      "reason": "OCR error: 'mensuxis' should be 'mensuris'"
+    },
+    {
+      "type": "trim",
+      "term": "AZURE",
+      "trim_at": "B. The second letter of the Eng",
+      "reason": "Multiple separate dictionary entries (B., B.C., B.E., B.F.) are merged into the AZURE entry after a paragraph break"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ABSTRACT OF TITLE",
+      "old": "together wlth a statement of all liens, charges, or liabilities to which the same may be subject, and of which lt is in any way material for purchasers to be apprised, warv. Atsk 2.",
+      "new": "together with a statement of all liens, charges, or liabilities to which the same may be subject, and of which it is in any way material for purchasers to be apprised.",
+      "reason": "OCR errors: 'wlth' should be 'with', 'lt' should be 'it', and 'warv. Atsk 2.' appears to be garbled/corrupted text that should be removed"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AMICUS CURIAE",
+      "old": "Lat A friend of the court A by-stander (usually a counsel-lor) who Interposes and volunteers lnforma-tion",
+      "new": "Lat. A friend of the court. A bystander (usually a counsellor) who interposes and volunteers information",
+      "reason": "OCR errors: missing periods after 'Lat' and 'court', 'Interposes' should be lowercase, 'lnforma-tion' has broken hyphen and wrong character"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AMICUS CURIAE",
+      "old": "lu re Columbia Real Es-tate Co.",
+      "new": "In re Columbia Real Estate Co.",
+      "reason": "OCR error: 'lu' should be 'In'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ALGARUM MARIS",
+      "old": "vessel\ntA distress became",
+      "new": "vessel that was in distress became",
+      "reason": "OCR error: 'tA distress' appears to be garbled text, likely 'that was in distress'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ABSCONDING DEBTOR",
+      "old": "one who absconds from his creditors.",
+      "new": "One who absconds from his creditors.",
+      "reason": "Entry body begins with lowercase 'one' — should be capitalized"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ARRESTO FACTO SUPER BONIS MERCATORUM ALIENIGENORUM",
+      "old": "it Is termed",
+      "new": "it is termed",
+      "reason": "OCR error: 'Is' should be lowercase 'is'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ASSUME",
+      "old": "62 N. EB. 542",
+      "new": "62 N. E. 542",
+      "reason": "OCR error: 'EB' should be 'E' (N.E. = Northeastern Reporter)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ASSURER",
+      "old": "aguinst",
+      "new": "against",
+      "reason": "OCR error: 'aguinst' should be 'against'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ASSURER",
+      "old": "Indemmnifier",
+      "new": "Indemnifier",
+      "reason": "OCR error: 'Indemmnifier' should be 'Indemnifier'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ASSYTHEMENT",
+      "old": "relutive",
+      "new": "relative",
+      "reason": "OCR error: 'relutive' should be 'relative'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ASTIPULATION",
+      "old": "nssent",
+      "new": "assent",
+      "reason": "OCR error: 'nssent' should be 'assent'"
+    },
+    {
+      "type": "headword",
+      "term": "ASTITRARIUS",
+      "correct": "ASTITRARIUS HARES",
+      "reason": "The headword appears to be a duplicate/fragment; looking at the body which says 'ASTITRARIUS HARES. An heir ap parent...' this seems to be the same entry as ASTITRARIUS HAES below, suggesting OCR confusion"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ASTITRARIUS",
+      "old": "ASTITRARIUS HARES. An heir ap\nparent",
+      "new": "ASTITRARIUS HÆRES. An heir apparent",
+      "reason": "OCR error in embedded headword; 'HARES' should be 'HÆRES' (Latin for heir); 'ap parent' is broken word"
+    },
+    {
+      "type": "headword",
+      "term": "ASTITRARIUS HAES",
+      "correct": "ASTITRARIUS HÆRES",
+      "reason": "OCR error: 'HAES' should be 'HÆRES' (Latin for heir)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ASTITRARIUS HAES",
+      "old": "An heir ap\nparent",
+      "new": "An heir apparent",
+      "reason": "OCR broken word: 'ap parent' should be 'apparent'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ASTITUTION",
+      "old": "Av arrnigument",
+      "new": "An arraignment",
+      "reason": "OCR error: 'Av arrnigument' should be 'An arraignment'"
+    },
+    {
+      "type": "trim",
+      "term": "ASTRER",
+      "trim_at": "To assign to\nASTRIOT. In Scotch law.",
+      "reason": "The entry for ASTRER has been merged with the beginning of a separate entry ASTRICT/ASTRIOT"
+    },
+    {
+      "type": "headword",
+      "term": "ASTRICT",
+      "correct": "ASTRIOT",
+      "reason": "Based on context from ASTRER entry which mentions 'ASTRIOT. In Scotch law. To assign to a particular mill.' - the headword ASTRICT appears to be a separate entry ASTRIOT"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ASTRICT",
+      "old": "A particular mill.\n\nTo assign to",
+      "new": "To assign to a particular mill.",
+      "reason": "OCR scrambled the entry; body text 'To assign to' appears before 'A particular mill.' but should read 'To assign to a particular mill.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ASTRICTION",
+      "old": "a certain will to be ground",
+      "new": "a certain mill to be ground",
+      "reason": "OCR error: 'will' should be 'mill'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ASTRUM",
+      "old": "Bract. fol. 2670",
+      "new": "Bract. fol. 267b",
+      "reason": "OCR error: '2670' likely should be '267b' (folio reference with 'b' for verso misread as '0')"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ASSURANCE",
+      "old": "Im conveyancing",
+      "new": "In conveyancing",
+      "reason": "OCR error: 'Im' should be 'In'"
+    },
+    {
+      "type": "trim",
+      "term": "ASSURANCE",
+      "trim_at": ": ASSURED 100",
+      "reason": "The entry ends with ': ASSURED 100' which appears to be a page header/reference from the next entry that was merged in"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ASSURED",
+      "old": "benetit",
+      "new": "benefit",
+      "reason": "OCR error: 'benetit' should be 'benefit'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ASSURED",
+      "old": "Hogle y. Insurance Co.",
+      "new": "Hogle v. Insurance Co.",
+      "reason": "OCR error: 'y.' should be 'v.' (case citation)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ASSURED",
+      "old": "Insurance Co. vy. Luchs",
+      "new": "Insurance Co. v. Luchs",
+      "reason": "OCR error: 'vy.' should be 'v.' (case citation)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ATMATERTERA",
+      "old": "Bract. fol.\nGS.",
+      "new": "Bract. fol. 68.",
+      "reason": "OCR error: 'GS' should be '68' (folio number)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ATHEIST",
+      "old": "See DE OPPIO",
+      "new": "See DE ODIO",
+      "reason": "OCR error: 'DE OPPIO' should likely be 'DE ODIO ET ATIA' cross-reference, matching the next entry ATIA which contains 'ET ATIA'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AT LAW",
+      "old": "uttorney or counsellor at law. See\nHooker y. Nichols, 116 N. CG 157, 21 8. RB.\n208.",
+      "new": "attorney or counsellor at law. See\nHooker v. Nichols, 116 N. C. 157, 21 S. E.\n208.",
+      "reason": "OCR errors: 'uttorney' -> 'attorney', 'y.' -> 'v.', 'N. CG' -> 'N. C.', '8. RB.' -> 'S. E.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AT SEA",
+      "old": "$2 Am. Dec. 213",
+      "new": "32 Am. Dec. 213",
+      "reason": "OCR error: '$2' should be '32'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ATAVUS",
+      "old": "The _ great-grandfather's or",
+      "new": "The great-grandfather's or",
+      "reason": "OCR artifact: stray underscore/space should be removed"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ATAVUS",
+      "old": "T'ritavtpater",
+      "new": "Tritavi-pater",
+      "reason": "OCR error: 'T'ritavtpater' should be 'Tritavi-pater'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ATTACH",
+      "old": "Buckeye\nPipe-Line Co. v. Fee, 62 Ohio St. 543, 57 N.\nE. 446, 78 Am. St. Rep. 743.",
+      "new": "Buckeye Pipe-Line Co. v. Fee, 62 Ohio St. 543, 57 N. E. 446, 78 Am. St. Rep. 743.",
+      "reason": "Line break in citation, minor formatting"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ATTACHIAMENTA",
+      "old": "—Ate\nenta de spinis et boscis.",
+      "new": "—Attachiamenta de spinis et boscis.",
+      "reason": "OCR error: 'Ate enta' is a broken/garbled version of 'Attachiamenta'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ATTACHMENT",
+      "old": "bringing the sume\n\ninto the custody",
+      "new": "bringing the same into the custody",
+      "reason": "OCR error: 'sume' should be 'same'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ATTACHMENT",
+      "old": "this being the mure common use",
+      "new": "this being the more common use",
+      "reason": "OCR error: 'mure' should be 'more'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ATTAINDER",
+      "old": "In re Garland, 32 How. Prac. (N. Y.)\naol;",
+      "new": "In re Garland, 32 How. Prac. (N. Y.) 301;",
+      "reason": "OCR error: 'aol' should be '301'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ATTAINDER",
+      "old": "Ex abi Garland",
+      "new": "Ex parte Garland",
+      "reason": "OCR error: 'abi' should be 'parte'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ATTAINDER",
+      "old": "People vy. Hayes",
+      "new": "People v. Hayes",
+      "reason": "OCR error: 'vy.' should be 'v.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ATTAINDER",
+      "old": "140 N. Y.\n4...",
+      "new": "140 N. Y. 4...",
+      "reason": "OCR line break in citation"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ATTAINDER",
+      "old": "1 L. BEd. 356",
+      "new": "18 L. Ed. 356",
+      "reason": "OCR error: 'BEd.' should be 'Ed.' and '1' should be '18'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ATTAINT",
+      "old": "ang that the plaintiff",
+      "new": "and that the plaintiff",
+      "reason": "OCR error: 'ang' should be 'and'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ATTAINT",
+      "old": "(g. v7.)",
+      "new": "(q. v.)",
+      "reason": "OCR error: 'g. v7.' should be 'q. v.'"
+    },
+    {
+      "type": "trim",
+      "term": "ATTAINT",
+      "trim_at": "ATTAINT D'UNE CAUSE.\nIn. French",
+      "reason": "Entry for 'ATTAINT D'UNE CAUSE' appears to be merged into the ATTAINT entry body after the main definition"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ATTENDANT TERMS",
+      "old": "usually wortgages,",
+      "new": "usually mortgages,",
+      "reason": "OCR error: 'wortgages' should be 'mortgages'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ATTENDANT TERMS",
+      "old": "after the objects for\nwhich they were i Sect created have ceased,\nso that they might deemed merged or satisfied, for the purpose of Spohn Sir strengthening",
+      "new": "after the objects for which they were first created have ceased, so that they might be deemed merged or satisfied, for the purpose of strengthening",
+      "reason": "OCR errors: 'i Sect' -> 'first', 'might deemed' -> 'might be deemed', 'Spohn Sir' are OCR artifacts"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ATTERMINING",
+      "old": "payment of u debt",
+      "new": "payment of a debt",
+      "reason": "OCR error: 'u' should be 'a'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AT COMMON LAW",
+      "old": "Comm. 363; 4 Bl. Comm.",
+      "new": "3 Bl. Comm. 363; 4 Bl. Comm.",
+      "reason": "OCR error: citation appears to be missing '3 Bl.' prefix based on context of Blackstone references"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AT COMMON LAW",
+      "old": "State v. Baldwin, 1 Tread. Const.\n8 C.) 202.",
+      "new": "State v. Baldwin, 1 Tread. Const. (S. C.) 202.",
+      "reason": "OCR error: '8 C.)' should be '(S. C.)'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AUTOCRACY",
+      "old": "unlim-\n{ted",
+      "new": "unlim-\nited",
+      "reason": "OCR error: '{' should be 'i' in 'unlimited'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AUTOMATISM",
+      "old": "waunderings",
+      "new": "wanderings",
+      "reason": "OCR error: extra 'u' in 'wanderings'"
+    },
+    {
+      "type": "trim",
+      "term": "AUTRE",
+      "trim_at": "AUTREFO!IS. L. Fr. At another",
+      "reason": "AUTREFOIS entry is embedded at the end of AUTRE entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AUTRE",
+      "old": "pur aig daautre vic.",
+      "new": "pur auter vie.",
+      "reason": "OCR garbled 'auter vie' as 'aig daautre vic'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AUTRE",
+      "old": "AUTREFO!IS",
+      "new": "AUTREFOIS",
+      "reason": "OCR error: '!' should be 'I' in AUTREFOIS"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AUXILIUM",
+      "old": "—Auxilinm ad filium militem faciendum",
+      "new": "—Auxilium ad filium militem faciendum",
+      "reason": "OCR error: 'Auxilinm' should be 'Auxilium'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AUXILIUM",
+      "old": "—A um curise. 'In\nold Pnglish law.",
+      "new": "—Auxilium curiae. In\nold English law.",
+      "reason": "OCR errors: 'A um curise' should be 'Auxilium curiae', 'Pnglish' should be 'English'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AUXILIUM",
+      "old": "A um - In papueb ley:",
+      "new": "Auxilium regis. In public law:",
+      "reason": "OCR severely garbled 'Auxilium regis. In public law:'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AVAIL",
+      "old": "-:A.guardfan",
+      "new": "A guardian",
+      "reason": "OCR error: '-:A.guardfan' should be 'A guardian'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AVAIL",
+      "old": "Dat not",
+      "new": "but not",
+      "reason": "OCR error: 'Dat' should be 'but'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AVAIL",
+      "old": "2 BI.\nComm. 88, pe 8",
+      "new": "2 Bl.\nComm. 88, 89.",
+      "reason": "OCR errors: 'BI.' should be 'Bl.', 'pe 8' should be '89.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AVAL",
+      "old": "iby",
+      "new": "by",
+      "reason": "OCR error: extra 'i' before 'by'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AVAL",
+      "old": "note or Dill",
+      "new": "note or bill",
+      "reason": "OCR error: 'Dill' should be 'bill'"
+    },
+    {
+      "type": "trim",
+      "term": "AVARIA",
+      "trim_at": "AVENAGE.",
+      "reason": "AVENAGE headword is merged into AVARIA entry"
+    },
+    {
+      "type": "trim",
+      "term": "AVENAGE",
+      "trim_at": "AVENTURE, or ADVENTURE.",
+      "reason": "AVENTURE entry is embedded at the end of AVENAGE entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AVENTURE",
+      "old": "L. Fr. To have.\nIn old conveyancing. To",
+      "new": "",
+      "reason": "OCR merged beginning of AVER entry into AVENTURE entry; trailing fragment should be trimmed"
+    },
+    {
+      "type": "trim",
+      "term": "AVENTURE",
+      "trim_at": "L. Fr. To have.\nIn old conveyancing. To",
+      "reason": "Fragment of AVER entry is merged into AVENTURE body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AVER",
+      "old": "—Aver corm.",
+      "new": "—Aver corn.",
+      "reason": "OCR error: 'corm' should be 'corn'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AVERSIO",
+      "old": "oan of a contract of insurance.",
+      "new": "A term of a contract of insurance.",
+      "reason": "OCR garbled 'A term' as 'oan'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AVOW",
+      "old": "clafms",
+      "new": "claims",
+      "reason": "OCR error: 'clafms' should be 'claims'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AVOW",
+      "old": "ssid to\navow",
+      "new": "said to\navow",
+      "reason": "OCR error: 'ssid' should be 'said'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AVOW",
+      "old": "21 N. BE. 1048",
+      "new": "21 N. E. 1048",
+      "reason": "OCR error: 'BE.' should be 'E.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AVOWRY",
+      "old": "avovcs",
+      "new": "avows",
+      "reason": "OCR error: 'avovcs' should be 'avows'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AVOWRY",
+      "old": "merits-of",
+      "new": "merits of",
+      "reason": "OCR error: spurious hyphen"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AVOWRY",
+      "old": "a retor-\nBei habendo",
+      "new": "a retorno habendo",
+      "reason": "OCR garbled 'retorno habendo'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AVOWRY",
+      "old": "Ap avowry must be distinguished from a juetification. e former",
+      "new": "An avowry must be distinguished from a justification. The former",
+      "reason": "OCR errors: 'Ap' should be 'An', 'juetification' should be 'justification', 'e former' should be 'The former'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AVOWRY",
+      "old": "warrant him is taking",
+      "new": "warrant him in taking",
+      "reason": "OCR error: 'is' should be 'in'"
+    },
+    {
+      "type": "trim",
+      "term": "AVOWTRY",
+      "trim_at": "AVULSION. The removal of a",
+      "reason": "AVULSION entry is embedded at the end of AVOWTRY entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AVUNCULUS",
+      "old": "<Avunculue\nmarimus",
+      "new": "Avunculus\nmaximus",
+      "reason": "OCR errors: '<Avunculue' should be 'Avunculus', 'marimus' should be 'maximus'"
+    },
+    {
+      "type": "trim",
+      "term": "AWAIT",
+      "trim_at": "110.\n. AZURK..",
+      "reason": "Spurious text '110. . AZURK..' merged into AWAIT entry"
+    },
+    {
+      "type": "trim",
+      "term": "AXIOM",
+      "trim_at": "° AYANT CAUSE. In French law.",
+      "reason": "AYANT CAUSE entry embedded in AXIOM body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AWAY-GOING",
+      "old": "AWAY-GOING CROP. A crop sown",
+      "new": "",
+      "reason": "AWAY-GOING entry body contains the full AWAY-GOING CROP entry merged in"
+    },
+    {
+      "type": "trim",
+      "term": "AWAY-GOING",
+      "trim_at": "AWAY-GOING CROP. A crop sown",
+      "reason": "AWAY-GOING CROP entry is embedded in AWAY-GOING body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ATTEST",
+      "old": "13 8S. E. 500",
+      "new": "13 S. E. 500",
+      "reason": "OCR error: '8S.' should be 'S.' - digit 8 substituted for nothing before 'S'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ATTESTATION",
+      "old": "for the pomore of proving",
+      "new": "for the purpose of proving",
+      "reason": "OCR error: 'pomore' should be 'purpose'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ATTESTATION",
+      "old": "92 Wis. 209, to N. W. 10387",
+      "new": "92 Wis. 209, 10 N. W. 1037",
+      "reason": "OCR error: 'to N. W. 10387' should be '10 N. W. 1037'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ATTESTOR",
+      "old": "in\nScotch practice.",
+      "new": "In Scotch practice.",
+      "reason": "OCR error: lowercase 'in' at start of entry, likely 'In'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ATTORN",
+      "old": "fols. 816, 8&2.",
+      "new": "fols. 81b, 82.",
+      "reason": "OCR error: '816, 8&2' should be '81b, 82' - garbled folio references"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ATTORNARE",
+      "old": "- =\n\n—Attornare rem.",
+      "new": "\n—Attornare rem.",
+      "reason": "OCR artifact: '- =' appears to be scanning noise"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ATTORNARE",
+      "old": "OIPIENDO. In old Pnglish law.",
+      "new": "OIPIENDO. In old English law.",
+      "reason": "OCR error: 'Pnglish' should be 'English'"
+    },
+    {
+      "type": "trim",
+      "term": "ATTORNARE",
+      "trim_at": "ATTORNATO FACIENDO VEL RE-",
+      "reason": "Entry for ATTORNATO FACIENDO VEL RECIPIENDO is embedded in the ATTORNARE entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ATTORNEY",
+      "old": "Ejtchelberger v. Sifford",
+      "new": "Eitchelberger v. Sifford",
+      "reason": "OCR error: 'Ejtchelberger' should be 'Eitchelberger'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ATTORNEY",
+      "old": "Kelly v. Herb, 147 Pa. 563, 2%\nAtl. 889",
+      "new": "Kelly v. Herb, 147 Pa. 563, 23 Atl. 889",
+      "reason": "OCR error: '2%' should be '23'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ATTORNEY AT LAW",
+      "old": "called his cients",
+      "new": "called his clients",
+      "reason": "OCR error: 'cients' should be 'clients'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ATTORNEY AT LAW",
+      "old": "court of appenl",
+      "new": "court of appeal",
+      "reason": "OCR error: 'appenl' should be 'appeal'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ATTORNEY AT LAW",
+      "old": "In some siates",
+      "new": "In some states",
+      "reason": "OCR error: 'siates' should be 'states'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ATTORNEY GENERAL",
+      "old": "chief luw ofticer",
+      "new": "chief law officer",
+      "reason": "OCR error: 'luw' should be 'law', 'ofticer' should be 'officer'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ATTORNEY GENERAL",
+      "old": "his oftice is",
+      "new": "his office is",
+      "reason": "OCR error: 'oftice' should be 'office'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ATTORNEY GENERAL",
+      "old": "People v. Kramer, 33 Mise. Rep.",
+      "new": "People v. Kramer, 33 Misc. Rep.",
+      "reason": "OCR error: 'Mise.' should be 'Misc.'"
+    },
+    {
+      "type": "trim",
+      "term": "AULA",
+      "trim_at": "—AULNAGE. See ALNAGER.",
+      "reason": "Entry for AULNAGE is embedded at the end of AULA entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AUCTIONEER",
+      "old": "Yivate contract only. and auctioneers by pubic auction only.",
+      "new": "private contract only, and auctioneers by public auction only.",
+      "reason": "OCR errors: 'Yivate' should be 'private', 'pubic' should be 'public'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AUCTIONEER",
+      "old": "ready OnE y but",
+      "new": "ready money, but",
+      "reason": "OCR error: 'OnE y' should be 'money'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AUCTOR",
+      "old": "In the Roman law. AnD\nauctioneer.",
+      "new": "In the Roman law. An auctioneer.",
+      "reason": "OCR error: 'AnD' should be 'An'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AUCTOR",
+      "old": "In old French law. aA plaintiff.",
+      "new": "In old French law. A plaintiff.",
+      "reason": "OCR error: 'aA' should be 'A'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AUCTORITAS",
+      "old": "In the civil law. <Authority.",
+      "new": "In the civil law. Authority.",
+      "reason": "OCR artifact: '<' before 'Authority'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AUCTORITAS",
+      "old": "In old European law.\nA diploma",
+      "new": "In old European law. A diploma",
+      "reason": "OCR formatting error causing incorrect line break"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AUCTION",
+      "old": "Russell v. Miner, G1 Barb. (N. Y.) 539",
+      "new": "Russell v. Miner, 61 Barb. (N. Y.) 539",
+      "reason": "OCR error: 'G1' should be '61'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AUCTION",
+      "old": "Hibler v. Hoag, 1 Watts & S. (Pa.) 53038",
+      "new": "Hibler v. Hoag, 1 Watts & S. (Pa.) 533",
+      "reason": "OCR error: '53038' should be '533'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AUCTION",
+      "old": "And these rise fairly included",
+      "new": "And these are fairly included",
+      "reason": "OCR error: 'rise' should be 'are'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AURES",
+      "old": "infilcted on those",
+      "new": "inflicted on those",
+      "reason": "OCR error: 'infilcted' should be 'inflicted'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AURA",
+      "old": "In medical juris\nprudence.",
+      "new": "In medical jurisprudence.",
+      "reason": "OCR line break splitting 'jurisprudence'"
+    },
+    {
+      "type": "trim",
+      "term": "AUTER",
+      "trim_at": "duly vested with all necessary",
+      "reason": "Text from AUTHENTIC entry ('duly vested with all necessary formalities...') is merged at the end of AUTER entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AUTHENTIC ACT",
+      "old": "Nov. 73, c. 2; Cod. 7, 52,",
+      "new": "Nov. 78, c. 2; Cod. 7, 62,",
+      "reason": "OCR error in citation numbers - compare with AUTHENTIC entry body which has '78' and '62'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AUTHENTICATION",
+      "old": "authority or legal authenticity toa statute",
+      "new": "authority or legal authenticity to a statute",
+      "reason": "OCR error: 'toa' should be 'to a'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AUTHOR",
+      "old": "his own intellectual lnbor applied to the mater!-\nals of his composition",
+      "new": "his own intellectual labor applied to the materials of his composition",
+      "reason": "OCR errors: 'lnbor' should be 'labor', 'mater!-\\nals' should be 'materials'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AUTHORITY",
+      "old": "Legal power; 4\nright to command",
+      "new": "Legal power; a right to command",
+      "reason": "OCR error: '4' should be 'a'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "AUTHORITY",
+      "old": "Cooper v. Rankin,\n5 Bin. (Pa.) 6138.",
+      "new": "Cooper v. Rankin, 5 Bin. (Pa.) 613.",
+      "reason": "OCR error: '6138' should be '613'"
+    },
+    {
+      "type": "flag",
+      "term": "AUDITA",
+      "issue": "Entry appears to be a duplicate/partial of AUDITA QUERELA - the headword 'AUDITA' seems like an OCR artifact where 'AUDITA QUERELA' was split into two entries"
+    }
+  ],
+  "errors": [
+    {
+      "batch": 12,
+      "error": "JSON parse error: ```json\n[\n  {\"type\": \"ocr_fix\", \"term\": \"ALIENATION\", \"old\": \"Conover v. Mutual Ins. Co., 1 N. ¥. 290, 294.\", \"new\": \"Conover v. Mutual Ins. Co., 1 N. Y. 290, 294.\", \"reason\": \"OCR error: '¥' should b"
+    }
+  ],
+  "by_type": {
+    "trim": 162,
+    "ocr_fix": 597,
+    "headword": 28,
+    "flag": 16
+  },
+  "elapsed_seconds": 232.6
+}

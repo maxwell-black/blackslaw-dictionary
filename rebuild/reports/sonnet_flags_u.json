@@ -1,0 +1,68 @@
+[
+  {
+    "type": "headword_review",
+    "term": "UNA",
+    "suggested": "UNANIMITY",
+    "reason": "The body describes 'unanimity' - the headword appears to be OCR-damaged or truncated"
+  },
+  {
+    "type": "flag",
+    "term": "ULTIMA",
+    "issue": "The body says 'The last argument; the last resort' but ULTIMA alone means 'last' - this appears to be the entry for ULTIMA RATIO which is missing from the headword"
+  },
+  {
+    "type": "flag",
+    "term": "ULTIMUS",
+    "issue": "Body says 'The last or remote heir; the lord' but ULTIMUS HAERES would be the more complete headword for this definition"
+  },
+  {
+    "type": "flag",
+    "term": "U.C",
+    "issue": "Headword appears to be a fragment/OCR error - likely should be a complete word like 'TIMBER' based on the content about timber culture entry and timber-trees"
+  },
+  {
+    "type": "flag",
+    "term": "U.S",
+    "issue": "Headword appears to be a fragment/OCR error - content relates to TREASON based on the citations and sub-entries"
+  },
+  {
+    "type": "headword_review",
+    "term": "USINCREASE",
+    "suggested": "INCREASE",
+    "reason": "Headword is garbled; the entry defines 'increase' terms and the body discusses 'affidavit of increase' and 'costs of increase'"
+  },
+  {
+    "type": "headword_review",
+    "term": "UTRUBL",
+    "suggested": "UTRUBI",
+    "reason": "Headword is misspelled; should be UTRUBI (Latin legal term for interdict regarding movables)"
+  },
+  {
+    "type": "headword_review",
+    "term": "UNLARIOH",
+    "suggested": "UNLAW",
+    "reason": "Headword appears garbled; 'UNLARIOH' is not a legal term and likely an OCR error for 'UNLAW' or similar"
+  },
+  {
+    "type": "headword_review",
+    "term": "UNUS FLATU",
+    "suggested": "UNO FLATU",
+    "reason": "The Latin phrase is 'uno flatu' (one breath), not 'unus flatu'; duplicates the UNO entry"
+  },
+  {
+    "type": "headword_review",
+    "term": "UO DOMINICO",
+    "suggested": "DE DOMINICO",
+    "reason": "Likely OCR error or misprint; 'UO DOMINICO' is not a recognized writ name"
+  },
+  {
+    "type": "flag",
+    "term": "UNIGENITURN",
+    "issue": "Entry appears to be a garbled duplicate or overflow from UNIGENITURE, containing only case citations that belong to UNFAIR COMPETITION. The headword and body seem completely misplaced."
+  },
+  {
+    "type": "flag",
+    "term": "UO DOMINICO",
+    "issue": "Headword 'UO DOMINICO' is suspicious; the writ described may be 'DE DOMINICO' or another correct form. Needs verification."
+  }
+]

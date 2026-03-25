@@ -1,0 +1,249 @@
+[
+  {
+    "type": "flag",
+    "term": "PAX",
+    "issue": "The PAX entry body appears identical to PAX ECCLESIAE, suggesting the PAX entry body may be incorrect or the entries were merged/confused during OCR"
+  },
+  {
+    "type": "flag",
+    "term": "PARTI",
+    "issue": "The headword 'PARTI' appears to be a fragment. The body text starts with 'PARTITION, A judicial writ which used to be addressed to a tenant, prohibiting him from waste, pending suit.' This may be a different entry whose headword was cut off or corrupted."
+  },
+  {
+    "type": "flag",
+    "term": "PARTURE",
+    "issue": "Headword 'PARTURE' is likely incorrect or a fragment. The body discusses 'depart' in maritime law and references 'To depart imports more than to sail'. The actual headword may be 'DEPART' or 'DEPARTURE'."
+  },
+  {
+    "type": "flag",
+    "term": "PAGE",
+    "issue": "The definition of PAGE ('A toll for passage through another's land. The same as pedage.') is identical to PAAGE. This appears to be an OCR or scanning error where a different headword was misread as PAGE."
+  },
+  {
+    "type": "flag",
+    "term": "PALL",
+    "issue": "The body of this entry appears to be severely truncated/damaged — it begins mid-sentence 'from a right is to lose or forfeit it' with no introductory text explaining the subject."
+  },
+  {
+    "type": "headword_review",
+    "term": "PEACHMENTS",
+    "suggested": "COURT OF IMPEACHMENT",
+    "reason": "This entry appears to be a fragment; the headword 'PEACHMENTS' seems to be a garbled/truncated form"
+  },
+  {
+    "type": "flag",
+    "term": "PEACHMENTS",
+    "issue": "Headword appears to be a garbled/partial entry. The body describes a court of impeachment but the headword 'PEACHMENTS' does not correspond to any known legal term."
+  },
+  {
+    "type": "headword_review",
+    "term": "PELONIOUSLY",
+    "suggested": "FELONIOUSLY",
+    "reason": "OCR error: 'PELONIOUSLY' should be 'FELONIOUSLY'; the body discusses 'felonious intent' and 'felonicc' confirming this is the FELONIOUSLY entry"
+  },
+  {
+    "type": "headword_review",
+    "term": "PENDENOY",
+    "suggested": "PENDENCY",
+    "reason": "OCR error: 'PENDENOY' should be 'PENDENCY'"
+  },
+  {
+    "type": "headword_review",
+    "term": "PIGNORIS",
+    "suggested": "PIGNORIS CAPIO",
+    "reason": "The entry discusses 'pignoris capio' as one of the legis actiones; the headword is incomplete"
+  },
+  {
+    "type": "flag",
+    "term": "PERPETUATING",
+    "issue": "Entry body appears incomplete/truncated - begins mid-sentence without a proper headword definition start; likely 'PERPETUATING TESTIMONY' is the full headword"
+  },
+  {
+    "type": "flag",
+    "term": "PERMUTATION",
+    "issue": "Body ends with '{' which appears to be an OCR artifact; definition may be truncated"
+  },
+  {
+    "type": "flag",
+    "term": "PERSUADE",
+    "issue": "Definition text 'Sunder is to induce to act. inducing others to act.' is garbled and unclear; possibly should read 'Persuading is inducing others to act'"
+  },
+  {
+    "type": "headword_review",
+    "term": "PERICULUS",
+    "suggested": "PERICULOSUS",
+    "reason": "The headword should be PERICULOSUS (matching the Latin maxims about 'periculosum') not PERICULUS"
+  },
+  {
+    "type": "flag",
+    "term": "PERINDE",
+    "issue": "The headword appears to be incomplete - likely 'PERINDE AC VALET' or similar Latin phrase; the body definition seems truncated"
+  },
+  {
+    "type": "headword_review",
+    "term": "PLEGIK",
+    "suggested": "PLEGII",
+    "reason": "OCR error: 'PLEGIK' should be 'PLEGII' (Latin plural of 'plegius')"
+  },
+  {
+    "type": "headword_review",
+    "term": "PO",
+    "suggested": "PO. LO. SUO.",
+    "reason": "Headword is incomplete; OCR error '8UO' should be 'SUO'"
+  },
+  {
+    "type": "headword_review",
+    "term": "PORAL",
+    "suggested": "PORAL",
+    "reason": "Entry appears to be a fragment; the body contains definitions of oath types suggesting this is part of a larger entry, possibly misidentified headword"
+  },
+  {
+    "type": "flag",
+    "term": "PORAL",
+    "issue": "This entry appears to be a fragment of a larger entry about oaths (Decisory oath, Extrajudicial oath, Judicial oath, etc.). The headword 'PORAL' does not match the content, which seems to belong to an OATH entry."
+  },
+  {
+    "type": "flag",
+    "term": "PORATIONS",
+    "issue": "Entry headword 'PORATIONS' and body text beginning '- ELEGANTER. In the civil law...' appear to be fragments of other entries (possibly CORPORATIONES ELEGANTER or similar). Content doesn't match headword."
+  },
+  {
+    "type": "headword_review",
+    "term": "PORMIDO",
+    "suggested": "FORMIDO",
+    "reason": "OCR error: 'PORMIDO' should be 'FORMIDO' (Latin for 'fear/dread of danger'); also seen in next entry"
+  },
+  {
+    "type": "headword_review",
+    "term": "PORMIDO PERIOLI",
+    "suggested": "FORMIDO PERICULI",
+    "reason": "OCR errors: 'PORMIDO' should be 'FORMIDO', 'PERIOLI' should be 'PERICULI' (Latin: fear of danger/peril)"
+  },
+  {
+    "type": "flag",
+    "term": "POLLIGAR",
+    "issue": "Entry headword is POLLIGAR but body begins 'POLYGAR. In Hindu law.' suggesting this may be a cross-reference entry where POLLIGAR redirects to POLYGAR, or the headword itself should be POLYGAR."
+  },
+  {
+    "type": "headword_review",
+    "term": "PRAMIUM",
+    "suggested": "PRAEMIUM",
+    "reason": "Latin term should be PRAEMIUM (reward/compensation), consistent with 'Premium assecurationis' in the body and standard Latin legal terminology"
+  },
+  {
+    "type": "headword_review",
+    "term": "PRANOMEN",
+    "suggested": "PRAENOMEN",
+    "reason": "Latin term for 'forename' should be PRAENOMEN, not PRANOMEN"
+  },
+  {
+    "type": "headword_review",
+    "term": "PREAPPOINTED",
+    "suggested": "PREAPPOINTED EVIDENCE",
+    "reason": "The body describes 'the kind and degree of evidence prescribed in advance' — this entry appears to be about 'preappointed evidence', not just 'PREAPPOINTED'"
+  },
+  {
+    "type": "headword_review",
+    "term": "PRECONTRAOT",
+    "suggested": "PRECONTRACT",
+    "reason": "OCR error: 'PRECONTRAOT' should be 'PRECONTRACT'"
+  },
+  {
+    "type": "headword_review",
+    "term": "PRECINOT",
+    "suggested": "PRECINCT",
+    "reason": "OCR error: 'PRECINOT' should be 'PRECINCT'"
+  },
+  {
+    "type": "headword_review",
+    "term": "PREMUNIRE",
+    "suggested": "PRAEMUNIRE",
+    "reason": "The headword should be PRAEMUNIRE (see cross-reference 'See PRAEMUNIRE' in body), consistent with standard legal spelling"
+  },
+  {
+    "type": "headword_review",
+    "term": "PRIM",
+    "suggested": "PRIMA IMPRESSIONIS",
+    "reason": "The body defines 'prima impressionis' as the entry topic; headword appears truncated by OCR"
+  },
+  {
+    "type": "flag",
+    "term": "PRIMUM",
+    "issue": "Headword appears incomplete; body discusses 'primum decretum' (first decree) but headword just says PRIMUM — likely should be 'PRIMUM DECRETUM'"
+  },
+  {
+    "type": "flag",
+    "term": "PRISEL",
+    "issue": "'I. Fr.' at start of body may be OCR error for 'L. Fr.' (Law French), though 'I.' could be an archaic abbreviation"
+  },
+  {
+    "type": "flag",
+    "term": "PRIVILEGIA",
+    "issue": "Entry appears to be a fragment or duplicate — headword is 'PRIVILEGIA' but body starts with 'PRIVILEGIA QUAE RE VERA' suggesting a maxim entry that may be merged or duplicated with content already in the PRIVILEGED entry"
+  },
+  {
+    "type": "headword_review",
+    "term": "PRONUNOIATION",
+    "suggested": "PRONUNCIATION",
+    "reason": "OCR error: 'O' misread in headword"
+  },
+  {
+    "type": "flag",
+    "term": "PROPINQUITY",
+    "issue": "Entry body is truncated to just 'Kindred; parentage.' followed by start of another entry 'PROPIOR SOBRINO, PROPIOR 8SO-' which appears to be OCR garbled"
+  },
+  {
+    "type": "flag",
+    "term": "PROPINQUI",
+    "issue": "Headword appears to be 'PROPINQUI ET CONSANGUINEI' but is listed as just 'PROPINQUI'; body text is garbled with 'r. o. a. See re'"
+  },
+  {
+    "type": "flag",
+    "term": "PROFECTITIUS",
+    "issue": "Entry appears twice: once embedded in PROFANITY (with Dig. 28, 3, 5) and once as its own entry (with Dig. 23, 3, 5). Citation differs - one may be OCR error. The standalone entry likely has the correct citation."
+  },
+  {
+    "type": "flag",
+    "term": "PROMATERTERA",
+    "issue": "The standalone PROMATERTERA entry appears truncated/garbled: 'law. A great maternal aunt; one's grandmother.' should read 'law, the sister of one's grandmother' - body is incomplete"
+  },
+  {
+    "type": "flag",
+    "term": "PROFESSION",
+    "issue": "Entry ends with garbled text '.:,PROETTS;) F' which appears to be OCR noise from an adjacent entry or page artifact"
+  },
+  {
+    "type": "flag",
+    "term": "PROROGATED",
+    "issue": "Entry may be missing word 'JURISDICTION' in headword - the definition describes 'a power conferred by consent of the parties upon a judge who would not otherwise be competent' which is typically 'prorogated jurisdiction'"
+  },
+  {
+    "type": "headword_review",
+    "term": "PROSEOCUTOR",
+    "suggested": "PROSECUTOR",
+    "reason": "OCR error in headword: 'PROSEOCUTOR' should be 'PROSECUTOR'"
+  },
+  {
+    "type": "flag",
+    "term": "PROSOCERUS",
+    "issue": "Definition 'A wife's grandmother' may be OCR error or truncation - should possibly read 'A wife's grandfather's wife' as the feminine form of PROSOCER (father-in-law's father)"
+  },
+  {
+    "type": "headword_review",
+    "term": "PSEUDOOYESIS",
+    "suggested": "PSEUDOCYESIS",
+    "reason": "OCR error in headword: 'PSEUDOOYESIS' should be 'PSEUDOCYESIS' (false pregnancy)"
+  },
+  {
+    "type": "headword_review",
+    "term": "PUBLIOCIANA",
+    "suggested": "PUBLICIANA",
+    "reason": "OCR error in headword: 'PUBLIOCIANA' should be 'PUBLICIANA' (Publician action)"
+  },
+  {
+    "type": "headword_review",
+    "term": "PUDIOCITY",
+    "suggested": "PUDICITY",
+    "reason": "OCR error in headword: 'PUDIOCITY' should be 'PUDICITY'"
+  }
+]

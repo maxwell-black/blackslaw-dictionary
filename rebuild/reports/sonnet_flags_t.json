@@ -1,0 +1,126 @@
+[
+  {
+    "type": "headword_review",
+    "term": "TT",
+    "suggested": "T. R. E.",
+    "reason": "OCR error: 'TT' should be 'T. R. E.' as the body defines it as an abbreviation of 'Tempore Regis Edwardi'"
+  },
+  {
+    "type": "flag",
+    "term": "TERRIS",
+    "issue": "The headword 'TERRIS' and the body beginning 'A writ that lay for a man convicted by attaint' appear to be two separate entries merged together, with the second part starting at 'TERS OF. These words...' describing letters of marque and reprisal"
+  },
+  {
+    "type": "flag",
+    "term": "TERRITORIAL",
+    "issue": "Body seems incomplete - likely meant to be 'TERRITORIAL COURTS' with fuller definition"
+  },
+  {
+    "type": "flag",
+    "term": "TEMPORAL",
+    "issue": "Entry seems incomplete or misplaced — it discusses peers and bishops but the headword 'TEMPORAL' would normally define the adjective meaning secular/non-ecclesiastical. The body may be truncated or belong to 'TEMPORAL LORDS' or similar."
+  },
+  {
+    "type": "flag",
+    "term": "TEMPORIS",
+    "issue": "Headword appears to be incomplete — likely 'TEMPORIS EXCEPTIO' or 'TEMPORIS PRAESCRIPTIO' based on the body text"
+  },
+  {
+    "type": "flag",
+    "term": "TERRA",
+    "issue": "The sub-entries under TERRA are heavily OCR-damaged with garbled text throughout, particularly '—Terra ffirmata', 'he peauire', 'poeneed', 'fru or frisca. Fre a not peed olowed', and the Salic law passage. Multiple corrections needed but exact original text is uncertain."
+  },
+  {
+    "type": "flag",
+    "term": "TICLES",
+    "issue": "Entry appears to be a severely garbled/corrupted duplicate of THIRTY-NINE ARTICLES and THIS entries; headword 'TICLES' and body text are OCR artifacts"
+  },
+  {
+    "type": "flag",
+    "term": "TICO",
+    "issue": "Headword 'TICO' appears to be OCR corruption of 'PRIMO' or similar; body references 'TICO HABENDO' which may be 'PRIMO HABENDO' or another writ name"
+  },
+  {
+    "type": "headword_review",
+    "term": "TIMA",
+    "suggested": "TIMA ORTAM",
+    "reason": "The headword appears to be 'TIMA ORTAM' based on the body text, not just 'TIMA'"
+  },
+  {
+    "type": "headword_review",
+    "term": "TING",
+    "suggested": "LIQUOR",
+    "reason": "The entry headword 'TING' appears to be a garbled/truncated version; the body discusses 'Liquor; Spirituous Liquor' suggesting the headword should be LIQUOR"
+  },
+  {
+    "type": "headword_review",
+    "term": "TIVE",
+    "suggested": "NEGATIVE PREGNANT",
+    "reason": "The body 'TIVE LAW; ADMINISTRATIVE LAW: BANKTIVE PREGNANT. See NEGA-' is clearly a garbled/fragmented entry for NEGATIVE PREGNANT"
+  },
+  {
+    "type": "headword_review",
+    "term": "TRADITURIN",
+    "suggested": "TRADITURIN BALLIUM",
+    "reason": "The headword appears truncated; the full term is 'TRADITURIN BALLIUM' as shown by the body and the following duplicate entry"
+  },
+  {
+    "type": "flag",
+    "term": "TRANSCRIPTIO",
+    "issue": "Entry body appears to only contain sub-entry headwords (TRANSCRIPTIO PEDIS FINIS LEGIS and TRANSCRIPTIO RECOGNITIONIS) without definitions, suggesting the body was truncated or these are sub-entries of TRANSCRIPT that were separated"
+  },
+  {
+    "type": "flag",
+    "term": "TRASSANS",
+    "issue": "Body text 'Drawing; ane who draws' appears to have OCR error 'ane' which should likely be 'one'; also trailing 'The drawer of a bill of exchange. 7' with stray '7'"
+  },
+  {
+    "type": "headword_review",
+    "term": "TRE",
+    "suggested": "TRE AD LARGUM",
+    "reason": "The headword appears truncated; the full term is 'TRE AD LARGUM' as shown in the body"
+  },
+  {
+    "type": "headword_review",
+    "term": "TRIA",
+    "suggested": "TRIA CAPITA",
+    "reason": "The headword is truncated; the full term is 'TRIA CAPITA' as shown in the body"
+  },
+  {
+    "type": "headword_review",
+    "term": "TRIBUNAUX DE COMMEROE",
+    "suggested": "TRIBUNAUX DE COMMERCE",
+    "reason": "OCR error: 'COMMEROE' should be 'COMMERCE'"
+  },
+  {
+    "type": "headword_review",
+    "term": "TORNO",
+    "suggested": "TORNO FACIENDO",
+    "reason": "The entry headword appears truncated; the body defines 'TORNO FACIENDO' not 'TORNO'"
+  },
+  {
+    "type": "flag",
+    "term": "TORTION",
+    "issue": "Entry 'TORTION' appears to have no actual definition — the body consists entirely of a Latin maxim about extortion. The headword may be incorrect or the definition text is missing."
+  },
+  {
+    "type": "flag",
+    "term": "TOTIES",
+    "issue": "Entry body reads 'Lat. As often as occasion shall arise.' — this seems complete but very brief; verify it is not truncated or confused with 'TOTIES QUOTIES'"
+  },
+  {
+    "type": "flag",
+    "term": "TOTIS",
+    "issue": "Entry body reads 'Lat. With all one's might or power; with all his might; very strenuously.' — the headword TOTIS alone seems incomplete; likely should be 'TOTIS VIRIBUS' (with all one's strength). Verify headword."
+  },
+  {
+    "type": "flag",
+    "term": "TOXIC",
+    "issue": "The entry for TOXIC contains multiple sub-entries (TOXICAL, TOXICANT, TOXICATE) that appear to be separate dictionary entries merged into the TOXIC body. These may need to be trimmed as separate entries."
+  },
+  {
+    "type": "flag",
+    "term": "TOUT TEMPS PRIST",
+    "issue": "Citation '8 Bl. Comm. 803; 2 Salk. 622' — Blackstone's Commentaries only go to volume 4; '8' may be OCR for '3', and page 803 may be OCR for a lower number. Needs verification."
+  }
+]

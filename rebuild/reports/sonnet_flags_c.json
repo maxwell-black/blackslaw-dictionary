@@ -1,0 +1,286 @@
+[
+  {
+    "type": "headword_review",
+    "term": "CADASTU",
+    "suggested": "CADASTRE",
+    "reason": "Should be CADASTRE (French law term matching the Spanish law entry); the final letters were cut off by OCR"
+  },
+  {
+    "type": "headword_review",
+    "term": "CAETERUS",
+    "suggested": "CÆTERUS",
+    "reason": "Should be CÆTERUS (Latin 'ceterus/cæterus') - the ligature æ was not properly captured"
+  },
+  {
+    "type": "flag",
+    "term": "CAMPANARIUM",
+    "issue": "Definition appears truncated - ends with 'In old European law. A' with no further content"
+  },
+  {
+    "type": "flag",
+    "term": "CACHEPOLUS",
+    "issue": "Entry starts with 'or CACHERELLAS.' suggesting the headword CACHEPOLUS was split from 'CACHEPOLUS, or CACHERELLAS' - the headword should likely be 'CACHEPOLUS, or CACHERELLAS'"
+  },
+  {
+    "type": "flag",
+    "term": "CAPUT",
+    "issue": "The sub-entry 'Caput anni' reads 'The first day of the Agnus Dei or baronise. The castle or chief seat of a baron.' — 'Agnus Dei or baronise' appears to be garbled OCR text for something like 'the year' or similar; needs verification against original source."
+  },
+  {
+    "type": "headword_review",
+    "term": "CART BOOT",
+    "suggested": "CART BOTE",
+    "reason": "The headword should be 'CART BOTE' (a legal term for wood allowance), not 'CART BOOT'; the embedded version in CART entry correctly reads 'CART BOTE'"
+  },
+  {
+    "type": "flag",
+    "term": "CARLISLE",
+    "issue": "This entry appears to be a duplicate or redirect for CARLISLE TABLES — the body text is identical to the CARLISLE TABLES entry. May need trimming or consolidation."
+  },
+  {
+    "type": "headword_review",
+    "term": "CASHLITE",
+    "suggested": "CASHIER",
+    "reason": "OCR error: 'CASHLITE' should be 'CASHIER' (v.) — the body says 'To deprive a military officer of his rank and office', which is the verb definition of cashier"
+  },
+  {
+    "type": "flag",
+    "term": "CASTELLAIN",
+    "issue": "Entry CASTELLAIN and entry CASTELLAN/CASTELLAN appear to have identical body text — possible duplicate entries or OCR duplication of headword"
+  },
+  {
+    "type": "flag",
+    "term": "CATALLIS REDDENDIS",
+    "issue": "This entry appears to be a duplicate or fragment of CATALLIS entry — same body text about the obsolete writ for return of chattels"
+  },
+  {
+    "type": "flag",
+    "term": "CANONUM",
+    "issue": "The headword appears to be incomplete or garbled - the entry describes 'Concordia discordantium canonum' (the Decretum Gratiani) but the headword is just 'CANONUM'. The sub-maxim 'Concordia parvum res crescunt...' also seems misplaced here."
+  },
+  {
+    "type": "flag",
+    "term": "CAPIATUR",
+    "issue": "The entry begins with '(Let him be taken for the fine)' in parentheses but the headword CAPIATUR means 'let him be taken' - the 'for the fine' portion may be an OCR artifact or the headword may be incomplete (possibly 'CAPIATUR PRO FINE')"
+  },
+  {
+    "type": "flag",
+    "term": "CAUSES",
+    "issue": "The full headword appears to be 'CAUSES CÉLÈBRES' but 'CÉLÈBRES' is missing from both the term and the body opening"
+  },
+  {
+    "type": "flag",
+    "term": "CENSARIA",
+    "issue": "Body text 'Coor house and land let at a standing rent. well,' appears heavily OCR-damaged; 'Coor' may be 'A farm' and 'well,' is likely 'Cowell.'"
+  },
+  {
+    "type": "headword_review",
+    "term": "CENELLZE",
+    "suggested": "CENELLÆ",
+    "reason": "OCR error in headword: 'ZE' should be 'Æ'"
+  },
+  {
+    "type": "headword_review",
+    "term": "CHOP-OCOHUROH",
+    "suggested": "CHOP-CHURCH",
+    "reason": "OCR error in headword: 'CHOP-OCOHUROH' should be 'CHOP-CHURCH' based on the definition about changing benefices"
+  },
+  {
+    "type": "headword_review",
+    "term": "CHRE",
+    "suggested": "CHRE PLACITANDO",
+    "reason": "The headword appears truncated; the full term based on body content is 'CHRE PLACITANDO'"
+  },
+  {
+    "type": "headword_review",
+    "term": "CIMANDO",
+    "suggested": "CIMANDO",
+    "reason": "Flagging - unclear what CIMANDO refers to; body seems to contain merged content"
+  },
+  {
+    "type": "flag",
+    "term": "CIMANDO",
+    "issue": "Entry body appears to contain a merged maxim 'Non decipitur qui scit se decipi' that belongs to a different entry; the headword CIMANDO itself may be a fragment of 'DE NON DECIMANDO' or similar"
+  },
+  {
+    "type": "headword_review",
+    "term": "CINQUE",
+    "suggested": "CINQUE PORTS",
+    "reason": "The entry discusses the Cinque Ports; the headword appears truncated"
+  },
+  {
+    "type": "headword_review",
+    "term": "CIRC",
+    "suggested": "CIRCUIT OF ACTION",
+    "reason": "The body describes 'Circuit of Action'; the headword appears truncated. Note: there is also a separate CIRCUIT OF ACTION entry."
+  },
+  {
+    "type": "flag",
+    "term": "CIRC",
+    "issue": "This entry appears to be a duplicate or fragment of the CIRCUIT OF ACTION entry; headword may be truncated OCR artifact"
+  },
+  {
+    "type": "headword_review",
+    "term": "CIRCUITUS",
+    "suggested": "CIRCUITUS EST EVITANDUS",
+    "reason": "The headword is truncated; the full maxim headword is 'CIRCUITUS EST EVITANDUS'"
+  },
+  {
+    "type": "flag",
+    "term": "CHOSEN",
+    "issue": "Headword appears to be truncated - should likely be 'CHOSEN FREEHOLDERS' based on the body text describing this New Jersey county board"
+  },
+  {
+    "type": "headword_review",
+    "term": "CLARIFICACIO",
+    "suggested": "CLARIFICATIO",
+    "reason": "The term as given in the body is CLARIFICATIO (Latin); entry headword appears to have OCR damage if it reads differently"
+  },
+  {
+    "type": "headword_review",
+    "term": "COGNATYI",
+    "suggested": "COGNATI",
+    "reason": "OCR error: 'COGNATYI' should be 'COGNATI'"
+  },
+  {
+    "type": "flag",
+    "term": "COH",
+    "issue": "Entry appears to be a severely garbled/incomplete entry, possibly COHAEREDES or similar; body contains repeated text from COGNIZANCE entry"
+  },
+  {
+    "type": "flag",
+    "term": "COERCION",
+    "issue": "Citation 'Radich v. Yutchins' may be OCR error for 'Radich v. Hutchins'"
+  },
+  {
+    "type": "headword_review",
+    "term": "COMMUNILY",
+    "suggested": "COMMUNES",
+    "reason": "Headword is garbled OCR of COMMUNES; body matches COMMUNES definition"
+  },
+  {
+    "type": "headword_review",
+    "term": "COMMANDMERT",
+    "suggested": "COMMANDMENT",
+    "reason": "OCR error in headword: 'COMMANDMERT' should be 'COMMANDMENT'"
+  },
+  {
+    "type": "flag",
+    "term": "CONCERNING, CONCERNED",
+    "issue": "This entry appears to be a duplicate of content already present in the CONCERNING entry; may be a separate entry for 'CONCERNED' that was merged or duplicated"
+  },
+  {
+    "type": "flag",
+    "term": "COMPULSION",
+    "issue": "Citation '81 Ala. 857, I South. &48' appears heavily corrupted by OCR; exact correct citation uncertain"
+  },
+  {
+    "type": "headword_review",
+    "term": "CONSTITUIMOS",
+    "suggested": "CONSTITUIMUS",
+    "reason": "OCR error in headword: 'CONSTITUIMOS' should be 'CONSTITUIMUS'"
+  },
+  {
+    "type": "flag",
+    "term": "CONTRADICTION",
+    "issue": "The body appears incomplete - it reads 'phrase of which the parts are expressly inconsistent' but is missing an introductory phrase like 'A contradiction in terms is a'"
+  },
+  {
+    "type": "headword_review",
+    "term": "CONTENTMENT",
+    "suggested": "CONTENTEMENT",
+    "reason": "The body begins with 'CONTENTEMENT' suggesting the actual headword should be CONTENTEMENT, which is the Law French term defined"
+  },
+  {
+    "type": "headword_review",
+    "term": "CONTINENOCIA",
+    "suggested": "CONTINENCIA",
+    "reason": "OCR error: 'O' inserted making 'CONTINENOCIA' instead of 'CONTINENCIA'"
+  },
+  {
+    "type": "flag",
+    "term": "CONTRAVENING",
+    "issue": "Headword appears incomplete - should likely be 'CONTRAVENING EQUITY' based on definition content"
+  },
+  {
+    "type": "headword_review",
+    "term": "COOPERIO",
+    "suggested": "COOPERATION",
+    "reason": "Entry body discusses cooperation in economics and patent law, not 'cooperio'; headword appears to be OCR/truncation error"
+  },
+  {
+    "type": "flag",
+    "term": "COOPERIO",
+    "issue": "Headword 'COOPERIO' appears to be a corruption of 'COOPERATION' based on body content, but could also be a separate Latin term entry that was merged with the COOPERATION entry"
+  },
+  {
+    "type": "flag",
+    "term": "CORPORATE",
+    "issue": "Body is heavily garbled with OCR errors throughout citations and sub-entries, including 'Audinham', 'gaara', 'Bag crane', 'oe 24', 'p...' truncation — multiple OCR errors in sub-entries that are difficult to fully reconstruct"
+  },
+  {
+    "type": "headword_review",
+    "term": "CORREOCTOR",
+    "suggested": "CORRECTOR",
+    "reason": "OCR error in headword: 'CORREOCTOR' should be 'CORRECTOR'; this appears to be a duplicate entry for CORRECTOR OF THE STAPLE"
+  },
+  {
+    "type": "flag",
+    "term": "COTTON",
+    "issue": "Headword appears incomplete; the body discusses 'Receipts given for each bale of cotton' suggesting the headword should be 'COTTON RECEIPTS' or similar"
+  },
+  {
+    "type": "flag",
+    "term": "COUCHER",
+    "issue": "Body text appears truncated — ends with '(87 Edw.' without completing the citation or definition"
+  },
+  {
+    "type": "headword_review",
+    "term": "CREMENTUM",
+    "suggested": "CREMENTUM COMITATUS",
+    "reason": "The headword is incomplete; the full headword should be CREMENTUM COMITATUS as used in the body"
+  },
+  {
+    "type": "flag",
+    "term": "CRASSUS",
+    "issue": "The citation '37 am Rep. JAG.' appears heavily OCR-damaged; 'JAG.' may be a garbled page number that cannot be confidently restored without the original source"
+  },
+  {
+    "type": "flag",
+    "term": "CRIMEN FALSI",
+    "issue": "Entry appears to be cut off at 'Ersk. Inat. 4,' — body may be truncated"
+  },
+  {
+    "type": "flag",
+    "term": "CREPUSCULUM",
+    "issue": "The Latin maxim 'Orescente maliti& oreseere debet et pona' appears merged into the body; OCR also damaged: 'maliti&' likely 'malitia', 'oreseere' likely 'crescere', 'pona' likely 'poena'"
+  },
+  {
+    "type": "flag",
+    "term": "CURSITOR",
+    "issue": "The definition describes the Cursitor as 'an officer of the court of exchequer... appointed by patent under the great seal to be one of the barons of the exchequer' — this appears to be the wrong definition; Cursitors were clerks of chancery who drafted common-form writs, and a separate entry CURSITORS immediately follows with the correct definition"
+  },
+  {
+    "type": "headword_review",
+    "term": "COURTS OF ASSIZE AND NISI PRIUS",
+    "suggested": "COURTS OF CINQUE PORTS",
+    "reason": "The entry is actually the definition for COURTS OF CINQUE PORTS; the headword appears to be an OCR/merge error from adjacent page content"
+  },
+  {
+    "type": "flag",
+    "term": "COUNTY",
+    "issue": "The beginning of the entry body appears garbled: 'The name given to the prinwhich in former times enjoyed especial privicipal subdivisions' - seems like OCR merged two sentences; should likely read 'The name given to the principal subdivisions of the kingdom of England'"
+  },
+  {
+    "type": "headword_review",
+    "term": "CUTH",
+    "suggested": "CUTH / COUTH",
+    "reason": "Entry covers both CUTH and COUTH as headwords"
+  },
+  {
+    "type": "headword_review",
+    "term": "CYROCE",
+    "suggested": "CYRCE",
+    "reason": "Duplicate entry of CYRCE with misspelled headword"
+  }
+]

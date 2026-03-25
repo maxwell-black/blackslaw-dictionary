@@ -1,0 +1,250 @@
+[
+  {
+    "type": "headword_review",
+    "term": "ACOCESSARY",
+    "suggested": "ACCESSARY",
+    "reason": "OCR error in headword: 'ACOCESSARY' should be 'ACCESSARY' (accessary to adultery)"
+  },
+  {
+    "type": "headword_review",
+    "term": "ACOCRESCERE",
+    "suggested": "ACCRESCERE",
+    "reason": "OCR error in headword: 'ACOCRESCERE' should be 'ACCRESCERE'"
+  },
+  {
+    "type": "headword_review",
+    "term": "ACOIDERE",
+    "suggested": "ACCIDERE",
+    "reason": "OCR error in headword: 'ACOIDERE' should be 'ACCIDERE'"
+  },
+  {
+    "type": "headword_review",
+    "term": "ACOION",
+    "suggested": "ACCION",
+    "reason": "OCR error in headword: 'ACOION' should be 'ACCION' (Spanish law term for right of action)"
+  },
+  {
+    "type": "headword_review",
+    "term": "ACOROACH",
+    "suggested": "ACROACH",
+    "reason": "OCR error in headword: 'ACOROACH' should be 'ACROACH' (duplicate entry of ACROACH exists)"
+  },
+  {
+    "type": "headword_review",
+    "term": "ACOROOCHER",
+    "suggested": "ACROOCHER",
+    "reason": "OCR error in headword: 'ACOROOCHER' should be 'ACROOCHER'"
+  },
+  {
+    "type": "headword_review",
+    "term": "ABSQUE HOO",
+    "suggested": "ABSQUE HOC",
+    "reason": "OCR error: 'HOO' should be 'HOC' (Latin 'without this')"
+  },
+  {
+    "type": "headword_review",
+    "term": "ACCESSORY OCONTRAOT",
+    "suggested": "ACCESSORY CONTRACT",
+    "reason": "OCR error: 'OCONTRAOT' should be 'CONTRACT'"
+  },
+  {
+    "type": "flag",
+    "term": "ABUTTALS",
+    "issue": "Entry body contains 'AD ETIAM' but the AC entry references 'AC ETIAM' - the merged embedded entry may be 'AC ETIAM' not 'AD ETIAM'; needs verification of correct headword"
+  },
+  {
+    "type": "flag",
+    "term": "ACCOUNTABLE",
+    "issue": "Definition reads 'An instrument acknowledging the receipt of money...' which sounds like a definition for 'ACCOUNTABLE RECEIPT' or similar term, not 'ACCOUNTABLE' alone. May be truncated or wrong headword."
+  },
+  {
+    "type": "flag",
+    "term": "ACCUMULATED",
+    "issue": "Entry headword appears to be a fragment - likely should be 'ACCUMULATED SURPLUS' with body text, but a separate ACCUMULATED SURPLUS entry also exists. The body of ACCUMULATED contains text from ACCRETION entry followed by ACCUMULATED SURPLUS definition, suggesting serious OCR merge issue."
+  },
+  {
+    "type": "headword_review",
+    "term": "ACTON",
+    "suggested": "ACTON BURNELL, STATUTE OF",
+    "reason": "The headword 'ACTON' is incomplete; the full headword should be 'ACTON BURNELL, STATUTE OF' as indicated by the body text"
+  },
+  {
+    "type": "headword_review",
+    "term": "ABBAOCY",
+    "suggested": "ABBACY",
+    "reason": "OCR error: 'ABBAOCY' should be 'ABBACY'"
+  },
+  {
+    "type": "flag",
+    "term": "AA",
+    "issue": "Entry body appears to be garbled dictionary entries about 'Time' (time of memory, time-policy, etc.) that do not belong under headword 'AA'. This appears to be a severely misplaced block of text."
+  },
+  {
+    "type": "flag",
+    "term": "AB",
+    "issue": "The body describes 'An officer having charge of acta' which corresponds to the headword 'A ACTIS' not 'AB'. The entry appears to be for 'A ACTIS' merged under wrong headword."
+  },
+  {
+    "type": "headword_review",
+    "term": "A CONSILHOIS",
+    "suggested": "A CONSILIIS",
+    "reason": "OCR error in headword: 'CONSILHOIS' should be 'CONSILIIS'"
+  },
+  {
+    "type": "headword_review",
+    "term": "AD MEDIUM FILUM AQUI",
+    "suggested": "AD MEDIUM FILUM AQUÆ",
+    "reason": "OCR error: 'AQUI' should be 'AQUÆ' (Latin for 'of the water')"
+  },
+  {
+    "type": "headword_review",
+    "term": "ADIEU ADIEU, UL",
+    "suggested": "ADIEU",
+    "reason": "Duplicate/corrupted headword; should be 'ADIEU' - the 'ADIEU, UL' portion appears to be OCR corruption of a page header or duplicate"
+  },
+  {
+    "type": "headword_review",
+    "term": "ADJOURNED",
+    "suggested": "ADJOURNED SUMMONS",
+    "reason": "The body describes 'a summons taken out in chambers' - the headword appears truncated/incomplete; should be 'ADJOURNED SUMMONS'"
+  },
+  {
+    "type": "headword_review",
+    "term": "ADJUNCTUM",
+    "suggested": "ADJUNCTUM ACCESSORIUM",
+    "reason": "The body contains the full term 'ADJUNCTUM ACCESSORIUM' as a sub-entry header; this entry appears to be a duplicate/fragment of ADJUNCTUM ACCESSORIUM"
+  },
+  {
+    "type": "flag",
+    "term": "ADMITTENDO",
+    "issue": "Headword appears incomplete — likely should be 'ADMITTENDO IN SOCIUM' based on context about associating knights to justices of assize"
+  },
+  {
+    "type": "flag",
+    "term": "ADMONITIO",
+    "issue": "Headword appears incomplete — likely should be 'ADMONITIO TRINA' based on the body describing a 'triple or threefold warning'"
+  },
+  {
+    "type": "flag",
+    "term": "ADULTERY",
+    "issue": "Citation 'Civil Code Cal. § 98' may be an OCR error for a different section number"
+  },
+  {
+    "type": "headword_review",
+    "term": "ALZ",
+    "suggested": "AISLE",
+    "reason": "Body describes church aisles; 'ALZ' is likely OCR corruption of 'AISLE'"
+  },
+  {
+    "type": "headword_review",
+    "term": "AMICUS",
+    "suggested": "AMICUS CURIAE",
+    "reason": "The headword is incomplete; the full term is AMICUS CURIAE as shown in the body"
+  },
+  {
+    "type": "headword_review",
+    "term": "ANCIENT Y",
+    "suggested": "ANCIENTY",
+    "reason": "Space inserted by OCR into the headword; should be 'ANCIENTY'"
+  },
+  {
+    "type": "headword_review",
+    "term": "AOCCEDAS",
+    "suggested": "ACCEDAS",
+    "reason": "The headword 'AOCCEDAS' appears to be a malformed version of 'ACCEDAS' (as in 'Accedas ad Vice Comitem')"
+  },
+  {
+    "type": "headword_review",
+    "term": "AONTEMPT",
+    "suggested": "CONTEMPT",
+    "reason": "The headword 'AONTEMPT' is clearly a mangled version of 'CONTEMPT' (the body discusses 'CONTEMPT OF CONGRESS')"
+  },
+  {
+    "type": "headword_review",
+    "term": "APNCGA",
+    "suggested": "APNOEA",
+    "reason": "The headword is severely garbled; the body describes difficulty breathing/respiration which matches 'Apnoea' (also spelled Apnea)"
+  },
+  {
+    "type": "headword_review",
+    "term": "APOORISARIUS",
+    "suggested": "APOCRISARIUS",
+    "reason": "The headword 'APOORISARIUS' is a misspelling/OCR error; the body refers to 'Apocrisarius' and 'APOCRISARIUS' is the correct term"
+  },
+  {
+    "type": "flag",
+    "term": "ANUELS",
+    "issue": "Body starts with '&. Fr.' which appears to be an OCR error for 'L. Fr.' (Law French), as Anuels is a Law French term for Year Books"
+  },
+  {
+    "type": "flag",
+    "term": "ANTIQUA",
+    "issue": "Headword may be incomplete; the full term appears to be 'ANTIQUA STATUTA' based on the body which mentions it is 'Also called Vetera Statuta'"
+  },
+  {
+    "type": "flag",
+    "term": "APPENSURA",
+    "issue": "Body text appears scrambled: 'Payment of money by Cowell. weight instead of by count.' - 'Cowell.' appears mid-sentence, likely OCR/layout error displacing citation"
+  },
+  {
+    "type": "flag",
+    "term": "APPERTAIN",
+    "issue": "Body text appears broken: 'To belong to; to have See APrelation to; to be appurtenant to. PURTENANT.' - cross-reference to APPURTENANT is garbled as 'See APrelation to' and 'PURTENANT'"
+  },
+  {
+    "type": "headword_review",
+    "term": "ARD OF THE UNIVERSITIES",
+    "suggested": "COURT OF THE UNIVERSITIES",
+    "reason": "The headword is missing 'COURT OF THE' — the entry describes a court for scholars at Oxford or Cambridge, and the correct term is 'Court of the Universities'"
+  },
+  {
+    "type": "flag",
+    "term": "APTA",
+    "issue": "This entry appears to be a duplicate header/stub for APTA VIBRO — the body of APTA contains the full definition of APTA VIBRO, suggesting APTA alone is not a valid standalone entry but rather OCR split the compound headword"
+  },
+  {
+    "type": "flag",
+    "term": "APUD",
+    "issue": "This entry appears to be a duplicate header/stub for APUD ACTA — the body of APUD contains the full definition of APUD ACTA, suggesting the compound headword was split by OCR"
+  },
+  {
+    "type": "flag",
+    "term": "AQUAE",
+    "issue": "This entry appears to duplicate AQUA DUCTUS — the body is identical to AQUA DUCTUS, suggesting OCR mis-read the headword 'AQUAE DUCTUS' as 'AQUAE' with body 'DUCTUS. In the civil law...'"
+  },
+  {
+    "type": "headword_review",
+    "term": "ARSZ ET PENSATZ",
+    "suggested": "ARSE ET PENSATA",
+    "reason": "OCR error: Latin term should be 'ARSE ET PENSATA' meaning 'burnt and weighed'"
+  },
+  {
+    "type": "headword_review",
+    "term": "ARTICLES ARTICLES, WORDS OF",
+    "suggested": "ARTICLES, WORDS OF",
+    "reason": "Duplicate word 'ARTICLES' in headword due to OCR/formatting error"
+  },
+  {
+    "type": "headword_review",
+    "term": "ASTITRARIUS",
+    "suggested": "ASTITRARIUS HARES",
+    "reason": "The headword appears to be a duplicate/fragment; looking at the body which says 'ASTITRARIUS HARES. An heir ap parent...' this seems to be the same entry as ASTITRARIUS HAES below, suggesting OCR confusion"
+  },
+  {
+    "type": "headword_review",
+    "term": "ASTITRARIUS HAES",
+    "suggested": "ASTITRARIUS HÆRES",
+    "reason": "OCR error: 'HAES' should be 'HÆRES' (Latin for heir)"
+  },
+  {
+    "type": "headword_review",
+    "term": "ASTRICT",
+    "suggested": "ASTRIOT",
+    "reason": "Based on context from ASTRER entry which mentions 'ASTRIOT. In Scotch law. To assign to a particular mill.' - the headword ASTRICT appears to be a separate entry ASTRIOT"
+  },
+  {
+    "type": "flag",
+    "term": "AUDITA",
+    "issue": "Entry appears to be a duplicate/partial of AUDITA QUERELA - the headword 'AUDITA' seems like an OCR artifact where 'AUDITA QUERELA' was split into two entries"
+  }
+]

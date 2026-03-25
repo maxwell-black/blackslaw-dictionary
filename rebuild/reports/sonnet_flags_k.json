@@ -1,0 +1,54 @@
+[
+  {
+    "type": "headword_review",
+    "term": "KENILWORTH",
+    "suggested": "KENILWORTH DICTUM",
+    "reason": "Entry appears to describe the Dictum/Edict of Kenilworth, not just 'Kenilworth'"
+  },
+  {
+    "type": "headword_review",
+    "term": "KENNING",
+    "suggested": "KENNING TO A TERCE",
+    "reason": "Entry describes 'kenning to a terce' in Scotch law"
+  },
+  {
+    "type": "headword_review",
+    "term": "KENTUCKY",
+    "suggested": "KENTUCKY RESOLUTIONS",
+    "reason": "Entry describes the Kentucky Resolutions, headword is incomplete"
+  },
+  {
+    "type": "headword_review",
+    "term": "KING'S",
+    "suggested": "KING'S EVIDENCE",
+    "reason": "Headword is incomplete; entry describes 'king's evidence'"
+  },
+  {
+    "type": "headword_review",
+    "term": "KINGS-AT-ABRMS",
+    "suggested": "KINGS-AT-ARMS",
+    "reason": "OCR error in headword: 'ABRMS' should be 'ARMS'"
+  },
+  {
+    "type": "headword_review",
+    "term": "KINTAL",
+    "suggested": "KINTAL",
+    "reason": "Headword appears correct but body starts with 'or KINTLE.' suggesting the full headword should be 'KINTAL, or KINTLE'"
+  },
+  {
+    "type": "flag",
+    "term": "KINTLIDGE",
+    "issue": "Body appears truncated - contains only 'A ship's ballast. See' with no continuation"
+  },
+  {
+    "type": "flag",
+    "term": "KEELHALE",
+    "issue": "Duplicate entry - KEELHALE and 'KEELHALE KEELHALE, KEELHAUL' appear to be the same entry duplicated with a garbled headword"
+  },
+  {
+    "type": "headword_review",
+    "term": "KEELHALE KEELHALE, KEELHAUL",
+    "suggested": "KEELHAUL",
+    "reason": "Headword is garbled duplicate; correct term is KEELHAUL"
+  }
+]

@@ -1,0 +1,1818 @@
+{
+  "letter": "H",
+  "entries_reviewed": 471,
+  "corrections": [
+    {
+      "type": "trim",
+      "term": "HAIL",
+      "trim_at": "HAILWORFOLK\nHAILWORFOLK",
+      "reason": "HAILWORFOLK entry embedded at end of HAIL entry body"
+    },
+    {
+      "type": "trim",
+      "term": "HAILL",
+      "trim_at": "HAILWOREFOLKE, (i. ¢., holywork",
+      "reason": "HAILWOREFOLKE entry embedded at end of HAILL entry body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HAILL",
+      "old": "i. ¢.,",
+      "new": "i. e.,",
+      "reason": "OCR error: '¢.' should be 'e.' in abbreviation 'i. e.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HAILWOREFOLK",
+      "old": "(f. ¢., holyworkfolk.)",
+      "new": "(i. e., holyworkfolk.)",
+      "reason": "OCR error: 'f. ¢.' should be 'i. e.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HAIL",
+      "old": "(f. e., holyworkfolk.)",
+      "new": "(i. e., holyworkfolk.)",
+      "reason": "OCR error: 'f. e.' should be 'i. e.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HALIFAX",
+      "old": "in tle case of persons",
+      "new": "in the case of persons",
+      "reason": "OCR error: 'tle' should be 'the'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HALIGEMOT",
+      "old": "(conventus aulz,)",
+      "new": "(conventus aulæ,)",
+      "reason": "OCR error: 'aulz' should be 'aulæ' (Latin genitive of aula)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HALYMOTE",
+      "old": "A holy or ecclestastical",
+      "new": "A holy or ecclesiastical",
+      "reason": "OCR error: 'ecclestastical' should be 'ecclesiastical'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HALYMOTE",
+      "old": "for regniating the bakers",
+      "new": "for regulating the bakers",
+      "reason": "OCR error: 'regniating' should be 'regulating'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HALF",
+      "old": "A motety; one of two equal parts",
+      "new": "A moiety; one of two equal parts",
+      "reason": "OCR error: 'motety' should be 'moiety'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HALF",
+      "old": "Wood vy. Mitcham,",
+      "new": "Wood v. Mitcham,",
+      "reason": "OCR error: 'vy.' should be 'v.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HALF",
+      "old": "Half-kineg. In Saxon law. Halfking,",
+      "new": "Half-king. In Saxon law. Half-king,",
+      "reason": "OCR error: 'Half-kineg' should be 'Half-king'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HALF",
+      "old": "Crabb,. Law, 28",
+      "new": "Crabb, Law, 28",
+      "reason": "OCR error: spurious period after 'Crabb,'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HALF",
+      "old": "—Half pilotage. mpensation for services which a\n pilot has put himself in readiness to perform,\n y labor,",
+      "new": "—Half pilotage. Compensation for services which a pilot has put himself in readiness to perform, by labor,",
+      "reason": "OCR error: 'mpensation' should be 'Compensation' and 'y labor' should be 'by labor'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HALF",
+      "old": "Hallifax, Civil\n w, b. 8, « 9, no. 25",
+      "new": "Hallifax, Civil Law, b. 3, c. 9, no. 25",
+      "reason": "OCR errors: 'w' should be 'Law', 'b. 8' should be 'b. 3', '«' should be 'c.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HALYWERCFOLK",
+      "old": "In old English Jaw.",
+      "new": "In old English law.",
+      "reason": "OCR error: 'Jaw' should be 'law'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HAND-GRITH",
+      "old": "In old BEnmglish law.",
+      "new": "In old English law.",
+      "reason": "OCR error: 'BEnmglish' should be 'English'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HANDSALE",
+      "old": "(venditio per\n mutuam manum complezionem.)",
+      "new": "(venditio per mutuam manum completionem.)",
+      "reason": "OCR error: 'complezionem' should be 'completionem'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HANDWRITING",
+      "old": "writing peculjar to a person",
+      "new": "writing peculiar to a person",
+      "reason": "OCR error: 'peculjar' should be 'peculiar'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HANG",
+      "old": "To remain andetermined.",
+      "new": "To remain undetermined.",
+      "reason": "OCR error: 'andetermined' should be 'undetermined'"
+    },
+    {
+      "type": "trim",
+      "term": "HANG",
+      "trim_at": "HANGING\npending; during the pendency",
+      "reason": "HANGING entry content merged into HANG entry body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HANSE",
+      "old": "e gagphiek confederacy thus formed",
+      "new": "The gigantic confederacy thus formed",
+      "reason": "OCR error: 'e gagphiek' is garbled text"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HANSE",
+      "old": "NUM —, e towns, laws of the.",
+      "new": "NUM.—Hanse towns, laws of the.",
+      "reason": "OCR error: missing 'Hanse' and garbled punctuation"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HANSE",
+      "old": "Hanseatic. ertaining to a hanse",
+      "new": "Hanseatic. Pertaining to a hanse",
+      "reason": "OCR error: 'ertaining' should be 'Pertaining'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HANAPER",
+      "old": "8 Bl. Comm. 49.",
+      "new": "3 Bl. Comm. 49.",
+      "reason": "OCR error: '8' should be '3'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HALLUCINATION",
+      "old": "w...",
+      "new": "",
+      "reason": "Truncated text at end of entry"
+    },
+    {
+      "type": "trim",
+      "term": "HEBDOMADIUS",
+      "trim_at": "<A week's man; the",
+      "reason": "Body starts with '<' character which is an OCR artifact, not actual content"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HEBDOMADIUS",
+      "old": "<A week's man;",
+      "new": "A week's man;",
+      "reason": "Spurious '<' character at start of body"
+    },
+    {
+      "type": "trim",
+      "term": "HEC",
+      "trim_at": "HEC EST CONVENTIO. Lat.",
+      "reason": "The entry term is 'HEC' but the body contains the full headword 'HEC EST CONVENTIO' — the headword itself is incomplete"
+    },
+    {
+      "type": "headword",
+      "term": "HEC",
+      "correct": "HEC EST CONVENTIO",
+      "reason": "The actual headword should be 'HEC EST CONVENTIO' as shown in the body"
+    },
+    {
+      "type": "trim",
+      "term": "HECOAGIUM",
+      "trim_at": "A device for catching",
+      "reason": "Body contains merged fragment 'A device for catching / St. 23 Hen. VIII.' which is a remnant of the HEBBING-WEARS entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HEIR-LOOMS",
+      "old": "euch as deer in a park",
+      "new": "such as deer in a park",
+      "reason": "OCR error: 'euch' should be 'such'"
+    },
+    {
+      "type": "trim",
+      "term": "HEIRDOM",
+      "trim_at": ". HEIRESS. A female heir",
+      "reason": "Body contains merged HEIRESS entry starting with '. HEIRESS.'"
+    },
+    {
+      "type": "trim",
+      "term": "HEIRSHIP",
+      "trim_at": "HEIRSHIP MOVABLES. In Scotch",
+      "reason": "Body contains embedded HEIRSHIP MOVABLES entry which should be a separate entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HEIRS",
+      "old": "where it is intended to pags a fee",
+      "new": "where it is intended to pass a fee",
+      "reason": "OCR error: 'pags' should be 'pass'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HELM",
+      "old": "a cont of arms bearing a",
+      "new": "a coat of arms bearing a",
+      "reason": "OCR error: 'cont' should be 'coat'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HEMIPLEGIA",
+      "old": "crossed aneasthesta",
+      "new": "crossed anaesthesia",
+      "reason": "OCR error: 'aneasthesta' should be 'anaesthesia'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HEMIPLEGIA",
+      "old": "much imired. See Baughman v. Baughman, 82 Kan.\nFes. 4 Pac. 1008\n'e",
+      "new": "much impaired. See Baughman v. Baughman, 32 Kan. 295, 4 Pac. 1008.",
+      "reason": "OCR errors: 'imired' should be 'impaired', garbled citation with 'Fes.' and trailing characters"
+    },
+    {
+      "type": "trim",
+      "term": "HEMIPLEGIA",
+      "trim_at": "HEMOLDBORH, or HELMELBORCH.",
+      "reason": "Body contains merged HEMOLDBORH entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HEMIPLEGIA",
+      "old": "laws of the Oonqueror",
+      "new": "laws of the Conqueror",
+      "reason": "OCR error: 'Oonqueror' should be 'Conqueror'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HENCEFORTH",
+      "old": "<A word of futurity",
+      "new": "A word of futurity",
+      "reason": "Spurious '<' character at start of body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HENCEFORTH",
+      "old": "but excludes ali the past",
+      "new": "but excludes all the past",
+      "reason": "OCR error: 'ali' should be 'all'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HENCEFORTH",
+      "old": "Thomson vy. American Surety Co.",
+      "new": "Thomson v. American Surety Co.",
+      "reason": "OCR error: 'vy.' should be 'v.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HENCEFORTH",
+      "old": "qT Pick. (Mass.) 128",
+      "new": "47 Pick. (Mass.) 128",
+      "reason": "OCR error: 'qT' should be '47'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HENFARE",
+      "old": "A fine for filght on account",
+      "new": "A fine for flight on account",
+      "reason": "OCR error: 'filght' should be 'flight'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HENGWYTE",
+      "old": "Fieta, lib. 1, ¢ 47, § 17",
+      "new": "Fleta, lib. 1, c. 47, § 17",
+      "reason": "OCR error: 'Fieta' should be 'Fleta', '¢' should be 'c.'"
+    },
+    {
+      "type": "trim",
+      "term": "HENRICUS",
+      "trim_at": "HEORDFATE, or HUDEFZST.",
+      "reason": "Body contains merged HEORDFATE entry"
+    },
+    {
+      "type": "headword",
+      "term": "HEORDFZATE",
+      "correct": "HEORDFATE",
+      "reason": "Headword appears garbled; consistent with 'HEORDFATE' as shown in the HENRICUS merged entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HEPTARCHY",
+      "old": "In the yenr 560",
+      "new": "In the year 560",
+      "reason": "OCR error: 'yenr' should be 'year'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HEPTARCHY",
+      "old": "seven different monarchies had been furmed",
+      "new": "seven different monarchies had been formed",
+      "reason": "OCR error: 'furmed' should be 'formed'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HERBAGE",
+      "old": "which cousists in the right",
+      "new": "which consists in the right",
+      "reason": "OCR error: 'cousists' should be 'consists'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HERBAGE",
+      "old": "Simpson y. Coe, 4 N. H. 803",
+      "new": "Simpson v. Coe, 4 N. H. 303",
+      "reason": "OCR error: 'y.' should be 'v.'"
+    },
+    {
+      "type": "trim",
+      "term": "HERBAGIUM",
+      "trim_at": "HERBENGER, or HARBINGER.",
+      "reason": "Body contains merged HERBENGER entry"
+    },
+    {
+      "type": "trim",
+      "term": "HERBERGATUS",
+      "trim_at": "HERBERY, or HERBURY.",
+      "reason": "Body contains merged HERBERY entry"
+    },
+    {
+      "type": "trim",
+      "term": "HERBERY",
+      "trim_at": "HERCIA\nHERCIA.",
+      "reason": "Body contains merged HERCIA entry with duplicated headword"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HERCIA",
+      "old": "Fileta, lib. 2, c. 77",
+      "new": "Fleta, lib. 2, c. 77",
+      "reason": "OCR error: 'Fileta' should be 'Fleta'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HERCIA",
+      "old": "Fleta, lib. 2, ¢ 17",
+      "new": "Fleta, lib. 2, c. 17",
+      "reason": "OCR error: '¢' should be 'c.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HERCISCUNDA",
+      "old": "Actio familia herctecunde",
+      "new": "Actio familiae erciscundae",
+      "reason": "OCR error garbling the Latin legal term"
+    },
+    {
+      "type": "trim",
+      "term": "HERCISCUNDA",
+      "trim_at": "HERD, ». An indefinite",
+      "reason": "Body contains merged HERD entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HARBOR",
+      "old": "50 L. 2d 16",
+      "new": "50 L. Ed. 16",
+      "reason": "OCR error: '2d' should be 'Ed.' in L.Ed. citation"
+    },
+    {
+      "type": "trim",
+      "term": "HARNESS",
+      "trim_at": "_HARO, HARRON. Fr. In Norman",
+      "reason": "HARO, HARRON entry is merged into HARNESS body after underscore"
+    },
+    {
+      "type": "trim",
+      "term": "HAUBER",
+      "trim_at": "A green plot in\nHAUGH, or HOWGH.",
+      "reason": "HAUGH/HOWGH entry merged into HAUBER body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HAUKER",
+      "old": "(ass.) 495.",
+      "new": "(Mass.) 495.",
+      "reason": "OCR error: 'ass.' should be 'Mass.' for Massachusetts"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HAUKER",
+      "old": "Ind. 8 N. E. 609",
+      "new": "Ind. 502, 8 N. E. 609",
+      "reason": "OCR dropped '502,' from the citation, visible in HAWKER entry"
+    },
+    {
+      "type": "flag",
+      "term": "HAUKER",
+      "issue": "HAUKER appears to be a duplicate/OCR variant of HAWKER — likely headword should be HAWKER"
+    },
+    {
+      "type": "trim",
+      "term": "HAWBERK",
+      "trim_at": "In old English law.\nHAWGH, HOWGH.",
+      "reason": "HAWGH/HOWGH entry merged into HAWBERK body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HAWKER",
+      "old": "Com. v. O\n(Mass.) -495.",
+      "new": "Com. v. Ober, 12 Cush. (Mass.) 495.",
+      "reason": "OCR garbled 'Com. v. Ober, 12 Cush.' across lines"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HAWKER",
+      "old": "ents v. Casper, 4 Wyo. 494\n Pac. 472;",
+      "new": "ents v. Casper, 4 Wyo. 494, 35 Pac. 472;",
+      "reason": "OCR dropped '35' from citation"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HAWKER",
+      "old": "8 N. B. 609",
+      "new": "8 N. E. 609",
+      "reason": "OCR error: 'B.' should be 'E.' in N.E. reporter citation"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HAWKER",
+      "old": "28 South. 119",
+      "new": "23 South. 119",
+      "reason": "HAUKER entry shows '23 South. 119' for same citation"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HAUSTUS",
+      "old": "in which the ¢tcr,",
+      "new": "in which the iter,",
+      "reason": "OCR garbled 'iter' (Latin: right of way) as '¢tcr'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HASTA",
+      "old": "\"haste subjicere\"",
+      "new": "\"hastae subjicere\"",
+      "reason": "OCR dropped 'ae' from 'hastae' (Latin genitive of hasta)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HAZARD",
+      "old": ". 1. In old English law. An\nlawful game",
+      "new": "1. In old English law. An unlawful game",
+      "reason": "OCR dropped 'un' from 'unlawful'; leading period is spurious"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HAZARD",
+      "old": "Cheek v. Com., 100 Ky. 1, 378.\nW. 152",
+      "new": "Cheek v. Com., 100 Ky. 1, 37 S.W. 152",
+      "reason": "OCR broke '37 S.W. 152' across lines and dropped 'S.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HAZARD",
+      "old": "12 0. ©. A. 531",
+      "new": "12 C. C. A. 531",
+      "reason": "OCR garbled 'C. C. A.' as '0. ©. A.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HAZARDOUS",
+      "old": "man whose peenvatios exposes him to special\nor unusual peri ous ne ence.\nSee NEGLIGENCE. wig",
+      "new": "man whose occupation exposes him to special or unusual perils.—Hazardous negligence. See NEGLIGENCE.",
+      "reason": "OCR garbled 'occupation' as 'peenvatios', 'perils' as 'peri ous', and merged the cross-reference"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HEALGEMOTE",
+      "old": "A\nan ecclesiastical court.\ncourt-baron;",
+      "new": "A court-baron; an ecclesiastical court.",
+      "reason": "OCR scrambled word order in the definition"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HEALTHY",
+      "old": "pecu-\nHarly susceptible or liable to disease or ce}\nily ailment.",
+      "new": "peculiarly susceptible or liable to disease or bodily ailment.",
+      "reason": "OCR broke 'peculiarly' and garbled 'bodily'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HEARSAY",
+      "old": "Hopt v. Utah, 110\nU. 8S. 574",
+      "new": "Hopt v. Utah, 110 U. S. 574",
+      "reason": "OCR error: '8S.' should be 'S.' in U.S. citation"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HEARSAY",
+      "old": "if given ky the",
+      "new": "if given by the",
+      "reason": "OCR error: 'ky' should be 'by'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HEAT",
+      "old": "17 8.\nW. 171",
+      "new": "17 S. W. 171",
+      "reason": "OCR error: '8.' should be 'S.' in S.W. reporter citation"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HAVE",
+      "old": "hab\ncndum",
+      "new": "habendum",
+      "reason": "OCR broke 'habendum' in 'habendum et tenendum'"
+    },
+    {
+      "type": "trim",
+      "term": "H",
+      "trim_at": "HABE, or HAVE. Lat. A form of",
+      "reason": "Entry for 'H' contains multiple embedded dictionary entries starting with HABE, HABEAS CORPORA JURATORUM, and abbreviation entries that are separate headwords"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HABEAS",
+      "old": "enphatic words",
+      "new": "emphatic words",
+      "reason": "OCR error: 'enphatic' should be 'emphatic'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HABEAS",
+      "old": "habcas corpus ad subjiciendum",
+      "new": "habeas corpus ad subjiciendum",
+      "reason": "OCR error: 'habcas' should be 'habeas'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HABEAS",
+      "old": "constitutiona] guaranty",
+      "new": "constitutional guaranty",
+      "reason": "OCR error: ']' should be 'l'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HABEAS",
+      "old": "Habeas Pd toed A;",
+      "new": "\"Habeas Corpus,\" A;",
+      "reason": "OCR garbled text for citation reference"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HABEAS",
+      "old": "rjury in another county",
+      "new": "perjury in another county",
+      "reason": "OCR error: 'rjury' should be 'perjury'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HABEAS",
+      "old": "Haeas corpus ad faciendum",
+      "new": "Habeas corpus ad faciendum",
+      "reason": "OCR error: 'Haeas' should be 'Habeas'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HABEAS",
+      "old": "Ex\nrte Bollman",
+      "new": "Ex parte Bollman",
+      "reason": "OCR error: 'rte' is a broken 'parte'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HABEAS",
+      "old": "2 LL. Ed. 554",
+      "new": "2 L. Ed. 554",
+      "reason": "OCR error: 'LL.' should be 'L.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HABEAS",
+      "old": "abeas corpus ad prosequendum",
+      "new": "Habeas corpus ad prosequendum",
+      "reason": "OCR error: missing initial 'H'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HABEAS",
+      "old": "to remove &\nprisoner in order to prossonte in the proper\njurisdiction wherein the fact was committed.\nComm. 130.—Habeas corpus ad re~\nondendum.",
+      "new": "to remove a prisoner in order to prosecute in the proper jurisdiction wherein the fact was committed. 3 Bl. Comm. 130.—Habeas corpus ad respondendum.",
+      "reason": "OCR errors: '&' for 'a', 'prossonte' for 'prosecute', broken heading 're~\nondendum' for 'respondendum', missing citation prefix"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HABEAS",
+      "old": "jidement against him",
+      "new": "judgment against him",
+      "reason": "OCR error: 'jidement' should be 'judgment'"
+    },
+    {
+      "type": "trim",
+      "term": "HABEAS",
+      "trim_at": "An abbreviation for house of lords",
+      "reason": "Stray text 'An abbreviation for house of lords.' appears mid-entry, likely OCR bleed from another entry"
+    },
+    {
+      "type": "trim",
+      "term": "HABENDIS",
+      "trim_at": "writ for the restoring of lands",
+      "reason": "A second incomplete entry about a writ for restoring lands is merged into the HABENDIS entry without a headword"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HABENDUM",
+      "old": "Miller v. Graham.\n47 8. ©. 288, 25 8S. B. 165",
+      "new": "Miller v. Graham, 47 S. C. 288, 25 S. E. 165",
+      "reason": "OCR errors: '8.' for 'S.', '©.' for 'C.', '8S.' for 'S.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HABERE",
+      "old": "tenere,\n{to hdld,)",
+      "new": "tenere, (to hold,)",
+      "reason": "OCR error: '{' for '(' and 'hdld' for 'hold'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HABERE FACIAS POSSESSIONEM",
+      "old": "\"havere facias\"",
+      "new": "\"hab. fa.\"",
+      "reason": "OCR error: 'havere facias' appears to be a garbled duplication; the abbreviation 'hab. fa.' is already noted, but 'havere' should be 'habere'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HABERE LICERE",
+      "old": "possession aad enjoyment",
+      "new": "possession and enjoyment",
+      "reason": "OCR error: 'aad' should be 'and'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HABITANCY",
+      "old": "domtled in",
+      "new": "domiciled in",
+      "reason": "OCR error: 'domtled' should be 'domiciled'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HABITANCY",
+      "old": "long perlods",
+      "new": "long periods",
+      "reason": "OCR error: 'perlods' should be 'periods'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HABITANCY",
+      "old": "on the occasiom\nof repeated visits",
+      "new": "on the occasion of repeated visits",
+      "reason": "OCR error: 'occasiom' should be 'occasion'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HABITANCY",
+      "old": "46 8S. B. 253",
+      "new": "46 S. E. 253",
+      "reason": "OCR error: '8S. B.' should be 'S. E.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HABITANCY",
+      "old": "In general] terms",
+      "new": "In general terms",
+      "reason": "OCR error: ']' should be removed"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HABITUAL CRIMINAL",
+      "old": "The statute 82\n& 83 Vict. c. 99",
+      "new": "The statute 32 & 33 Vict. c. 99",
+      "reason": "OCR error: '82' should be '32' and '83' should be '33'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HABITUAL CRIMINAL",
+      "old": "convicted pereons",
+      "new": "convicted persons",
+      "reason": "OCR error: 'pereons' should be 'persons'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HABITUAL CRIMINAL",
+      "old": "penal servitude acts\n853, 1857, and 1864",
+      "new": "penal servitude acts 1853, 1857, and 1864",
+      "reason": "OCR error: missing leading '1' in '853' should be '1853'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HABITUAL CRIMINAL",
+      "old": "the prevention of crimes act,\n1871, (64 & 35 Vict. c. 112.)",
+      "new": "the prevention of crimes act, 1871, (34 & 35 Vict. c. 112.)",
+      "reason": "OCR error: '64' should be '34'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HABITUAL DRUNKARD",
+      "old": "habitual\ndrinkards' act",
+      "new": "habitual drunkards' act",
+      "reason": "OCR error: 'drinkards' should be 'drunkards'"
+    },
+    {
+      "type": "trim",
+      "term": "HABITUAL",
+      "trim_at": "Holmes v. Oregon & C. R. Co.",
+      "reason": "Entry HABITUAL starts with continuation text from HABITATION entry before introducing HABITUAL CRIMINAL headword"
+    },
+    {
+      "type": "trim",
+      "term": "HABITATION",
+      "trim_at": "HABITUAL CRIMINAL",
+      "reason": "HABITATION entry has HABITUAL CRIMINAL embedded within it"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HABITATION",
+      "old": "4 Bl. Comm... 22h.",
+      "new": "4 Bl. Comm. 225.",
+      "reason": "OCR error: '22h' should be '225'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HABITATION",
+      "old": "Holmes v. Oregon & C: R. Co. (D. G) 5 Fed.",
+      "new": "Holmes v. Oregon & C. R. Co. (D. C.) 5 Fed.",
+      "reason": "OCR errors: 'C:' for 'C.', 'D. G' for 'D. C.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HADERUNGA",
+      "old": "_ Hatred; 11 will;\nprejudice, or partiality.",
+      "new": "Hatred; ill will; prejudice, or partiality.",
+      "reason": "OCR errors: leading underscore/space, '11' should be 'ill'"
+    },
+    {
+      "type": "headword",
+      "term": "HAEARETICO",
+      "correct": "HAERETICO",
+      "reason": "Headword has extra 'A': 'HAEARETICO' should be 'HAERETICO'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HAEREDIPETA",
+      "old": "g(q. v.)",
+      "new": "(q. v.)",
+      "reason": "OCR error: extra 'g' before parenthetical cross-reference"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HAEREDITAS",
+      "old": "according to Preetorian\nlaw",
+      "new": "according to Praetorian law",
+      "reason": "OCR error: 'Preetorian' should be 'Praetorian'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HAEREDITAS",
+      "old": "The heareditas\nwas called",
+      "new": "The hereditas was called",
+      "reason": "OCR error: 'heareditas' should be 'hereditas'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HAEREDITAS",
+      "old": "could have no rellef\ntherefrom",
+      "new": "could have no relief therefrom",
+      "reason": "OCR error: 'rellef' should be 'relief'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HAEREDITAS",
+      "old": "Mackeld. m. Law, § 737",
+      "new": "Mackeld. Rom. Law, § 737",
+      "reason": "OCR error: 'm.' should be 'Rom.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HAEREDITAS",
+      "old": "4 Kent,\nComm..",
+      "new": "4 Kent, Comm.",
+      "reason": "OCR error: double period"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HAEREDITAS",
+      "old": "Co. Litt. 8426",
+      "new": "Co. Litt. 342b",
+      "reason": "OCR error: '8426' likely should be '342b'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HAERES",
+      "old": "—Heredes de facto",
+      "new": "—Haeredes de facto",
+      "reason": "OCR error: should be 'Haeredes' consistent with Latin spelling used throughout"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HAIA",
+      "old": "In old Mnglish law.\nA park inclosed. Oowell.",
+      "new": "In old English law. A park inclosed. Cowell.",
+      "reason": "OCR errors: 'Mnglish' should be 'English', 'Oowell' should be 'Cowell'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HAIEBOTE",
+      "old": "A permission or liperty",
+      "new": "A permission or liberty",
+      "reason": "OCR error: 'liperty' should be 'liberty'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HAGNEBUT",
+      "old": "St. 2 &'8 Edw.",
+      "new": "St. 2 & 3 Edw.",
+      "reason": "OCR error: '&'8' should be '& 3'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HABEAS CORPUS",
+      "old": "habeas corpus ad sudjictendum",
+      "new": "habeas corpus ad subjiciendum",
+      "reason": "OCR error: 'sudjictendum' should be 'subjiciendum'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HABEAS CORPUS",
+      "old": "Habeas Pd toed A;",
+      "new": "\"Habeas Corpus,\" A;",
+      "reason": "OCR garbled citation reference"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HABEAS CORPUS",
+      "old": "rjury in another county. 1 Tyrw. 185.—\neas corpus ad faciendum et recipiendum.",
+      "new": "perjury in another county. 1 Tyrw. 185.—Habeas corpus ad faciendum et recipiendum.",
+      "reason": "OCR errors: 'rjury' for 'perjury', 'eas corpus' for 'Habeas corpus'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HABEAS CORPUS",
+      "old": "rte Bollman, 4 Cranch, 97, 2 LL. Ed. 554.—\nbeas corpus ad prosequendum.",
+      "new": "Ex parte Bollman, 4 Cranch, 97, 2 L. Ed. 554.—Habeas corpus ad prosequendum.",
+      "reason": "OCR errors: missing 'Ex pa' before 'rte', 'LL.' for 'L.', missing 'Ha' before 'beas'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HABEAS CORPUS",
+      "old": "to remove &\nprisoner in order to prossonte in the proper\ngore dicnon wherein the fact was committed.\nBl. Comm. 130 rebeas corpus",
+      "new": "to remove a prisoner in order to prosecute in the proper jurisdiction wherein the fact was committed. 3 Bl. Comm. 130.—Habeas corpus",
+      "reason": "Multiple OCR errors in this passage"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HERDEWYK",
+      "old": "Mon. Angi. pt. 8.",
+      "new": "Mon. Angl. pt. 3.",
+      "reason": "OCR error: 'Angi.' should be 'Angl.' and 'pt. 8.' should be 'pt. 3.' matching the HERDEWIOH entry"
+    },
+    {
+      "type": "trim",
+      "term": "HERDWERCH",
+      "trim_at": "HERDWERCH, HEORDWERCH.",
+      "reason": "The headword 'HERDWERCH' appears to contain a merged second headword form 'HEORDWERCH' at the start of the body; the body starts with the headword repeated"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HEREDAD",
+      "old": "inher\nitance not yet ente upon",
+      "new": "inheritance not yet entered upon",
+      "reason": "OCR error: 'ente' should be 'entered'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HEREDAD",
+      "old": "tit. 19, ¢. 2 § 8;",
+      "new": "tit. 19, c. 2, § 8;",
+      "reason": "OCR error: '¢.' should be 'c.' (chapter abbreviation)"
+    },
+    {
+      "type": "trim",
+      "term": "HEREDE RAPTO",
+      "trim_at": "Heredem Deus facit, non homo",
+      "reason": "A Latin maxim 'Heredem Deus facit, non homo' with its definition appears merged into the HEREDE RAPTO entry after the main definition"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HEREDITAGIUM",
+      "old": "heredttamentum",
+      "new": "hereditamentum",
+      "reason": "OCR error: 'heredttamentum' should be 'hereditamentum'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HEREDITAMENTS",
+      "old": "15 N.\nE. 7389;",
+      "new": "15 N. E. 739;",
+      "reason": "OCR error: '7389' should be '739'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HEREDITAMENTS",
+      "old": "real aproperty",
+      "new": "real property",
+      "reason": "OCR error: 'aproperty' should be 'property'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HEREDITAMENTS",
+      "old": "rmanent objects",
+      "new": "permanent objects",
+      "reason": "OCR error: 'rmanent' should be 'permanent'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HEREDITAMENTS",
+      "old": "Hegan v. Pendennis Club (Ky. 64 S. W. 465;",
+      "new": "Hegan v. Pendennis Club (Ky.) 64 S. W. 465;",
+      "reason": "OCR error: missing closing parenthesis after 'Ky.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HEREDITARY",
+      "old": "That which is fhe subject",
+      "new": "That which is the subject",
+      "reason": "OCR error: 'fhe' should be 'the'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HEREDITARY",
+      "old": "and without exposure of the latter to any fresh source\nof infection or gs facta eh right\nto the crown. The crown of England, by the\nitive constitution",
+      "new": "and without exposure of the latter to any fresh source of infection or contagion.—Hereditary right to the crown. The crown of England, by the primitive constitution",
+      "reason": "OCR error: 'gs facta eh right' is garbled text; this appears to be the end of the Hereditary disease definition and the start of the 'Hereditary right to the crown' sub-entry; 'itive constitution' should be 'primitive constitution'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HERGE",
+      "old": "commit: depredations, t",
+      "new": "commit depredations.",
+      "reason": "OCR error: garbled end of sentence with colon and trailing 't'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HERIOT",
+      "old": "In English' law.",
+      "new": "In English law.",
+      "reason": "OCR error: spurious apostrophe after 'English'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HERIOT",
+      "old": "heriot eervice",
+      "new": "heriot service",
+      "reason": "OCR error: 'eervice' should be 'service'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HERIOT",
+      "old": "A ao emma 422; See Adams v. Morse, 51\ne. '",
+      "new": "2 Bl. Comm. 422; See Adams v. Morse, 51 Me.",
+      "reason": "OCR error: 'A ao emma 422' is garbled and should be '2 Bl. Comm. 422'; 'e.' is a truncated 'Me.' citation"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HERISLIT",
+      "old": "Laying down of arma",
+      "new": "Laying down of arms.",
+      "reason": "OCR error: 'arma' should be 'arms.'"
+    },
+    {
+      "type": "trim",
+      "term": "HERMENEUTIOS",
+      "trim_at": "A great lord. Jacob.",
+      "reason": "The phrase 'A great lord. Jacob.' and 'See CopEX HERMOGENIAN OODE. HERMOGENIANUS.' appear to be a merged entry (likely part of a HERMENEUTIOS or nearby entry) appearing after the main definition"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HERMENEUTIOS",
+      "old": "HERMENEUTIOS",
+      "new": "HERMENEUTICS",
+      "reason": "OCR error in headword: 'HERMENEUTIOS' should be 'HERMENEUTICS'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HERMENEUTICS",
+      "old": "See CopEX\nHERMOGENIAN OODE.\n'\nHERMOGENIANUS.",
+      "new": "See CODEX HERMOGENIANUS.",
+      "reason": "OCR error: 'CopEX' should be 'CODEX', 'OODE.' should be 'CODEX', garbled cross-reference"
+    },
+    {
+      "type": "trim",
+      "term": "HERNESCUS",
+      "trim_at": "HERNESIUM, or HERNASIUM.",
+      "reason": "The entry for HERNESIUM/HERNASIUM is merged into the HERNESCUS entry body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HERNESIUM",
+      "old": "or HERNÆSIUM.",
+      "new": "or HERNASIUM.",
+      "reason": "OCR error: 'HERNÆSIUM' uses incorrect diacritic; should be 'HERNASIUM' matching earlier usage"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HERMAPHRODITE",
+      "old": "prevalentiam scxus inoalescentis",
+      "new": "prevalentiam sexus incalescentis",
+      "reason": "OCR errors: 'scxus' should be 'sexus' and 'inoalescentis' should be 'incalescentis'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HERMAPHRODITE",
+      "old": "In medical jurisprudence. <A person",
+      "new": "In medical jurisprudence. A person",
+      "reason": "OCR error: spurious '<' character before 'A'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HERUS",
+      "old": "wt Kerus dct,",
+      "new": "ut herus det,",
+      "reason": "OCR error: 'wt' should be 'ut', 'Kerus' should be 'herus', 'dct' should be 'det'"
+    },
+    {
+      "type": "trim",
+      "term": "HEST",
+      "trim_at": "HESTA, or HESTHA. A little loaf",
+      "reason": "HESTA/HESTHA is a separate dictionary entry merged into the body of HEST"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HETZRIA",
+      "old": "seciety",
+      "new": "society",
+      "reason": "OCR error: 'seciety' should be 'society'"
+    },
+    {
+      "type": "headword",
+      "term": "HETZRARCHA",
+      "correct": "HETZRARCHA",
+      "reason": "Possible headword issue but unclear - flagging separately"
+    },
+    {
+      "type": "flag",
+      "term": "HETZRARCHA",
+      "issue": "Headword may be garbled - possibly should be 'HIERARCHA' or similar term meaning head of a religious house"
+    },
+    {
+      "type": "flag",
+      "term": "HETZRIA",
+      "issue": "Headword may be garbled - possibly should be 'HETAERIA' or 'HETRIA' (Roman law term for company/college)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HIBITIONEM",
+      "old": "HIBITIONEM",
+      "new": "NON COMMITTIT VASTUM CONTRA PROHIBITIONEM",
+      "reason": "The headword appears to be severely truncated/garbled - the full Latin phrase for this plea is 'Non committit vastum contra prohibitionem'"
+    },
+    {
+      "type": "flag",
+      "term": "HIBITIONEM",
+      "issue": "Headword appears to be a fragment of a longer Latin phrase - likely 'NON COMMITTIT VASTUM CONTRA PRO-HIBITIONEM' truncated by OCR"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HIDALGO",
+      "old": "S71\ngood situations",
+      "new": "good situations",
+      "reason": "OCR artifact: '871' is a page number mistakenly included in the body text"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HIGHWAY",
+      "old": "Abbott v. Duluth (CG C.)\n104 Wed. 837",
+      "new": "Abbott v. Duluth (C. C.) 104 Fed. 837",
+      "reason": "OCR errors: 'CG C.' should be 'C. C.' (Circuit Court) and 'Wed.' should be 'Fed.' (Federal Reporter)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HIGHWAY",
+      "old": "88 N. B. 966",
+      "new": "88 N. E. 966",
+      "reason": "OCR error: 'N. B.' should be 'N. E.' (Northeastern Reporter)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HIGHWAY",
+      "old": "31 N. B. 1048",
+      "new": "31 N. E. 1048",
+      "reason": "OCR error: 'N. B.' should be 'N. E.' (Northeastern Reporter)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HIGHWAY",
+      "old": "v. State, 2%\nMla. 546, 3 South. 1 11 Am. St. Rep. 395",
+      "new": "v. State, 29 Ala. 546, 3 South. 11 Am. St. Rep. 395",
+      "reason": "OCR errors: '2%' should be '29', 'Mla.' should be 'Ala.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HIGHWAY",
+      "old": "—Oommon car iosgiebe By this term\nis meant a road to be used by the community\nat large for any pu e of transit or traffic.\nHam. N. P. 289; ilway Co. v. State, 2%",
+      "new": "—Common highway. By this term is meant a road to be used by the community at large for any purpose of transit or traffic. Ham. N. P. 289; Railway Co. v. State,",
+      "reason": "Multiple OCR errors in the highway definition sub-entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HILARY",
+      "old": "begining on the lith",
+      "new": "beginning on the 11th",
+      "reason": "OCR errors: 'begining' should be 'beginning' and 'lith' should be '11th'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HINDENI",
+      "old": "called \"scrhindmen\"",
+      "new": "called \"sexhindmen\"",
+      "reason": "OCR error: 'scrhindmen' should be 'sexhindmen' (the 600-shilling class in Saxon law)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HINDENI",
+      "old": "called \"ticyhindmen\"",
+      "new": "called \"twyhindmen\"",
+      "reason": "OCR error: 'ticyhindmen' should be 'twyhindmen' (the 200-shilling class in Saxon law)"
+    },
+    {
+      "type": "trim",
+      "term": "HINDU",
+      "trim_at": "In old English law. A\nHINE, or HIND.",
+      "reason": "The entry for HINE or HIND is merged into the body of HINDU"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HINE",
+      "old": "HINE\nBODY: or HIND.\nhusbandry servant.\n\nIn old English law. A",
+      "new": "HINE, or HIND. In old English law. A husbandry servant.",
+      "reason": "The headword and body are split/mangled by OCR - this appears to be a duplicate of what was merged into HINDU"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HIDGILD",
+      "old": "<A sum of money paid by a\nvillein or servant to save himself from a\nwhipping. Weta, L 1, c. 47, § 20.",
+      "new": "A sum of money paid by a villein or servant to save himself from a whipping. Fleta, lib. 1, c. 47, § 20.",
+      "reason": "OCR errors: spurious '<' at start, 'Weta, L 1' should be 'Fleta, lib. 1'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HIRING",
+      "old": "pote contracts by which a quae» property\nbe transferred to the hirer or borrower,\nthey differ only in this, that hiring is alaan for a price, stipend, or recompense, while\nborrowing is merely nea oe.",
+      "new": "both contracts by which a quasi property may be transferred to the hirer or borrower, they differ only in this, that hiring is always for a price, stipend, or recompense, while borrowing is merely gratuitous.",
+      "reason": "Multiple OCR errors in this passage"
+    },
+    {
+      "type": "trim",
+      "term": "HIS",
+      "trim_at": "HIS EXCELLENCY. In English law.",
+      "reason": "HIS EXCELLENCY, HIS HONOR, and HIS TESTIBUS are separate dictionary entries merged into the body of HIS"
+    },
+    {
+      "type": "trim",
+      "term": "HOC",
+      "trim_at": "HOC QUIDEM PERQUAM DURUM",
+      "reason": "HOC QUIDEM PERQUAM DURUM EST, SED ITA LEX SCRIPTA EST is a separate dictionary entry merged into the body of HOC"
+    },
+    {
+      "type": "trim",
+      "term": "HOCK-TUESDAY",
+      "trim_at": "HOCKETTOR, or HOCQUETEUR.",
+      "reason": "HOCKETTOR/HOCQUETEUR is a separate dictionary entry merged into the body of HOCK-TUESDAY"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HOCK-TUESDAY",
+      "old": "Leing the second Tuesday after Baster week",
+      "new": "being the second Tuesday after Easter week",
+      "reason": "OCR errors: 'Leing' should be 'being', 'Baster' should be 'Easter'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HOBBLERS",
+      "old": "a Httle\nlight horse",
+      "new": "a little light horse",
+      "reason": "OCR error: 'Httle' should be 'little'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HIDEL",
+      "old": "ce. 5, 6; Cowell.",
+      "new": "Cowell.",
+      "reason": "OCR artifact: 'ce. 5, 6;' appears to be garbled text or page reference not part of the definition"
+    },
+    {
+      "type": "flag",
+      "term": "HIDEL",
+      "issue": "'ce. 5, 6; Cowell.' at end of body may be a garbled citation reference"
+    },
+    {
+      "type": "flag",
+      "term": "HIKENILD",
+      "issue": "Entry seems very short and may be missing content about the other great Roman roads"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HLAFORDSOCNA",
+      "old": "A lord's protection.",
+      "new": "A lord's protection.",
+      "reason": "No OCR error detected - entry appears correct"
+    },
+    {
+      "type": "flag",
+      "term": "HIRST",
+      "issue": "Entry appears to have headword 'HIRST' but body starts with 'HURST.' - may be two entries merged or headword should be 'HIRST, or HURST'"
+    },
+    {
+      "type": "trim",
+      "term": "HOUR",
+      "trim_at": "HOUR OF CAUSE. In Scotch pract",
+      "reason": "HOUR OF CAUSE is a separate dictionary entry merged into the HOUR body"
+    },
+    {
+      "type": "trim",
+      "term": "HOUR OF CAUSE",
+      "trim_at": "'HOUSE. 1. A dwelling; a building de",
+      "reason": "HOUSE entry is merged into HOUR OF CAUSE body; HOUSE is a separate entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HOUR OF CAUSE",
+      "old": "8 How.\nState Tr. 608.",
+      "new": "3 How.\nState Tr. 603.",
+      "reason": "OCR errors: '8' should be '3' and '608' should be '603' based on the correct HOUR entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HOUSEHOLD",
+      "old": "112 U. 8S. 405, 5 Sup. Ct. 241, 28",
+      "new": "112 U. S. 405, 5 Sup. Ct. 241, 28",
+      "reason": "OCR error: '8S.' should be 'S.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HOUSEHOLD",
+      "old": "In re Hoopes' Estete, 1 Brewst. (Pa.) 465.",
+      "new": "In re Hoopes' Estate, 1 Brewst. (Pa.) 465.",
+      "reason": "OCR error: 'Estete' should be 'Estate'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HOUSEKEEPER",
+      "old": "Velle\nv. Koch, 27 IL 181.",
+      "new": "Velle\nv. Koch, 27 Ill. 181.",
+      "reason": "OCR error: 'IL' should be 'Ill.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HUE",
+      "old": "8 How. State Tr. 886.",
+      "new": "3 How. State Tr. 886.",
+      "reason": "OCR error: '8' should be '3' for How. State Tr. citation"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HUISSIERS",
+      "old": "courts.;\nIn old records. A hulk or\nCowell.\nSmall vessel.",
+      "new": "courts.",
+      "reason": "Stray text from HULK or similar entry merged into HUISSIERS body"
+    },
+    {
+      "type": "trim",
+      "term": "HUISSIERS",
+      "trim_at": "In old records. A hulk or",
+      "reason": "Text about 'a hulk or small vessel' from another entry (HULK/HULEA) merged into HUISSIERS"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HUNDRED",
+      "old": "OClothaire",
+      "new": "Clothaire",
+      "reason": "OCR error: 'OClothaire' should be 'Clothaire'"
+    },
+    {
+      "type": "trim",
+      "term": "HUNDREDARY",
+      "trim_at": "HUNDREDES EARLDOR, or HUN-~",
+      "reason": "HUNDREDES EARLDOR is a separate entry merged into HUNDREDARY body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HUNDREDORS",
+      "old": "38 Bl Comm.' 859, 360; 4 Steph.",
+      "new": "3 Bl. Comm. 359, 360; 4 Steph.",
+      "reason": "OCR errors: '38' should be '3', '859' should be '359'"
+    },
+    {
+      "type": "trim",
+      "term": "HUNG",
+      "trim_at": "HUNG JURY. A jury so trreconcil",
+      "reason": "HUNG JURY is a separate entry embedded in HUNG body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HUNG JURY",
+      "old": "trreconcilably",
+      "new": "irreconcilably",
+      "reason": "OCR error: 'trreconcilably' should be 'irreconcilably'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HUNG",
+      "old": "trreconcilably",
+      "new": "irreconcilably",
+      "reason": "OCR error: 'trreconcilably' should be 'irreconcilably'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HURRICANE",
+      "old": "18 8S. W. 980",
+      "new": "18 S. W. 980",
+      "reason": "OCR error: '8S.' should be 'S.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HURRICANE",
+      "old": "36 N. BL\n387",
+      "new": "36 N. E.\n387",
+      "reason": "OCR error: 'N. BL' should be 'N. E.'"
+    },
+    {
+      "type": "trim",
+      "term": "HURT",
+      "trim_at": "HURTARDUS, or HURTUS. A ram",
+      "reason": "HURTARDUS entry merged into HURT body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HUSBAND",
+      "old": "the man who, according to Saxon ideas\nand institutions, held 'around him the family,",
+      "new": "the man who, according to Saxon ideas\nand institutions, held around him the family,",
+      "reason": "OCR artifact: stray apostrophe before 'around'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HUSBAND",
+      "old": "by which,\nat common law, the''legal existence",
+      "new": "by which,\nat common law, the legal existence",
+      "reason": "OCR error: double apostrophe before 'legal'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HUSBAND",
+      "old": "Hus of a ship, See Suip's\nHUSBAND.",
+      "new": "Husband of a ship. See SHIP'S HUSBAND.",
+      "reason": "OCR errors in cross-reference: 'Hus' should be 'Husband', 'Suip's' should be 'SHIP'S'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HUSCARLE",
+      "old": "In vid English law.",
+      "new": "In old English law.",
+      "reason": "OCR error: 'vid' should be 'old'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HUSCARLE",
+      "old": "househvld.",
+      "new": "household.",
+      "reason": "OCR error: 'househvld' should be 'household'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HUSFASTNE",
+      "old": "Bract. 1 3, t. 2, ¢ 10.",
+      "new": "Bract. l. 3, t. 2, c. 10.",
+      "reason": "OCR errors: '1 3' should be 'l. 3' (book), '¢ 10' should be 'c. 10' (chapter)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HUSGABLUM",
+      "old": "Oowell; Blount.",
+      "new": "Cowell; Blount.",
+      "reason": "OCR error: 'Oowell' should be 'Cowell'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HUTILAN",
+      "old": "Mon. Angi. i. 586.",
+      "new": "Mon. Angl. i. 586.",
+      "reason": "OCR error: 'Angi.' should be 'Angl.'"
+    },
+    {
+      "type": "trim",
+      "term": "HWATA",
+      "trim_at": "HYPOTHEO",
+      "reason": "The word 'HYPOTHEO' appears to be a stray headword from another entry merged into HWATA"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HULEA",
+      "old": "In old records. A hulk or\nCowell.",
+      "new": "",
+      "reason": "The 'In old records' text in HULEA appears to be misplaced content from HULK entry merged here; HULEA is defined as 'A small vessel'"
+    },
+    {
+      "type": "flag",
+      "term": "HULEA",
+      "issue": "Entry body contains 'A small vessel.' followed by 'In old records. A hulk or Cowell.' - the second part may belong to a HULK entry or is misplaced"
+    },
+    {
+      "type": "flag",
+      "term": "HUOUSQUE",
+      "issue": "Headword appears to be 'HUOUSQUE' but the correct Latin term is likely 'HACTENUS' or 'HUCUSQUE' - possible OCR error in headword"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HYPNOTISM",
+      "old": "another.;",
+      "new": "another.",
+      "reason": "Stray semicolon after period is OCR artifact"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HYPNOTISM",
+      "old": "in the nature of tran\nartificial catalepsy",
+      "new": "in the nature of an\nartificial catalepsy",
+      "reason": "OCR error: 'tran' should be 'an'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HYPNOTISM",
+      "old": "induc\nin one person",
+      "new": "induced\nin one person",
+      "reason": "OCR dropped 'ed' from 'induced'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HYPOSTASIS",
+      "old": "Post-mortem hypostasie",
+      "new": "Post-mortem hypostasis",
+      "reason": "OCR error: 'hypostasie' should be 'hypostasis'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HYPOTHEC",
+      "old": "\"nypothec\"",
+      "new": "\"hypothec\"",
+      "reason": "OCR error: 'nypothec' should be 'hypothec'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HYPOTHEC",
+      "old": "°It gives",
+      "new": "It gives",
+      "reason": "Stray degree symbol is OCR artifact"
+    },
+    {
+      "type": "trim",
+      "term": "HYPOTHECARII",
+      "trim_at": "HYPOTHECARII CREDITORES. Lat.",
+      "reason": "The headword is HYPOTHECARII but the body begins with an ALL-CAPS sub-entry 'HYPOTHECARII CREDITORES' that appears to be a separate merged entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HYPOTHECARII",
+      "old": "{fn the civil law",
+      "new": "In the civil law",
+      "reason": "OCR error: '{fn' should be 'In'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HYPOTHECARY",
+      "old": "136 U. 8S. 180",
+      "new": "136 U. S. 180",
+      "reason": "OCR error: '8S' should be 'S.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HYPOTHECATE",
+      "old": "'The master",
+      "new": "The master",
+      "reason": "Stray apostrophe before 'The' is OCR artifact"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HYPOTHECATION",
+      "old": "It\nmeans",
+      "new": "it\nmeans",
+      "reason": "OCR error: 'It' mid-sentence should be lowercase 'it'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HYPOTHECATION",
+      "old": "not defivered\ninto the possession of the -pladgee or pawnee;\nor, conversely, a: eonventional right. existing\n{n one person over specific property of another, which consists: in: the: power..to cause -\na sale of the same, though it be-not in his\npossession, in order that a specific claim of\nthe creditor may be satisfied out.of the proceeds. i",
+      "new": "not delivered\ninto the possession of the pledgee or pawnee;\nor, conversely, a conventional right existing\nin one person over specific property of another, which consists in the power to cause\na sale of the same, though it be not in his\npossession, in order that a specific claim of\nthe creditor may be satisfied out of the proceeds.",
+      "reason": "Multiple OCR errors: 'defivered'->delivered, '-pladgee'->pledgee, 'a:'->a, 'eonventional'->conventional, '{n'->in, 'consists:'->consists, 'in:'->in, 'the:'->the, 'power..'->power, 'cause -'->cause, 'be-not'->be not, 'out.of'->out of, trailing 'i' is artifact"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HYPOTHECATION",
+      "old": "of sexmen: for wages",
+      "new": "of seamen for wages",
+      "reason": "OCR error: 'sexmen:' should be 'seamen'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HYPOTHECATION",
+      "old": "kind of are inwhich",
+      "new": "kind of lien in which",
+      "reason": "OCR error: 'are inwhich' should be 'lien in which'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HYPOTHECATION",
+      "old": "reniains with",
+      "new": "remains with",
+      "reason": "OCR error: 'reniains' should be 'remains'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HYPOTHECATION BOND",
+      "old": "respondentia. ere",
+      "new": "respondentia.",
+      "reason": "Trailing 'ere' is OCR artifact"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HYPOTHEQUE",
+      "old": "In French: Jaw. - Hy-:\npothecation",
+      "new": "In French law. Hypothecation",
+      "reason": "OCR errors: 'French: Jaw. - Hy-:\\npothecation' should be 'French law. Hypothecation'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HYSTERIA",
+      "old": "vis, and abdomen",
+      "new": "chest, and abdomen",
+      "reason": "OCR error: 'vis' appears to be garbled; likely 'chest' was already listed but context suggests 'diaphragm' or similar — flagging"
+    },
+    {
+      "type": "trim",
+      "term": "HYTHE",
+      "trim_at": "Z. The initial letter of",
+      "reason": "After the HYTHE definition, entries for 'Z', 'I—CTUS', and 'I. E.' are merged in"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HYTHE",
+      "old": "I—CTUS.",
+      "new": "I. C. TUS.",
+      "reason": "OCR error: 'I—CTUS' should be 'I. C.' abbreviation for jurisconsultus (J. C. or I.C.)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HONORABLE",
+      "old": "title of courtesy for various classes of offiaay but without any clear lines of distincon.",
+      "new": "title of courtesy for various classes of officials, but without any clear lines of distinction.",
+      "reason": "OCR errors: 'offiaay' should be 'officials', 'distincon' should be 'distinction'"
+    },
+    {
+      "type": "trim",
+      "term": "HONORARIUM",
+      "trim_at": "HONORARIUM JUS. Lat. In Roman",
+      "reason": "HONORARIUM JUS is a separate dictionary entry merged into the body of HONORARIUM"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HONORARY",
+      "old": "no salary or other compensation in m9ney, the honor conferred by the incumbetwy",
+      "new": "no salary or other compensation in money, the honor conferred by the incumbency",
+      "reason": "OCR errors: 'm9ney' should be 'money', 'incumbetwy' should be 'incumbency'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HONORARY",
+      "old": "chamion, or other officer",
+      "new": "champion, or other officer",
+      "reason": "OCR error: 'chamion' should be 'champion'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HONORARY",
+      "old": "—Honorary canons. Those without emolument. 8 & 4 Vict. ce. 113, § 23.",
+      "new": "—Honorary canons. Those without emolument. 3 & 4 Vict. c. 113, § 23.",
+      "reason": "OCR errors: '8 & 4' should be '3 & 4', 'ce.' should be 'c.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HONORARY",
+      "old": "Litt.\np53; 2 Bl. Comm. 73.",
+      "new": "Litt. § 153; 2 Bl. Comm. 73.",
+      "reason": "OCR error: 'p53' should be '§ 153' (section reference)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HONORARY",
+      "old": "rvstees to preserve contingent remainders, 80\ncalled because they are bound, in honor only",
+      "new": "Trustees to preserve contingent remainders, so called because they are bound, in honor only",
+      "reason": "OCR errors: 'rvstees' should be 'Trustees', '80' should be 'so'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HONTFONGENETHEF",
+      "old": "a thief taken with hondhabend; 14. ¢., having",
+      "new": "a thief taken with hondhabend; i.e., having",
+      "reason": "OCR error: '14. ¢.,' should be 'i.e.,'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HOOCUS",
+      "old": "HOOCUS SALT.",
+      "new": "HOOCUS SALT.",
+      "reason": "No correction needed here; checking headword"
+    },
+    {
+      "type": "headword",
+      "term": "HOOCUS",
+      "correct": "HOOCUS SALT",
+      "reason": "The entry headword appears to be 'HOOCUS' but the body begins with 'HOOCUS SALT' as the full term; however this may be a formatting issue where HOOCUS SALT is the full headword"
+    },
+    {
+      "type": "trim",
+      "term": "HOPCON",
+      "trim_at": ". HOPE, » In old English law. A val",
+      "reason": "HOPE (noun, 'In old English law. A valley.') is a separate entry merged into HOPCON body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HORA",
+      "old": "'Hora aurors. In old English law. The\nmorning bell, as ignitegium or coverfeu (curfew)\nwas the evening bell_—Hors juridicz, or\nudicis.",
+      "new": "Hora aurora. In old English law. The morning bell, as ignitegium or coverfeu (curfew) was the evening bell.—Hora juridica, or juridicis.",
+      "reason": "OCR errors: 'aurors' should be 'aurora', 'ignitegium' likely 'ignitegium', 'bell_—' should be 'bell.—', 'juridicz' should be 'juridica', 'udicis' should be 'juridicis'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HORDEUM",
+      "old": "Hordeum ypalmale,\nbeer barley, as distinwhich was\nguished from common barley,\ncalled",
+      "new": "Hordeum palmale, beer barley, as distinguished from common barley, called",
+      "reason": "OCR errors: 'ypalmale' should be 'palmale', 'distinwhich was guished' is a badly broken 'distinguished'"
+    },
+    {
+      "type": "trim",
+      "term": "HORS",
+      "trim_at": "HORS WEALH. In old English law.",
+      "reason": "HORS WEALH and HORS WEARD are separate dictionary entries merged into the body of HORS"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HORS",
+      "old": "Mather v.\n\n12 Pa. Co. Ct. R. 4—Hors pris. Except. Literally translated by the Scotch \"out",
+      "new": "Mather v. [case citation], 12 Pa. Co. Ct. R. 4.—Hors pris. Except. Literally translated by the Scotch \"out",
+      "reason": "Text appears truncated/broken in the Hors de son fee sub-entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HORSE",
+      "old": "State v. Dunnavant, 3 Brev.\n(8S. CG) 10, 5 Am. Dec. 580",
+      "new": "State v. Dunnavant, 3 Brev. (S. C.) 10, 5 Am. Dec. 580",
+      "reason": "OCR error: '(8S. CG)' should be '(S. C.)' meaning South Carolina"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HORSE",
+      "old": "State v. Gooch,\n60 Ark. 218, 232 S. W. 640",
+      "new": "State v. Gooch, 60 Ark. 218, 23 S. W. 640",
+      "reason": "OCR error: '232 S. W.' likely should be '23 S. W.' (232 is implausible for a S.W. reporter volume at that page)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HOSPES",
+      "old": "Lat. A guest. 8 Coke, 32.\n\nHOSPES GENERALIS. A great chamberlain.",
+      "new": "Lat. A guest. 8 Coke, 32.",
+      "reason": "HOSPES GENERALIS appears to be a separate sub-entry; 8 Coke may be correct citation"
+    },
+    {
+      "type": "trim",
+      "term": "HOSTICIDE",
+      "trim_at": "HOSTILARIA, HOSPITALARIA, A",
+      "reason": "HOSTILARIA, HOSPITALARIA is a separate dictionary entry merged into HOSTICIDE body"
+    },
+    {
+      "type": "headword",
+      "term": "HOSTILARIA HOSTILARIA, HOSPITALARIA",
+      "correct": "HOSTILARIA",
+      "reason": "The headword is duplicated/garbled; should be just HOSTILARIA"
+    },
+    {
+      "type": "headword",
+      "term": "HOSTILARIA HOSTILARIA, HOSPITALARIA",
+      "correct": "HOSTILARIA",
+      "reason": "Duplicate headword entry; this appears to be same as the HOSTILARIA entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HOSTILE",
+      "old": "therefore denies all validity to claims set\nup by any and all other pores Ballard v.\nansen, Neb. 861, 51 N. W. 295",
+      "new": "therefore denies all validity to claims set up by any and all other persons. Ballard v. Hansen, Neb. 361, 51 N. W. 295",
+      "reason": "OCR errors: 'pores' should be 'persons', 'ansen' should be 'Hansen', '861' likely '361'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HOSTILE",
+      "old": "to cross-examine ae\ns. ¢., to treat him as though he had been call\nby the opposite party.",
+      "new": "to cross-examine him, i.e., to treat him as though he had been called by the opposite party.",
+      "reason": "OCR errors: 'ae' should be 'him,', 's. ¢.,' should be 'i.e.,', 'call' should be 'called'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HOSTILITY",
+      "old": "\"At the breaking out of\nhostility.\" 1 Kent, Comm. 60.\nAn act of open war. \"When /hostilitics\nhave commenced.\"",
+      "new": "\"At the breaking out of hostility.\" 1 Kent, Comm. 60.\nAn act of open war. \"When hostilities have commenced.\"",
+      "reason": "OCR errors: '/hostilitics' should be 'hostilities'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HOTCHPOT",
+      "old": "This answers to or resembles the collatio\ndvbonorum, or collation of the civil law.",
+      "new": "This answers to or resembles the collatio bonorum, or collation of the civil law.",
+      "reason": "OCR error: 'dvbonorum' should be 'bonorum'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HOTEL",
+      "old": "as, that it ehall contain",
+      "new": "as, that it shall contain",
+      "reason": "OCR error: 'ehall' should be 'shall'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HOTEL",
+      "old": "See Martin\nv. State Ins. Co., 44 N. J. w, 485, 43",
+      "new": "See Martin v. State Ins. Co., 44 N. J. Law, 485, 43",
+      "reason": "OCR error: 'N. J. w,' should be 'N. J. Law,' (New Jersey Law Reports)"
+    },
+    {
+      "type": "trim",
+      "term": "HOTEL",
+      "trim_at": "'HOUR. The twenty-fourth part of a nat",
+      "reason": "HOUR is a separate dictionary entry merged into the body of HOTEL"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HOT-WATER",
+      "old": "In old Eng:\nlish law.",
+      "new": "In old English law.",
+      "reason": "OCR error: line break splitting 'English'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "HONORARY",
+      "old": "in connections, it means attached to or grcwing out of",
+      "new": "in other connections, it means attached to or growing out of",
+      "reason": "OCR errors: 'grcwing' should be 'growing'"
+    }
+  ],
+  "errors": [
+    {
+      "batch": 6,
+      "error": "JSON parse error: ```json\n[\n  {\"type\": \"trim\", \"term\": \"HOGASTER\", \"trim_at\": \"HOGGUS, or HOGIETUS. A hog\", \"reason\": \"HOGGUS entry is merged into HOGASTER body after a paragraph break\"},\n  {\"type\": \"ocr_fix\", \"term\": "
+    }
+  ],
+  "by_type": {
+    "trim": 45,
+    "ocr_fix": 206,
+    "headword": 7,
+    "flag": 9
+  },
+  "elapsed_seconds": 98.2
+}

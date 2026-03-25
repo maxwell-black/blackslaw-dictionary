@@ -1,0 +1,164 @@
+[
+  {
+    "type": "headword_review",
+    "term": "DB",
+    "suggested": "DE",
+    "reason": "Entry 'DB' appears to be for a Latin writ starting with 'De' (likely 'DE BIRRA' or similar); the body text doesn't match the headword 'DB'. However, looking at context this may be a fragment — flagging."
+  },
+  {
+    "type": "flag",
+    "term": "DB",
+    "issue": "Headword 'DB' does not match body which describes a writ. Likely a truncated or OCR-damaged Latin headword."
+  },
+  {
+    "type": "flag",
+    "term": "DBS",
+    "issue": "Headword 'DBS' appears to be OCR damage for 'DE' — the actual entry is 'DE FIDE ET OFFICIO JUDICIS'. The 'DBS' is likely 'DE' with corrupted characters."
+  },
+  {
+    "type": "headword_review",
+    "term": "DBS",
+    "suggested": "DE FIDE ET OFFICIO JUDICIS",
+    "reason": "The body contains the maxim 'DE FIDE ET OFFICIO JUDICIS' as the actual term; 'DBS' is OCR corruption of 'DE'."
+  },
+  {
+    "type": "flag",
+    "term": "DE",
+    "issue": "Body reads 'For Keeping the peace, and for good behavior.' — this appears to be a fragment of a larger entry (possibly 'DE BONO ET MALO' or similar Latin phrase), not a standalone entry for 'DE'."
+  },
+  {
+    "type": "flag",
+    "term": "DE BONA NOTITIA",
+    "issue": "Headword is 'DE BONA NOTITIA' but body starts with 'DEBONA NOTITIA' repeated twice before the definition. The body contains duplicate/merged text. The term may be 'DE BONA NOTITIA' or possibly OCR confusion with another term."
+  },
+  {
+    "type": "flag",
+    "term": "DEAERARI",
+    "issue": "The Latin terms DEAERARI, DEAERATIO, DEAERATOR, DEAERATORIUM and variants appear to be OCR-corrupted versions of Latin testamentary terms. 'DEAERARI' is likely 'TESTARI' (to make a will), and 'DEAERATUM' likely 'TESTAMENTUM'. The entire cluster of DEAER- entries may be severely OCR-damaged."
+  },
+  {
+    "type": "headword_review",
+    "term": "DEBITUM PRAETORIANUM",
+    "suggested": "DEBITUM PRAETORIANUM",
+    "reason": "The body shows 'DEBITUM PRZBETRIANUM' which is an OCR error; the headword itself may be correct but body has errors"
+  },
+  {
+    "type": "flag",
+    "term": "DEBONA FIDE",
+    "issue": "Headword appears to be 'DE BONA FIDE' (two words) rather than 'DEBONA FIDE'; likely a spacing OCR issue in the headword"
+  },
+  {
+    "type": "flag",
+    "term": "DEBONA VOLUMUS",
+    "issue": "Headword appears to be 'DE BONA VOLUMUS' rather than 'DEBONA VOLUMUS'; likely a spacing OCR issue; also the phrase 'de bona volumus' is unusual and may be 'de bonis volumus'"
+  },
+  {
+    "type": "flag",
+    "term": "DEBONIS",
+    "issue": "Headword appears to be 'DE BONIS' (two words) rather than 'DEBONIS'; likely a spacing OCR issue"
+  },
+  {
+    "type": "flag",
+    "term": "DEBONIS NON ADMINISTRATIS",
+    "issue": "Headword appears to be 'DE BONIS NON ADMINISTRATIS' rather than 'DEBONIS NON ADMINISTRATIS'; likely a spacing OCR issue"
+  },
+  {
+    "type": "flag",
+    "term": "DEBRIEF",
+    "issue": "Definition describes 'briefing' a case (preparing a brief), not 'debriefing'. The headword 'DEBRIEF' seems incorrect for 1910 legal terminology; this entry likely belongs to a different term or the headword is wrong"
+  },
+  {
+    "type": "headword_review",
+    "term": "DECBEET",
+    "suggested": "DECBREET",
+    "reason": "Entry appears to be a damaged/garbled duplicate or misprint; body is also garbled ('ae es le ne 4 *& ABSENTLE')"
+  },
+  {
+    "type": "flag",
+    "term": "DECBEET",
+    "issue": "Entry body is completely garbled ('ae es le ne 4 *& ABSENTLE') - appears to be a severely corrupted OCR entry, possibly should be DECREET or DECBREET"
+  },
+  {
+    "type": "flag",
+    "term": "DEL",
+    "issue": "The headword 'DEL' appears incomplete; this entry defines 'del credere' and should likely be headworded 'DEL CREDERE'"
+  },
+  {
+    "type": "flag",
+    "term": "DER HORN",
+    "issue": "Entry body 'The promiscuous feeding of cd' is truncated/garbled, and contains what appears to be a fragment of a 'Vested rights' definition that belongs elsewhere. The headword 'DER HORN' and its body appear to be OCR/scanning artifacts."
+  },
+  {
+    "type": "flag",
+    "term": "DERMEN",
+    "issue": "Headword 'DERMEN' appears to be an OCR error or misplaced entry. The body contains definitions for 'Board of audit', 'Board of civil authority', 'Board of directors', 'Board of equalization' which belong under a 'BOARD' entry."
+  },
+  {
+    "type": "flag",
+    "term": "DEVADIATOUS",
+    "issue": "This entry appears to be a duplicate of DEVADIATUS (embedded in DEUTEROGAMY). The headword 'DEVADIATOUS' may be an OCR error for 'DEVADIATUS'"
+  },
+  {
+    "type": "flag",
+    "term": "DEVIATION",
+    "issue": "Two entries for DEVIATION appear: one embedded at end of DEVEST, one as standalone. The standalone entry cites 'Civil Code Cal. § 2694' while the embedded version cites '§ 2604' — one may be an OCR error. Likely § 2694 is correct in the standalone entry."
+  },
+  {
+    "type": "flag",
+    "term": "DIVORTIUM",
+    "issue": "Body contains text from DIVISION entry ('Lincolnshire as synonymous with riding in Yorkshire... DIVISION OF OPINION...') instead of correct definition of DIVORTIUM"
+  },
+  {
+    "type": "headword_review",
+    "term": "DULPEX",
+    "suggested": "DUPLEX",
+    "reason": "OCR error: 'DULPEX' should be 'DUPLEX' — the sub-entry is 'DULPEX VALOR MARITAGII' which should be 'DUPLEX VALOR MARITAGII'"
+  },
+  {
+    "type": "headword_review",
+    "term": "DULPEX VALOR MARITAGII",
+    "suggested": "DUPLEX VALOR MARITAGII",
+    "reason": "OCR error: 'DULPEX' should be 'DUPLEX'"
+  },
+  {
+    "type": "flag",
+    "term": "DOTIS",
+    "issue": "Entry appears incomplete - headword seems truncated (likely 'DOTIS ASSIGNATIONE' or similar) and body is very brief"
+  },
+  {
+    "type": "flag",
+    "term": "DOUBLE",
+    "issue": "Sub-entries appear garbled: '—Double pay' definition is inserted mid-definition of '—Double complaint' and '—Double bond' definition references 'Ames, 9' without context; possible OCR merging of entries"
+  },
+  {
+    "type": "flag",
+    "term": "DOW",
+    "issue": "Entry headword 'DOW' has body that appears to be a fragment of DOWRY entry; the actual DOW entry content seems missing or misidentified"
+  },
+  {
+    "type": "flag",
+    "term": "DOWLE",
+    "issue": "Entry appears incomplete/damaged - 'DOWLE STONES. lands, etc. Cowell.' is very brief and seems truncated; also contains embedded DOWMENT entry"
+  },
+  {
+    "type": "flag",
+    "term": "DREDES",
+    "issue": "Entry body contains 'HUSBAND' as standalone word with no definition - appears to be a stray headword from another page"
+  },
+  {
+    "type": "flag",
+    "term": "DY",
+    "issue": "Entry 'DY' appears to be a fragment of another entry (FAIR/FAIR SALE/FAIR TRIAL), not a proper dictionary entry starting with DY"
+  },
+  {
+    "type": "flag",
+    "term": "DE HOMINE REPLEGIANDO",
+    "issue": "The definition given ('For taking a man in withernam') describes 'de homine capto in withernam', not 'de homine replegiando' (which means for repledging/bailing a man). The body definition may belong to a different entry."
+  },
+  {
+    "type": "headword_review",
+    "term": "DALUS",
+    "suggested": "DAILUS",
+    "reason": "The body immediately begins 'DAILUS, DAILIA.' indicating the headword should be DAILUS"
+  }
+]

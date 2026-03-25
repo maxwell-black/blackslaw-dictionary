@@ -1,0 +1,115 @@
+{
+  "letter": "Y",
+  "entries_reviewed": 19,
+  "corrections": [
+    {
+      "type": "trim",
+      "term": "YARD",
+      "trim_at": "YARDLAND, or virgata terre",
+      "reason": "YARDLAND entry is merged into YARD body after a paragraph break"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "YEAR",
+      "old": "beginning on the list of January",
+      "new": "beginning on the 1st of January",
+      "reason": "OCR error: 'list' should be '1st'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "YEAR",
+      "old": "riod of time in which the sun was aupneed\n'to revolve in its orbit, consisting of days\nand one-fourth of a day",
+      "new": "period of time in which the sun was supposed to revolve in its orbit, consisting of 365 days and one-fourth of a day",
+      "reason": "OCR errors: 'riod' for 'period', 'aupneed' for 'supposed', and missing '365' before 'days'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "YEAR",
+      "old": "Bract.\nfol. 3590",
+      "new": "Bract. fol. 359b",
+      "reason": "OCR error: '3590' likely should be '359b' (folio reference with letter suffix)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "YEAR",
+      "old": "for many pu es in law",
+      "new": "for many purposes in law",
+      "reason": "OCR error: 'pu es' is garbled 'purposes'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "YEAS",
+      "old": "usually upon a call\n\n; of the roll.",
+      "new": "usually upon a call of the roll.",
+      "reason": "OCR artifact: stray semicolon and line break mid-sentence"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "YEME",
+      "old": "Winter; a core\nruption",
+      "new": "Winter; a corruption",
+      "reason": "OCR error: 'core ruption' is broken word 'corruption'"
+    },
+    {
+      "type": "trim",
+      "term": "YEOMAN",
+      "trim_at": "YEVEN, or\nYEOVEN. Given",
+      "reason": "Multiple entries (YEVEN, YIELD, YIELDING AND PAYING, YORELET) are merged into YEOMAN body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "YEOMAN",
+      "old": "In English law. A commoner; a freeholder under the rank of gentleman.\nYEOMAN\nman.",
+      "new": "In English law. A commoner; a freeholder under the rank of gentle­man.",
+      "reason": "OCR split 'gentleman' across a repeated headword line"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "YORK, CUSTOM OF",
+      "old": "pars rationabdtlis",
+      "new": "pars rationabilis",
+      "reason": "OCR error: 'rationabdtlis' should be 'rationabilis'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "YORK, CUSTOM OF",
+      "old": "to the wldow",
+      "new": "to the widow",
+      "reason": "OCR error: 'wldow' should be 'widow'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "YORK, STATUTE OF",
+      "old": "attorreys",
+      "new": "attorneys",
+      "reason": "OCR error: 'attorreys' should be 'attorneys'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "YORKSHIRE",
+      "old": "The registries of titles to land",
+      "new": "REGISTRIES. The registries of titles to land",
+      "reason": "Entry appears to be 'YORKSHIRE REGISTRIES' with the second word dropped; body starts without identifying what Yorkshire thing is being defined"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "YOUTH",
+      "old": "This word may include chiidren",
+      "new": "This word may include children",
+      "reason": "OCR error: 'chiidren' should be 'children'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "YIELDING",
+      "old": "YIELDING AND PAYING. In conveyancing. © The initial words",
+      "new": "In conveyancing. The initial words",
+      "reason": "Headword repeated in body and OCR artifact '©' present"
+    }
+  ],
+  "errors": [],
+  "by_type": {
+    "trim": 2,
+    "ocr_fix": 13
+  },
+  "elapsed_seconds": 14.2
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "type": "flag",
+    "term": "GATES",
+    "issue": "Entry body appears to be fragments from other entries (High court of errors and appeals, High court of justice) with no definition related to 'GATES'. This appears to be a misplaced or corrupted entry."
+  },
+  {
+    "type": "flag",
+    "term": "GC",
+    "issue": "Entry term 'GC' and body appear to be fragments from unrelated entries (dower, incineration, hydraulic power, miner's inch) — likely OCR/pagination corruption creating a spurious entry."
+  },
+  {
+    "type": "flag",
+    "term": "GEANT,)",
+    "issue": "Entry term 'GEANT,)' appears malformed with a closing parenthesis. The body text discusses serjeants at law, which is unrelated to 'geant'. This appears to be a corrupted/misplaced entry."
+  },
+  {
+    "type": "flag",
+    "term": "GRETNA",
+    "issue": "Headword appears incomplete; should likely be 'GRETNA GREEN' or 'GRETNA GREEN MARRIAGE'. The body begins mid-sentence ('marriage celebrated at Gretna...') suggesting the headword or opening text was cut off."
+  },
+  {
+    "type": "flag",
+    "term": "GSS",
+    "issue": "Entry headword 'GSS' appears to be a corrupted/OCR-damaged entry containing text about 'Perfect trust' and other legal terms; it does not appear to be a valid dictionary headword"
+  },
+  {
+    "type": "flag",
+    "term": "GROWTH",
+    "issue": "Entry body defines 'A rate paid in some places for the tithe of every fat beast...' but this definition appears to be for a different term (possibly GROATS or a tithe-related term), not for GROWTH as ordinarily understood"
+  }
+]

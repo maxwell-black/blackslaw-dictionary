@@ -1,0 +1,2272 @@
+{
+  "letter": "B",
+  "entries_reviewed": 525,
+  "corrections": [
+    {
+      "type": "ocr_fix",
+      "term": "BARRATOR",
+      "old": "having\nBARRATROUSB. Fraudulent;\nthe character of barratry",
+      "new": "having the character of barratry.\n\nBARRATROUS. Fraudulent; having the character of barratry.",
+      "reason": "BARRATROUS is a separate embedded entry with OCR damage to the headword (BARRATROUSB)"
+    },
+    {
+      "type": "trim",
+      "term": "BASTARDIZE",
+      "trim_at": "BASTARDY — 128",
+      "reason": "The BASTARDY entry is merged into BASTARDIZE body after a page marker"
+    },
+    {
+      "type": "flag",
+      "term": "BASTARDUS",
+      "issue": "Body contains content from BASILICA entry about Constantinople rather than content about 'BASTARDUS NON POTEST HEREDARE'"
+    },
+    {
+      "type": "flag",
+      "term": "BASTARDY",
+      "issue": "Body appears to be only a fragment: \"'The method provided by statute of proceeding against the putative father to secure a proper maintenance for the bastard.\" - may be missing the main definition of bastardy (the offense of begetting a bastard child) which appears in BASTARDIZE entry"
+    },
+    {
+      "type": "trim",
+      "term": "BATTERY",
+      "trim_at": ". BATTURE. In Louisiana.",
+      "reason": "BATTURE is a separate dictionary entry merged into the BATTERY body after the Simple battery sub-entry"
+    },
+    {
+      "type": "flag",
+      "term": "BD",
+      "issue": "Entry body contains misplaced content about PARCEL makers and RAPE (division of county), unrelated to 'BD' as an abbreviation; appears to be severely garbled/misassigned content"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BEACH",
+      "old": "Niles v. Pateb",
+      "new": "Niles v. Patch",
+      "reason": "OCR error: 'Pateb' should be 'Patch' (case name)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BEACH",
+      "old": "over which the\npoe ebbs and flows",
+      "new": "over which the\ntide ebbs and flows",
+      "reason": "OCR error: 'poe' should be 'tide'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BEACH",
+      "old": "Reach generally denotes land between high\nand low water mark.",
+      "new": "Beach generally denotes land between high\nand low water mark.",
+      "reason": "OCR error: 'Reach' should be 'Beach' in context of this entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BARTER",
+      "old": "47 Ark.\n460, 2 8. W. 112.",
+      "new": "47 Ark.\n460, 2 S. W. 112.",
+      "reason": "OCR error: '8' should be 'S' in 'S. W.' (South Western Reporter abbreviation)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BASTON",
+      "old": "a baton,\n<lab, or staff",
+      "new": "a baton,\nclub, or staff",
+      "reason": "OCR error: '<lab' should be 'club'"
+    },
+    {
+      "type": "trim",
+      "term": "BASKET",
+      "trim_at": "BASKET TENURE. In feudal law.",
+      "reason": "BASKET TENURE entry is embedded/duplicated within the BASKET entry body"
+    },
+    {
+      "type": "trim",
+      "term": "BASSE",
+      "trim_at": "BASSE JUSTICE. In-feudal law.",
+      "reason": "BASSE JUSTICE entry is embedded within the BASSE entry body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BATTEL, WAGER OF",
+      "old": "in the obsolete real action called\na \"writ of action.\"",
+      "new": "in the obsolete real action called\na \"writ of right.\"",
+      "reason": "The obsolete real action associated with wager of battel was the 'writ of right', not 'writ of action'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "B.",
+      "old": "K. B. or Q. B.S.",
+      "new": "K. B. or Q. B.",
+      "reason": "Trailing 'S.' is OCR artifact; the sentence ends after 'Q. B.'"
+    },
+    {
+      "type": "trim",
+      "term": "B.",
+      "trim_at": "B. 8s.",
+      "reason": "The entries 'B. 8s.' and 'BABY AOT.' appear to be separate dictionary entries merged into the body of 'B.'"
+    },
+    {
+      "type": "headword",
+      "term": "BABON",
+      "correct": "BACON",
+      "reason": "The body discusses 'Customary estates' which belongs under a CUSTOM-related entry; the headword appears to be a misplaced/damaged entry. However, given the body content about customary estates, this appears to be a fragment of a CUSTOM entry merged incorrectly. Flagging as headword issue."
+    },
+    {
+      "type": "trim",
+      "term": "BABON",
+      "trim_at": "—Customary estates. [states whi",
+      "reason": "The entire body appears to be content from a CUSTOM or CUSTOMARY entry, not a 'BABON' entry. This is a misplaced/merged entry."
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BACHELERIA",
+      "old": "Commonalty or yeomapry, in contramedactes",
+      "new": "Commonalty or yeomanry, in contradistinction",
+      "reason": "OCR errors: 'yeomapry' should be 'yeomanry', 'contramedactes' should be 'contradistinction'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BACK",
+      "old": "Those eats: for a",
+      "new": "Those assessed for a",
+      "reason": "OCR error: 'eats:' should be 'assessed'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BACK",
+      "old": "eousequence. of some dan or obstruction below,",
+      "new": "consequence of some dam or obstruction below,",
+      "reason": "OCR errors: 'eousequence.' should be 'consequence', 'dan' should be 'dam'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BAGA",
+      "old": "kept in a Httle sack or bag, tn parvd bagd.",
+      "new": "kept in a little sack or bag, in parva baga.",
+      "reason": "OCR errors: 'Httle' should be 'little', 'tn parvd bagd' should be 'in parva baga'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BAGGAGE",
+      "old": "Mauritz v. Ralflroad Co.",
+      "new": "Mauritz v. Railroad Co.",
+      "reason": "OCR error: 'Ralflroad' should be 'Railroad'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BAILABLE",
+      "old": "Bailable process in sucb as requires",
+      "new": "Bailable process is such as requires",
+      "reason": "OCR errors: 'in sucb' should be 'is such'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BAILABLE",
+      "old": "A Dailable offense",
+      "new": "A bailable offense",
+      "reason": "OCR error: 'Dailable' should be 'bailable'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BAILOR",
+      "old": "The party who dails or delivers goods",
+      "new": "The party who bails or delivers goods",
+      "reason": "OCR error: 'dails' should be 'bails'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BAIRN'S PART",
+      "old": "Chidren's part",
+      "new": "Children's part",
+      "reason": "OCR error: 'Chidren's' should be 'Children's'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BAITING ANIMALS",
+      "old": "under 12 & 18 Vict. c. 92, § 3.",
+      "new": "under 12 & 13 Vict. c. 92, § 3.",
+      "reason": "OCR error: '18 Vict.' should be '13 Vict.' — standard regnal year citation format"
+    },
+    {
+      "type": "trim",
+      "term": "BAITING ANIMALS",
+      "trim_at": "BALZENA. A large fish, called by Bl",
+      "reason": "BALZENA entry is merged into the body of BAITING ANIMALS"
+    },
+    {
+      "type": "trim",
+      "term": "BALANCE",
+      "trim_at": "BALCANIFER, or BALDAKINIFER.",
+      "reason": "BALCANIFER entry is merged into the body of BALANCE"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BALIVA",
+      "old": "In old bai 'law.",
+      "new": "In old bail law.",
+      "reason": "OCR error: 'bai 'law' should be 'bail law' or possibly 'bailiff law'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BALLOT",
+      "old": "the names of the vandidates",
+      "new": "the names of the candidates",
+      "reason": "OCR error: 'vandidates' should be 'candidates'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BALLOT",
+      "old": "Also the act of voting by bulls or tickets.",
+      "new": "Also the act of voting by balls or tickets.",
+      "reason": "OCR error: 'bulls' should be 'balls'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BALLOT",
+      "old": "he does not thereby make it me than one ticket.",
+      "new": "he does not thereby make it more than one ticket.",
+      "reason": "OCR error: 'me than' should be 'more than'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BALLOT",
+      "old": "—Joint ballot. n parliamentaty ractice, a joint ballot is an aloet on or vote by ballot",
+      "new": "—Joint ballot. In parliamentary practice, a joint ballot is an election or vote by ballot",
+      "reason": "OCR errors: 'n parliamentaty ractice' should be 'In parliamentary practice'; 'aloet on or' should be 'election or'"
+    },
+    {
+      "type": "trim",
+      "term": "BALLIVO",
+      "trim_at": "BALLIVO AMOVENDO. An ancient",
+      "reason": "BALLIVO AMOVENDO appears as a separate entry merged into the body of BALLIVO"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BAITING",
+      "old": "BAITING ANIMALS\ned into locatio rei",
+      "new": "BAITING ANIMALS",
+      "reason": "The body of BAITING entry contains text that belongs to BAILMENT (continuation of bailment classification text starting with 'ed into locatio rei') merged in incorrectly"
+    },
+    {
+      "type": "flag",
+      "term": "BAITING",
+      "issue": "The entry headword 'BAITING' has body text that appears to be a continuation of the BAILMENT entry ('ed into locatio rei, or hiring...'), suggesting OCR page-flow error where BAILMENT overflow text was placed under BAITING heading"
+    },
+    {
+      "type": "flag",
+      "term": "BABON",
+      "issue": "Headword 'BABON' appears to be completely wrong - the body contains content from a CUSTOM-related entry about customary estates, customary freehold, etc. This may be a severe OCR/page-flow error."
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BAILIFF",
+      "old": "the parilaments or courts of France",
+      "new": "the parliaments or courts of France",
+      "reason": "OCR error: 'parilaments' should be 'parliaments'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BAN",
+      "old": "5. Im old European law. A niilitary",
+      "new": "5. In old European law. A military",
+      "reason": "OCR error: 'Im' should be 'In', 'niilitary' should be 'military'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BANCUS",
+      "old": "—Bancus regins. The queen's bench. See\nQUEEN'sS BENCH.—Bancus regis. The king's\nbench; the supreme tribunal of the king after\nparliament. . Comm. 41.—Bancus superior.",
+      "new": "—Bancus reginae. The queen's bench. See QUEEN'S BENCH.—Bancus regis. The king's bench; the supreme tribunal of the king after parliament. 1 Bl. Comm. 41.—Bancus superior.",
+      "reason": "OCR errors: 'regins' should be 'reginae', 'QUEEN'sS' should be 'QUEEN'S', missing '1 Bl.' before 'Comm. 41'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BAND",
+      "old": "A prociamation",
+      "new": "A proclamation",
+      "reason": "OCR error: 'prociamation' should be 'proclamation'"
+    },
+    {
+      "type": "trim",
+      "term": "BANE",
+      "trim_at": "BANERET, or BANNERET. In Eng:",
+      "reason": "Entries for BANERET/BANNERET and BANI are embedded in BANE's body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BANISHMENT",
+      "old": "See Cooper v. Telfair, 4 Dall. 14, 1 L. Ed.\n%21;",
+      "new": "See Cooper v. Telfair, 4 Dall. 14, 1 L. Ed. 721;",
+      "reason": "OCR error: '%21' should be '721'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BANISHMENT",
+      "old": "Rap. & lL.",
+      "new": "Rap. & L.",
+      "reason": "OCR error: 'lL.' should be 'L.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BANK",
+      "old": "as distingished from the sitting of a single\njudge at the assises or at nisi priue and from",
+      "new": "as distinguished from the sitting of a single judge at the assises or at nisi prius and from",
+      "reason": "OCR errors: 'distingished' should be 'distinguished', 'priue' should be 'prius'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BANKABLE",
+      "old": "Allis Co.\nv. Power Co., 9 8S. D. 459, 70 N. W. 650.",
+      "new": "Allis Co. v. Power Co., 9 S. D. 459, 70 N. W. 650.",
+      "reason": "OCR error: '8S. D.' should be 'S. D.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BANKABLE",
+      "old": "Ip mercantile law.",
+      "new": "In mercantile law.",
+      "reason": "OCR error: 'Ip' should be 'In'"
+    },
+    {
+      "type": "trim",
+      "term": "BANKRUPT",
+      "trim_at": "BANKRUPT LAW. A law relating to",
+      "reason": "The entry BANKRUPT LAW is embedded within the BANKRUPT entry body"
+    },
+    {
+      "type": "trim",
+      "term": "BANLEUCA",
+      "trim_at": "BANLIEU, or BANLIEVE. A French",
+      "reason": "Entry for BANLIEU/BANLIEVE is embedded in BANLEUCA's body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BANLIEU",
+      "old": "BANLIEU,\nBANLIEU, or BANLIEVE. A French\nand Canadian law term, having the same\nmeaning as banlieu, (q. v.)",
+      "new": "BANLIEU, or BANLIEVE. A French and Canadian law term, having the same meaning as banleuca, (q. v.)",
+      "reason": "Duplicate 'BANLIEU,' at start is OCR artifact; cross-reference should be to 'banleuca' not 'banlieu'"
+    },
+    {
+      "type": "trim",
+      "term": "BANNERET",
+      "trim_at": "BANNI, or BANNITUS. In old law",
+      "reason": "Entry for BANNI/BANNITUS is embedded in BANNERET's body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BANNIMUS",
+      "old": "BANNIRE AD PLACITA, AD MO-",
+      "new": "",
+      "reason": "Truncated heading of another entry appears at end of BANNIMUS body; should be trimmed"
+    },
+    {
+      "type": "trim",
+      "term": "BANNIMUS",
+      "trim_at": "BANNIRE AD PLACITA, AD MO-",
+      "reason": "Fragment of another entry (BANNIRE AD PLACITA) is appended to BANNIMUS body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BANQUE",
+      "old": "Fr. <A bench;",
+      "new": "Fr. A bench;",
+      "reason": "OCR error: spurious '<' character"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BANYAN",
+      "old": "manages the money concerns of 2 European,",
+      "new": "manages the money concerns of a European,",
+      "reason": "OCR error: '2' should be 'a'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BAR FEE",
+      "old": "[In English law. A fee taken\nby the sheriff, time out of mind, for every\nprisoner who is acquitted: Bac. Abr. \"Extortion.\" Abolished by St. 14 Geo. III «\n26; 355 Geo. III. c. 50; 8 & 9 Vict. c. 114.",
+      "new": "In English law. A fee taken by the sheriff, time out of mind, for every prisoner who is acquitted. Bac. Abr. \"Extortion.\" Abolished by St. 14 Geo. III. c. 26; 35 Geo. III. c. 50; 8 & 9 Vict. c. 114.",
+      "reason": "OCR errors: spurious '[', 'Geo. III «' should be 'Geo. III. c.', '355 Geo.' should be '35 Geo.'"
+    },
+    {
+      "type": "flag",
+      "term": "BARATRIAM",
+      "issue": "Entry headword appears to be a fragment or misplaced entry; body contains text that belongs to BAR entry (about barristers, court-room) and the headword 'BARATRIAM' does not match the content about a 'BARRISTER COMMITTEE'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BARBANUS",
+      "old": "In old Lombardic law. Aa\nuncle, (patruus.)",
+      "new": "In old Lombardic law. An uncle, (patruus.)",
+      "reason": "OCR error: 'Aa' should be 'An'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BARBITTS",
+      "old": "L. Fr. (Modern Fr. brebdis.)",
+      "new": "L. Fr. (Modern Fr. brebis.)",
+      "reason": "OCR error: 'brebdis' should be 'brebis' (French for sheep)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BARGAIN",
+      "old": "—Bargainee. The pers to a bargain to whom\nthe subject-matter of the bargain or thing barpam for is to go; the grantee in a deed of\nargain and sale—Bargainor.",
+      "new": "—Bargainee. The person to a bargain to whom the subject-matter of the bargain or thing bargained for is to go; the grantee in a deed of bargain and sale.—Bargainor.",
+      "reason": "OCR errors: 'pers' should be 'person', 'barpam' should be 'bargained', 'argain' should be 'bargain'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BARGAIN",
+      "old": "—Catching barain. A bargain by which money is loaned, at",
+      "new": "—Catching bargain. A bargain by which money is loaned, at",
+      "reason": "OCR error: 'barain' should be 'bargain'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BARON",
+      "old": "A husband; occurring in this sense in the\nphrase \"bvaron et feme,\"",
+      "new": "A husband; occurring in this sense in the phrase \"baron et feme,\"",
+      "reason": "OCR error: 'bvaron' should be 'baron'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BARON",
+      "old": "—Barons of the cinque ports. Members of\nperament from these ports, viz.: Sandwich,\ntomney, Hastings, Hythe, and Dover.",
+      "new": "—Barons of the cinque ports. Members of parliament from these ports, viz.: Sandwich, Romney, Hastings, Hythe, and Dover.",
+      "reason": "OCR errors: 'perament' should be 'parliament', 'tomney' should be 'Romney'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BARONET",
+      "old": "Ap English name or title of\ndignity,",
+      "new": "An English name or title of dignity,",
+      "reason": "OCR error: 'Ap' should be 'An'"
+    },
+    {
+      "type": "trim",
+      "term": "BARONY",
+      "trim_at": "BARRA, or BARRE. In old practice.",
+      "reason": "Entry for BARRA/BARRE is embedded in BARONY's body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BANCI",
+      "old": "BANCI NARRATORES. In old English law. Advocates; countors; serjeants.\nApplied to advocates in the common pleas\ncourts. 1 Bl. Comm. 24; Cowell.",
+      "new": "",
+      "reason": "The body of BANCI duplicates the content of the separate BANCI NARRATORES entry; BANCI entry body should contain only the BANCI NARRATORES heading as a sub-entry reference, not the full definition duplicated"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BANCI NARRATORES",
+      "old": "1 Bi. Comm. 24;",
+      "new": "1 Bl. Comm. 24;",
+      "reason": "OCR error: 'Bi.' should be 'Bl.' (abbreviation for Blackstone)"
+    },
+    {
+      "type": "trim",
+      "term": "BEAT",
+      "trim_at": "BEAU-PLEADER, (to plead fair",
+      "reason": "The BEAU-PLEADER entry is merged into the BEAT entry body after a paragraph break"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BEAT",
+      "old": "towus or townships",
+      "new": "towns or townships",
+      "reason": "OCR error: 'towus' should be 'towns'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BEAU-PLEADER",
+      "old": "fair-pleading, #4. c., for not",
+      "new": "fair-pleading, i. e., for not",
+      "reason": "OCR error: '#4. c.' should be 'i. e.' (that is)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BED",
+      "old": "channel! of a water-course",
+      "new": "channel of a water-course",
+      "reason": "OCR error: 'channel!' has erroneous exclamation mark"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BED",
+      "old": "Howard vy. Ingersoll",
+      "new": "Howard v. Ingersoll",
+      "reason": "OCR error: 'vy.' should be 'v.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BED",
+      "old": "Hatght v. Keokuk",
+      "new": "Haight v. Keokuk",
+      "reason": "OCR error: 'Hatght' should be 'Haight'"
+    },
+    {
+      "type": "trim",
+      "term": "BED",
+      "trim_at": "BED 125",
+      "reason": "Page number and continuation text 'BED 125' appears mid-body indicating a page break artifact"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BEDELARY",
+      "old": "jurisdiction of a be\ndel",
+      "new": "jurisdiction of a bedel",
+      "reason": "OCR error: line break splits 'bedel'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BEDEREPE",
+      "old": "aA service which certain",
+      "new": "A service which certain",
+      "reason": "OCR error: 'aA' should be 'A'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BELLIGERENT",
+      "old": "BELLUM\n\n1 Kent, Comm. 101",
+      "new": "1 Kent, Comm. 101",
+      "reason": "The BELLUM headword is embedded in the BELLIGERENT entry body"
+    },
+    {
+      "type": "trim",
+      "term": "BELLIGERENT",
+      "trim_at": "BELLUM\n\n1 Kent, Comm. 101",
+      "reason": "BELLUM entry content merged into BELLIGERENT body after the maxim"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BELLUM",
+      "old": "Ah armed contest",
+      "new": "An armed contest",
+      "reason": "OCR error: 'Ah' should be 'An'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BENCH",
+      "old": "obey the asubpana",
+      "new": "obey the subpoena",
+      "reason": "OCR error: 'asubpana' should be 'subpoena'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BENCH",
+      "old": "usually, but not necessarily, queen's counsel, electby co-optation",
+      "new": "usually, but not necessarily, queen's counsel, elected by co-optation",
+      "reason": "OCR error: 'electby' should be 'elected by'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BENE",
+      "old": "Iat. Well",
+      "new": "Lat. Well",
+      "reason": "OCR error: 'Iat.' should be 'Lat.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BENEFICIUM",
+      "old": "Im the civis law",
+      "new": "In the civil law",
+      "reason": "OCR error: 'Im the civis' should be 'In the civil'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BENEFICIUM",
+      "old": "red to indigence. ell. In the civil law.",
+      "new": "reduced to indigence. Bell. In the civil law.",
+      "reason": "OCR error: 'red to indigence. ell.' should be 'reduced to indigence. Bell.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BENEFICIUM",
+      "old": "7 Toullier, n. —Benefielum divisionis",
+      "new": "7 Toullier, n. —Beneficium divisionis",
+      "reason": "OCR error: 'Benefielum' should be 'Beneficium'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BENEFICIUM",
+      "old": "—Beneficium o\nIn civil and Scotch law. The privilege of order.",
+      "new": "—Beneficium ordinis. In civil and Scotch law. The privilege of order.",
+      "reason": "OCR error: 'Beneficium o' is truncated, should be 'Beneficium ordinis'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BENEFICIUM",
+      "old": "panes and exhaust his remedy apetnel him,\nfore resorting to the surety",
+      "new": "principal and exhaust his remedy against him, before resorting to the surety",
+      "reason": "OCR error: garbled text"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BENEFICIUM",
+      "old": "the right to have the goods of an heir separat\nfrom those",
+      "new": "the right to have the goods of an heir separated from those",
+      "reason": "OCR error: 'separat' is truncated, should be 'separated'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BENEFICIUM",
+      "old": "—Benefieium seperation': In the civil law.",
+      "new": "—Beneficium separationis. In the civil law.",
+      "reason": "OCR error: garbled headword"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BENEFICIUM",
+      "old": "eficium. Hob. 148. A remuneration [is] not\ngiven, unless on account of a",
+      "new": "officium. Hob. 148. A remuneration [is] not given, unless on account of a service.",
+      "reason": "OCR error: 'eficium' should be 'officium' (completing the maxim 'Beneficium non datum nisi propter officium')"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BENEFICIARY",
+      "old": "BBNEFICIO PRIMA [(ECOLESIAS-\nTICO HABENDO.]",
+      "new": "BENEFICIO PRIMO ECCLESIASTICO HABENDO.",
+      "reason": "OCR error: garbled headword embedded in BENEFICIARY entry"
+    },
+    {
+      "type": "trim",
+      "term": "BENEFICIARY",
+      "trim_at": "BBNEFICIO PRIMA [(ECOLESIAS-",
+      "reason": "BENEFICIO PRIMO ECCLESIASTICO HABENDO entry merged into BENEFICIARY body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BENEFIT",
+      "old": "The onniaet\nname for what is now more commonly called a\n\"building society,\" A(q. v.)",
+      "new": "The original name for what is now more commonly called a \"building society,\" (q. v.)",
+      "reason": "OCR error: 'onniaet' should be 'original', 'A(q. v.)' should be '(q. v.)'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BENEFIT",
+      "old": "Benefit of cession.\nIn the civil law. e release of a debtor",
+      "new": "Benefit of cession. In the civil law. The release of a debtor",
+      "reason": "OCR error: 'e release' should be 'The release'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BERCARIA",
+      "old": "In old BHuglish law",
+      "new": "In old English law",
+      "reason": "OCR error: 'BHuglish' should be 'English'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BERCARIA",
+      "old": "ulso a place",
+      "new": "also a place",
+      "reason": "OCR error: 'ulso' should be 'also'"
+    },
+    {
+      "type": "trim",
+      "term": "BERCARIA",
+      "trim_at": "A shep-\nBERCARIUS, or BERCATOR.",
+      "reason": "BERCARIUS entry merged into BERCARIA body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BERCARIUS",
+      "old": "or BERICATOR.\nHerdsman.\n\nA shepherd.\n\nBEREWYCHA",
+      "new": "or BERCATOR. A shepherd.",
+      "reason": "OCR errors: 'BERICATOR' should be 'BERCATOR'; 'Herdsman' is spurious; BEREWYCHA is a separate entry"
+    },
+    {
+      "type": "trim",
+      "term": "BERCARIUS",
+      "trim_at": "BEREWYCHA",
+      "reason": "BEREWYCHA/BEREWICHA entry merged into BERCARIUS body"
+    },
+    {
+      "type": "trim",
+      "term": "BERGHMAYSTER",
+      "trim_at": "BERGHMOTH, or BERGHMOTE.",
+      "reason": "BERGHMOTH entry merged into BERGHMAYSTER body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BERGHMAYSTER",
+      "old": "A balliff or chief officer",
+      "new": "A bailiff or chief officer",
+      "reason": "OCR error: 'balliff' should be 'bailiff'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BESAYEL",
+      "old": "on the day of his\ndenth a stranger abated",
+      "new": "on the day of his death a stranger abated",
+      "reason": "OCR error: 'denth' should be 'death'"
+    },
+    {
+      "type": "trim",
+      "term": "BERRY",
+      "trim_at": "anthropometry, used chiefly",
+      "reason": "Bertillon system / anthropometry definition text merged into BERRY entry body"
+    },
+    {
+      "type": "trim",
+      "term": "BERO",
+      "trim_at": "BERO TENEMENTO. A writ",
+      "reason": "The entry appears to have the headword merged into the body; 'BERO TENEMENTO' should be the headword or a sub-entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BEQUEATH",
+      "old": "Lasher vy. Lasher",
+      "new": "Lasher v. Lasher",
+      "reason": "OCR error: 'vy.' should be 'v.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BEQUEATH",
+      "old": "the word \"devise\" being wsed with reference",
+      "new": "the word \"devise\" being used with reference",
+      "reason": "OCR error: 'wsed' should be 'used'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BEQUEATH",
+      "old": "Borgner v. Krown",
+      "new": "Borgner v. Brown",
+      "reason": "OCR error: 'Krown' should be 'Brown'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BEQUEATH",
+      "old": "FLadd v. Harvey",
+      "new": "Ladd v. Harvey",
+      "reason": "OCR error: 'FLadd' should be 'Ladd'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BEQUEATH",
+      "old": "HKvans v. Price",
+      "new": "Evans v. Price",
+      "reason": "OCR error: 'HKvans' should be 'Evans'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BEQUEST",
+      "old": "An ercentory bequest",
+      "new": "An executory bequest",
+      "reason": "OCR error: 'ercentory' should be 'executory'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BEQUEST",
+      "old": "Earnam vy. Farnam",
+      "new": "Farnam v. Farnam",
+      "reason": "OCR error: 'Earnam vy.' should be 'Farnam v.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BENEVOLENCE",
+      "old": "James vy. Allen",
+      "new": "James v. Allen",
+      "reason": "OCR error: 'vy.' should be 'v.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BENEVOLENCE",
+      "old": "ell v. Mercer",
+      "new": "Bell v. Mercer",
+      "reason": "OCR error: 'ell v.' should be 'Bell v.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BEQUEATH",
+      "old": "Lasher vy. Lasher, 13\nBarl. (N. Y.) 106",
+      "new": "Lasher v. Lasher, 13 Barb. (N. Y.) 106",
+      "reason": "OCR errors: 'vy.' should be 'v.', 'Barl.' should be 'Barb.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BODY OF LAWS",
+      "old": "orgavized",
+      "new": "organized",
+      "reason": "OCR error: 'v' instead of 'n'"
+    },
+    {
+      "type": "trim",
+      "term": "BOILARY",
+      "trim_at": "BOIS, or BOYS. L. Fr. Wood",
+      "reason": "Entry for BOIS merged into BOILARY body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BOLHAGIUM",
+      "old": "Bole house",
+      "new": "A little house",
+      "reason": "OCR error: 'Bole' should be 'A little'; the definition is incomplete/garbled compared to the version in BOILARY"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BOLTING",
+      "old": "Holthouses",
+      "new": "Holthouse",
+      "reason": "OCR error: extra 's' appended to author name"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BON",
+      "old": "royat",
+      "new": "royal",
+      "reason": "OCR error: 't' instead of 'l'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BON",
+      "old": "(bon pour, 00d for so much)",
+      "new": "(bon pour, good for so much)",
+      "reason": "OCR error: '00d' should be 'good'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BON",
+      "old": "Uvres",
+      "new": "livres",
+      "reason": "OCR error: 'Uvres' should be 'livres'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BONA",
+      "old": "Pecuniae, popensy.",
+      "new": "Pecuniae, pecuniae.",
+      "reason": "OCR error: 'popensy' is garbled; likely 'pecuniae' or similar Latin term repeated"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BONA",
+      "old": "the proper gone of him",
+      "new": "the proper goods of him",
+      "reason": "OCR error: 'gone' should be 'goods'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BONDSMAN",
+      "old": "bait?",
+      "new": "bail",
+      "reason": "OCR error: 'bait?' should be 'bail'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BONDSMAN",
+      "old": "59 N. E. 5687",
+      "new": "59 N. E. 567",
+      "reason": "OCR error: extra digit '8' in citation number"
+    },
+    {
+      "type": "trim",
+      "term": "BONI",
+      "trim_at": "BONI HOMINES. In old European",
+      "reason": "The body of BONI begins with the maxims but has BONI HOMINES definition merged in at the start"
+    },
+    {
+      "type": "trim",
+      "term": "BONIS",
+      "trim_at": "BONIS CEDERE. In the civil law",
+      "reason": "Entries BONIS CEDERE and BONIS NON AMOVENDIS are merged into BONIS body"
+    },
+    {
+      "type": "trim",
+      "term": "BONIS NON AMOVENDIS",
+      "trim_at": "BONIFICATION..The remission of",
+      "reason": "BONIFICATION entry merged into BONIS NON AMOVENDIS body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BONITARIAN",
+      "old": "ecquitable",
+      "new": "equitable",
+      "reason": "OCR error: extra 'c' in 'equitable'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BONITARIAN",
+      "old": "impcrium",
+      "new": "imperium",
+      "reason": "OCR error: 'impcrium' should be 'imperium'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BONITARIAN",
+      "old": "QuIRITABIAN OWNEB-",
+      "new": "QUIRITARIAN OWNER-",
+      "reason": "OCR error: garbled cross-reference headword"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BONUS",
+      "old": "squum et bonum judicat, et squitatom stricto juri prefert",
+      "new": "aequum et bonum judicat, et aequitatem stricto juri praefert",
+      "reason": "OCR error: 'squum', 'squitatom', 'prefert' are garbled Latin words"
+    },
+    {
+      "type": "trim",
+      "term": "BOOM",
+      "trim_at": "BOOM COMPANY. A company formed",
+      "reason": "BOOM COMPANY entry merged into BOOM body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BOOMAGE",
+      "old": "8&8 Miss. 499",
+      "new": "88 Miss. 499",
+      "reason": "OCR error: '8&8' should be '88'"
+    },
+    {
+      "type": "trim",
+      "term": "BOON",
+      "trim_at": "BOOT, or BOTE. An old Saxon",
+      "reason": "BOOT and BOOTING entries merged into BOON body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BOOTY",
+      "old": "eneniy",
+      "new": "enemy",
+      "reason": "OCR error: 'eneniy' should be 'enemy'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BOOTY",
+      "old": "property.on the sea",
+      "new": "property on the sea",
+      "reason": "OCR error: spurious period before 'on'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BORDAGE",
+      "old": "bordarit",
+      "new": "bordarii",
+      "reason": "OCR error: 'bordarit' should be 'bordarii'"
+    },
+    {
+      "type": "trim",
+      "term": "BORDARHI",
+      "trim_at": "BORDARII, or BORDIMANNI. In old",
+      "reason": "BORDARII entry merged into BORDARHI body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BORDARHI",
+      "old": "Bu.Law Dict.(2p Ep.)—10",
+      "new": "Bl.Law Dict.(2d Ed.)—10",
+      "reason": "OCR error: running footer/signature garbled"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BOREL-FOLK",
+      "old": "flocens,",
+      "new": "floccus,",
+      "reason": "OCR error: 'flocens' should be 'floccus' (Latin for tuft of wool)"
+    },
+    {
+      "type": "trim",
+      "term": "BORGH",
+      "trim_at": "BOROUGH. In English law.",
+      "reason": "BOROUGH entry merged into BORGH body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BORROW",
+      "old": "returned in spewe",
+      "new": "returned in specie",
+      "reason": "OCR error: 'spewe' should be 'specie'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BORROW",
+      "old": "if this were eo",
+      "new": "if this were so",
+      "reason": "OCR error: 'eo' should be 'so'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BORSHOLDER",
+      "old": "borough's ealder",
+      "new": "borough's elder",
+      "reason": "OCR error: 'ealder' should be 'elder'"
+    },
+    {
+      "type": "trim",
+      "term": "BETTERMENT",
+      "trim_at": "—Betterment acts. Statutes which",
+      "reason": "The dash-prefixed sub-entry 'Betterment acts' appears to be a legitimate sub-entry within the BETTERMENT entry, not a separate merged entry. This is standard Black's Law Dictionary format."
+    },
+    {
+      "type": "flag",
+      "term": "BEYOND",
+      "issue": "Entry appears truncated mid-sentence at 'Wakefield v.' - body is incomplete"
+    },
+    {
+      "type": "flag",
+      "term": "BH",
+      "issue": "This entry appears to be OCR garbage - a mix of unrelated case citations, legal maxims, and abbreviation table entries jumbled together. Not a real dictionary entry."
+    },
+    {
+      "type": "flag",
+      "term": "BI",
+      "issue": "This entry appears to be OCR garbage - a mix of unrelated legal commentary, Saxon law definitions, and a Latin maxim jumbled together. Not a real dictionary entry."
+    },
+    {
+      "type": "trim",
+      "term": "BIDAL",
+      "trim_at": "BIELBRIEF",
+      "reason": "The entry for BIELBRIEF is merged into the body of BIDAL after a paragraph break."
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BIELBRIEF",
+      "old": "<A document furnished by",
+      "new": "A document furnished by",
+      "reason": "Spurious '<' character at start of sentence, likely OCR artifact."
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BIELBRIEF",
+      "old": "vatsseau",
+      "new": "vaisseau",
+      "reason": "OCR error: 'vatsseau' should be 'vaisseau' (French for vessel)."
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BIENES",
+      "old": "~—Bienes comunes",
+      "new": "—Bienes comunes",
+      "reason": "OCR introduced '~' before the dash."
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BIENES",
+      "old": "thos things which, not being the private property\nef any person",
+      "new": "those things which, not being the private property of any person",
+      "reason": "OCR errors: 'thos' -> 'those', 'ef' -> 'of'."
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BIENES",
+      "old": "the individuals of the terripee f or district",
+      "new": "the individuals of the territory or district",
+      "reason": "OCR garbled 'territory or' into 'terripee f or'."
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BIENES",
+      "old": "Welder v. bert, 91 Tex. 510",
+      "new": "Welder v. Lambert, 91 Tex. 510",
+      "reason": "Case name 'Lambert' was split by OCR into 'bert' on a new line, losing 'Lam'."
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BIENNIALLY",
+      "old": "- gignifies",
+      "new": "signifies",
+      "reason": "OCR error: '- gignifies' should be 'signifies'; leading dash and 'g' are artifacts."
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BIENNIALLY",
+      "old": "Y¥.) 576",
+      "new": "Y.) 576",
+      "reason": "OCR error: 'Y¥.' should be 'Y.' in the New York citation abbreviation."
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BIENS",
+      "old": "in the clvil as",
+      "new": "in the civil as",
+      "reason": "OCR error: 'clvil' should be 'civil'."
+    },
+    {
+      "type": "trim",
+      "term": "BIENS",
+      "trim_at": "BIGA, or BIGATA. A cart or chariot",
+      "reason": "The entry for BIGA/BIGATA is merged into the body of BIENS after a paragraph break."
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BILAGINES",
+      "old": "nunicipal laws.\n' BILAN.",
+      "new": "municipal laws.",
+      "reason": "OCR error: 'nunicipal' should be 'municipal'; the BILAN entry is merged into BILAGINES body."
+    },
+    {
+      "type": "trim",
+      "term": "BILAGINES",
+      "trim_at": "BILAN. A term used in Louisiana",
+      "reason": "The entry for BILAN is merged into the body of BILAGINES after the first sentence."
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BILATERAL",
+      "old": "A_ term,",
+      "new": "A term,",
+      "reason": "OCR artifact: 'A_' should be 'A'."
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BILATERAL",
+      "old": "the conventian is then said to be",
+      "new": "the convention is then said to be",
+      "reason": "OCR error: 'conventian' should be 'convention'."
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BILINE",
+      "old": "En line bdiline",
+      "new": "En line biline",
+      "reason": "OCR error: 'bdiline' should be 'biline'."
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BILL",
+      "old": "This waz a written statement",
+      "new": "This was a written statement",
+      "reason": "OCR error: 'waz' should be 'was'."
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BILL",
+      "old": "- English and American practice.",
+      "new": "English and American practice.",
+      "reason": "OCR artifact: spurious leading '- ' before the sentence."
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BILL",
+      "old": "perecn laying claim",
+      "new": "person laying claim",
+      "reason": "OCR error: 'perecn' should be 'person'."
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BILL",
+      "old": "ispute between the parties",
+      "new": "dispute between the parties",
+      "reason": "OCR error: 'ispute' missing leading 'd', should be 'dispute'."
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BILLA",
+      "old": "A bfll; an original bill",
+      "new": "A bill; an original bill",
+      "reason": "OCR error: 'bfll' should be 'bill'."
+    },
+    {
+      "type": "trim",
+      "term": "BILLA",
+      "trim_at": "BILLA CASSETUR, or QUOD BILLA",
+      "reason": "The entry BILLA CASSETUR begins mid-body after the BILLA entry definitions."
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BILLETA",
+      "old": "A Dill\nor petition",
+      "new": "A bill or petition",
+      "reason": "OCR error: 'Dill' should be 'bill'."
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BILLET",
+      "old": "him to occupy then.",
+      "new": "him to occupy them.",
+      "reason": "OCR error: 'then' should be 'them'."
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BILLET",
+      "old": "a Dill or promissory note",
+      "new": "a bill or promissory note",
+      "reason": "OCR error: 'Dill' should be 'bill'."
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BILLETA",
+      "old": "A Dill\nor petition exhibited",
+      "new": "A bill or petition exhibited",
+      "reason": "OCR error: 'Dill' should be 'bill'."
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BIND",
+      "old": "continues to impose duties or obligations, it is\nsaid to be \"binding.\"",
+      "new": "continues to impose duties or obligations, it is said to be \"binding.\"",
+      "reason": "Minor line break issue in OCR but not a critical error; binding is correctly quoted."
+    },
+    {
+      "type": "trim",
+      "term": "BIND",
+      "trim_at": "BIND OUT. To place one under a legal",
+      "reason": "The entry BIND OUT is merged into the body of BIND after a paragraph break."
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BIND OUT",
+      "old": "to serve unother",
+      "new": "to serve another",
+      "reason": "OCR error: 'unother' should be 'another'."
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BINDING",
+      "old": "The act by which a\ncourt",
+      "new": "The act by which a court",
+      "reason": "Missing term in headword context - this entry appears to be a sub-entry or truncated. The full headword may be 'BINDING OVER'."
+    },
+    {
+      "type": "flag",
+      "term": "BINDING",
+      "issue": "Entry headword may be incomplete - likely 'BINDING OVER' based on the definition content about recognizance and bail."
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BIPARTITE",
+      "old": "'executed by both parties.",
+      "new": "executed by both parties.",
+      "reason": "OCR artifact: spurious leading apostrophe before 'executed'."
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BIS",
+      "old": "it is not aliowed to be done",
+      "new": "it is not allowed to be done",
+      "reason": "OCR error: 'aliowed' should be 'allowed'."
+    },
+    {
+      "type": "flag",
+      "term": "BISANTIUM",
+      "issue": "This appears to be a duplicate entry - the same content appears under 'BISANTIUM BISANTIUM, BESANTINE, BEZANT'. One of the two entries may be an OCR artifact or the headword is damaged."
+    },
+    {
+      "type": "headword",
+      "term": "BISANTIUM BISANTIUM, BESANTINE, BEZANT",
+      "correct": "BISANTIUM, BESANTINE, BEZANT",
+      "reason": "Headword has 'BISANTIUM' duplicated due to OCR error."
+    },
+    {
+      "type": "trim",
+      "term": "BISHOP'S COURT",
+      "trim_at": "BISSEXTILE, 'The day which is",
+      "reason": "The entry BISSEXTILE is merged into the body of BISHOP'S COURT after a paragraph break, along with BLACK ACRE AND WHITE ACRE."
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BISSEXTILE",
+      "old": "BLACK ACRE and WHITE AORE,\nFictitious names applied to pieces of land,\nand used as examples in the old books.",
+      "new": "",
+      "reason": "BLACK ACRE and WHITE ACRE entry is incorrectly merged into BISSEXTILE body; it is a separate entry."
+    },
+    {
+      "type": "trim",
+      "term": "BISSEXTILE",
+      "trim_at": "BLACK ACRE and WHITE ACRE.",
+      "reason": "The entry BLACK ACRE AND WHITE ACRE is merged into the body of BISSEXTILE."
+    },
+    {
+      "type": "flag",
+      "term": "BK",
+      "issue": "This entry appears to be OCR garbage - a mix of unrelated case citations and legal definitions. Not a real dictionary entry. Similar to BH and BI entries."
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BLACK ACT",
+      "old": "The statute 9 Geo. I. ¢.\n22",
+      "new": "The statute 9 Geo. I. c. 22",
+      "reason": "OCR error: '¢.' should be 'c.' (abbreviation for chapter)."
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BLACK ACT",
+      "old": "committed in. Epping Forest",
+      "new": "committed in Epping Forest",
+      "reason": "OCR artifact: spurious period after 'in'."
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BIAS",
+      "old": "21 S. W. 601",
+      "new": "21 S. E. 601",
+      "reason": "Hinkle v. State, 94 Ga. 595 is a Georgia case - should cite S.E. reporter not S.W."
+    },
+    {
+      "type": "trim",
+      "term": "BLACK BOOK OF THE ADMIRALTY",
+      "trim_at": "BLACK BOOK OF THE EXCHEQ-",
+      "reason": "Entry for BLACK BOOK OF THE EXCHEQUER begins at end of body"
+    },
+    {
+      "type": "trim",
+      "term": "BLACK-LIST",
+      "trim_at": "BLACK-MAIL\nBLACK-MAIL.",
+      "reason": "BLACK-MAIL entry is merged into BLACK-LIST body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BLACK-MAIL",
+      "old": "as a condition of secnring immunity",
+      "new": "as a condition of securing immunity",
+      "reason": "OCR error: 'secnring' should be 'securing'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BLACK-MAIL",
+      "old": "or offers to expave, the weaknesses",
+      "new": "or offers to expose, the weaknesses",
+      "reason": "OCR error: 'expave' should be 'expose'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BLACK-MAIL",
+      "old": "Kedsall v. Brooks",
+      "new": "Redsall v. Brooks",
+      "reason": "OCR error: 'Kedsall' should be 'Redsall' (matches 'Keedsall' in BLACK-LIST body which itself may be OCR for 'Redsall')"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BLACK-MAIL",
+      "old": "17 Abh.\nPrac. 221",
+      "new": "17 Abb. Prac. 221",
+      "reason": "OCR error: 'Abh.' should be 'Abb.' (abbreviation for Abbott)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BLACK-MAIL",
+      "old": "24 Pac. 979),",
+      "new": "24 Pac. 979,",
+      "reason": "OCR error: stray closing parenthesis"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BLACK-MAIL",
+      "old": "People vy. Thompson",
+      "new": "People v. Thompson",
+      "reason": "OCR error: 'vy.' should be 'v.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BLACK-MAIL",
+      "old": "a a 420; Mitchell v. Sharon (C. C.) 5]\n\ned. :",
+      "new": "54 N. E. 420; Mitchell v. Sharon (C. C.) 5 Fed. 420.",
+      "reason": "OCR damage: citation fragment garbled, should match the complete citation in BLACK-LIST body"
+    },
+    {
+      "type": "headword",
+      "term": "BLACK-ROD",
+      "correct": "BLACK-ROD, GENTLEMAN USHER OF",
+      "reason": "The headword is incomplete; it should include 'GENTLEMAN USHER OF' as shown in body and duplicate entry"
+    },
+    {
+      "type": "trim",
+      "term": "BLACKLEG",
+      "trim_at": "' BLADA. In old English law.",
+      "reason": "BLADA entry is merged into BLACKLEG body"
+    },
+    {
+      "type": "trim",
+      "term": "BLADA",
+      "trim_at": "BLADA\n\n- BLADA.",
+      "reason": "Duplicate/garbled headword repetition in body; entry body starts with repeated headword and dash"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BLADA",
+      "old": "erops of grain",
+      "new": "crops of grain",
+      "reason": "OCR error: 'erops' should be 'crops'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BLADARIUS",
+      "old": "corn-monger; meal-man -.or corn-chandler; a\nbdladier",
+      "new": "corn-monger; meal-man or corn-chandler; a bladier",
+      "reason": "OCR errors: stray dash and 'bdladier' should be 'bladier'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BLANC",
+      "old": "Musson v. U. 8S.\nBank",
+      "new": "Musson v. U. S. Bank",
+      "reason": "OCR error: '8S.' should be 'S.'"
+    },
+    {
+      "type": "trim",
+      "term": "BLANCH",
+      "trim_at": "BLANCH HOLDING.",
+      "reason": "BLANCH HOLDING entry is merged into BLANCH body; BLANCH should just be a cross-reference or short entry"
+    },
+    {
+      "type": "trim",
+      "term": "BLENCH",
+      "trim_at": "BLEND,\nBLEND.",
+      "reason": "BLEND and BLENDED FUND entries merged into BLENCH body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BLASPHEMY",
+      "old": "Jesug Christ",
+      "new": "Jesus Christ",
+      "reason": "OCR error: 'Jesug' should be 'Jesus'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BLASPHEMY",
+      "old": "It is a willful and malicious atone to lessen",
+      "new": "It is a willful and malicious attempt to lessen",
+      "reason": "OCR error: 'atone' should be 'attempt'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BLASPHEMY",
+      "old": "The use of this word is, tm modern law",
+      "new": "The use of this word is, in modern law",
+      "reason": "OCR error: 'tm' should be 'in'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BLASPHEMY",
+      "old": "Nov. 77, « 1, § 1",
+      "new": "Nov. 77, c. 1, § 1",
+      "reason": "OCR error: '«' should be 'c.' (chapter abbreviation)"
+    },
+    {
+      "type": "trim",
+      "term": "BLUE",
+      "trim_at": "B0 called because",
+      "reason": "BO entry merged into BLUE body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BLUE",
+      "old": "reguiation of religious.\nund personal conduct",
+      "new": "regulation of religious and personal conduct",
+      "reason": "OCR errors: 'reguiation' should be 'regulation', 'und' should be 'and'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BLOOD",
+      "old": "16 N. BE. 401",
+      "new": "16 N. E. 401",
+      "reason": "OCR error: 'BE.' should be 'E.' (N.E. reporter abbreviation)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BLOOD",
+      "old": "16 8. E. 1",
+      "new": "16 S. E. 1",
+      "reason": "OCR error: '8.' should be 'S.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BLOOD MONEY",
+      "old": "A _ weregild, or pe\ncuniary mulct",
+      "new": "A weregild, or pecuniary mulct",
+      "reason": "OCR error: stray underscore and broken word"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BLOOD MONEY",
+      "old": "reward for theapprehension",
+      "new": "reward for the apprehension",
+      "reason": "OCR error: missing space"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BLOODWIT",
+      "old": "amercement for bloudshed",
+      "new": "amercement for bloodshed",
+      "reason": "OCR error: 'bloudshed' should be 'bloodshed'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BOC",
+      "old": "Boc land, deed or chara deed or charter.\n.ter land.",
+      "new": "Boc land, deed or charter land.",
+      "reason": "OCR error: 'chara' and '.ter' are a broken word 'charter'; 'deed or charter' repeated"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BOC",
+      "old": "—Booc horde.",
+      "new": "—Boc horde.",
+      "reason": "OCR error: 'Booc' should be 'Boc'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BODILY",
+      "old": "52 N. B. 703",
+      "new": "52 N. E. 703",
+      "reason": "OCR error: 'B.' should be 'E.' (N.E. reporter)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BODILY",
+      "old": "199 Ill. 464, 05 N. E.\n445",
+      "new": "199 Ill. 464, 65 N. E. 445",
+      "reason": "OCR error: '05' should be '65'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BODILY",
+      "old": "Craig v. Ambrose, 80 Ga, 134,48. B 1",
+      "new": "Craig v. Ambrose, 80 Ga. 134, 4 S. E. 1",
+      "reason": "OCR error: garbled citation; '48. B 1' should be '4 S. E. 1'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BODILY",
+      "old": "—-Bodiinjury.",
+      "new": "—Bodily injury.",
+      "reason": "OCR error: 'Bodiinjury' should be 'Bodily injury'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BODILY",
+      "old": "60 N. ¥. Supp. 228",
+      "new": "60 N. Y. Supp. 228",
+      "reason": "OCR error: '¥.' should be 'Y.'"
+    },
+    {
+      "type": "trim",
+      "term": "BODILY",
+      "trim_at": "BODMERIE, BODEMERIE, BODDE-",
+      "reason": "Start of next entry BODMERIE merged into BODILY body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BLANKET",
+      "old": "98 U. 8S. 541",
+      "new": "98 U. S. 541",
+      "reason": "OCR error: '8S.' should be 'S.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BODY OF A COUNTY",
+      "old": "52\nN. ¥. Supp. 968",
+      "new": "52 N. Y. Supp. 968",
+      "reason": "OCR error: '¥.' should be 'Y.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BLOCK",
+      "old": "63 N. E 191",
+      "new": "63 N. E. 191",
+      "reason": "OCR error: missing period after 'E'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BLOCK OF SURVEYS",
+      "old": "In Penssylvania land law",
+      "new": "In Pennsylvania land law",
+      "reason": "OCR error: 'Penssylvania' should be 'Pennsylvania'"
+    },
+    {
+      "type": "trim",
+      "term": "BOTHA",
+      "trim_at": "BOTHAGIUM, or BOOTHAGE. Cust",
+      "reason": "BOTHAGIUM and BOTHNA entries are merged into the BOTHA entry body"
+    },
+    {
+      "type": "trim",
+      "term": "BOTTOMRY",
+      "trim_at": "BOTTOMRY.",
+      "reason": "The headword BOTTOMRY appears mid-body as a section break artifact"
+    },
+    {
+      "type": "trim",
+      "term": "BOUCHE",
+      "trim_at": "BOUCHE OF OOURT, or BUDGE OF",
+      "reason": "An embedded entry BOUCHE OF COURT is merged into the BOUCHE entry body"
+    },
+    {
+      "type": "trim",
+      "term": "BOUND",
+      "trim_at": "BOUND BAILIFFS. In English law",
+      "reason": "BOUND BAILIFFS entry is merged into the BOUND entry body"
+    },
+    {
+      "type": "trim",
+      "term": "BOVATA",
+      "trim_at": "BOVATA TERRZ. As much land as",
+      "reason": "BOVATA TERRA entry is merged into the BOVATA entry body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BOTTOMRY BOND",
+      "old": "tive codes of different commercial nations,",
+      "new": "positive codes of different commercial nations,",
+      "reason": "OCR dropped 'posi' from 'positive'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BOTTOMRY BOND",
+      "old": "Cole v. White, 26 Wend. (N. EO ee Greel\nvy Smith, 10 Fed. Cas. 1077;\ne Grapeshot,",
+      "new": "Cole v. White, 26 Wend. (N. Y.) —; Greel v. Smith, 10 Fed. Cas. 1077; The Grapeshot,",
+      "reason": "OCR garbled citation text"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BOTTOMRY BOND",
+      "old": "upon maritime risks, to be borne bs",
+      "new": "upon maritime risks, to be borne by",
+      "reason": "OCR error: 'bs' should be 'by'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BOTHNA",
+      "old": "Botbna also signifies",
+      "new": "Bothna also signifies",
+      "reason": "OCR error: 'Botbna' should be 'Bothna'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BRANKS",
+      "old": "yhead and a sharp piece of iron entered the",
+      "new": "head and a sharp piece of iron entered the",
+      "reason": "OCR error: spurious 'y' prepended to 'head'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BRAWL",
+      "old": "approved Jexicographers.",
+      "new": "approved lexicographers.",
+      "reason": "OCR error: 'Jexicographers' should be 'lexicographers'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BRAWL",
+      "old": "the public f got produced by the same class -",
+      "new": "the public peace, produced by the same class",
+      "reason": "OCR garbled 'peace,' as 'f got'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BREACH",
+      "old": "Legally, they mean the same kind of disturbance\nto the public f got produced by the same class -\nof agents",
+      "new": "Legally, they mean the same kind of disturbance to the public peace, produced by the same class of agents",
+      "reason": "OCR garbled 'peace,' — this text actually appears in BRAWL, not BREACH"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BOVATA",
+      "old": "BOVATA TERRZ.",
+      "new": "BOVATA TERRÆ.",
+      "reason": "OCR error: 'TERRZ' should be 'TERRÆ'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BOVATA TERRA",
+      "old": "BOVATA TERRZ",
+      "new": "BOVATA TERRÆ",
+      "reason": "OCR error in headword reference"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BREDWITE",
+      "old": "In Saxon and old Englisk",
+      "new": "In Saxon and old English",
+      "reason": "OCR error: 'Englisk' should be 'English'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BRACHIUM",
+      "old": "An arm of the\nSea. «",
+      "new": "An arm of the sea.",
+      "reason": "OCR artifact: spurious '«' character at end"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BOUGH",
+      "old": "to hold\nof the donor in capite.:",
+      "new": "to hold of the donor in capite.",
+      "reason": "OCR artifact: spurious ':' after period"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BOYCOTT",
+      "old": "State v. GHdden, 55 Conn. 46",
+      "new": "State v. Glidden, 55 Conn. 46",
+      "reason": "OCR error: 'GHdden' should be 'Glidden'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BOYCOTT",
+      "old": "In re Crump, 84 Va.\n927, 6 8. B. 620",
+      "new": "In re Crump, 84 Va. 927, 6 S. E. 620",
+      "reason": "OCR errors: '8. B.' should be 'S. E.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BOULEVARD",
+      "old": "Howe\nv. Lowell, 171 Mass. 675, 51 N. EB. 536: Park\nCom'rs v. Farber, 171 Ill. 146, 49 N. B. 427.",
+      "new": "Howe v. Lowell, 171 Mass. 675, 51 N. E. 536; Park Com'rs v. Farber, 171 Ill. 146, 49 N. E. 427.",
+      "reason": "OCR errors: 'N. EB.' and 'N. B.' should be 'N. E.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BOUGHT",
+      "old": "he is aecustomed to give",
+      "new": "he is accustomed to give",
+      "reason": "OCR error: 'aecustomed' should be 'accustomed'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BOUNTY",
+      "old": "Ingram v. Colgan, 106\nCal. 113, 388 Pac. 315",
+      "new": "Ingram v. Colgan, 106 Cal. 113, 38 Pac. 315",
+      "reason": "OCR error: '388 Pac.' should be '38 Pac.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BOUNDARY",
+      "old": "wood. inserted in the earth",
+      "new": "wood inserted in the earth",
+      "reason": "OCR artifact: spurious period after 'wood'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BREACH",
+      "old": "—Breach of close. The unlawful or unwarrantable entry on another person's soil, land, or\nclose.\nComm. 209.—Breach of covenant.",
+      "new": "—Breach of close. The unlawful or unwarrantable entry on another person's soil, land, or close. 3 Bl. Comm. 209.—Breach of covenant.",
+      "reason": "OCR dropped '3 Bl.' from citation reference"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BRANDING",
+      "old": "by inflicting a mark on an offender\nwith a hot fron.",
+      "new": "by inflicting a mark on an offender with a hot iron.",
+      "reason": "OCR error: 'fron' should be 'iron'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BUCKET",
+      "old": "1 8. W. 58",
+      "new": "1 S. W. 58",
+      "reason": "OCR error: '8' should be 'S' in S.W. abbreviation"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BUCKET",
+      "old": "Smith v.: W. JU.\nTel. Co., 8 Ky. 664",
+      "new": "Smith v. W. U.\nTel. Co., 8 Ky. 664",
+      "reason": "OCR error: 'W. JU.' should be 'W. U.' (Western Union Telegraph Co.)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BUCKSTALL",
+      "old": "fake deer",
+      "new": "take deer",
+      "reason": "OCR error: 'fake' should be 'take'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BUGGERY",
+      "old": "efther by the confusion of\nspecies",
+      "new": "either by the confusion of\nspecies",
+      "reason": "OCR error: 'efther' should be 'either'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BUILDING",
+      "old": "838 N. W. 436",
+      "new": "33 N. W. 436",
+      "reason": "OCR error: '838' should likely be '33' for Northwestern Reporter citation"
+    },
+    {
+      "type": "trim",
+      "term": "BUILDING",
+      "trim_at": "BUILDING AND LOAN ASSOOIA-",
+      "reason": "Incomplete embedded entry 'BUILDING AND LOAN ASSOCIATION' merged into BUILDING body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BUILDING LIEN",
+      "old": "8&2 N. W. 112",
+      "new": "82 N. W. 112",
+      "reason": "OCR error: '8&2' should be '82'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BULLA",
+      "old": "Roman enperors",
+      "new": "Roman emperors",
+      "reason": "OCR error: 'enperors' should be 'emperors'"
+    },
+    {
+      "type": "trim",
+      "term": "BUM-BAILIFF",
+      "trim_at": "'BUNDA. In old English law.",
+      "reason": "Entry for BUNDA is embedded at the end of BUM-BAILIFF body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BUOY",
+      "old": "In maritime law. <A piece of",
+      "new": "In maritime law. A piece of",
+      "reason": "OCR error: spurious '<' character before 'A'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BUOY",
+      "old": "or to murk the course\n\n_ of a devious channel.",
+      "new": "or to mark the course of a devious channel.",
+      "reason": "OCR error: 'murk' should be 'mark'; spurious line break and underscore"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BUREAU",
+      "old": "administrative brunch of government",
+      "new": "administrative branch of government",
+      "reason": "OCR error: 'brunch' should be 'branch'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BUREAUCRACY",
+      "old": "is carried on' in",
+      "new": "is carried on in",
+      "reason": "OCR error: spurious apostrophe after 'on'"
+    },
+    {
+      "type": "trim",
+      "term": "BURGAGE-TENURE",
+      "trim_at": "BURGLAR —",
+      "reason": "Embedded partial entry header 'BURGLAR —' appears at end of BURGAGE-TENURE body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BURGBOTE",
+      "old": "of a borough.;",
+      "new": "of a borough.",
+      "reason": "OCR error: spurious semicolon after period"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BURGESS",
+      "old": "BURGESS ROLL. A roll, required by\nthe St. § & 6 Wm. IV.",
+      "new": "BURGESS ROLL. A roll, required by\nthe St. 5 & 6 Wm. IV.",
+      "reason": "OCR error: '§' should be '5' (statute citation 5 & 6 Wm. IV.)"
+    },
+    {
+      "type": "trim",
+      "term": "BURGH-BRECHE",
+      "trim_at": "'BURGH ENGLISH. See BoroucH ENG",
+      "reason": "Entry for BURGH ENGLISH embedded at end of BURGH-BRECHE body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BURGHMAILS",
+      "old": "introduced by Matcolm\nIII.",
+      "new": "introduced by Malcolm\nIII.",
+      "reason": "OCR error: 'Matcolm' should be 'Malcolm'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BURGHMAILS",
+      "old": "rents.;",
+      "new": "rents.",
+      "reason": "OCR error: spurious semicolon after period"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BURGLARY",
+      "old": "Anderson v. State, 48\nAla. 666, 17 Am. Rep. 36",
+      "new": "Anderson v. State, 48\nAla. 666, 17 Am. Rep. 36",
+      "reason": "No error found upon review"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BURGWHAR",
+      "old": "A burgess, (¢. v.)",
+      "new": "A burgess, (q. v.)",
+      "reason": "OCR error: '¢' should be 'q' in cross-reference abbreviation"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BURN",
+      "old": "Hester v. State, 17 Ga. 1380.",
+      "new": "Hester v. State, 17 Ga. 130.",
+      "reason": "OCR error: '1380' likely should be '130' for Georgia Reports citation"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BURKING-BURKISM",
+      "old": "shoutfing \"Burke him!\"",
+      "new": "shouting \"Burke him!\"",
+      "reason": "OCR error: 'shoutfing' should be 'shouting'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BURYING",
+      "old": "¥Fleta",
+      "new": "Fleta",
+      "reason": "OCR artifact: '¥' should not precede 'Fleta'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BUSHEL",
+      "old": "Milk v. Christie, 1 Hill (N. ¥.) 106",
+      "new": "Milk v. Christie, 1 Hill (N. Y.) 106",
+      "reason": "OCR error: '¥' should be 'Y' in 'N. Y.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BUSINESS",
+      "old": "Labor, business, ad work are not synonyms.",
+      "new": "Labor, business, and work are not synonyms.",
+      "reason": "OCR error: 'ad' should be 'and'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BUSINESS",
+      "old": "Making\nan agreement for the sale of a chattel is nee\nwithin a prohibition of labor upon Sunday,",
+      "new": "Making\nan agreement for the sale of a chattel is not\nwithin a prohibition of labor upon Sunday,",
+      "reason": "OCR error: 'nee' should be 'not'"
+    },
+    {
+      "type": "trim",
+      "term": "BUSINESS",
+      "trim_at": "BUSONES COMITATUS.\nlaw. The barons",
+      "reason": "The entry for BUSONES COMITATUS is merged into the BUSINESS entry after BUSINESS HOURS"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BUSONES",
+      "old": "BUSONES COMITATUS.\nlaw. The barons of a county,\n\nIn old English",
+      "new": "BUSONES COMITATUS. In old English law. The barons of a county,",
+      "reason": "OCR/layout error: text is scrambled; 'In old English' appears after the definition instead of before it"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BUSSA",
+      "old": "Dnglish",
+      "new": "English",
+      "reason": "OCR error: 'Dnglish' should be 'English'"
+    },
+    {
+      "type": "trim",
+      "term": "BUTTS",
+      "trim_at": "BY GOD AND MY COUNTRY",
+      "reason": "The headword 'BY GOD AND MY COUNTRY' appears embedded in the BUTTS entry body after paragraph break"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BUY",
+      "old": "to purchase; to acquire by the payment of a price or value; to\npurchase. ee\n—Buy in. o purchase, at public sale, property which es one's own",
+      "new": "to purchase; to acquire by the payment of a price or value; to\npurchase.\n—Buy in. To purchase, at public sale, property which is one's own",
+      "reason": "OCR errors: 'ee' is spurious, 'o purchase' should be 'To purchase', 'es' should be 'is'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BY ESTIMATION",
+      "old": "25 N. B. 600",
+      "new": "25 N. E. 600",
+      "reason": "OCR error: 'N. B.' should be 'N. E.' (Northeastern Reporter)"
+    },
+    {
+      "type": "trim",
+      "term": "BY-BIDDING",
+      "trim_at": "BY BILL, BY BILL WITHOUT WRIT.",
+      "reason": "The entry 'BY BILL, BY BILL WITHOUT WRIT' is merged into the BY-BIDDING entry body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BY-LAWS",
+      "old": "8a Sa v. King, 94 Wis. 439",
+      "new": "Sa Sa v. King, 94 Wis. 439",
+      "reason": "OCR error: '8a Sa' appears garbled; likely a case name"
+    },
+    {
+      "type": "trim",
+      "term": "BY-LAWS",
+      "trim_at": "BYE-BIL-WUFFA",
+      "reason": "The headword 'BYE-BIL-WUFFA' and its definition are merged into the BY-LAWS entry body"
+    },
+    {
+      "type": "trim",
+      "term": "BYE-BIL-WUFFA",
+      "trim_at": "Cc. The initial letter",
+      "reason": "The entry for 'C' (and subsequent C abbreviation entries) is merged into the BYE-BIL-WUFFA entry body"
+    },
+    {
+      "type": "headword",
+      "term": "BUSONES",
+      "correct": "BUSONES COMITATUS",
+      "reason": "The entry headword is just 'BUSONES' but the full term is 'BUSONES COMITATUS' as shown in the body"
+    },
+    {
+      "type": "headword",
+      "term": "BUTTED",
+      "correct": "BUTTED AND BOUNDED",
+      "reason": "The entry headword is just 'BUTTED' but the body immediately shows the full term 'BUTTED AND BOUNDED'"
+    },
+    {
+      "type": "flag",
+      "term": "BLEND",
+      "issue": "This entry has headword 'BLEND' but the body begins with 'BLENDED FUND' — the headword appears to be incorrect or truncated; it should likely be 'BLENDED FUND'"
+    },
+    {
+      "type": "trim",
+      "term": "BREHON",
+      "trim_at": "BREHON LAW. The nani given",
+      "reason": "BREHON LAW entry merged into BREHON body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BREHON LAW",
+      "old": "The nani given to the",
+      "new": "The name given to the",
+      "reason": "OCR error: 'nani' should be 'name'"
+    },
+    {
+      "type": "trim",
+      "term": "BRETHREN",
+      "trim_at": "BRETTS AND SCOTTS, LAWS OF",
+      "reason": "BRETTS AND SCOTTS, LAWS OF entry merged into BRETHREN body"
+    },
+    {
+      "type": "headword",
+      "term": "BRETTS",
+      "correct": "BRETTS AND SCOTTS, LAWS OF THE",
+      "reason": "Headword is incomplete; the full entry title is BRETTS AND SCOTTS, LAWS OF THE, as shown in the body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BRETTS",
+      "old": "<A code or system",
+      "new": "A code or system",
+      "reason": "Spurious '<' character before 'A'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BRIEF",
+      "old": "serve ns the basis for an argument",
+      "new": "serve as the basis for an argument",
+      "reason": "OCR error: 'ns' should be 'as'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BRIEF",
+      "old": "counsel tu",
+      "new": "counsel to",
+      "reason": "OCR error: 'tu' should be 'to'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BRIEF",
+      "old": "in au appellate court",
+      "new": "in an appellate court",
+      "reason": "OCR error: 'au' should be 'an'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BRIEF",
+      "old": "; postion of the court.",
+      "new": "mation of the court.",
+      "reason": "OCR error: garbled text, should complete 'information of the court'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BRIEF",
+      "old": "Brief a Vevesque",
+      "new": "Brief a l'Evesque",
+      "reason": "OCR error: 'Vevesque' should be 'l'Evesque' (to the bishop)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BRIEF",
+      "old": "nm practice",
+      "new": "In practice",
+      "reason": "OCR error: 'nm' should be 'In'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BRIGA",
+      "old": "In old Ewvropean law.",
+      "new": "In old European law.",
+      "reason": "OCR error: 'Ewvropean' should be 'European'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BRIGANDINE",
+      "old": "mentioned in 4&5 P. & M. c. 2.",
+      "new": "mentioned in 4 & 5 P. & M. c. 2.",
+      "reason": "OCR error: '4&5' should be '4 & 5'"
+    },
+    {
+      "type": "trim",
+      "term": "BRING",
+      "trim_at": "BRING SUIT. To \"bring\" an action",
+      "reason": "BRING SUIT entry merged into BRING body"
+    },
+    {
+      "type": "trim",
+      "term": "BREVIATE",
+      "trim_at": "BREVIBUS ET ROTULIS LIBERAN-",
+      "reason": "Another entry heading merged into BREVIATE body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BRIBERY",
+      "old": "confined: as some have supposed, to judicial officers,\n rown.",
+      "new": "confined, as some have supposed, to judicial officers of the Crown.",
+      "reason": "OCR error: 'canes:' and truncated 'rown' — should be 'confined, as some have supposed, to judicial officers of the Crown'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BRIBERY",
+      "old": "confined\nanes: as some have supposed",
+      "new": "confined, as some have supposed",
+      "reason": "OCR garbled text"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BRIBE",
+      "old": "corruptly and against the law, a8 an inducement",
+      "new": "corruptly and against the law, as an inducement",
+      "reason": "OCR error: 'a8' should be 'as'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BRIBE",
+      "old": "agrked. given, or accepted",
+      "new": "asked, given, or accepted",
+      "reason": "OCR error: 'agrked' should be 'asked'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BRIBE",
+      "old": "to influence unlawfully the persen to",
+      "new": "to influence unlawfully the person to",
+      "reason": "OCR error: 'persen' should be 'person'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BRIBERY",
+      "old": "64S. W. 744",
+      "new": "64 S. W. 744",
+      "reason": "OCR error: missing space after '64'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BRIDEWELL",
+      "old": "In England. <A_ house\nof correction.",
+      "new": "In England. A house of correction.",
+      "reason": "OCR artifacts: '<A_' should be 'A'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BRIS",
+      "old": "In French niaritime law.",
+      "new": "In French maritime law.",
+      "reason": "OCR error: 'niaritime' should be 'maritime'"
+    },
+    {
+      "type": "trim",
+      "term": "BROCARIUS",
+      "trim_at": "BROCATOR. In old English",
+      "reason": "BROCATOR definition merged into BROCARIUS body"
+    },
+    {
+      "type": "headword",
+      "term": "BROCARIUS BROCARIUS, BROCATOR",
+      "correct": "BROCARIUS, BROCATOR",
+      "reason": "Headword is duplicated/garbled; should be 'BROCARIUS, BROCATOR'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BROTHEL",
+      "old": "A bawdy-house; a house of\n\n. fl fame;",
+      "new": "A bawdy-house; a house of ill fame;",
+      "reason": "OCR error: '. fl' should be 'ill'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BRUISE",
+      "old": "with a blunt or heayy instrument",
+      "new": "with a blunt or heavy instrument",
+      "reason": "OCR error: 'heayy' should be 'heavy'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BRUISE",
+      "old": "with-.\nout solution of continuity",
+      "new": "without solution of continuity",
+      "reason": "OCR error: broken word 'with-.' and newline"
+    },
+    {
+      "type": "headword",
+      "term": "BRUTUM",
+      "correct": "BRUTUM FULMEN",
+      "reason": "Entry body says 'An empty noise; an empty threat' which is the definition of 'brutum fulmen'; headword appears truncated"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BRUTUM",
+      "old": "Ap empty noise;",
+      "new": "An empty noise;",
+      "reason": "OCR error: 'Ap' should be 'An'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BROTHER-IN-LAW",
+      "old": "Farmers' L. & T. Co. v. Iowa\nWater Co. (C. ©.) 80 Fed. 469.",
+      "new": "Farmers' L. & T. Co. v. Iowa Water Co. (C. C.) 80 Fed. 469.",
+      "reason": "OCR error: '©.' should be 'C.' in case citation"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BREVIA",
+      "old": "6 Coke, —Brevia amicabilia.",
+      "new": "6 Coke, 1.—Brevia amicabilia.",
+      "reason": "OCR error: citation number appears missing after '6 Coke,'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BRIDLE",
+      "old": "a \"bridle road'=does not confine",
+      "new": "a \"bridle road\" does not confine",
+      "reason": "OCR error: '='  should be closing quotation mark or removed"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BRIDLE",
+      "old": "a particular class of anlmals",
+      "new": "a particular class of animals",
+      "reason": "OCR error: 'anlmals' should be 'animals'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BRIDLE",
+      "old": "Flagg v. Flagg, 16 Gray\n(Mass.) 1735.",
+      "new": "Flagg v. Flagg, 16 Gray (Mass.) 173.",
+      "reason": "OCR error: page number '1735' should likely be '173'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BRING SUIT",
+      "old": "Hames v. Judd (Com.\nPi.) 9 N. ¥. Supp. 743",
+      "new": "Hames v. Judd (Com. Pl.) 9 N. Y. Supp. 743",
+      "reason": "OCR errors: 'Pi.' should be 'Pl.' and '¥.' should be 'Y.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BRING",
+      "old": "Hames v. Judd (Com.",
+      "new": "Hames v. Judd (Com. Pl.)",
+      "reason": "OCR truncation in merged entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "BROKER",
+      "old": "Rye v. Tucker, Wall. 321, 3380, 23 L. Ed.",
+      "new": "Rye v. Tucker, Wall. 321, 330, 23 L. Ed.",
+      "reason": "OCR error: '3380' should be '330'"
+    }
+  ],
+  "errors": [],
+  "by_type": {
+    "ocr_fix": 249,
+    "trim": 67,
+    "flag": 13,
+    "headword": 8
+  },
+  "elapsed_seconds": 103.4
+}

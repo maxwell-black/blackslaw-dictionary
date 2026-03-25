@@ -1,0 +1,207 @@
+[
+  {
+    "type": "headword_review",
+    "term": "FAMILIARERCISCUNDA",
+    "suggested": "FAMILIAE ERCISCUNDAE",
+    "reason": "Headword appears to be OCR corruption of FAMILIAE ERCISCUNDAE; duplicate entry"
+  },
+  {
+    "type": "headword_review",
+    "term": "FAMAOCIDE",
+    "suggested": "FAMACIDE",
+    "reason": "OCR error in headword: 'FAMAOCIDE' should be 'FAMACIDE' (killer of reputation/fama)"
+  },
+  {
+    "type": "headword_review",
+    "term": "FAOCTA",
+    "suggested": "FACTA",
+    "reason": "OCR error: 'FAOCTA' should be 'FACTA'"
+  },
+  {
+    "type": "flag",
+    "term": "FEAL AND FUEL",
+    "issue": "Headword may be OCR error for 'FEAL AND FUEL' — the right of 'fuel' in Scotland (turbary) may actually be 'FEAL AND DIVOT' or similar term in Scots law"
+  },
+  {
+    "type": "flag",
+    "term": "FEDERAL",
+    "issue": "Entry body appears to be a fragment only ('— question. See that title. —Hypothetical question...') suggesting it is a continuation or sub-entry rather than a standalone entry"
+  },
+  {
+    "type": "flag",
+    "term": "FEDUS",
+    "issue": "Headword may be OCR error for 'FOEDUS' (the standard Latin/legal term for treaty/league)"
+  },
+  {
+    "type": "headword_review",
+    "term": "FIERDING",
+    "suggested": "FIERDING COURTS",
+    "reason": "The headword 'FIERDING' appears to be a truncated version of 'FIERDING COURTS'; the body contains the full FIERDING COURTS definition mixed with FIDUCIARY overflow"
+  },
+  {
+    "type": "headword_review",
+    "term": "FERZ NATURE",
+    "suggested": "FERÆ NATURÆ",
+    "reason": "OCR error: diacritical marks missing from Latin term"
+  },
+  {
+    "type": "headword_review",
+    "term": "FI",
+    "suggested": "FI. FA.",
+    "reason": "The entry is for the abbreviation 'fi. fa.' (fieri facias), not just 'FI'"
+  },
+  {
+    "type": "headword_review",
+    "term": "FLOTSAM FLOTSAM, FLOTSAM",
+    "suggested": "FLOTSAM",
+    "reason": "Headword is duplicated/garbled; should just be FLOTSAM"
+  },
+  {
+    "type": "flag",
+    "term": "FISHERY",
+    "issue": "Several citations appear heavily garbled by OCR, including 'nethe a v. Bowlby', 'Freary v. Cooke', 'Arnold v. Mundy, 6 N. J. La 0 Am. Dec.' — these need verification against source"
+  },
+  {
+    "type": "flag",
+    "term": "FOLK-LAND",
+    "issue": "Body reads 'FOLK-MOTE. See Foic-Lanpv;' FoL_c-GEeMore.' which appears to be severely garbled OCR of cross-references; likely should be 'See FOLK-LAND; FOLK-GEMOTE' or similar"
+  },
+  {
+    "type": "headword_review",
+    "term": "FORENSIO",
+    "suggested": "FORENSIC",
+    "reason": "Headword appears to be OCR error; body discusses 'forensic' medicine and the word 'Forensic' appears in the body text"
+  },
+  {
+    "type": "flag",
+    "term": "FOLDAGE",
+    "issue": "Body reads 'ford for exemption' but likely should be 'lord for exemption' (consistent with context of lord of a manor)"
+  },
+  {
+    "type": "headword_review",
+    "term": "FPARDING-DEAL",
+    "suggested": "FOARDING-DEAL",
+    "reason": "OCR error: 'FPARDING' should be 'FOARDING' (the fourth part of an acre)"
+  },
+  {
+    "type": "flag",
+    "term": "FOUJDAR",
+    "issue": "The sub-entry '=F\" court. In Hindu law. A tribunal for administering criminal law.' appears to be a garbled sub-entry that should read '—Foujdar court.' with proper formatting"
+  },
+  {
+    "type": "flag",
+    "term": "FOX-HUNTING",
+    "issue": "Entry appears to be a fabricated/erroneous entry not typical of Black's Law Dictionary 2nd edition; the citations '4 Bl. Comm. 116' do not match this topic"
+  },
+  {
+    "type": "flag",
+    "term": "FOURSQUARE",
+    "issue": "Entry appears to be a fabricated/erroneous entry; the definition repeats that of FOUNT and does not correspond to a real legal term"
+  },
+  {
+    "type": "flag",
+    "term": "FOURTH",
+    "issue": "Entry appears to be a fabricated/erroneous entry not typical of Black's Law Dictionary 2nd edition"
+  },
+  {
+    "type": "flag",
+    "term": "FOURTH DAY",
+    "issue": "Entry appears to be a fabricated/erroneous entry not typical of Black's Law Dictionary 2nd edition"
+  },
+  {
+    "type": "flag",
+    "term": "FOUR-IN-HAND",
+    "issue": "Entry appears to be a fabricated/erroneous entry not typical of Black's Law Dictionary 2nd edition"
+  },
+  {
+    "type": "flag",
+    "term": "FOUR-FOLD, PUNISHMENT",
+    "issue": "Entry appears to be a fabricated/erroneous entry; unusual headword format and content"
+  },
+  {
+    "type": "flag",
+    "term": "FOUR-MEMBER FIRM",
+    "issue": "Entry appears to be a fabricated/erroneous entry not typical of Black's Law Dictionary 2nd edition"
+  },
+  {
+    "type": "flag",
+    "term": "FOURIERISM",
+    "issue": "Entry appears to be a fabricated/erroneous entry not typical of Black's Law Dictionary 2nd edition"
+  },
+  {
+    "type": "flag",
+    "term": "FOY",
+    "issue": "Entry definition 'A fine or amercement for a misdeed' does not match the known legal meaning of 'foy' (a farewell feast); likely erroneous"
+  },
+  {
+    "type": "flag",
+    "term": "FOYNER",
+    "issue": "Entry definition 'A fine or amercement for a misdeed' appears erroneous/fabricated; real term means a thrusting weapon"
+  },
+  {
+    "type": "flag",
+    "term": "FOX-HUNTING",
+    "issue": "Entry content and citations appear fabricated"
+  },
+  {
+    "type": "flag",
+    "term": "FOWLS",
+    "issue": "Entry is missing its headword qualifier — appears to begin mid-sentence 'Such fowls as are preserved under the game laws in warrens' without a proper introductory phrase; likely truncated"
+  },
+  {
+    "type": "flag",
+    "term": "FOUR-CORNER RULE",
+    "issue": "This appears to be a duplicate/variant of FOUR CORNERS; may be a fabricated entry"
+  },
+  {
+    "type": "flag",
+    "term": "FOULE",
+    "issue": "Entry may be correct but 'Merl. Rep. h. t.' citation seems unusual for a French law term in Black's"
+  },
+  {
+    "type": "flag",
+    "term": "FOULEE",
+    "issue": "Same as FOULE — may be correct but warrants verification"
+  },
+  {
+    "type": "headword_review",
+    "term": "FRETTUM",
+    "suggested": "FRETTUM, FRECTUM",
+    "reason": "The body begins 'FRECTUM.' suggesting the headword should include both forms; a separate entry FRETTUM, FRECTUM already exists which is the correct form"
+  },
+  {
+    "type": "flag",
+    "term": "FUNDANDAE",
+    "issue": "The entry appears incomplete - likely the full Latin term is missing from the headword (possibly 'FUNDANDAE JURISDICTIONIS' or similar), and the definition seems to start mid-sentence without identifying the subject"
+  },
+  {
+    "type": "flag",
+    "term": "FUNGIBLES",
+    "issue": "The headword 'FUNGIBLES' with body starting 'FUNGIBLES RES. Lat.' suggests the headword may actually be 'FUNGIBILES RES' and the entry is malformed"
+  },
+  {
+    "type": "flag",
+    "term": "FYLE",
+    "issue": "Cross-reference at end reads 'See FY.e.' which appears to be OCR damage - likely 'See FYLE' or 'See FYLED'"
+  },
+  {
+    "type": "flag",
+    "term": "FURANDI",
+    "issue": "Entry body 'Lat. An intention of stealing.' is very brief and likely missing the full Latin phrase as headword - probably should be 'ANIMUS FURANDI'"
+  },
+  {
+    "type": "flag",
+    "term": "FUGUES",
+    "issue": "Body reads 'See AvUdence. Ambulatory automatism.' - 'AvUdence' appears to be a severely garbled cross-reference word; unclear what the correct term should be"
+  },
+  {
+    "type": "flag",
+    "term": "FRITH",
+    "issue": "'Frithda. Guildhall; a company or fraternity for the maintenance of peace' - 'Frithda' may be OCR corruption of 'Frithgild' or another term; needs verification"
+  },
+  {
+    "type": "flag",
+    "term": "FRODMORTEL",
+    "issue": "Entry body starts with 'or FREOMORTEL' suggesting the headword should be 'FRODMORTEL, or FREOMORTEL' - this appears to be a continuation/duplicate of the definition also embedded at end of FRIVOLOUS entry"
+  }
+]

@@ -1,0 +1,269 @@
+[
+  {
+    "type": "headword_review",
+    "term": "SAOCCULARIT",
+    "suggested": "SACCULARII",
+    "reason": "Headword is garbled; body references cutpurses in Roman law, consistent with 'saccularii'"
+  },
+  {
+    "type": "headword_review",
+    "term": "SAOCCUS",
+    "suggested": "SACCUS",
+    "reason": "Headword is OCR-garbled; should be SACCUS as shown in the body text"
+  },
+  {
+    "type": "flag",
+    "term": "SATISFACTIO",
+    "issue": "Entry body is identical to SATISDATIO; likely OCR/scan error merging wrong definition, or headword should be different (perhaps 'SATISFACTIO' relates to satisfaction in civil law but needs distinct definition)"
+  },
+  {
+    "type": "headword_review",
+    "term": "SBSCRIPTUM",
+    "suggested": "SCRIPTUM",
+    "reason": "Headword is OCR-garbled; body content and sub-entries (Scriptum indentatum, Scriptum obligatorium) confirm it should be SCRIPTUM"
+  },
+  {
+    "type": "headword_review",
+    "term": "SCALAM",
+    "suggested": "SCALAM",
+    "reason": "No headword error, but body contains merged entry"
+  },
+  {
+    "type": "flag",
+    "term": "SCANDALOUS",
+    "issue": "Body appears to be a fragment/duplicate containing '58, 29 0. C. A. 14; Burden v. Burden (C.' and then SCANDALOUS MATTER repeated; likely OCR/merge error. '0. C. A.' should probably be 'C. C. A.'"
+  },
+  {
+    "type": "flag",
+    "term": "SCHIRERE",
+    "issue": "Entry body is identical to SCHIREMAN. SCHIRERE may be a different term (perhaps the verb form meaning 'to divide into shires') and its definition appears to have been incorrectly duplicated from SCHIREMAN."
+  },
+  {
+    "type": "flag",
+    "term": "SCIENCE",
+    "issue": "Body reads '. COURT OF CONVOCATION. In English ecclesiastical law. A court, or assembly,' — this appears to be a fragment of another entry merged in, not a definition of 'SCIENCE'"
+  },
+  {
+    "type": "headword_review",
+    "term": "S.R",
+    "suggested": "S. D.",
+    "reason": "Body says 'abbreviation for southern district' — S.D. not S.R; likely OCR error"
+  },
+  {
+    "type": "headword_review",
+    "term": "BEXTANS",
+    "suggested": "SEXTANS",
+    "reason": "OCR error: 'B' should be 'S' in SEXTANS"
+  },
+  {
+    "type": "headword_review",
+    "term": "SELECTI JUDICES",
+    "suggested": "SELECTI JUDICES",
+    "reason": "Entry spells it correctly but the merged version in SELECT COUNCIL has 'SELECTI JUDIOES' - OCR error"
+  },
+  {
+    "type": "headword_review",
+    "term": "SHAWM'S ATORES",
+    "suggested": "SHAWM'S ATORES",
+    "reason": "Possible OCR corruption of a Latin/legal term - flagging for review"
+  },
+  {
+    "type": "flag",
+    "term": "SHAWM'S ATORES",
+    "issue": "Term likely OCR-corrupted; possibly 'SHAMATORES' or another Latin military term meaning soldiers"
+  },
+  {
+    "type": "headword_review",
+    "term": "SHEPWAY",
+    "suggested": "SHEPWAY, COURT OF",
+    "reason": "The entry appears to be a duplicate of 'SHEPWAY SHEPWAY, COURT OF' but with damaged headword; should be 'SHEPWAY, COURT OF'"
+  },
+  {
+    "type": "flag",
+    "term": "SHEPWAY",
+    "issue": "Duplicate entry with 'SHEPWAY SHEPWAY, COURT OF' - one appears to be the correct entry, the other a duplicate with a malformed headword"
+  },
+  {
+    "type": "headword_review",
+    "term": "SHEPWAY SHEPWAY, COURT OF",
+    "suggested": "SHEPWAY, COURT OF",
+    "reason": "Headword is duplicated - 'SHEPWAY SHEPWAY, COURT OF' should be 'SHEPWAY, COURT OF'"
+  },
+  {
+    "type": "flag",
+    "term": "SHYSTER",
+    "issue": "Citation '84 Minn. 842' may be OCR error for a different page number"
+  },
+  {
+    "type": "headword_review",
+    "term": "SERVITHS",
+    "suggested": "SERVITIIS",
+    "reason": "OCR error: headword garbled; content matches SERVITIIS ACQUIETANDIS entry"
+  },
+  {
+    "type": "flag",
+    "term": "SERVITIIS",
+    "issue": "This entry appears to be a duplicate of the SERVITHS entry (both cover SERVITIIS ACQUIETANDIS); one may be a split/merge artifact"
+  },
+  {
+    "type": "flag",
+    "term": "SENTES",
+    "issue": "The first definition ('Know all men by these presents. Formal words used at the commencement of deeds of release in the Latin forms.') may belong to a different headword (possibly SCIENTES or NOVERINT), as the second definition in the same entry describes SENTES as words with which letters of attorney commenced"
+  },
+  {
+    "type": "headword_review",
+    "term": "SOHISM",
+    "suggested": "SCHISM",
+    "reason": "OCR error: 'SOHISM' should be 'SCHISM' - the entry body is clearly about SCHISM"
+  },
+  {
+    "type": "headword_review",
+    "term": "SIDUABRY",
+    "suggested": "ESTATE",
+    "reason": "This entry appears to be a fragment of the ESTATE entry (contains '—Separate estate', '—Trust estate', and text about estate meaning), completely wrong headword"
+  },
+  {
+    "type": "headword_review",
+    "term": "SIX-DAY",
+    "suggested": "SIX-DAY LICENSE",
+    "reason": "The entry term appears to be 'SIX-DAY LICENSE' as shown by the body starting with 'SIX-DAY LICENSE. In English law.'"
+  },
+  {
+    "type": "flag",
+    "term": "SOCAGIUM",
+    "issue": "Entry body appears to contain the Latin maxim that belongs to SOCAGER entry ('Socagium idem est quod servitum socs...') and then contains unrelated content about smuggling ('chargeable upon them...Wharton') which is duplicated from SMUGGLING"
+  },
+  {
+    "type": "flag",
+    "term": "ST",
+    "issue": "Entry headword 'ST' appears to be a fragment or OCR artifact; the body contains legal text about delivery of deeds and a DELIVERY sub-entry, suggesting this is a misidentified or severely damaged entry"
+  },
+  {
+    "type": "headword_review",
+    "term": "SOMNAMB",
+    "suggested": "SOMNAMBULISM",
+    "reason": "OCR damaged the headword; 'SOMNAMB vu LIS M.' is a garbled version of SOMNAMBULISM"
+  },
+  {
+    "type": "flag",
+    "term": "SPATZ",
+    "issue": "Headword 'SPATZ' appears suspect for a court for speedy military justice; possibly should be 'SPEEDY COURT' or similar term. Definition mentions 'speedy execution of justice upon military delinquents.'"
+  },
+  {
+    "type": "flag",
+    "term": "STANDARD",
+    "issue": "Entry body appears truncated after 'An ensign or flag used in war.' with 'STANDARD OF WEIGHT, or MEAS-' suggesting additional content was cut off"
+  },
+  {
+    "type": "flag",
+    "term": "STATISTICS",
+    "issue": "Body ends with 'In Roman law..' suggesting truncation or merge with another entry"
+  },
+  {
+    "type": "flag",
+    "term": "STIFLING",
+    "issue": "Entry body appears to be a definition fragment starting mid-sentence without a proper headword definition; likely the headword should be 'STIFLING A PROSECUTION' or similar"
+  },
+  {
+    "type": "flag",
+    "term": "STITUTION",
+    "issue": "Headword 'STITUTION' does not appear to be a valid legal term; the body describes international agreements/conventions. This may be a fragment of another entry (e.g., 'CONVENTION') with the headword damaged by OCR."
+  },
+  {
+    "type": "headword_review",
+    "term": "STRICTI",
+    "suggested": "STRICTI JURIS",
+    "reason": "The headword is incomplete; the full legal term is 'STRICTI JURIS'"
+  },
+  {
+    "type": "headword_review",
+    "term": "STRICTUM",
+    "suggested": "STRICTUM JUS",
+    "reason": "The headword is incomplete; the full legal term is 'STRICTUM JUS'"
+  },
+  {
+    "type": "flag",
+    "term": "STRIKING",
+    "issue": "The body begins mid-sentence with 'The selecting or nominating a jury...' suggesting the headword should be 'STRIKING A JURY' rather than just 'STRIKING'"
+  },
+  {
+    "type": "flag",
+    "term": "STRONG",
+    "issue": "The body begins with 'The words \"with strong hand\"...' suggesting the headword should be 'STRONG HAND' rather than just 'STRONG'"
+  },
+  {
+    "type": "flag",
+    "term": "SUBSTITUTED",
+    "issue": "Entry headword appears to be 'SUBSTITUTED' but body discusses 'Service of process' — likely should be 'SUBSTITUTED SERVICE'"
+  },
+  {
+    "type": "flag",
+    "term": "SUDDEN",
+    "issue": "Headword 'SUDDEN' appears incomplete — likely 'SUDDEN HEAT OF PASSION' or 'SUDDEN PASSION' based on body content"
+  },
+  {
+    "type": "flag",
+    "term": "SUGGESTIVE",
+    "issue": "Headword 'SUGGESTIVE' appears to be a fragment — likely should be 'SUGGESTIVE INTERROGATION'; body contains remnant text from previous entry"
+  },
+  {
+    "type": "flag",
+    "term": "SUING",
+    "issue": "Headword 'SUING' appears to be a fragment of 'SUING AND LABORING CLAUSE'"
+  },
+  {
+    "type": "flag",
+    "term": "SUMMING",
+    "issue": "Headword 'SUMMING' appears to be a fragment of 'SUMMING UP'"
+  },
+  {
+    "type": "headword_review",
+    "term": "SYLVA",
+    "suggested": "SYLVA CEDUA",
+    "reason": "The headword is incomplete; the full term should be SYLVA CEDUA as shown in the body"
+  },
+  {
+    "type": "headword_review",
+    "term": "SYMBOLIC",
+    "suggested": "SYMBOLIC DELIVERY",
+    "reason": "The body defines 'symbolic delivery' specifically; the headword appears truncated"
+  },
+  {
+    "type": "headword_review",
+    "term": "SZEMEND",
+    "suggested": "SZEMENД",
+    "reason": ""
+  },
+  {
+    "type": "flag",
+    "term": "SZEMEND",
+    "issue": "Headword and definition 'Sire, or arbitrator. A denomination of part of Wharton.' appear garbled/incomplete; may be OCR damage of a different term"
+  },
+  {
+    "type": "headword_review",
+    "term": "SZZVITIA",
+    "suggested": "SÆVITIA",
+    "reason": "OCR error: 'SZZVITIA' should be 'SÆVITIA' (Latin term for cruelty in divorce law)"
+  },
+  {
+    "type": "flag",
+    "term": "SOCAVAGE",
+    "issue": "Headword SOCAVAGE does not match the body which defines SCHEVAGE/SOHEWAGE/SHEWAGE; likely a misattributed or OCR-damaged headword. Also body ends abruptly: 'The officer who collected'"
+  },
+  {
+    "type": "headword_review",
+    "term": "SUPERFCETATION",
+    "suggested": "SUPERFETATION",
+    "reason": "Duplicate entry with OCR error in headword; 'SUPERFCETATION' should be 'SUPERFETATION'"
+  },
+  {
+    "type": "flag",
+    "term": "SUPRAE NATURA",
+    "issue": "Headword 'SUPRAE NATURA' appears to be an OCR or scanning error; body text says 'Suprae natura sterilis' but the correct Latin is likely 'sua natura' or 'suae naturae'"
+  },
+  {
+    "type": "flag",
+    "term": "SURANCE",
+    "issue": "Headword 'SURANCE' does not appear to be a valid legal term; body contains 'Commercial law' definitions that likely belong to a different entry (possibly 'INSURANCE' or content misattributed from elsewhere)"
+  }
+]

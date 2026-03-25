@@ -1,0 +1,1236 @@
+{
+  "letter": "N",
+  "entries_reviewed": 293,
+  "corrections": [
+    {
+      "type": "ocr_fix",
+      "term": "NAVIGABLE",
+      "old": "oaks ala A waters has no application in this",
+      "new": "navigable waters has no application in this",
+      "reason": "OCR garbled text; context and the surrounding legal discussion make clear this should read 'navigable waters'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NAVIGATION",
+      "old": "N. BD. 582",
+      "new": "N. E. 582",
+      "reason": "OCR error: 'BD' should be 'E' (North Eastern Reporter abbreviation)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NAVIGATION",
+      "old": "govern the stee\nand management",
+      "new": "govern the steering\nand management",
+      "reason": "OCR dropped 'ring' from 'steering'"
+    },
+    {
+      "type": "trim",
+      "term": "NE",
+      "trim_at": "NE ADMITTAS. Lat. In. eccle",
+      "reason": "The NE entry body contains multiple separate dictionary entries (NE ADMITTAS, NE BAILA PAS, NE DISTURBA PAS, NE DONA PAS, NE EXEAT REGNO, NE EXEAT REPUBLICA, NE GIST PAS EN BOUCHE, NE INJUSTE VEXES, NE VARIETUR, NE LUMINIBUS OFFICIATUR) merged into one body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NE INJUSTE VEXES",
+      "old": "I[at.",
+      "new": "Lat.",
+      "reason": "OCR error: 'I[at.' should be 'Lat.'"
+    },
+    {
+      "type": "trim",
+      "term": "NE LUMINIBUS OFFICIATUR",
+      "trim_at": "NE QUID IN LOCO PUBLICO VEL",
+      "reason": "Another dictionary entry 'NE QUID IN LOCO PUBLICO VEL' is appended to the body of NE LUMINIBUS OFFICIATUR"
+    },
+    {
+      "type": "trim",
+      "term": "NE REOPIATUR",
+      "trim_at": "NE RECTOR PROSTERNET AR-",
+      "reason": "Another dictionary entry 'NE RECTOR PROSTERNET AR-' is appended to the body of NE REOPIATUR"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NE UNQUES EXECUTOR",
+      "old": "UL. Fr.",
+      "new": "L. Fr.",
+      "reason": "OCR error: 'UL. Fr.' should be 'L. Fr.' (Law French abbreviation)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NE VARIETUR",
+      "old": "Bd. 681",
+      "new": "Ed. 681",
+      "reason": "OCR error: 'Bd.' should be 'Ed.' (L. Ed. = Lawyers' Edition)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NEAP",
+      "old": "Those tides which happen detween",
+      "new": "Those tides which happen between",
+      "reason": "OCR error: 'detween' should be 'between'"
+    },
+    {
+      "type": "trim",
+      "term": "NEATNESS",
+      "trim_at": "Neo curia deficeret in justi",
+      "reason": "The body contains Latin maxims and the entry '-NECATION' merged in after the main definition"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NECESSITUDO",
+      "old": "Cavin.",
+      "new": "Calvin.",
+      "reason": "OCR error: 'Cavin.' should be 'Calvin.' (standard citation)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NECESSITAS",
+      "old": "the 'building of castles, and ge ed against",
+      "new": "the building of castles, and going on expeditions against",
+      "reason": "OCR garbled text in the definition of trinoda necessitas"
+    },
+    {
+      "type": "trim",
+      "term": "NECESSITAS",
+      "trim_at": "Neocessitas excusat aut exten",
+      "reason": "Latin maxims starting with 'NEOESSITAS EXCUSAT 809' and subsequent entries are merged into the NECESSITAS body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NECESSITAS",
+      "old": "iloei.",
+      "new": "loci.",
+      "reason": "OCR error: 'iloei' should be 'loci' (Latin: of place)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NEGLECT",
+      "old": "Kimball v. Rowland, 6 Gray\n(Maas.) 224.",
+      "new": "Kimball v. Rowland, 6 Gray\n(Mass.) 224.",
+      "reason": "OCR error: 'Maas.' should be 'Mass.' (Massachusetts)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NEGLECT",
+      "old": "Bank.v. Wright, 8 Allen (Mass.) 121; Bennett v. Bennett, Me tl. =",
+      "new": "Bank v. Wright, 8 Allen (Mass.) 121; Bennett v. Bennett,",
+      "reason": "OCR error: 'Me tl. =' is garbled text"
+    },
+    {
+      "type": "trim",
+      "term": "NEGLIGENT",
+      "trim_at": "NEGLIGENT ESCAPE. An escape",
+      "reason": "The NEGLIGENT entry body contains the full NEGLIGENT ESCAPE entry merged in"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NEGLIGENTIA",
+      "old": "Co. Litt. 2460",
+      "new": "Co. Litt. 246b",
+      "reason": "OCR error: '2460' should be '246b' (a folio page reference)"
+    },
+    {
+      "type": "trim",
+      "term": "NEGLIGENTIA",
+      "trim_at": "- NEGOOE. Fr.",
+      "reason": "The NEGOCE entry is merged into the NEGLIGENTIA body after the maxim"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NEGOTIORUM",
+      "old": "Lat. Inthe",
+      "new": "Lat. In the",
+      "reason": "OCR error: missing space between 'In' and 'the'; also missing the word 'GESTOR' which should follow as part of the headword 'NEGOTIORUM GESTOR'"
+    },
+    {
+      "type": "headword",
+      "term": "NEGOTIORUM",
+      "correct": "NEGOTIORUM GESTOR",
+      "reason": "The entry defines a 'transacter or manager of business; a person voluntarily constituting himself agent for another' which is the standard definition of negotiorum gestor in civil law"
+    },
+    {
+      "type": "trim",
+      "term": "NEGOTIATE",
+      "trim_at": "NEGOTIATION. The deliberation",
+      "reason": "The NEGOTIATION entry is merged into the NEGOTIATE body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NW",
+      "old": "abbre:",
+      "new": "abbre-",
+      "reason": "OCR error: colon instead of hyphen in 'abbreviation' split across lines"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NW",
+      "old": "N. ¥. 271",
+      "new": "N. Y. 271",
+      "reason": "OCR error: ¥ should be Y in N. Y."
+    },
+    {
+      "type": "headword",
+      "term": "NW",
+      "correct": "N.",
+      "reason": "The entry headword appears to be 'N.' based on content discussing abbreviations like N.A., N.B., N.D., etc."
+    },
+    {
+      "type": "trim",
+      "term": "NW",
+      "trim_at": "N. A. An abbreviation for",
+      "reason": "Multiple separate dictionary entries (N.A., NW.B., N.D., WN.E.2., NW.L., N.P., NW.BR., NW.S.) are merged into this entry body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NAIF",
+      "old": "L. ¥r.",
+      "new": "L. Fr.",
+      "reason": "OCR error: ¥ should be F in 'L. Fr.' (Law French)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NAKED",
+      "old": "nudtm pactum",
+      "new": "nudum pactum",
+      "reason": "OCR error: 'nudtm' should be 'nudum'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NAKED",
+      "old": "au contract devoid",
+      "new": "a contract devoid",
+      "reason": "OCR error: 'au' should be 'a'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NAKED",
+      "old": "an uaked authority, ¢. ¢.,",
+      "new": "an naked authority, i. e.,",
+      "reason": "OCR error: 'uaked' should be 'naked', '¢. ¢.' should be 'i. e.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NAKED",
+      "old": "see tose titles",
+      "new": "see those titles",
+      "reason": "OCR error: 'tose' should be 'those'"
+    },
+    {
+      "type": "trim",
+      "term": "NAKED",
+      "trim_at": "\" NARRATIVE",
+      "reason": "The term NARRATIVE appears embedded at the end of the NAKED entry body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NAME",
+      "old": "for preserving continnt pomeinden: 3 Dav. Prec. Conv. 277;\nwee;",
+      "new": "for preserving continuity of possession. 3 Dav. Prec. Conv. 277;",
+      "reason": "OCR garbling of text at end of entry"
+    },
+    {
+      "type": "trim",
+      "term": "NAMIUM",
+      "trim_at": "NAMIUM. L. Lat. In old English law",
+      "reason": "A second NAMIUM entry is merged into the body after the first definition, starting with 'NAMIUM. L. Lat. In old English law.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NAMIUM",
+      "old": "pretending damage done by them. §$",
+      "new": "pretending damage done by them.",
+      "reason": "OCR artifact: '§$' at end of entry should be removed"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NATION",
+      "old": "19 N. BH. 845, 2 L. BR.\nA. G42, 8 Am. St. Rep. 744",
+      "new": "19 N. E. 845, 2 L. R. A. 642, 8 Am. St. Rep. 744",
+      "reason": "OCR errors: 'BH' should be 'E', 'BR.' should be 'R.', 'G42' should be '642'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NATION",
+      "old": "Sars an understanding",
+      "new": "has an understanding",
+      "reason": "OCR error: 'Sars' should be 'has'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NATION",
+      "old": "freuently used as synonyms, but there is a great\nifference between them. A nation is an aggretion",
+      "new": "frequently used as synonyms, but there is a great difference between them. A nation is an aggre-",
+      "reason": "OCR errors: 'freuently' missing 'q', 'ifference' missing 'd', 'aggretion' garbled"
+    },
+    {
+      "type": "trim",
+      "term": "NATIONALIZACION",
+      "trim_at": "NATIONS, LAW OF",
+      "reason": "The entry 'NATIONS, LAW OF' is embedded at the end of the NATIONALIZACION entry body"
+    },
+    {
+      "type": "trim",
+      "term": "NATIONS",
+      "trim_at": "NATIONS, LAW OF.. See INTERNATIONAL",
+      "reason": "The NATIONS entry body contains what appears to be the actual NATIONS, LAW OF entry merged in"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NATIVUS",
+      "old": "Co. Litt. 122).—Nativi conventionarii. -\nleins or bondmen by contract or agreement.—\nNativi de stipite.\nVilleins or bondmen by -\nbirth or stock.",
+      "new": "Co. Litt. 122b.—Nativi conventionarii. Villeins or bondmen by contract or agreement.—Nativi de stipite. Villeins or bondmen by birth or stock.",
+      "reason": "OCR errors: broken hyphens and missing 'Vil' from 'Villeins'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NATIVUS",
+      "old": "on. 1. 643.—Nativo habendo.",
+      "new": "Boon. 1. 643.—Nativo habendo.",
+      "reason": "OCR error: 'on.' appears to be truncated citation"
+    },
+    {
+      "type": "flag",
+      "term": "NATURA",
+      "issue": "The entry headword 'NATURA' seems incomplete. The body discusses 'Old Natura Brevium' and several maxims, suggesting the headword should be 'NATURA BREVIUM' or similar. Also contains multiple maxims that may be separate entries."
+    },
+    {
+      "type": "trim",
+      "term": "NATURA",
+      "trim_at": "Natura fide jussionis sit",
+      "reason": "Multiple separate maxim entries appear merged into the NATURA entry body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NATURAL",
+      "old": "physfcal",
+      "new": "physical",
+      "reason": "OCR error: 'physfcal' should be 'physical'"
+    },
+    {
+      "type": "trim",
+      "term": "NATURAL",
+      "trim_at": "NATURAL LAW. A rule of conduct",
+      "reason": "The entry NATURAL LAW is merged into the body of NATURAL after the sub-entries"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NATURAL",
+      "old": "dnd existing prior.",
+      "new": "and existing prior",
+      "reason": "OCR error: 'd' should be 'a' in 'and'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NATURAL",
+      "old": "according to ite suitableness",
+      "new": "according to its suitableness",
+      "reason": "OCR error: 'ite' should be 'its'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NATURAL",
+      "old": "jus neturale",
+      "new": "jus naturale",
+      "reason": "OCR error: 'neturale' should be 'naturale'"
+    },
+    {
+      "type": "trim",
+      "term": "NATURALE",
+      "trim_at": "Laws\" because a knowledge",
+      "reason": "The NATURALE entry body appears to contain continuation text from the NATURAL LAW entry, not a standalone entry"
+    },
+    {
+      "type": "headword",
+      "term": "NATURALE",
+      "correct": "NATURALE EST QUIDLIBET",
+      "reason": "The headword appears truncated; the maxim 'Naturale est quidlibet dissolvi eo modo quo ligatur' is what is being defined"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NATUS",
+      "old": "Lat. SBorn",
+      "new": "Lat. Born",
+      "reason": "OCR error: 'SBorn' should be 'Born'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NAUTICUM",
+      "old": "NAUTICUM",
+      "new": "FOENUS NAUTICUM",
+      "reason": "The body describes 'Nautical or maritime interest' which is the definition of Foenus Nauticum; the headword appears truncated"
+    },
+    {
+      "type": "flag",
+      "term": "NAUTICUM",
+      "issue": "Headword may be truncated - likely 'FOENUS NAUTICUM' based on the definition content about maritime interest/bottomry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NAUGHT",
+      "old": "1 Leon. 77%.",
+      "new": "1 Leon. 77.",
+      "reason": "OCR error: '77%' should be '77' (percent sign is OCR artifact)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NASOITURUS",
+      "old": "NASOITURUS",
+      "new": "NASCITURI",
+      "reason": "OCR error in headword: 'NASOITURUS' should be 'NASCITURI' or 'NASCITURUS'"
+    },
+    {
+      "type": "headword",
+      "term": "NASOITURUS",
+      "correct": "NASCITURUS",
+      "reason": "OCR error: 'NASOITURUS' should be 'NASCITURUS' - the body text uses the correct form 'nasiturus' is about one not yet born"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NATIONALITY",
+      "old": "8 Sav. Syst. § 346;",
+      "new": "8 Sav. Syst. § 346;",
+      "reason": "No change needed"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NATURALIZATION",
+      "old": "386 L. Ed. 103",
+      "new": "36 L. Ed. 103",
+      "reason": "OCR error: '386' should be '36'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NOLIS",
+      "old": "Ord. Mar. liv. &,\ntit. 8.",
+      "new": "Ord. Mar. liv. 8,\ntit. 8.",
+      "reason": "OCR error: '&,' should be '8,' (book/livre number)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NOLLE",
+      "old": "A nolle prosequs is",
+      "new": "A nolle prosequi is",
+      "reason": "OCR error: 'prosequs' should be 'prosequi'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NOLO",
+      "old": "U. S. vy.\nHartwell",
+      "new": "U. S. v.\nHartwell",
+      "reason": "OCR error: 'vy.' should be 'v.' (versus)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NOLO",
+      "old": "Like a-demurrer this plea admits",
+      "new": "Like a demurrer this plea admits",
+      "reason": "OCR error: spurious hyphen in 'a-demurrer'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NOMEN",
+      "old": "Lat. In the civil law. <A\nname;",
+      "new": "Lat. In the civil law. A\nname;",
+      "reason": "OCR artifact: spurious '<' before 'A'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NOMEN",
+      "old": "—Nomen collectivum. <A collective name or",
+      "new": "—Nomen collectivum. A collective name or",
+      "reason": "OCR artifact: spurious '<' before 'A'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NOMEN",
+      "old": "—Nomen generale. <A general name; the\nname of a genus.",
+      "new": "—Nomen generale. A general name; the\nname of a genus.",
+      "reason": "OCR artifact: spurious '<' before 'A'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NOMEN",
+      "old": "—Nomen gene um.",
+      "new": "—Nomen generalissimum.",
+      "reason": "OCR error: 'gene um' is a garbled truncation of 'generalissimum' as confirmed by the following sentence referencing 'nomen generalissimum'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NOMEN",
+      "old": "—Nomen tr ptitium.",
+      "new": "—Nomen transcriptitium.",
+      "reason": "OCR error: 'tr ptitium' is garbled 'transcriptitium', consistent with cross-reference to 'NoMIna TRANSCRIPTITIA'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NOMEN",
+      "old": "See NoMIna TRANSCRIPTITIA.",
+      "new": "See NOMINA TRANSCRIPTITIA.",
+      "reason": "OCR error: mixed case 'NoMIna' should be 'NOMINA'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NOMEN",
+      "old": "Homina sunt symbola rerum.",
+      "new": "Nomina sunt symbola rerum.",
+      "reason": "OCR error: 'Homina' should be 'Nomina' — consistent with other maxims in series"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NOMINAL",
+      "old": "—No partner.",
+      "new": "—Nominal partner.",
+      "reason": "OCR error: heading truncated; 'No partner' should be 'Nominal partner' based on following definition"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NOMINAL",
+      "old": "(the real plaintiff in interest, or \"use printf,)",
+      "new": "(the real plaintiff in interest, or \"use plaintiff,\")",
+      "reason": "OCR error: 'printf' should be 'plaintiff'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NOMINATE",
+      "old": "ex literie, from something written;",
+      "new": "ex literis, from something written;",
+      "reason": "OCR error: 'literie' should be 'literis'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NOMINATING",
+      "old": "'mode of obtaining a panel",
+      "new": "The mode of obtaining a panel",
+      "reason": "OCR error: leading apostrophe indicates dropped text; should begin with 'The mode'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NOMINATIO",
+      "old": "alleges that. \\he\nholds only in the name",
+      "new": "alleges that he\nholds only in the name",
+      "reason": "OCR error: spurious backslash before 'he'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NOMINATIVUS",
+      "old": "Lat. A\nnominative case grammatically unconnected",
+      "new": "Lat. A nominative case grammatically unconnected",
+      "reason": "OCR line break creating spurious 'A' on its own line; should be 'A nominative case'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NOMINATIVUS",
+      "old": "\"This indenture,\" ete, down to",
+      "new": "\"This indenture,\" etc., down to",
+      "reason": "OCR error: 'ete,' should be 'etc.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NOMINE",
+      "old": "NOMINE PCNZ.",
+      "new": "NOMINE POENAE.",
+      "reason": "OCR error: 'PCNZ' is garbled 'POENAE'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NOMINE",
+      "old": "left nomine pone where",
+      "new": "left nomine poenae where",
+      "reason": "OCR error: 'pone' should be 'poenae' — consistent with heading correction"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NOMOGRAPHY",
+      "old": "A treatise or deacription of laws.",
+      "new": "A treatise or description of laws.",
+      "reason": "OCR error: 'deacription' should be 'description'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NOMOTHETA",
+      "old": "Ceesar, Pompey, 'and Sylla",
+      "new": "Caesar, Pompey, and Sylla",
+      "reason": "OCR errors: 'Ceesar' should be 'Caesar'; spurious apostrophe before 'and'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NON-ACCEPTANCE",
+      "old": "The refusal to ac-\nCept anything.",
+      "new": "The refusal to accept anything.",
+      "reason": "OCR error: 'ac-\\nCept' is a broken word with erroneous capitalization; should be 'accept'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NON-ACCESS",
+      "old": "Non accipi debent verba in demonstra-.\ntionem falsam,",
+      "new": "Non accipi debent verba in demonstrationem falsam,",
+      "reason": "OCR error: spurious period after 'demonstra-' mid-word break"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NON-ACT",
+      "old": "A forbearance from action;.\nthe contrary to act.",
+      "new": "A forbearance from action; the contrary to act.",
+      "reason": "OCR error: spurious period after semicolon"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NON-AGE",
+      "old": "Non aliter a significatione verboram",
+      "new": "Non aliter a significatione verborum",
+      "reason": "OCR error: 'verboram' should be 'verborum'"
+    },
+    {
+      "type": "trim",
+      "term": "NON-ASSESSA",
+      "trim_at": "NON-ASSESSABLE",
+      "reason": "Entry 'NON-ASSESSA' appears to be a truncated/damaged version of the NON-ASSESSABLE entry and its body contains the text of the NON-ASSESSABLE entry"
+    },
+    {
+      "type": "headword",
+      "term": "NON-ASSESSA",
+      "correct": "NON-ASSESSABLE",
+      "reason": "Headword is truncated; the full term is NON-ASSESSABLE as shown by the body content and the following separate entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NON-ASSESSABLE",
+      "old": "against Nability\nfrom further assessment",
+      "new": "against liability\nfrom further assessment",
+      "reason": "OCR error: 'Nability' should be 'liability'"
+    },
+    {
+      "type": "trim",
+      "term": "NON-ASSESSABLE",
+      "trim_at": "* NON ASSUMPSIT. The general",
+      "reason": "The body of NON-ASSESSABLE contains the entry for NON ASSUMPSIT and the beginning of NON ASSUMPSIT INFRA SEX AN- merged in"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NON-MAILABLE",
+      "old": "from transportation in the United States\nmatiis,",
+      "new": "from transportation in the United States\nmails,",
+      "reason": "OCR error: 'matiis' should be 'mails'"
+    },
+    {
+      "type": "trim",
+      "term": "NON-MAILABLE",
+      "trim_at": "NON MEROHANDIZANDA VICTU-",
+      "reason": "The body of NON-MAILABLE contains the beginning of another entry (NON MERCHANDIZANDA VICTUALIUM etc.) merged in at the end"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NON-JURORS",
+      "old": "Not right, but selsin, makes a stock.",
+      "new": "Not right, but seisin, makes a stock.",
+      "reason": "OCR error: 'selsin' should be 'seisin'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NON-JURORS",
+      "old": "but actual scisin, which",
+      "new": "but actual seisin, which",
+      "reason": "OCR error: 'scisin' should be 'seisin'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NON-JURORS",
+      "old": "2 Bl. Comm. 200, 812.",
+      "new": "2 Bl. Comm. 200, 212.",
+      "reason": "OCR error: '812' should be '212' — plausible page number in Blackstone vol. 2"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NON-NON-PERFORMANCE",
+      "old": "Negiect, failare, or refusal",
+      "new": "Neglect, failure, or refusal",
+      "reason": "OCR errors: 'Negiect' should be 'Neglect'; 'failare' should be 'failure'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NON-PERFORMANCE",
+      "old": "Negiect, failare, or refusal",
+      "new": "Neglect, failure, or refusal",
+      "reason": "OCR errors: 'Negiect' should be 'Neglect'; 'failare' should be 'failure'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NON-PERFORMANCE",
+      "old": "Non pertinet ad judicem secularem\neognoscere de iis qus sunt mere spi-\nFitualia annexa.",
+      "new": "Non pertinet ad judicem secularem cognoscere de iis quae sunt mere spiritualia annexa.",
+      "reason": "OCR errors: 'eognoscere' should be 'cognoscere'; 'qus' should be 'quae'; 'spi-\\nFitualia' should be 'spiritualia' (broken word with erroneous capital)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NON-RESIDENCE",
+      "old": "The nbsence of\nspiritual persons from their benefices.",
+      "new": "The absence of\nspiritual persons from their benefices.",
+      "reason": "OCR error: 'nbsence' should be 'absence'"
+    },
+    {
+      "type": "trim",
+      "term": "NON-ISSUABLE",
+      "trim_at": "NON-ISSUABLE PLEAS. Those upon",
+      "reason": "The body of NON-ISSUABLE contains the full text of the separate NON-ISSUABLE PLEAS entry merged in"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NON-CONTINUOUS",
+      "old": "18 N. J. Eg. 262.",
+      "new": "18 N. J. Eq. 262.",
+      "reason": "OCR error: 'Eg.' should be 'Eq.' (Equity reports)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NON-CONTINUOUS",
+      "old": "See\nWASEMENT.",
+      "new": "See\nEASEMENT.",
+      "reason": "OCR error: 'WASEMENT' should be 'EASEMENT'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NEIGHBORHOOD",
+      "old": "Langley\nvy. Barnstead",
+      "new": "Langley\nv. Barnstead",
+      "reason": "OCR error: 'vy.' should be 'v.' for legal citation"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NEIGHBORHOOD",
+      "old": "1 S. HE. 225",
+      "new": "1 S. E. 225",
+      "reason": "OCR error: 'HE.' should be 'E.' for South Eastern Reporter"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NEMINE CONTRADICENTE",
+      "old": "Co. Litt. 97).",
+      "new": "Co. Litt. 97b.",
+      "reason": "OCR error: ')' should be 'b' — standard citation form is '97b'"
+    },
+    {
+      "type": "trim",
+      "term": "NEMINE",
+      "trim_at": "NEMINE CONTRADICENTE. Lat. No",
+      "reason": "The entry NEMINE contains the full text of NEMINE CONTRADICENTE merged in as a headword definition; NEMINE is a separate parent entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NEMO",
+      "old": "applied in part fn admiralty",
+      "new": "applied in part in admiralty",
+      "reason": "OCR error: 'fn' should be 'in'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NEMO",
+      "old": "2 Hawk. P. C. 377%.",
+      "new": "2 Hawk. P. C. 377.",
+      "reason": "OCR error: '377%' should be '377'"
+    },
+    {
+      "type": "headword",
+      "term": "NEPUOY",
+      "correct": "NEPVOY",
+      "reason": "OCR error: likely 'NEVOY' or 'NEPVOY' — Scotch law term for grandson; 'U' misread"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NEPUOY",
+      "old": "NEPUOY",
+      "new": "NEVOY",
+      "reason": "OCR error: the Scotch law term for grandson is 'nevoy' or 'neveu'"
+    },
+    {
+      "type": "trim",
+      "term": "NEPUOY",
+      "trim_at": "NET., Clear of anything",
+      "reason": "The NEPUOY entry has the NET entry merged into it"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NET",
+      "old": "—Not balance.",
+      "new": "—Net balance.",
+      "reason": "OCR error: 'Not' should be 'Net' — this is the 'Net balance' sub-entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NET",
+      "old": "The gross or income accruing",
+      "new": "The profit or income accruing",
+      "reason": "OCR error: 'gross' should be 'profit' — net income is profit after deductions, matching the NEPUOY/NET merged version which reads 'probe or income'"
+    },
+    {
+      "type": "trim",
+      "term": "NERSHIP",
+      "trim_at": "—Dormant partners.",
+      "reason": "Entry 'NERSHIP' appears to be a fragment (likely end of 'PARTNERSHIP') containing sub-entries for types of partners; this is a misplaced/truncated entry"
+    },
+    {
+      "type": "trim",
+      "term": "NETHER",
+      "trim_at": "NETHER HOUSE",
+      "reason": "Entry NETHER contains the headword NETHER HOUSE OF PARLIAMENT merged in, along with NEURASTHENIA reference"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NEUTRALITY",
+      "old": "U. 8S. v. The Three\nFriends; 166 U..8. 1",
+      "new": "U. S. v. The Three\nFriends, 166 U. S. 1",
+      "reason": "OCR error: '8S.' and 'U..8.' should be 'S.' and 'U. S.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NEUTRALITY",
+      "old": "—Neutrality\nalah serrata",
+      "new": "—Neutrality\nproclamation.",
+      "reason": "OCR error: 'alah serrata' is garbled text — this sub-entry should be 'Neutrality proclamation'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NEUTRALITY",
+      "old": "issued of the outbreak",
+      "new": "issued on the outbreak",
+      "reason": "OCR error: 'of' should be 'on'"
+    },
+    {
+      "type": "trim",
+      "term": "NEVER",
+      "trim_at": "NEVER INDEBTED, PLEA OF.",
+      "reason": "Entry 'NEVER' contains the sub-entry 'NEVER INDEBTED, PLEA OF' as its entire body — the headword should be 'NEVER INDEBTED, PLEA OF'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NIGHT",
+      "old": "limif of 9 yp. M. to 6 a. mM.",
+      "new": "limit of 9 p. M. to 6 a. M.",
+      "reason": "OCR error: 'limif', 'yp.', 'mM.' are garbled"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NIGHT",
+      "old": "St. 24 & 25 Vict. c. 96,$§1",
+      "new": "St. 24 & 25 Vict. c. 96, § 1",
+      "reason": "OCR error: '$§1' should be '§ 1'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NIGHT",
+      "old": "disturbing the ce;\nnot now generally subject to, the criminal laws\nexcept in respect to misdemeanors actually\ncommitted, or in the character of va aie or\ne,",
+      "new": "disturbing the peace; not now generally subject to the criminal laws except in respect to misdemeanors actually committed, or in the character of vagrants or suspicious persons.",
+      "reason": "OCR error: 'ce;' is truncated 'peace;', 'va aie or e,' is garbled 'vagrants or suspicious persons'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NIGHT",
+      "old": "lewd punporee.",
+      "new": "lewd purposes.",
+      "reason": "OCR error: 'punporee' should be 'purposes'"
+    },
+    {
+      "type": "trim",
+      "term": "NIGHT",
+      "trim_at": "Nigrum nunquam excedere debet rubrum",
+      "reason": "The maxim 'Nigrum nunquam excedere debet rubrum' is appended to the NIGHT entry but belongs to the NIGRUM entry"
+    },
+    {
+      "type": "trim",
+      "term": "NIGRUM",
+      "trim_at": "Ala. 260; State v. Dowers",
+      "reason": "The NIGRUM entry begins with text from the NIGHT entry (continuation of night walkers case citations) before its own content"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NIL",
+      "old": "Nil habuwit tenemontis.",
+      "new": "Nil habuit in tenementis.",
+      "reason": "OCR error: 'habuwit tenemontis' should be 'habuit in tenementis'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NIL",
+      "old": "Nil ocemnsensui tam ocontrarium est",
+      "new": "Nil consensui tam contrarium est",
+      "reason": "OCR error: 'ocemnsensui' and 'ocontrarium' are garbled"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NIL",
+      "old": "Mil sine prudenti fecit ratione vetustas.",
+      "new": "Nil sine prudenti fecit ratione vetustas.",
+      "reason": "OCR error: 'Mil' should be 'Nil'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NIL",
+      "old": "Mimia certitudo certitudinem ipsam\ndestruit.",
+      "new": "Nimia certitudo certitudinem ipsam\ndestruit.",
+      "reason": "OCR error: 'Mimia' should be 'Nimia'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NIL",
+      "old": "frettles one question by another.",
+      "new": "settles one question by another.",
+      "reason": "OCR error: 'frettles' should be 'settles'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NIL",
+      "old": "lust.",
+      "new": "lost.",
+      "reason": "OCR error: 'lust' should be 'lost' in context of 'truth is lost'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NIHIL",
+      "old": "97 Atl. 1117",
+      "new": "27 Atl. 1117",
+      "reason": "OCR possible error in citation — flagging for review"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NIHILIST",
+      "old": "politfecal",
+      "new": "political",
+      "reason": "OCR error: 'politfecal' should be 'political'"
+    },
+    {
+      "type": "trim",
+      "term": "NIAM",
+      "trim_at": "NIAM RECEPIT.",
+      "reason": "Entry 'NIAM' appears to be a headword fragment; the full entry should be 'NIAM RECEPIT'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NOCUMENTUM",
+      "old": "Nocumenitum infurioswm",
+      "new": "Nocumentum injuriosum",
+      "reason": "OCR error: 'Nocumenitum' should be 'Nocumentum' and 'infurioswm' should be 'injuriosum'"
+    },
+    {
+      "type": "trim",
+      "term": "NIGER",
+      "trim_at": "NIGER LIBER. The black book",
+      "reason": "Entry NIGER contains NIGER LIBER merged in as its body"
+    },
+    {
+      "type": "trim",
+      "term": "NIVICOLLINI",
+      "trim_at": "near high mountains",
+      "reason": "Entry NIVICOLLINI body begins mid-sentence with 'near high mountains covered with snow' — the beginning of the definition is missing, likely merged with NO AWARD page header"
+    },
+    {
+      "type": "trim",
+      "term": "NOBILE",
+      "trim_at": "Nobiles magis plectuntur",
+      "reason": "Entry NOBILE has Latin maxims appended that belong to separate maxim entries"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NOBILE",
+      "old": "NOBILE",
+      "new": "NOBILE OFFICIUM",
+      "reason": "The entry describes 'nobile officium' — an equitable power of the court of session — the headword appears truncated"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NOCTANTER",
+      "old": "NOCTES and NOCTEM DE FIRMA.",
+      "new": "NOCTES and NOCTEM DE FIRMA.",
+      "reason": "Flag: sub-entry for NOCTES appears merged into NOCTANTER entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NICKNAME",
+      "old": "North Carolina Inst. v. Norwood, 45 N. ©. 74.",
+      "new": "North Carolina Inst. v. Norwood, 45 N. C. 74.",
+      "reason": "OCR error: '©.' should be 'C.' for North Carolina"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NEXT",
+      "old": "Story\nJur. §§ 10656.",
+      "new": "Story\nJur. §§ 1065-6.",
+      "reason": "OCR error: '10656' likely should be '1065-6' or similar section range"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NO GOODS",
+      "old": "No man ean hold the same land im-«\nmediatcly of two several landlords.",
+      "new": "No man can hold the same land immediately of two several landlords.",
+      "reason": "OCR error: 'ean' should be 'can', 'mediatcly' should be 'mediately', 'im-«' is broken hyphen"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NIEFE",
+      "old": "Nothing; not.",
+      "new": "",
+      "reason": "The definition 'Nothing; not.' appears to be a fragment from a different entry (NIENT) merged into NIEFE"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NON-SUMMONS",
+      "old": "WAGER OF LAW OF. The mode in which a tenant or defendant in a real action pleaded, when the\nSummons which followed the original was",
+      "new": "WAGER OF LAW OF. The mode in which a tenant or defendant in a real action pleaded, when the\nsummons which followed the original was",
+      "reason": "Summons incorrectly capitalized mid-sentence"
+    },
+    {
+      "type": "trim",
+      "term": "NON-SUMMONS",
+      "trim_at": "Non temere credere est nervus",
+      "reason": "Latin maxim 'Non temere credere est nervus sapientis' appears embedded after the NON-SUMMONS definition — it is a separate entry"
+    },
+    {
+      "type": "trim",
+      "term": "NONAGIUM",
+      "trim_at": "* NONES. In the Roman calendar",
+      "reason": "NONES entry is merged into NONAGIUM body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NONFEASANCE",
+      "old": "Minkler v. State,\n14 Neb. 181, 15 N. W. 3830; INinois Cent.",
+      "new": "Minkler v. State,\n14 Neb. 181, 15 N. W. 3830; Illinois Cent.",
+      "reason": "'INinois' is OCR error for 'Illinois'"
+    },
+    {
+      "type": "trim",
+      "term": "NONSE ET DECIMAE",
+      "trim_at": "Noscitur a sociis",
+      "reason": "The entry NONSE ET DECIMAE appears to be a misheading — likely NONAE ET DECIMAE; additionally there is no merged entry here but see headword fix below"
+    },
+    {
+      "type": "headword",
+      "term": "NONSE ET DECIMAE",
+      "correct": "NONAE ET DECIMAE",
+      "reason": "OCR error: 'NONSE' should be 'NONAE' (Latin for ninths and tenths)"
+    },
+    {
+      "type": "trim",
+      "term": "NORTHAMPTON",
+      "trim_at": "Noscitur a sociis. It is known from",
+      "reason": "Latin maxims 'Noscitur a sociis' and 'Noscitur ex socio' are separate entries merged into NORTHAMPTON body"
+    },
+    {
+      "type": "headword",
+      "term": "NOT",
+      "correct": "NOT PROVEN",
+      "reason": "Entry describes the Scottish verdict 'not proven' — headword appears truncated by OCR"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NOTIO",
+      "old": "the power or authority of 2° judez;",
+      "new": "the power or authority of a judex;",
+      "reason": "'2° judez' is OCR error for 'a judex'"
+    },
+    {
+      "type": "trim",
+      "term": "NOTIO",
+      "trim_at": "NOTITIA, 833",
+      "reason": "Page header 'NOTITIA, 833' merged into NOTIO body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NOTICE",
+      "old": "on acount of the existence",
+      "new": "on account of the existence",
+      "reason": "OCR dropped a 'c' in 'account'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NOTICE",
+      "old": "which an inquiry after such matter\nwould have elicited; and (b) where there has\nbeen a designed abstinence from inguiry for\nthe very purpose of escaping notice. arton.",
+      "new": "which an inquiry after such matter\nwould have elicited; and (b) where there has\nbeen a designed abstinence from inquiry for\nthe very purpose of escaping notice. Wharton.",
+      "reason": "'inguiry' is OCR error for 'inquiry'; 'arton' is OCR error for 'Wharton'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NOTIFY",
+      "old": "a notice gircn by some person",
+      "new": "a notice given by some person",
+      "reason": "'gircn' is OCR error for 'given'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NOTIFY",
+      "old": "Appeal of Potwine, 31 Conu.\n384,",
+      "new": "Appeal of Potwine, 31 Conn.\n384,",
+      "reason": "'Conu.' is OCR error for 'Conn.'"
+    },
+    {
+      "type": "trim",
+      "term": "NOTORIAL",
+      "trim_at": "'NOTORIETY. The state of being",
+      "reason": "NOTORIETY entry merged into NOTORIAL body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NOTOUR",
+      "old": "belng under diligence by horning and caption",
+      "new": "being under diligence by horning and caption",
+      "reason": "'belng' is OCR error for 'being'"
+    },
+    {
+      "type": "trim",
+      "term": "NOTOUR",
+      "trim_at": "' Nova constitutio futuris formam",
+      "reason": "Latin maxim 'Nova constitutio futuris formam imponere debet non preeteritis' is a separate entry merged into NOTOUR body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NOVA",
+      "old": ": New statutes. An\nappellation sometimes given to the statutes\nwhich have been passed since the beginning\nof the reign of Edward III: 1 Steph. Comm.\n68.",
+      "new": "New statutes. An\nappellation sometimes given to the statutes\nwhich have been passed since the beginning\nof the reign of Edward III. 1 Steph. Comm.\n68.",
+      "reason": "Headword body starts with spurious colon; colon after 'III' should be period"
+    },
+    {
+      "type": "headword",
+      "term": "NOVA",
+      "correct": "NOVA STATUTA",
+      "reason": "Entry describes 'New statutes' called Nova Statuta — headword appears truncated"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NOVELLAE LEONIS",
+      "old": "the year 887 tfil the year 893",
+      "new": "the year 887 till the year 893",
+      "reason": "'tfil' is OCR error for 'till'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NOVELLAE LEONIS",
+      "old": "These' Novels changed maty rules of the Justimian law.",
+      "new": "These Novels changed many rules of the Justinian law.",
+      "reason": "'maty' is OCR error for 'many'; 'Justimian' is OCR error for 'Justinian'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NOVELLAE LEONIS",
+      "old": "translated Into Latin by Agilfous:",
+      "new": "translated into Latin by Agyleus:",
+      "reason": "'Into' should be lowercase 'into'; 'Agilfous' is OCR error for 'Agyleus' (the translator Agyleus/Aginaeus)"
+    },
+    {
+      "type": "trim",
+      "term": "NOVELLAE LEONIS",
+      "trim_at": "du, ' NOVELS",
+      "reason": "Page artifact 'du, ' NOVELS' appears to be a page header/running title merged into body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NOVIGILD",
+      "old": "A peculr\nfary satisfaction",
+      "new": "A pecuniary satisfaction",
+      "reason": "'peculrfary' is OCR error for 'pecuniary'"
+    },
+    {
+      "type": "trim",
+      "term": "NOVERCA",
+      "trim_at": "NOVERINT UNIVERSI PER PRZ-",
+      "reason": "NOVERINT UNIVERSI PER PRAESENTES entry heading is merged into NOVERCA body"
+    },
+    {
+      "type": "trim",
+      "term": "NOTE",
+      "trim_at": "NOTE, ». An abstract, a memorandum}",
+      "reason": "NOTE n. definition merged into NOTE v. entry body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NOTE",
+      "old": "NOTE, ». An abstract, a memorandum}",
+      "new": "NOTE, n. An abstract, a memorandum;",
+      "reason": "'»' is OCR error for 'n.'; '}' is OCR error for ';'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NOTE",
+      "old": "See Boucut\nNoTE;",
+      "new": "See BOTTOMRY NOTE;",
+      "reason": "'Boucut NoTE' appears to be OCR garbling of 'BOTTOMRY NOTE' or similar cross-reference"
+    },
+    {
+      "type": "trim",
+      "term": "NOTES",
+      "trim_at": "NOTES. In practice. Memoranda made",
+      "reason": "NOTES entry (separate headword) is merged into NOTE body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NOVATION",
+      "old": "Hard v. Burton, 62 Vt. 314, 20\nAtl. 269; McCartney v. Kipp, 171 Pa. 644, 33\nAtl. 233; McDonnell v. Alabama Gold L.\nIns. Co., 85 Ala. 401, 5 South. 120; Shafer's",
+      "new": "Hard v. Burton, 62 Vt. 314, 20\nAtl. 269; McCartney v. Kipp, 171 Pa. 644, 33\nAtl. 233; McDonnell v. Alabama Gold L.\nIns. Co., 85 Ala. 401, 5 South. 120; Shafer's Estate,",
+      "reason": "Citation appears truncated after 'Shafer's' — likely 'Shafer's Estate' or similar"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NONSUIT",
+      "old": "Stults\nv. Forst, 1385 Ind. 207, 34 N. EB. 1125;",
+      "new": "Stults\nv. Forst, 135 Ind. 207, 34 N. E. 1125;",
+      "reason": "'1385' is OCR error for '135'; 'EB.' is OCR error for 'E.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NOCTES",
+      "old": "NOOTES and NOCTEM DE FIRMA.",
+      "new": "NOCTES and NOCTEM DE FIRMA.",
+      "reason": "Headword body starts with 'NOOTES' which should be 'NOCTES' matching the headword"
+    },
+    {
+      "type": "headword",
+      "term": "NOCTES",
+      "correct": "NOCTES",
+      "reason": "Headword appears correct but body repeats it as 'NOOTES' — OCR error in body already flagged"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NORMAN",
+      "old": "retaining all the pecultarities which at that tlme distinguished",
+      "new": "retaining all the peculiarities which at that time distinguished",
+      "reason": "'pecultarities' is OCR error for 'peculiarities'; 'tlme' is OCR error for 'time'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NORMAN",
+      "old": "till the 86 Edw.\nIII. (A. D. 1862).",
+      "new": "till the 36 Edw.\nIII. (A. D. 1362).",
+      "reason": "'86 Edw. III. (A. D. 1862)' should be '36 Edw. III. (A. D. 1362)' — Norman French was abolished as legal language by statute 36 Edw. III in 1362"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NORTHAMPTON",
+      "old": "Longevity\nand aunuity tables",
+      "new": "Longevity\nand annuity tables",
+      "reason": "'aunuity' is OCR error for 'annuity'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "NOVEL DISSEISIN",
+      "old": "NOVELLZE, (or NOVELLZE CONSTI-\nTUTIONES.)",
+      "new": "NOVELLAE, (or NOVELLAE CONSTI-\nTUTIONES.)",
+      "reason": "'NOVELLZE' is OCR error for 'NOVELLAE'"
+    },
+    {
+      "type": "trim",
+      "term": "NOVEL DISSEISIN",
+      "trim_at": "NOVELLZE, (or NOVELLZE CONSTI-",
+      "reason": "NOVELLAE CONSTITUTIONES entry is merged into NOVEL DISSEISIN body"
+    }
+  ],
+  "errors": [
+    {
+      "batch": 5,
+      "error": "JSON parse error: ```json\n[\n  {\"type\": \"ocr_fix\", \"term\": \"NOVITAS\", \"old\": \"newness; &\\na new thing.\", \"new\": \"newness; a new thing.\", \"reason\": \"OCR artifact: '&' should be 'a'\"},\n  {\"type\": \"ocr_fix\", \"term\": \"NOVIT"
+    }
+  ],
+  "by_type": {
+    "ocr_fix": 127,
+    "trim": 43,
+    "headword": 10,
+    "flag": 2
+  },
+  "elapsed_seconds": 106.0
+}

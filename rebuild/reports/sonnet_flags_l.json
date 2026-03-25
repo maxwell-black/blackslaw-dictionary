@@ -1,0 +1,57 @@
+[
+  {
+    "type": "headword_review",
+    "term": "LR",
+    "suggested": "L.R.",
+    "reason": "The headword 'LR' appears to be an abbreviation entry but the body actually defines 'L.S.' (Locus sigilli), 'LL.', 'LL.B., LL.M., and LL.D.' — the headword seems wrong or the body is mismatched"
+  },
+  {
+    "type": "flag",
+    "term": "LR",
+    "issue": "The headword is 'LR' but the body begins with 'L.S.' and continues with 'LL.' and 'LL.B.' definitions — the headword should likely be 'L.S.' or this is a merged/mismatched entry"
+  },
+  {
+    "type": "headword_review",
+    "term": "LAHMAN",
+    "suggested": "LAHMAN, or LAGEMANNUS",
+    "reason": "The headword is listed as 'LAHMAN' but the body says 'or LAGEMANNDUS' — 'LAGEMANNDUS' is likely an OCR error for 'LAGEMANNUS'"
+  },
+  {
+    "type": "headword_review",
+    "term": "LADING LADING, BILL OF",
+    "suggested": "LADING, BILL OF",
+    "reason": "Headword is duplicated: 'LADING LADING, BILL OF' should be 'LADING, BILL OF'"
+  },
+  {
+    "type": "headword_review",
+    "term": "LANCETI",
+    "suggested": "LANCETI",
+    "reason": "Entry for LANCETI and LANCETS both appear with same definition — possible duplicate"
+  },
+  {
+    "type": "flag",
+    "term": "LANCETI",
+    "issue": "Both LANCETI and LANCETS have identical definitions about vassals obliged to work for their lord — one appears to be a duplicate or OCR variant of the other"
+  },
+  {
+    "type": "flag",
+    "term": "LAUS",
+    "issue": "The LAUS entry body contains 'LAUS DEO. Lat. Praise be to God. An eld heading to bills of exchange.' — 'eld' is likely OCR error for 'old'"
+  },
+  {
+    "type": "flag",
+    "term": "LAW",
+    "issue": "Entry body appears to be only a fragment containing cross-references ('PRIVATE LAW; PUBLIC Law: REtTRo-SPECTIVE LAW; REVENUE LAW; ROMAN LAW; SUBSTANTIVE Law;') without a definition. 'REtTRo-SPECTIVE' appears to be OCR error for 'RETROSPECTIVE'."
+  },
+  {
+    "type": "flag",
+    "term": "LASIONE",
+    "issue": "Entry body appears to be a fragment starting mid-sentence with 'g., when a vendor...' — the beginning of the definition is missing"
+  },
+  {
+    "type": "headword_review",
+    "term": "LOOCULUS",
+    "suggested": "LOCULUS",
+    "reason": "OCR error: 'LOOCULUS' should be 'LOCULUS' (Latin for a small place, coffin, or purse)"
+  }
+]

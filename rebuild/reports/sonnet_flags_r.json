@@ -1,0 +1,125 @@
+[
+  {
+    "type": "headword_review",
+    "term": "REBUTTABLE",
+    "suggested": "REBUTTABLE PRESUMPTION",
+    "reason": "The headword appears truncated; the full entry is 'REBUTTABLE PRESUMPTION' as shown in the body"
+  },
+  {
+    "type": "flag",
+    "term": "REBUTTING",
+    "issue": "Entry appears to be a duplicate/fragment of REBUTTER with only partial content and a merged cross-reference; likely should be removed or is a scanning artifact"
+  },
+  {
+    "type": "flag",
+    "term": "REBUTTING EVIDENCE",
+    "issue": "Entry body contains only 'The part of the defendant. Steph. Pl. 59; 8 Bl Comm. 310.' which is continuation text from REBUTTER, not a definition of REBUTTING EVIDENCE"
+  },
+  {
+    "type": "flag",
+    "term": "RECEIVING STOLEN GOODS",
+    "issue": "Entry body is truncated — only contains 'The short name usually given to the offense of' with no further content"
+  },
+  {
+    "type": "flag",
+    "term": "RECEPTOR",
+    "issue": "Entry appears to be a duplicate of the RECEIPTOR definition merged into the RECEIPT entry; likely should be headword RECEIPTOR not RECEPTOR"
+  },
+  {
+    "type": "headword_review",
+    "term": "RECHIVING",
+    "suggested": "RECEIVING STOLEN GOODS",
+    "reason": "The headword appears to be damaged/truncated; the body content references 'RECEIVING STOLEN GOODS' and contains what appears to be a merged entry"
+  },
+  {
+    "type": "headword_review",
+    "term": "R.J,&P",
+    "suggested": "R.J.&P.",
+    "reason": "Headword appears to have OCR/formatting issues with the periods"
+  },
+  {
+    "type": "flag",
+    "term": "R.M",
+    "issue": "Entry body appears to be misplaced content (case citations and legal references) that does not match what should be an R.M. dictionary entry. Likely a scanning/OCR error where wrong content was placed under this headword."
+  },
+  {
+    "type": "headword_review",
+    "term": "REMONSTRAWNCE",
+    "suggested": "REMONSTRANCE",
+    "reason": "OCR error: 'REMONSTRAWNCE' should be 'REMONSTRANCE'"
+  },
+  {
+    "type": "headword_review",
+    "term": "REPARWAMENTO",
+    "suggested": "REPARTAMIENTO",
+    "reason": "OCR error: 'REPARWAMENTO' should be 'REPARTAMIENTO' (Spanish legal term for partition of property)"
+  },
+  {
+    "type": "headword_review",
+    "term": "RESOCISSION",
+    "suggested": "RESCINDMENT",
+    "reason": "The body starts with RESCINDMENT as the headword; RESOCISSION appears to be a garbled/wrong headword"
+  },
+  {
+    "type": "headword_review",
+    "term": "RESOUE",
+    "suggested": "RESCUE",
+    "reason": "OCR error: 'RESOUE' should be 'RESCUE'"
+  },
+  {
+    "type": "headword_review",
+    "term": "RESOLUOION",
+    "suggested": "RESOLUCION",
+    "reason": "OCR error in headword within RESILIRE body: 'RESOLUOION' should be 'RESOLUCION' (Spanish colonial law term)"
+  },
+  {
+    "type": "headword_review",
+    "term": "RESPEOTU COMPUTI VICECOMITIS",
+    "suggested": "RESPECTU COMPUTI VICECOMITIS",
+    "reason": "OCR error: 'RESPEOTU' should be 'RESPECTU'"
+  },
+  {
+    "type": "headword_review",
+    "term": "RBESOLUTORY CONDITION",
+    "suggested": "RESOLUTORY CONDITION",
+    "reason": "OCR error: 'RBESOLUTORY' should be 'RESOLUTORY'"
+  },
+  {
+    "type": "headword_review",
+    "term": "RETONSOR",
+    "suggested": "RETONSOR",
+    "reason": "The body duplicates the headword then gives a garbled definition; the actual entry repeats 'RETONSOR' as if it were a headword within the body"
+  },
+  {
+    "type": "flag",
+    "term": "RK",
+    "issue": "Entry appears to be a fragment of a larger entry or citation, with no headword definition — possibly OCR debris or a misidentified entry"
+  },
+  {
+    "type": "flag",
+    "term": "RL",
+    "issue": "Very short entry; '& 8.' may be OCR error for '& S.' (Ridgeway, Lapp & Schoales)"
+  },
+  {
+    "type": "headword_review",
+    "term": "ROBERSTMEN",
+    "suggested": "ROBERDSMEN",
+    "reason": "Duplicate entry with variant OCR spelling; correct spelling is ROBERDSMEN as shown in the other entry"
+  },
+  {
+    "type": "flag",
+    "term": "ROMA",
+    "issue": "Definition 'Pilgrims that traveled to Rome on foot' seems incomplete — likely missing the Latin term being defined (possibly 'Romipetae' or similar)"
+  },
+  {
+    "type": "flag",
+    "term": "RUPTCY",
+    "issue": "Entry term 'RUPTCY' appears to be a severely damaged headword, possibly part of 'BANKRUPTCY' or similar. The body references 'RUPTCY LAW; CANON Law; Case Law' etc. which looks like a fragment of a cross-reference list. This entry seems entirely corrupted."
+  },
+  {
+    "type": "headword_review",
+    "term": "RURAL",
+    "suggested": "RURAL DEANS",
+    "reason": "The entry body describes Rural Deans; the headword is incomplete"
+  }
+]

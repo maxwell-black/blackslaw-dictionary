@@ -1,0 +1,45 @@
+{
+  "letter": "X",
+  "entries_reviewed": 3,
+  "corrections": [
+    {
+      "type": "headword",
+      "term": "X",
+      "correct": "L",
+      "reason": "Entry body describes the Roman numeral for fifty and abbreviation for 'law', 'liber', 'lord' — this is clearly the entry for the letter L, not X"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "X",
+      "old": "nsed as an abbreviation for \"law,\" \"Uber,\"",
+      "new": "used as an abbreviation for \"law,\" \"liber,\"",
+      "reason": "'nsed' is OCR error for 'used'; 'Uber' is OCR error for 'liber' (Latin for book)"
+    },
+    {
+      "type": "trim",
+      "term": "X",
+      "trim_at": "L. 5. An abbreviation of",
+      "reason": "'L. 5.' is a separate sub-entry that has been merged into the body of this entry"
+    },
+    {
+      "type": "headword",
+      "term": "XY",
+      "correct": "X",
+      "reason": "Entry body describes the letter 'x' used as a symbol meaning 'by' in dimensions — this is the entry for the letter X, not XY"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "XENODOCHIUM",
+      "old": "public Hcense",
+      "new": "public license",
+      "reason": "'Hcense' is OCR error for 'license'"
+    }
+  ],
+  "errors": [],
+  "by_type": {
+    "headword": 2,
+    "ocr_fix": 2,
+    "trim": 1
+  },
+  "elapsed_seconds": 6.7
+}

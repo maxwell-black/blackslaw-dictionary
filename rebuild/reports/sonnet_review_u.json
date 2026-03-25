@@ -1,0 +1,702 @@
+{
+  "letter": "U",
+  "entries_reviewed": 152,
+  "corrections": [
+    {
+      "type": "ocr_fix",
+      "term": "UXOR",
+      "old": "uxzor",
+      "new": "uxor",
+      "reason": "OCR error in headword of sub-entry 'Et uxzor' — should be 'Et uxor'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "UXOR",
+      "old": "Uzxor et filius sunt nomina natures.",
+      "new": "Uxor et filius sunt nomina naturæ.",
+      "reason": "OCR error: 'Uzxor' should be 'Uxor'; 'natures' should be 'naturæ'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "UXOR",
+      "old": "Uxzeor non est sui juris",
+      "new": "Uxor non est sui juris",
+      "reason": "OCR error: 'Uxzeor' should be 'Uxor'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "UXOR",
+      "old": "8\nInst. 108.",
+      "new": "3 Inst. 108.",
+      "reason": "OCR error: '8' should be '3' (Coke's Institutes citation)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "UXOR",
+      "old": "Uzor sequitur domiciliam viri.",
+      "new": "Uxor sequitur domiciliam viri.",
+      "reason": "OCR error: 'Uzor' should be 'Uxor'"
+    },
+    {
+      "type": "trim",
+      "term": "UXORICIDE",
+      "trim_at": "V. As an abbreviation, this letter",
+      "reason": "The entry for the letter V is merged into the UXORICIDE body after a paragraph break"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "U.C",
+      "old": "2 B). Comm. 281.",
+      "new": "2 Bl. Comm. 281.",
+      "reason": "OCR error: 'B).' should be 'Bl.' (abbreviation for Blackstone)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "U.S",
+      "old": "2 Abb. U. 8S. 364",
+      "new": "2 Abb. U. S. 364",
+      "reason": "OCR error: '8S' should be 'S.' in abbreviation U. S."
+    },
+    {
+      "type": "ocr_fix",
+      "term": "U.S",
+      "old": "8 Wash. e. C. 234",
+      "new": "8 Wash. C. C. 234",
+      "reason": "OCR error: 'e. C.' should be 'C. C.' (Circuit Court)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "U.S",
+      "old": "peor in 1 is the offense",
+      "new": "passed in 1848, is the offense",
+      "reason": "OCR garbled text - likely 'passed in 1848' based on context of the Treason-felony statute"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "U.S",
+      "old": "to stir up foreigners by any ap or\nwriting",
+      "new": "to stir up foreigners by any print or\nwriting",
+      "reason": "OCR error: 'ap' appears to be truncated/garbled, likely 'print'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "U.S",
+      "old": "80 W. 360",
+      "new": "80 N. J. L. 360",
+      "reason": "OCR error: citation appears garbled, missing state abbreviation"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ULTRA",
+      "old": "998 Am. 38;",
+      "new": "99 Am. Dec. 38;",
+      "reason": "OCR error: '998 Am. 38' should be '99 Am. Dec. 38' (American Decisions citation)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "UNDEFENDED",
+      "old": "Diied to one",
+      "new": "plied to one",
+      "reason": "OCR error: 'Diied' should be 'plied' (word 'applied' split across line)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "UNDER-TUTOR",
+      "old": "In YWouisiana.",
+      "new": "In Louisiana.",
+      "reason": "OCR error: 'YWouisiana' should be 'Louisiana'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "UNCONSCIONABLE BARGAIN",
+      "old": "'contract which no man",
+      "new": "A contract which no man",
+      "reason": "OCR error: opening quote mark instead of 'A'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "UNCONSCIONABLE BARGAIN",
+      "old": "88 L. Ed.\n893.",
+      "new": "33 L. Ed.\n393.",
+      "reason": "OCR error: '88 L. Ed. 893' should be '33 L. Ed. 393' matching the UNCONSCIONABLE entry above"
+    },
+    {
+      "type": "trim",
+      "term": "UNCONTROLLABLE",
+      "trim_at": "UNCONTROLLABLE IMPULSE. AS8s",
+      "reason": "The body of UNCONTROLLABLE contains a merged entry for UNCONTROLLABLE IMPULSE after the initial paragraph"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "UNCONTROLLABLE",
+      "old": "UNCONTROLLABLE IMPULSE. AS8s\nan excuse",
+      "new": "UNCONTROLLABLE IMPULSE. As\nan excuse",
+      "reason": "OCR error: 'AS8s' should be 'As'"
+    },
+    {
+      "type": "trim",
+      "term": "UNCORE",
+      "trim_at": "UNCORE PRIST",
+      "reason": "The body of UNCORE contains the entry UNCORE PRIST merged in after a bullet point"
+    },
+    {
+      "type": "trim",
+      "term": "UNDER",
+      "trim_at": "UNDER-CHAMBERLAINS OF THE",
+      "reason": "The body of UNDER contains a merged entry header 'UNDER-CHAMBERLAINS OF THE' at the end"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "UNDER-LEASE",
+      "old": "' UNDER-SHERIFF. An officer who acts",
+      "new": "",
+      "reason": "The UNDER-SHERIFF entry text appears merged into UNDER-LEASE body"
+    },
+    {
+      "type": "trim",
+      "term": "UNDER-LEASE",
+      "trim_at": "' UNDER-SHERIFF. An officer who acts",
+      "reason": "The body of UNDER-LEASE has the UNDER-SHERIFF entry merged in after the under-lease definition"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "UNDER-TREASURER",
+      "old": "UNDER-TREASURER OF ENGLAND.\nHe who transacted",
+      "new": "He who transacted",
+      "reason": "The headword phrase is repeated at start of body; should just be the definition"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "UNCIARIUS",
+      "old": "UNCIARIUS HZRES. Iat.",
+      "new": "UNCIARIUS HERES. Lat.",
+      "reason": "OCR error in sub-entry: 'HZRES' should be 'HERES' and 'Iat.' should be 'Lat.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "UNCIARIUS HERES",
+      "old": "UNCIARIUS HZRES. Lat.",
+      "new": "UNCIARIUS HERES. Lat.",
+      "reason": "OCR error: 'HZRES' should be 'HERES'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "ULTIMUM",
+      "old": "4 BL\nComm. 17.",
+      "new": "4 Bl.\nComm. 17.",
+      "reason": "OCR error: 'BL' should be 'Bl.' (Blackstone abbreviation)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "UNAVOIDABLE ACCIDENT",
+      "old": "sk\nag the law",
+      "new": "as the law",
+      "reason": "OCR error: 'sk\nag' should be 'as'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "UNASCERTAINED",
+      "old": "UNASCERTAINED DUTIES. Payment\nin gross",
+      "new": "Payment\nin gross",
+      "reason": "The headword is repeated at start of body; the body should just contain the definition"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "UNAVOIDABLE",
+      "old": "UNAVOIDABLE ACCIDENT. Not necessarily an accident which it was physically\nimpossible, in the nature of things, for the",
+      "new": "Not necessarily an accident which it was physically\nimpossible, in the nature of things, for the",
+      "reason": "Headword repeated at start of body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "UNA",
+      "old": "Agreement of aj] the persons",
+      "new": "Agreement of all the persons",
+      "reason": "OCR error in UNANIMITY entry: 'aj]' should be 'all'"
+    },
+    {
+      "type": "headword",
+      "term": "UNA",
+      "correct": "UNANIMITY",
+      "reason": "The body describes 'unanimity' - the headword appears to be OCR-damaged or truncated"
+    },
+    {
+      "type": "flag",
+      "term": "ULTIMA",
+      "issue": "The body says 'The last argument; the last resort' but ULTIMA alone means 'last' - this appears to be the entry for ULTIMA RATIO which is missing from the headword"
+    },
+    {
+      "type": "flag",
+      "term": "ULTIMUS",
+      "issue": "Body says 'The last or remote heir; the lord' but ULTIMUS HAERES would be the more complete headword for this definition"
+    },
+    {
+      "type": "flag",
+      "term": "U.C",
+      "issue": "Headword appears to be a fragment/OCR error - likely should be a complete word like 'TIMBER' based on the content about timber culture entry and timber-trees"
+    },
+    {
+      "type": "flag",
+      "term": "U.S",
+      "issue": "Headword appears to be a fragment/OCR error - content relates to TREASON based on the citations and sub-entries"
+    },
+    {
+      "type": "trim",
+      "term": "UPPER",
+      "trim_at": "Unumgquodgque dissolvitur eo",
+      "reason": "The UPPER entry body contains multiple embedded Latin maxim entries and the UPPER BENCH definition; the body should only be a cross-reference stub to UPPER BENCH"
+    },
+    {
+      "type": "trim",
+      "term": "UPSET",
+      "trim_at": "UPSET PRICE. In sales by au",
+      "reason": "UPSET entry body contains the full UPSET PRICE definition merged in after the headword cross-reference"
+    },
+    {
+      "type": "trim",
+      "term": "UPSUN",
+      "trim_at": "See HoME-\nURBAN HOMESTEAD.",
+      "reason": "UPSUN body contains a cross-reference fragment for URBAN HOMESTEAD that is not part of this entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "URBS",
+      "old": "wurde meant the city of",
+      "new": "urbs meant the city of",
+      "reason": "OCR error: 'wurde' should be 'urbs' (the Latin word being defined)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "USANCE",
+      "old": "§§ '50, 144, 332",
+      "new": "§§ 150, 144, 332",
+      "reason": "OCR error: '50 should be 150"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "USEFUL",
+      "old": "the good order of viene e Bedford",
+      "new": "the good order of society. Bedford",
+      "reason": "OCR error: 'viene e' is garbled text for 'society.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "USER",
+      "old": "An adverse user is sach",
+      "new": "An adverse user is such",
+      "reason": "OCR error: 'sach' should be 'such'"
+    },
+    {
+      "type": "trim",
+      "term": "USHER",
+      "trim_at": "USHER OF THE BLACK ROD.",
+      "reason": "USHER entry body contains the full USHER OF THE BLACK ROD definition merged in"
+    },
+    {
+      "type": "headword",
+      "term": "USINCREASE",
+      "correct": "INCREASE",
+      "reason": "Headword is garbled; the entry defines 'increase' terms and the body discusses 'affidavit of increase' and 'costs of increase'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "USQUE",
+      "old": "a release of all de\nmands wsque ad-a certain day",
+      "new": "a release of all demands usque ad a certain day",
+      "reason": "OCR error: 'wsque' should be 'usque'"
+    },
+    {
+      "type": "trim",
+      "term": "USQUE",
+      "trim_at": "USQUE AD FILUM AQU2Z",
+      "reason": "USQUE body contains an embedded USQUE AD FILUM AQUAE entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "USUFRUCT",
+      "old": "as, sap Gl \"hear liquors",
+      "new": "as, money or liquors",
+      "reason": "OCR error: 'sap Gl \"hear' is garbled text for 'money or'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "USUFRUCT",
+      "old": "deteriorate natu by time",
+      "new": "deteriorate naturally by time",
+      "reason": "OCR error: 'natu' is truncated word for 'naturally'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "USUFRUCT",
+      "old": "ode Ia. 1900, art. 534.—Quasi usufruct.",
+      "new": "Code La. 1900, art. 534.—Quasi usufruct.",
+      "reason": "OCR error: 'ode Ia.' should be 'Code La.'"
+    },
+    {
+      "type": "trim",
+      "term": "USUFRUIT",
+      "trim_at": "Mon-",
+      "reason": "USUFRUIT body contains a fragment 'Mon-' which appears to be the beginning of a next entry (Monopoly or similar) merged in"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "USURA",
+      "old": "propter usum rei mutuats recipituar",
+      "new": "propter usum rei mutuatae recipitur",
+      "reason": "OCR error: 'mutuats' and 'recipituar' are garbled Latin words"
+    },
+    {
+      "type": "trim",
+      "term": "USURIOUS",
+      "trim_at": "USURPATIO. Lat. In the civ",
+      "reason": "USURIOUS body contains the beginning of the USURPATIO entry merged in"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "USURPED",
+      "old": "2 Mafsh. Ins. 791",
+      "new": "2 Marsh. Ins. 791",
+      "reason": "OCR error: 'Mafsh.' should be 'Marsh.' (Marshall's Insurance)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "USURY",
+      "old": "money borruwed or",
+      "new": "money borrowed or",
+      "reason": "OCR error: 'borruwed' should be 'borrowed'"
+    },
+    {
+      "type": "trim",
+      "term": "USURY",
+      "trim_at": "UsUS. Lat. In Roman law.",
+      "reason": "USURY body contains the USUS entry merged in after the usury definition"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "USURY",
+      "old": "A precartous enjoyment of land",
+      "new": "A precarious enjoyment of land",
+      "reason": "OCR error: 'precartous' should be 'precarious'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "USURY",
+      "old": "right of habditetio of houses",
+      "new": "right of habitatio of houses",
+      "reason": "OCR error: 'habditetio' should be 'habitatio'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "USURY",
+      "old": "tenant by weus) could only hold",
+      "new": "tenant by usus) could only hold",
+      "reason": "OCR error: 'weus' should be 'usus'"
+    },
+    {
+      "type": "trim",
+      "term": "UT",
+      "trim_at": "In old English practice. Oct",
+      "reason": "UT body contains embedded entries (UT CURRERE SOLEBAT, UT DE FEODO, UT HOSPITES, maxims) and then the UTAS definition merged in at the end"
+    },
+    {
+      "type": "trim",
+      "term": "UTI",
+      "trim_at": "UTI FRUI. Lat.",
+      "reason": "UTI body contains multiple embedded entries: UTI FRUI, UTI POSSIDETIS, UTI ROGAS, and a maxim"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "UTERQUE",
+      "old": "fat. Both; each",
+      "new": "Lat. Both; each",
+      "reason": "OCR error: 'fat.' should be 'Lat.' (Latin abbreviation)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "UTLAGATUS",
+      "old": "Oaput gerit lapinum",
+      "new": "Caput gerit lupinum",
+      "reason": "OCR error: 'Oaput' should be 'Caput' and 'lapinum' should be 'lupinum' (wolf's head)"
+    },
+    {
+      "type": "trim",
+      "term": "UTLAGATUS",
+      "trim_at": "UXOR \ncontumacy and flight",
+      "reason": "UTLAGATUS body contains 'UXOR' headword fragment merged in mid-sentence before 'contumacy and flight'"
+    },
+    {
+      "type": "headword",
+      "term": "UTRUBL",
+      "correct": "UTRUBI",
+      "reason": "Headword is misspelled; should be UTRUBI (Latin legal term for interdict regarding movables)"
+    },
+    {
+      "type": "trim",
+      "term": "UTTER",
+      "trim_at": "UTTER BAR. In English law.",
+      "reason": "UTTER body contains the UTTER BAR and UTTER BARRISTER entries merged in"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "UNDERWRITER",
+      "old": "a marine policy of apeurente as im\nsurer.: ta\n\"4185\n»",
+      "new": "a marine policy of insurance as insurer.",
+      "reason": "OCR garbled 'insurance as insurer' and added spurious characters/numbers"
+    },
+    {
+      "type": "trim",
+      "term": "UNDERWRITER",
+      "trim_at": "\"UNDIVIDED. An undivided' right",
+      "reason": "The UNDIVIDED entry is merged into the UNDERWRITER body after garbled text"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "UNDUE",
+      "old": "etroys his free agency",
+      "new": "destroys his free agency",
+      "reason": "OCR dropped leading 'd' from 'destroys'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "UNDUE",
+      "old": "Oonley v. Nailer, 118 U. 8S. 127,",
+      "new": "Conley v. Nailer, 118 U. S. 127,",
+      "reason": "OCR error: 'Oonley' should be 'Conley', 'U. 8S.' should be 'U. S.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "UNDUE",
+      "old": "Marx v. Me-\nGlynn, 88 N. ¥. 370",
+      "new": "Marx v. McGlynn, 88 N. Y. 370",
+      "reason": "OCR error: 'N. ¥.' should be 'N. Y.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "UNDUE",
+      "old": "holds a real or apparent authori\nover him, of such confidence or authorif¥,",
+      "new": "holds a real or apparent authority over him, of such confidence or authority,",
+      "reason": "OCR errors: 'authori' truncated, 'authorif¥' garbled"
+    },
+    {
+      "type": "trim",
+      "term": "UNDUE",
+      "trim_at": "'UNFAIR OOMPETITION. A term",
+      "reason": "UNFAIR COMPETITION entry is merged into the UNDUE body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "UNGELD",
+      "old": "In Saxon Jaw.",
+      "new": "In Saxon law.",
+      "reason": "OCR error: 'Jaw' should be 'law'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "UNGELD",
+      "old": "& person",
+      "new": "a person",
+      "reason": "OCR error: '&' should be 'a'"
+    },
+    {
+      "type": "headword",
+      "term": "UNLARIOH",
+      "correct": "UNLAW",
+      "reason": "Headword appears garbled; 'UNLARIOH' is not a legal term and likely an OCR error for 'UNLAW' or similar"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "UNIFORMITY",
+      "old": "Uniforwity in taxation",
+      "new": "Uniformity in taxation",
+      "reason": "OCR error: 'Uniforwity' should be 'Uniformity'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "UNIFORMITY",
+      "old": "UNIFORMITY, AOT OF",
+      "new": "UNIFORMITY, ACT OF",
+      "reason": "OCR error: 'AOT' should be 'ACT'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "UNIFORMITY",
+      "old": "UNIFORMITY OF PROCESS AOT.",
+      "new": "UNIFORMITY OF PROCESS ACT.",
+      "reason": "OCR error: 'AOT' should be 'ACT'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "UNIVERSITAS",
+      "old": "a4 whole formed out of many individvals.",
+      "new": "a whole formed out of many individuals.",
+      "reason": "OCR error: 'a4' should be 'a', 'individvals' should be 'individuals'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "UNIVERSITAS",
+      "old": "A plurality of corporeal] things",
+      "new": "A plurality of corporeal things",
+      "reason": "OCR error: spurious ']' after 'corporeal'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "UNIVERSITY",
+      "old": "An iastitution of higher",
+      "new": "An institution of higher",
+      "reason": "OCR error: 'iastitution' should be 'institution'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "UNJUST",
+      "old": "or to the enjoyment of bis rights",
+      "new": "or to the enjoyment of his rights",
+      "reason": "OCR error: 'bis' should be 'his'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "UNITY",
+      "old": "appkied to",
+      "new": "applied to",
+      "reason": "OCR error: 'appkied' should be 'applied'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "UNITY",
+      "old": "is extingulabed:",
+      "new": "is extinguished:",
+      "reason": "OCR error: 'extingulabed' should be 'extinguished'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "UNITY",
+      "old": "one of the essential\nproverue. of a R baa estate, each of the tenants\naving the entire possession",
+      "new": "one of the essential properties of a joint estate, each of the tenants having the entire possession",
+      "reason": "OCR garbled 'properties of a joint estate, each of the tenants having'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "UNITY",
+      "old": "to ify\nthat they hold",
+      "new": "to signify that they hold",
+      "reason": "OCR error: 'ify' should be 'signify'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "UNNATURAL",
+      "old": "UNNATURAL OFFENSE. The infamous crime against nature; (i. e., sodomy or\nbuggery.",
+      "new": "UNNATURAL OFFENSE. The infamous crime against nature; e. g., sodomy or buggery.",
+      "reason": "Spurious '(i. e.,' should be 'e. g.,' consistent with UNNATURAL OFFENSE entry; also trim indicator"
+    },
+    {
+      "type": "trim",
+      "term": "UNNATURAL",
+      "trim_at": "UNNATURAL OFFENSE. The infamous",
+      "reason": "UNNATURAL OFFENSE entry is embedded in UNNATURAL body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "UNO",
+      "old": "In one breath. 8\nMan. & G. 45.",
+      "new": "In one breath. 3 Man. & G. 45.",
+      "reason": "OCR error: '8' should be '3'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "UNSOLEMN WAR",
+      "old": "87 Am. Dec. 328.",
+      "new": "37 Am. Dec. 328.",
+      "reason": "OCR error: '87' should be '37' (consistent with UNSOLEMN entry which correctly reads '37 Am. Dec. 328')"
+    },
+    {
+      "type": "trim",
+      "term": "UNSOLEMN WAR",
+      "trim_at": "UNSOUND MIND. A person of unsound",
+      "reason": "UNSOUND MIND entry is merged into UNSOLEMN WAR body"
+    },
+    {
+      "type": "trim",
+      "term": "UNSOUND",
+      "trim_at": "UNTHRIFT. A prodigal",
+      "reason": "UNTHRIFT entry is merged into UNSOUND body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "UNTIL",
+      "old": "Unumquodgque dissolvitur",
+      "new": "Unumquodque dissolvitur",
+      "reason": "OCR error: 'Unumquodgque' should be 'Unumquodque'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "UNTIL",
+      "old": "Unumgquodgque eedem modo quo cole\nligatu est, dissolvitur,",
+      "new": "Unumquodque eodem modo quo colligatum est, dissolvitur,",
+      "reason": "OCR errors in Latin maxim"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "UNTIL",
+      "old": "Unumgquodgque principiorum",
+      "new": "Unumquodque principiorum",
+      "reason": "OCR error: 'Unumgquodgque' should be 'Unumquodque'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "UNUS FLATU",
+      "old": "In one breath. 3\nMan. & G. 45. Unus flatu, et uno intuitu,",
+      "new": "In one breath. 3 Man. & G. 45. Uno flatu, et uno intuitu,",
+      "reason": "Headword entry is 'UNO FLATU' not 'UNUS FLATU'; 'Unus flatu' in body should be 'Uno flatu'"
+    },
+    {
+      "type": "headword",
+      "term": "UNUS FLATU",
+      "correct": "UNO FLATU",
+      "reason": "The Latin phrase is 'uno flatu' (one breath), not 'unus flatu'; duplicates the UNO entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "UNUS NULLUS RULE, THE",
+      "old": "testimony of onc witness",
+      "new": "testimony of one witness",
+      "reason": "OCR error: 'onc' should be 'one'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "UNWRITTEN LAW",
+      "old": "See Code Ciy. Proc.\nCal. 1908, § 1899",
+      "new": "See Code Civ. Proc. Cal. 1903, § 1899",
+      "reason": "OCR error: 'Ciy.' should be 'Civ.' and '1908' should be '1903' (consistent with UNWRITTEN entry)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "UNWRITTEN LAW",
+      "old": "fs needless to say",
+      "new": "It is needless to say",
+      "reason": "OCR error: 'fs' should be 'It is'"
+    },
+    {
+      "type": "headword",
+      "term": "UO DOMINICO",
+      "correct": "DE DOMINICO",
+      "reason": "Likely OCR error or misprint; 'UO DOMINICO' is not a recognized writ name"
+    },
+    {
+      "type": "flag",
+      "term": "UNIGENITURN",
+      "issue": "Entry appears to be a garbled duplicate or overflow from UNIGENITURE, containing only case citations that belong to UNFAIR COMPETITION. The headword and body seem completely misplaced."
+    },
+    {
+      "type": "flag",
+      "term": "UO DOMINICO",
+      "issue": "Headword 'UO DOMINICO' is suspicious; the writ described may be 'DE DOMINICO' or another correct form. Needs verification."
+    }
+  ],
+  "errors": [],
+  "by_type": {
+    "ocr_fix": 70,
+    "trim": 22,
+    "headword": 6,
+    "flag": 6
+  },
+  "elapsed_seconds": 40.6
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "type": "headword_review",
+    "term": "QUOAD",
+    "suggested": "QUOAD",
+    "reason": "No headword fix needed; flagging entry instead - see flag"
+  },
+  {
+    "type": "flag",
+    "term": "QUOAD",
+    "issue": "The entry for QUOAD appears to define it as 'As to sacred things; for religious purposes' but QUOAD on its own normally means 'as to' or 'with respect to'. The phrase 'quoad sacra' means 'as to sacred things'. The body may be for QUOAD SACRA rather than QUOAD."
+  },
+  {
+    "type": "headword_review",
+    "term": "QUOTIES",
+    "suggested": "QUOTIES",
+    "reason": "Headword appears correct but entry body is a duplicate/fragment from QUORUM entry"
+  },
+  {
+    "type": "headword_review",
+    "term": "QVERSMAN",
+    "suggested": "QVERSMAN",
+    "reason": "Possibly should be OVERSMAN based on the body text which says 'UBERSMAN. In Scotch law. An umpire' - headword and body definition word are both garbled"
+  },
+  {
+    "type": "headword_review",
+    "term": "QUARTO",
+    "suggested": "QUARTO DIE",
+    "reason": "The entry describes 'quarto die post' meaning 'on the fourth day after'; the headword appears truncated by OCR"
+  },
+  {
+    "type": "flag",
+    "term": "QUESTUS",
+    "issue": "The body of this entry ('A writ of nuisance, which, by 15 Edw. I...') appears to belong to a different entry, possibly QUOD PERMITTAT PROSTERNERE, not QUESTUS (which means 'acquisition/gain' in Latin)"
+  },
+  {
+    "type": "headword_review",
+    "term": "QUALIFIED WORTER",
+    "suggested": "QUALIFIED",
+    "reason": "Headword is garbled; should be 'QUALIFIED' (the body defines 'qualified' as adapted, fitted, entitled)"
+  }
+]

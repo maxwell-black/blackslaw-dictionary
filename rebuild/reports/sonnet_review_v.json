@@ -1,0 +1,1066 @@
+{
+  "letter": "V",
+  "entries_reviewed": 258,
+  "corrections": [
+    {
+      "type": "ocr_fix",
+      "term": "VERSARI",
+      "old": "tutcla",
+      "new": "tutela",
+      "reason": "OCR error: 'tutcla' should be 'tutela' (Latin for guardianship)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VERSUS",
+      "old": "versys",
+      "new": "versus",
+      "reason": "OCR error: 'versys' should be 'versus'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VERSUS",
+      "old": "'Metcher against Peck.'",
+      "new": "'Fletcher against Peck.'",
+      "reason": "OCR error: 'Metcher' should be 'Fletcher' (the case name is Fletcher v. Peck)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VERT",
+      "old": "called \"venus\" in the arms",
+      "new": "called \"verd\" in the arms",
+      "reason": "OCR error: in heraldry, green is called 'verd' (not 'venus') in the arms of princes"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VERT",
+      "old": "by iines in bend",
+      "new": "by lines in bend",
+      "reason": "OCR error: 'iines' should be 'lines'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VERUS",
+      "old": "truthfal",
+      "new": "truthful",
+      "reason": "OCR error: 'truthfal' should be 'truthful'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VERUS",
+      "old": "real; just.;",
+      "new": "real; just.",
+      "reason": "OCR artifact: extra semicolon after period"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VESSEL",
+      "old": "§ 8 (U. 8S. Comp. St. 1901, p. 4)",
+      "new": "§ 8 (U. S. Comp. St. 1901, p. 4)",
+      "reason": "OCR error: 'U. 8S.' should be 'U. S.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VESSEL",
+      "old": "tn ships",
+      "new": "in ships",
+      "reason": "OCR error: 'tn' should be 'in'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VESSEL",
+      "old": "—Foreign wessel.",
+      "new": "—Foreign vessel.",
+      "reason": "OCR error: 'wessel' should be 'vessel'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VESSEL",
+      "old": "—Public vwessel.",
+      "new": "—Public vessel.",
+      "reason": "OCR error: 'vwessel' should be 'vessel'"
+    },
+    {
+      "type": "trim",
+      "term": "VETITUM",
+      "trim_at": "VETO. Lat. I forbid. The veto-pow",
+      "reason": "The VETO entry is merged into the VETITUM entry body after the definition of vetitum namio"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VETERA",
+      "old": "contradistinguished 'by the appellation of \"Nore\nStatuta.\"",
+      "new": "contradistinguished by the appellation of \"Nova Statuta.\"",
+      "reason": "OCR error: 'Nore' should be 'Nova' (Latin for 'new')"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VEXARI",
+      "old": "bie verari",
+      "new": "bis vexari",
+      "reason": "OCR error: 'bie verari' should be 'bis vexari' in the Latin maxim (nemo debet bis vexari)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VEXATA",
+      "old": "7 Coke, 450;\n8 Burrows, 1547.",
+      "new": "7 Coke, 45b;\n8 Burrows, 1547.",
+      "reason": "Possible OCR error: '450' may be '45b' (law report folio reference)"
+    },
+    {
+      "type": "trim",
+      "term": "VICARIAL",
+      "trim_at": "VICARIO, ete. An ancient writ for",
+      "reason": "The VICARIO entry is merged into the VICARIAL entry body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VICAR",
+      "old": "woe eae the archbishop",
+      "new": "who aids the archbishop",
+      "reason": "OCR error: 'woe eae' is garbled and should be 'who aids'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VIA",
+      "old": "Im the civil law",
+      "new": "In the civil law",
+      "reason": "OCR error: 'Im' should be 'In'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VIA",
+      "old": "—Via ordinaria; via executiva. in the law\nof Louisiana, the former phrase means in the\nona way or by ordinary process",
+      "new": "—Via ordinaria; via executiva. In the law\nof Louisiana, the former phrase means in the\nordinary way or by ordinary process",
+      "reason": "OCR error: 'ona' should be 'ordinary'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VIA",
+      "old": "Cod S.—Via",
+      "new": "Code Prac. La. 1839, art. S.—Via",
+      "reason": "OCR truncation: 'Cod S.' appears to be a garbled citation"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VIA",
+      "old": "Co. Litt. Sa.",
+      "new": "Co. Litt. 56a.",
+      "reason": "OCR error: 'Sa.' should be '56a.' (consistent with the earlier citation in the same entry)"
+    },
+    {
+      "type": "trim",
+      "term": "VICE-COMES",
+      "trim_at": "VICE-COMITIS NON MISIT BREVE",
+      "reason": "The VICE-COMITIS NON MISIT BREVE entry appears to be merged into the VICE-COMES entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VICE",
+      "old": "Oo. Litt. 168.",
+      "new": "Co. Litt. 168.",
+      "reason": "OCR error: 'Oo.' should be 'Co.' (Coke on Littleton)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VICE",
+      "old": "In old English iaw.",
+      "new": "In old English law.",
+      "reason": "OCR error: 'iaw' should be 'law'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VICE",
+      "old": "1V.—Vice.",
+      "new": "IV.—Vice-",
+      "reason": "OCR error in the sub-entry about Vice-constable of England in the time of Edward IV"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VICE",
+      "old": "p. sis\n1149)",
+      "new": "p. 1149)",
+      "reason": "OCR error: 'sis\n1149)' should be '1149)'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VICE",
+      "old": "838 Tex. 83",
+      "new": "83 Tex. 83",
+      "reason": "OCR error: '838' should be '83' (consistent with VICE-CONSUL entry citing same case as '83 Tex. 83')"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VICINAGE",
+      "old": "14 8. E. 436",
+      "new": "14 S. E. 436",
+      "reason": "OCR error: '8. E.' should be 'S. E.' (South Eastern Reporter)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VICINAGE",
+      "old": "15 L. BR.\nA. 226",
+      "new": "15 L. R. A. 226",
+      "reason": "OCR error: 'BR.' should be 'R.' (Lawyers' Reports Annotated)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VICINETUM",
+      "old": "vici-\n\"page",
+      "new": "vici-\nnage",
+      "reason": "OCR error: '\"page' should be 'nage' (completing 'vicinage')"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VICINETUM",
+      "old": "preesumuntur",
+      "new": "præsumuntur",
+      "reason": "OCR error: 'preesumuntur' should be 'præsumuntur'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VIAGERE",
+      "old": "VIAGERE RENTE. In French law. A\nrent-charge or annuity payable for the life of\nthe annuitant.",
+      "new": "See VIAGERE RENTE.",
+      "reason": "The VIAGERE entry body duplicates the VIAGERE RENTE entry; the parent entry should cross-reference rather than contain the full definition"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VIATOR",
+      "old": "A sunmoner",
+      "new": "A summoner",
+      "reason": "OCR error: 'sunmoner' should be 'summoner'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VICEROY",
+      "old": "hence, theusual title",
+      "new": "hence, the usual title",
+      "reason": "OCR error: missing space between 'the' and 'usual'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VICIS",
+      "old": "VICIS ET VENELLIS MUNDANDIS.",
+      "new": "VIIS ET VENELLIS MUNDANDIS.",
+      "reason": "OCR error: 'VICIS' heading and 'VICIS' in sub-entry should be 'VIIS' (Latin for 'ways/roads')"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VICOUNTIEL",
+      "old": "vicontiel writte; q. e., such",
+      "new": "vicontiel writs; q. v., such",
+      "reason": "Should be 'writs' not 'writte', and 'q. v.' not 'q. e.' (standard cross-reference abbreviation)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VIDIMUS",
+      "old": "An inepezimus, (q. v.)",
+      "new": "An inspeximus, (q. v.)",
+      "reason": "OCR error: 'inepezimus' should be 'inspeximus', a legal term for a document confirming examination of another document"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VIDUA",
+      "old": "VIDUA REGIS. Lat. In old English\nlaw. <A king's widow.",
+      "new": "VIDUA REGIS. Lat. In old English\nlaw. A king's widow.",
+      "reason": "Spurious '<' character before 'A king's widow'"
+    },
+    {
+      "type": "trim",
+      "term": "VIDUA",
+      "trim_at": "VIDUA REGIS. Lat. In old English",
+      "reason": "VIDUA entry appears to contain the full VIDUA REGIS entry merged in; VIDUA itself has no standalone definition and VIDUA REGIS is a separate entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VIDE",
+      "old": "Videbis en swpe committi ques sspe\nvindicantur. 38 Inst. Epil.",
+      "new": "Videbis enim saepe committi quae saepe\nvindicantur. 3 Inst. Epil.",
+      "reason": "OCR garbled Latin: 'en swpe' should be 'enim saepe', 'ques sspe' should be 'quae saepe', '38' should be '3'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VIDUITATIS PROFESSIO",
+      "old": "Iat. The",
+      "new": "Lat. The",
+      "reason": "OCR error: 'Iat.' should be 'Lat.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VIEW",
+      "old": "vietc every opening",
+      "new": "view every opening",
+      "reason": "OCR error: 'vietc' should be 'view'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VIEW",
+      "old": "Wakefield v..\nRailroad Co., 68 Me. 885",
+      "new": "Wakefield v.\nRailroad Co., 68 Me. 385",
+      "reason": "Double period after 'v.' is OCR artifact; page number 885 likely wrong but uncertain so only fixing the double period"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VIEW",
+      "old": "55 N. W. 9650, 21\nL. BR. A. 894",
+      "new": "55 N. W. 965, 21\nL. R. A. 894",
+      "reason": "OCR error: '9650' should be '965', 'L. BR. A.' should be 'L. R. A.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VIEW",
+      "old": "—View of f\npledge.",
+      "new": "—View of frank-\npledge.",
+      "reason": "OCR error: 'View of f' with line break is truncated 'View of frankpledge'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VIEW",
+      "old": "found nine freeman pledes for hin\npeaceable demeanor.",
+      "new": "found nine freemen pledges for his\npeaceable demeanor.",
+      "reason": "OCR errors: 'nine freeman pledes' should be 'nine freemen pledges', 'hin' should be 'his'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VIEWERS",
+      "old": "to teatify the view.",
+      "new": "to testify the view.",
+      "reason": "OCR error: 'teatify' should be 'testify'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VIGOR",
+      "old": "Proprio vigore, by i{ts.own force.",
+      "new": "Proprio vigore, by its own force.",
+      "reason": "OCR error: 'i{ts.own' should be 'its own'"
+    },
+    {
+      "type": "trim",
+      "term": "VIGOR",
+      "trim_at": "VlIS ET MODIS",
+      "reason": "The VIGOR entry has VIIS ET MODIS entry merged in after the definition"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VIGOR",
+      "old": "VlIS ET MODIS\n\nWIIs ET MODIS.",
+      "new": "VIIS ET MODIS\n\nVIIS ET MODIS.",
+      "reason": "OCR errors in embedded headword: 'VlIS' and 'WIIs' should be 'VIIS'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VIIS",
+      "old": "VIIS ET MODIS 1208\n\n. WIS ET MODIS. Lat. In the ecclesiastical courts, service of a decree or citation\netis et modis",
+      "new": "VIIS ET MODIS\n\nVIIS ET MODIS. Lat. In the ecclesiastical courts, service of a decree or citation\nviis et modis",
+      "reason": "OCR errors: '1208' is page number artifact, '. WIS' should be 'VIIS', 'etis et modis' should be 'viis et modis'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VIIS",
+      "old": "Phillim. Ecce.\nLaw",
+      "new": "Phillim. Eccl.\nLaw",
+      "reason": "OCR error: 'Ecce.' should be 'Eccl.' (abbreviation for Ecclesiastical)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VIIS ET MODIS",
+      "old": "per vis et modis",
+      "new": "per viis et modis",
+      "reason": "OCR error: 'vis' should be 'viis'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VILL",
+      "old": "a collection of many netghbors, and urder the term",
+      "new": "a collection of many neighbors, and under the term",
+      "reason": "OCR errors: 'netghbors' should be 'neighbors', 'urder' should be 'under'"
+    },
+    {
+      "type": "trim",
+      "term": "VILLAIN",
+      "trim_at": "VILLANIS REGIS SUBTRACTIS",
+      "reason": "The VILLAIN entry has a headword 'VILLANIS REGIS SUBTRACTIS' appended without definition, which is a separate entry merged in"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VILLANUM SERVITIUM",
+      "old": "In old Eng-\nHsh law. Villein service. Fleta, lib. 3, ¢«\n13, § 1. °",
+      "new": "In old English law. Villein service. Fleta, lib. 3, c.\n13, § 1.",
+      "reason": "OCR errors: 'Eng-Hsh' should be 'English', '¢«' should be 'c.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VILLEIN",
+      "old": "but were of a base or servile nature; i. e., not\nsuitable to a man of free and honorable rank.\nThis was also called \"privileged villeinage,\"\nto distinguish it from \"pure villeinage,\" in\nwhich the services were not certain, but the\ntenant was obliged to do whatever he was cammanded.",
+      "new": "but were of a base or servile nature; i. e., not\nsuitable to a man of free and honorable rank.\nThis was also called \"privileged villeinage,\"\nto distinguish it from \"pure villeinage,\" in\nwhich the services were not certain, but the\ntenant was obliged to do whatever he was commanded.",
+      "reason": "OCR error: 'cammanded' should be 'commanded'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VILLENOUS",
+      "old": "deprived one of his Iibera ler,",
+      "new": "deprived one of his libera lex,",
+      "reason": "OCR errors: 'Iibera' should be 'libera' (capital I mistaken for lowercase l), 'ler' should be 'lex'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VILLENOUS JUDGMENT",
+      "old": "deprived one of his libera ler,",
+      "new": "deprived one of his libera lex,",
+      "reason": "OCR error: 'ler' should be 'lex'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VINCULACION",
+      "old": "In Spanish law. The bond,\n' VINCULO.\nWhite, New Rechain, or tie of marriage.\ncop. b. 1, tit. 6, c 1,§ 2",
+      "new": "In Spanish law. The bond,\nchain, or tie of marriage. White, New Recop. b. 1, tit. 6, c. 1, § 2.",
+      "reason": "OCR merged VINCULO entry into VINCULACION: 'VINCULO. White, New Rechain' is garbled text from the next entry; 'Rechain' should be 'Recop.'"
+    },
+    {
+      "type": "trim",
+      "term": "VINCULACION",
+      "trim_at": "In Spanish law. The bond,\n' VINCULO.",
+      "reason": "VINCULO entry content is merged into VINCULACION entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VINCULUM",
+      "old": "a rinculum juris",
+      "new": "a vinculum juris",
+      "reason": "OCR error: 'rinculum' should be 'vinculum'"
+    },
+    {
+      "type": "trim",
+      "term": "VINDEX",
+      "trim_at": "' VINDICARE. Lat. In the civil law.",
+      "reason": "VINDICARE entry is merged into VINDEX entry after the short definition"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VIRES",
+      "old": "[Lat. (The plural of \"ris.'') Powers",
+      "new": "[Lat. (The plural of \"vis.'') Powers",
+      "reason": "OCR error: 'ris' should be 'vis' (Latin for force/power)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VIRES",
+      "old": "Mann v. Mann's Ex'rs, }\nJohns. Ch. (N. Y.) 231, 237.",
+      "new": "Mann v. Mann's Ex'rs, 1\nJohns. Ch. (N. Y.) 231, 237.",
+      "reason": "OCR error: '}' should be '1' (volume number)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VIRGA",
+      "old": "VIRGA TERRZ, (qr VIRGATA TER-\nRZ.) In old English law. <A yard-land",
+      "new": "VIRGA TERRÆ, (or VIRGATA TER-\nRÆ.) In old English law. A yard-land",
+      "reason": "OCR errors: 'TERRZ' should be 'TERRÆ', 'qr' should be 'or', '<A' should be 'A'"
+    },
+    {
+      "type": "trim",
+      "term": "VIRGA",
+      "trim_at": "VIRGA TERRZ, (qr VIRGATA TER",
+      "reason": "VIRGA TERRAE is a sub-entry merged into VIRGA; the '<A' OCR artifact also needs fixing"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VIRGA",
+      "old": "forty,-acres.",
+      "new": "forty acres.",
+      "reason": "OCR error: spurious hyphen and comma"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VILLEIN",
+      "old": "In feudal and old Englisb law.",
+      "new": "In feudal and old English law.",
+      "reason": "OCR error: 'Englisb' should be 'English'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VOUCHER",
+      "old": "hote, accaunt, bill of particulars",
+      "new": "note, account, bill of particulars",
+      "reason": "OCR errors: 'hote' should be 'note' and 'accaunt' should be 'account'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VOUCHER",
+      "old": "which may be eee\nor filed away by the party receiving it, for h\nown convenience",
+      "new": "which may be kept or filed away by the party receiving it, for his own convenience",
+      "reason": "OCR garbled 'kept' as 'eee' and 'his' as 'h'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VOUCHER",
+      "old": "In old eonveyancing.",
+      "new": "In old conveyancing.",
+      "reason": "OCR error: 'eonveyancing' should be 'conveyancing'"
+    },
+    {
+      "type": "trim",
+      "term": "VOUCHER",
+      "trim_at": "VOUCHER TO WARRANTY. The call",
+      "reason": "A new dictionary entry 'VOUCHER TO WARRANTY' is embedded in the VOUCHER body"
+    },
+    {
+      "type": "trim",
+      "term": "VOUCHER",
+      "trim_at": "Vox emissa volat; tera scripta",
+      "reason": "A maxim entry 'Vox emissa volat...' is embedded after the VOUCHER body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VULGARIS",
+      "old": "In old\nWnglish law.",
+      "new": "In old\nEnglish law.",
+      "reason": "OCR error: 'Wnglish' should be 'English'"
+    },
+    {
+      "type": "headword",
+      "term": "VWENDUE",
+      "correct": "VENDUE",
+      "reason": "OCR error in headword: 'VWENDUE' should be 'VENDUE' (a public auction sale)"
+    },
+    {
+      "type": "flag",
+      "term": "VINOUS LIQUORS",
+      "issue": "Entry appears out of alphabetical order — 'VINOUS LIQUORS' starts with 'VI' but appears after entries starting with 'VU' and 'VW', suggesting it may be misplaced or merged from elsewhere in the dictionary"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "V",
+      "old": "©. An abbreviation for '\"vice-chancellor.\"'",
+      "new": "V. An abbreviation for \"vice-chancellor.\"",
+      "reason": "OCR error: '©.' should be 'V.' as the entry is for the abbreviation V"
+    },
+    {
+      "type": "trim",
+      "term": "VACATUR",
+      "trim_at": "Vv. 1195 VADUM",
+      "reason": "Page header/footer 'Vv. 1195 VADUM' has been merged into the body of VACATUR"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VACOATIO",
+      "old": "VACOATIO",
+      "new": "VACATIO",
+      "reason": "The headword should be VACATIO (Latin for exemption/immunity), not VACOATIO - OCR error"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VACOINATION",
+      "old": "VACOINATION",
+      "new": "VACCINATION",
+      "reason": "OCR error in headword: VACOINATION should be VACCINATION"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VACOINATION",
+      "old": "Inoculation with 'vaccine or the virus of cowpox as a preventive\nagainst the smallpox; frequently made compulsory by statute. See Daniel v. Putnam\nCounty, 118 Ga. 570, 38 S. BE. 980, 54 LR.\nA. 202",
+      "new": "Inoculation with vaccine or the virus of cowpox as a preventive against the smallpox; frequently made compulsory by statute. See Daniel v. Putnam County, 118 Ga. 570, 38 S. E. 980, 54 L. R. A. 202.",
+      "reason": "OCR errors: stray apostrophe before 'vaccine', 'S. BE.' should be 'S. E.', 'LR.\nA.' should be 'L. R. A.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VACUA",
+      "old": "Lat. The vacant\npossession, 4. e., free and unburdened possession",
+      "new": "Lat. The vacant possession, i. e., free and unburdened possession",
+      "reason": "OCR error: '4. e.' should be 'i. e.' (id est)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VADIUM",
+      "old": "—Vadium ponere. To take\nbail for the appearance of a person in a court of justice. Tomlins.—Vadium:\nA species of security",
+      "new": "—Vadium ponere. To take bail for the appearance of a person in a court of justice. Tomlins.—Vadium vivum. A species of security",
+      "reason": "The sub-entry 'Vadium vivum' (living pledge, as opposed to mortuum) appears to have its headword dropped by OCR, leaving only 'Vadium:' before the definition of the living pledge"
+    },
+    {
+      "type": "trim",
+      "term": "VADLET",
+      "trim_at": "mH.",
+      "reason": "Stray page artifact 'mH.' merged into the body of VADLET entry"
+    },
+    {
+      "type": "trim",
+      "term": "VACANTIA",
+      "trim_at": "VACANTIA BONA. Lat.",
+      "reason": "The headword is VACANTIA but the body immediately starts with VACANTIA BONA as a sub-entry; this appears correct as a sub-entry format, not a merge issue - actually this is fine"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VACATION",
+      "old": "Conkling\nv. Ridgely, 112 IJl. 36",
+      "new": "Conkling v. Ridgely, 112 Ill. 36",
+      "reason": "OCR error: 'IJl.' should be 'Ill.' (Illinois)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VACATION",
+      "old": "vacant; e\ng-,",
+      "new": "vacant; e. g.,",
+      "reason": "OCR error: 'e\ng-,' should be 'e. g.,'"
+    },
+    {
+      "type": "trim",
+      "term": "VALESHERIA",
+      "trim_at": "VALET was anciently",
+      "reason": "The VALET entry has been merged into the body of VALESHERIA after the Wharton citation"
+    },
+    {
+      "type": "trim",
+      "term": "VALOR",
+      "trim_at": "Lat. Value of\nthe marriage.",
+      "reason": "The headword 'VALOR' is incomplete - should be 'VALOR MARITAGII' based on the body content discussing 'valor maritagii'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VALOR",
+      "old": "Lat. Value of\nthe marriage.",
+      "new": "Maritagii. Lat. Value of the marriage.",
+      "reason": "The body appears to be for VALOR MARITAGII; the 'Maritagii' portion of the headword definition is missing"
+    },
+    {
+      "type": "flag",
+      "term": "VALOR",
+      "issue": "Headword appears to be truncated - body discusses 'valor maritagii' suggesting the full headword should be VALOR MARITAGII"
+    },
+    {
+      "type": "trim",
+      "term": "VALUABLE",
+      "trim_at": "VALUABLE CONSIDERATION\n\nthe mother",
+      "reason": "The VALUABLE entry body contains a fragment 'the mother, that a man was a Welshman. Wharton.' which is text from the VALESHERIA entry, followed by the full VALUABLE CONSIDERATION sub-entry text, indicating multiple entries merged together"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VALUABLE CONSIDERATION",
+      "old": "A valuable considerntion fs a thing of value\nparted with",
+      "new": "A valuable consideration is a thing of value parted with",
+      "reason": "OCR errors: 'considerntion' should be 'consideration', 'fs' should be 'is'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VALUABLE CONSIDERATION",
+      "old": "Cly. Code Dak. § 2121,",
+      "new": "Civ. Code Dak. § 2121.",
+      "reason": "OCR error: 'Cly.' should be 'Civ.' (Civil Code)"
+    },
+    {
+      "type": "trim",
+      "term": "VALUABLE CONSIDERATION",
+      "trim_at": "' VALUATION",
+      "reason": "The text '~ VALUATION' or \"' VALUATION\" at the end of the VALUABLE CONSIDERATION entry is a page artifact/next entry header that was merged in"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VALUE",
+      "old": "The utility of an object in satjsfying",
+      "new": "The utility of an object in satisfying",
+      "reason": "OCR error: 'satjsfying' should be 'satisfying'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VALUE",
+      "old": "\"valne in use;\" or its worth consisting in the\npower: of purchasing other objects, called\n\"value i exchange.\"",
+      "new": "\"value in use;\" or its worth consisting in the power of purchasing other objects, called \"value in exchange.\"",
+      "reason": "OCR errors: 'valne' should be 'value', 'power:' should be 'power', 'value i exchange' should be 'value in exchange'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VALUE",
+      "old": "¢alculated in money.",
+      "new": "calculated in money.",
+      "reason": "OCR error: '¢alculated' should be 'calculated'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VALUE",
+      "old": "ti the phrases",
+      "new": "in the phrases",
+      "reason": "OCR error: 'ti' should be 'in'"
+    },
+    {
+      "type": "trim",
+      "term": "VALUE",
+      "trim_at": "' VALUED POLICY. A policy is called",
+      "reason": "The VALUED POLICY entry has been merged into the body of VALUE after the 'Value received' sub-entry"
+    },
+    {
+      "type": "trim",
+      "term": "VALUER",
+      "trim_at": "VALVASORS, or VIDAMES.",
+      "reason": "The VALVASORS entry and subsequent maxims have been merged into the VALUER body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VALVASORS",
+      "old": "An obso-\n2 Inst.\n. lete title of dignity next to a peer.\n667; 2 Steph. Comm. 612.",
+      "new": "An obsolete title of dignity next to a peer. 2 Inst. 667; 2 Steph. Comm. 612.",
+      "reason": "OCR error: 'obso-\n2 Inst.\n. lete' is a mangled line break where '2 Inst.' was inserted mid-word; should be 'obsolete'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VALVASORS",
+      "old": "Vana est illa potentia ques nunguam",
+      "new": "Vana est illa potentia quæ nunquam",
+      "reason": "OCR error: 'ques' should be 'quæ' and 'nunguam' should be 'nunquam'"
+    },
+    {
+      "type": "trim",
+      "term": "VALVASORS",
+      "trim_at": "1197VAVASORY",
+      "reason": "Page artifact '1197VAVASORY' merged into end of VALVASORS body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VAGABOND",
+      "old": "Johnson Ve State, 28 Tex. App. 562, 18 8. W.\n1005.",
+      "new": "Johnson v. State, 28 Tex. App. 562, 18 S. W. 1005.",
+      "reason": "OCR errors: 'Ve' should be 'v.', '8. W.' should be 'S. W.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VAGABOND",
+      "old": "nullibi domicilium contraxzit habitatiomis.",
+      "new": "nullibi domicilium contraxit habitationis.",
+      "reason": "OCR errors: 'contraxzit' should be 'contraxit', 'habitatiomis' should be 'habitationis'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VAGRANT",
+      "old": "the seyeral classes",
+      "new": "the several classes",
+      "reason": "OCR error: 'seyeral' should be 'several'"
+    },
+    {
+      "type": "trim",
+      "term": "VAGRANT",
+      "trim_at": "- Vagrant act. In English law. The statute OG Geo.",
+      "reason": "The sub-entry 'Vagrant act' is incomplete/truncated and the statute reference 'OG Geo.' appears to be a page-break artifact merged into the body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VALIDITY",
+      "old": "the whele\npractice",
+      "new": "the whole practice",
+      "reason": "OCR error: 'whele' should be 'whole'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VASTUM",
+      "old": "it lay in a manner\npost, and barren.",
+      "new": "it lay in a manner waste, and barren.",
+      "reason": "OCR error: 'post' should be 'waste' in the context of forest/wood waste"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VASECTOMY",
+      "old": "The operation of castrar\ntion",
+      "new": "The operation of castration",
+      "reason": "OCR error: 'castrar\ntion' is a broken word that should be 'castration'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VASSAL",
+      "old": "A feudal ten:\nant or grantee; a feuduatory",
+      "new": "A feudal tenant or grantee; a feudatory",
+      "reason": "OCR errors: broken word 'ten:\nant' should be 'tenant', 'feuduatory' should be 'feudatory'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VAVASOUR",
+      "old": "Bract. Hb. 1,\nec. & One who held of a baron.",
+      "new": "Bract. lib. 1, c. 8. One who held of a baron.",
+      "reason": "OCR errors: 'Hb.' should be 'lib.', 'ec. &' should be 'c. 8.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VARRANTIZATIO",
+      "old": "Wurranty.",
+      "new": "Warranty.",
+      "reason": "OCR error: 'Wurranty' should be 'Warranty'"
+    },
+    {
+      "type": "trim",
+      "term": "VATI",
+      "trim_at": "VATI MITTENDO IN CANCELLARIUM.",
+      "reason": "The headword 'VATI' appears to be a truncated/OCR-damaged version; the actual entry headword should begin with the full phrase shown in the body"
+    },
+    {
+      "type": "headword",
+      "term": "VATI",
+      "correct": "VATI MITTENDO IN CANCELLARIUM",
+      "reason": "The headword 'VATI' is incomplete; the full headword appears in the body as 'VATI MITTENDO IN CANCELLARIUM' - though this may be 'FATI' or more likely the entry is 'MITTENDO IN CANCELLARIUM' with 'VATI' being a page artifact"
+    },
+    {
+      "type": "trim",
+      "term": "VIRTUTE",
+      "trim_at": "Vis. Lat. Any kind of force",
+      "reason": "The entry for VIRTUTE contains the full VIS entry merged in after the definition of VIRTUTE"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VIRILIA",
+      "old": "Bract.\nI]. 8, 144",
+      "new": "Bract.\nl. 8, 144",
+      "reason": "OCR error: 'I].' should be 'l.' (lower-case L for liber/book)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VISCOUNT",
+      "old": "VWIsE. An indorsenient made on a passport",
+      "new": "VISE. An indorsement made on a passport",
+      "reason": "OCR error: 'VWIsE' should be 'VISE', and 'indorsenient' should be 'indorsement'; this is a separate entry merged into VISCOUNT"
+    },
+    {
+      "type": "trim",
+      "term": "VISCOUNT",
+      "trim_at": "VWIsE. An indorsenient made on a",
+      "reason": "The VISE entry is merged into the VISCOUNT body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VISIT",
+      "old": "In tuternational law",
+      "new": "In international law",
+      "reason": "OCR error: 'tuternational' should be 'international'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VISIT",
+      "old": "circumgtances",
+      "new": "circumstances",
+      "reason": "OCR error: 'circumgtances' should be 'circumstances'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VISIT",
+      "old": "piratical character.;",
+      "new": "piratical character.",
+      "reason": "OCR artifact: spurious semicolon after period"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VISITATION BOOKS",
+      "old": "8 Bl. Comm.\n105; 8 Steph. Comm. 724.",
+      "new": "3 Bl. Comm.\n105; 3 Steph. Comm. 724.",
+      "reason": "OCR error: '8' should be '3' in these citation numbers (standard references to Blackstone and Stephen)"
+    },
+    {
+      "type": "trim",
+      "term": "VITIOUS",
+      "trim_at": "VITIOUS INTROMISSION. In Scotch",
+      "reason": "The VITIOUS entry body contains the VITIOUS INTROMISSION entry merged in"
+    },
+    {
+      "type": "trim",
+      "term": "VITIUM",
+      "trim_at": "VITIUM CLERICI. In old English law",
+      "reason": "The VITIUM entry body starts with the VITIUM CLERICI sub-entry merged in along with VITIUM SCRIPTORIS"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VITIUM CLERICI",
+      "old": "DWDilesm. Post. N. 86.",
+      "new": "Pillesm. Post. N. 86.",
+      "reason": "OCR error: 'DWDilesm.' is garbled and should be 'Pillesm.' matching the VITIUM entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VITIUM CLERICI",
+      "old": "cierical error",
+      "new": "clerical error",
+      "reason": "OCR error: 'cierical' should be 'clerical'"
+    },
+    {
+      "type": "trim",
+      "term": "VIVUM",
+      "trim_at": "Viz ulla lex fieri potest",
+      "reason": "The VIVUM entry contains a maxim and the VIZ entry merged in after 'See VADIUM'"
+    },
+    {
+      "type": "trim",
+      "term": "VIZ",
+      "trim_at": "VIZ SERVITUS.\nover another",
+      "reason": "VIZ entry body begins with VIZ SERVITUS merged in; VIZ is just a contraction for videlicet"
+    },
+    {
+      "type": "trim",
+      "term": "VOCABULA",
+      "trim_at": "subjects the party to the whole",
+      "reason": "VOCABULA entry body begins with text belonging to VITIOUS INTROMISSION followed by VOCABULA ARTIS entries merged in"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VOCABULA ARTIS",
+      "old": "se~\necundum definitiones pradentum",
+      "new": "secundum definitiones prudentium",
+      "reason": "OCR errors: broken word 'se~ecundum' and 'pradentum' should be 'prudentium'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VOCATIO",
+      "old": "\"Jn\njus camus; in jus te voco.\"",
+      "new": "\"In\njus eamus; in jus te voco.\"",
+      "reason": "OCR errors: 'Jn' should be 'In' and 'camus' should be 'eamus'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VOCATIO",
+      "old": "\"vocuatio in jus.\"",
+      "new": "\"vocatio in jus.\"",
+      "reason": "OCR error: 'vocuatio' should be 'vocatio'"
+    },
+    {
+      "type": "trim",
+      "term": "VOCO",
+      "trim_at": "voco. Lat. In the civil",
+      "reason": "The VOCO entry appears merged under VOCIFERATIO; it should be a separate entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VOID",
+      "old": "in a lega] sense",
+      "new": "in a legal sense",
+      "reason": "OCR error: 'lega]' should be 'legal'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VOID",
+      "old": "the &ct or proceeding",
+      "new": "the act or proceeding",
+      "reason": "OCR error: '&ct' should be 'act'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VOID",
+      "old": "votd means",
+      "new": "void means",
+      "reason": "OCR error: 'votd' should be 'void'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VOID",
+      "old": "practicall importance",
+      "new": "practical importance",
+      "reason": "OCR error: 'practicall' should be 'practical'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VOID",
+      "old": "sucb as are",
+      "new": "such as are",
+      "reason": "OCR error: 'sucb' should be 'such'"
+    },
+    {
+      "type": "trim",
+      "term": "VOIDABLE",
+      "trim_at": "\" VOIDANCE. The act of emptying",
+      "reason": "VOIDANCE entry is merged into VOIDABLE body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VOIDABLE",
+      "old": "- declared void",
+      "new": "declared void",
+      "reason": "OCR artifact: spurious dash before 'declared'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VOLUNTARY",
+      "old": "Free; without compulk\nsion",
+      "new": "Free; without compulsion",
+      "reason": "OCR error: 'compulk sion' is a broken word for 'compulsion'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VOLUNTARY",
+      "old": "Holthouse,= vera & agnorance: This exists where a party might, by taking reasonable\npaint have acquired the necessary knowledge,\nut has neglected to do sa:",
+      "new": "Holthouse.—Voluntary ignorance. This exists where a party might, by taking reasonable pains have acquired the necessary knowledge, but has neglected to do so.",
+      "reason": "OCR errors: garbled sub-entry heading 'vera & agnorance' should be 'Voluntary ignorance', 'paint' should be 'pains', 'nut' should be 'but', 'sa:' should be 'so.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VOLUNTAS",
+      "old": "Volantas donatoris in charta doni sui",
+      "new": "Voluntas donatoris in charta doni sui",
+      "reason": "OCR error: 'Volantas' should be 'Voluntas'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VOLUNTAS",
+      "old": "Volantas facit quod in testamento\nsoriptum valeat.",
+      "new": "Voluntas facit quod in testamento\nscriptum valeat.",
+      "reason": "OCR errors: 'Volantas' should be 'Voluntas', 'soriptum' should be 'scriptum'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VOLUNTEER",
+      "old": "See Irvine v. Angus, 93 Ked. 633, 85 C. OG A. 501",
+      "new": "See Irvine v. Angus, 93 Fed. 633, 35 C. C. A. 501",
+      "reason": "OCR errors: 'Ked.' should be 'Fed.', 'OG' should be 'C.' and '85' should be '35'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VOLUNTEER",
+      "old": "Bennett v.\nChandler, 199 Ill. 97, G4 N. E. 1052",
+      "new": "Bennett v.\nChandler, 199 Ill. 97, 64 N. E. 1052",
+      "reason": "OCR error: 'G4' should be '64'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VOTE",
+      "old": "formally manir\nfested",
+      "new": "formally manifested",
+      "reason": "OCR error: 'manir fested' is a broken word for 'manifested'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VOTE",
+      "old": "See that titl.",
+      "new": "See that title.",
+      "reason": "OCR error: 'titl.' should be 'title'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VISNE",
+      "old": "148 S. E. 436",
+      "new": "14 S. E. 436",
+      "reason": "OCR error: likely '14' not '148' for this S.E. citation (36 W.Va. 84 is an 1892 case; 148 S.E. would be from a much later era)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VOUCHEE",
+      "old": "no. 2093.:",
+      "new": "no. 2093.",
+      "reason": "OCR artifact: spurious colon after period"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VOUCHEE",
+      "old": "—C§ommon wouchee.",
+      "new": "—Common vouchee.",
+      "reason": "OCR errors: 'C§ommon' should be 'Common' and 'wouchee' should be 'vouchee'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "VOUCHEE",
+      "old": "In cominon recoveries",
+      "new": "In common recoveries",
+      "reason": "OCR error: 'cominon' should be 'common'"
+    }
+  ],
+  "errors": [
+    {
+      "batch": 1,
+      "error": "JSON parse error: Looking through each entry carefully:\n\n1. **VECORIN** - likely OCR error in the headword (should be \"VECORIN\" - actually checking Spelman's glossary, this might be correct as-is, but \"VECORIN\" seems u"
+    }
+  ],
+  "by_type": {
+    "ocr_fix": 119,
+    "trim": 32,
+    "headword": 2,
+    "flag": 2
+  },
+  "elapsed_seconds": 77.1
+}

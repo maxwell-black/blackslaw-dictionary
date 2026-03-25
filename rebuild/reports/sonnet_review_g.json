@@ -1,0 +1,998 @@
+{
+  "letter": "G",
+  "entries_reviewed": 314,
+  "corrections": [
+    {
+      "type": "ocr_fix",
+      "term": "GEORGE-NOBLE",
+      "old": "Ap English gold coin,",
+      "new": "An English gold coin,",
+      "reason": "OCR error: 'Ap' should be 'An'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GEREFA",
+      "old": "The term was applied to various grades of\nAfficers,",
+      "new": "The term was applied to various grades of\nofficers,",
+      "reason": "OCR error: 'Afficers' should be 'officers'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GERMAN",
+      "old": "in reepect to relationship",
+      "new": "in respect to relationship",
+      "reason": "OCR error: 'reepect' should be 'respect'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GENUS",
+      "old": "fllud potissimum habetur quod ad spectem",
+      "new": "illud potissimum habetur quod ad speciem",
+      "reason": "OCR errors: 'fllud' should be 'illud', 'spectem' should be 'speciem'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GESTU",
+      "old": "AD anceut and obsolete writ",
+      "new": "An ancient and obsolete writ",
+      "reason": "OCR errors: 'AD' should be 'An', 'anceut' should be 'ancient'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GEWINEDA",
+      "old": "The anejent convention",
+      "new": "The ancient convention",
+      "reason": "OCR error: 'anejent' should be 'ancient'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GEWITNESSA",
+      "old": "In Saxon and old Engjish law.",
+      "new": "In Saxon and old English law.",
+      "reason": "OCR error: 'Engjish' should be 'English'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GEWRITE",
+      "old": "Deeds or\neharters;",
+      "new": "Deeds or\ncharters;",
+      "reason": "OCR error: 'eharters' should be 'charters'"
+    },
+    {
+      "type": "trim",
+      "term": "GIBBET",
+      "trim_at": "GIBBET LAW, Lynch law;",
+      "reason": "GIBBET LAW appears to be a separate sub-entry merged into the GIBBET entry body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GIST",
+      "old": "First Nat. Bank v. Burkett, 101 Il).",
+      "new": "First Nat. Bank v. Burkett, 101 Ill.",
+      "reason": "OCR error: 'Il)' should be 'Ill.' (Illinois abbreviation)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GIST",
+      "old": "the essenial ground",
+      "new": "the essential ground",
+      "reason": "OCR error: 'essenial' should be 'essential'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GERONTOCOMI",
+      "old": "Offcers appointed",
+      "new": "Officers appointed",
+      "reason": "OCR error: 'Offcers' should be 'Officers'"
+    },
+    {
+      "type": "trim",
+      "term": "GIVER",
+      "trim_at": "law, a phrase (translating",
+      "reason": "The body of GIVER contains text that appears to belong to a separate entry (likely 'GIVING IN PAYMENT') merged in after the definition"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GLADIUS",
+      "old": "An anctent\nemblem",
+      "new": "An ancient\nemblem",
+      "reason": "OCR error: 'anctent' should be 'ancient'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GILDO",
+      "old": "Oftener spelled \"congiido.\"",
+      "new": "Oftener spelled \"congilde.\"",
+      "reason": "OCR error: 'congiido' should be 'congilde' (Latin term for fellow gild member)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GISEMENT",
+      "old": "L. Fr. Agistment; cattle\ntaken in to graze",
+      "new": "L. Fr. Agistment; cattle\ntaken in to graze",
+      "reason": "No OCR error detected here"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GESTIO",
+      "old": "Gestio pro hsrede.",
+      "new": "Gestio pro herede.",
+      "reason": "OCR error: 'hsrede' should be 'herede'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GABELLA",
+      "old": "\"gabel,\" (g(q. v.)",
+      "new": "\"gabel,\" (q. v.)",
+      "reason": "OCR error introduced 'g(' before 'q. v.'"
+    },
+    {
+      "type": "trim",
+      "term": "GABULUS",
+      "trim_at": "GABULUS DENARIORUM.",
+      "reason": "The entry for GABULUS contains the separate headword 'GABULUS DENARIORUM' merged into its body"
+    },
+    {
+      "type": "trim",
+      "term": "GABULUS DENARIORUM",
+      "trim_at": ".GAFFOLDGILD. The payment",
+      "reason": "The entry for GABULUS DENARIORUM has the next headword 'GAFFOLDGILD' merged into its body with a leading period"
+    },
+    {
+      "type": "trim",
+      "term": "GAFOL",
+      "trim_at": "\"GAGE,'v. In old English",
+      "reason": "The GAGE verb entry is merged into the GAFOL entry body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GAGER DE DELIVERANCE",
+      "old": "gager deltverance",
+      "new": "gager deliverance",
+      "reason": "OCR error: 'deltverance' should be 'deliverance'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GAGER DE DELIVERANCE",
+      "old": "deliver then.",
+      "new": "deliver them.",
+      "reason": "OCR error: 'then' should be 'them'"
+    },
+    {
+      "type": "trim",
+      "term": "GAIN",
+      "trim_at": "-GAMBLE",
+      "reason": "The entry for GAIN has '-GAMBLE' merged into its body, which is the start of the next entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GAINAGE",
+      "old": "Bract. 1. 1. ¢c. 9.",
+      "new": "Bract. l. 1, c. 9.",
+      "reason": "OCR error: '1. 1. ¢c.' should be 'l. 1, c.' (book 1, chapter 9)"
+    },
+    {
+      "type": "trim",
+      "term": "GALLI-HALFPENCE",
+      "trim_at": "'GALLIVOLATIUM. A_ cock",
+      "reason": "The entry for GALLIVOLATIUM is merged into the GALLI-HALFPENCE body"
+    },
+    {
+      "type": "trim",
+      "term": "GALLON",
+      "trim_at": "'GALLOWS. A scaffold",
+      "reason": "The entry for GALLOWS is merged into the GALLON body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GAMBLE",
+      "old": "bling. See GAMING.",
+      "new": "—Gambling. See GAMING.",
+      "reason": "OCR error: the sub-entry heading '—Gambling.' was garbled to 'bling.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GAMING",
+      "old": "An ugreement",
+      "new": "An agreement",
+      "reason": "OCR error: 'ugreement' should be 'agreement'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GAMING",
+      "old": "the act or enzagevent",
+      "new": "the act or engagement",
+      "reason": "OCR error: 'enzagevent' should be 'engagement'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GAMING",
+      "old": "§ 14655.",
+      "new": "§ 1465.",
+      "reason": "OCR error: likely an extra '5' in the section number"
+    },
+    {
+      "type": "trim",
+      "term": "GAOL",
+      "trim_at": "GAOL DELIVERY. In criminal",
+      "reason": "The separate entry 'GAOL DELIVERY' and 'GARANDIA' are merged into the GAOL entry body"
+    },
+    {
+      "type": "trim",
+      "term": "GARCIONES STOLAE",
+      "trim_at": "GARNISHMENT",
+      "reason": "The entry body appears to contain garbled/merged text from other entries (GARNISHMENT, GAROIO, GARCIONES) rather than the actual definition of GARCIONES STOLAE"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GARCIONES STOLAE",
+      "old": "GARNISHMENT\n\nGAROIO\nGAROIO STOLZ. Groom of the stole.\n\nGARCIONES\nGARCIONES.\ncamp. Wals. 242.\n\nServants who follow a",
+      "new": "Groom of the stole.",
+      "reason": "OCR/merge error: the body of GARCIONES STOLAE is severely corrupted with merged entries; the correct definition should be 'Groom of the stole.'"
+    },
+    {
+      "type": "trim",
+      "term": "GARBA",
+      "trim_at": "In Scotch law.\nGARBALES DECIMZ.",
+      "reason": "The entry for GARBALES DECIMAE is merged into the GARBA body"
+    },
+    {
+      "type": "trim",
+      "term": "GARBALES",
+      "trim_at": "GARBALES DECIMZ.",
+      "reason": "The headword appears as the start of the body; the body should begin with 'Tithes of corn, (grain.) Bell.' without repeating the headword"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GARDEN",
+      "old": "A smal! piece",
+      "new": "A small piece",
+      "reason": "OCR error: 'smal!' should be 'small'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GARDEN",
+      "old": "115 U. 8S. 542",
+      "new": "115 U. S. 542",
+      "reason": "OCR error: 'U. 8S.' should be 'U. S.'"
+    },
+    {
+      "type": "trim",
+      "term": "GARCIONES",
+      "trim_at": "GARD, or GARDE. L. Fr.",
+      "reason": "The separate entry 'GARD' is merged into the GARCIONES body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GLOS",
+      "old": "<A husband's sister.",
+      "new": "A husband's sister.",
+      "reason": "Spurious '<' character before 'A', likely OCR artifact"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GLOSSA",
+      "old": "partly at the aide, and partly under the text",
+      "new": "partly at the side, and partly under the text",
+      "reason": "OCR error: 'aide' should be 'side'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GLOVE SILVER",
+      "old": "[Extraordinary rewards formerly given",
+      "new": "Extraordinary rewards formerly given",
+      "reason": "Spurious '[' character at start of definition, OCR artifact"
+    },
+    {
+      "type": "trim",
+      "term": "GLOVES",
+      "trim_at": "ALLYN. A hollow between two m",
+      "reason": "The entry for GLYN has been merged into the GLOVES entry after a paragraph break"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GO",
+      "old": "1 W. Bi). 50.",
+      "new": "1 W. Bl. 50.",
+      "reason": "OCR error: 'Bi)' should be 'Bl.' (Blackstone abbreviation)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GO",
+      "old": "—Geo to.",
+      "new": "—Go to.",
+      "reason": "OCR error: 'Geo' should be 'Go'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GO",
+      "old": "In re\nIiitchins' Eetate,",
+      "new": "In re Hitchins' Estate,",
+      "reason": "OCR errors: 'Iiitchins' should be 'Hitchins', 'Eetate' should be 'Estate'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GO",
+      "old": "—Geo to protest.",
+      "new": "—Go to protest.",
+      "reason": "OCR error: 'Geo' should be 'Go'"
+    },
+    {
+      "type": "trim",
+      "term": "GOAT",
+      "trim_at": "GOAT, GOTE\nIn old English law",
+      "reason": "The separate entry GOAT, GOTE appears to be merged into the GOAT entry"
+    },
+    {
+      "type": "trim",
+      "term": "GOAT, GOTE",
+      "trim_at": "GOD AND MY COUNTRY",
+      "reason": "The entry GOD AND MY COUNTRY headword text appears merged at end of GOAT, GOTE entry"
+    },
+    {
+      "type": "trim",
+      "term": "GOD",
+      "trim_at": "GOD AND MY COUNTRY. The answer",
+      "reason": "The full GOD AND MY COUNTRY entry is merged into the GOD entry; GOD appears to only be a headword fragment"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GOD-GILD",
+      "old": "That which 1s offered to",
+      "new": "That which is offered to",
+      "reason": "OCR error: '1s' should be 'is'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GOING",
+      "old": "White, etc., Mfg. Co. v. Pettes Hurting Co.",
+      "new": "White, etc., Mfg. Co. v. Pettes Importing Co.",
+      "reason": "OCR error: 'Hurting' is likely 'Importing' in a manufacturing case citation"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GOING",
+      "old": "1 N. H. —Going through the bar.",
+      "new": "1 N. H. [page]. —Going through the bar.",
+      "reason": "Page number appears missing after citation, though this may be truncation"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GOOLE",
+      "old": "<A breach\nin a bank or sea wall, or a passxge worn by",
+      "new": "A breach in a bank or sea wall, or a passage worn by",
+      "reason": "Spurious '<' at start; 'passxge' should be 'passage'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GRACE",
+      "old": "in contradistinction to \"right.'?'",
+      "new": "in contradistinction to \"right.\"",
+      "reason": "OCR error: extra spurious characters after closing quote"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GRACE",
+      "old": "'GRACE, DAYS OF. Time of indulgence\ngranted to an acceptor or maker for the payment of his bill of exchange or note. It was\noriginally a gratuitous favor, (hence the\nname,) but custom has rendered it a legal\nright.?",
+      "new": "GRACE, DAYS OF. Time of indulgence granted to an acceptor or maker for the payment of his bill of exchange or note. It was originally a gratuitous favor, (hence the name,) but custom has rendered it a legal right.",
+      "reason": "Spurious leading apostrophe and trailing '?' are OCR artifacts; this sub-entry should not have those characters"
+    },
+    {
+      "type": "trim",
+      "term": "GRADUS",
+      "trim_at": "GRADUS PARENTELZ. A pedigree",
+      "reason": "The entry GRADUS PARENTELAE is merged into GRADUS after a paragraph break"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GRADUS",
+      "old": "GRADUS PARENTELZ.",
+      "new": "GRADUS PARENTELAE.",
+      "reason": "OCR error: 'PARENTELZ' should be 'PARENTELAE'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GRADUS",
+      "old": "A degree of relationship.:",
+      "new": "A degree of relationship.",
+      "reason": "Spurious colon after period, OCR artifact"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GRADUS",
+      "old": "6. g., gradus",
+      "new": "e. g., gradus",
+      "reason": "OCR error: '6. g.' should be 'e. g.' (exempli gratia)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GRAFFARIUS",
+      "old": "St. 5 Hen. VIIL\ne. 1.",
+      "new": "St. 5 Hen. VIII. c. 1.",
+      "reason": "OCR error: 'VIIL' should be 'VIII.' and 'e.' should be 'c.' (chapter)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GRAFFER",
+      "old": "St. 5 Hen. VIIL c 1.",
+      "new": "St. 5 Hen. VIII. c. 1.",
+      "reason": "OCR error: 'VIIL' should be 'VIII.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GOLDSMITHS' NOTES",
+      "old": "cash\nnotes (#4. e, promissory notes",
+      "new": "cash notes (i. e., promissory notes",
+      "reason": "OCR error: '#4. e,' should be 'i. e.,' (id est)"
+    },
+    {
+      "type": "trim",
+      "term": "GYLTWITE",
+      "trim_at": "GYNARCHY, or GYNZ:COOCRAOCY",
+      "reason": "The GYNARCHY entry is merged into the GYLTWITE body after a paragraph break"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GYNARCHY",
+      "old": "or GYNZ:COOCRAOCY",
+      "new": "or GYNOCRACY",
+      "reason": "OCR garbled GYNOCRACY as GYNZ:COOCRAOCY in the GYLTWITE body; the standalone GYNARCHY entry has the correct spelling"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GYVES",
+      "old": "Fetters or shackles for the legs:\nH 554",
+      "new": "Fetters or shackles for the legs.",
+      "reason": "Page header/number 'H 554' was scanned into the body text"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GARNESTURA",
+      "old": "In old English Jaw.",
+      "new": "In old English law.",
+      "reason": "OCR error: 'Jaw' should be 'law'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GARNISHEE",
+      "old": "not to deliver or pay. it over until the result of the suit be ascertnined.",
+      "new": "not to deliver or pay it over until the result of the suit be ascertained.",
+      "reason": "OCR error: 'ascertnined' should be 'ascertained'; also spurious period after 'pay'"
+    },
+    {
+      "type": "trim",
+      "term": "GARNISHMENT",
+      "trim_at": "GARNISHMENT 536",
+      "reason": "The text 'GARNISHMENT 536' appears to be a page header/footer embedded in the body, followed by continuation text that is part of the same entry — not a separate entry. However the definition continues naturally so this may just be a page break artifact. The entry continues correctly after this point."
+    },
+    {
+      "type": "flag",
+      "term": "GATES",
+      "issue": "Entry body appears to be fragments from other entries (High court of errors and appeals, High court of justice) with no definition related to 'GATES'. This appears to be a misplaced or corrupted entry."
+    },
+    {
+      "type": "flag",
+      "term": "GC",
+      "issue": "Entry term 'GC' and body appear to be fragments from unrelated entries (dower, incineration, hydraulic power, miner's inch) — likely OCR/pagination corruption creating a spurious entry."
+    },
+    {
+      "type": "flag",
+      "term": "GEANT,)",
+      "issue": "Entry term 'GEANT,)' appears malformed with a closing parenthesis. The body text discusses serjeants at law, which is unrelated to 'geant'. This appears to be a corrupted/misplaced entry."
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GAVEL",
+      "old": "oat-garcl, garelfodder",
+      "new": "oat-gavel, gavel-fodder",
+      "reason": "OCR errors: 'garcl' should be 'gavel' and 'garelfodder' should be 'gavel-fodder' based on context (list of gavel-related terms)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GAVEL",
+      "old": "Gavelcester. <A certain measure of rentale.",
+      "new": "Gavelcester. A certain measure of rental.",
+      "reason": "OCR error: '<A' should be 'A' and 'rentale' should be 'rental'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GAVEL",
+      "old": "Gavelmed. A customary service of mowin",
+      "new": "Gavelmed. A customary service of mowing",
+      "reason": "OCR error: 'mowin' is a broken/incomplete word, should be 'mowing'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GAVEL",
+      "old": "Gavelrep. ver ig or bidreap",
+      "new": "Gavelrep. averig or bidreap",
+      "reason": "OCR error: 'ver ig' should be 'averig' (a form of average/averagium, customary service)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GAVELLER",
+      "old": "He grants gules to free miners",
+      "new": "He grants gales to free miners",
+      "reason": "OCR error: 'gules' (a heraldic term) should be 'gales' (mining rights/licenses) in context of Forest of Dean mining"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GAVELLER",
+      "old": "who appears tu exercise",
+      "new": "who appears to exercise",
+      "reason": "OCR error: 'tu' should be 'to'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GARROTING",
+      "old": "by means of an fron collar",
+      "new": "by means of an iron collar",
+      "reason": "OCR error: 'fron' should be 'iron'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GARROTING",
+      "old": "to overconie resistance",
+      "new": "to overcome resistance",
+      "reason": "OCR error: 'overconie' should be 'overcome'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GARTER",
+      "old": "twenty-six kpights",
+      "new": "twenty-six knights",
+      "reason": "OCR error: 'kpights' should be 'knights'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GARTER",
+      "old": "\"Honit sott qui mal y pense.\"",
+      "new": "\"Honi soit qui mal y pense.\"",
+      "reason": "OCR error: 'Honit sott' should be 'Honi soit' (the Order of the Garter motto)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GASTALDUS",
+      "old": "A bafliff or steward.",
+      "new": "A bailiff or steward.",
+      "reason": "OCR error: 'bafliff' should be 'bailiff'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GASTEL",
+      "old": "wheat. bread.",
+      "new": "wheat bread.",
+      "reason": "OCR error: spurious period mid-phrase"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GAUDIES",
+      "old": "to denote double comunons.",
+      "new": "to denote double commons.",
+      "reason": "OCR error: 'comunons' should be 'commons'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GELDING",
+      "old": "A horse that has been casr\ntrated",
+      "new": "A horse that has been castrated",
+      "reason": "OCR error: 'casr-trated' is a broken word, should be 'castrated'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GEMOT",
+      "old": "such. as the",
+      "new": "such as the",
+      "reason": "OCR error: spurious period after 'such'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GEMOT",
+      "old": "the sitcein-gemote, or forest court",
+      "new": "the sitcein-gemote, or forest court",
+      "reason": "Flagging: 'sitcein-gemote' may be OCR error for 'saswein-gemote' or similar Saxon forest court term — uncertain"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GENERAL",
+      "old": "characterized the spccics or individual",
+      "new": "characterizes the species or individual",
+      "reason": "OCR error: 'spccics' should be 'species'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GENERAL",
+      "old": "are Heutenant general",
+      "new": "are lieutenant general",
+      "reason": "OCR error: 'Heutenant' should be 'lieutenant'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GENERAL",
+      "old": "—General council. (1) A council ccnsisting of",
+      "new": "—General council. (1) A council consisting of",
+      "reason": "OCR error: 'ccnsisting' should be 'consisting'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GENERAL",
+      "old": "so cal because the",
+      "new": "so called because the",
+      "reason": "OCR error: 'cal' should be 'called'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GENERALE",
+      "old": "distinguished from ptetantie",
+      "new": "distinguished from pitantie",
+      "reason": "OCR error: 'ptetantie' should be 'pitantie' (pittances, extra food allowances)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GENS",
+      "old": "bearing the same name, being all free-born and of free ancestors, and ip possession",
+      "new": "bearing the same name, being all free-born and of free ancestors, and in possession",
+      "reason": "OCR error: 'ip' should be 'in'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GAVELKIND",
+      "old": "descend to all the suns, or heirs",
+      "new": "descend to all the sons, or heirs",
+      "reason": "OCR error: 'suns' should be 'sons'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GAVELKIND",
+      "old": "may be disposed of by 'will",
+      "new": "may be disposed of by will",
+      "reason": "OCR error: spurious apostrophe before 'will'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GEBOCIAN",
+      "old": "boc land, (book-land or Jand held",
+      "new": "boc land, (book-land or land held",
+      "reason": "OCR error: 'Jand' should be 'land'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GELD",
+      "old": "Angeld was the single value of a thing; twwigeld,",
+      "new": "Angeld was the single value of a thing; twigeld,",
+      "reason": "OCR error: 'twwigeld' should be 'twigeld'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GARNISTURA",
+      "old": "8 Rymer, 328",
+      "new": "8 Rymer, 328",
+      "reason": "No change needed — '8' here is a volume number, not an OCR error for 'S'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GRAMMATOPHYLACIUM",
+      "old": "(Greeco-\nLat.)",
+      "new": "(Græco-\nLat.)",
+      "reason": "Should be Græco-Lat. (Greek-Latin), OCR error on the prefix"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GRAMMATOPHYLACIUM",
+      "old": "<A place",
+      "new": "A place",
+      "reason": "Spurious < character before 'A place'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GRANATARIUS",
+      "old": "lib. 2, c. 82,31; Id c¢ &.",
+      "new": "lib. 2, c. 82, 31; Id. c. 84.",
+      "reason": "OCR garbled the citation; 'c¢ &' appears to be 'c. 84' or similar citation"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GRANT",
+      "old": "' passed by livery.",
+      "new": "be passed by livery.",
+      "reason": "OCR dropped 'be' and added spurious apostrophe"
+    },
+    {
+      "type": "trim",
+      "term": "GRASS",
+      "trim_at": "GRASS HEARTH. In old records",
+      "reason": "GRASS HEARTH, GRASS WEEK, and GRASS WIDOW are separate entries merged into GRASS body"
+    },
+    {
+      "type": "trim",
+      "term": "GRASS WIDOW",
+      "trim_at": "GRASSON, or GRASSUM. 4A",
+      "reason": "GRASSON entry is merged into GRASS WIDOW body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GRASS WIDOW",
+      "old": "GRASSON, or GRASSUM. 4A fine paid",
+      "new": "GRASSON, or GRASSUM. A fine paid",
+      "reason": "Spurious '4' before 'A fine paid'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GRASSON",
+      "old": "or GRASSUM. 4A fine paid",
+      "new": "or GRASSUM. A fine paid",
+      "reason": "Spurious '4' before 'A fine paid'"
+    },
+    {
+      "type": "trim",
+      "term": "GRATIS",
+      "trim_at": "GRATIS DIOCTUM. A voluntary",
+      "reason": "GRATIS DICTUM is a separate entry merged into GRATIS body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GRATIS",
+      "old": "GRATIS DIOCTUM.",
+      "new": "GRATIS DICTUM.",
+      "reason": "OCR error: 'DIOCTUM' should be 'DICTUM'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GRATUITOUS",
+      "old": "Without valuable or le\ngal consideration.",
+      "new": "Without valuable or legal consideration.",
+      "reason": "OCR broke 'legal' across lines as 'le\\ngal'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GRAVATIO",
+      "old": "An ac\ncusation",
+      "new": "An accusation",
+      "reason": "OCR broke 'accusation' across lines"
+    },
+    {
+      "type": "trim",
+      "term": "GRAND",
+      "trim_at": "GRAND COUTUMIER. A collection",
+      "reason": "GRAND COUTUMIER, GRAND DAYS are separate entries merged into GRAND body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GRAND",
+      "old": "belng on such occasions",
+      "new": "being on such occasions",
+      "reason": "OCR error: 'belng' should be 'being'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GREAT",
+      "old": "8. W. 520.",
+      "new": "S. W. 520.",
+      "reason": "OCR error: '8. W.' should be 'S. W.' (Southwestern Reporter)"
+    },
+    {
+      "type": "trim",
+      "term": "GREAT",
+      "trim_at": "GREAT LAW, THE, or",
+      "reason": "GREAT LAW, THE is a separate entry merged into GREAT body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GREAT",
+      "old": "Past at an\nAssembly held at Chester",
+      "new": "Passed at an Assembly held at Chester",
+      "reason": "OCR error: 'Past' should be 'Passed'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GREAT",
+      "old": "the\nith day of the tenth month",
+      "new": "the 4th day of the tenth month",
+      "reason": "OCR error: 'ith' should be '4th'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GREEK",
+      "old": "A colloquial expression to signify a time indefinitely remote,\n'\nthere being no such division of time known\nto the Greeks,",
+      "new": "A colloquial expression to signify a time indefinitely remote, there being no such division of time known to the Greeks.",
+      "reason": "Spurious apostrophe/quotation mark in mid-text, likely OCR artifact"
+    },
+    {
+      "type": "trim",
+      "term": "GREENHEW",
+      "trim_at": "GREFFIERS..In French law.",
+      "reason": "GREFFIERS is a separate entry merged into GREENHEW body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GREENHEW",
+      "old": "GREFFIERS..In French law.",
+      "new": "GREFFIERS. In French law.",
+      "reason": "Double period OCR artifact"
+    },
+    {
+      "type": "trim",
+      "term": "GREGORIAN",
+      "trim_at": "GREGORIAN CODE. The code",
+      "reason": "GREGORIAN CODE and GREGORIAN EPOCH are separate entries merged into GREGORIAN body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GREGORIAN EPOCH",
+      "old": "4 ¢., from the year 1582.",
+      "new": "i.e., from the year 1582.",
+      "reason": "OCR error: '4 ¢.' should be 'i.e.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GRENVILLE",
+      "old": "10 Gev.\nIII. c. 16",
+      "new": "10 Geo. III. c. 16",
+      "reason": "OCR error: 'Gev.' should be 'Geo.' (George)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GRENVILLE",
+      "old": "9 Geo. IV. c. 22.\n$1.",
+      "new": "9 Geo. IV. c. 22, § 1.",
+      "reason": "OCR error: '$1.' should be '§ 1.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GREMIUM",
+      "old": "in gremio Icgis",
+      "new": "in gremio legis",
+      "reason": "OCR error: 'Icgis' should be 'legis'"
+    },
+    {
+      "type": "flag",
+      "term": "GRETNA",
+      "issue": "Headword appears incomplete; should likely be 'GRETNA GREEN' or 'GRETNA GREEN MARRIAGE'. The body begins mid-sentence ('marriage celebrated at Gretna...') suggesting the headword or opening text was cut off."
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GRIEVED",
+      "old": "Agagrieved",
+      "new": "Aggrieved",
+      "reason": "OCR error: 'Agagrieved' should be 'Aggrieved'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GROCER",
+      "old": "<A merchant",
+      "new": "A merchant",
+      "reason": "OCR artifact: stray '<' character at start of definition"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GROG-SHOP",
+      "old": "A _ liquor. saloon, _barroom, or dram-shop; a place where intox!-\ncating liquor is sold to be drunk on the\npremises. See. Leesburg v. Putnam, 103 Ga.\n110, 29 S. E. 602.",
+      "new": "A liquor saloon, barroom, or dram-shop; a place where intoxicating liquor is sold to be drunk on the premises. See Leesburg v. Putnam, 103 Ga. 110, 29 S. E. 602.",
+      "reason": "OCR errors: spurious underscores around 'liquor' and 'barroom', period after 'liquor' should not be there, 'intox!-cating' is broken word for 'intoxicating', extra period after 'See'"
+    },
+    {
+      "type": "trim",
+      "term": "GROOM",
+      "trim_at": "GROOM OF THE STOLE. In England",
+      "reason": "The GROOM entry body contains the full sub-entries GROOM OF THE STOLE and GROOM PORTER which are also separate dictionary entries; the parent GROOM entry should not duplicate them"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GROOM OF THE STOLE",
+      "old": "In Entgland.",
+      "new": "In England.",
+      "reason": "OCR error: 'Entgland' should be 'England'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GROSS",
+      "old": "its own right, and not as an appendage to\nanother thing. °",
+      "new": "its own right, and not as an appendage to another thing.",
+      "reason": "Stray '°' character at end of sentence is OCR artifact"
+    },
+    {
+      "type": "trim",
+      "term": "GROSSE",
+      "trim_at": "GROSSE AVANTURE. Fr. In French",
+      "reason": "GROSSE entry contains sub-entries GROSSE AVANTURE and GROSSE BOIS which are also separate dictionary entries"
+    },
+    {
+      "type": "flag",
+      "term": "GSS",
+      "issue": "Entry headword 'GSS' appears to be a corrupted/OCR-damaged entry containing text about 'Perfect trust' and other legal terms; it does not appear to be a valid dictionary headword"
+    },
+    {
+      "type": "trim",
+      "term": "GUARDIANSHIP",
+      "trim_at": "'GUARDIANUS.\nA guardian, warden,",
+      "reason": "GUARDIANSHIP body contains a merged-in entry 'GUARDIANUS' after the main definition"
+    },
+    {
+      "type": "trim",
+      "term": "GUARNIMENTUM",
+      "trim_at": "QUASTALD. One who had the custody",
+      "reason": "GUARNIMENTUM body contains a merged-in entry 'QUASTALD' (likely OCR for GUASTALD) after the main definition"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GUARNIMENTUM",
+      "old": "QUASTALD.",
+      "new": "GUASTALD.",
+      "reason": "OCR error: 'QUASTALD' should be 'GUASTALD' based on the separate entry for that term"
+    },
+    {
+      "type": "trim",
+      "term": "GUERRA",
+      "trim_at": "GUERILLA\nGUERILLA PARTY. In military law.",
+      "reason": "GUERRA body contains merged-in entry for GUERILLA/GUERILLA PARTY after the main one-word definition"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GUERPI",
+      "old": "GUERPY. L. Fr.\ned; left; deserted: Britt. ¢c 33.\n\nAbandon-",
+      "new": "GUERPY. L. Fr. Abandoned; left; deserted. Britt. c. 33.",
+      "reason": "OCR line-break error split 'Abandoned' across lines; also 'Britt. ¢c 33' should be 'Britt. c. 33'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GUIDON",
+      "old": "a8 a work of high authority.",
+      "new": "as a work of high authority.",
+      "reason": "OCR error: 'a8' should be 'as'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GUILDHALL",
+      "old": "mercantile or commercial gilds ef the Saxons",
+      "new": "mercantile or commercial gilds of the Saxons",
+      "reason": "OCR error: 'ef' should be 'of'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GUILDHALL",
+      "old": "—Guildhall\nthe Guildhall of the city of London for city of\nLondon causes.",
+      "new": "—Guildhall sittings. The sittings held in the Guildhall of the city of London for city of London causes.",
+      "reason": "OCR line-break error: 'sittings. The sitti held in' is garbled; should read 'sittings. The sittings held in'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GUILDHALL",
+      "old": "The sitti held in",
+      "new": "The sittings held in",
+      "reason": "OCR error: 'sitti' is truncated word for 'sittings'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GUILTY",
+      "old": "in plending to an indictment",
+      "new": "in pleading to an indictment",
+      "reason": "OCR error: 'plending' should be 'pleading'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GUARANTEE",
+      "old": "\"ruaranty.\";",
+      "new": "\"guaranty.\"",
+      "reason": "OCR error: 'ruaranty' should be 'guaranty'; also stray semicolon and quote"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "GROWING CROP",
+      "old": "Wilkinson v. Ketler, 69 Ala. 435.",
+      "new": "Wilkinson v. Keller, 69 Ala. 435.",
+      "reason": "OCR error: 'Ketler' should be 'Keller' (matches spelling in the GROWING entry)"
+    },
+    {
+      "type": "flag",
+      "term": "GROWTH",
+      "issue": "Entry body defines 'A rate paid in some places for the tithe of every fat beast...' but this definition appears to be for a different term (possibly GROATS or a tithe-related term), not for GROWTH as ordinarily understood"
+    }
+  ],
+  "errors": [],
+  "by_type": {
+    "ocr_fix": 109,
+    "trim": 32,
+    "flag": 6
+  },
+  "elapsed_seconds": 50.5
+}

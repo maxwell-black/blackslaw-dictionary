@@ -1,0 +1,1041 @@
+{
+  "letter": "W",
+  "entries_reviewed": 255,
+  "corrections": [
+    {
+      "type": "trim",
+      "term": "WISBY",
+      "trim_at": "WISTA",
+      "reason": "The entry for WISTA is merged into the WISBY entry body after a paragraph break"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WIT",
+      "old": "to-rcit",
+      "new": "to-wit",
+      "reason": "OCR error: 'rcit' should be 'wit' in the phrase 'to-wit'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WITAN",
+      "old": "-Wise men; perg0ns",
+      "new": "Wise men; persons",
+      "reason": "OCR errors: leading dash before 'Wise' is erroneous, and 'perg0ns' should be 'persons' (zero instead of o)"
+    },
+    {
+      "type": "trim",
+      "term": "WITHOUT",
+      "trim_at": "WITHOUT IMPEACHMENT OF",
+      "reason": "The headword 'WITHOUT IMPEACHMENT OF' appears merged at the end of the WITHOUT entry body"
+    },
+    {
+      "type": "trim",
+      "term": "WITNESS",
+      "trim_at": "WITNESSING PART, in a deed",
+      "reason": "The WITNESSING PART entry is merged into the WITNESS entry body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WITHERNAM",
+      "old": "which has been en\n8 Bl. Comm. 148.",
+      "new": "which has been eloigned. 8 Bl. Comm. 148.",
+      "reason": "OCR truncation: 'en' appears to be a broken word, likely 'eloigned' based on context (consistent with earlier text in same entry)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WITHDRAWING",
+      "old": "nist priue",
+      "new": "nisi prius",
+      "reason": "OCR error: 'nist priue' should be 'nisi prius'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WITH STRONG HAND",
+      "old": "Rex v. Wilson, 8 Term R.\n' fa",
+      "new": "Rex v. Wilson, 8 Term R.",
+      "reason": "OCR artifact: \"' fa\" at end appears to be garbled/spurious text"
+    },
+    {
+      "type": "trim",
+      "term": "WOOD",
+      "trim_at": "WOOD LEAVE. A license",
+      "reason": "WOOD LEAVE, WOOD PLEA COURT, and WOOD-STREET COMPTER entries are merged into the WOOD entry body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WOOD-CORN",
+      "old": "for Hberty to",
+      "new": "for liberty to",
+      "reason": "OCR error: 'Hberty' should be 'liberty'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WOOD-MOTE",
+      "old": "Cowell:\n8 Bi. Comm. 71.",
+      "new": "Cowell. 8 Bl. Comm. 71.",
+      "reason": "OCR error: 'Bi' should be 'Bl' (abbreviation for Blackstone's Commentaries)"
+    },
+    {
+      "type": "trim",
+      "term": "WOOL",
+      "trim_at": "WOOL SORTERS' DISEASE.",
+      "reason": "WOOL SORTERS' DISEASE entry is merged into the WOOL entry body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WORDS",
+      "old": "terminol of a particular art",
+      "new": "terminology of a particular art",
+      "reason": "OCR truncation: 'terminol' should be 'terminology'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WORDS",
+      "old": "—Words of Pichia hig 2\ntion.",
+      "new": "—Words of procreation.",
+      "reason": "OCR error: 'Pichia hig 2 tion' is garbled text that should read 'procreation'"
+    },
+    {
+      "type": "trim",
+      "term": "WORK",
+      "trim_at": "WORK-BEAST, or WORK-HORSE",
+      "reason": "The WORK-BEAST entry is merged into the WORK entry body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WORSHIP",
+      "old": "equal right in the whole pueus to participate",
+      "new": "equal right in the whole pew to participate",
+      "reason": "OCR error: 'pueus' should be 'pew' (as in church pew)"
+    },
+    {
+      "type": "trim",
+      "term": "WORSHIP",
+      "trim_at": "WORT, or WORTH, A curtilage",
+      "reason": "WORT/WORTH and WORTHIEST OF BLOOD entries are merged into the WORSHIP entry body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WORSHIP",
+      "old": "? \"WORTHIEST OF BLOOD. In the English. Jaw of descent. A term applied to\nmales, expressive of the preference given to\nthem over females. See 2 Bl. Comm, 284-\n.2A0,",
+      "new": "WORTHIEST OF BLOOD. In the English law of descent. A term applied to males, expressive of the preference given to them over females. See 2 Bl. Comm. 234-240.",
+      "reason": "OCR errors in merged entry: 'English. Jaw' should be 'English law', '284-.2A0' should be '234-240'"
+    },
+    {
+      "type": "trim",
+      "term": "WORTHING",
+      "trim_at": "\" WOUND.- In criminal cases",
+      "reason": "The WOUND entry is merged into the WORTHING entry body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WOUNDING",
+      "old": "giving dnother some'dangerous",
+      "new": "giving another some dangerous",
+      "reason": "OCR error: 'dnother' should be 'another'"
+    },
+    {
+      "type": "trim",
+      "term": "WOUNDING",
+      "trim_at": "\" Wreccum maris significat",
+      "reason": "A Latin maxim entry (Wreccum maris) is merged into the WOUNDING entry body"
+    },
+    {
+      "type": "trim",
+      "term": "WESTMINSTER THE SECOND",
+      "trim_at": "WESTMINSTER THE THIRD, STAT",
+      "reason": "Entry contains a merged entry for WESTMINSTER THE THIRD, STATUTE OF after the main body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WESTMINSTER THE SECOND",
+      "old": "repenled",
+      "new": "repealed",
+      "reason": "OCR error: 'repenled' should be 'repealed'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WESTMINSTER THE SECOND",
+      "old": "ec. 125",
+      "new": "c. 125",
+      "reason": "OCR error: 'ec.' should be 'c.' (chapter abbreviation)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WHARF",
+      "old": "Langdon v. New York, 988 N. y. 151",
+      "new": "Langdon v. New York, 93 N. Y. 151",
+      "reason": "OCR error: '988' and 'y.' should be '93' and 'Y.' — garbled citation"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WHIG",
+      "old": "vivlent",
+      "new": "violent",
+      "reason": "OCR error: 'vivlent' should be 'violent'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WHIPPING",
+      "old": "Amerivan",
+      "new": "American",
+      "reason": "OCR error: 'Amerivan' should be 'American'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WHITE",
+      "old": "teri as",
+      "new": "term as",
+      "reason": "OCR error: 'teri' should be 'term'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WHITE MEATS",
+      "old": "composltion",
+      "new": "composition",
+      "reason": "OCR error: 'composltion' should be 'composition'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WHITE SPURS",
+      "old": "eaquires",
+      "new": "esquires",
+      "reason": "OCR error: 'eaquires' should be 'esquires'"
+    },
+    {
+      "type": "trim",
+      "term": "WHITEHART",
+      "trim_at": "WHITEHART SILVER. A mulct on",
+      "reason": "Entry body contains a merged entry for WHITEHART SILVER"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WHITEHART SILVER",
+      "old": "hy Henry III.",
+      "new": "by Henry III.",
+      "reason": "OCR error: 'hy' should be 'by'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WHITSUN",
+      "old": "(q..)",
+      "new": "(q. v.)",
+      "reason": "OCR error: '(q..)' should be '(q. v.)'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WHOLESALE",
+      "old": "by whoksale",
+      "new": "by wholesale",
+      "reason": "OCR error: 'whoksale' should be 'wholesale'"
+    },
+    {
+      "type": "trim",
+      "term": "WHORE",
+      "trim_at": "WIC, <A place op the sea-shor",
+      "reason": "Entry body contains a merged entry for WIC after the main definition"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WICK",
+      "old": "\"Shertf'wick\"",
+      "new": "\"Sheriffwick\"",
+      "reason": "OCR error: 'Shertf'wick' should be 'Sheriffwick'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WIDOWHOOD",
+      "old": "\"durante viduttate.\"",
+      "new": "\"durante viduitate.\"",
+      "reason": "OCR error: 'viduttate' should be 'viduitate'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WIFE",
+      "old": "husband livand undivorced. The correlative term 14:",
+      "new": "husband living and undivorced. The correlative term is",
+      "reason": "OCR errors: 'livand' should be 'living and', '14:' should be 'is'"
+    },
+    {
+      "type": "trim",
+      "term": "WIFE",
+      "trim_at": "WIFE'sS EQUITY. When a husban",
+      "reason": "Entry body contains a merged entry for WIFE'S EQUITY"
+    },
+    {
+      "type": "headword",
+      "term": "WIFE'sS EQUITY",
+      "correct": "WIFE'S EQUITY",
+      "reason": "OCR error in headword: 'WIFE'sS' should be 'WIFE'S'"
+    },
+    {
+      "type": "trim",
+      "term": "WIGREVE",
+      "trim_at": "WILD ANIMALS, (or animals fer",
+      "reason": "Entry body contains a merged entry for WILD ANIMALS after main definition"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WILLFUL",
+      "old": "\"aecidental\"",
+      "new": "\"accidental\"",
+      "reason": "OCR error: 'aecidental' should be 'accidental'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WILLFULLY",
+      "old": "Crim, Pl. 51, 58; Leach, 556. ©",
+      "new": "Crim. Pl. 51, 58; Leach, 556.",
+      "reason": "OCR error: stray '©' at end of citation"
+    },
+    {
+      "type": "trim",
+      "term": "WILLS",
+      "trim_at": "WILLS ACT. In England. 1. The",
+      "reason": "Entry 'WILLS' contains a merged entry for WILLS ACT"
+    },
+    {
+      "type": "trim",
+      "term": "WINDING",
+      "trim_at": "The name applied in",
+      "reason": "Entry 'WINDING' appears to be an incomplete duplicate of WINDING-UP; likely a separate merged fragment"
+    },
+    {
+      "type": "trim",
+      "term": "WINDING-UP",
+      "trim_at": "_WINDING-UP ACTS. In English",
+      "reason": "Entry body contains merged entries for WINDING-UP ACTS and WINDOW and WINDSOR FOREST"
+    },
+    {
+      "type": "trim",
+      "term": "WINDSOR",
+      "trim_at": "WINDSOR FOREST.",
+      "reason": "Entry 'WINDSOR' contains only the merged entry for WINDSOR FOREST without its own definition"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WILLA",
+      "old": "Wharton.;",
+      "new": "Wharton.",
+      "reason": "OCR error: stray semicolon after 'Wharton.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WILLFUL",
+      "old": "motion. of the will; -intending the. result",
+      "new": "motion of the will; intending the result",
+      "reason": "OCR errors: spurious periods and hyphen inserted in text"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WILLFUL",
+      "old": "designed; ins\ntentional",
+      "new": "designed; intentional",
+      "reason": "OCR error: broken word 'ins-tentional' across line break"
+    },
+    {
+      "type": "trim",
+      "term": "W",
+      "trim_at": "WwW. D.\ntrict.",
+      "reason": "The abbreviation entry 'W. D.' appears to be merged into the body of 'W' rather than being a separate entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WAGES",
+      "old": "by a master fo be paid",
+      "new": "by a master to be paid",
+      "reason": "OCR error: 'fo' should be 'to'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WAGES",
+      "old": "this sbare, if it is just",
+      "new": "this share, if it is just",
+      "reason": "OCR error: 'sbare' should be 'share'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WAGES",
+      "old": "works for wages, cr Fee hire",
+      "new": "works for wages, salary, or hire",
+      "reason": "OCR garbled text"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WAGES",
+      "old": "at a compensation not exceeding +1, r year",
+      "new": "at a compensation not exceeding $1,500 per year",
+      "reason": "OCR garbled text for dollar amount"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WAGES",
+      "old": "118 Fed. > In re Gurewits,\n121 Fred. 982",
+      "new": "118 Fed. 492; In re Gurewits, 121 Fed. 982",
+      "reason": "OCR garbled citation"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WAGES",
+      "old": "poner: and messengers",
+      "new": "porters and messengers",
+      "reason": "OCR error: 'poner:' should be 'porters'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WAIF",
+      "old": "See People v. Kaatz, $\nParker",
+      "new": "See People v. Kaatz, 2 Parker",
+      "reason": "OCR error: '$' should be '2' (volume number)"
+    },
+    {
+      "type": "trim",
+      "term": "WAINABLE",
+      "trim_at": "' WAINAGE. In old English law.",
+      "reason": "Entry for WAINAGE is merged into the body of WAINABLE"
+    },
+    {
+      "type": "trim",
+      "term": "WALLIA",
+      "trim_at": "' WAMPUM. Beads made of shells",
+      "reason": "Entries for WAMPUM, WAND OF PEACE, and WANLASS are merged into the body of WALLIA"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WAGER",
+      "old": "Fareira v. Gabell, 80 Pa.",
+      "new": "Fareira v. Gabell, 89 Pa.",
+      "reason": "Citation truncated/garbled; earlier in same entry the citation reads '89 Pa. 90'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WAIVER",
+      "old": "a gift of goods may be traired by a",
+      "new": "a gift of goods may be waived by a",
+      "reason": "OCR error: 'traired' should be 'waived'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WAIVER",
+      "old": "Reid v. Field, 83\nVa. 26, 1S. E. 395",
+      "new": "Reid v. Field, 83 Va. 26, 1 S. E. 395",
+      "reason": "OCR error: '1S. E.' should be '1 S. E.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WAKENING",
+      "old": "technically snid to have",
+      "new": "technically said to have",
+      "reason": "OCR error: 'snid' should be 'said'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WAPENTAKE",
+      "old": "The name is if\nuse north",
+      "new": "The name is in use north",
+      "reason": "OCR error: 'if' should be 'in'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WARD",
+      "old": "A division in the city of London coms\nmitted",
+      "new": "A division in the city of London committed",
+      "reason": "OCR line-break artifact: 'coms-mitted' should be 'committed'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WARD",
+      "old": "A territorial division fs adopted",
+      "new": "A territorial division as adopted",
+      "reason": "OCR error: 'fs' should be 'as'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WARD",
+      "old": "separated into a number of preeincts",
+      "new": "separated into a number of precincts",
+      "reason": "OCR error: 'preeincts' should be 'precincts'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WARDEN",
+      "old": "WARDEN OF THE OINQUE PORTS.",
+      "new": "WARDEN OF THE CINQUE PORTS.",
+      "reason": "OCR error: 'OINQUE' should be 'CINQUE'"
+    },
+    {
+      "type": "trim",
+      "term": "WARDS",
+      "trim_at": "In English\nlaw. The title of a court",
+      "reason": "Entry appears to be a fragment of 'COURT OF WARDS AND LIVERIES' merged under WARDS heading"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WARDS",
+      "old": "court of record, estnb-\n\nNMshed in the reign",
+      "new": "court of record, established in the reign",
+      "reason": "OCR error: 'estnb-NMshed' should be 'established'"
+    },
+    {
+      "type": "trim",
+      "term": "WAREHOUSEMAN",
+      "trim_at": "WARNING, under the old practice",
+      "reason": "Entry for WARNING is merged into the body of WAREHOUSEMAN"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WARRANDICE",
+      "old": "1 Forb. Inst. pt. 2, p. 1138.",
+      "new": "1 Forb. Inst. pt. 2, p. 138.",
+      "reason": "Likely OCR error adding extra digit to page number"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WARRANDICE",
+      "old": "Real warranmdice.",
+      "new": "Real warrandice.",
+      "reason": "OCR error: 'warranmdice' should be 'warrandice'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WARRANDICE",
+      "old": "Simple waren diss:",
+      "new": "Simple warrandice.",
+      "reason": "OCR error: 'waren diss:' should be 'warrandice.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WARRANT",
+      "old": "from a cumpetent authority",
+      "new": "from a competent authority",
+      "reason": "OCR error: 'cumpetent' should be 'competent'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WARRANT",
+      "old": "People v. Wood,\n71 ON. Y¥. 376.",
+      "new": "People v. Wood, 71 N. Y. 376.",
+      "reason": "OCR error: 'ON. Y¥.' should be 'N. Y.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WARRANT",
+      "old": "shal] be\ngood",
+      "new": "shall be good",
+      "reason": "OCR error: 'shal]' should be 'shall'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WARRANT",
+      "old": "WARRANT, n».",
+      "new": "WARRANT, n.",
+      "reason": "OCR error: 'n»' should be 'n.' (noun abbreviation)"
+    },
+    {
+      "type": "trim",
+      "term": "WV",
+      "trim_at": "W. E. GEARHART",
+      "reason": "Entry 'WV' contains what appears to be library catalog/ownership information, not a dictionary definition. This is clearly erroneous content from a library stamp or bookplate merged into the entry."
+    },
+    {
+      "type": "trim",
+      "term": "WYTE",
+      "trim_at": "XENODOCHIUM. In the civil",
+      "reason": "The entry for WYTE has the next dictionary entry XENODOCHIUM merged into its body after a section break."
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WYTE",
+      "old": "<Acquittance",
+      "new": "Acquittance",
+      "reason": "OCR artifact: spurious '<' character before 'Acquittance'."
+    },
+    {
+      "type": "trim",
+      "term": "WINDING-UP ACTS",
+      "trim_at": "WINDOW. An opening made",
+      "reason": "The entries for WINDOW and WINDSOR FOREST are merged into the WINDING-UP ACTS body after a section break."
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WARRANTIZARE",
+      "old": "Warrantiszare est defendere",
+      "new": "Warrantizare est defendere",
+      "reason": "OCR error introduced extra 's' in the Latin maxim headword"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WARRANTIZARE",
+      "old": "its value.:",
+      "new": "its value.",
+      "reason": "Spurious colon after period at end of entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WASTE",
+      "old": "by demclishing",
+      "new": "by demolishing",
+      "reason": "OCR error: 'demclishing' should be 'demolishing'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WASTE",
+      "old": "the common law ex-\nBree very significantly",
+      "new": "the common law expresses very significantly",
+      "reason": "OCR error: 'ex-\\nBree' is a broken word for 'expresses'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WASTE",
+      "old": "which fe\nnot recognized",
+      "new": "which is not recognized",
+      "reason": "OCR error: 'fe' should be 'is'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WASTE",
+      "old": "Gannon y. Peterson",
+      "new": "Gannon v. Peterson",
+      "reason": "OCR error: 'y.' should be 'v.' (case citation)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WASTE",
+      "old": "Crowe v. Wilson, '.\n65 Md.",
+      "new": "Crowe v. Wilson, 65 Md.",
+      "reason": "Spurious characters and line break in citation"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WASTE",
+      "old": "trees\nlanted for ornament",
+      "new": "trees planted for ornament",
+      "reason": "OCR error: 'lanted' should be 'planted'"
+    },
+    {
+      "type": "trim",
+      "term": "WARREN",
+      "trim_at": "' WARSCOT. In Saxon law.",
+      "reason": "Entry WARSCOT is embedded in WARREN's body after a paragraph break"
+    },
+    {
+      "type": "trim",
+      "term": "WARTH",
+      "trim_at": "\" WASH. A shallow part of a",
+      "reason": "Entry WASH (first definition) is embedded in WARTH's body"
+    },
+    {
+      "type": "trim",
+      "term": "WATCH",
+      "trim_at": "'WATOH, n. A body of",
+      "reason": "Second WATCH entry (noun definition) is embedded in WATCH verb entry"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WATCH",
+      "old": "'WATOH, n.",
+      "new": "WATCH, n.",
+      "reason": "OCR error: 'WATOH' should be 'WATCH'"
+    },
+    {
+      "type": "trim",
+      "term": "WEALTH",
+      "trim_at": "- WEAPON. An instrument",
+      "reason": "Entries WEAPON and WEAR/WEIR are embedded in WEALTH's body after paragraph break"
+    },
+    {
+      "type": "trim",
+      "term": "WAY-GOING",
+      "trim_at": "- WAYLEAVE is a right of way",
+      "reason": "Entry WAYLEAVE is embedded in WAY-GOING's body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WATER-MARK",
+      "old": "64 I. R. A. 333",
+      "new": "64 L. R. A. 333",
+      "reason": "OCR error: 'I. R. A.' should be 'L. R. A.' (Lawyers' Reports Annotated)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WATERING",
+      "old": "adding to the capltal stock",
+      "new": "adding to the capital stock",
+      "reason": "OCR error: 'capltal' should be 'capital'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WEIR",
+      "old": "A pare an inclosure of vie:",
+      "new": "A pare or inclosure of stakes",
+      "reason": "OCR garbling: 'pare an inclosure of vie:' is corrupted text"
+    },
+    {
+      "type": "trim",
+      "term": "WEIR",
+      "trim_at": "-- WELL, adj, In marine",
+      "reason": "Entries WELL (adj.) and WELL (n.) are embedded in WEIR's body"
+    },
+    {
+      "type": "trim",
+      "term": "WELL ENOWING",
+      "trim_at": "» WELSH MORTGAGE. See",
+      "reason": "Entries WELSH MORTGAGE and WEND/WERA are embedded in WELL ENOWING's body"
+    },
+    {
+      "type": "headword",
+      "term": "WELL ENOWING",
+      "correct": "WELL KNOWN",
+      "reason": "OCR error: 'ENOWING' should be 'KNOWN' — the entry defines the pleading term 'well known'"
+    },
+    {
+      "type": "trim",
+      "term": "WEND",
+      "trim_at": "WERA, or WERE. The estimation",
+      "reason": "Entry WERA or WERE is embedded in WEND's body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WEND",
+      "old": "comprising several acres",
+      "new": "comprising several acres",
+      "reason": "No change needed here but see WELL ENOWING entry which says 'several juga' — checking WEND: body says 'several acres' which appears correct for this entry"
+    },
+    {
+      "type": "trim",
+      "term": "WEREGELT THEF",
+      "trim_at": "WEREGILD, or WERGILD. This",
+      "reason": "Entries WEREGILD/WERGILD and WERELADA are embedded in WEREGELT THEF's body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WEREGELT THEF",
+      "old": "c. 47, § 18.",
+      "new": "c. 47, § 13.",
+      "reason": "Section number differs from WEREGELT THEF header entry which says § 13; OCR likely misread 13 as 18"
+    },
+    {
+      "type": "trim",
+      "term": "WEREGILD",
+      "trim_at": "WERELADA. A purging from",
+      "reason": "Entry WERELADA is embedded in WEREGILD's body"
+    },
+    {
+      "type": "headword",
+      "term": "WEREGELT",
+      "correct": "WEREGELT THEF",
+      "reason": "The body text for 'WEREGELT' actually defines 'WEREGELT THEF' — the headword appears truncated, but there is a separate WEREGELT THEF entry; this entry for WEREGELT has different content (Scotch law) so headword may be correct"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WEREGELT THEF",
+      "old": "In old Engsh law.",
+      "new": "In old English law.",
+      "reason": "OCR error: 'Engsh' should be 'English'"
+    },
+    {
+      "type": "headword",
+      "term": "WER",
+      "correct": "RED BOOK OF THE EXCHEQUER",
+      "reason": "The body describes a book kept in the English exchequer — the headword 'WER' does not match the content; likely a different entry was OCR'd under the wrong headword"
+    },
+    {
+      "type": "flag",
+      "term": "WER",
+      "issue": "Body text ('The name of an ancient book kept in the English exchequer...') does not match headword 'WER'. This appears to be content from a different entry misassigned here."
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WEREGELD",
+      "old": "WEREGELT THEF. Sax. In old Engsh law.",
+      "new": "WEREGELT THEF. Sax. In old English law.",
+      "reason": "OCR error in embedded headword repetition: 'Engsh' should be 'English'"
+    },
+    {
+      "type": "headword",
+      "term": "WEREGELD",
+      "correct": "WEREGELT",
+      "reason": "The headword 'WEREGELD' appears to be a variant/OCR of 'WEREGELT'; the body starts with 'WEREGELT THEF' suggesting this is the WEREGELT entry"
+    },
+    {
+      "type": "trim",
+      "term": "WEST",
+      "trim_at": "WEST SAXON LAGE. The laws",
+      "reason": "Entry WEST SAXON LAGE is embedded in WEST's body with no independent content for WEST itself"
+    },
+    {
+      "type": "trim",
+      "term": "WESTMINSTER",
+      "trim_at": "WESTMINSTER OONFESSION.",
+      "reason": "Entries WESTMINSTER CONFESSION and WESTMINSTER THE FIRST are embedded in WESTMINSTER's body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WESTMINSTER",
+      "old": "WESTMINSTER OONFESSION.",
+      "new": "WESTMINSTER CONFESSION.",
+      "reason": "OCR error: 'OONFESSION' should be 'CONFESSION'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WESTMINSTER",
+      "old": "seat of the ee\ncourts",
+      "new": "seat of the principal courts",
+      "reason": "OCR garbling: 'ee' is corrupted text, likely 'principal' or similar word"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WESTMINSTER",
+      "old": "Magna Oharia",
+      "new": "Magna Charta",
+      "reason": "OCR error: 'Oharia' should be 'Charta'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WEEK",
+      "old": "28 S. BE. 219",
+      "new": "28 S. E. 219",
+      "reason": "OCR error: 'BE.' should be 'E.' in the South Eastern Reporter citation"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WEDBEDRIP",
+      "old": "Sax. Inold English law.",
+      "new": "Sax. In old English law.",
+      "reason": "OCR error: 'Inold' should be 'In old' (missing space)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WEST SAXON LAW",
+      "old": "his dominjons",
+      "new": "his dominions",
+      "reason": "OCR error: 'dominjons' should be 'dominions'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WRECK",
+      "old": "loesea, abandonments,.",
+      "new": "losses, abandonments,",
+      "reason": "OCR error: 'loesea' should be 'losses'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WRIT OF ASSISTANCE",
+      "old": "court of chaneery, in ald of",
+      "new": "court of chancery, in aid of",
+      "reason": "OCR errors: 'chaneery' should be 'chancery', 'ald' should be 'aid'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WRIT OF ASSISTANCE",
+      "old": "11 N. ¥. Supp. 737; Knight v. Houghtalling,\n04 N. ©. 410.",
+      "new": "11 N. Y. Supp. 737; Knight v. Houghtalling, 94 N. C. 410.",
+      "reason": "OCR errors: 'N. ¥.' should be 'N. Y.', '04' should be '94', 'N. ©.' should be 'N. C.'"
+    },
+    {
+      "type": "trim",
+      "term": "WRIT OF ASSISTANCE",
+      "trim_at": "WRIT OF ASSOOIATION. In English",
+      "reason": "WRIT OF ASSOCIATION entry is merged into WRIT OF ASSISTANCE body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WRIT OF ASSISTANCE",
+      "old": "WRIT OF ASSOOIATION",
+      "new": "WRIT OF ASSOCIATION",
+      "reason": "OCR error in embedded headword: 'ASSOOIATION' should be 'ASSOCIATION'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WRIT DE BONO ET MALO",
+      "old": "See Dr\nBono ET MALO; ABSIZE.",
+      "new": "See DE BONO ET MALO; ASSIZE.",
+      "reason": "OCR errors: 'Dr' should be 'DE', 'ABSIZE' should be 'ASSIZE'"
+    },
+    {
+      "type": "trim",
+      "term": "WRIT DE BONO ET MALO",
+      "trim_at": "' WRIT DE HZRETICO COMBUREN-",
+      "reason": "Embedded next entry heading merged into body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WRIT OF CONSPIRACY",
+      "old": "Bui.Law Dictr.(2p Ep.)—78",
+      "new": "Bui. Law Dict. (2d Ed.)—78",
+      "reason": "OCR garbled citation marker"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WRIT OF DEBT",
+      "old": "¢ e¢.,",
+      "new": "i. e.,",
+      "reason": "OCR error: '¢ e¢.,' should be 'i. e.,'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WRIT OF DECEIT",
+      "old": "Hes where one man",
+      "new": "lies where one man",
+      "reason": "OCR error: 'Hes' should be 'lies'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WRIT OF DOWER",
+      "old": "writ of dower unde nihil habet, which lics",
+      "new": "writ of dower unde nihil habet, which lies",
+      "reason": "OCR error: 'lics' should be 'lies'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WRIT OF DOWER",
+      "old": "she is entitied,",
+      "new": "she is entitled,",
+      "reason": "OCR error: 'entitied' should be 'entitled'"
+    },
+    {
+      "type": "trim",
+      "term": "WRIT OF DOWER",
+      "trim_at": "' WRIT. OF EJECTMENT. The writ in",
+      "reason": "WRIT OF EJECTMENT entry merged into WRIT OF DOWER body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WRIT OF FORMEDON",
+      "old": "See Formmedon.",
+      "new": "See FORMEDON.",
+      "reason": "OCR error: 'Formmedon' should be 'FORMEDON'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WRIT OF MAINPRIZE",
+      "old": "8 Bl. Comm. 128.",
+      "new": "3 Bl. Comm. 128.",
+      "reason": "OCR error: '8' should be '3'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WRIT OF MESNE",
+      "old": "was 80 called",
+      "new": "was so called",
+      "reason": "OCR error: '80' should be 'so'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WRIT OF MESNE",
+      "old": "\"Unde idem\nA. qui medius est inter CO. et prefatum B..:\"",
+      "new": "\"Unde idem A. qui medius est inter C. et prefatum B.:\"",
+      "reason": "OCR error: 'CO.' should be 'C.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WRIT OF PROCLAMATION",
+      "old": "in'places: the most notorious,",
+      "new": "in places most notorious,",
+      "reason": "OCR error introducing spurious colon and breaking spacing"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WRIT OF PROCLAMATION",
+      "old": "a inonth before",
+      "new": "a month before",
+      "reason": "OCR error: 'inonth' should be 'month'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WRIT OF PROTECTION",
+      "old": "privflege any person",
+      "new": "privilege any person",
+      "reason": "OCR error: 'privflege' should be 'privilege'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WRIT OF RECAPTION",
+      "old": "while the matter is sud\njudice.",
+      "new": "while the matter is sub judice.",
+      "reason": "OCR error: 'sud' should be 'sub', broken across line"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WRIT OF TOLT",
+      "old": "on &\nwrit of right patent",
+      "new": "on a writ of right patent",
+      "reason": "OCR error: '&' should be 'a'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WRIT OF WASTE",
+      "old": "severa)] forms",
+      "new": "several forms",
+      "reason": "OCR error: 'severa)]' should be 'several'"
+    },
+    {
+      "type": "trim",
+      "term": "WRITER",
+      "trim_at": "WRITER OF THE TALLIES. In England",
+      "reason": "WRITER OF THE TALLIES and WRITER TO THE SIGNET entries are merged into WRITER body"
+    },
+    {
+      "type": "trim",
+      "term": "WRITTEN",
+      "trim_at": "WRITTEN LAW. One of the two",
+      "reason": "WRITTEN LAW entry merged into WRITTEN body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WRITTEN LAW",
+      "old": "the leges, plebisecita, senatus-consulia, princtpum placita, magistratuum edicta, and reeponsa prudentum.",
+      "new": "the leges, plebiscita, senatus-consulia, principum placita, magistratuum edicta, and responsa prudentum.",
+      "reason": "OCR errors: 'plebisecita' should be 'plebiscita', 'princtpum' should be 'principum', 'reeponsa' should be 'responsa'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WRONG",
+      "old": "a viotation",
+      "new": "a violation",
+      "reason": "OCR error: 'viotation' should be 'violation'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WRONG",
+      "old": "prevented or rad reamed:",
+      "new": "prevented or redressed:",
+      "reason": "OCR error: 'rad reamed' should be 'redressed'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WRONG",
+      "old": "Huntineton v. Attrill,",
+      "new": "Huntington v. Attrill,",
+      "reason": "OCR error: 'Huntineton' should be 'Huntington'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WRONG",
+      "old": "4 Bl). Comm. 1.",
+      "new": "4 Bl. Comm. 1.",
+      "reason": "OCR error: 'Bl).' should be 'Bl.'"
+    },
+    {
+      "type": "trim",
+      "term": "WRONGFULLY",
+      "trim_at": "ciently clerks in the office",
+      "reason": "Duplicate text from WRITER TO THE SIGNET and WRONGFULLY INTENDING entries merged into WRONGFULLY body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "WRONGFULLY INTENDING",
+      "old": "defendant In committing",
+      "new": "defendant in committing",
+      "reason": "OCR error: spurious capital 'I' in 'In'"
+    }
+  ],
+  "errors": [],
+  "by_type": {
+    "trim": 44,
+    "ocr_fix": 104,
+    "headword": 5,
+    "flag": 1
+  },
+  "elapsed_seconds": 54.1
+}

@@ -1,0 +1,412 @@
+{
+  "letter": "K",
+  "entries_reviewed": 73,
+  "corrections": [
+    {
+      "type": "trim",
+      "term": "KISSING",
+      "trim_at": "KISSING THE BOOK. The ceremony",
+      "reason": "The entry 'KISSING' appears to be a stub that merges into the separate entry 'KISSING THE BOOK'; the parent entry headword is just 'KISSING' but the body starts with the embedded headword 'KISSING THE BOOK'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "KLEPTOMANIA",
+      "old": "con\ngisting in an irresistible propensity to steal.\nSee [NSANITY.",
+      "new": "consisting in an irresistible propensity to steal.\nSee INSANITY.",
+      "reason": "OCR errors: 'con gisting' should be 'consisting', '[NSANITY' should be 'INSANITY'"
+    },
+    {
+      "type": "trim",
+      "term": "KLEPTOMANIA",
+      "trim_at": "KNAVE. A rascal; a false, tricky",
+      "reason": "The KNAVE entry is merged into the KLEPTOMANIA body after the See INSANITY reference"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "KNIGHT",
+      "old": "1\nmn. 403.",
+      "new": "1 Bl. Comm. 403.",
+      "reason": "OCR garbled 'Bl. Comm.' as 'mn.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "KNIGHT",
+      "old": "Knights cf St.\nPatrick. Instituted in Ireland by Georze IIT..",
+      "new": "Knights of St.\nPatrick. Instituted in Ireland by George III..",
+      "reason": "OCR errors: 'cf' should be 'of', 'Georze' should be 'George', 'IIT' should be 'III'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "KNIGHT",
+      "old": "—Knunights\nof the Garter.",
+      "new": "—Knights\nof the Garter.",
+      "reason": "OCR error: 'Knunights' should be 'Knights'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "KNIGHT",
+      "old": "—Knunights of the\nshire.",
+      "new": "—Knights of the\nshire.",
+      "reason": "OCR error: 'Knunights' should be 'Knights'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "KNIGHT",
+      "old": "Edward IIY.. A. D. 1344.",
+      "new": "Edward III., A. D. 1344.",
+      "reason": "OCR error: 'IIY' should be 'III'"
+    },
+    {
+      "type": "trim",
+      "term": "KNOCK",
+      "trim_at": "KNOCK DOWN. To assign to a bidder",
+      "reason": "The entry 'KNOCK' merges into the separate entry 'KNOCK DOWN'; the body starts with the embedded headword 'KNOCK DOWN'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "KNOW ALL MEN",
+      "old": "stil!\ncolumence.",
+      "new": "still\ncommence.",
+      "reason": "OCR errors: 'stil!' should be 'still', 'columence' should be 'commence'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "KNOWLEDGE",
+      "old": "a inan's firm belief.",
+      "new": "a man's firm belief.",
+      "reason": "OCR error: 'inan' should be 'man'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "KNOWLEDGE",
+      "old": "addressed co the",
+      "new": "addressed to the",
+      "reason": "OCR error: 'co' should be 'to'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "KNOWLEDGE",
+      "old": "55 8.\nW. 1091",
+      "new": "55 S.\nW. 1091",
+      "reason": "OCR error: '8.' should be 'S.' in S.W. reporter abbreviation"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "KNOWLEDGE",
+      "old": "38 8. EB. 802.",
+      "new": "38 S. E. 802.",
+      "reason": "OCR error: '8. EB.' should be 'S. E.' for South Eastern Reporter"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "KNOWLEDGE",
+      "old": "is Parc knowledge of its truth or falsity;",
+      "new": "is pure knowledge of its truth or falsity;",
+      "reason": "OCR error: 'Parc' should be 'pure'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "KNOWLEDGE",
+      "old": "a know\ne of the truth or\nfalsity of the allegation de\ned.",
+      "new": "a knowledge of the truth or\nfalsity of the allegation denied.",
+      "reason": "OCR errors: 'know e' and 'de ed' are broken words that should be 'knowledge' and 'denied'"
+    },
+    {
+      "type": "trim",
+      "term": "KNOWLEDGE",
+      "trim_at": "'KYTH",
+      "reason": "The headword 'KYTH' and following text appears to be merged into the KNOWLEDGE entry body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "KING'S CHAMBERS",
+      "old": "iuclosed within headlands",
+      "new": "enclosed within headlands",
+      "reason": "OCR error: 'iuclosed' should be 'enclosed'"
+    },
+    {
+      "type": "trim",
+      "term": "KAIA",
+      "trim_at": "KAIAGE, or KAIAGIUM. A wharfage",
+      "reason": "KAIAGE entry is merged into KAIA entry body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "KALENDARIUM",
+      "old": "ealendar",
+      "new": "calendar",
+      "reason": "OCR error: 'e' instead of 'c'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "KARRATA",
+      "old": "<A cart-load.",
+      "new": "A cart-load.",
+      "reason": "Spurious '<' character from OCR"
+    },
+    {
+      "type": "trim",
+      "term": "KAST",
+      "trim_at": "—Kast-geld. Contribution for",
+      "reason": "Sub-entry Kast-geld appears to be merged but is actually a normal sub-entry; however the dash format is fine - not an issue"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "KENILWORTH",
+      "old": "forfeited their estutes in that rebellion, which\ncomposition was five years' rent of the ee\ntates forfeited.",
+      "new": "forfeited their estates in that rebellion, which composition was five years' rent of the estates forfeited.",
+      "reason": "OCR errors: 'estutes' should be 'estates', 'ee tates' is a broken word for 'estates'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "KENILWORTH",
+      "old": "estutes",
+      "new": "estates",
+      "reason": "OCR error"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "KENILWORTH",
+      "old": "ee\ntates",
+      "new": "estates",
+      "reason": "OCR broken word"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "KENTLAGE",
+      "old": "fron",
+      "new": "iron",
+      "reason": "OCR error: 'fron' should be 'iron'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "KENTLAGE",
+      "old": ". dinary",
+      "new": "ordinary",
+      "reason": "OCR broken word with spurious period and space"
+    },
+    {
+      "type": "headword",
+      "term": "KENILWORTH",
+      "correct": "KENILWORTH DICTUM",
+      "reason": "Entry appears to describe the Dictum/Edict of Kenilworth, not just 'Kenilworth'"
+    },
+    {
+      "type": "headword",
+      "term": "KENNING",
+      "correct": "KENNING TO A TERCE",
+      "reason": "Entry describes 'kenning to a terce' in Scotch law"
+    },
+    {
+      "type": "headword",
+      "term": "KENTUCKY",
+      "correct": "KENTUCKY RESOLUTIONS",
+      "reason": "Entry describes the Kentucky Resolutions, headword is incomplete"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "KERF",
+      "old": "end of a: stick",
+      "new": "end of a stick",
+      "reason": "Spurious colon from OCR"
+    },
+    {
+      "type": "trim",
+      "term": "KEYAGE",
+      "trim_at": "KEYS, in the Isle of Man",
+      "reason": "KEYS entry merged into KEYAGE body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "KHALSA",
+      "old": "Av office of",
+      "new": "An office of",
+      "reason": "OCR error: 'Av' should be 'An'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "KHALSA",
+      "old": "Khalsa\nJands",
+      "new": "Khalsa lands",
+      "reason": "OCR error: 'Jands' should be 'lands'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "KILDERKIN",
+      "old": "<A measure",
+      "new": "A measure",
+      "reason": "Spurious '<' character from OCR"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "KIDNAPPING",
+      "old": "19 N. B. 602",
+      "new": "19 N. E. 602",
+      "reason": "OCR error: 'N. B.' should be 'N. E.' (North Eastern Reporter)"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "KIN",
+      "old": "—Kinsbote. In Saxon law. A composition or\nsatisfaction id for killing",
+      "new": "—Kinsbote. In Saxon law. A composition or satisfaction paid for killing",
+      "reason": "OCR error: 'id' should be 'paid'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "KIN",
+      "old": "—Kinsfoelk. Kelations",
+      "new": "—Kinsfolk. Relations",
+      "reason": "OCR errors: 'Kinsfoelk' should be 'Kinsfolk', 'Kelations' should be 'Relations'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "KIN",
+      "old": "Wood v. Mitcham, v2 N.\nY, 379",
+      "new": "Wood v. Mitcham, 72 N. Y. 379",
+      "reason": "OCR error: 'v2' should be '72'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "KING",
+      "old": "-King-oraft.",
+      "new": "—King-craft.",
+      "reason": "OCR error: 'oraft' should be 'craft'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "KING",
+      "old": "Ming's silver.",
+      "new": "—King's silver.",
+      "reason": "OCR error: 'Ming's' should be 'King's'"
+    },
+    {
+      "type": "headword",
+      "term": "KING'S",
+      "correct": "KING'S EVIDENCE",
+      "reason": "Headword is incomplete; entry describes 'king's evidence'"
+    },
+    {
+      "type": "trim",
+      "term": "KING'S",
+      "trim_at": "KING'S PROCTOR. A proctor or",
+      "reason": "KING'S PROCTOR entry is merged into KING'S EVIDENCE body"
+    },
+    {
+      "type": "trim",
+      "term": "KINGDOM",
+      "trim_at": "KINGS-AT-ABMS, The principal",
+      "reason": "KINGS-AT-ARMS entry merged into KINGDOM body"
+    },
+    {
+      "type": "trim",
+      "term": "KINGDOM",
+      "trim_at": "KINTAL, or KINTLE. A hundred",
+      "reason": "KINTAL entry merged into KINGDOM body"
+    },
+    {
+      "type": "headword",
+      "term": "KINGS-AT-ABRMS",
+      "correct": "KINGS-AT-ARMS",
+      "reason": "OCR error in headword: 'ABRMS' should be 'ARMS'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "KINGS-AT-ABRMS",
+      "old": "Englund",
+      "new": "England",
+      "reason": "OCR error"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "KINGS-AT-ABRMS",
+      "old": "Clareuceux",
+      "new": "Clarenceux",
+      "reason": "OCR error"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "KINGS-AT-ABRMS",
+      "old": "Scot,\nland",
+      "new": "Scotland",
+      "reason": "OCR broken word"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "KINGS-AT-ABRMS",
+      "old": "A hundred",
+      "new": "",
+      "reason": "Remnant text from merged KINTAL entry should be removed"
+    },
+    {
+      "type": "headword",
+      "term": "KINTAL",
+      "correct": "KINTAL",
+      "reason": "Headword appears correct but body starts with 'or KINTLE.' suggesting the full headword should be 'KINTAL, or KINTLE'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "KINTAL",
+      "old": "'pounds in welght.",
+      "new": "A hundred pounds in weight.",
+      "reason": "OCR error: 'welght' should be 'weight'; beginning of sentence missing due to merge/trim issue"
+    },
+    {
+      "type": "flag",
+      "term": "KINTLIDGE",
+      "issue": "Body appears truncated - contains only 'A ship's ballast. See' with no continuation"
+    },
+    {
+      "type": "trim",
+      "term": "KIPPER-TIME",
+      "trim_at": "KIRBY'S QUEST. In English law.",
+      "reason": "KIRBY'S QUEST entry merged into KIPPER-TIME body"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "KIRBY'S QUEST",
+      "old": "Engiish",
+      "new": "English",
+      "reason": "OCR error"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "KIRBY'S QUEST",
+      "old": "inquialtion",
+      "new": "inquisition",
+      "reason": "OCR error"
+    },
+    {
+      "type": "flag",
+      "term": "KEELHALE",
+      "issue": "Duplicate entry - KEELHALE and 'KEELHALE KEELHALE, KEELHAUL' appear to be the same entry duplicated with a garbled headword"
+    },
+    {
+      "type": "headword",
+      "term": "KEELHALE KEELHALE, KEELHAUL",
+      "correct": "KEELHAUL",
+      "reason": "Headword is garbled duplicate; correct term is KEELHAUL"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "KEELHALE",
+      "old": "Ene.\nLond.",
+      "new": "Enc. Lond.",
+      "reason": "OCR error: 'Ene.' should be 'Enc.'"
+    },
+    {
+      "type": "ocr_fix",
+      "term": "KEELS",
+      "old": "carringe",
+      "new": "carriage",
+      "reason": "OCR error"
+    }
+  ],
+  "errors": [],
+  "by_type": {
+    "trim": 11,
+    "ocr_fix": 40,
+    "headword": 7,
+    "flag": 2
+  },
+  "elapsed_seconds": 33.5
+}

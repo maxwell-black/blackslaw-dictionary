@@ -1,0 +1,80 @@
+[
+  {
+    "type": "headword_review",
+    "term": "MAGIG",
+    "suggested": "MAGIC",
+    "reason": "OCR error: 'G' at end should be 'C'"
+  },
+  {
+    "type": "headword_review",
+    "term": "MAOE-GREFF",
+    "suggested": "MACE-GREFF",
+    "reason": "OCR error: 'MAOE' should be 'MACE'"
+  },
+  {
+    "type": "headword_review",
+    "term": "MAOULARE",
+    "suggested": "MACULARE",
+    "reason": "OCR error: 'MAOULARE' should be 'MACULARE'"
+  },
+  {
+    "type": "flag",
+    "term": "MARA",
+    "issue": "Stray 't' character appears mid-definition: 'A mere or\nmoor; a lake, pool,\nor pond; a bog or\n\nt\n\nmarsh' - likely OCR artifact"
+  },
+  {
+    "type": "headword_review",
+    "term": "MER RECOVERY",
+    "suggested": "RES JUDICATA (cross-reference)",
+    "reason": "The headword 'MER RECOVERY' appears to be a damaged OCR rendering; likely 'A FORMER RECOVERY' or a cross-reference entry, but flagging for review"
+  },
+  {
+    "type": "flag",
+    "term": "MER RECOVERY",
+    "issue": "Headword appears to be garbled; possibly should be 'FORMER RECOVERY' or similar"
+  },
+  {
+    "type": "flag",
+    "term": "MERCHANT",
+    "issue": "Entry ends abruptly with 'sion merchant. See.' — appears truncated, likely 'Commission merchant. See.' with 'Commis-' cut off"
+  },
+  {
+    "type": "flag",
+    "term": "MODERAMEN",
+    "issue": "The body of this entry appears to be a duplicate/fragment copied from the MODEL entry and then has a garbled heading. The entry seems malformed or misplaced."
+  },
+  {
+    "type": "flag",
+    "term": "MODO",
+    "issue": "The headword appears to be incomplete; the full entry is likely 'MODO ET FORMA' (in manner and form), which is the standard legal Latin phrase being defined."
+  },
+  {
+    "type": "flag",
+    "term": "MISCELLANEOUS",
+    "issue": "Definition is identical to MISCEGENATION ('Mixture of races; marriage between persons of different races; as between a white person and a negro.') — likely OCR/scanning error producing a duplicate entry under the wrong headword"
+  },
+  {
+    "type": "headword_review",
+    "term": "MZC-BURGH",
+    "suggested": "MÆG-BURGH",
+    "reason": "OCR garbled the æ ligature in this Saxon law term; should be Mæg-Burgh meaning family/kin group"
+  },
+  {
+    "type": "headword_review",
+    "term": "MZGBOTE",
+    "suggested": "MÆGBOTE",
+    "reason": "OCR garbled the æ ligature; should be Mægbote, a Saxon law term for compensation for killing a kinsman"
+  },
+  {
+    "type": "headword_review",
+    "term": "MZREMIUM",
+    "suggested": "MÆREMIUM",
+    "reason": "OCR garbled the æ ligature; should be Mæremium meaning timber/wood"
+  },
+  {
+    "type": "headword_review",
+    "term": "MUNDBYRD",
+    "suggested": "MUNDBYRD",
+    "reason": "Entry term repeats 'MUNDBYRD, MUNDEBURDE' as if the headword itself contains both; the headword should just be MUNDBYRD"
+  }
+]
