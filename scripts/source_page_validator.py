@@ -195,8 +195,11 @@ def find_monotonicity_breaks(entries_by_letter: dict) -> dict:
             entry_min = min(pages)
             entry_max = max(pages)
 
-            # A significant backwards jump (more than 5 pages) is suspicious
-            if prev_max_page > 0 and entry_min < prev_max_page - 5:
+            # A significant backwards jump (more than 12 pages) is suspicious.
+            # Threshold raised from 5 to 12 because the corpus has a systematic
+            # ~11 page offset (leaf-number vs printed-page mixing) that causes
+            # 3,190 false-positive breaks at 6-10 pages across all letters.
+            if prev_max_page > 0 and entry_min < prev_max_page - 12:
                 breaks[letter].append({
                     "entry_id": entry.get("id", ""),
                     "headword": entry.get("headword", ""),
