@@ -1,21 +1,21 @@
 {
-  "previous_live_count": 12900,
-  "new_live_count": 12890,
-  "delta": -10,
+  "previous_live_count": 12890,
+  "new_live_count": 12884,
+  "delta": -6,
   "total_overlay_entries": 13641,
-  "live_entries": 12890,
+  "live_entries": 12884,
   "promoted_from_legacy": 1680,
   "body_sources": {
-    "rebuilt": 10742,
-    "legacy": 2146,
-    "manual_correction": 2
+    "rebuilt": 10736,
+    "legacy": 2145,
+    "manual_correction": 3
   },
   "counts_by_entry_type": {
     "included": {
-      "verified_main": 10497,
+      "verified_main": 10482,
       "provisional_main": 320,
       "legacy_retained": 1680,
-      "headword_corrected": 11,
+      "headword_corrected": 20,
       "recovered_main": 160,
       "subentry": 201,
       "reversed_polarity": 3,
@@ -27,15 +27,15 @@
       "legacy_unresolved": 131,
       "appendix_abbrev": 154,
       "alias_phantom": 14,
-      "legacy_duplicate": 172,
+      "legacy_duplicate": 178,
       "fragment_artifact": 259
     }
   },
   "types_in_live": {
-    "verified_main": 10497,
+    "verified_main": 10482,
     "provisional_main": 320,
     "legacy_retained": 1680,
-    "headword_corrected": 11,
+    "headword_corrected": 20,
     "recovered_main": 160,
     "subentry": 201,
     "reversed_polarity": 3,
@@ -44,67 +44,97 @@
   },
   "changes_this_build": [
     {
-      "id": "BLD2-07189",
-      "headword": "IV",
+      "id": "BLD2-06527",
+      "headword": "I",
       "old_entry_type": "verified_main",
-      "new_entry_type": "fragment_artifact"
+      "new_entry_type": "legacy_duplicate"
     },
     {
-      "id": "BLD2-07190",
-      "headword": "IV)",
+      "id": "BLD2-06529",
+      "headword": "DE SA VIE",
       "old_entry_type": "verified_main",
-      "new_entry_type": "fragment_artifact"
+      "new_entry_type": "headword_corrected"
     },
     {
-      "id": "BLD2-10426",
-      "headword": "QO",
+      "id": "BLD2-06551",
+      "headword": "IDONEUM SE FACERE; IDONEARE SE",
       "old_entry_type": "verified_main",
-      "new_entry_type": "fragment_artifact"
+      "new_entry_type": "headword_corrected"
     },
     {
-      "id": "BLD2-10556",
-      "headword": "R.&",
+      "id": "BLD2-07185",
+      "headword": "NE QUID IN LOCO PUBLICO VEL ITINERE FIAT",
       "old_entry_type": "verified_main",
-      "new_entry_type": "fragment_artifact"
+      "new_entry_type": "headword_corrected"
     },
     {
-      "id": "BLD2-10558",
-      "headword": "R.A",
+      "id": "BLD2-07439",
+      "headword": "CHACE",
       "old_entry_type": "verified_main",
-      "new_entry_type": "fragment_artifact"
+      "new_entry_type": "headword_corrected"
     },
     {
-      "id": "BLD2-10559",
-      "headword": "R.C",
+      "id": "BLD2-07441",
+      "headword": "L.",
       "old_entry_type": "verified_main",
-      "new_entry_type": "fragment_artifact"
+      "new_entry_type": "legacy_duplicate"
     },
     {
-      "id": "BLD2-10561",
-      "headword": "R.I",
+      "id": "BLD2-08727",
+      "headword": "DE HOMINE REPLEGIANDO",
       "old_entry_type": "verified_main",
-      "new_entry_type": "fragment_artifact"
+      "new_entry_type": "headword_corrected"
     },
     {
-      "id": "BLD2-10563",
-      "headword": "R.L",
+      "id": "BLD2-08728",
+      "headword": "N.P",
       "old_entry_type": "verified_main",
-      "new_entry_type": "fragment_artifact"
+      "new_entry_type": "legacy_duplicate"
     },
     {
-      "id": "BLD2-12318",
+      "id": "BLD2-09051",
+      "headword": "O.R",
+      "old_entry_type": "verified_main",
+      "new_entry_type": "legacy_duplicate"
+    },
+    {
+      "id": "BLD2-11243",
+      "headword": "S.",
+      "old_entry_type": "verified_main",
+      "new_entry_type": "legacy_duplicate"
+    },
+    {
+      "id": "BLD2-11248",
+      "headword": "SE",
+      "old_entry_type": "verified_main",
+      "new_entry_type": "legacy_duplicate"
+    },
+    {
+      "id": "BLD2-12323",
+      "headword": "D.S.P.",
+      "old_entry_type": "verified_main",
+      "new_entry_type": "headword_corrected"
+    },
+    {
+      "id": "BLD2-12328",
+      "headword": "PROPERTY PROPTER PRIVILEGIUM",
+      "old_entry_type": "verified_main",
+      "new_entry_type": "headword_corrected"
+    },
+    {
+      "id": "BLD2-12885",
+      "headword": "IN PERPETUAM REI MEMORIAM",
+      "old_entry_type": "verified_main",
+      "new_entry_type": "headword_corrected"
+    },
+    {
+      "id": "BLD2-13604",
       "headword": "T",
       "old_entry_type": "verified_main",
-      "new_entry_type": "fragment_artifact"
-    },
-    {
-      "id": "BLD2-12886",
-      "headword": "U.B",
-      "old_entry_type": "verified_main",
-      "new_entry_type": "fragment_artifact"
+      "new_entry_type": "headword_corrected"
     }
   ],
-  "summary": "Live corpus: 12890 entries (-10 from previous build of 12900). 1680 legacy_unresolved entries promoted to legacy_retained. 10 entry classification(s) changed this build.",
+  "summary": "Live corpus: 12884 entries (-6 from previous build of 12890). 1680 legacy_unresolved entries promoted to legacy_retained. 15 entry classification(s) changed this build.",
   "entries": [
     {
       "id": "BLD2-00000",
@@ -49883,18 +49913,10 @@
       "body_length": 376
     },
     {
-      "id": "BLD2-06527",
-      "term": "I",
-      "original_term": null,
-      "entry_type": "verified_main",
-      "body_source": "rebuilt",
-      "body_length": 57
-    },
-    {
       "id": "BLD2-06529",
-      "term": "I.",
+      "term": "DE SA VIE",
       "original_term": null,
-      "entry_type": "verified_main",
+      "entry_type": "headword_corrected",
       "body_source": "rebuilt",
       "body_length": 114
     },
@@ -50028,11 +50050,11 @@
     },
     {
       "id": "BLD2-06551",
-      "term": "IDONEUM",
+      "term": "IDONEUM SE FACERE; IDONEARE SE",
       "original_term": null,
-      "entry_type": "verified_main",
-      "body_source": "legacy",
-      "body_length": 8
+      "entry_type": "headword_corrected",
+      "body_source": "manual_correction",
+      "body_length": 63
     },
     {
       "id": "BLD2-06552",
@@ -54980,9 +55002,9 @@
     },
     {
       "id": "BLD2-07185",
-      "term": "ITINERE FIAT",
+      "term": "NE QUID IN LOCO PUBLICO VEL ITINERE FIAT",
       "original_term": null,
-      "entry_type": "verified_main",
+      "entry_type": "headword_corrected",
       "body_source": "rebuilt",
       "body_length": 130
     },
@@ -56788,19 +56810,11 @@
     },
     {
       "id": "BLD2-07439",
-      "term": "L",
+      "term": "CHACE",
       "original_term": null,
-      "entry_type": "verified_main",
+      "entry_type": "headword_corrected",
       "body_source": "rebuilt",
       "body_length": 30
-    },
-    {
-      "id": "BLD2-07441",
-      "term": "L.",
-      "original_term": null,
-      "entry_type": "verified_main",
-      "body_source": "rebuilt",
-      "body_length": 62
     },
     {
       "id": "BLD2-07453",
@@ -66340,19 +66354,11 @@
     },
     {
       "id": "BLD2-08727",
-      "term": "N.M",
+      "term": "DE HOMINE REPLEGIANDO",
       "original_term": null,
-      "entry_type": "verified_main",
+      "entry_type": "headword_corrected",
       "body_source": "rebuilt",
       "body_length": 163
-    },
-    {
-      "id": "BLD2-08728",
-      "term": "N.P",
-      "original_term": null,
-      "entry_type": "verified_main",
-      "body_source": "rebuilt",
-      "body_length": 3389
     },
     {
       "id": "BLD2-08731",
@@ -68673,14 +68679,6 @@
       "entry_type": "legacy_retained",
       "body_source": "legacy",
       "body_length": 185
-    },
-    {
-      "id": "BLD2-09051",
-      "term": "O.R",
-      "original_term": null,
-      "entry_type": "verified_main",
-      "body_source": "rebuilt",
-      "body_length": 30
     },
     {
       "id": "BLD2-09052",
@@ -85251,22 +85249,6 @@
       "body_length": 618
     },
     {
-      "id": "BLD2-11243",
-      "term": "S.",
-      "original_term": null,
-      "entry_type": "verified_main",
-      "body_source": "rebuilt",
-      "body_length": 452
-    },
-    {
-      "id": "BLD2-11248",
-      "term": "SE",
-      "original_term": null,
-      "entry_type": "verified_main",
-      "body_source": "rebuilt",
-      "body_length": 63
-    },
-    {
       "id": "BLD2-11249",
       "term": "S.R",
       "original_term": null,
@@ -93468,17 +93450,17 @@
     },
     {
       "id": "BLD2-12323",
-      "term": "T)",
+      "term": "D.S.P.",
       "original_term": null,
-      "entry_type": "verified_main",
+      "entry_type": "headword_corrected",
       "body_source": "rebuilt",
       "body_length": 71
     },
     {
       "id": "BLD2-12328",
-      "term": "T.R",
+      "term": "PROPERTY PROPTER PRIVILEGIUM",
       "original_term": null,
-      "entry_type": "verified_main",
+      "entry_type": "headword_corrected",
       "body_source": "rebuilt",
       "body_length": 160
     },
@@ -97620,9 +97602,9 @@
     },
     {
       "id": "BLD2-12885",
-      "term": "U",
+      "term": "IN PERPETUAM REI MEMORIAM",
       "original_term": null,
-      "entry_type": "verified_main",
+      "entry_type": "headword_corrected",
       "body_source": "rebuilt",
       "body_length": 111
     },
@@ -102948,9 +102930,9 @@
     },
     {
       "id": "BLD2-13604",
-      "term": "YA",
+      "term": "T",
       "original_term": null,
-      "entry_type": "verified_main",
+      "entry_type": "headword_corrected",
       "body_source": "rebuilt",
       "body_length": 335
     },

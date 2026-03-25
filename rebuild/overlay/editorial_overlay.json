@@ -83833,15 +83833,17 @@
     "id": "BLD2-06527",
     "index": 6527,
     "term": "I",
-    "entry_type": "verified_main",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.9,
     "source_headword": "IL",
     "source_pages": [
       "186"
     ],
     "flags": [
-      "headword_mismatch"
-    ]
+      "headword_mismatch",
+      "oor_suppressed"
+    ],
+    "note": "Suppressed: IA-verified duplicate of CHACER (triage 2026-03-25)"
   },
   {
     "id": "BLD2-06528",
@@ -83860,16 +83862,18 @@
   {
     "id": "BLD2-06529",
     "index": 6529,
-    "term": "I.",
-    "entry_type": "verified_main",
+    "term": "DE SA VIE",
+    "entry_type": "headword_corrected",
     "confidence": 0.9,
     "source_headword": "IL",
     "source_pages": [
       "330"
     ],
     "flags": [
-      "headword_mismatch"
-    ]
+      "headword_mismatch",
+      "oor_corrected"
+    ],
+    "note": "Headword corrected: I. -> DE SA VIE (IA-verified triage 2026-03-25)"
   },
   {
     "id": "BLD2-06530",
@@ -84145,8 +84149,8 @@
   {
     "id": "BLD2-06551",
     "index": 6551,
-    "term": "IDONEUM",
-    "entry_type": "verified_main",
+    "term": "IDONEUM SE FACERE; IDONEARE SE",
+    "entry_type": "headword_corrected",
     "confidence": 0.9,
     "source_headword": "IDONEUM SE FACERE",
     "source_pages": [
@@ -84154,8 +84158,10 @@
     ],
     "flags": [
       "headword_mismatch",
-      "short_body"
-    ]
+      "short_body",
+      "oor_corrected"
+    ],
+    "note": "Headword corrected: IDONEUM -> IDONEUM SE FACERE; IDONEARE SE (boundary-split fix, IA-verified 2026-03-25)"
   },
   {
     "id": "BLD2-06552",
@@ -92268,14 +92274,17 @@
   {
     "id": "BLD2-07185",
     "index": 7185,
-    "term": "ITINERE FIAT",
-    "entry_type": "verified_main",
+    "term": "NE QUID IN LOCO PUBLICO VEL ITINERE FIAT",
+    "entry_type": "headword_corrected",
     "confidence": 0.99,
     "source_headword": "ITINERE FIAT",
     "source_pages": [
       "807"
     ],
-    "flags": []
+    "flags": [
+      "oor_corrected"
+    ],
+    "note": "Headword corrected: ITINERE FIAT -> NE QUID IN LOCO PUBLICO VEL ITINERE FIAT (IA-verified triage 2026-03-25)"
   },
   {
     "id": "BLD2-07186",
@@ -95561,16 +95570,18 @@
   {
     "id": "BLD2-07439",
     "index": 7439,
-    "term": "L",
-    "entry_type": "verified_main",
+    "term": "CHACE",
+    "entry_type": "headword_corrected",
     "confidence": 0.99,
     "source_headword": "L",
     "source_pages": [
       "186"
     ],
     "flags": [
-      "short_body"
-    ]
+      "short_body",
+      "oor_corrected"
+    ],
+    "note": "Headword corrected: L -> CHACE (IA-verified triage 2026-03-25)"
   },
   {
     "id": "BLD2-07440",
@@ -95591,15 +95602,17 @@
     "id": "BLD2-07441",
     "index": 7441,
     "term": "L.",
-    "entry_type": "verified_main",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.99,
     "source_headword": "L",
     "source_pages": [
       "552"
     ],
     "flags": [
-      "embedded_caps_subentry"
-    ]
+      "embedded_caps_subentry",
+      "oor_suppressed"
+    ],
+    "note": "Suppressed: IA-verified duplicate of GUERPI (triage 2026-03-25)"
   },
   {
     "id": "BLD2-07442",
@@ -112159,22 +112172,24 @@
   {
     "id": "BLD2-08727",
     "index": 8727,
-    "term": "N.M",
-    "entry_type": "verified_main",
+    "term": "DE HOMINE REPLEGIANDO",
+    "entry_type": "headword_corrected",
     "confidence": 0.9,
     "source_headword": "NAM",
     "source_pages": [
       "325"
     ],
     "flags": [
-      "headword_mismatch"
-    ]
+      "headword_mismatch",
+      "oor_corrected"
+    ],
+    "note": "Headword corrected: N.M -> DE HOMINE REPLEGIANDO (IA-verified triage 2026-03-25)"
   },
   {
     "id": "BLD2-08728",
     "index": 8728,
     "term": "N.P",
-    "entry_type": "verified_main",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.9,
     "source_headword": "N.Y",
     "source_pages": [
@@ -112182,8 +112197,10 @@
       "487"
     ],
     "flags": [
-      "headword_mismatch"
-    ]
+      "headword_mismatch",
+      "oor_suppressed"
+    ],
+    "note": "Suppressed: IA-verified duplicate of FEE (triage 2026-03-25)"
   },
   {
     "id": "BLD2-08729",
@@ -116400,7 +116417,7 @@
     "id": "BLD2-09051",
     "index": 9051,
     "term": "O.R",
-    "entry_type": "verified_main",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.9,
     "source_headword": "OUR",
     "source_pages": [
@@ -116408,8 +116425,10 @@
     ],
     "flags": [
       "headword_mismatch",
-      "short_body"
-    ]
+      "short_body",
+      "oor_suppressed"
+    ],
+    "note": "Suppressed: IA-verified duplicate of CUR (triage 2026-03-25)"
   },
   {
     "id": "BLD2-09052",
@@ -144765,13 +144784,16 @@
     "id": "BLD2-11243",
     "index": 11243,
     "term": "S.",
-    "entry_type": "verified_main",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.99,
     "source_headword": "S",
     "source_pages": [
       "187"
     ],
-    "flags": []
+    "flags": [
+      "oor_suppressed"
+    ],
+    "note": "Suppressed: IA-verified duplicate of CHALLENGE (triage 2026-03-25)"
   },
   {
     "id": "BLD2-11244",
@@ -144832,13 +144854,16 @@
     "id": "BLD2-11248",
     "index": 11248,
     "term": "SE",
-    "entry_type": "verified_main",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.99,
     "source_headword": "SE",
     "source_pages": [
       "589"
     ],
-    "flags": []
+    "flags": [
+      "oor_suppressed"
+    ],
+    "note": "Suppressed: IA-verified tail fragment of IDONEUM SE FACERE; IDONEARE SE (triage 2026-03-25)"
   },
   {
     "id": "BLD2-11249",
@@ -158800,16 +158825,18 @@
   {
     "id": "BLD2-12323",
     "index": 12323,
-    "term": "T)",
-    "entry_type": "verified_main",
+    "term": "D.S.P.",
+    "entry_type": "headword_corrected",
     "confidence": 0.9,
     "source_headword": "TI",
     "source_pages": [
       "405"
     ],
     "flags": [
-      "headword_mismatch"
-    ]
+      "headword_mismatch",
+      "oor_corrected"
+    ],
+    "note": "Headword corrected: T) -> D.S.P. (IA-verified triage 2026-03-25)"
   },
   {
     "id": "BLD2-12324",
@@ -158871,16 +158898,18 @@
   {
     "id": "BLD2-12328",
     "index": 12328,
-    "term": "T.R",
-    "entry_type": "verified_main",
+    "term": "PROPERTY PROPTER PRIVILEGIUM",
+    "entry_type": "headword_corrected",
     "confidence": 0.9,
     "source_headword": "TER",
     "source_pages": [
       "943"
     ],
     "flags": [
-      "headword_mismatch"
-    ]
+      "headword_mismatch",
+      "oor_corrected"
+    ],
+    "note": "Headword corrected: T.R -> PROPERTY PROPTER PRIVILEGIUM (IA-verified triage 2026-03-25)"
   },
   {
     "id": "BLD2-12329",
@@ -166066,16 +166095,18 @@
   {
     "id": "BLD2-12885",
     "index": 12885,
-    "term": "U",
-    "entry_type": "verified_main",
+    "term": "IN PERPETUAM REI MEMORIAM",
+    "entry_type": "headword_corrected",
     "confidence": 0.9,
     "source_headword": "UM",
     "source_pages": [
       "606"
     ],
     "flags": [
-      "headword_mismatch"
-    ]
+      "headword_mismatch",
+      "oor_corrected"
+    ],
+    "note": "Headword corrected: U -> IN PERPETUAM REI MEMORIAM (IA-verified triage 2026-03-25)"
   },
   {
     "id": "BLD2-12886",
@@ -176186,16 +176217,18 @@
   {
     "id": "BLD2-13604",
     "index": 13604,
-    "term": "YA",
-    "entry_type": "verified_main",
+    "term": "T",
+    "entry_type": "headword_corrected",
     "confidence": 0.9,
     "source_headword": "YT",
     "source_pages": [
       "1132"
     ],
     "flags": [
-      "headword_mismatch"
-    ]
+      "headword_mismatch",
+      "oor_corrected"
+    ],
+    "note": "Headword corrected: YA -> T (IA-verified triage 2026-03-25)"
   },
   {
     "id": "BLD2-13605",

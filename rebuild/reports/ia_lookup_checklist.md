@@ -1,215 +1,200 @@
-# IA Lookup Checklist — Out-of-Range Entries Needing Manual Headword Verification
+# IA Lookup Checklist — Out-of-Range Entries (RESOLVED)
 
-14 entries with real definition content but garbled headwords.
-For each: open the IA link, find the entry on the page, write the correct headword.
+All 14 entries verified against IA scans and resolved on 2026-03-25.
+- 6 suppressed as legacy_duplicate
+- 8 headwords corrected
+- 1 boundary-split entry fixed (BLD2-06551, related to Entry 7)
 
 ---
 
-## Entry 1: I (p.186)
+## Entry 1: I (p.186) — SUPPRESSED
 
-- [ ] Verified against IA scan
+- [x] Verified against IA scan
 - **ID:** BLD2-06527
-- **Current headword:** I
+- **Original headword:** I
 - **Source page:** 186
 - **IA link:** https://archive.org/details/blacks-law-dictionary-2nd-edition-1910/page/n186
-- **Body (57 chars):** Fr. To drive, compel, or oblige; also to chase or hunt. @
-- **Nearby entries:** CERTIFICATION, CERTIFICATS, CERTIFIED, CERTIORARI
-- **Probable headword:** CHACER or CHASSER
-- **Correct headword:** _______________
-- **Action:** [ ] correct_headword  [ ] suppress_duplicate  [ ] suppress_fragment  [ ] leave_as_is
+- **Body:** Fr. To drive, compel, or oblige; also to chase or hunt.
+- **Correct headword:** CHACER
+- **Action:** [x] suppress_duplicate — duplicate of existing entry CHACER
 
 ---
 
-## Entry 2: I. (p.330)
+## Entry 2: I. (p.330) — CORRECTED
 
-- [ ] Verified against IA scan
+- [x] Verified against IA scan
 - **ID:** BLD2-06529
-- **Current headword:** I.
+- **Original headword:** I.
 - **Source page:** 330
 - **IA link:** https://archive.org/details/blacks-law-dictionary-2nd-edition-1910/page/n330
-- **Body (114 chars):** Fr. Of his or her life; of his own life; as distinguished from pur autre vie, for another's life. Litt. §§ 35, 36.
-- **Nearby entries:** DE, DAY-RULE, DEACON, DEAD BODY
-- **Probable headword:** DE SA VIE
-- **Correct headword:** _______________
-- **Action:** [ ] correct_headword  [ ] suppress_duplicate  [ ] suppress_fragment  [ ] leave_as_is
+- **Body:** Fr. Of his or her life; of his own life; as distinguished from pur autre vie, for another's life. Litt. §§ 35, 36.
+- **Correct headword:** DE SA VIE
+- **Action:** [x] correct_headword
 
 ---
 
-## Entry 3: L (p.186)
+## Entry 3: L (p.186) — CORRECTED
 
-- [ ] Verified against IA scan
+- [x] Verified against IA scan
 - **ID:** BLD2-07439
-- **Current headword:** L
+- **Original headword:** L
 - **Source page:** 186
 - **IA link:** https://archive.org/details/blacks-law-dictionary-2nd-edition-1910/page/n186
-- **Body (30 chars):** Fr. A chase or hunting ground.
-- **Nearby entries:** CERTIFICATION, CERTIFICATS, CERTIFIED, CERTIORARI
-- **Probable headword:** CHACE
-- **Correct headword:** _______________
-- **Action:** [ ] correct_headword  [ ] suppress_duplicate  [ ] suppress_fragment  [ ] leave_as_is
-- **Note:** Same IA page as Entry 1 — these two may be adjacent entries (CHACE and CHACER).
+- **Body:** Fr. A chase or hunting ground.
+- **Correct headword:** CHACE
+- **Action:** [x] correct_headword
+- **Note:** Same IA page as Entry 1. CHACE and CHACER are adjacent entries.
 
 ---
 
-## Entry 4: N.M (p.325)
+## Entry 4: N.M (p.325) — CORRECTED
 
-- [ ] Verified against IA scan
+- [x] Verified against IA scan
 - **ID:** BLD2-08727
-- **Current headword:** N.M
+- **Original headword:** N.M
 - **Source page:** 325
 - **IA link:** https://archive.org/details/blacks-law-dictionary-2nd-edition-1910/page/n325
-- **Body (163 chars):** (Lat. For taking a man in withernam.) A writ to take a man who had carried away a bondman or bondwoman into another country beyond the reach of a writ of replevin.
-- **Nearby entries:** DB
-- **Probable headword:** DE HOMINE REPLEGIANDO
-- **Correct headword:** _______________
-- **Action:** [ ] correct_headword  [ ] suppress_duplicate  [ ] suppress_fragment  [ ] leave_as_is
+- **Body:** (Lat. For taking a man in withernam.) A writ to take a man who had carried away a bondman or bondwoman into another country beyond the reach of a writ of replevin.
+- **Correct headword:** DE HOMINE REPLEGIANDO
+- **Action:** [x] correct_headword
 
 ---
 
-## Entry 5: N.P (pp.486–487)
+## Entry 5: N.P (pp.486–487) — SUPPRESSED
 
-- [ ] Verified against IA scan
+- [x] Verified against IA scan
 - **ID:** BLD2-08728
-- **Current headword:** N.P
+- **Original headword:** N.P
 - **Source pages:** 486, 487
 - **IA link:** https://archive.org/details/blacks-law-dictionary-2nd-edition-1910/page/n486
-- **Body (3389 chars, truncated):** In modern English tenures, "fee" signifies an estate of inheritance, being the highest and most extensive interest which a man can have in a feud...
-- **Nearby entries:** FARM, FARMER, FARO, FARRAGO LIBELLI
-- **Probable headword:** FEE — check if FEE already exists as a live entry (if so, this is a duplicate)
-- **Correct headword:** _______________
-- **Action:** [ ] correct_headword  [ ] suppress_duplicate  [ ] suppress_fragment  [ ] leave_as_is
+- **Body:** In modern English tenures, "fee" signifies an estate of inheritance...
+- **Correct headword:** FEE
+- **Action:** [x] suppress_duplicate — FEE already exists as a live entry
 
 ---
 
-## Entry 6: S. (p.187)
+## Entry 6: S. (p.187) — SUPPRESSED
 
-- [ ] Verified against IA scan
+- [x] Verified against IA scan
 - **ID:** BLD2-11243
-- **Current headword:** S.
+- **Original headword:** S.
 - **Source page:** 187
 - **IA link:** https://archive.org/details/blacks-law-dictionary-2nd-edition-1910/page/n187
-- **Body (452 chars, truncated):** An objection or exception to the personal qualification of a judge or magistrate about to preside at the trial of a cause; as on account of personal interest, his having been of counsel, bias, etc.
-- **Nearby entries:** CESS, CESSARE, CESSAVIT, CESSE
-- **Probable headword:** CHALLENGE
-- **Correct headword:** _______________
-- **Action:** [ ] correct_headword  [ ] suppress_duplicate  [ ] suppress_fragment  [ ] leave_as_is
+- **Body:** An objection or exception to the personal qualification of a judge or magistrate about to preside at the trial of a cause...
+- **Correct headword:** CHALLENGE
+- **Action:** [x] suppress_duplicate — CHALLENGE already exists as a live entry
 
 ---
 
-## Entry 7: SE (p.589)
+## Entry 7: SE (p.589) — SUPPRESSED (boundary-split fragment)
 
-- [ ] Verified against IA scan
+- [x] Verified against IA scan
 - **ID:** BLD2-11248
-- **Current headword:** SE
+- **Original headword:** SE
 - **Source page:** 589
 - **IA link:** https://archive.org/details/blacks-law-dictionary-2nd-edition-1910/page/n589
-- **Body (63 chars):** To purge one's self by oath of a crime of which one is accused.
-- **Nearby entries:** HYTHE, IBERNAGIUM, IBIDEM, ICENI
-- **Probable headword:** Unknown — check leaf. Possibly an I-section term near IBIDEM.
-- **Correct headword:** _______________
-- **Action:** [ ] correct_headword  [ ] suppress_duplicate  [ ] suppress_fragment  [ ] leave_as_is
+- **Body:** To purge one's self by oath of a crime of which one is accused.
+- **Correct headword:** IDONEUM SE FACERE; IDONEARE SE (tail fragment)
+- **Action:** [x] suppress_duplicate — body merged into BLD2-06551 which was corrected to "IDONEUM SE FACERE; IDONEARE SE"
 
 ---
 
-## Entry 8: T) (p.405)
+## Entry 8: T) (p.405) — CORRECTED
 
-- [ ] Verified against IA scan
+- [x] Verified against IA scan
 - **ID:** BLD2-12323
-- **Current headword:** T)
+- **Original headword:** T)
 - **Source page:** 405
 - **IA link:** https://archive.org/details/blacks-law-dictionary-2nd-edition-1910/page/n405
-- **Body (71 chars):** In genealogical tables, a common abbreviation for "died without issue."
-- **Nearby entries:** DUNNAGE, DUNSETS, DUODECEMVIRALE, DUODECIMA
-- **Probable headword:** D.S.P.
-- **Correct headword:** _______________
-- **Action:** [ ] correct_headword  [ ] suppress_duplicate  [ ] suppress_fragment  [ ] leave_as_is
+- **Body:** In genealogical tables, a common abbreviation for "died without issue."
+- **Correct headword:** D.S.P.
+- **Action:** [x] correct_headword
 
 ---
 
-## Entry 9: ITINERE FIAT (p.807)
+## Entry 9: ITINERE FIAT (p.807) — CORRECTED
 
-- [ ] Verified against IA scan
+- [x] Verified against IA scan
 - **ID:** BLD2-07185
-- **Current headword:** ITINERE FIAT
+- **Original headword:** ITINERE FIAT
 - **Source page:** 807
 - **IA link:** https://archive.org/details/blacks-law-dictionary-2nd-edition-1910/page/n807
-- **Body (130 chars):** Lat. That nothing shall be done (put or erected) in a public place or way. The title of an interdict in the Roman law. Dig. 43, 8.
-- **Nearby entries:** NATURAL, NATURALIZATION, NATURALIZE
-- **Probable headword:** NE QUID IN LOCO PUBLICO VEL ITINERE FIAT (truncated capture — the real headword is likely the full phrase)
-- **Correct headword:** _______________
-- **Action:** [ ] correct_headword  [ ] suppress_duplicate  [ ] suppress_fragment  [ ] leave_as_is
+- **Body:** Lat. That nothing shall be done (put or erected) in a public place or way. The title of an interdict in the Roman law. Dig. 43, 8.
+- **Correct headword:** NE QUID IN LOCO PUBLICO VEL ITINERE FIAT
+- **Action:** [x] correct_headword — headword was truncated, full phrase recovered from IA scan
 
 ---
 
-## Entry 10: L. (p.552)
+## Entry 10: L. (p.552) — SUPPRESSED
 
-- [ ] Verified against IA scan
+- [x] Verified against IA scan
 - **ID:** BLD2-07441
-- **Current headword:** L.
+- **Original headword:** L.
 - **Source page:** 552
 - **IA link:** https://archive.org/details/blacks-law-dictionary-2nd-edition-1910/page/n552
-- **Body (62 chars):** Fr. Abandon- GUERPI, GUERPY. ed; left; deserted: Britt. c. 33.
-- **Nearby entries:** GROWING CROP, GROWTH, GRUARII, GRUB STAKE, GUADIA
-- **Probable headword:** GUERPI or GUERPIR
-- **Correct headword:** _______________
-- **Action:** [ ] correct_headword  [ ] suppress_duplicate  [ ] suppress_fragment  [ ] leave_as_is
+- **Body:** Fr. Abandon- GUERPI, GUERPY. ed; left; deserted: Britt. c. 33.
+- **Correct headword:** GUERPI
+- **Action:** [x] suppress_duplicate — GUERPI already exists as a live entry
 
 ---
 
-## Entry 11: O.R (p.306)
+## Entry 11: O.R (p.306) — SUPPRESSED
 
-- [ ] Verified against IA scan
+- [x] Verified against IA scan
 - **ID:** BLD2-09051
-- **Current headword:** O.R
+- **Original headword:** O.R
 - **Source page:** 306
 - **IA link:** https://archive.org/details/blacks-law-dictionary-2nd-edition-1910/page/n306
-- **Body (30 chars):** A common abbreviation of cura.
-- **Nearby entries:** CUI, CUL, CULAGIUM, CULPA, CULPABILIS
-- **Probable headword:** CUR. or CURA
-- **Correct headword:** _______________
-- **Action:** [ ] correct_headword  [ ] suppress_duplicate  [ ] suppress_fragment  [ ] leave_as_is
+- **Body:** A common abbreviation of cura.
+- **Correct headword:** CUR
+- **Action:** [x] suppress_duplicate — CUR already exists as a live entry
 
 ---
 
-## Entry 12: T.R (p.943)
+## Entry 12: T.R (p.943) — CORRECTED
 
-- [ ] Verified against IA scan
+- [x] Verified against IA scan
 - **ID:** BLD2-12328
-- **Current headword:** T.R
+- **Original headword:** T.R
 - **Source page:** 943
 - **IA link:** https://archive.org/details/blacks-law-dictionary-2nd-edition-1910/page/n943
-- **Body (160 chars):** A qualified property in animals feræ naturæ; i.e., a privilege of hunting, taking, and killing them, in exclusion of others. 2 Bl. Comm. 884; 2 Steph. Comm. 9.
-- **Nearby entries:** PRE-EMPTIONER, PRISON, PRISONER, PRIVATE, PRIVATEER
-- **Probable headword:** PROPERTY (QUALIFIED) or a game-law term — check leaf
-- **Correct headword:** _______________
-- **Action:** [ ] correct_headword  [ ] suppress_duplicate  [ ] suppress_fragment  [ ] leave_as_is
+- **Body:** A qualified property in animals feræ naturæ; i.e., a privilege of hunting, taking, and killing them, in exclusion of others. 2 Bl. Comm. 884; 2 Steph. Comm. 9.
+- **Correct headword:** PROPERTY PROPTER PRIVILEGIUM
+- **Action:** [x] correct_headword
 
 ---
 
-## Entry 13: U (p.606)
+## Entry 13: U (p.606) — CORRECTED
 
-- [ ] Verified against IA scan
+- [x] Verified against IA scan
 - **ID:** BLD2-12885
-- **Current headword:** U
+- **Original headword:** U
 - **Source page:** 606
 - **IA link:** https://archive.org/details/blacks-law-dictionary-2nd-edition-1910/page/n606
-- **Body (111 chars):** In perpetual testimony of a matter; for the purpose of declaring and settling a thing forever. 1 Bl. Comm. 86.
-- **Nearby entries:** IMPARGAMENTUM
-- **Probable headword:** IN PERPETUAM REI MEMORIAM
-- **Correct headword:** _______________
-- **Action:** [ ] correct_headword  [ ] suppress_duplicate  [ ] suppress_fragment  [ ] leave_as_is
+- **Body:** In perpetual testimony of a matter; for the purpose of declaring and settling a thing forever. 1 Bl. Comm. 86.
+- **Correct headword:** IN PERPETUAM REI MEMORIAM
+- **Action:** [x] correct_headword
 
 ---
 
-## Entry 14: YA (p.1132)
+## Entry 14: YA (p.1132) — CORRECTED
 
-- [ ] Verified against IA scan
+- [x] Verified against IA scan
 - **ID:** BLD2-13604
-- **Current headword:** YA
+- **Original headword:** YA
 - **Source page:** 1132
 - **IA link:** https://archive.org/details/blacks-law-dictionary-2nd-edition-1910/page/n1132
-- **Body (335 chars, truncated):** As an abbreviation, this letter usually stands for either "Territory," "Trinity," "term," "tempore," (in the time of,) or "title." Every person who was convicted of felony, short of murder, and admitted to the benefit of clergy...
-- **Nearby entries:** SUSPICIOUS CHARACTER, SUTHDURE, SUTLER
-- **Probable headword:** T (the letter) — this body defines the abbreviation uses of "T". May be a duplicate/bleed from the T section, or may be suppressible as a misplacement.
-- **Correct headword:** _______________
-- **Action:** [ ] correct_headword  [ ] suppress_duplicate  [ ] suppress_fragment  [ ] leave_as_is
+- **Body:** As an abbreviation, this letter usually stands for either "Territory," "Trinity," "term," "tempore," (in the time of,) or "title."...
+- **Correct headword:** T
+- **Action:** [x] correct_headword — body defines the letter T as an abbreviation; entry was misplaced under Y section
+
+---
+
+## Related Fix: BLD2-06551 (boundary-split)
+
+- [x] Fixed
+- **ID:** BLD2-06551
+- **Original headword:** IDONEUM
+- **Corrected headword:** IDONEUM SE FACERE; IDONEARE SE
+- **Body corrected via:** rebuild/overlay/body_corrections.json
+- **Note:** Was a boundary-split artifact where the headword was truncated at "IDONEUM" and the body contained text from "IDONEARE". Entry 7 (BLD2-11248, SE) was the tail fragment whose body properly belongs here.
