@@ -6,7 +6,7 @@
 
 ### Suspicious Headwords
 
-- **Count**: 17  |  **Severity**: medium
+- **Count**: 11  |  **Severity**: medium
 
 **Representative examples:**
 
@@ -14,11 +14,11 @@
 - term=`D)` | reasons=`['embedded_punctuation']` | body_preview=`The fourth letter of the English al-, pha bet. It is used as an abbreviation for`
 - term=`GEANT,)` | reasons=`['embedded_punctuation']` | body_preview=`GEANT,) while the former is preferred when the term is used to describe certain `
 - term=`H` | reasons=`['single_letter', 'too_short']` | body_preview=`This letter, as an abbreviation, stands for Henry (a king of that name) in the c`
-- term=`I` | reasons=`['single_letter', 'too_short']` | body_preview=`Fr. To drive, compel, or oblige; also to chase or hunt. @`
+- term=`IDONEUM SE FACERE; IDONEARE SE` | reasons=`['embedded_punctuation']` | body_preview=`To purge one's self by oath of a crime of which one is accused.`
 
 ### Headword/Body Boundary
 
-- **Count**: 159  |  **Severity**: high
+- **Count**: 150  |  **Severity**: high
 
 **Representative examples:**
 
@@ -30,7 +30,7 @@
 
 ### Empty or Near-Empty Body
 
-- **Count**: 153  |  **Severity**: high
+- **Count**: 146  |  **Severity**: high
 
 **Representative examples:**
 
@@ -42,28 +42,31 @@
 
 ### Residual Reflow
 
-- **Count**: 2  |  **Severity**: low
+- **Count**: 10713  |  **Severity**: high
 
 **Representative examples:**
 
-- term=`COMMON` | break_count=`2` | samples=`['The liturgy, or public form of [\\n]  a ', ' a  [\\n] prayer prescribed by the Churc']`
-- term=`ESTOVERS` | break_count=`1` | samples=`['granted to a woman divorced a  [\\n] mensa ct thoro, for her suppor']`
+- term=`A` | break_count=`9` | samples=`[', among the Romans, the people [\\n] voted against a proposed law. ', 'nst a proposed law. It was the [\\n] initial letter of the word "an', 'er of the word "antiquo," I am [\\n] for the old law. Also the lett']`
+- term=`A AVER` | break_count=`6` | samples=`['m et tenendum.) To have and to [\\n] hold. Co. Litt. §§ 523, 524. A', 'heircs, a touts jours,—to have [\\n] and to hold to him and his hei', '. From common observance there [\\n] should be no departure; there ']`
+- term=`A CONSILHOIS` | break_count=`2` | samples=`['a counsellor. The term is used [\\n] in the civil law by some write', 'w by some writers instead of a [\\n] responsis. Spelman, "Apocrisar']`
+- term=`A CUEILLETTE` | break_count=`3` | samples=`['In French law. In [\\n] relation to the contract of af', 'he cargo is taken on condition [\\n] that the master succeeds in co', 'ter succeeds in completing his [\\n] cargo from other sources. Arg.']`
+- term=`A DATU` | break_count=`9` | samples=`['L. Lat. From the date. Haths [\\n] v. Ash, 2 Salk. 413. <A die da', 'k. 413. <A die datas,-from the [\\n] day of the date. Id.; 2 Crabb,', 'tion ought to be from the more [\\n] worthy. The description (of a ']`
 
 ### OCR Artifacts
 
-- **Count**: 285  |  **Severity**: high
+- **Count**: 413  |  **Severity**: high
 
 **Representative examples:**
 
-- term=`A AVER` | issues=`["digit_in_word: '2p'"]` | body_preview=`L. Fr. (L. Lat. habendum et tenendum.) To have and to hold. Co. Litt. §§ 523, 52`
+- term=`A AVER` | issues=`['contains_@', "digit_in_word: '2p'"]` | body_preview=`L. Fr. (L. Lat. habendum et tenendum.) To have and to hold. Co. Litt. §§ 523, 52`
+- term=`A ME` | issues=`['contains_@']` | body_preview=`(Lat. ego, I.) A term denoting direct tenure of the superior lord. 2 Bell, H. L.`
+- term=`A PALATIO` | issues=`['contains_@']` | body_preview=`L. Lat. From palatium, (a palace.) Counties palatine are hence so called. 1 Bl. `
 - term=`A PRENDRE` | issues=`['contains_@']` | body_preview=`L. Fr. To take. Bref é@ prendre la terre, a writ to take the land. Fet Ass. § 51`
-- term=`AB INCONVENIENTI` | issues=`["digit_in_word: '6a'"]` | body_preview=`From hardship, or inconvenience. An argument founded upon the hardship of the ca`
-- term=`ABATEMENT` | issues=`["digit_in_word: '7a'"]` | body_preview=`In pleading. The effect produced upon an action at law, when the defendant plead`
-- term=`ABEYANCE` | issues=`['contains_@']` | body_preview=`In the law of estates. Expectation; waiting; suspense; remembrance and contempla`
+- term=`A QUO` | issues=`['contains_@']` | body_preview=`A term used, with the correlative ad quem, (to which,) in expressing the computa`
 
 ### Duplicate / Near-Duplicate
 
-- **Count**: 97  |  **Severity**: high
+- **Count**: 95  |  **Severity**: high
 
 **Representative examples:**
 
@@ -75,11 +78,11 @@
 
 ### Source Pages Issues
 
-- **out_of_range**: 8 (medium)
+- **out_of_range**: 9 (medium)
   - `WITTINGLY` pages=['1241']
   - `WOOD LEAVE` pages=['1241']
   - `WOOD PLEA COURT` pages=['1241']
-- **empty_array**: 2142 (high)
+- **empty_array**: 2059 (high)
   - `A`
   - `A AVER`
   - `A CONSILHOIS`
@@ -87,19 +90,23 @@
 
 ### Unresolved Cross-References
 
-- **Count**: 161  |  **Severity**: high
+- **Count**: 131  |  **Severity**: high
 
 **Representative examples:**
 
-- term=`ABJURE` | referenced=`ABJURBATION` | body_snippet=`n, by or upon oath. See ABJURBATION. "Yhe decision of t`
-- term=`ALMOIN` | referenced=`FRANKALMOIGNE` | body_snippet=` by divine service. See FRANKALMOIGNE.
+- term=`ABJURE` | referenced=`ABJURBATION` | body_snippet=`n, by
+or upon oath. See ABJURBATION.
+"Yhe decision of t`
+- term=`ALMOIN` | referenced=`FRANKALMOIGNE` | body_snippet=` by
+divine service. See FRANKALMOIGNE.
 
 .- ALMOXARIFAZGO.`
 - term=`ALTER` | referenced=`ALTERA` | body_snippet=` 18, 41 8. BE. 259. See ALTERA-`
-- term=`AMENTIA` | referenced=`JNSANITY` | body_snippet=`. Insanity; idiocy. See JNSANITY.`
+- term=`AMENTIA` | referenced=`JNSANITY` | body_snippet=`.
+Insanity; idiocy. See JNSANITY.`
 - term=`AMY` | referenced=`AMI` | body_snippet=`See AMI; PROCHEIN AMY.`
 
-- Unique missing refs: 150
+- Unique missing refs: 120
 
 **Top missing references:**
 
@@ -108,7 +115,7 @@
 - `QUO WARRANTO` (2 occurrences)
 - `INGROSS` (2 occurrences)
 - `BIL` (2 occurrences)
-- `PEINE F` (2 occurrences)
+- `BUILDING AND` (2 occurrences)
 - `COURT OF PROBATE` (2 occurrences)
 - `BONA FIDE` (2 occurrences)
 - `ABJURBATION` (1 occurrences)
@@ -118,14 +125,14 @@
 
 - **Count**: 0  |  **Severity**: clean
 
-- Manifest total: 13003  |  Live count: 13003
+- Manifest total: 12934  |  Live count: 12934
 - Match: True
 
 ### Overlay Accounting
 
 - **Count**: 0  |  **Severity**: clean
 
-- Overlay total: 13641  |  Live total: 13003
+- Overlay total: 13691  |  Live total: 12934
 
 ## Regression Probe Status
 
@@ -156,7 +163,7 @@
 | ACCOMENDA | status_to_verify | live_headword | verified_main | In maritime law. A contract between the owner of goods and the master of a ship, |
 | APOORISARIUS | status_to_verify | live_headword | recovered_main | APOCRYPHARZUS. In ecclesiastical law. One who answers for another. An officer wh |
 | COURTS OF ASSIZE AND NISI PRIUS | status_to_verify | live_headword | legacy_unresolved | COURTS COURTS OF ASSIZE AND NISI PRIUS  COURTS OF CINQUE PORTS. In Eng: lish law |
-| N.P | status_to_verify | live_headword | verified_main | 491. In modern English tenures, "fee" signifies an estate of inheritance, being  |
-| QO | status_to_verify | live_headword | verified_main | An abbreviation of "public officer;" also of "post-office."  P. P. An abbreviati |
+| N.P | status_to_verify | suppressed | legacy_duplicate | -- |
+| QO | status_to_verify | suppressed | fragment_artifact | -- |
 | Y. | status_to_verify | absent | -- | -- |
-| T | status_to_verify | live_headword | verified_main | Davis v. Wallace, 7 Fed. Cas. 182. |
+| T | status_to_verify | live_headword | headword_corrected | As an abbreviation, this letter usually stands for either "Territory," "Trinity, |

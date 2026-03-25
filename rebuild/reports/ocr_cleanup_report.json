@@ -1,0 +1,2498 @@
+{
+  "total_entries": 12934,
+  "entries_changed": 349,
+  "pattern_counts": {
+    " @ -> a": 108,
+    "a@->a": 30,
+    "@->a_before_lc": 16,
+    "@b->ab": 2,
+    "hyphen_rejoin": 139,
+    "4nd->and": 2,
+    "&@->a": 10,
+    "witb->with": 9,
+    "tbe->the": 11,
+    "@->a_mid_word": 21,
+    "bim->him": 5,
+    "(@->a": 2,
+    "isolated_a_line": 2,
+    "ber->her": 8,
+    "4s->as": 3,
+    "4t->at": 2,
+    "bave->have": 3,
+    "tbat->that": 3,
+    "beld->held": 1,
+    "@&->a": 3,
+    "4n->an": 1,
+    "bolding->holding": 1,
+    "Tbe->The": 1
+  },
+  "changes": [
+    {
+      "term": "A AVER",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "A ME",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "A PALATIO",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "A PRENDRE",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "A QUO",
+      "fixes": {
+        "a@->a": 1,
+        " @ -> a": 2,
+        "@->a_before_lc": 1
+      },
+      "chars_changed": 4
+    },
+    {
+      "term": "A RENDRE",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "A RESPONSIS",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "A RETRO",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "AB",
+      "fixes": {
+        " @ -> a": 2
+      },
+      "chars_changed": 2
+    },
+    {
+      "term": "AB INITIO",
+      "fixes": {
+        "@b->ab": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "AB INVITO",
+      "fixes": {
+        "@b->ab": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "AB IRATO",
+      "fixes": {
+        "@->a_before_lc": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "ABANDONMENT",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "ABATEMENT",
+      "fixes": {
+        "@->a_before_lc": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "ABJURE",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "ABSQUE CONSIDERATIONE CURIAE",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "ABSQUE IMPETITIONE VASTI",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "ACCOMENDA",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "ACCORD",
+      "fixes": {
+        "4nd->and": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "ACCOUNT",
+      "fixes": {
+        "a@->a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "ACQUIT",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "ACTE",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "ACTIO",
+      "fixes": {
+        "&@->a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "AD INQUIRENDUM",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "ADHIBERE",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "ADJUDICATION",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "ADMINISTRATOR",
+      "fixes": {
+        "witb->with": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "ADULTEROUS",
+      "fixes": {
+        "witb->with": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "AEQUITAS",
+      "fixes": {
+        "@->a_before_lc": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "AEQUUS",
+      "fixes": {
+        "@->a_before_lc": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "AESS",
+      "fixes": {
+        "@->a_before_lc": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "AFFIRMANCE",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "AFFRECTAMENTUM",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "AGISTMENT",
+      "fixes": {
+        "witb->with": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "AIR-WAY",
+      "fixes": {
+        "witb->with": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "ALBUM",
+      "fixes": {
+        "witb->with": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "ALCOHOLISM",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "ALIMONY",
+      "fixes": {
+        "tbe->the": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "AMENDMENT",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "ANCIENT",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "ANECIUS",
+      "fixes": {
+        "@->a_before_lc": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "ANGUISH",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "ANNUAL",
+      "fixes": {
+        "a@->a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "APPOINTMENT",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "ARCHIVES",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "ARETRO",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "ARRIERE VASSAL",
+      "fixes": {
+        "@->a_mid_word": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "ARRIVE",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "ARTICLED CLERK",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "ASSEMBLY",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "ASSETS",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "ATAVUS",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "AUTRE",
+      "fixes": {
+        "@->a_mid_word": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "BALLOT",
+      "fixes": {
+        " @ -> a": 1,
+        "bim->him": 1
+      },
+      "chars_changed": 2
+    },
+    {
+      "term": "BANKER",
+      "fixes": {
+        "&@->a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "BEACH",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "BED",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "BILLET",
+      "fixes": {
+        "&@->a": 1,
+        " @ -> a": 1
+      },
+      "chars_changed": 2
+    },
+    {
+      "term": "BIND",
+      "fixes": {
+        "bim->him": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "BON",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "BOUCHE",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "BOUNDARY",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "BRANCH",
+      "fixes": {
+        "witb->with": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "BREACH",
+      "fixes": {
+        "@->a_before_lc": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "BRIEF",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "CABALLERO",
+      "fixes": {
+        "(@->a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "CADERE",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "CALL",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "CANDLEMAS-DAY",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "CASUS",
+      "fixes": {
+        " @ -> a": 1,
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 2
+    },
+    {
+      "term": "CENTRAL OFFICE",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "CERT",
+      "fixes": {
+        "@->a_mid_word": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "CERTAINTY",
+      "fixes": {
+        "a@->a": 2,
+        " @ -> a": 1
+      },
+      "chars_changed": 3
+    },
+    {
+      "term": "CHARACTER",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "CHARGE-SHEET",
+      "fixes": {
+        "tbe->the": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "CIVIL DAMAGE ACTS",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "CLERICUS",
+      "fixes": {
+        "a@->a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "COCKET",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "COLLATION",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "COLLEGIUM",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "COMMANDERY",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "COMMENDATUS",
+      "fixes": {
+        "tbe->the": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "COMMISSIONER",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "COMMON",
+      "fixes": {
+        " @ -> a": 1,
+        "hyphen_rejoin": 1,
+        "isolated_a_line": 1
+      },
+      "chars_changed": 3
+    },
+    {
+      "term": "COMMOTION",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "COMPANY",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "COMPLICE",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "CONFESSION",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "CONFISCATEE",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "CONFLICT",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "CONGE",
+      "fixes": {
+        "@->a_before_lc": 1,
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 2
+    },
+    {
+      "term": "CONGREGATION",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "CONSOLIDATION",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "CONTRAT",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "CONVENTIONS",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "CONVERSION",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "CONVICTION",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "COST",
+      "fixes": {
+        "ber->her": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "COVENANT",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "CRANK",
+      "fixes": {
+        "&@->a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "CREEK",
+      "fixes": {
+        "a@->a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "CRIME",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "CRIMINAL",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "CUI",
+      "fixes": {
+        "4s->as": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "CURSOR",
+      "fixes": {
+        "tbe->the": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "CURTESY",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "DEATH",
+      "fixes": {
+        "bim->him": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "DELICT",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "DEPOSE",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "DERAIGN",
+      "fixes": {
+        "a@->a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "DESIRE",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "DILAPIDATION",
+      "fixes": {
+        "4t->at": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "DISCHARGE",
+      "fixes": {
+        "&@->a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "DISPOSITIVE FACTS",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "DISSOLUTION",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "DISTRICT",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "DIVIDEND",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "DIVORCE",
+      "fixes": {
+        " @ -> a": 3
+      },
+      "chars_changed": 3
+    },
+    {
+      "term": "DOCKET",
+      "fixes": {
+        "ber->her": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "DODRANS",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "DOMAIN",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "DOMINANT",
+      "fixes": {
+        "@->a_before_lc": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "DROIT",
+      "fixes": {
+        "a@->a": 1,
+        "hyphen_rejoin": 2
+      },
+      "chars_changed": 3
+    },
+    {
+      "term": "EASTINUS",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "ELONGAVIT",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "ENTAIL",
+      "fixes": {
+        "4s->as": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "EQUIVALENT",
+      "fixes": {
+        "witb->with": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "ERARIUM",
+      "fixes": {
+        "@->a_before_lc": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "ESPOUSALS",
+      "fixes": {
+        "a@->a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "ET ALIUS",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "EVICTION",
+      "fixes": {
+        " @ -> a": 1,
+        "@->a_mid_word": 1,
+        "tbe->the": 1
+      },
+      "chars_changed": 3
+    },
+    {
+      "term": "EXCESSIVE",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "EXECUTIVE",
+      "fixes": {
+        "tbe->the": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "EXECUTOR",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "EXEMPLUM",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "EXEMPTION",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "EXHAEREDATIO",
+      "fixes": {
+        "@->a_mid_word": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "EXPERTS",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "EXPURGATOR",
+      "fixes": {
+        "@->a_mid_word": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "EXTENUATING",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "FAMILIAE ERCISCUNDAE",
+      "fixes": {
+        "@->a_mid_word": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "FAMILY",
+      "fixes": {
+        "bave->have": 1,
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 2
+    },
+    {
+      "term": "FELONIA",
+      "fixes": {
+        "witb->with": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "FEUDUM",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "FISSURE",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "FONDS",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "FONDS PERDUS",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "FOR",
+      "fixes": {
+        "tbat->that": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "FORESTALLING THE MARKET",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "FORMEDON",
+      "fixes": {
+        "bave->have": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "FOUNDLING",
+      "fixes": {
+        "@->a_before_lc": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "FRANCHISE",
+      "fixes": {
+        " @ -> a": 1,
+        "hyphen_rejoin": 2
+      },
+      "chars_changed": 3
+    },
+    {
+      "term": "FUND",
+      "fixes": {
+        "a@->a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "FURTUM",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "GENTLEMAN",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "GENTLEMAN USHER",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "GILD",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "GOING",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "GOVERNMENT",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "HABITABLE",
+      "fixes": {
+        "tbe->the": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "HAEREDITAS",
+      "fixes": {
+        "@->a_mid_word": 2
+      },
+      "chars_changed": 2
+    },
+    {
+      "term": "HAWKER",
+      "fixes": {
+        "ber->her": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "HEIR",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "HEMIPLEGIA",
+      "fixes": {
+        "@->a_mid_word": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "HIDALGUIA",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "HOMICIDE",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "HOMOLOGATION",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "HONORARY",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "HOT-WATER",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "IDEM",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "ILLEGAL",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "INCEPTION",
+      "fixes": {
+        "a@->a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "INDEPENDENT",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "INDICTMENT",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "INDIVIDUAL",
+      "fixes": {
+        "a@->a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "INFORMALITY",
+      "fixes": {
+        "4t->at": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "INFORTIATUM",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "INFRINGEMENT",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "INSANITY",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "INSTITUTIO",
+      "fixes": {
+        "@->a_mid_word": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "INSURANCE",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "INSURGENT",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "INTENDANT",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "INTER",
+      "fixes": {
+        "&@->a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "INTERMARRIAGE",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "INTESTATION",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "INTRUSION",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "INVITATION",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "JACENS",
+      "fixes": {
+        "@->a_mid_word": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "JOCALIA",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "JUGUM",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "JURY",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "KERHERE",
+      "fixes": {
+        "a@->a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "LAY",
+      "fixes": {
+        "beld->held": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "LEGATUM OPTIONIS",
+      "fixes": {
+        "@->a_mid_word": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "LEX",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "LIBEL",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "LIBELLUS",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "LIFT",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "LIMITATION",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "LINE",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "LITERIS OBLIGATIO",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "LOADMANAGE",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "LOUAGE",
+      "fixes": {
+        "&@->a": 1,
+        " @ -> a": 1
+      },
+      "chars_changed": 2
+    },
+    {
+      "term": "MAJESTAS",
+      "fixes": {
+        "a@->a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "MAKE",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "MANUMISSION",
+      "fixes": {
+        "@->a_mid_word": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "MARRIAGE",
+      "fixes": {
+        "a@->a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "MEASURE",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "MENS",
+      "fixes": {
+        "a@->a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "MESSUAGE",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "MODEL",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "MODUS",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "MORE",
+      "fixes": {
+        "tbat->that": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "MORTGAGE",
+      "fixes": {
+        "4nd->and": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "MOTION",
+      "fixes": {
+        "@->a_before_lc": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "MULIER",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "NAME",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "NEGLIGENCE",
+      "fixes": {
+        " @ -> a": 1,
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 2
+    },
+    {
+      "term": "NEGRO",
+      "fixes": {
+        "@&->a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "NEXT",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "NIHIL",
+      "fixes": {
+        " @ -> a": 1,
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 2
+    },
+    {
+      "term": "OBJECT",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "OBLIGATIO",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "OBLIGATION",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "OBSTRUCTING PROCESS",
+      "fixes": {
+        "&@->a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "OCCULTATIO THESAURI",
+      "fixes": {
+        "&@->a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "OFFSET",
+      "fixes": {
+        "(@->a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "ONEROUS",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "OPTIONAL WRIT",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "ORDER",
+      "fixes": {
+        "4n->an": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "PACKED PARCELS",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "PAGARCHUS",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "PALMER",
+      "fixes": {
+        "a@->a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "PARENTHESIS",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "PARENTICIDE",
+      "fixes": {
+        "@&->a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "PENSION",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "PERQUISITES",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "PIMP-TENURE",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "PLEA",
+      "fixes": {
+        "ber->her": 2
+      },
+      "chars_changed": 2
+    },
+    {
+      "term": "PLEAD",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "POND",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "PONE",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "PORT",
+      "fixes": {
+        "a@->a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "POSSESSIO",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "POSSIBILITY",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "POSTMASTER",
+      "fixes": {
+        "tbe->the": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "POT-DE-VIN",
+      "fixes": {
+        "@->a_mid_word": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "PRAEDO",
+      "fixes": {
+        "ber->her": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "PRAEMUNIRE",
+      "fixes": {
+        "@->a_mid_word": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "PRAESTARE",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "PRAESUMPTIO",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "PRINCIPAL",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "PRINTING",
+      "fixes": {
+        " @ -> a": 1,
+        "isolated_a_line": 1
+      },
+      "chars_changed": 2
+    },
+    {
+      "term": "PRIVILEGE",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "PROBATIONER",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "PROCESS",
+      "fixes": {
+        " @ -> a": 1,
+        "bim->him": 1,
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 3
+    },
+    {
+      "term": "PROMISSORY",
+      "fixes": {
+        "a@->a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "PROPERTY",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "PROTOCOLO",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "PURPART",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "QUAESTUS",
+      "fixes": {
+        "@->a_mid_word": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "QUI",
+      "fixes": {
+        "&@->a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "QUO",
+      "fixes": {
+        "4s->as": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "RAISE",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "RECLAIM",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "RECOMMENDATION",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "RECORDER",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "RECOVERY",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "RELINQUISHMENT",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "REMERE",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "REMOTENESS",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "REPLEVIN",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "REPRESENTATIVE",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "REPUGNANCY",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "RES",
+      "fixes": {
+        "@->a_before_lc": 1,
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 2
+    },
+    {
+      "term": "RESIDUARY",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "RESILIRE",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "RESURRENDER",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "RETRIBUTION",
+      "fixes": {
+        "a@->a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "REVENUE",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "REVERSIONARY",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "RIGHT",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "RIPARIAN",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "RULE",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "SACRAMENTUM",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "SANCTIO",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "SCHOOL",
+      "fixes": {
+        "a@->a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "SCROOP'S INN",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "SECUNDUM",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "SEMI-MATRIMONIUM",
+      "fixes": {
+        "ber->her": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "SENTENCE",
+      "fixes": {
+        "tbe->the": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "SETTLEMENT",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "SETTLER",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "SEXTERY",
+      "fixes": {
+        "a@->a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "SHIN-PLASTER",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "SIMPLEX",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "SOLICITOR",
+      "fixes": {
+        "a@->a": 1,
+        "bolding->holding": 1
+      },
+      "chars_changed": 2
+    },
+    {
+      "term": "SOLINUM",
+      "fixes": {
+        "bave->have": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "SOVEREIGN",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "STIPULATIO",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "SUB",
+      "fixes": {
+        "@->a_before_lc": 1,
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 2
+    },
+    {
+      "term": "SUBHASTATIO",
+      "fixes": {
+        "a@->a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "SUBLEASE",
+      "fixes": {
+        "bim->him": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "SUBPENA",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "SUBSTANTIAL DAMAGES",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "SUBSTITUTIO",
+      "fixes": {
+        "@->a_mid_word": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "SUMMONS",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "SUPERFCETATION",
+      "fixes": {
+        "@->a_mid_word": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "SUPERFICIARIUS",
+      "fixes": {
+        "@->a_mid_word": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "SUPREMACY",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "SURRENDEREE",
+      "fixes": {
+        "a@->a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "SUSPENSE",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "SUSPENSION",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "TAX",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "TEAMSTER",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "TEEP",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "TERM",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "TERMINUS",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "TESTIMONY",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "TIMBERLODE",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "TITHES",
+      "fixes": {
+        "@->a_before_lc": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "TOUCH",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "TOWN",
+      "fixes": {
+        "witb->with": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "TRADE",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "TROVER",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "TRUST",
+      "fixes": {
+        "a@->a": 1,
+        " @ -> a": 2
+      },
+      "chars_changed": 3
+    },
+    {
+      "term": "U.S",
+      "fixes": {
+        "ber->her": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "UNCUTH",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "UNDER-LEASE",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "UNITY",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "VADIUM",
+      "fixes": {
+        "@&->a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "VERDICT",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "VESTURA",
+      "fixes": {
+        " @ -> a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "VISITATION",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "VITIATE",
+      "fixes": {
+        "a@->a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "WALLIA",
+      "fixes": {
+        "tbat->that": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "WARRANTY",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "WASTE",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "WILL",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "WILLFUL",
+      "fixes": {
+        "a@->a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "WITNESS",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "WRIT OF PROCLAMATION",
+      "fixes": {
+        "@->a_mid_word": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "WRIT OF RECAPTION",
+      "fixes": {
+        "a@->a": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "WRONGFULLY INTENDING",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "WYTE",
+      "fixes": {
+        "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "SUBSTITUTIONAL, SUBSTITUTIONARY",
+      "fixes": {
+        "tbe->the": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "ABSTRACT OF TITLE",
+      "fixes": {
+        "tbe->the": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "COURT FOR DIVORCE AND MATRIMONIAL CAUSES",
+      "fixes": {
+        "Tbe->The": 1
+      },
+      "chars_changed": 1
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "suspicious_headwords": {
-    "count": 17,
+    "count": 11,
     "severity": "medium",
     "examples": [
       {
@@ -33,17 +33,16 @@
         "body_preview": "This letter, as an abbreviation, stands for Henry (a king of that name) in the c"
       },
       {
-        "term": "I",
+        "term": "IDONEUM SE FACERE; IDONEARE SE",
         "reasons": [
-          "single_letter",
-          "too_short"
+          "embedded_punctuation"
         ],
-        "body_preview": "Fr. To drive, compel, or oblige; also to chase or hunt. @"
+        "body_preview": "To purge one's self by oath of a crime of which one is accused."
       }
     ]
   },
   "headword_body_boundary": {
-    "count": 159,
+    "count": 150,
     "severity": "high",
     "examples": [
       {
@@ -74,7 +73,7 @@
     ]
   },
   "empty_or_near_empty_body": {
-    "count": 153,
+    "count": 146,
     "severity": "high",
     "examples": [
       {
@@ -105,36 +104,80 @@
     ]
   },
   "residual_reflow": {
-    "count": 2,
-    "severity": "low",
+    "count": 10713,
+    "severity": "high",
     "examples": [
       {
-        "term": "COMMON",
-        "break_count": 2,
+        "term": "A",
+        "break_count": 9,
         "samples": [
-          "The liturgy, or public form of [\\n]  a ",
-          " a  [\\n] prayer prescribed by the Churc"
+          ", among the Romans, the people [\\n] voted against a proposed law. ",
+          "nst a proposed law. It was the [\\n] initial letter of the word \"an",
+          "er of the word \"antiquo,\" I am [\\n] for the old law. Also the lett"
         ]
       },
       {
-        "term": "ESTOVERS",
-        "break_count": 1,
+        "term": "A AVER",
+        "break_count": 6,
         "samples": [
-          "granted to a woman divorced a  [\\n] mensa ct thoro, for her suppor"
+          "m et tenendum.) To have and to [\\n] hold. Co. Litt. §§ 523, 524. A",
+          "heircs, a touts jours,—to have [\\n] and to hold to him and his hei",
+          ". From common observance there [\\n] should be no departure; there "
+        ]
+      },
+      {
+        "term": "A CONSILHOIS",
+        "break_count": 2,
+        "samples": [
+          "a counsellor. The term is used [\\n] in the civil law by some write",
+          "w by some writers instead of a [\\n] responsis. Spelman, \"Apocrisar"
+        ]
+      },
+      {
+        "term": "A CUEILLETTE",
+        "break_count": 3,
+        "samples": [
+          "In French law. In [\\n] relation to the contract of af",
+          "he cargo is taken on condition [\\n] that the master succeeds in co",
+          "ter succeeds in completing his [\\n] cargo from other sources. Arg."
+        ]
+      },
+      {
+        "term": "A DATU",
+        "break_count": 9,
+        "samples": [
+          "L. Lat. From the date. Haths [\\n] v. Ash, 2 Salk. 413. <A die da",
+          "k. 413. <A die datas,-from the [\\n] day of the date. Id.; 2 Crabb,",
+          "tion ought to be from the more [\\n] worthy. The description (of a "
         ]
       }
     ]
   },
   "ocr_artifacts": {
-    "count": 285,
+    "count": 413,
     "severity": "high",
     "examples": [
       {
         "term": "A AVER",
         "issues": [
+          "contains_@",
           "digit_in_word: '2p'"
         ],
         "body_preview": "L. Fr. (L. Lat. habendum et tenendum.) To have and to hold. Co. Litt. §§ 523, 52"
+      },
+      {
+        "term": "A ME",
+        "issues": [
+          "contains_@"
+        ],
+        "body_preview": "(Lat. ego, I.) A term denoting direct tenure of the superior lord. 2 Bell, H. L."
+      },
+      {
+        "term": "A PALATIO",
+        "issues": [
+          "contains_@"
+        ],
+        "body_preview": "L. Lat. From palatium, (a palace.) Counties palatine are hence so called. 1 Bl. "
       },
       {
         "term": "A PRENDRE",
@@ -144,30 +187,16 @@
         "body_preview": "L. Fr. To take. Bref é@ prendre la terre, a writ to take the land. Fet Ass. § 51"
       },
       {
-        "term": "AB INCONVENIENTI",
-        "issues": [
-          "digit_in_word: '6a'"
-        ],
-        "body_preview": "From hardship, or inconvenience. An argument founded upon the hardship of the ca"
-      },
-      {
-        "term": "ABATEMENT",
-        "issues": [
-          "digit_in_word: '7a'"
-        ],
-        "body_preview": "In pleading. The effect produced upon an action at law, when the defendant plead"
-      },
-      {
-        "term": "ABEYANCE",
+        "term": "A QUO",
         "issues": [
           "contains_@"
         ],
-        "body_preview": "In the law of estates. Expectation; waiting; suspense; remembrance and contempla"
+        "body_preview": "A term used, with the correlative ad quem, (to which,) in expressing the computa"
       }
     ]
   },
   "duplicate_near_duplicate": {
-    "count": 97,
+    "count": 95,
     "severity": "high",
     "examples": [
       {
@@ -199,7 +228,7 @@
   },
   "source_pages_issues": {
     "out_of_range": {
-      "count": 8,
+      "count": 9,
       "severity": "medium",
       "examples": [
         {
@@ -250,7 +279,7 @@
       ]
     },
     "empty_array": {
-      "count": 2142,
+      "count": 2059,
       "severity": "high",
       "examples": [
         {
@@ -277,8 +306,8 @@
     }
   },
   "unresolved_crossrefs": {
-    "count": 161,
-    "unique_missing_refs": 150,
+    "count": 131,
+    "unique_missing_refs": 120,
     "severity": "high",
     "top_missing_refs": [
       {
@@ -302,7 +331,7 @@
         "occurrences": 2
       },
       {
-        "ref": "PEINE F",
+        "ref": "BUILDING AND",
         "occurrences": 2
       },
       {
@@ -342,10 +371,6 @@
         "occurrences": 1
       },
       {
-        "ref": "APPRENTICE EN L",
-        "occurrences": 1
-      },
-      {
         "ref": "APPRENTICE EN LA LEY",
         "occurrences": 1
       },
@@ -360,18 +385,22 @@
       {
         "ref": "AD H",
         "occurrences": 1
+      },
+      {
+        "ref": "BANERET",
+        "occurrences": 1
       }
     ],
     "examples": [
       {
         "term": "ABJURE",
         "referenced": "ABJURBATION",
-        "body_snippet": "n, by or upon oath. See ABJURBATION. \"Yhe decision of t"
+        "body_snippet": "n, by\nor upon oath. See ABJURBATION.\n\"Yhe decision of t"
       },
       {
         "term": "ALMOIN",
         "referenced": "FRANKALMOIGNE",
-        "body_snippet": " by divine service. See FRANKALMOIGNE.\n\n.- ALMOXARIFAZGO."
+        "body_snippet": " by\ndivine service. See FRANKALMOIGNE.\n\n.- ALMOXARIFAZGO."
       },
       {
         "term": "ALTER",
@@ -381,7 +410,7 @@
       {
         "term": "AMENTIA",
         "referenced": "JNSANITY",
-        "body_snippet": ". Insanity; idiocy. See JNSANITY."
+        "body_snippet": ".\nInsanity; idiocy. See JNSANITY."
       },
       {
         "term": "AMY",
@@ -391,16 +420,16 @@
     ]
   },
   "manifest_split_consistency": {
-    "manifest_total": 13003,
-    "live_count": 13003,
+    "manifest_total": 12934,
+    "live_count": 12934,
     "match": true,
     "issue_count": 0,
     "severity": "clean",
     "issues": []
   },
   "overlay_accounting": {
-    "overlay_total": 13641,
-    "live_total": 13003,
+    "overlay_total": 13691,
+    "live_total": 12934,
     "excluded_types": [
       "alias_phantom",
       "appendix_abbrev",

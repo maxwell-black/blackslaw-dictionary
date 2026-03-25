@@ -171,16 +171,14 @@
   {
     "term": "N.P",
     "expectation": "status_to_verify",
-    "status": "live_headword",
-    "body_preview": "491. In modern English tenures, \"fee\" signifies an estate of inheritance, being ",
-    "entry_type": "verified_main"
+    "status": "suppressed",
+    "entry_type": "legacy_duplicate"
   },
   {
     "term": "QO",
     "expectation": "status_to_verify",
-    "status": "live_headword",
-    "body_preview": "An abbreviation of \"public officer;\" also of \"post-office.\"  P. P. An abbreviati",
-    "entry_type": "verified_main"
+    "status": "suppressed",
+    "entry_type": "fragment_artifact"
   },
   {
     "term": "Y.",
@@ -191,7 +189,7 @@
     "term": "T",
     "expectation": "status_to_verify",
     "status": "live_headword",
-    "body_preview": "Davis v. Wallace, 7 Fed. Cas. 182.",
-    "entry_type": "verified_main"
+    "body_preview": "As an abbreviation, this letter usually stands for either \"Territory,\" \"Trinity,",
+    "entry_type": "headword_corrected"
   }
 ]
