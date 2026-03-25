@@ -1,18 +1,18 @@
 {
   "previous_live_count": 12900,
-  "new_live_count": 12900,
-  "delta": 0,
+  "new_live_count": 12890,
+  "delta": -10,
   "total_overlay_entries": 13641,
-  "live_entries": 12900,
+  "live_entries": 12890,
   "promoted_from_legacy": 1680,
   "body_sources": {
-    "rebuilt": 10751,
-    "legacy": 2147,
+    "rebuilt": 10742,
+    "legacy": 2146,
     "manual_correction": 2
   },
   "counts_by_entry_type": {
     "included": {
-      "verified_main": 10507,
+      "verified_main": 10497,
       "provisional_main": 320,
       "legacy_retained": 1680,
       "headword_corrected": 11,
@@ -28,11 +28,11 @@
       "appendix_abbrev": 154,
       "alias_phantom": 14,
       "legacy_duplicate": 172,
-      "fragment_artifact": 249
+      "fragment_artifact": 259
     }
   },
   "types_in_live": {
-    "verified_main": 10507,
+    "verified_main": 10497,
     "provisional_main": 320,
     "legacy_retained": 1680,
     "headword_corrected": 11,
@@ -42,8 +42,69 @@
     "alias_variant": 15,
     "unmatched_keep": 3
   },
-  "changes_this_build": [],
-  "summary": "Live corpus: 12900 entries (0 from previous build of 12900). 1680 legacy_unresolved entries promoted to legacy_retained.",
+  "changes_this_build": [
+    {
+      "id": "BLD2-07189",
+      "headword": "IV",
+      "old_entry_type": "verified_main",
+      "new_entry_type": "fragment_artifact"
+    },
+    {
+      "id": "BLD2-07190",
+      "headword": "IV)",
+      "old_entry_type": "verified_main",
+      "new_entry_type": "fragment_artifact"
+    },
+    {
+      "id": "BLD2-10426",
+      "headword": "QO",
+      "old_entry_type": "verified_main",
+      "new_entry_type": "fragment_artifact"
+    },
+    {
+      "id": "BLD2-10556",
+      "headword": "R.&",
+      "old_entry_type": "verified_main",
+      "new_entry_type": "fragment_artifact"
+    },
+    {
+      "id": "BLD2-10558",
+      "headword": "R.A",
+      "old_entry_type": "verified_main",
+      "new_entry_type": "fragment_artifact"
+    },
+    {
+      "id": "BLD2-10559",
+      "headword": "R.C",
+      "old_entry_type": "verified_main",
+      "new_entry_type": "fragment_artifact"
+    },
+    {
+      "id": "BLD2-10561",
+      "headword": "R.I",
+      "old_entry_type": "verified_main",
+      "new_entry_type": "fragment_artifact"
+    },
+    {
+      "id": "BLD2-10563",
+      "headword": "R.L",
+      "old_entry_type": "verified_main",
+      "new_entry_type": "fragment_artifact"
+    },
+    {
+      "id": "BLD2-12318",
+      "headword": "T",
+      "old_entry_type": "verified_main",
+      "new_entry_type": "fragment_artifact"
+    },
+    {
+      "id": "BLD2-12886",
+      "headword": "U.B",
+      "old_entry_type": "verified_main",
+      "new_entry_type": "fragment_artifact"
+    }
+  ],
+  "summary": "Live corpus: 12890 entries (-10 from previous build of 12900). 1680 legacy_unresolved entries promoted to legacy_retained. 10 entry classification(s) changed this build.",
   "entries": [
     {
       "id": "BLD2-00000",
@@ -54942,22 +55003,6 @@
       "body_length": 146
     },
     {
-      "id": "BLD2-07189",
-      "term": "IV",
-      "original_term": null,
-      "entry_type": "verified_main",
-      "body_source": "rebuilt",
-      "body_length": 481
-    },
-    {
-      "id": "BLD2-07190",
-      "term": "IV)",
-      "original_term": null,
-      "entry_type": "verified_main",
-      "body_source": "rebuilt",
-      "body_length": 77
-    },
-    {
       "id": "BLD2-07200",
       "term": "JAC",
       "original_term": null,
@@ -79062,14 +79107,6 @@
       "body_length": 650
     },
     {
-      "id": "BLD2-10426",
-      "term": "QO",
-      "original_term": null,
-      "entry_type": "verified_main",
-      "body_source": "rebuilt",
-      "body_length": 219
-    },
-    {
       "id": "BLD2-10427",
       "term": "QU",
       "original_term": null,
@@ -80030,52 +80067,12 @@
       "body_length": 207
     },
     {
-      "id": "BLD2-10556",
-      "term": "R.&",
-      "original_term": null,
-      "entry_type": "verified_main",
-      "body_source": "rebuilt",
-      "body_length": 185
-    },
-    {
-      "id": "BLD2-10558",
-      "term": "R.A",
-      "original_term": null,
-      "entry_type": "verified_main",
-      "body_source": "rebuilt",
-      "body_length": 356
-    },
-    {
-      "id": "BLD2-10559",
-      "term": "R.C",
-      "original_term": null,
-      "entry_type": "verified_main",
-      "body_source": "rebuilt",
-      "body_length": 711
-    },
-    {
-      "id": "BLD2-10561",
-      "term": "R.I",
-      "original_term": null,
-      "entry_type": "verified_main",
-      "body_source": "rebuilt",
-      "body_length": 166
-    },
-    {
       "id": "BLD2-10562",
       "term": "R.J,&P",
       "original_term": null,
       "entry_type": "legacy_retained",
       "body_source": "legacy",
       "body_length": 51
-    },
-    {
-      "id": "BLD2-10563",
-      "term": "R.L",
-      "original_term": null,
-      "entry_type": "verified_main",
-      "body_source": "rebuilt",
-      "body_length": 37
     },
     {
       "id": "BLD2-10564",
@@ -93438,14 +93435,6 @@
       "body_length": 141
     },
     {
-      "id": "BLD2-12318",
-      "term": "T",
-      "original_term": null,
-      "entry_type": "verified_main",
-      "body_source": "rebuilt",
-      "body_length": 34
-    },
-    {
       "id": "BLD2-12319",
       "term": "T E R R I T O R I A L C O U R T S",
       "original_term": null,
@@ -97636,14 +97625,6 @@
       "entry_type": "verified_main",
       "body_source": "rebuilt",
       "body_length": 111
-    },
-    {
-      "id": "BLD2-12886",
-      "term": "U.B",
-      "original_term": null,
-      "entry_type": "verified_main",
-      "body_source": "legacy",
-      "body_length": 211
     },
     {
       "id": "BLD2-12887",

@@ -92323,7 +92323,7 @@
     "id": "BLD2-07189",
     "index": 7189,
     "term": "IV",
-    "entry_type": "verified_main",
+    "entry_type": "fragment_artifact",
     "confidence": 0.99,
     "source_headword": "IV",
     "source_pages": [
@@ -92331,14 +92331,16 @@
     ],
     "flags": [
       "embedded_caps_subentry",
-      "zythum_bleed"
-    ]
+      "zythum_bleed",
+      "oor_suppressed"
+    ],
+    "note": "Suppressed: out-of-range source page, fragment/bleed artifact (triage 2026-03-25)"
   },
   {
     "id": "BLD2-07190",
     "index": 7190,
     "term": "IV)",
-    "entry_type": "verified_main",
+    "entry_type": "fragment_artifact",
     "confidence": 0.9,
     "source_headword": "IV",
     "source_pages": [
@@ -92346,8 +92348,10 @@
     ],
     "flags": [
       "headword_mismatch",
-      "zythum_bleed"
-    ]
+      "zythum_bleed",
+      "oor_suppressed"
+    ],
+    "note": "Suppressed: out-of-range source page, fragment/bleed artifact (triage 2026-03-25)"
   },
   {
     "id": "BLD2-07191",
@@ -134163,13 +134167,16 @@
     "id": "BLD2-10426",
     "index": 10426,
     "term": "QO",
-    "entry_type": "verified_main",
+    "entry_type": "fragment_artifact",
     "confidence": 0.99,
     "source_headword": "QO",
     "source_pages": [
       "867"
     ],
-    "flags": []
+    "flags": [
+      "oor_suppressed"
+    ],
+    "note": "Suppressed: out-of-range source page, fragment/bleed artifact (triage 2026-03-25)"
   },
   {
     "id": "BLD2-10427",
@@ -135875,15 +135882,17 @@
     "id": "BLD2-10556",
     "index": 10556,
     "term": "R.&",
-    "entry_type": "verified_main",
+    "entry_type": "fragment_artifact",
     "confidence": 0.9,
     "source_headword": "R.A",
     "source_pages": [
       "199"
     ],
     "flags": [
-      "headword_mismatch"
-    ]
+      "headword_mismatch",
+      "oor_suppressed"
+    ],
+    "note": "Suppressed: out-of-range source page, fragment/bleed artifact (triage 2026-03-25)"
   },
   {
     "id": "BLD2-10557",
@@ -135903,27 +135912,32 @@
     "id": "BLD2-10558",
     "index": 10558,
     "term": "R.A",
-    "entry_type": "verified_main",
+    "entry_type": "fragment_artifact",
     "confidence": 0.99,
     "source_headword": "R.A",
     "source_pages": [
       "213"
     ],
-    "flags": []
+    "flags": [
+      "oor_suppressed"
+    ],
+    "note": "Suppressed: out-of-range source page, fragment/bleed artifact (triage 2026-03-25)"
   },
   {
     "id": "BLD2-10559",
     "index": 10559,
     "term": "R.C",
-    "entry_type": "verified_main",
+    "entry_type": "fragment_artifact",
     "confidence": 0.9,
     "source_headword": "R.A",
     "source_pages": [
       "235"
     ],
     "flags": [
-      "headword_mismatch"
-    ]
+      "headword_mismatch",
+      "oor_suppressed"
+    ],
+    "note": "Suppressed: out-of-range source page, fragment/bleed artifact (triage 2026-03-25)"
   },
   {
     "id": "BLD2-10560",
@@ -135945,13 +135959,16 @@
     "id": "BLD2-10561",
     "index": 10561,
     "term": "R.I",
-    "entry_type": "verified_main",
+    "entry_type": "fragment_artifact",
     "confidence": 0.99,
     "source_headword": "R.I",
     "source_pages": [
       "313"
     ],
-    "flags": []
+    "flags": [
+      "oor_suppressed"
+    ],
+    "note": "Suppressed: out-of-range source page, fragment/bleed artifact (triage 2026-03-25)"
   },
   {
     "id": "BLD2-10562",
@@ -135971,7 +135988,7 @@
     "id": "BLD2-10563",
     "index": 10563,
     "term": "R.L",
-    "entry_type": "verified_main",
+    "entry_type": "fragment_artifact",
     "confidence": 0.9,
     "source_headword": "R.A",
     "source_pages": [
@@ -135979,8 +135996,10 @@
     ],
     "flags": [
       "headword_mismatch",
-      "short_body"
-    ]
+      "short_body",
+      "oor_suppressed"
+    ],
+    "note": "Suppressed: out-of-range source page, fragment/bleed artifact (triage 2026-03-25)"
   },
   {
     "id": "BLD2-10564",
@@ -158709,7 +158728,7 @@
     "id": "BLD2-12318",
     "index": 12318,
     "term": "T",
-    "entry_type": "verified_main",
+    "entry_type": "fragment_artifact",
     "confidence": 0.9,
     "source_headword": "TT",
     "source_pages": [
@@ -158717,8 +158736,10 @@
     ],
     "flags": [
       "headword_mismatch",
-      "short_body"
-    ]
+      "short_body",
+      "oor_suppressed"
+    ],
+    "note": "Suppressed: out-of-range source page, fragment/bleed artifact (triage 2026-03-25)"
   },
   {
     "id": "BLD2-12319",
@@ -166060,15 +166081,17 @@
     "id": "BLD2-12886",
     "index": 12886,
     "term": "U.B",
-    "entry_type": "verified_main",
+    "entry_type": "fragment_artifact",
     "confidence": 0.9,
     "source_headword": "U.S",
     "source_pages": [
       "1151"
     ],
     "flags": [
-      "headword_mismatch"
-    ]
+      "headword_mismatch",
+      "oor_suppressed"
+    ],
+    "note": "Suppressed: out-of-range source page, fragment/bleed artifact (triage 2026-03-25)"
   },
   {
     "id": "BLD2-12887",

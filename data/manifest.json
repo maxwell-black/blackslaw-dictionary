@@ -33,7 +33,7 @@
   },
   "I": {
     "file": "data/entries_i.json",
-    "count": 642
+    "count": 640
   },
   "J": {
     "file": "data/entries_j.json",
@@ -65,11 +65,11 @@
   },
   "Q": {
     "file": "data/entries_q.json",
-    "count": 122
+    "count": 121
   },
   "R": {
     "file": "data/entries_r.json",
-    "count": 653
+    "count": 648
   },
   "S": {
     "file": "data/entries_s.json",
@@ -77,11 +77,11 @@
   },
   "T": {
     "file": "data/entries_t.json",
-    "count": 524
+    "count": 523
   },
   "U": {
     "file": "data/entries_u.json",
-    "count": 154
+    "count": 153
   },
   "V": {
     "file": "data/entries_v.json",
