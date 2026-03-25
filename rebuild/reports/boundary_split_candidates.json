@@ -1,0 +1,950 @@
+{
+  "total_detections": 234,
+  "confirmed_trims": 102,
+  "confirmed_new": 47,
+  "body_corrections_added": 138,
+  "overlay_entries_added": 47,
+  "trims": [
+    {
+      "parent": "SANG",
+      "embedded": "SANGUINE",
+      "old_len": 853,
+      "new_len": 30
+    },
+    {
+      "parent": "CUR",
+      "embedded": "CURA",
+      "old_len": 1330,
+      "new_len": 31
+    },
+    {
+      "parent": "PARCUS",
+      "embedded": "PARDON",
+      "old_len": 1825,
+      "new_len": 51
+    },
+    {
+      "parent": "CONCURATOR",
+      "embedded": "CONOURRENCE",
+      "old_len": 674,
+      "new_len": 53
+    },
+    {
+      "parent": "ANNUUS",
+      "embedded": "ANOMALOUS",
+      "old_len": 503,
+      "new_len": 56
+    },
+    {
+      "parent": "AROMATARIUS",
+      "embedded": "ARPEN",
+      "old_len": 671,
+      "new_len": 57
+    },
+    {
+      "parent": "INDEBITUM",
+      "embedded": "INDEBTEDNESS",
+      "old_len": 588,
+      "new_len": 57
+    },
+    {
+      "parent": "BESAILE",
+      "embedded": "BESAYEL",
+      "old_len": 347,
+      "new_len": 58
+    },
+    {
+      "parent": "RUNCINUS",
+      "embedded": "RUNDLET",
+      "old_len": 172,
+      "new_len": 64
+    },
+    {
+      "parent": "GARD",
+      "embedded": "GARDEIN",
+      "old_len": 589,
+      "new_len": 66
+    },
+    {
+      "parent": "INEST",
+      "embedded": "INEVITABLE",
+      "old_len": 1921,
+      "new_len": 66
+    },
+    {
+      "parent": "INJURIOUS WORDS",
+      "embedded": "INJURY",
+      "old_len": 2428,
+      "new_len": 67
+    },
+    {
+      "parent": "LAHSLIT",
+      "embedded": "LAHMAN",
+      "old_len": 143,
+      "new_len": 67
+    },
+    {
+      "parent": "STRAMINEUS",
+      "embedded": "STRAND",
+      "old_len": 293,
+      "new_len": 76
+    },
+    {
+      "parent": "SEIGNIORY",
+      "embedded": "SEISED IN DEMESNE AS OF FEE",
+      "old_len": 825,
+      "new_len": 77
+    },
+    {
+      "parent": "MERX",
+      "embedded": "MESSAGE",
+      "old_len": 203,
+      "new_len": 81
+    },
+    {
+      "parent": "AGISTATIO",
+      "embedded": "AGISTERS",
+      "old_len": 194,
+      "new_len": 84
+    },
+    {
+      "parent": "BOSCUS",
+      "embedded": "BOTE",
+      "old_len": 768,
+      "new_len": 84
+    },
+    {
+      "parent": "THEOF",
+      "embedded": "THEOWES",
+      "old_len": 180,
+      "new_len": 86
+    },
+    {
+      "parent": "IMPRUIARE",
+      "embedded": "IMPUBES",
+      "old_len": 246,
+      "new_len": 87
+    },
+    {
+      "parent": "PASSAGIUM",
+      "embedded": "PASSATOR",
+      "old_len": 217,
+      "new_len": 87
+    },
+    {
+      "parent": "QUINSTEME",
+      "embedded": "QUINTAL",
+      "old_len": 175,
+      "new_len": 88
+    },
+    {
+      "parent": "STERLING",
+      "embedded": "STET BILLA",
+      "old_len": 860,
+      "new_len": 88
+    },
+    {
+      "parent": "ADDITIONALES",
+      "embedded": "ADDONE",
+      "old_len": 134,
+      "new_len": 91
+    },
+    {
+      "parent": "LASHITE",
+      "embedded": "LAST",
+      "old_len": 1911,
+      "new_len": 91
+    },
+    {
+      "parent": "AURUM",
+      "embedded": "AUTER",
+      "old_len": 407,
+      "new_len": 97
+    },
+    {
+      "parent": "AURUM REGIS",
+      "embedded": "AUTER",
+      "old_len": 407,
+      "new_len": 97
+    },
+    {
+      "parent": "ALNETUM",
+      "embedded": "ALODE",
+      "old_len": 190,
+      "new_len": 98
+    },
+    {
+      "parent": "LAC",
+      "embedded": "LACE",
+      "old_len": 896,
+      "new_len": 101
+    },
+    {
+      "parent": "SELECT",
+      "embedded": "SELECTI JUDICES",
+      "old_len": 296,
+      "new_len": 102
+    },
+    {
+      "parent": "ROBE",
+      "embedded": "ROBERDSMEN",
+      "old_len": 530,
+      "new_len": 103
+    },
+    {
+      "parent": "GRAFFER",
+      "embedded": "GRAFFIUM",
+      "old_len": 188,
+      "new_len": 106
+    },
+    {
+      "parent": "BOTHAGIUM",
+      "embedded": "BOTHNA",
+      "old_len": 306,
+      "new_len": 124
+    },
+    {
+      "parent": "BRACINUM",
+      "embedded": "BRAHMIN",
+      "old_len": 212,
+      "new_len": 124
+    },
+    {
+      "parent": "LIBERI",
+      "embedded": "LIBERTAS",
+      "old_len": 1008,
+      "new_len": 141
+    },
+    {
+      "parent": "SOBRE-JUEZES",
+      "embedded": "SOC",
+      "old_len": 310,
+      "new_len": 150
+    },
+    {
+      "parent": "UNUS FLATU",
+      "embedded": "UNQUES",
+      "old_len": 284,
+      "new_len": 150
+    },
+    {
+      "parent": "DEBT, FOREIGN",
+      "embedded": "DEBT",
+      "old_len": 182,
+      "new_len": 153
+    },
+    {
+      "parent": "EXCAMBIUM",
+      "embedded": "EXCELLENCY",
+      "old_len": 356,
+      "new_len": 153
+    },
+    {
+      "parent": "DEAD'S PART",
+      "embedded": "DEATH",
+      "old_len": 1900,
+      "new_len": 155
+    },
+    {
+      "parent": "LIGEANCE",
+      "embedded": "LIGEANTIA",
+      "old_len": 553,
+      "new_len": 158
+    },
+    {
+      "parent": "MEGBOTE",
+      "embedded": "MEINY",
+      "old_len": 298,
+      "new_len": 163
+    },
+    {
+      "parent": "DOE",
+      "embedded": "DOER",
+      "old_len": 226,
+      "new_len": 164
+    },
+    {
+      "parent": "POLYGARCHY",
+      "embedded": "POMARIUM",
+      "old_len": 221,
+      "new_len": 164
+    },
+    {
+      "parent": "LITIGATE",
+      "embedded": "LITIGIOSITY",
+      "old_len": 489,
+      "new_len": 169
+    },
+    {
+      "parent": "HALYWERCFOLK",
+      "embedded": "HAMA",
+      "old_len": 286,
+      "new_len": 171
+    },
+    {
+      "parent": "MANBOTE",
+      "embedded": "MANCA",
+      "old_len": 269,
+      "new_len": 171
+    },
+    {
+      "parent": "VARA",
+      "embedded": "VARDA",
+      "old_len": 283,
+      "new_len": 174
+    },
+    {
+      "parent": "PARQUET",
+      "embedded": "PARRICIDE",
+      "old_len": 273,
+      "new_len": 181
+    },
+    {
+      "parent": "SATURDAY'S STOP",
+      "embedded": "SAUNKEFIN",
+      "old_len": 333,
+      "new_len": 187
+    },
+    {
+      "parent": "TOURN",
+      "embedded": "TOUT",
+      "old_len": 573,
+      "new_len": 192
+    },
+    {
+      "parent": "ERTY",
+      "embedded": "QUALIFY",
+      "old_len": 778,
+      "new_len": 198
+    },
+    {
+      "parent": "TOLLS",
+      "embedded": "TOLLSESTER",
+      "old_len": 331,
+      "new_len": 210
+    },
+    {
+      "parent": "ART AND PART",
+      "embedded": "ARTHEL",
+      "old_len": 463,
+      "new_len": 223
+    },
+    {
+      "parent": "MANDAMIENTO",
+      "embedded": "MANDAMUS",
+      "old_len": 2509,
+      "new_len": 235
+    },
+    {
+      "parent": "BLACK RENTS",
+      "embedded": "BLACK-ROD",
+      "old_len": 434,
+      "new_len": 239
+    },
+    {
+      "parent": "WILLS ACT",
+      "embedded": "WISBY",
+      "old_len": 782,
+      "new_len": 239
+    },
+    {
+      "parent": "MARCHERS",
+      "embedded": "MAROHES",
+      "old_len": 679,
+      "new_len": 255
+    },
+    {
+      "parent": "BANLIEU",
+      "embedded": "BANNI",
+      "old_len": 378,
+      "new_len": 259
+    },
+    {
+      "parent": "STENOGRAPHER",
+      "embedded": "STEP-DAUGHTER",
+      "old_len": 363,
+      "new_len": 259
+    },
+    {
+      "parent": "SETTLER",
+      "embedded": "SETTLOR",
+      "old_len": 318,
+      "new_len": 260
+    },
+    {
+      "parent": "WITENAGEMOTE",
+      "embedded": "WITENS",
+      "old_len": 341,
+      "new_len": 261
+    },
+    {
+      "parent": "DIGAMA",
+      "embedded": "DIGEST",
+      "old_len": 1400,
+      "new_len": 272
+    },
+    {
+      "parent": "TENTATES",
+      "embedded": "TENTHS",
+      "old_len": 772,
+      "new_len": 280
+    },
+    {
+      "parent": "EXPIRY",
+      "embedded": "EXPLEES",
+      "old_len": 319,
+      "new_len": 285
+    },
+    {
+      "parent": "BULK",
+      "embedded": "BULL",
+      "old_len": 717,
+      "new_len": 289
+    },
+    {
+      "parent": "NATIONALIZACION",
+      "embedded": "NATIONS",
+      "old_len": 344,
+      "new_len": 298
+    },
+    {
+      "parent": "PENDING",
+      "embedded": "PENETRATION",
+      "old_len": 552,
+      "new_len": 304
+    },
+    {
+      "parent": "THEN",
+      "embedded": "THENCE",
+      "old_len": 557,
+      "new_len": 325
+    },
+    {
+      "parent": "PUR",
+      "embedded": "PURCHASE",
+      "old_len": 3849,
+      "new_len": 406
+    },
+    {
+      "parent": "APOSTATA",
+      "embedded": "APOSTILLE",
+      "old_len": 510,
+      "new_len": 426
+    },
+    {
+      "parent": "HIDE",
+      "embedded": "HIDEL",
+      "old_len": 592,
+      "new_len": 492
+    },
+    {
+      "parent": "JUSTICIARY",
+      "embedded": "JUSTICIES",
+      "old_len": 852,
+      "new_len": 492
+    },
+    {
+      "parent": "LOT",
+      "embedded": "LOTTERY",
+      "old_len": 1286,
+      "new_len": 521
+    },
+    {
+      "parent": "ACRE",
+      "embedded": "ACREFIGHT",
+      "old_len": 883,
+      "new_len": 560
+    },
+    {
+      "parent": "ANGUISH",
+      "embedded": "ANHLOTE",
+      "old_len": 794,
+      "new_len": 597
+    },
+    {
+      "parent": "EXCUSAT",
+      "embedded": "EXCUSATIO",
+      "old_len": 1124,
+      "new_len": 600
+    },
+    {
+      "parent": "PICKERY",
+      "embedded": "PICKLE",
+      "old_len": 738,
+      "new_len": 605
+    },
+    {
+      "parent": "INFORTIATUM",
+      "embedded": "INFRA",
+      "old_len": 983,
+      "new_len": 651
+    },
+    {
+      "parent": "HURRICANE",
+      "embedded": "HURST",
+      "old_len": 745,
+      "new_len": 673
+    },
+    {
+      "parent": "AIDS",
+      "embedded": "AIEL",
+      "old_len": 1018,
+      "new_len": 689
+    },
+    {
+      "parent": "CHEATERS",
+      "embedded": "CHECK",
+      "old_len": 3131,
+      "new_len": 706
+    },
+    {
+      "parent": "INDENTURE",
+      "embedded": "INDEPENDENCE",
+      "old_len": 986,
+      "new_len": 721
+    },
+    {
+      "parent": "ACTUS",
+      "embedded": "AOTUS",
+      "old_len": 3263,
+      "new_len": 737
+    },
+    {
+      "parent": "NATURALE",
+      "embedded": "NATURALEZA",
+      "old_len": 857,
+      "new_len": 742
+    },
+    {
+      "parent": "CHIROGRAPH",
+      "embedded": "CHIROGRAPHA",
+      "old_len": 1887,
+      "new_len": 870
+    },
+    {
+      "parent": "STOPPAGE IN TRANSITU",
+      "embedded": "STORE",
+      "old_len": 1516,
+      "new_len": 880
+    },
+    {
+      "parent": "ARRESTMENT",
+      "embedded": "ARRET",
+      "old_len": 1237,
+      "new_len": 940
+    },
+    {
+      "parent": "TALLEY",
+      "embedded": "TALLIA",
+      "old_len": 1090,
+      "new_len": 975
+    },
+    {
+      "parent": "QUALIFIED WORTER",
+      "embedded": "QUALIFY",
+      "old_len": 1565,
+      "new_len": 984
+    },
+    {
+      "parent": "EXPOSE",
+      "embedded": "EXPOSITIO",
+      "old_len": 1292,
+      "new_len": 1012
+    },
+    {
+      "parent": "RENTE",
+      "embedded": "RENTS",
+      "old_len": 1359,
+      "new_len": 1135
+    },
+    {
+      "parent": "INFORMALITY",
+      "embedded": "INFORMATUS NON SUM",
+      "old_len": 1803,
+      "new_len": 1575
+    },
+    {
+      "parent": "PEACE",
+      "embedded": "PECULIARS",
+      "old_len": 2243,
+      "new_len": 1578
+    },
+    {
+      "parent": "BIGAMY",
+      "embedded": "BIGOT",
+      "old_len": 2152,
+      "new_len": 2055
+    },
+    {
+      "parent": "PROCLAMATION",
+      "embedded": "PROCLAMATOR",
+      "old_len": 2198,
+      "new_len": 2133
+    },
+    {
+      "parent": "SUIT",
+      "embedded": "SUITAS",
+      "old_len": 2402,
+      "new_len": 2267
+    },
+    {
+      "parent": "EVICTION",
+      "embedded": "EVIDENCE",
+      "old_len": 21832,
+      "new_len": 2745
+    },
+    {
+      "parent": "SENTENCE",
+      "embedded": "SENTENTIA",
+      "old_len": 4357,
+      "new_len": 3252
+    },
+    {
+      "parent": "SETTLEMENT",
+      "embedded": "SETTLOR",
+      "old_len": 3392,
+      "new_len": 3334
+    },
+    {
+      "parent": "DEPOSIT",
+      "embedded": "DEPOSITATION",
+      "old_len": 6563,
+      "new_len": 4763
+    },
+    {
+      "parent": "ACCOUNT",
+      "embedded": "ACCOUNTABLE",
+      "old_len": 5582,
+      "new_len": 5364
+    }
+  ],
+  "new_entries": [
+    {
+      "parent": "ABISHERING",
+      "headword": "ABJUDICATIO",
+      "body_len": 183
+    },
+    {
+      "parent": "ALFET",
+      "headword": "ALGARUM MARIS",
+      "body_len": 262
+    },
+    {
+      "parent": "ARRESTMENT",
+      "headword": "ARRESTO FACTO SUPER BONIS MERCATORUM ALIENIGENORUM",
+      "body_len": 284
+    },
+    {
+      "parent": "BLENCH",
+      "headword": "BLEND",
+      "body_len": 186
+    },
+    {
+      "parent": "CHAMPART",
+      "headword": "CHAMPERT",
+      "body_len": 255
+    },
+    {
+      "parent": "CHIROGRAPH",
+      "headword": "CHIROGRAPHER OF FINES",
+      "body_len": 152
+    },
+    {
+      "parent": "CONSULAR",
+      "headword": "CONSULTA ECCLESIA",
+      "body_len": 61
+    },
+    {
+      "parent": "CONTRAINTE",
+      "headword": "CONTRAMANDATIO",
+      "body_len": 389
+    },
+    {
+      "parent": "CONTRALIGATIO",
+      "headword": "CONTRAMANDATUM",
+      "body_len": 138
+    },
+    {
+      "parent": "CULPABLE",
+      "headword": "CULPRIT",
+      "body_len": 1043
+    },
+    {
+      "parent": "DAILY",
+      "headword": "DALUS",
+      "body_len": 134
+    },
+    {
+      "parent": "DI COLONNA",
+      "headword": "DI ET FI",
+      "body_len": 90
+    },
+    {
+      "parent": "DIVIDEND",
+      "headword": "DIVIDENDA",
+      "body_len": 62
+    },
+    {
+      "parent": "DOE",
+      "headword": "DOED-BANE",
+      "body_len": 51
+    },
+    {
+      "parent": "EASTINUS",
+      "headword": "EAT INDE SINE DIE",
+      "body_len": 169
+    },
+    {
+      "parent": "ELEEMOSYNARIUS",
+      "headword": "ELEEMOSYNARY",
+      "body_len": 106
+    },
+    {
+      "parent": "EMPTIO REI SPERATA",
+      "headword": "EN ARERE",
+      "body_len": 35
+    },
+    {
+      "parent": "EN JUICIO",
+      "headword": "EN MORT MAIN",
+      "body_len": 152
+    },
+    {
+      "parent": "ENTREGA",
+      "headword": "ENTREPOT",
+      "body_len": 236
+    },
+    {
+      "parent": "FLEM",
+      "headword": "FLEMENE FRIT",
+      "body_len": 89
+    },
+    {
+      "parent": "HYPOTHECA",
+      "headword": "HYPOTHECARIA ACTIO",
+      "body_len": 339
+    },
+    {
+      "parent": "IMAGINE",
+      "headword": "IMAN",
+      "body_len": 118
+    },
+    {
+      "parent": "INDICTOR",
+      "headword": "INDIGENA",
+      "body_len": 151
+    },
+    {
+      "parent": "INFORTIATUM",
+      "headword": "INFRA ANNOS NUBILES",
+      "body_len": 54
+    },
+    {
+      "parent": "INNOVANCY",
+      "headword": "INNOVARE",
+      "body_len": 478
+    },
+    {
+      "parent": "INQUEST OF VIOLENCE",
+      "headword": "INQUIETUDE",
+      "body_len": 82
+    },
+    {
+      "parent": "MAJORA",
+      "headword": "MAJORES",
+      "body_len": 264
+    },
+    {
+      "parent": "MANCIPAT",
+      "headword": "MANCUS",
+      "body_len": 89
+    },
+    {
+      "parent": "OPERATIO",
+      "headword": "OPERATION",
+      "body_len": 1058
+    },
+    {
+      "parent": "PREMUNIRE",
+      "headword": "PRENDA",
+      "body_len": 55
+    },
+    {
+      "parent": "PROHIBITED",
+      "headword": "PROHIBITIO DE VASTO",
+      "body_len": 139
+    },
+    {
+      "parent": "RECOGNITION",
+      "headword": "RECOGNITIONE ADNULLANDA PER VIM ET DURITIEM FACTA",
+      "body_len": 229
+    },
+    {
+      "parent": "REGENCY",
+      "headword": "REGENT",
+      "body_len": 484
+    },
+    {
+      "parent": "RESIDENCE",
+      "headword": "RESIDENT",
+      "body_len": 1007
+    },
+    {
+      "parent": "SAILORS",
+      "headword": "SAINT MARTIN LE GRAND",
+      "body_len": 117
+    },
+    {
+      "parent": "SANG",
+      "headword": "SANGUINEM EMERE",
+      "body_len": 288
+    },
+    {
+      "parent": "SANG",
+      "headword": "SANGUIS",
+      "body_len": 190
+    },
+    {
+      "parent": "SCAPHA",
+      "headword": "SOCAVAGE",
+      "body_len": 244
+    },
+    {
+      "parent": "SECT",
+      "headword": "SECTATORES",
+      "body_len": 143
+    },
+    {
+      "parent": "SPECIFICATIO",
+      "headword": "SPECIFICATION",
+      "body_len": 1065
+    },
+    {
+      "parent": "STRADDLE",
+      "headword": "STRAMINEUS HOMO",
+      "body_len": 75
+    },
+    {
+      "parent": "TOURN",
+      "headword": "TOUT TEMPS PRIST",
+      "body_len": 193
+    },
+    {
+      "parent": "TRINEPTIS",
+      "headword": "TRINITY HOUSE",
+      "body_len": 589
+    },
+    {
+      "parent": "WINDING",
+      "headword": "WINDING-UP ACTS",
+      "body_len": 645
+    },
+    {
+      "parent": "YIELD",
+      "headword": "YIELDING AND PAYING",
+      "body_len": 129
+    },
+    {
+      "parent": "DE ANNO BISSEXTILI",
+      "headword": "DE ANNUA PENSIONE",
+      "body_len": 271
+    },
+    {
+      "parent": "DE ARTE ET PARTE",
+      "headword": "DE ASPORTATIS RELIGIOSORUM",
+      "body_len": 267
+    }
+  ],
+  "uncertain": [
+    {
+      "parent": "BODILY",
+      "headword": "BODMERIE",
+      "reason": "in_overlay"
+    },
+    {
+      "parent": "CHAIRMAN",
+      "headword": "CHALDRON",
+      "reason": "in_overlay"
+    },
+    {
+      "parent": "CHAIRMAN OF COMMITTEES OF THE WHOLE HOUSE",
+      "headword": "CHALDRON",
+      "reason": "in_overlay"
+    },
+    {
+      "parent": "CHEATERS",
+      "headword": "CHEOK",
+      "reason": "in_overlay"
+    },
+    {
+      "parent": "DEFEAT",
+      "headword": "DEFEOT",
+      "reason": "in_overlay"
+    },
+    {
+      "parent": "EBDOMADARIUS",
+      "headword": "EBEREMORTH",
+      "reason": "in_overlay"
+    },
+    {
+      "parent": "EXPLEES",
+      "headword": "EXPLETA",
+      "reason": "in_overlay"
+    },
+    {
+      "parent": "LANDA",
+      "headword": "LANDAGENDE",
+      "reason": "in_overlay"
+    },
+    {
+      "parent": "LUCRATIVE",
+      "headword": "LUORATUS",
+      "reason": "in_overlay"
+    },
+    {
+      "parent": "MAINTENANCE",
+      "headword": "MAIOR",
+      "reason": "in_overlay"
+    },
+    {
+      "parent": "NICKNAME",
+      "headword": "NIDERLING",
+      "reason": "in_overlay"
+    },
+    {
+      "parent": "OUTLOT",
+      "headword": "OUTPARTERS",
+      "reason": "in_overlay"
+    },
+    {
+      "parent": "SANCTIO",
+      "headword": "SANOTION",
+      "reason": "in_overlay"
+    },
+    {
+      "parent": "SCEPPA SALIS",
+      "headword": "SOHAR-PENNY",
+      "reason": "in_overlay"
+    },
+    {
+      "parent": "SEXUAL",
+      "headword": "AND PERVERSION OF",
+      "reason": "in_overlay"
+    },
+    {
+      "parent": "SPONDEO",
+      "headword": "SPONSALIA",
+      "reason": "in_overlay"
+    },
+    {
+      "parent": "SUBSTITUTION",
+      "headword": "SUBSTITUTIONAL",
+      "reason": "in_overlay"
+    },
+    {
+      "parent": "VELTRARIA",
+      "headword": "VELTRARIUS",
+      "reason": "in_overlay"
+    }
+  ]
+}

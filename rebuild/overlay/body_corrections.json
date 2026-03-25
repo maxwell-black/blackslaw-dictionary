@@ -299,5 +299,695 @@
     "body": "See ONERARI.",
     "_source": "ocr_crossref_correction",
     "reason": "Garbled OCR cross-reference corrected: O. Nr.->ONERARI"
+  },
+  "SANG": {
+    "body": "or SANO. In old French. Blood.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'SANGUINE' from body"
+  },
+  "CUR": {
+    "body": "A common abbreviation of curta.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'CURA' from body"
+  },
+  "PARCUS": {
+    "body": "A park, (g. v.) <A pound for\nstray cattle. Spelman.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'PARDON' from body"
+  },
+  "CONCURATOR": {
+    "body": "In the civil law. A\njoint or co-curator, or guardian.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'CONOURRENCE' from body"
+  },
+  "ANNUUS": {
+    "body": "A yearly rent; annuity. 2 BI. Comm. 41;\nReg. Orig. 158).",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'ANOMALOUS' from body"
+  },
+  "AROMATARIUS": {
+    "body": "A word formerly used\nfor a grocer. 1 Vent. 142,\n\n87 ARRAS",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'ARPEN' from body"
+  },
+  "INDEBITUM": {
+    "body": "In the civil law. Not due\nor owing. (Dig. 12, 6.) Calvin.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'INDEBTEDNESS' from body"
+  },
+  "BESAILE": {
+    "body": "BESEAYLE. The great-grandfather, proavus. 1 Bl. Comm. 186.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'BESAYEL' from body"
+  },
+  "RUNCINUS": {
+    "body": "In old English law. A\nload-horse; a sumpter-horse or cart-horse.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'RUNDLET' from body"
+  },
+  "GARD": {
+    "body": "or GARDE. L. Fr. Wardship;\ncare; custody; also the ward of a city.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'GARDEIN' from body"
+  },
+  "INEST": {
+    "body": "INEST DE JURE, Lat.\nright; it is implied by law.\n\nIt is implied of",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'INEVITABLE' from body"
+  },
+  "INJURIOUS WORDS": {
+    "body": "In Louisiana.\nSlander, or libelous words. Civil Code La.\nart. 3501.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'INJURY' from body"
+  },
+  "LAHSLIT": {
+    "body": "A breach of law. Cowell.\nA mulct for an offense, viz., twelve ores.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'LAHMAN' from body"
+  },
+  "STRAMINEUS": {
+    "body": "L. Lat. A man\nof straw, one 'of no substance, put forward as\nbail or surety.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'STRAND' from body"
+  },
+  "SEIGNIORY": {
+    "body": "In English law. A lordship; a manor. The rights of a lord, as\nsuch, in lands.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'SEISED IN DEMESNE AS OF FEE' from body"
+  },
+  "MERX": {
+    "body": "Lat. Merchandise; movable ar.\nticles that are bought and sold; articles of\ntrade.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'MESSAGE' from body"
+  },
+  "AGISTATIO": {
+    "body": "AGISTATIO ANIMALIUM IN FORESTA\nESTA. The drift or numbering of cattle in\nthe forest.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'AGISTERS' from body"
+  },
+  "BOSCUS": {
+    "body": "Wood; growing wood of any\nkind, large or small, timber or coppice. Cow-\n\nell; Jacob:",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'BOTE' from body"
+  },
+  "THEOF": {
+    "body": "In Saxon law. Offenders who\njoined in a body of seven to commit depredations. Wharton.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'THEOWES' from body"
+  },
+  "IMPRUIARE": {
+    "body": "In old records. To improve land. Impruiamentum, the improve\nment so made of it. Cowell.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'IMPUBES' from body"
+  },
+  "PASSAGIUM": {
+    "body": "A voyage or expedition to the Holy Land made by the kings\nof England in person. Cowell.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'PASSATOR' from body"
+  },
+  "QUINSTEME": {
+    "body": "or QUINZIME. Fifteenths; also the fifteenth day after a festival. 13 Edw. I. See Cowell.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'QUINTAL' from body"
+  },
+  "STERLING": {
+    "body": "In English law. Current\nor standard coin, especially silver coin; a\nstandard of coinage.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'STET BILLA' from body"
+  },
+  "ADDITIONALES": {
+    "body": "In the law of contracts. Additional terms or propositions to\nbe added toa former agreement.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'ADDONE' from body"
+  },
+  "LASHITE": {
+    "body": "or LASHLITE. A kind of\nforfeiture during the government of the\nDanes in England. Enc. Lond.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'LAST' from body"
+  },
+  "AURUM": {
+    "body": "Queen's gold. A\nroyal revenue belonging to every queen consort during her marriage with the king.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'AUTER' from body"
+  },
+  "AURUM REGIS": {
+    "body": "Queen's gold. A\nroyal revenue belonging to every queen consort during her marriage with the king.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'AUTER' from body"
+  },
+  "ALNETUM": {
+    "body": "In old records, a place where\nalders grow, or a grove of alder trees,\nDoomsday Book; Co. Litt. 40.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'ALODE' from body"
+  },
+  "LAC": {
+    "body": "LAK. In Indian computation,\n100,000. The value of a lac of rupees is\nabout £10,000 sterling. Wharton.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'LACE' from body"
+  },
+  "SELECT": {
+    "body": "SELECT COUNCIL. The name given,\nin some states, to the upper house or branch\nof the council of a city.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'SELECTI JUDICES' from body"
+  },
+  "ROBE": {
+    "body": "Fr. <A word anciently used by\nsailors for the cargo of a ship. The Italia\n\"robe\" had the same meaning..",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'ROBERDSMEN' from body"
+  },
+  "GRAFFER": {
+    "body": "A notary or scrivener. See\nSt. 5 Hen. VIIL c 1. The word is a corruption of the French \"greffier,\" (g. v.)",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'GRAFFIUM' from body"
+  },
+  "BOTHAGIUM": {
+    "body": "or BOOTHAGE. Customary dues paid to the lord of a manor or soil, for the pitching or standing of booths in fairs or markets.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'BOTHNA' from body"
+  },
+  "BRACINUM": {
+    "body": "A brewing; the whole\nquantity of ale brewed at one time, for which\ntolsestor was paid in some manors. Brecina,\na brew-house.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'BRAHMIN' from body"
+  },
+  "LIBERI": {
+    "body": "Im Saxon law. Freemen; the\npossessors of allodial lands. 1 Reeve, Eng.\nLaw, 5.\nIm the civil law. Children. The term\nincluded \"grandchildren.\"",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'LIBERTAS' from body"
+  },
+  "SOBRE-JUEZES": {
+    "body": "In Spanish law. Superior judges. Las Partidas, pt. 3, tit. +\n\nSOBRINI and SOBRINZ. Lat. In the\ncivil law. The children of cousins german\nin general. /",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'SOC' from body"
+  },
+  "UNUS FLATU": {
+    "body": "Lat. In one breath. 3\nMan. & G. 45. Unus flatu, et uno intuitu,\nat one breath, and in one view. Pope v.\nNickerson, 3 Story, 504, Fed. Cas. No. 11,274.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'UNQUES' from body"
+  },
+  "DEBT, FOREIGN": {
+    "body": "In Louisiana law,\na debt which is due by a foreign judgment,\nand which has not been merged into a judgment of a Louisiana court. Civ. Code La.\nart. 3496.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'DEBT' from body"
+  },
+  "EXCAMBIUM": {
+    "body": "An exchange; a place\nwhere merchants meet to transact their business; also an equivalent in recompense; a\nrecompense in lieu of dower ad ostium ecclesto.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'EXCELLENCY' from body"
+  },
+  "DEAD'S PART": {
+    "body": "In Scotch law. The\npart remaining over beyond the shares secured to the widow and children by law. Of\nthis the testator had the unqualified disposal.\nBell.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'DEATH' from body"
+  },
+  "LIGEANCE": {
+    "body": "Allegiance; the faithful\nobedience of a subject to his sovereign, of a\ncitizen to his government. Also, derivatively, the territory of a state or soverelgnty.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'LIGEANTIA' from body"
+  },
+  "MEGBOTE": {
+    "body": "In Saxon law. A recompense for the murder of a relation.\n\nMEIGNE, or MAISN ADER, Inold jigs\nlish law. A family.\n\nMinority;\nMEINDRE AGE. L. Fr.\nlesser age. MKelham.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'MEINY' from body"
+  },
+  "DOE": {
+    "body": "JOHN. The name of the fictitious\nplaintiff in the action of ejectment. 3 Steph.\nComm. 618.\n\nDOED-BANE\nDOED-BANE. In Saxon law. The actual perpetrator of a homicide.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'DOER' from body"
+  },
+  "POLYGARCHY": {
+    "body": "A term sometimes used\nto denote a government of many or several;\na government where the sovereignty is shared by several persons; a collegiate or divided\nexecutive.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'POMARIUM' from body"
+  },
+  "LITIGATE": {
+    "body": "To dispute or contend in\nform of law; to carry on a suit.\n\n' LITIGATION. A_ judicial controversy.\nA 'contest in a court of justice, for the purpose of enforcing a right.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'LITIGIOSITY' from body"
+  },
+  "HALYWERCFOLK": {
+    "body": "Sax. In old English Jaw. Tenants who held land by the\nservice of repairing or defending a church or\nmonument, whereby they were exempted from\nfeudal and military services.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'HAMA' from body"
+  },
+  "MANBOTE": {
+    "body": "In Saxon law. A compensation or recompense for homicide, particularly\ndue to the lord for killing his man or vassal,\nthe amount of which was regulated by that\nof the were.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'MANCA' from body"
+  },
+  "VARA": {
+    "body": "A Spanish-American measure of\nlength, equal to 33 English inches or a trifle\nmore or less, varying according to local usage. See U. S. v. Perot, 98 U. 8. 428, 25 L.\n'Ed. 251.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'VARDA' from body"
+  },
+  "PARQUET": {
+    "body": "In French law. 1. The\nmagistrates who are charged with the conduct of proceedings in criminal cases and\nmisdemeanors.\n2. That part of the bourse which is reserved for stock-brokers.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'PARRICIDE' from body"
+  },
+  "SATURDAY'S STOP": {
+    "body": "In old English\nlaw. A space of time from even-song on\nSaturday till sun-rising on Monday, in which\nit was not lawful to take salmon in Scotland\n\nand the northern parts of England. Cowell.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'SAUNKEFIN' from body"
+  },
+  "TOURN": {
+    "body": "In old English law. A court\nof record, having criminal jurisdiction, in\neach county, held before the sheriff, twice a\nyear, in one place after another, following a\ncertain circuit or rotation.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'TOUT' from body"
+  },
+  "ERTY": {
+    "body": "—Qualified woter. A person qualified\nto vote generally. In re House Bill No. 166, 9\nColo. 629, 21 Pac. 473. A person qualified and\nSee ae Carroll County v. Smith, 111\n\n4 Sup. Ct. 539, 28 L. Ed. 517.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'QUALIFY' from body"
+  },
+  "TOLLS": {
+    "body": "In a general sense, tolls signify\nany manner of customs, subsidy, prestation,\nimposition, or sum of money demanded for\n\nexporting or importing of: any wares or merchandise -to be taken of the buyer. 2 Inst. 58.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'TOLLSESTER' from body"
+  },
+  "ART AND PART": {
+    "body": "In Scotch law. The\noffense committed by one who aids and assists the commission of a crime, but who is\nnot the principal or chief actor in its actual\ncommission. An accessary. A principal in\nthe second degree. Paters. Comp.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'ARTHEL' from body"
+  },
+  "MANDAMIENTO": {
+    "body": "In Spanish law.\nCommission; authority or power of attorney.\nA contract of good faith, by which one person commits to the gratuitous charge of another his affairs, ayd the latter accepts the\ncharge. White, New Recop. b. 2, tit. 12, c 1.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'MANDAMUS' from body"
+  },
+  "BLACK RENTS": {
+    "body": "In old English law.\nRents reserved in work, grain, provisions, or\nbaser money, in contradistinction to those\nwhich were reserved in white money or silver, which were termed 'white rents,\"\n(redttus albi,) or. blanch farms. Tomlins;\nWhishaw.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'BLACK-ROD' from body"
+  },
+  "WILLS ACT": {
+    "body": "InEngland. 1. The statute 32 Hen. VIII. e 1, passed in 1540, by\nwhich persons seised in fee-simple of lands\nholden in socage tenure were enabled to de\nvise the same at their will and pleasure, except to bodies corporate; and those who held",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'WISBY' from body"
+  },
+  "MARCHERS": {
+    "body": "In old English law. Noblemen who lived on the marshes of Wales\nor Scotland, and who, according to Camden,\nhad their private laws, as if they had been\npetty kings; which were abolished by the\nstatute 27 Hen. VIII. c. 26. Called sa\n\"lords marchers.\" Cowell.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'MAROHES' from body"
+  },
+  "BANLIEU": {
+    "body": "An old law term, signifying a space or tract of country around a\ncity, town, or monastery, distinguished and\nprotected by peculiar privileges. Spelman.\n\nBANLIEU,\nBANLIEU, or BANLIEVE. A French\nand Canadian law term, having the same\nmeaning as banlieu, (q. v.)",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'BANNI' from body"
+  },
+  "STENOGRAPHER": {
+    "body": "One who is skilled\nin the art of short-hand writing; one whose\nbusiness is to write in short-hand. See Rynerson v. Allison, 30 S. C. 584, 9 S. E. 656;\nIn re Appropriations for Deputy State Officers, 25 Neb. 662, 41 N. W. 643; Chase v.\nVandergrift, 88 Pa. 217.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'STEP-DAUGHTER' from body"
+  },
+  "SETTLER": {
+    "body": "A person who, for the pur\npose of acquiring a pre-emption right, has\ngone upon the land in question, and is actually resident there. See Hume v. Gracy, 86\nTex. 671, 27 S. W. 584; Davis v. Young, 2\nDana (Ky.) 299; McIntyre v. Sherwood, 82\nCal. 139, 22 Pac. 987.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'SETTLOR' from body"
+  },
+  "WITENAGEMOTE": {
+    "body": "\"The assembly of\nwise men.\" This was the great national\ncouncil or parliament of the Saxons in Engjand, comprising the noblemen, high ecclesiastics, and other great thanes of the kingdom, advising and aiding the king in the\ngeneral administration of government.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'WITENS' from body"
+  },
+  "DIGAMA": {
+    "body": "or DIGAMY. Second marriage; marriage to a second wife after the\ndeath of the first, as “bigamy,” in law, is\nhaving two wives at once. Originally, a\nman who married a widow, or married again\nafter the death of his wife, was said to be\nguilty of bigamy. Co. Litt. 400, note.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'DIGEST' from body"
+  },
+  "TENTATES": {
+    "body": ".\nThe essay or assay of bread. Blount.\n\n. TENTERDEN'S ACT. In English law.\nThe statute 9 Geo. IV. c. 14, taking its name\nfrom Lord Tenterden, who procured its\nenactment, which is a species of extension\nof the statute of frauds, and requires the\nreduction of contracts to writing.;",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'TENTHS' from body"
+  },
+  "EXPIRY": {
+    "body": "EXPIRY OF THE LEGAL\n\nLitt. 60. Experience by various acts makes\n\nlaw. Experience is the mistress of things.\n\nEXPIRY OF THE LEGAL. In Scotch\nlaw and practice. Expiration of the period\nwithin which an adjudication may be redeemed, by paying the debt In the decree otf\nadjudication. Bell.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'EXPLEES' from body"
+  },
+  "BULK": {
+    "body": "Unbroken packages.\nMerchan-.\ndise which is neither counted, weighed, nor\nmeasured..\nBulk is said of that which is neither counted, weighed, nor measured. A sale by the\nbulk is the sale of a quantity such as It is,\nwithout measuring, counting, or weighing.\nCivil Code La. art. 3556, par. 6.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'BULL' from body"
+  },
+  "NATIONALIZACION": {
+    "body": "In Spanish and\nMexican' law. Nationalization. \"The nationalization of property is an act which denotes that it has become that of the nation by\nsome process of law, whereby private individuals or corporations have been for specified reasons deprived thereof.\" Hall, Mex.\nLaw, § 749.\nNATIONS, LAW OF",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'NATIONS' from body"
+  },
+  "PENDING": {
+    "body": "Begun, but not yet completed; unsettled; undetermined; in process\nof settlement or adjustment. Thus, an action or suit is said to be \"pending\" from its\ninception until the rendition of final judgment. Wentworth v. Farmington, 48 N. H.\n210; Mauney v. Pemberton, 75 N. C. 221;\nEx parte Munford, 57 Mo. 608.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'PENETRATION' from body"
+  },
+  "THEN": {
+    "body": "This word, as an adverb, means\n\"at that time,\" referring to a time specified,\neither past or future. It has no power in\nitself to fix a time. It simply refers to a\ntime already fixed. Mangum v. Piester, 16\nS. C. 329. It may also denote a contingency,\nand be equivalent to \"in that event.\" Pintard v. Irwin, 20 N. J. Law, 505.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'THENCE' from body"
+  },
+  "PUR": {
+    "body": "Fr. By or for. Used both as a\nseparable particle, and in the composition of\nsuch words as “purge,” “purlieu.”\n\n—Pur autre vie. For (or during) the life of\nanother. An estate pur autre vie is an estate\nwhich endures only for the life of some particular person other than the grantee.—Pur cause de vicinage. By reason of neighborhood. See COMMON. —Tant que. Forasmuch as; because; to the intent that. Kelham.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'PURCHASE' from body"
+  },
+  "APOSTATA": {
+    "body": "In civil and old English\nlaw. An apostate; a deserter from the faith;\none who has renounced the Christian pat\nCod. 1, 7; Reg. Orig. 710.\n—Apostata capiendo. An obsolete English\nwrit which issued against an apostate, or one\nwho bad violated the rules of his religious order. It was addressed to the sheriff, and commanded him to deliver the defendant into the\ncustody of the abbot or prior. Reg. Orig. 71,\n267; Jacob; Wharton.;",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'APOSTILLE' from body"
+  },
+  "HIDE": {
+    "body": "In old English law. A measure\n- of land, being as much as could be worked\nwith one plow. It is variously estimated at\nfrom 60 to 100 acres, but was probably determined by local usage. Another meaning\n'was as much land as would support one\nfamily or the dwellers in a mansion-house.\nAlso a house; a dwelling-house.\n—Hide and gain. In English law. A term\nanciently applet to arable land. Co. Litt. 85d.\n—Hide lands.\nIn Saxon law. Lands belonging to a hide; that is, a house or mansion.\nSpelman.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'HIDEL' from body"
+  },
+  "JUSTICIARY": {
+    "body": "An old name for 2 judge\nor justice. The word is formed on the analogy of the Latin \"justictarius' and French\n\"\"Justicter.\"\n\nJUSTICIARY COURT. The chief criminal court of Scotland, consisting of five lords\nof session, added to the justice general and\njustice clerk; of whom the justice general,\nand, in his absence, the justice clerk, is president. This court has a jurisdiction over all\ncrimes, and over the whole of Scotland. Bell.\n~ - 'SJUSTICIATUS |\n\n:JUSTICIATUS. Judicature; prerogative.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'JUSTICIES' from body"
+  },
+  "LOT": {
+    "body": "A small tract or parcel of land in a village, town, or city, suitable\nfor building, or for a garden, or other similar\nuses, See Pilz v. Killingsworth, 20 Or. 432,\n26 Pac. 805; Wilson v. Proctor, 28 Minn. 13,\n8 N. W, 830; Webster v. Little Rock, 44\nArk. 551; Diamond Mach. Co. v. Ortonagon,\n72 Mich. 261, 40 N. W. 448; Fitzgerald y.\nThomas, 61 Mo. 500; Phillipsburgh v. Bruch,\n37 N. J. Eq. 486.\n\nLOTHERWITE, or LEYERWIT. In\nold English law. A liberty or privilege to\ntake amends for lying with a bondwoman\nwithout license.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'LOTTERY' from body"
+  },
+  "ACRE": {
+    "body": "A quantity of land containing\n160 square rods of land, in whatever shape.\nSerg. Land Laws Pa. 185; Cro. Eliz. 476,\n665; 6 Coke, 67; Poph. 55; Co. Litt. 5b.\n\nOriginally the word “acre” (acer, aker, or\nSax. ecer) was not used as a measure of land,\nor to signify any determinate quantity of land,\nbut to denote any open ground, (latum quantum agrum,) wide champaign, or field; which\nis still the meaning of the German acker, derived probably from the same source, and is\nstill seen in the names of some places in England, as Castle Acre, South Acre, etc. Burrill.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'ACREFIGHT' from body"
+  },
+  "ANGUISH": {
+    "body": "Great or extreme pain, agony, or distress, either of body or mind; but,\nas used in law, particularly mental suffering\nor distress of great intensity. Cook v. Raflway Co., 19 Mo. App. 334..\n\n. ANGYLDE. In Saxon law. The rate fixed by law at which certain injuries to, person or property were to be paid for; in mjuries to the person, it seems to be equivalent\nto the \"were,\" 4. é., the price at which every\nman was valued. It seems also to have been\nthe fixed price at which cattle and other\ngoods were received as currency, and to have\nbeen much higher than the market price, or\nceapgild. Wharton.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'ANHLOTE' from body"
+  },
+  "EXCUSAT": {
+    "body": "EXCUSAT AUT EXTENUAT\n\nproper steps at the proper time, not in consequence of the party's own carelessness, inattention, or willful disregard of the process of\nthe court, but in consequence of some unexpected or unavoidable hindrance or accident, or\nreliance on the care and vigilance of his counsel or on promises made by the adverse party.\nSee 1 Bl. Comm. § 340.\n\nExcusat aut extenuat delictum in capitalibus quod non operatur idem in civilibus. Bac. Max. r. 15. That may excuse\nor palliate a wrongful act in capital cases\nwhich would not have the same effect in civil\ninjuries. See Broom, Max. 324.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'EXCUSATIO' from body"
+  },
+  "PICKERY": {
+    "body": "In Sfotch law. Petty theft;\nstealing of trifies, punishable arbitrarily.\nBell.\n\nPICKETING, by members of a_ trade\nunion on strike, consists in posting members\nat all the appruaches to the works struck\nagainst, for the purpose of observing and reporting the workmen going to or coming\nfrom the works, and of using such influence\nas may be in their power to prevent the\nworkmen from accepting 'work there. See\nBeck v. Railway Teamsters' Protective Unfon, 118 Mich. 497, 77 N. W. 13, 42 L. R. A.\n407, 74 Am. St. Rep. 421; Cumberland Glass\nMfg. Co. v. Glass Bottle Blowers' Ass'n, 59\nN. J. Eq. 49, 46 Ath 208.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'PICKLE' from body"
+  },
+  "INFORTIATUM": {
+    "body": "The name given by the\nglossators to the second of the three parts or\nvolumes into which the Pandects were divided. The glossators at Bologna had at first\nenly two parts, the first called \"Digeatum\nVetus,\" (the old Digest,) and the last called \"Digestum Novum,\" (the New Digest.)\nWhen they afterwards received the middle\nor second part, they separated from the Déigestum Novum the beginning it had then,\nand added it to the second part, from which\nenlargement the latter received the name \"'Jnfortiatum.\" Mackeld. Rom. 'Law, § 110.\n\n' INFORTUNIUM, HOMICIDE PER.\n\nWhere a man doting a lawful act, without. intention of hurt, unfortunately kilis another.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'INFRA' from body"
+  },
+  "HURRICANE": {
+    "body": "A storm of great violence or intensity, of which the particular\ncharacteristic is the high velocity of the\nwind. There is naturally no exact measure\nto distinguish between an ordinary storm and\na hurricane, but the wind should reach a\nvelocity of at least 50 or 60 miles an hour to\nbe called by the latter name, or, ag expressed\nin some of the cases, it should be sufficient\nto \"throw down buildings.\" <A hurricane is\nproperly a circular storm in the nature of a\ncyclone. See Pelican Ins. Co. v. Troy Co-op.\nAse'n, 77 Tex. 225, 18 8S. W. 980; Queen Ins.\nCo. v. Hudnut Co., 8 Ind. App. 22, 36 N. BL\n387; Tyson v. Union Mut. Fire & Storm Co.,\n2 Montg. Co. Law Rep'r (Pa.) 17.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'HURST' from body"
+  },
+  "AIDS": {
+    "body": "In feudal law, originally mere\nbenevolences granted by a tenant to his lord,.\nin times of distress; but at length the lords.\nclaimed them as of right. They were principally three: (1) To ransom the lord's person, if taken prisoner; (2) to make the\nlord's eldest son avd heir apparent a knight;.\n(3) to give a suitable portion to the lord's\neldest daughter on her marriage. Abolished.\nby 12 Car. II. c. 24.\nAlso, extraordinary grants to the crown\nby the house of commons, and which were\nthe origin of the modern system of taxation.\n2 Bl. Comm. 63, 64.:\n\n—Reasonable aid. <A duty claimed by the\nlord of the fee of his tenants, holding by\nknight service, to marry his daughter, etce..\nCowell.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'AIEL' from body"
+  },
+  "CHEATERS": {
+    "body": "or ESCHEATORS, were\nOfficers appointed to look after the king's escheats, a duty which gave them great opportunities of fraud and oppression, and in consequence many complaints were made of their\nmisconduct. Hence it seems that a cheater\ncame to signify a fraudulent person, and\nthence the verb to cheat was derived. Wharton.\n\nCHEOK,\nCHEOK, v. To control or restrain; to\nhold within bounds. To verify or audit.\nParticularly used with reference to the control or supervision of one department, bureau, or office over another. :\n—Check-roll. In English law. A list or\nbook, containing the names of such as are attendants on, or in the pay of, the queen or other\ngreat personages, as their household servants.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'CHECK' from body"
+  },
+  "INDENTURE": {
+    "body": "A deed to which two or\nmore persons are parties, and in which these\nenter into reciprocal and corresponding\ngrants or obligations towards each other;\nwhereas a deed-poll is properly one in which\nonly the party making it executes it, or binds\nhimself by it as a deed, though the grantors\nor grantees therein may be several in number. 3 Washb. Real Prop. 311; Scott v. Mills,\n10 N. Y. St. Rep. 858; Bowen v. Beck, 94 N.\nY. 89, 46 Am. Rep. 124; Hopewell Tp. v. Amwell Tp., 6 N. J. Law, 175. See INDENT, v.\n—Indenture of MEprom tase smtp: A contract\nin two parts, by which a person, generally a\nminor, is bound to serve another in his trade,\nart, or occupation for a stated time, on condition of being instructed in the same.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'INDEPENDENCE' from body"
+  },
+  "ACTUS": {
+    "body": "In the civil law. A species\nof right of way, consisting in the right of\ndriving cattle, or a carriage, over the land\nsubject to the servitude. Inst. 2, 3, pr. It\nis sometimes translated a \"road,\" and included the kind of way termed \"iter,\" or\npath. Lord Coke, who adopts the term \"actus\" from Bracton, defines it a foot and\nhorse way, vulgarly called \"pack and prime\nway;\" but distinguishes it from a dart-way.\nCo. Litt. 564; Buyden v. Achenbach, 79 N.\nC. 539.\nIm old English law. An act of parliament; a statute. A distinction, however,\nwas sometimes made between actus and\nstatutum. Actus parliamenti was an act\nmade by the lords and commons; and it be\ncame statutum, when it received the king's\nconsent. Barring. Obs. St. 46, note 0b.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'AOTUS' from body"
+  },
+  "NATURALE": {
+    "body": "NATURALE EST QUIDLIBET\n\nLaws\" because a knowledge of them may be attained merely by the light of reason, from the\nfact of their essential agreeableness with the\nconstitution of human nature; while, on the\ncontrary, positive or revealed laws are not\nfounded upon the general constitution of human nature, but only upon the will of God;\nthough in other respects such law is established\nupon very reason, and procures the advantage of those to whom it is sent. The ceremonial] or political laws of the Jews are of this\nlatter class. Borden v. State, 11 Ark. 527, 44\nAm. Dec. 217.\n\nNaturale est quidlibet dissolvi eo modo\nquo ligatur. It is natural for a thing to be\nunbound in the same way in which it was\nbound. Jenk. Cent. 66; Broom, Max. 877.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'NATURALEZA' from body"
+  },
+  "CHIROGRAPH": {
+    "body": "In old English law.\nA deed or indenture; also the last part of a\nfine of land.\n\nAn instrument of gift or conveyance, attested by the subscription and crosses of the\nwitnesses, which was in Saxon times called\n“chirographum,” and which, being somewhat\nchanged in form and manner by the Normans, was by them styled “charta.” Anciently when they made a chirograph or\ndeed which required a counterpart, as we call\nit, they engrossed it twice upon one piece of\nparchment contrariwise, leaving a space between, in which they wrote in capital letters\nthe word “chirograph,” and then cut the\nparchment in two through the middle of the\nword, giving a part to each party. Cowell.\n\nIn Scotch law. A written voucher for a\ndebt. Bell.\n\nIn civil and canon law. An instrument\nwritten out and subscribed by the hand of\nthe party who made it, whether the king or\na private person. Cowell.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'CHIROGRAPHA' from body"
+  },
+  "STOPPAGE IN TRANSITU": {
+    "body": "The act by\nwhich the unpaid vendor of goods stops their\nprogress and resumes possession of them,\nwhile they are in course of transit from him\nto the purchaser, and not yet actually delivered to the latter.\nThe right of stoppage tn transitu is that which\nthe vendor has, when he sells goods on credit\nto another, of resuming the possession of the\n'goods while they are in the possession of a car\nrier or middle-man, in the transit to the consignee or vendee, and before they arrive into his\nactual possession, or the destination he has ap-\n'pointed for them on his becoming pt and\nlvent. 2 Kent, Comm, 702.\nStoppage in transitu is the right which arises\nto an unpaid vendor to resume the possession,\nwith which he has parted, of goods sold upon\ncredit, before they come into the possession of a\nbuyer who has become insolvent, eras or\npecunianity embarrassed. Inslee v. Lane, 57 N.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'STORE' from body"
+  },
+  "ARRESTMENT": {
+    "body": "In Scotch law. Securing a criminal's person till trial, or that of a\ndebtor till he give security judicio sisti. The\norder of a judge, by which he who is debtor\nin a movable obligation to the arrester's debtor is prohibited to make payment or delivery\ntill the debt due to the arrester be paid or\nsecured. Ersk. Inst. 3, 6, 2.\n\nARRESTMENT AJTURISDICTIONIS\nFUNDANDZ CAUSA. In Scotch law.\nA process to bring a foreigner within the\njurisdiction of the courts of Scotland. The\nwarrant attaches a foreigner's goods within\nthe jurisdiction, and these will not be relensed unless caution or security be given.\n\nARRESTO FACTO SUPER BONIS\nMERCATORUM ALIENIGENORUM.\nIn old English law. A writ against the goods\nof aliens found within this kingdom, in recompense of goods taken from a denizen in a\nforeign country, after denial of restitution.\nReg. Orig. 129. The ancient civilians called\nit \"elarigatio,\" but by the moderns it Is termed \"reprisalia.\"",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'ARRET' from body"
+  },
+  "TALLEY": {
+    "body": "or TALLY. A stick cut into\ntwo parts, on each whereof is marked, with\nnotches or otherwise, what is due between\ndebtor and creditor. It was the ancient mode\nof keeping accounts. One part was held by\nthe creditor, and the other by the debtor. The\nuse of tallies in the exchequer was abolished\nby St. 23 Geo. III. c. 82, and the old tallies\nwere ordered to be destroyed by St. 4 & 5\nWm. IV. c. 15. Wharton.\n\n—Tallies of loan. A term originally used in\nEngland to describe exchequer bills, which were\nissued by the officers of the exchequer when a\ntemporary loan was necessary to meet the exigencies of the government, and charged on the\ncredit of the exchequer in general, and made\nassignable from one person to another. Briscoe\nv. Bank of Kentucky, 11 Pet. 328, 9 L. Ed.\n709.—Tally trade. A system of dealing by\nwhich dealers furnish certain articles on credit,\nupon an agreement for the payment of the\nstipulated price by certain weekly or monthly\ninstallments. McCull. Dict.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'TALLIA' from body"
+  },
+  "QUALIFIED WORTER": {
+    "body": "Adapted; fitted; entitled;\nas an elector to vote. Applied to one who\nhas taken the steps to prepare himself for an\nappointment or office, as by taking oath, giving bond, ete. Pub. St. Mass. p. 1204.\nAlso limited; restricted; confined; modified; imperfect, or temporary.\n. The term is also applied in England to a\nperson who is enabled to hold two benefices\nat' once.\n—Qualified acceptance.\nSee pee;\nmalified elector means a person who is\nlegally qualified to vote, while a 'legal voter\"\nmeans a qualified elector who foes in fact Be\nSanford v. Prentice, 28 Wis. 358.—Qualifi\nfee. See Free.—Qualified indorsement. Se\nINDORSEMENT.—Quahfied oath. See OATH.\ned privilege. In the law of libel and\nslander, the same as conditional privilege. See\nPRIVILEGE.—Qualified property. See PRopP-\nERTY.—Qualified voter. <A person qualified\nto. Mes enerally. In re House Bill No. 166, 9\n, 21 Pac. 473, A person qualified aud\nactually voting. Carroll County v. Smith, 11\n4 Sup. Ct. 539, 28 L. Ed. 517.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'QUALIFY' from body"
+  },
+  "EXPOSE": {
+    "body": "v. To show publicly; to display; to offer to the public view; as, to\n\"expose\" goods to sale, to \"expose\" a tariff\nor schedule of rates, to \"expose\" the person.\nBoynton v. Page, 13 Wend. (N. Y.) 432;\nComm. v. Byrnes, 158 Mass. 172, 33 N. E.\n343; Adams Exp. Co. v. Schlessinger, 75\nPa. 246; Centre Turnpike Co. v. Smith, 12\nVt. 216.\nTo place in a position where the object\nspoken of is open to danger, or where it is\nnear or accessible to anything which may\naffect it detrimentally; as, to \"expose\" a\nchild, or to expose oneself or another to a\ncontagious disease or to danger or hazard\nof any kind. In re Smith, 146 N. Y. 68, 40\nN. B. 497, 28 L. R. A. 820, 48 Am. St. Rep.\n760; Davis v. Insurarce Co.. 81 Towa, 496.,-:\n46 N. W. 10738, 10 L. R. A. 359, 25 Am. St.\nRep. 509; Miller v. Insurance Co., 39 Minn.\n548, 40 N. W. 839.\nn. Fr. A _ statement; account; recital; explanation. The term is\nused in diplomatic language as descriptive\nof a written explanation of the reasons for\na certain act or course of conduct.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'EXPOSITIO' from body"
+  },
+  "RENTE": {
+    "body": "In French law. Rente is the\nannual return which represents the revenue\nof a capital or of an immovable alienated.\nThe constitution of rente.is a contract by\nwhich one of the parties lends to the other a\ncapital which he agrees not to recall, in consideration of the borrower's paying an annual interest. It is this interest which is\ncalled \"rente.\" Duverger. The word is\ntherefore nearly synonymous with the English \"annuity.\"\n\"Rentes,\" is the term applied to the French\ngovernment funds, and \"rentier'\"' to a fundholder or other person having an income\nfrom personal property. Wharton.\n—Rente fonciére. <A rent which issues out\nof land, and it is of its essence that it be per\ntual, for, if it be made but for a limited time,\ntis a lease. It may, however, be extinguished.\nCiv. Code La. art. 2780.—Rente re.\nThat species of rente, the duration of which depends upon the conrpeency of the death of one\nor more persons indicated in the contract. The\nuncertainty of the time at which such death may\nhappen causes the rente viagéere to be included\nin the number of aleatory contracts. Duverger.\n- a an annuity for life. Civ. Code La. art.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'RENTS' from body"
+  },
+  "INFORMALITY": {
+    "body": "Want of legal form:\nSee State v. Gallimon, 24 'N. C..377; Franklin\ny- Mackey, 16 Serg. & R. (Pa.) 118; Hunt v.\nvii 37 Ark. 108.\n\n,, INFORMATION. In practice. An ac\nSubation 'exhibited against a person for some\ncriminal offense, without an indictment. 4\n\nBl. Oomm. 308.. en oe\nAn accusation in 'the nature of an indict:\nment, from which it differs only in being pregeuted by a competent public officer on his\noath of office, instead of a grand jury on their\noath. 1 Bish. Crim. Proc. § 141; People v.\nSponsler, 1 Dak. 280,46 N. W. 459; Goddard\nv. State, 12 Conn. 452; State v. Ashley, 1\nArk. 279; Clepper v. State, 4 Tex. 246.\nThe word. is also frequently used in the law\n{in its sense of communicated knowledge, and\natfidavits are frequently made, and pleadings\nand other documents verified, on. \"information and belief.\"\n\n\"nm French law. The act or instrument\nwhich contains the depositions of witnesses\nagainst the accused. Poth. Proc. Civil, § 2,\nart. 5.\n—Criminal qudewana Goa: A formal accusation of crime, differing from an indictment\nenly én thdt at is preferred- by a prosecuting\n\nofficer inated 'of rts yg jury. U. S. v.\nBorger (C, 93; State v. Barrell,\n75 Vt. 202, Ps re 183, 98 Am. St. Rep. 813.\n—Information in the nature of a quo\nwarranto. aA proceeding against the usurper\nof a franchise or office. See QUO WARRANTO.\n—Information of intrusion. A proceeding\ninstituted by the state prosecuting officer\nagainst intruders u ag the public domain.\" See\noo St. Mass. c. 141; Com. v. Andre's Heirs,\n8 Pick. (Mass.) 224; Com. v. Hite,.6 Leigh\n\n(Va.) 588, 29. Dec. 226.;",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'INFORMATUS NON SUM' from body"
+  },
+  "PEACE": {
+    "body": "As applied to the affairs of a\nstate or nation peace may be either external\nor internal. In the former case, the term\ndenotes the prevalence of amicable relations\nand mutual good will between the particular society and all foreign powers. In the\nlatter case, it means the tranquility, security, and freedom from commotion or disturbance which is the sign of. good order and\nharmony and obedience to the laws among\nall the members of the society. In a somewhat technical sense, peace denotes the quiet,\nsecurity, good order, and decorum which is\nguarantied by the constitution of civil soctety and by the laws. People v. Rounds, 67\nMich. 482, 35 N. W. 77; Corvallis v. Carlile,\n10 Or. 139, 45 Am. Rep. 134.\nThe concord or final agreement in a fine of\nlands. 18 Edw. I. \"Modus Levandi Finis.\"\n\n—Articles of the peace. See ARTICLES.—\nBill of peace. See BILL.—Breach of peace,\nRee BREACH.—Conservator of the peace.\nsee CONSERVATOR.—Justice of the peace.\nSee that title—Peace of God and the\nchurch. In old English law. That rest and\ncessation which the king's subjects had from\ntrouble and suit of law between the terms and\non Sundays and holidays. Cowell; Spelman.\n—Peace of the state. The protection, security, and immunity from violence which the state\nundertakes to secure and extend to all persons\nwithin its jurisdiction and entitled to the benefit of its laws. This ig part of the definition\nof murder, it being necessary that the victim\nshould be \"in the peace of the state,'\"' which\nnow practically includes all persons except armed public enemies. See MURDER. And see State",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'PECULIARS' from body"
+  },
+  "BIGAMY": {
+    "body": "The criminal offense of willfully and knowingly contracting a second\nmarriage (or going through the form of a\nsecond marriage) while the first marriage, to\nthe knowledge of the offender, is still subsisting and undissolved. Com. v. McNerny,\n10 Phila. (Pa.) 207; Gise v. Com., 81 Pa.\n430; Scoggins v. State, 32 Ark. 213; Cannon\nv. U. 8., 116 U. S. 55, 6 Sup. Ct. 287, 29\nL. Ed. 561.\nThe state of a man who has two wives, or\nof a woman who has two husbands, living\nat the same time.\n- The offense of having a plurality of wives\nat the same time is commonly denominated\n\"polygamy;\" but the name \"bigamy\" has been:\nmore frequently given.to it in legal proceedings. 1 Russ. Crimes, 185.\nThe use of the word \"bigamy\" to describe this\nOffense is well established by long usage, although often criticised as a corruption of the\ntrue meaning of the word. Polygamy is suggested as the correct term, instead of bigamy,\nto designate the offense of having a plurality of\nwives or husbands at the same time, and has\nbeen adopted for that purpose in the Massachusetts statutes. But as the substance of the\noffense is marrying a second time, while having a lawful husband or wife living, without regard to the number of marriages that may have\ntaken place, bigamy seems not an inappropriate\nterm. The objection to its use urged by: Blackstone (4 Bl. Comm. 163) seems to be founded\nnot so much upon considerations of the etymology of the word as upon the propriety of distinguishing the ecclesiastical offense termed \"'bigamy\".in the canon law, and which is defined below, from the offense known as \"bigamy\" in the\nmodern criminal] law. The same distinction is\ncarefully made by Lord Coke, (4 Inst. 88.) But,\nthe ecclesiastical offense being now obsolete,\nthis reason for substituting polygamy to denote\nye come here defined ceases to have weight.\nott.\n\nIn the canon law, the term denoted the\noffense committed by an ecclesiastic who\nmarried two wives successively. It might\nbe committed either by marrying a second\nwife after the death of a first or by marrying\na: widow.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'BIGOT' from body"
+  },
+  "PROCLAMATION": {
+    "body": "The act of causing\nsome state matters to be published or made\ngenerally known. <A written or printed document in which are contained such mutters,\nissued by proper authority. 3 Inst. 162; 1\nBl. Comm. 170.\nThe word \"proclamatjon\" is also used to\nexpress the public nomination made of any\na PROCLAMATION\n\none to a high office; as, such a prince was\nproclaimed emperor.\nIn practice. The declaration made by\nthe crier, by authority of the court, that\nsomething is about to be done.\n\nIn equity practice. Proclamation made\nby a sheriff upon a writ of attachment, summoning a defendant who has failed to appear\npersonally to appear and answer the plaintiff's bill. 3 Bl. Comm. 444.\n\n—Proclamation by lord of manor. A proc:\nlamation made by the lord of a manor (thrice\nrepeated) requiring the heir or devisee of a\ndeceased copyholder to present himself, pay the\nfine, and be admitted to the estate; failing\nwhich appearance, the lord might seize the lands\nquousque (provisionally.)}—Proclamation of\nexigents. In old English law. When an esigent was awarded, a writ of proclamation issued, at the same time, commanding the sheriff of the county wherein the defendant dwelt to\nmake three proclamations thereof in places the\nmost notorious, and most likely to come to hie\nknowledge, a month before the outlawry should\ntuke place. 3 Bl. Comm. 284.—Proclamation\nof a fine. The notice or proclamation which\nwas made after the engrossment of a fine of\nlands, and which consisted in its being openly\nread in court sixteen times, viz., four times in\nthe term in which it was made, and four times\nin each of the three succeeding terms, which,\nhuwever, was afterwards reduced to one reading in each term. Cowell. See 2 Bl. Comm.\n352..—Proclamation of rebellion. In old\nEnglish law. A proclamation to be made by\nthe sheriff commanding the attendance of a\nperson who had neglected to obey a subpena or\nattachment in chancery. be did pot surrender himself after this proclamation, a commjssion of rebellion issued. 8 Bl. Comm. 444.—\nProc tion of recusamts. A prociamation whereby recusants were formerly convicted, on non-appearance at the assizes. Jacob.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'PROCLAMATOR' from body"
+  },
+  "SUIT": {
+    "body": "In old EngHsh law. The witnesses or followers of the plaintiff. 3 Bl.\nComm. 295. See Secta.\nOld books mention the word in many connections which are now disused,—at least,\nin the United States. Thus, \"suit\" was used\nof following any one, or in the sense of pursuit; as in the phrase \"making fresh suit.\"\nIt was also used of a petition to the king or\nlord. \"Suit of court\" was the attendance\nwhich:a tenant owed at the court of his lord..\nBL.Law Dict.{2p Dp.)—71\n\n\"Suit covenant\" and \"suit custom' seem to\nhave signified a right to one's attendance, or\none's obligation to attend, at the lord's court,\nfounded upon a known covenant, or an immemorial usage or practice of ancestors.\n\"Suit regal\" was attendance at the sheriff's\ntourn or leet, (his court.) \"Suit of the king's\npeace\" was pursuing an offender, — one\ncharged with breach of the peace, Abbott.\n\n- In modern law. \"Suit\" is a generic\nterm, of comprehensive signification, and applies to any proceeding in a court of justice\nin which the plaintiff pursues, in such court,\nthe remedy which the law affords him for\nthe redress of an injury or the recovery of\na right. See Kohl v. U. S., 91 U. S. 875, 23\nL. Ed. 449; Weston v. Charleston, 2 Pet.\n464, 7 L. Ed. 481; Drake v. Gilmore, 52 N.\n¥. 398; Philadelphia, ete., Iron Co. v. Chicago, 158 Ill. 9, 41 N. BE. 1102; Cohens v. Virginia, 6 Wheat. 405, 5 L. Ed. 257.\n'It 1s, however, seldom applied to a criminal prosecution. And it is sometimes restricted to the designation of a proceeding\nin equity, to distinguish such proceeding\nfrom an action at law.\n—Suit of court. This phrase denoted the\nduty of attending the tord's court, and. in common with fealty, was one of the incidents of\na feudal holding. Brown.—Suit of the kin te\npe ace. The pursuing a man for breach of t\nng's peace by treasons, insurrections, or hee\ns. Cowel]l.—Suit money. An allowance\nn the nature OE temporary alimony, authorized\ny statute in some states to be made to a\nwife on the institution of her suit for divorce.\nintended to cover the reasonable expenses of\nthe suit and to provide her with means for\nane efficient preparation and trial of her case.\nSee Yost v. Yost, 141 Ind. 584, 41 N. E. 11.\n—Suit silver. A small sum of money paid\nom lieu of attendance at the court-baron. Cowe e",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'SUITAS' from body"
+  },
+  "EVICTION": {
+    "body": "Dispossession by process\nof jaw; the act of depriving a person of the\npossession of lands which he has held, in\npursuance of the judgment of a court. Reasoner v. Edmundson, 5 Ind. 395; Cowdrey v.\nCoit, 44 N. Y. 392, 4 Am. Rep. 690; Home\nLife Ins. Co. v. Sherman, 46 N. Y¥. 372.\nTechnically, the dispossession must be by\njudgment of law; if otherwise, it is an ouwster.\nEviction implies an entry under paramount\ntitle, so as to interfere with the rights of the\ngrantee. The object of the party making 'the\nentry is immaterial, whether it be to take all or\na part of the land itself or merely an incorporeal right. Phrases equivalent in meaning\nare \"ouster by paramount title,\" \"entry and disturbance,\" \"possession under an elder title,\"\nand the like. Mitchell vy. Warner, 5 Conn. 497.\nEviction is an actual expulsion of the lessee\nout of all or some part of the demised premises.\nPendleton v. Dyett, 4 Cow. (N. Y.) 581, 585.\n\n£46 EVIDENCE\n\nIn a more popular sense, the term denotes\nturning a tenant of land out of possession,\neither by re-entry or by legal proceedings,\nsuch as an action of ejectment. Sweet.\nBy a loose extension, the term is sometimes applied to the ousting of a person\nfrom the possession of chattels; but, properly, it applies only to realty.\nIn the oivil law. The abandonment\nwhich one is obliged to make of a thing, in\npursuance of a sentence by which he is condemned to do so. Poth. Contr. Sale, pt. 2,\nec. 1, § 2, art. 1, no. 838. The abandonment\nwhich a buyer is compelled to make of a thing purchased, in pursuance of a judicial\nsentence.\nEviction is the loss suffered by the buyer\nof the totality of the thing sold, or of.a part\nthereof, occasioned by the right or claims\nof a third person. Civil Code La. art. 2500.\n\n' —Actual eviction is an actual expulsion of\n\nthe tenant out of all or some part of the demised premises; a physical ouster or dispossession\nfrom the very thing granted or some substantial\nart thereof. Knotts v. McGregor, 47 W. Va.\n66, 35 8. B. 889; Talbott v. English, 156 Ind.\n299, 59 N. B 857; Seigel v. Neary, 388 Misc.\nRep. 297, 77 N. Y. Supp. 854.—Constructive\neviction, as the term is used with reference to\nbreach of the covenants of warranty and of\nuiet enjoyment, means the inability of the pur\nchaser to obtain possession by reason of a paramount outstanding title. ritz v. Pusey, 31\nMinn. 868, 18 N. W. 94. With reference to\nthe relation of landlord and tenant, there ig a\n\"constructive eviction\" when the former, without intent to oust the latter, does some act\nwhich deprives the tenant of the beneficial enjoyment of the demised premises or materially\nlinpairs such enjoyment. Realty Co. v. Fuller,\n33 Misc. Rep. 109, 67 N. ¥. Supp. 146; Talbott\nv. English, 156 Ind. 299, 59 N. EB. 857.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'EVIDENCE' from body"
+  },
+  "SENTENCE": {
+    "body": "The judgment formally pronounced by the court or judge upon the defendant safter his conviction in a criminal\nprosecution, awarding the punishment to be\ninflicted. The word is properly confined to\nthis meaning. In civil cases, the terms \"judg:\nment,\" \"decision,\" \"award,\" \"finding,\" etc.,\n'are used. See Featherstone v. People, 194\nIll. 8325, 62 N. B. 684; State v. Barnes, 24 Fla.\n153, 4 South. 560; Pennington v. State, 11\nTex. App. 281; Com. v. Bishoff, 18 Pa. Co.\nCt. R. 503: People v. Adams, 95 Mich. 541,\n55 N. W. 461; Bugbee v. Boyce, 68 Vt. 311,\n35 Atl. 330..\nEcclesiastical. In ecclesiastical procedure, \"sentence\" is analogous to \"judgment\"\n(q. v.) in an ordinary action. A definite sen-\n'SENTENCE\n\ntence is one which puts an end to the suit,\nand regards the principal matter in question. An interlocutory sentence determines\nonly some incidental matter in the proceedings. Phillim. Ecc. Law, 1260.\n—Cumulative sentences. Separate sentences (each additional to the others) imposed upon a defendant who has been convicted upon\nan indictment containing several] counts, each\nof such counts charging a distinct offense, or\nwho is under conviction at the same time for\nseveral distinct offenses; one of such sentences\nbeing made to begin at the expiration of an-\n\nother. Carter v. McClaughry, 183 U. S. 365,\n22 Sup. Ct. 181, 46 L. Ed. 236; State v. Ham-\n'by, 126 N. C. 1066, 35 S. E. 614.—Final sentence. Qne which puts an end to a case. Distinguished from interlocutory.—Indetermimate sentence. <A form of sentence to impris-\n'onment upon conviction of crime, now author-\n'ized by statute in several states, which, instead of fixing rigidly the duration of the imprisonment, declares that it shall be for a\nperiod \"not less than' so many years \"nor\n'more than'' so many years, or not less than the\nminimum period prescribed by statute as the\n'punishment for the particular offense nor more\n.than the maximum period, the exact length of\n.the term being afterwards fixed, within the\nimits assigned by the court or the statute, by\n'an executive authority, (the governor, board of\n'pardons,.etc.,) on consideration of the previous\nrecord of the convict, his behavior while in\n'prison or while out on parole, the apparent\n'prospect of reformation, and other such considerations.—Imterlocutory sentence. In\nthe civil Jaw. A sentence on some indirect\nQuestion arising from the principal cause. Haltax. Civil Law, b. 3. ch. 9, no. 40.—Sentence\n'é@ 'death récorded. In English practice.\nThe recording of a sentence of death, not actyally pronounced, on the understanding that it\nwill not be executed. Such a record has the\n\"same effect as if the judgment had been pro-\n'nonmficed and the offender reprieved by the court.\n'Mozley & Whitley. The practice is now dis-\n-used.—Suspension of sentence. This term\n.may mean either a withholding or postponing\n'the sentencing of a prisoner after the conviction,\nor a postponing of the execution of the sentence after it has been pronounced. In the\nlatter case, it may, for reasons addressing themselves to the discretion of the court, be indefinite\nas to time, or during the good behavior of the\nprisoner. See People v. Webster, 14 Misc. Rep.\n617, 36 N. Y. Supp. 745; In re Buchanan, 146\nN. Y¥. 264, 40 N. E. 883.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'SENTENTIA' from body"
+  },
+  "SETTLEMENT": {
+    "body": "In conveyancing. A\ndisposition of property by deed, . usually\nthrough the medium of a trustee, by which\nits enjoyment is limited to several persons\nin succession, as a wife, children, or other\nrelatives.\n\nIm contracts. Adjustment or liquidation\nof mutual accounts; the act by which parties\nwho have been deuling together arrange their\naccounts and strike a balance. Also full and\nfinal payment or discharge of an account.\n\n’- Im poor laws. The term signifies a tight\nacquired by a person, by continued residence\nfor a given length of time in a town or district, to claim aid or relief under the poorlaws in case of his becoming a pauper. See\nWestfield v. Coventry, 71 Vt. 175, 44 Atl.\n66; Jefferson v. Washington, 19 Me. 300;\nJackson County v. Hillsdale County, 124\nMich. 17, 8 N. W. 408. —\n\nIn probate practice. The settlement of\nan estate consists in its administration by the\nexecutor or administrator carried so far that\nall debts and legacies have been paid and\nthe individual shares of distributees in the\ncorpus of the estate, or the residuary portion,\nas the case may be, definitely ascertained\nand determined, and accounts filed and passed, so that nothing remains but to make\nfinal distribution. See Calkins v. Smith,\n41 Mich. 409, 1 N. W. 1048; Forbes v. Harrington, 171 Mass. 386, 50 N. E. 641; Appeal of Mathews, 72 Conn. 505, 45 Atl. 170.\n—Act of settlement. The statute 12 & 13\nWm. III. ec. 2, by which the crown of England\nwas limited to the house of Hanover, and some\nnew provisions were added at the same time for\nthe better securing the religion, laws, and liberties.—Deed of settlement. A deed made for\nthe purpose of settling property, ¢. e., arranging\nthe mode and extent of the enjoyment thereof.\nThe party who settles property is called the ‘‘settlor;'’ and usually his wife and children or his\ncreditors or his near relations are the beneficiaries taking interests under the settlement.\nBrown.—Equity of settlement. The equitable right a wife, when her husband sues in\n\nequity for the reduction of her equitable estate\nto his own possession, to have the whole or a\nportion of such estate settled upon herself and\nher children. Also a similar right now recognized by the equity courts as directly to be asxerted against the husband. Also called the\n‘wife's equity.’\"—Einal settlement. This\nterm, as applied to the administration of an estate, is usually understood to have reference to\n\n-the order of court approving the account which\n\ncloses the business of the estate, and which fipally discharges the executor or administrator\nfrom the duties of his trust. Roberts v. Spencer, 112 Ind. 85, 13 N. E. 129; Sims v. Waters,\n65 Ala. 445.—S8trict settlement. This phrase\nwas formerly used to denote a settlement whereby land was limited to a parent for life, and\nafter his death to his first and other sons or\nchildren in tail, with trustees interpored to\nae contingent remainders. 1 Steph. Comm.\n\n, do3-—Voluntary settlement. A settlement of property upon a wife or other beneficiary, made gratuitously or without valuable consideration. Z\n\n' SETTLER. A person who, for the pur\npose of acquiring a pre-emption right, has\ngone upon the land in question, and is actually resident there. See Hume v. Gracy, 86\nTex. 671, 27 S. W. 584; Davis v. Young, 2\nDana (Ky.) 299; McIntyre v. Sherwood, 82\nCal. 139, 22 Pac. 987.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'SETTLOR' from body"
+  },
+  "DEPOSIT": {
+    "body": "touching, it; and these last are of two sorts,\n—“conventional,” or such as are made by\nthe mere agreement of the parties without\nany judicial act; and “judicial,” or such as\nare made by order of a court in the course\nof some proceeding. Civ. Code La. art. 2979.\nThere is another class of deposits called\n“irregular,” as when a person, having a sum\nof money which he does not think safe in\nhis own hands, confides it to another, who\nis to return to him, not the same money, but\na like sum when he shall demand it. Poth.\ndu Depot. 82, 83; Story, Bailm. § 84.\nAn irregular deposit is a strict or special deposit ;\na deposit which must be returned in specie;\ni. e., the thing deposited must be returned. A quasi deposit is a kind of implied or involuntary deposit, which takes\nplace where a party comes lawfully to the\npossession of another person’s property, by\nfinding it. Story, Bailm. § 85. Particularly\nwith reference to money, deposits are also\nclassed as general or special. A general deposit is where the money deposited is not itself to be returned, but an equivalent in\nmoney (that is, a like sum) is to be returned.\nIt is equivalent to a loan, and the money\ndeposited becomes the property of the depositary. Insurance Co. v. Landers, 43 Ala.\n138. ..A special deposit is a deposit in which\nthe identical thing deposited is to be returned to the depositor. The particular object of this kind of deposit is safe-keeping.\nKoetting v. State, 88 Wis. 502, 60 N. W.\n822. In banking law, this kind of deposit is\ncontrasted with a “general” deposit, as\nabove; but in the civil law it is the antithesis of an “irregular” deposit. A gratuitous\nor naked deposit is a bailment of goods to be\nkept for the depositor without hire or reward on either side, or one for which the\ndepositary receives no consideration beyond\nthe mere possession of the thing deposited.\nCiv. Code Ga. 1895, § 2921; Civ. Code Cal. §\n1844. Properly and originally, all deposits\n\nare of this description; for according to the\n\nRoman law, a bailment of goods for which\nhire or a price is to be paid, is not called\n“depositum” but “locatio.” If the owner of\nthe property pays for its custody or care,\nit is a “locatio custodiae;” if, on the other\nhand, the bailee pays for the use of it, it is\n“locatio rei.”” (See Locatio.) But in the\nmodern law of those states which have been\ninfluenced by the Roman jurisprudence, a\ngratuitous or naked deposit is distinguished\nfrom a “deposit for hire,” in which the bailee\nis to be paid for his services in keeping the\narticle. Civ. Code Cal. 1908, § 1851; Civ.\nCode Ga. 1895, § 2921.\n\nIn banking law. The act of placing or\nlodging money in the custody of a bank or\nbanker, for safety or convenience, to be\nwithdrawn at the will of the depositor or\nunder rules and regulations agreed on; also\nthe money so deposited.\n\nGeneral and special deposits. Deposits\nof money in a bank are either general or special.\n\nDEPOSIT.\n\nA general deposit (the ordinary form) is one\nwhich is to be repaid on demand, in whole or in\npart as called for, in any current money, not\nthe same pieces of money deposited. In this\ncase, the title to the money deposited passes to\nthe bank, which becomes debtor to the depositor\nfor the amount. A special deposit is one in\nwhich the depositor is entitled to the return of\nthe identical thing deposited (gold, bullion, securities, etc.) and the title to the property remains in him, the deposit being usually made\nonly for purposes of safe-keeping. Shipman v.\nState Bank, 59 Hun, 621, 138 N. Y. Supp. 475 ;\nState v. Clark, 4 Ind. 315; Brahm v. Adkins,\n77 Ill. 263; Marine Bank v. Fulton Bank, 2\nWall. 252,17 L. Ed. 785. There is also a specific deposit, which exists where money or property is given to a bank for some specific and particular purpose, as a note for collecting, money\nto pay a particular note, or property for some\nother specific purpose. Officer v. Cer, 120\nIowa, 389, 94 N. W. 947, 98 Am. St. Rep. 365.\n—Deposit account. An account of sums\nlodged with a bank not to be drawn upon by\nchecks, and usually not to be withdrawn except\nafter a fixed notice.—Deposit company. A\ncompany whose business is the safe-keeping of\nsecurities or other valuables deposited in boxes\nor of bats its building which are leased to the\ndepositors.—Deposit of title-deeds. A method of pledging real property as security for a\nloan, by placing the title-deeds of the land in\nthe keeping of the lender at pledgee.\n\nDEPOSITARY. ‘The party receiving a\ndeposit; one with whom anything is lodged\nin trust, as “depository” is the place where\nit is put. The obligation on the part of the\ndepositary is that he keep the thing with\nreasonable care, and, upon request, restore\nit to the depositor, or otherwise deliver it,\naccording to the original trust. =",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'DEPOSITATION' from body"
+  },
+  "ACCOUNT": {
+    "body": "A detailed statement of the\nmutual demands in the nature of debt and\ncredit between parties, arising out of con-\n'fracts or some fiduciary relation. Whitwell\ny. Willard, 1 Metc. (Mass.) 216; Blakeley v.\nBiscoe, 1 Hempst. 114, Fed. Cas. No. 18,239;\nPortsmouth v. Donaldson, -32 Pa: 202, 72\nAm. Dec. 782.\n' A statement In writing, of debts and cred-\n\nitg..or of receipts and payments; a list of\nitems of debts and credits, with their respective dates. Rensselaer Glass Factory\ny. Reid, 5 Cow. (N. Y.) 598.\n\n- The word is sometimes used to denote the\nbalance, or the right of action for the balance,\nappearing due upon a statement of dealings;\nas where one speaks of an assi ent of accounts; but there is a broad distinction between an account and the mere balance of an\naccount, resembling the distinction in logie\nbetween the premises of an argument and the\nconclusions drawn therefrom. A balance is but\nthe conclusion or result of the debit and credit\nsides of an account. It implies mutual deak\nings, and the existence of debt and credit, without which there could be no balance. McWilliams v. Allan, 45 Mo. 574.\n—Account closed. An account.:to which no\nfurther additions can be made on either side,\nbyt which remains still open for adjustment\nand set-off, which distinguishes it from an account stated. Bass v. Bass, 8 Pick. (Mass.)\n187; J okenne De Graaf, 81 N. Y. 268;\nMandeville v. Wilson, 5 Cranch, 15, 8 L..Ed.\n23.~Account current. An open or running\nor unsettled account between two parties.—\nAccount duties. Duties payable by the Enzlish customs and inland revenue act, 1881. (44\nVict. c. 12, § 38.) on a donatio mortis causa,\nor on any gift, the donor of which dies within\nthree months after making it, or on joint property voluntarily so created, and taken by survivorship, or on property taken under a voluntary settlement in which the settlor had a lifeinterest—Account rendered. An account\nyoade aut by the creditor, and presented to the\n'debtor for his examination and acceptance.\nAVhen accepted, it becomes an account stated.\nWiggins v. Burkham, 10 Wall. 129,,19 L. Ed.\n884; Stebbins vy. Niles, 25 Miss. 267.—Account stated. The settlement of an account\nbetween the parties, with a balance struck ih\nfavor of one of them; an account rendered by\nthe creditor, and by the debtor assented to as\neorrect, either expressly, or by implication of\nlaw from the failure to object.\nv. Long, 189 Ala. 535, 36 South. 722: Zacarino v. Pallotti, 49 Conn. 36; McLellan v.\n(Crofton, 6 Me. 207; James v. Fellowes.\nLa. A Lockwood y.\n\nMorse vy. Minton, 101 Iowa, 603, 70 N. W. 691.\nThis was also a common count in a declaration\nupon a contract under which the plaintiff might\nprove an absolute acknowledgment by the defendant of a liquidated demand of a fixed\namount, which implies a promise to pay on regues It might be joined with any other count\nor a money demand. The acknowledgment or\nadmission must have been made to the plaintiff\nor his agent. Wharton.—Mutual accounts.\nAccounts comprising mutual credits between the\nparties; or an existing credit on one side which\nconstitutes a ground for credit on the other, or\nwhere there is an understanding that mutual\ndebts shall be a satisfaction or set-off pro tanto\nbetween the parties. McNeil v. Garland, 27 Ark.\n$43.—Open account. An account which has\nnot been finally settled or closed, but is still\nrunning or open to future adjustment or liquidation. Open account, in legal as well as in ordinary language, means an indebtedness subject\nto future adjustment, and which may be reduced or modified by proof. Nisbet y. Law-\nBi. Law Dictr.(2p Ep.)—2\n\nson, 1 Ga. 275; Gayle v. Johnston, 72 Ala. 254\n47 'Am. Rep, 409; cCamant v. Batsell, 56\nTex. 368; rvis vy. Kroner, 18 Or. 414, 23\nPac, 260.—Public accounts. The accounts\nkept by officers of the nation. state, or kingdom, of the receipt and expenditure of the revenues of the government.\n\nACOOUNT, or ACCOUNT RENDER.\nIn practice. \"Account,\" sometimes called\n\"account render,\" was a form of action at\ncommon law against a person who by reason\nof some fiduciary relation (as guardian,\nbailiff, receiver, etc.) was bound to render an\naccount to another, but refused to do so.\nFitzh. Nat. Brev. 116; Co. Litt. 172; Griffith v. Willing, 3 Bin. (Pa.) 317; Travers v.\nDyer, 24 Fed. Cas. 142; Stevens v. Coburn,\n71 Vt. 261, 44 Atl. 354; Portsmouth v. Don\naldson, 32 Pa. 202, 72 Am. Dec. 782.\nIn England, this action early fel] into disuse;\nand as it is one of the most dilatory and expensive actions known to the law, and the par\nties are held to the ancient rules of pleading,\nand no discovery can be obtained, it never war\nadopted to any great extent in the United\nStates. But in some states this action was employed, chiefly because there were no chancery\ncourts in which a bill for an accounting would\nlie. The action is peculiar in the fact that two\njudgments are rendered, a preliminary judgment that the defendant do account with the\nlaintiff (¢yod computect) and a final judgment\nWaiod recuperet) after the accounting for the\nbalance found due. Field v. Brown, 146 Ind.\na yas KE. 464; Travers v. Dyer, 24 Fed.\nas. ' -\n\n. ACOCOUNT-BOOK. A book kept by a\nmerchant, trader, mechanic, or other person,\nin which are entered from time to time the\ntransactions of his trade or business. Such\nbooks, when regularly kept, may be admitted in evidence. Greenl. Ev. §§ 115-118.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entry 'ACCOUNTABLE' from body"
+  },
+  "ABISHERING": {
+    "body": "or ABISHERSING.\nQuit of amercements. It originally signified\na forfelture or amercement, and is more\nproperly misheriny, mishersing, or .miskering, according to Spelman. It has since been\n\nABJUDICATIO\n\ntermed a liberty of freedom, because, wherever this word is used in a grant, the persons to whom the grant is made have the\nforfeltures and amercements of all others,\nand.are themselves free from the eee of\nany within their fee. Termes de la Ley, 7.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entries starting with 'ABJUDICATIO'"
+  },
+  "ALFET": {
+    "body": "-A cauldron into which boiling\navater was poured, in which a criminal\nplunged his arm up to the elbow, and there\nheld it for some time, as an ordeal. Du\nCange.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entries starting with 'ALGARUM MARIS'"
+  },
+  "CHAMPART": {
+    "body": "In French law. The\ngrant of a piece of land by the owner to another, on condition that the Jatter would deliver to him a portion of the crops. 18 Toullier, n. 182.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entries starting with 'CHAMPERT'"
+  },
+  "CONSULAR": {
+    "body": "Courts held by\nthe consuls of one country, within the territory of another, under authority given by\ntreaty, for the settlement of civil cases between citizens of the country which the consul represents. In some instances they have\nalso a criminal jurisdiction, but in this respect are subject to review by the courts of\nthe home government. See Rev. St. U. S.\n§ 4083 (U. S. Comp. St. 1901, p. 2768.)",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entries starting with 'CONSULTA ECCLESIA'"
+  },
+  "CONTRAINTE": {
+    "body": "In\nFrench law. The civil process of arrest of\nthe person, which is imposed upon vendors\nfalsely representing their property to be unincumbered, or upon persons mortgaging\nproperty which they are aware does not be\nlong to them, and in other cases of moral\nheinousness. Brown.\nOCONTRALIGATIO |\n\n- CONTRALIGATIO. In old English law.\nCounter-obligation. JTAterally, counter-binding. Het enim obligatio quasi contraligattio.\nFleta, lib. 2, c. 56, § 1.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entries starting with 'CONTRAMANDATIO'"
+  },
+  "CONTRALIGATIO": {
+    "body": "In old English law.\nCounter-obligation. Literally, counter-binding. Est enim obligatio quasi contraligatio.\nFleta, lib. 2, c. 56, § 1.\n\nCONTRAMANDATIO. A countermanding. Contramandatio placiti, in old English\nlaw, was the respiting of a defendant, or\ngiving him further time to answer, by countermanding the day fixed for him to plead,\nand appointing a new day; a sort of imparlance.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entries starting with 'CONTRAMANDATUM'"
+  },
+  "CULPABLE": {
+    "body": "Blamable; censurable; involving the breach of a legal duty or the\ncommission of a fault. The term is not nec-\n-essarily equivalent to \"criminal,\" for, in present use, and notwithstanding its derivation,\nit implies that the act or conduct spoken af\nis reprehensible or wrong but not that it involves malice or a guilty purpose. \"Culpable\" in fact connotes fault rather than guilt.\nRailway Co. v. Clayberg, 107 Ill. 661; Bank\nv. Wright, 8 Allen (Mags.) 121...:\nAs to culpable \"Homicide,\" \"Neglect, u and\n\"Negligence,\" see those titles...\n\nCulpss poena par esto. Pama ad mensuram delicti statuenda est.. Let the punishment be proportioned to the crime. Punishment is to be measured by the extent of\nthe offense.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entries starting with 'CULPRIT'"
+  },
+  "DAILY": {
+    "body": "BEvery day; every day in the\nweek; every day in the week except one. A\nnewspaper which is published six days in\neach week is a \"daily\"? newspaper. Richardson v. Tobin, 45 Cal. 30; Tribune Pub. Co.\nv. Duluth, 45 Minn. 27, 47 N. W. 309; Kingman v.. Waugh, 189 Mo. 360, 40 S. W. 884.\n\nTen hides.\nDAKER, or\nDIKER. |\nBlount.\n\nDALE aud SALE. Fictitious names of\nplaces, used in the English books, as exaniples. \"The manor of Dale and the manor of\nwale, lying both in Vale.\"",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entries starting with 'DALUS'"
+  },
+  "DI COLONNA": {
+    "body": "In maritime law. The\ncontract which takes place between the owner of a ship, the captain, and the mariners,\nwho agree that the voyage shall be for the\nbenefit of all. The term is used in the Italian law. Emerig. Mar. Loans, § 5.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entries starting with 'DI ET FI'"
+  },
+  "DIVIDEND": {
+    "body": "A fund to be divided. The\nshare allotted to each of several persons entitled to share in a division of profits or\nproperty. Thus, dividend may denote a fund\nset apart by a corporation out of its profits,\nto be apportioned among the shareholders,\nor the proportional amount falling to each.\nIn bankruptcy or insolvency practice, a dividend is a proportional payment to the creditors out of the insolvent estate. State v.\nComptroller of State, 54 N. J. Law, 135, 23\nAtl. 122; Trustees of University v. North\nCarolina R. Co., 76 N. C. 1038, 22 Am. Rep.\n671; De Koven vy. Alsop, 205 Ill. 309, 68 N.\nBH. 930, 68 L. R. A. 587; Hyatt v. Allen, 56\nN. Y. 553, 15 Am. Rep. 449; Cary v. Savings\nUnion, 22 Wall. 38, 22 L. Ed. 779; In re\nFt. Wayne Electric Corp. (D. C.) 94 Fed.\n109; In re Fielding (D. C.) 96 Fed. 800.\nIn old Enghish law. The term denotes\none part of an indenture, (g. v.)\n—Preferred dividend. One paid on the preferred stock of a corporation; a dividend paid\nto one class of shareholders in priority to that\naid to another. Chaffee v. Railroad Co., 55\nt. 129; Taft v. Railroad Co, 8 R. I. 310,\n5 Am. Rep. 575.—Serip dividend. One paid\nin scrip, or in certificates of the ownership of a\ncorresponding amount of capital stock of the\ncompany thereafter to be issued. Bailey v.\nRailroad Co., 22 Wall. 604, 22 L. Ed. —\nStock dividend. One paid in stock, that is,\nnot in money, but in a proportional number of\nshares of the capital stock of the company,\nwhich is ordinarily increased for this parpose\nto a corresponding extent. Kaufman vy. Charue Woolen Mills Co., 93 Va. 6738, 25 8\nhomas v. Gregg, %& Md, 545, 28\nAtl. 565. 44 Am. St. Rep. 310.—Ex dividend.\nA..phrase used by stock brokers, meaning that\na 'sale of corporate stock doés not carry with\nit the selle#'s right to receive his proportionate\nshare of a dividend already declared and shortly payable.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entries starting with 'DIVIDENDA'"
+  },
+  "ELEEMOSYNARIUS": {
+    "body": "In old English\nlaw. An almoner, or chief officer, who re\nceived the eleemosynary rents ani gifts, and\nin due method distributed them to pious and\ncharitable uses. Cowell; Wharton.\nThe name of an officer (lord almoner) of\nthe English kings, in former times, who distributed the royal alms or bounty. Fleta,\nlib. 2, c. 23.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entries starting with 'ELEEMOSYNARY'"
+  },
+  "EMPTIO REI SPERATA": {
+    "body": "A\npurchase in the hope of an uncertain future\nprofit; the purchase of a thing not yet in existence or not yet in the possession of the seller, as, the cast of a net or a crop to be grown,\nand the price of which is to depend on the actual gain. On the other hand, if the price\nis fixed and not subject to fluctuation, but is\nto be paid whether the gain be greater or less,\nit is called emptio spei. Mackeld. Rom. Law.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entries starting with 'EN ARERE'"
+  },
+  "EN JUICIO": {
+    "body": "Sp. Judicially; in a\ncourt of law; in a suit at law. White, New\nRecop. b. 2, tit. 8, a 1\n\nEN MASSE.\nat wholesale.\n\nFr. In a mass; in a lump;",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entries starting with 'EN MORT MAIN'"
+  },
+  "ENTREGA": {
+    "body": "Span. Delivery. Las Partidas, pt. 6, tit. 14, L 1.:",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entries starting with 'ENTREPOT'"
+  },
+  "FLEM": {
+    "body": "In Saxon and old English law.\nA fugitive bondman or villein. Spelman.\nThe privilege of having the goods and\nfines of fugitives.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entries starting with 'FLEMENE FRIT'"
+  },
+  "HYPOTHECA": {
+    "body": "\"Hypotheca\" was a term\nof the Roman law, and denoted a pledge or\nmortgage. As distinguished from the term\n\"oignus,\" in the same law, it denoted a mortgage, whether of lands or of goods, in which\nthe subject in pledge remained in the possession of the mortgagor or debtor; whereas\nin the pignus the mortgagee or creditor was\nin the possession. Such an hypotheca might\nbe either express or implied; express, where\nthe parties upon the occasion of a loan entered into express agreement to that effect;\nor implied, as, é. g., in the case of the stock\nand utensils of a farmer, which were subject\nto the landlord's right as a creditor for rent;\nwhence the Scotch law of hypothec.\nThe word has suggested the term \"hypothecate,\" as used in the mercantile and maritime law of England. Thus, under the fac\ntor's act, goods are frequently said to be\n\"hypothecated;\" and a captain is said to\nhave a right to hypothecate his vessel for\nnecessary repairs. Brown. See Mackeld.\nRom. Law, §§ 334-359.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entries starting with 'HYPOTHECARIA ACTIO'"
+  },
+  "IMAGINE": {
+    "body": "In English law. In cases of\ntreason the law makes it a crime to imagine the death of the king. But, in order to\ncomplete the crime, this act of the mind\nmust be demonstrated by some overt act.\nThe terms \"imagining\" and \"compassing\"\nare in this connection synonymous.. 4 BI.\nComm. 78.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entries starting with 'IMAN'"
+  },
+  "INDICTOR": {
+    "body": "He who causes another to\nbe indicted. The latter is sometimes called\nthe “indictee.” aa\n\ndisinterested. People v. Vermilyea, 7 Cow.\n(N. Y.) 122; Wox v. Hills, 1 Corn. 307.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entries starting with 'INDIGENA'"
+  },
+  "INNOVANCY": {
+    "body": "The state of being in the power or possession of another. 2 Bl. Comm. 8.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entries starting with 'INNOVARE'"
+  },
+  "INQUEST OF VIOLENCE": {
+    "body": "An inquest held before a coroner to ascertain the cause of death of a person found dead in such a condition as to create a suspicion that he came to his death by violence. People v. Slocum, 23 Hun, 571.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entries starting with 'INQUIETUDE'"
+  },
+  "MAJORA": {
+    "body": "The king's dignity, power, and royal prerogative, as opposed to his revenue, which is comprised in\nthe minora regalia. 2 Steph. Comm. 475; 1\nBl. Comm. 240.\n\nMajore pena affeetus quam legibus\nstatuta est, non est infamis, One affected with a greater punishment than is provided by law is not infamous. 4 Inst. 66",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entries starting with 'MAJORES'"
+  },
+  "MANCIPAT": {
+    "body": "In Saxon law. A compensation or recompense for homicide, particularly\ndue to the lord for killing his man or vassal,\nthe amount of which was regulated by that\nof the tocre.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entries starting with 'MANCUS'"
+  },
+  "OPERATIO": {
+    "body": "One day's work performed\nby a tenant for his lord.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entries starting with 'OPERATION'"
+  },
+  "PROHIBITED": {
+    "body": "Those degrees of relationship by consanguinity which\nare so close that marriage between persons\nrelated to each other in any of such degrees\nis forbidden by law. See State v. Guiton, 51\nLa. Ann. 155, 24 South. 784.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entries starting with 'PROHIBITIO DE VASTO'"
+  },
+  "RECOGNITION": {
+    "body": "Ratification; confirmation; an acknowledgment that something\ndone by another person in one's name had\none's authority.\nAn inquiry conducted by a chosen body\nof men, not sitting as part of the court, into\nthe facts in dispute in a case at law; these\n\"recognitors\" preceded the jurymen of modern times, and reported their recognition or\nverdict to the court. Stim. Law Gloss.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entries starting with 'RECOGNITIONE ADNULLANDA PER VIM ET DURITIEM FACTA'"
+  },
+  "REGENCY": {
+    "body": "Rule; government; kingship. The man or body of men intrusted\nwith the vicarious government of a kingdom\n'during the minority, absence, insanity, or\nother disability of the king. z",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entries starting with 'REGENT'"
+  },
+  "RESIDENCE": {
+    "body": "Living or dwelling in a\ncertain place permanéntly or for a considerable length of time. The place where a man:\n\nmakes his home, or where he dwells permanently or for an extended period of time.\n\n_ The difference between a residence and a domicile may not be capable of easy definition; but\nevery one can see at least this distinction: -A\nperson domiciled in one state may, for tempo-\nTary reasons, such as health, reside for one or\nmore years in some other place deemed more\nfavorable. He does not, by so doing, forfeit his\ndomicile in the first state, or, in any proper\nsense, become a non-resident of it, unless some\nintention, manifested by some act, of abandoning his residence in the first state is shown.\nWalker's Estate v. Walker, 1 Mo. App. 404.\n\"Residence\" means a fixed and permanent\nabode or dwelling-place for the time being, as\ncontradistinguished from a mere temporary locality of existence. So does \"inhabitancy;\" and\nthe two are distinguishable in this respect from\ni ial In re Wrigley, 8 Wend. (N. ¥.)\n\nAs they are used'in the New York Code of\nProcedure, the terms \"residence\" and \"resident\"\nmean legal residence; and legal residence is the\npeace of a man's fixed habitation, where his poitical rights are to be exercised, and where he\nis liable to taxation. Houghton v. Ault, 16\nHow. Prac. (N. Y.) 77.\nA distinction is recognized between legal and\nactual residence. A person may be a legal resident of one place and an actual resident of another. He may abide in one state or country\nwithout surrendering his legal residence in another, if he so intends. His legal residence may\nbe merely ideal, but his actual residence must be\nsubstantial. He may not actually abide at his\nlegal residence at all, but his actual residence\nmust be his abiding place. Tipton v. Tipton,\n87 Ky. 243, 8 SB. W. 440; Hinds v. Hinds, 1\nIowa, 36; witagerald vy. Arel, 63 Iowa, 104, 18\nN. W. 713, 50 Am. Rep. 733; Ludlow v. Szold,\n90 Iowa, 175, 57 N. W. 676.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entries starting with 'RESIDENT'"
+  },
+  "SCAPHA": {
+    "body": "Lat. In Roman law. A boat;\na lighter. A ship's boat.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entries starting with 'SOCAVAGE'"
+  },
+  "SECT": {
+    "body": "\"A religious sect is a body or\nnumber of persons united in tenets, but constituting a distinct organization or party, by\nholding sentiments or doctrines different\nfrom:-those of other sects or people.\" State\n\n_ vy. Hallock, 16 Nev. 385.\n\n- SECTA. In old English law. Suit; attendance at court; the plaintiff's suit or following, 4 e., the witnesses whom he was required, in tHe ancient practice, to bring with\nhim and produce in court, for the purpose\nof confirming his claim, before the defendant was put to the necessity of answering\nthe declaration. See 3 Bl. Comm. 295, 344;\nBract. fol. 214a. A survival from this proceeding is seen in the formula still used at\nthe end of declarations, \"and therefore he\nbrings his suit,\" (et inde producit sectan.)\n' This word, in its secondary meaning, sig-\n\nhifies suit in the courts; lawsult.\n-—Secta ad curiam. A writ that lay against\nhim who refused to perform his suit either to\nthe county court or the court-baron. Cowell.\n—Secta ad furmum. In old English law.\nSuit due to a man's public oven or bake-house.\n\n. Comm. 235.—Secta ad justiciam facfendam,. In old English law. A service which\na man is bound to perform by his fee.—Secta\nad molendinum. A writ which lay for the\nowner of a mil! against the inhabitants of a.\nplace where such mill is situated, for not doing\nsuit to the plaintiff's mill; that is, for not having their corn ground at it. Brown.—Secta ad\ntorrale. In old English law. Suit due to\na man's kiln or malthouse. 3 Bl. Comm.,\n—Secta curiz. In old English law. Suit of\ncourt; attendance at court. The service,\nincumbent upon feudal tenants, of attending the\nlord at his court, both to form a jury when\nrequired, and also to answer for their own\nactions when complained of.—Secta facienda\nper illam qus habet eniciam partem.\nA writ to compel the heir, who has the elder's\nrt of the co-heirs, to perform suit and servces for all the coparceners. Reg. Orig. 177.\n—Secta regalis. <A suit so called by which\nall persons were bound twice in the year to\nattend in the sheriff's tourn, in order that\nthey might be informed of things relating to\nthe public peace. It was so called because\nthe sheriff's tourn was the king's leet, and\nit was held in order that the people might\nbe bound by oath to bear true allegiance to the\nking. Cowell.—Secta ca tantum facienda pro pluribus hereditatibus. A\nwrit for an heir who was distrained by the lord\nto do more suits than one, that he should be\nallowed 'to 'do one suit only in respect of the\nland of divers heirs descended to him. Cowell.\n\nSecta est pugna civilis; sicut actores\narmantur actionibus, et, quasi, gladiis\naccinguntur, ita rei muniuntur exceptionibus, et defenduntur, quasi, clypeis.\nfiob. 20. A suit is a civil warfare; for as\nthe plaintiffs are armed with actions, and, as\nit were, girded with swords, so the defendants are fortified with pleas, and are defended, as it were, by shields.\n\n_ Secta que scripto nititur a scripto\nvwariari non debet. Jenk. Cent. 65. <A suit\nwhich is based upon a writing ought not to\nyary from'the writing.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entries starting with 'SECTATORES'"
+  },
+  "SPECIFICATIO": {
+    "body": "Lat. In the civil law.\nLiterally, a making of form; a giving of\nform to materials. That mode of acquiring\nproperty through which a person, by transforming a thing belonging to another, especially by working up his materials into a\nnew species, becomes proprietor of the same.\nMackeld. Rom. Law, § 271,",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entries starting with 'SPECIFICATION'"
+  },
+  "STRADDLE": {
+    "body": "In stock-brokers' parlance the term means the double privilege of a \"put\" and a \"call,\" and secures to the holder the right to demand of the seller at a certain price within a certain time a certain number of shares of specified stock, or to require him to take, at the same price within the same time, the same shares of stock. Harris v. Tumbridge, 83 N. Y. 95, 38 Am. Rep. 398.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entries starting with 'STRAMINEUS HOMO'"
+  },
+  "TRINEPTIS": {
+    "body": "Lat. In the civil law. A\ngreat-grandson's or great-granddaughter's\ngreat-granddaughter. A female descendant\nin the sixth degree. Inst. 3, 6, 4.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entries starting with 'TRINITY HOUSE'"
+  },
+  "WINDING": {
+    "body": "The name applied in\nEngland to the process of settling the ac\ncounts and liquidating the assets of a partnership or company, for the purpose of making distribution and dissolving the concern.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entries starting with 'WINDING-UP ACTS'"
+  },
+  "YIELD": {
+    "body": "in the law of real property, is to\nperform a service due by a tenant to his lord.\nHence the usual form of reservation of a\nrent in a lease begins with the words “yielding and paying.” Sweet.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entries starting with 'YIELDING AND PAYING'"
+  },
+  "DE ANNO BISSEXTILI": {
+    "body": "Of the bissextile or leap year. The title of a statute\npassed in the twenty-first year of Henry ITI.,\nwhich in fact, however, is nothing more than\na sort of writ or direction to the justices of\nthe bench, instructing them how the extraordinary day in the leap year was to be\nreckoned in cases where persons had a day\nto appear at the distance of a year, as on the\nessoin de malo lecti, and the like. It was\nthereby directed that the additional day\nshould, together with that which went before, be reckoned only as one, and so, of\ncourse, within the preceding year. 1 Reeve,\nEng. Law, 266.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entries starting with 'DE ANNUA PENSIONE'"
+  },
+  "DE ARTE ET PARTE": {
+    "body": "Of art and part.:\nA phrase in old Scotch law.",
+    "_source": "boundary_split_trim",
+    "reason": "Trimmed embedded entries starting with 'DE ASPORTATIS RELIGIOSORUM'"
   }
 }

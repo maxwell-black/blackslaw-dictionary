@@ -1,27 +1,27 @@
 {
   "A": {
     "file": "data/entries_a.json",
-    "count": 1258
+    "count": 1261
   },
   "B": {
     "file": "data/entries_b.json",
-    "count": 524
+    "count": 525
   },
   "C": {
     "file": "data/entries_c.json",
-    "count": 1393
+    "count": 1399
   },
   "D": {
     "file": "data/entries_d.json",
-    "count": 891
+    "count": 897
   },
   "E": {
     "file": "data/entries_e.json",
-    "count": 659
+    "count": 664
   },
   "F": {
     "file": "data/entries_f.json",
-    "count": 740
+    "count": 741
   },
   "G": {
     "file": "data/entries_g.json",
@@ -29,11 +29,11 @@
   },
   "H": {
     "file": "data/entries_h.json",
-    "count": 470
+    "count": 471
   },
   "I": {
     "file": "data/entries_i.json",
-    "count": 639
+    "count": 644
   },
   "J": {
     "file": "data/entries_j.json",
@@ -49,7 +49,7 @@
   },
   "M": {
     "file": "data/entries_m.json",
-    "count": 709
+    "count": 711
   },
   "N": {
     "file": "data/entries_n.json",
@@ -57,11 +57,11 @@
   },
   "O": {
     "file": "data/entries_o.json",
-    "count": 255
+    "count": 256
   },
   "P": {
     "file": "data/entries_p.json",
-    "count": 1048
+    "count": 1050
   },
   "Q": {
     "file": "data/entries_q.json",
@@ -69,15 +69,15 @@
   },
   "R": {
     "file": "data/entries_r.json",
-    "count": 652
+    "count": 655
   },
   "S": {
     "file": "data/entries_s.json",
-    "count": 1027
+    "count": 1034
   },
   "T": {
     "file": "data/entries_t.json",
-    "count": 524
+    "count": 526
   },
   "U": {
     "file": "data/entries_u.json",
@@ -89,7 +89,7 @@
   },
   "W": {
     "file": "data/entries_w.json",
-    "count": 254
+    "count": 255
   },
   "X": {
     "file": "data/entries_x.json",
@@ -97,7 +97,7 @@
   },
   "Y": {
     "file": "data/entries_y.json",
-    "count": 18
+    "count": 19
   },
   "Z": {
     "file": "data/entries_z.json",

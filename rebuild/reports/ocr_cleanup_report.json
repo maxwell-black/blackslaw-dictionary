@@ -1,23 +1,23 @@
 {
-  "total_entries": 12934,
-  "entries_changed": 349,
+  "total_entries": 12981,
+  "entries_changed": 340,
   "pattern_counts": {
-    " @ -> a": 108,
-    "a@->a": 30,
+    " @ -> a": 105,
+    "a@->a": 29,
     "@->a_before_lc": 16,
     "@b->ab": 2,
-    "hyphen_rejoin": 139,
+    "hyphen_rejoin": 136,
     "4nd->and": 2,
     "&@->a": 10,
     "witb->with": 9,
-    "tbe->the": 11,
-    "@->a_mid_word": 21,
+    "tbe->the": 9,
+    "@->a_mid_word": 20,
     "bim->him": 5,
     "(@->a": 2,
     "isolated_a_line": 2,
     "ber->her": 8,
     "4s->as": 3,
-    "4t->at": 2,
+    "4t->at": 1,
     "bave->have": 3,
     "tbat->that": 3,
     "beld->held": 1,
@@ -159,13 +159,6 @@
       "term": "ACCORD",
       "fixes": {
         "4nd->and": 1
-      },
-      "chars_changed": 1
-    },
-    {
-      "term": "ACCOUNT",
-      "fixes": {
-        "a@->a": 1
       },
       "chars_changed": 1
     },
@@ -313,13 +306,6 @@
       "term": "ANECIUS",
       "fixes": {
         "@->a_before_lc": 1
-      },
-      "chars_changed": 1
-    },
-    {
-      "term": "ANGUISH",
-      "fixes": {
-        "hyphen_rejoin": 1
       },
       "chars_changed": 1
     },
@@ -849,13 +835,6 @@
       "chars_changed": 1
     },
     {
-      "term": "DIVIDEND",
-      "fixes": {
-        "hyphen_rejoin": 1
-      },
-      "chars_changed": 1
-    },
-    {
       "term": "DIVORCE",
       "fixes": {
         " @ -> a": 3
@@ -946,15 +925,6 @@
         "hyphen_rejoin": 1
       },
       "chars_changed": 1
-    },
-    {
-      "term": "EVICTION",
-      "fixes": {
-        " @ -> a": 1,
-        "@->a_mid_word": 1,
-        "tbe->the": 1
-      },
-      "chars_changed": 3
     },
     {
       "term": "EXCESSIVE",
@@ -1263,20 +1233,6 @@
       "term": "INDIVIDUAL",
       "fixes": {
         "a@->a": 1
-      },
-      "chars_changed": 1
-    },
-    {
-      "term": "INFORMALITY",
-      "fixes": {
-        "4t->at": 1
-      },
-      "chars_changed": 1
-    },
-    {
-      "term": "INFORTIATUM",
-      "fixes": {
-        "hyphen_rejoin": 1
       },
       "chars_changed": 1
     },
@@ -2082,27 +2038,6 @@
       "term": "SEMI-MATRIMONIUM",
       "fixes": {
         "ber->her": 1
-      },
-      "chars_changed": 1
-    },
-    {
-      "term": "SENTENCE",
-      "fixes": {
-        "tbe->the": 1
-      },
-      "chars_changed": 1
-    },
-    {
-      "term": "SETTLEMENT",
-      "fixes": {
-        " @ -> a": 1
-      },
-      "chars_changed": 1
-    },
-    {
-      "term": "SETTLER",
-      "fixes": {
-        " @ -> a": 1
       },
       "chars_changed": 1
     },

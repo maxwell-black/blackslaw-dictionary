@@ -1,19 +1,19 @@
 # OCR Artifact Cleanup Report
 
-Applied conservative OCR fixes to 349 of 12934 entries.
+Applied conservative OCR fixes to 340 of 12981 entries.
 
 ## Fix Summary
 
 | Pattern | Count | Description |
 |---------|-------|-------------|
-| hyphen_rejoin | 139 | Rejoin hyphenated line breaks |
-|  @ -> a | 108 | @ with spaces -> a |
-| a@->a | 30 | a@ -> a |
-| @->a_mid_word | 21 | @ between letters -> a |
+| hyphen_rejoin | 136 | Rejoin hyphenated line breaks |
+|  @ -> a | 105 | @ with spaces -> a |
+| a@->a | 29 | a@ -> a |
+| @->a_mid_word | 20 | @ between letters -> a |
 | @->a_before_lc | 16 | @ before lowercase -> a |
-| tbe->the | 11 | b/h swap: tbe -> the |
 | &@->a | 10 | &@->a |
 | witb->with | 9 | b/h swap: witb -> with |
+| tbe->the | 9 | b/h swap: tbe -> the |
 | ber->her | 8 | b/h swap: ber -> her |
 | bim->him | 5 | b/h swap: bim -> him |
 | 4s->as | 3 | 4s->as |
@@ -24,7 +24,7 @@ Applied conservative OCR fixes to 349 of 12934 entries.
 | 4nd->and | 2 | Digit swap: 4nd -> and |
 | (@->a | 2 | (@ -> (a |
 | isolated_a_line | 2 | isolated_a_line |
-| 4t->at | 2 | 4t->at |
+| 4t->at | 1 | 4t->at |
 | beld->held | 1 | beld->held |
 | 4n->an | 1 | 4n->an |
 | bolding->holding | 1 | bolding->holding |
@@ -32,7 +32,7 @@ Applied conservative OCR fixes to 349 of 12934 entries.
 
 ---
 
-## Changed Entries (349 entries)
+## Changed Entries (340 entries)
 
 | Term | Fixes Applied |
 |------|--------------|
@@ -55,7 +55,6 @@ Applied conservative OCR fixes to 349 of 12934 entries.
 | ABSQUE IMPETITIONE VASTI | hyphen_rejoin(1) |
 | ACCOMENDA |  @ -> a(1) |
 | ACCORD | 4nd->and(1) |
-| ACCOUNT | a@->a(1) |
 | ACQUIT |  @ -> a(1) |
 | ACTE | hyphen_rejoin(1) |
 | ACTIO | &@->a(1) |
@@ -77,7 +76,6 @@ Applied conservative OCR fixes to 349 of 12934 entries.
 | AMENDMENT | hyphen_rejoin(1) |
 | ANCIENT | hyphen_rejoin(1) |
 | ANECIUS | @->a_before_lc(1) |
-| ANGUISH | hyphen_rejoin(1) |
 | ANNUAL | a@->a(1) |
 | APPOINTMENT | hyphen_rejoin(1) |
 | ARCHIVES | hyphen_rejoin(1) |
@@ -86,4 +84,6 @@ Applied conservative OCR fixes to 349 of 12934 entries.
 | ARRIVE | hyphen_rejoin(1) |
 | ARTICLED CLERK | hyphen_rejoin(1) |
 | ASSEMBLY | hyphen_rejoin(1) |
-| ... | (299 more entries) |
+| ASSETS | hyphen_rejoin(1) |
+| ATAVUS | hyphen_rejoin(1) |
+| ... | (290 more entries) |
