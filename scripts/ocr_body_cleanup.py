@@ -1,13 +1,19 @@
 #!/usr/bin/env python3
 """
-ocr_body_cleanup.py — Conservative OCR artifact cleanup for entry bodies.
+ocr_body_cleanup.py — OCR artifact cleanup for entry bodies.
 
-Applies ONLY unambiguous fixes:
+Applies unambiguous fixes:
   1. @ -> a (extends existing patterns from clean_body_ocr.py)
   2. h/b swaps: tbe->the, witb->with, tbat->that, bave->have, bim->him,
      tbeir->their, wbo->who, etc.
   3. Hyphenated line breaks: "word-\nletter" -> "wordletter"
   4. 4-for-a fixes (already in clean_body_ocr.py, extended here)
+  5. 8-for-S in abbreviation context (U. 8. -> U. S.)
+  6. Standalone "aud" -> "and"
+  7. Pipe character removal
+  8. g. v.) -> q. v.) and parenthesis alignment
+  9. Euro sign fixes (i. €. -> i. e.)
+  10. Additional h/b swaps (otber->other, etc.)
 
 Does NOT fix:
   - 'bis' (could be Latin "bis" meaning "twice")
@@ -107,15 +113,53 @@ HB_FIXES = [
     (r'\bbusband\b', 'husband', 'busband->husband'),
     # h -> b (less common)
     (r'\bhe\b', None, None),  # DO NOT fix 'he' - it's always correct
+    # Additional h/b swaps
+    (r'\botber\b', 'other', 'otber->other'),
+    (r'\bOtber\b', 'Other', 'Otber->Other'),
+    (r'\botbers\b', 'others', 'otbers->others'),
+    (r'\banotber\b', 'another', 'anotber->another'),
+    (r'\brigbt\b', 'right', 'rigbt->right'),
+    (r'\bRigbt\b', 'Right', 'Rigbt->Right'),
 ]
 
 # Remove None entries (DO NOT FIX markers)
 HB_FIXES = [(p, r, l) for p, r, l in HB_FIXES if r is not None]
 
+# ── 8-for-S in abbreviation context ──────────────────────────────────────────
+# "U. 8." -> "U. S.", "D. 8." -> "D. S.", etc. (X. 8. -> X. S.)
+EIGHT_S_PATTERN = re.compile(r'([A-Z])\.\s*8\.')
+
+# ── Standalone "aud" -> "and" ──────────────────────────────────────────────
+# Only when standalone word (not part of fraud, laud, etc.)
+AUD_PATTERN = re.compile(r'\baud\b')
+
+# ── Pipe character removal ────────────────────────────────────────────────
+PIPE_PATTERN = re.compile(r'\s\|\s')
+
+# ── g. v.) -> q. v.) fix (OCR garble of q->g) ──────────────────────────────
+GV_PATTERN = re.compile(r'g\.\s*v\.\)')
+
+# ── Missing open paren on q. v.) ──────────────────────────────────────────
+QV_NOPAREN = re.compile(r'(?<!\()q\.\s*v\.\)')
+
+# ── Euro sign fixes ──────────────────────────────────────────────────────
+EURO_FIXES = [
+    (re.compile(r'i\.\s*\u20ac\.'), 'i. e.', 'euro->ie'),
+    (re.compile(r'\u20ac\.\s*g\.'), 'e. g.', 'euro->eg'),
+    (re.compile(r'\u20ac'), 'e', 'euro->e'),
+]
+
+# ── Specific word fixes ──────────────────────────────────────────────────
+WORD_FIXES = [
+    (r'\bexaniples\b', 'examples', 'exaniples->examples'),
+]
+
 # ── Hyphenated line break fixes ──────────────────────────────────────────────
 # Pattern: "word-\nletter" where the hyphen is a line-break hyphen, not a real hyphen
 # Only rejoin when next line starts with lowercase (continuation)
 HYPH_PATTERN = re.compile(r'(\w)-\n([a-z])')
+# Also handle "word- letter" (hyphen + space + lowercase)
+HYPH_SPACE_PATTERN = re.compile(r'(\w)-\s+([a-z])')
 
 
 def clean_body_extended(body):
@@ -148,20 +192,66 @@ def clean_body_extended(body):
     # 4. Hyphenated line breaks
     # "word-\nletter" -> "wordletter" (rejoin hyphenated words)
     new_text = HYPH_PATTERN.sub(r'\1\2', text)
-    n_hyph = len(text) - len(new_text) + text.count('-\n') - new_text.count('-\n')
     if new_text != text:
-        # Count actual substitutions
         n_hyph = len(HYPH_PATTERN.findall(text))
         counts['hyphen_rejoin'] = n_hyph
         text = new_text
 
-    # 5. Post-cleanup: collapse double spaces
+    # 4b. Hyphenated space breaks: "word- letter" -> "wordletter"
+    new_text = HYPH_SPACE_PATTERN.sub(r'\1\2', text)
+    if new_text != text:
+        n_hyph2 = len(HYPH_SPACE_PATTERN.findall(text))
+        counts['hyphen_space_rejoin'] = n_hyph2
+        text = new_text
+
+    # 5. 8-for-S in abbreviation context
+    new_text = EIGHT_S_PATTERN.sub(r'\1. S.', text)
+    if new_text != text:
+        counts['8->S_abbrev'] = len(EIGHT_S_PATTERN.findall(text))
+        text = new_text
+
+    # 6. Standalone "aud" -> "and"
+    new_text = AUD_PATTERN.sub('and', text)
+    if new_text != text:
+        counts['aud->and'] = len(AUD_PATTERN.findall(text))
+        text = new_text
+
+    # 7. Pipe character removal
+    new_text = PIPE_PATTERN.sub(' ', text)
+    if new_text != text:
+        counts['pipe_remove'] = len(PIPE_PATTERN.findall(text))
+        text = new_text
+
+    # 8. g. v.) -> q. v.) (OCR garble of q->g)
+    new_text = GV_PATTERN.sub('q. v.)', text)
+    if new_text != text:
+        counts['gv->qv'] = len(GV_PATTERN.findall(text))
+        text = new_text
+
+    # 9. Missing open paren on q. v.)
+    new_text = QV_NOPAREN.sub('(q. v.)', text)
+    if new_text != text:
+        counts['qv_paren_fix'] = len(QV_NOPAREN.findall(text))
+        text = new_text
+
+    # 10. Euro sign fixes
+    for pat, repl, label in EURO_FIXES:
+        new_text = pat.sub(repl, text)
+        if new_text != text:
+            counts[label] = len(pat.findall(text))
+            text = new_text
+
+    # 11. Specific word fixes
+    for pattern, repl, label in WORD_FIXES:
+        counted_sub(pattern, repl, label)
+
+    # 12. Post-cleanup: collapse double spaces
     new_text = re.sub(r'  +', ' ', text)
     if new_text != text:
         counts['double_space'] = text.count('  ')
         text = new_text
 
-    # 6. Post-@ reflow: isolated 'a' on its own line
+    # 13. Post-@ reflow: isolated 'a' on its own line
     new_text = re.sub(r'\n a \n', ' a ', text)
     if new_text != text:
         counts['isolated_a_line'] = 1
