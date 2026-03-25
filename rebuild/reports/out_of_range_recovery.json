@@ -1,0 +1,1122 @@
+{
+  "count": 24,
+  "action_summary": {
+    "manual_review": 24
+  },
+  "worklist": [
+    {
+      "entry_id": "ITINERE FIAT",
+      "current_headword": "ITINERE FIAT",
+      "current_letter": "I",
+      "source_pages": [
+        807
+      ],
+      "inferred_letter": "N",
+      "severity": "medium",
+      "entry_type": "unknown",
+      "body_preview": "Lat. That nothing shall be done (put or erected) in a public place or way. The title of an interdict in the Roman law. Dig. 43, 8.",
+      "body_length": 130,
+      "oracle_candidate": null,
+      "oracle_exists_in_corpus": false,
+      "nearby_entries": [
+        {
+          "id": "NATURAL",
+          "headword": "NATURAL",
+          "letter": "N"
+        },
+        {
+          "id": "NATURALIZATION",
+          "headword": "NATURALIZATION",
+          "letter": "N"
+        },
+        {
+          "id": "NATURALIZE",
+          "headword": "NATURALIZE",
+          "letter": "N"
+        },
+        {
+          "id": "NATURALIZED CITIZEN",
+          "headword": "NATURALIZED CITIZEN",
+          "letter": "N"
+        },
+        {
+          "id": "NATURALLY",
+          "headword": "NATURALLY",
+          "letter": "N"
+        }
+      ],
+      "page_text_snippet": "",
+      "ia_urls": [
+        "https://archive.org/details/blacks-law-dictionary-2nd-edition-1910/page/n807"
+      ],
+      "recommended_action": "manual_review",
+      "action_detail": "Body-oracle could not extract a candidate. Check the IA page to identify the correct headword visually."
+    },
+    {
+      "entry_id": "L.",
+      "current_headword": "L.",
+      "current_letter": "L",
+      "source_pages": [
+        552
+      ],
+      "inferred_letter": "H",
+      "severity": "medium",
+      "entry_type": "unknown",
+      "body_preview": "Fr. Abandon- GUERPI, GUERPY. ed; left; deserted: Britt. c. 33.",
+      "body_length": 62,
+      "oracle_candidate": null,
+      "oracle_exists_in_corpus": false,
+      "nearby_entries": [
+        {
+          "id": "GROWING CROP",
+          "headword": "GROWING CROP",
+          "letter": "G"
+        },
+        {
+          "id": "GROWTH",
+          "headword": "GROWTH",
+          "letter": "G"
+        },
+        {
+          "id": "GRUARII",
+          "headword": "GRUARII",
+          "letter": "G"
+        },
+        {
+          "id": "GRUB STAKE",
+          "headword": "GRUB STAKE",
+          "letter": "G"
+        },
+        {
+          "id": "GUADIA",
+          "headword": "GUADIA",
+          "letter": "G"
+        }
+      ],
+      "page_text_snippet": "",
+      "ia_urls": [
+        "https://archive.org/details/blacks-law-dictionary-2nd-edition-1910/page/n552"
+      ],
+      "recommended_action": "manual_review",
+      "action_detail": "Body-oracle could not extract a candidate. Check the IA page to identify the correct headword visually."
+    },
+    {
+      "entry_id": "QO",
+      "current_headword": "QO",
+      "current_letter": "Q",
+      "source_pages": [
+        867
+      ],
+      "inferred_letter": "O",
+      "severity": "medium",
+      "entry_type": "unknown",
+      "body_preview": "An abbreviation of \"public officer;\" also of \"post-office.\"\n\nP. P. An abbreviation for \"propria per. sona,\" in bis proper person, in his own per- 90n,\n\nP. 8. An abbreviation for \"Public Statutes;\" als",
+      "body_length": 219,
+      "oracle_candidate": null,
+      "oracle_exists_in_corpus": false,
+      "nearby_entries": [
+        {
+          "id": "OVERRULE",
+          "headword": "OVERRULE",
+          "letter": "O"
+        },
+        {
+          "id": "OVERSAMESSA",
+          "headword": "OVERSAMESSA",
+          "letter": "O"
+        },
+        {
+          "id": "OVERSEER",
+          "headword": "OVERSEER",
+          "letter": "O"
+        },
+        {
+          "id": "OVERT",
+          "headword": "OVERT",
+          "letter": "O"
+        },
+        {
+          "id": "OVERTURE",
+          "headword": "OVERTURE",
+          "letter": "O"
+        }
+      ],
+      "page_text_snippet": "",
+      "ia_urls": [
+        "https://archive.org/details/blacks-law-dictionary-2nd-edition-1910/page/n867"
+      ],
+      "recommended_action": "manual_review",
+      "action_detail": "Body-oracle could not extract a candidate. Check the IA page to identify the correct headword visually."
+    },
+    {
+      "entry_id": "U.B",
+      "current_headword": "U.B",
+      "current_letter": "U",
+      "source_pages": [
+        1151
+      ],
+      "inferred_letter": "T",
+      "severity": "medium",
+      "entry_type": "unknown",
+      "body_preview": "v. .» Thomas (D. C.) 69 Fed. 590; People v. Dono- Y. 442, hue, 84 N. Y. In Scotch law. The secret and felonious abstraction of the property of another for sake of lucre, without his consent Alis. Crim",
+      "body_length": 211,
+      "oracle_candidate": null,
+      "oracle_exists_in_corpus": false,
+      "nearby_entries": [
+        {
+          "id": "TESTAMENT",
+          "headword": "TESTAMENT",
+          "letter": "T"
+        },
+        {
+          "id": "TESTAMENTARY",
+          "headword": "TESTAMENTARY",
+          "letter": "T"
+        },
+        {
+          "id": "TESTAMENTI",
+          "headword": "TESTAMENTI",
+          "letter": "T"
+        },
+        {
+          "id": "TESTAMENTUM",
+          "headword": "TESTAMENTUM",
+          "letter": "T"
+        },
+        {
+          "id": "TESTARI",
+          "headword": "TESTARI",
+          "letter": "T"
+        }
+      ],
+      "page_text_snippet": "",
+      "ia_urls": [
+        "https://archive.org/details/blacks-law-dictionary-2nd-edition-1910/page/n1151"
+      ],
+      "recommended_action": "manual_review",
+      "action_detail": "Body-oracle could not extract a candidate. Check the IA page to identify the correct headword visually."
+    },
+    {
+      "entry_id": "YA",
+      "current_headword": "YA",
+      "current_letter": "Y",
+      "source_pages": [
+        1132
+      ],
+      "inferred_letter": "T",
+      "severity": "medium",
+      "entry_type": "unknown",
+      "body_preview": "As an abbreviation, this letter usually stands for either \"Territory,\" \"Trinity,\" \"term,\" \"tempore,\" (in the time of,) or \"title.\" Every person who was convicted of felony, short of murder, and admitt",
+      "body_length": 335,
+      "oracle_candidate": null,
+      "oracle_exists_in_corpus": false,
+      "nearby_entries": [
+        {
+          "id": "SUSPICIOUS CHARACTER",
+          "headword": "SUSPICIOUS CHARACTER",
+          "letter": "S"
+        },
+        {
+          "id": "SUTHDURE",
+          "headword": "SUTHDURE",
+          "letter": "S"
+        },
+        {
+          "id": "SUTLER",
+          "headword": "SUTLER",
+          "letter": "S"
+        },
+        {
+          "id": "SUUM CUIIQUE TRIBUERE",
+          "headword": "SUUM CUIIQUE TRIBUERE",
+          "letter": "S"
+        },
+        {
+          "id": "SUUS JUDEX",
+          "headword": "SUUS JUDEX",
+          "letter": "S"
+        }
+      ],
+      "page_text_snippet": "",
+      "ia_urls": [
+        "https://archive.org/details/blacks-law-dictionary-2nd-edition-1910/page/n1132"
+      ],
+      "recommended_action": "manual_review",
+      "action_detail": "Body-oracle could not extract a candidate. Check the IA page to identify the correct headword visually."
+    },
+    {
+      "entry_id": "I",
+      "current_headword": "I",
+      "current_letter": "I",
+      "source_pages": [
+        186
+      ],
+      "inferred_letter": "S",
+      "severity": "high",
+      "entry_type": "unknown",
+      "body_preview": "Fr. To drive, compel, or oblige; also to chase or hunt. @",
+      "body_length": 57,
+      "oracle_candidate": null,
+      "oracle_exists_in_corpus": false,
+      "nearby_entries": [
+        {
+          "id": "CERTIFICATION",
+          "headword": "CERTIFICATION",
+          "letter": "C"
+        },
+        {
+          "id": "CERTIFICATS",
+          "headword": "CERTIFICATS",
+          "letter": "C"
+        },
+        {
+          "id": "CERTIFIED",
+          "headword": "CERTIFIED",
+          "letter": "C"
+        },
+        {
+          "id": "CERTIORARI",
+          "headword": "CERTIORARI",
+          "letter": "C"
+        },
+        {
+          "id": "CERURA",
+          "headword": "CERURA",
+          "letter": "C"
+        }
+      ],
+      "page_text_snippet": "",
+      "ia_urls": [
+        "https://archive.org/details/blacks-law-dictionary-2nd-edition-1910/page/n186"
+      ],
+      "recommended_action": "manual_review",
+      "action_detail": "Body-oracle could not extract a candidate. Check the IA page to identify the correct headword visually."
+    },
+    {
+      "entry_id": "I.",
+      "current_headword": "I.",
+      "current_letter": "I",
+      "source_pages": [
+        330
+      ],
+      "inferred_letter": "C",
+      "severity": "high",
+      "entry_type": "unknown",
+      "body_preview": "Fr. Of his or her life; of his own life; as distinguished from pur autre vie, for another's life. Litt. §§ 35, 36.",
+      "body_length": 114,
+      "oracle_candidate": null,
+      "oracle_exists_in_corpus": false,
+      "nearby_entries": [
+        {
+          "id": "DE",
+          "headword": "DE",
+          "letter": "D"
+        },
+        {
+          "id": "DAY-RULE",
+          "headword": "DAY-RULE",
+          "letter": "D"
+        },
+        {
+          "id": "DEACON",
+          "headword": "DEACON",
+          "letter": "D"
+        },
+        {
+          "id": "DEAD BODY",
+          "headword": "DEAD BODY",
+          "letter": "D"
+        },
+        {
+          "id": "DEAD FREIGHT",
+          "headword": "DEAD FREIGHT",
+          "letter": "D"
+        }
+      ],
+      "page_text_snippet": "",
+      "ia_urls": [
+        "https://archive.org/details/blacks-law-dictionary-2nd-edition-1910/page/n330"
+      ],
+      "recommended_action": "manual_review",
+      "action_detail": "Body-oracle could not extract a candidate. Check the IA page to identify the correct headword visually."
+    },
+    {
+      "entry_id": "IV",
+      "current_headword": "IV",
+      "current_letter": "I",
+      "source_pages": [
+        1196
+      ],
+      "inferred_letter": "T",
+      "severity": "high",
+      "entry_type": "unknown",
+      "body_preview": "¢c. 83, which is an act for the punishment of idle and disotderly persons. 2 Unit. St. 145\n\n\"WALE. In Spanish law. A promissory note. White, New Recop. b. 3, tit. 7, ¢. 5, § 3. See Govin v. De Miranda",
+      "body_length": 481,
+      "oracle_candidate": null,
+      "oracle_exists_in_corpus": false,
+      "nearby_entries": [
+        {
+          "id": "UXOR",
+          "headword": "UXOR",
+          "letter": "U"
+        },
+        {
+          "id": "UXORICIDE",
+          "headword": "UXORICIDE",
+          "letter": "U"
+        },
+        {
+          "id": "UNDER-TREASURER",
+          "headword": "UNDER-TREASURER",
+          "letter": "U"
+        },
+        {
+          "id": "V",
+          "headword": "V",
+          "letter": "V"
+        },
+        {
+          "id": "VACANT",
+          "headword": "VACANT",
+          "letter": "V"
+        }
+      ],
+      "page_text_snippet": "",
+      "ia_urls": [
+        "https://archive.org/details/blacks-law-dictionary-2nd-edition-1910/page/n1196"
+      ],
+      "recommended_action": "manual_review",
+      "action_detail": "Body-oracle could not extract a candidate. Check the IA page to identify the correct headword visually."
+    },
+    {
+      "entry_id": "IV)",
+      "current_headword": "IV)",
+      "current_letter": "I",
+      "source_pages": [
+        1234
+      ],
+      "inferred_letter": "X",
+      "severity": "high",
+      "entry_type": "unknown",
+      "body_preview": "¢. 27, § 36, but is still in use in a few of the states of the Union. Sweet.-",
+      "body_length": 77,
+      "oracle_candidate": null,
+      "oracle_exists_in_corpus": false,
+      "nearby_entries": [
+        {
+          "id": "WORSHIP",
+          "headword": "WORSHIP",
+          "letter": "W"
+        },
+        {
+          "id": "WORTHING",
+          "headword": "WORTHING",
+          "letter": "W"
+        },
+        {
+          "id": "WOUNDING",
+          "headword": "WOUNDING",
+          "letter": "W"
+        },
+        {
+          "id": "WRECK",
+          "headword": "WRECK",
+          "letter": "W"
+        },
+        {
+          "id": "WRECKFREE",
+          "headword": "WRECKFREE",
+          "letter": "W"
+        }
+      ],
+      "page_text_snippet": "",
+      "ia_urls": [
+        "https://archive.org/details/blacks-law-dictionary-2nd-edition-1910/page/n1234"
+      ],
+      "recommended_action": "manual_review",
+      "action_detail": "Body-oracle could not extract a candidate. Check the IA page to identify the correct headword visually."
+    },
+    {
+      "entry_id": "L",
+      "current_headword": "L",
+      "current_letter": "L",
+      "source_pages": [
+        186
+      ],
+      "inferred_letter": "S",
+      "severity": "high",
+      "entry_type": "unknown",
+      "body_preview": "Fr. A chase or hunting ground.",
+      "body_length": 30,
+      "oracle_candidate": null,
+      "oracle_exists_in_corpus": false,
+      "nearby_entries": [
+        {
+          "id": "CERTIFICATION",
+          "headword": "CERTIFICATION",
+          "letter": "C"
+        },
+        {
+          "id": "CERTIFICATS",
+          "headword": "CERTIFICATS",
+          "letter": "C"
+        },
+        {
+          "id": "CERTIFIED",
+          "headword": "CERTIFIED",
+          "letter": "C"
+        },
+        {
+          "id": "CERTIORARI",
+          "headword": "CERTIORARI",
+          "letter": "C"
+        },
+        {
+          "id": "CERURA",
+          "headword": "CERURA",
+          "letter": "C"
+        }
+      ],
+      "page_text_snippet": "",
+      "ia_urls": [
+        "https://archive.org/details/blacks-law-dictionary-2nd-edition-1910/page/n186"
+      ],
+      "recommended_action": "manual_review",
+      "action_detail": "Body-oracle could not extract a candidate. Check the IA page to identify the correct headword visually."
+    },
+    {
+      "entry_id": "N.M",
+      "current_headword": "N.M",
+      "current_letter": "N",
+      "source_pages": [
+        325
+      ],
+      "inferred_letter": "C",
+      "severity": "high",
+      "entry_type": "unknown",
+      "body_preview": "(Lat. For taking a man in withernam.) A writ to take a man who had carried away a bondman or bondwoman into another country beyond the reach of a writ of replevin.",
+      "body_length": 163,
+      "oracle_candidate": null,
+      "oracle_exists_in_corpus": false,
+      "nearby_entries": [
+        {
+          "id": "DB",
+          "headword": "DB",
+          "letter": "D"
+        }
+      ],
+      "page_text_snippet": "",
+      "ia_urls": [
+        "https://archive.org/details/blacks-law-dictionary-2nd-edition-1910/page/n325"
+      ],
+      "recommended_action": "manual_review",
+      "action_detail": "Body-oracle could not extract a candidate. Check the IA page to identify the correct headword visually."
+    },
+    {
+      "entry_id": "N.P",
+      "current_headword": "N.P",
+      "current_letter": "N",
+      "source_pages": [
+        486,
+        487
+      ],
+      "inferred_letter": "E",
+      "severity": "high",
+      "entry_type": "unknown",
+      "body_preview": "491. In modern English tenures, \"fee\" signifies an estate of inheritance, being the highest and most extensive interest which a man can have in a feud; and when the term is used simply, without any ad",
+      "body_length": 3389,
+      "oracle_candidate": null,
+      "oracle_exists_in_corpus": false,
+      "nearby_entries": [
+        {
+          "id": "FARM",
+          "headword": "FARM",
+          "letter": "F"
+        },
+        {
+          "id": "FARMER",
+          "headword": "FARMER",
+          "letter": "F"
+        },
+        {
+          "id": "FARO",
+          "headword": "FARO",
+          "letter": "F"
+        },
+        {
+          "id": "FARRAGO LIBELLI",
+          "headword": "FARRAGO LIBELLI",
+          "letter": "F"
+        },
+        {
+          "id": "FARYNDON INN",
+          "headword": "FARYNDON INN",
+          "letter": "F"
+        }
+      ],
+      "page_text_snippet": "",
+      "ia_urls": [
+        "https://archive.org/details/blacks-law-dictionary-2nd-edition-1910/page/n486",
+        "https://archive.org/details/blacks-law-dictionary-2nd-edition-1910/page/n487"
+      ],
+      "recommended_action": "manual_review",
+      "action_detail": "Body-oracle could not extract a candidate. Check the IA page to identify the correct headword visually."
+    },
+    {
+      "entry_id": "O.R",
+      "current_headword": "O.R",
+      "current_letter": "O",
+      "source_pages": [
+        306
+      ],
+      "inferred_letter": "D",
+      "severity": "high",
+      "entry_type": "unknown",
+      "body_preview": "A common abbreviation of cura.",
+      "body_length": 30,
+      "oracle_candidate": null,
+      "oracle_exists_in_corpus": false,
+      "nearby_entries": [
+        {
+          "id": "CUI",
+          "headword": "CUI",
+          "letter": "C"
+        },
+        {
+          "id": "CUL",
+          "headword": "CUL",
+          "letter": "C"
+        },
+        {
+          "id": "CULAGIUM",
+          "headword": "CULAGIUM",
+          "letter": "C"
+        },
+        {
+          "id": "CULPA",
+          "headword": "CULPA",
+          "letter": "C"
+        },
+        {
+          "id": "CULPABILIS",
+          "headword": "CULPABILIS",
+          "letter": "C"
+        }
+      ],
+      "page_text_snippet": "",
+      "ia_urls": [
+        "https://archive.org/details/blacks-law-dictionary-2nd-edition-1910/page/n306"
+      ],
+      "recommended_action": "manual_review",
+      "action_detail": "Body-oracle could not extract a candidate. Check the IA page to identify the correct headword visually."
+    },
+    {
+      "entry_id": "R.&",
+      "current_headword": "R.&",
+      "current_letter": "R",
+      "source_pages": [
+        199
+      ],
+      "inferred_letter": "B",
+      "severity": "high",
+      "entry_type": "unknown",
+      "body_preview": "68. tian mame. The baptismal name distinct from the surname. Stratton v. Foster, 11 Me. 467. It has been said from the bench that a Christian name may consist of a single letter. rton..",
+      "body_length": 185,
+      "oracle_candidate": null,
+      "oracle_exists_in_corpus": false,
+      "nearby_entries": [
+        {
+          "id": "CHILD",
+          "headword": "CHILD",
+          "letter": "C"
+        },
+        {
+          "id": "CHILDREN",
+          "headword": "CHILDREN",
+          "letter": "C"
+        },
+        {
+          "id": "CHILDWIT",
+          "headword": "CHILDWIT",
+          "letter": "C"
+        },
+        {
+          "id": "CHILTERN HUNDREDS",
+          "headword": "CHILTERN HUNDREDS",
+          "letter": "C"
+        },
+        {
+          "id": "CHIMINAGE",
+          "headword": "CHIMINAGE",
+          "letter": "C"
+        }
+      ],
+      "page_text_snippet": "",
+      "ia_urls": [
+        "https://archive.org/details/blacks-law-dictionary-2nd-edition-1910/page/n199"
+      ],
+      "recommended_action": "manual_review",
+      "action_detail": "Body-oracle could not extract a candidate. Check the IA page to identify the correct headword visually."
+    },
+    {
+      "entry_id": "R.A",
+      "current_headword": "R.A",
+      "current_letter": "R",
+      "source_pages": [
+        213
+      ],
+      "inferred_letter": "C",
+      "severity": "high",
+      "entry_type": "unknown",
+      "body_preview": "760. 67 Am. St. Rep. 166; Turney v. State, 60 Ark. 279, 29 S. W. 808: Com. v. Lucas, 158 Mass. 81, 32 N. E. 1033; Jones v. Com., 80 Va. 20; Brinckle v. Brinckle, 12 Phila. (Pa.) 234.\n\nCohmwredes una p",
+      "body_length": 356,
+      "oracle_candidate": null,
+      "oracle_exists_in_corpus": false,
+      "nearby_entries": [
+        {
+          "id": "COAST-GUARD",
+          "headword": "COAST-GUARD",
+          "letter": "C"
+        },
+        {
+          "id": "COAT ARMOR",
+          "headword": "COAT ARMOR",
+          "letter": "C"
+        },
+        {
+          "id": "COBRA-VENOM REACTION",
+          "headword": "COBRA-VENOM REACTION",
+          "letter": "C"
+        },
+        {
+          "id": "COCKET",
+          "headword": "COCKET",
+          "letter": "C"
+        },
+        {
+          "id": "COCKPIT",
+          "headword": "COCKPIT",
+          "letter": "C"
+        }
+      ],
+      "page_text_snippet": "",
+      "ia_urls": [
+        "https://archive.org/details/blacks-law-dictionary-2nd-edition-1910/page/n213"
+      ],
+      "recommended_action": "manual_review",
+      "action_detail": "Body-oracle could not extract a candidate. Check the IA page to identify the correct headword visually."
+    },
+    {
+      "entry_id": "R.C",
+      "current_headword": "R.C",
+      "current_letter": "R",
+      "source_pages": [
+        235
+      ],
+      "inferred_letter": "C",
+      "severity": "high",
+      "entry_type": "unknown",
+      "body_preview": "369.—Compulsory monsuit. An involuntary nonsuit. See Nonsurt.—Compualsory ueymnent: One not made voluntarily, but exacted by duress, threats, the enforcement of legal process, or unconscionably taking",
+      "body_length": 711,
+      "oracle_candidate": null,
+      "oracle_exists_in_corpus": false,
+      "nearby_entries": [
+        {
+          "id": "COMPETENCY",
+          "headword": "COMPETENCY",
+          "letter": "C"
+        },
+        {
+          "id": "COMPETENT",
+          "headword": "COMPETENT",
+          "letter": "C"
+        },
+        {
+          "id": "COMPETITION",
+          "headword": "COMPETITION",
+          "letter": "C"
+        },
+        {
+          "id": "COMPILE",
+          "headword": "COMPILE",
+          "letter": "C"
+        },
+        {
+          "id": "COMPLAINANT",
+          "headword": "COMPLAINANT",
+          "letter": "C"
+        }
+      ],
+      "page_text_snippet": "",
+      "ia_urls": [
+        "https://archive.org/details/blacks-law-dictionary-2nd-edition-1910/page/n235"
+      ],
+      "recommended_action": "manual_review",
+      "action_detail": "Body-oracle could not extract a candidate. Check the IA page to identify the correct headword visually."
+    },
+    {
+      "entry_id": "R.I",
+      "current_headword": "R.I",
+      "current_letter": "R",
+      "source_pages": [
+        313
+      ],
+      "inferred_letter": "N",
+      "severity": "high",
+      "entry_type": "unknown",
+      "body_preview": "0. An abbreviation tsed for De ea re ita cénsuerce, (concerning that matter have so decreed,) in recording the decrees of the Roman senate. Tay). Civil Law, 564, 566.",
+      "body_length": 166,
+      "oracle_candidate": null,
+      "oracle_exists_in_corpus": false,
+      "nearby_entries": [
+        {
+          "id": "CUSTOS",
+          "headword": "CUSTOS",
+          "letter": "C"
+        },
+        {
+          "id": "CUSTUMA",
+          "headword": "CUSTUMA",
+          "letter": "C"
+        },
+        {
+          "id": "CUT",
+          "headword": "CUT",
+          "letter": "C"
+        },
+        {
+          "id": "CUTHRED",
+          "headword": "CUTHRED",
+          "letter": "C"
+        },
+        {
+          "id": "CUTPURSE",
+          "headword": "CUTPURSE",
+          "letter": "C"
+        }
+      ],
+      "page_text_snippet": "",
+      "ia_urls": [
+        "https://archive.org/details/blacks-law-dictionary-2nd-edition-1910/page/n313"
+      ],
+      "recommended_action": "manual_review",
+      "action_detail": "Body-oracle could not extract a candidate. Check the IA page to identify the correct headword visually."
+    },
+    {
+      "entry_id": "R.L",
+      "current_headword": "R.L",
+      "current_letter": "R",
+      "source_pages": [
+        691
+      ],
+      "inferred_letter": "K",
+      "severity": "high",
+      "entry_type": "unknown",
+      "body_preview": "59; Hastings v. Columbus, 42 Ohio St.",
+      "body_length": 37,
+      "oracle_candidate": null,
+      "oracle_exists_in_corpus": false,
+      "nearby_entries": [
+        {
+          "id": "KLEPTOMANIA",
+          "headword": "KLEPTOMANIA",
+          "letter": "K"
+        },
+        {
+          "id": "KNAVESHIP",
+          "headword": "KNAVESHIP",
+          "letter": "K"
+        },
+        {
+          "id": "KNIGHT",
+          "headword": "KNIGHT",
+          "letter": "K"
+        },
+        {
+          "id": "KNIGHT-MARSHAL",
+          "headword": "KNIGHT-MARSHAL",
+          "letter": "K"
+        },
+        {
+          "id": "KNIGHT-SERVICE",
+          "headword": "KNIGHT-SERVICE",
+          "letter": "K"
+        }
+      ],
+      "page_text_snippet": "",
+      "ia_urls": [
+        "https://archive.org/details/blacks-law-dictionary-2nd-edition-1910/page/n691"
+      ],
+      "recommended_action": "manual_review",
+      "action_detail": "Body-oracle could not extract a candidate. Check the IA page to identify the correct headword visually."
+    },
+    {
+      "entry_id": "S.",
+      "current_headword": "S.",
+      "current_letter": "S",
+      "source_pages": [
+        187
+      ],
+      "inferred_letter": "R",
+      "severity": "high",
+      "entry_type": "unknown",
+      "body_preview": "An objection or exception to the personal qualification of a judge or magistrate about to preside at the trial of a cause; as om account of personal interest, his having been of counsel, bias, etc.\n\n@",
+      "body_length": 452,
+      "oracle_candidate": null,
+      "oracle_exists_in_corpus": false,
+      "nearby_entries": [
+        {
+          "id": "CESS",
+          "headword": "CESS",
+          "letter": "C"
+        },
+        {
+          "id": "CESSARE",
+          "headword": "CESSARE",
+          "letter": "C"
+        },
+        {
+          "id": "CESSAVIT",
+          "headword": "CESSAVIT",
+          "letter": "C"
+        },
+        {
+          "id": "CESSE",
+          "headword": "CESSE",
+          "letter": "C"
+        },
+        {
+          "id": "CESSER",
+          "headword": "CESSER",
+          "letter": "C"
+        }
+      ],
+      "page_text_snippet": "",
+      "ia_urls": [
+        "https://archive.org/details/blacks-law-dictionary-2nd-edition-1910/page/n187"
+      ],
+      "recommended_action": "manual_review",
+      "action_detail": "Body-oracle could not extract a candidate. Check the IA page to identify the correct headword visually."
+    },
+    {
+      "entry_id": "SE",
+      "current_headword": "SE",
+      "current_letter": "S",
+      "source_pages": [
+        589
+      ],
+      "inferred_letter": "U",
+      "severity": "high",
+      "entry_type": "unknown",
+      "body_preview": "To purge one's self by oath of a crime of which one is accused.",
+      "body_length": 63,
+      "oracle_candidate": null,
+      "oracle_exists_in_corpus": false,
+      "nearby_entries": [
+        {
+          "id": "HYTHE",
+          "headword": "HYTHE",
+          "letter": "H"
+        },
+        {
+          "id": "IBERNAGIUM",
+          "headword": "IBERNAGIUM",
+          "letter": "I"
+        },
+        {
+          "id": "IBIDEM",
+          "headword": "IBIDEM",
+          "letter": "I"
+        },
+        {
+          "id": "ICENI",
+          "headword": "ICENI",
+          "letter": "I"
+        },
+        {
+          "id": "ICONA",
+          "headword": "ICONA",
+          "letter": "I"
+        }
+      ],
+      "page_text_snippet": "",
+      "ia_urls": [
+        "https://archive.org/details/blacks-law-dictionary-2nd-edition-1910/page/n589"
+      ],
+      "recommended_action": "manual_review",
+      "action_detail": "Body-oracle could not extract a candidate. Check the IA page to identify the correct headword visually."
+    },
+    {
+      "entry_id": "T",
+      "current_headword": "T",
+      "current_letter": "T",
+      "source_pages": [
+        377
+      ],
+      "inferred_letter": "D",
+      "severity": "high",
+      "entry_type": "unknown",
+      "body_preview": "Davis v. Wallace, 7 Fed. Cas. 182.",
+      "body_length": 34,
+      "oracle_candidate": null,
+      "oracle_exists_in_corpus": false,
+      "nearby_entries": [
+        {
+          "id": "DISCOVERY",
+          "headword": "DISCOVERY",
+          "letter": "D"
+        },
+        {
+          "id": "DISCREDIT",
+          "headword": "DISCREDIT",
+          "letter": "D"
+        },
+        {
+          "id": "DISCREPANCY",
+          "headword": "DISCREPANCY",
+          "letter": "D"
+        },
+        {
+          "id": "DISCRETION",
+          "headword": "DISCRETION",
+          "letter": "D"
+        },
+        {
+          "id": "DISCRETIONARY",
+          "headword": "DISCRETIONARY",
+          "letter": "D"
+        }
+      ],
+      "page_text_snippet": "",
+      "ia_urls": [
+        "https://archive.org/details/blacks-law-dictionary-2nd-edition-1910/page/n377"
+      ],
+      "recommended_action": "manual_review",
+      "action_detail": "Body-oracle could not extract a candidate. Check the IA page to identify the correct headword visually."
+    },
+    {
+      "entry_id": "T)",
+      "current_headword": "T)",
+      "current_letter": "T",
+      "source_pages": [
+        405
+      ],
+      "inferred_letter": "E",
+      "severity": "high",
+      "entry_type": "unknown",
+      "body_preview": "In genealogical tables, a common abbreviation for \"died without issue.\"",
+      "body_length": 71,
+      "oracle_candidate": null,
+      "oracle_exists_in_corpus": false,
+      "nearby_entries": [
+        {
+          "id": "DUNNAGE",
+          "headword": "DUNNAGE",
+          "letter": "D"
+        },
+        {
+          "id": "DUNSETS",
+          "headword": "DUNSETS",
+          "letter": "D"
+        },
+        {
+          "id": "DUODECEMVIRALE",
+          "headword": "DUODECEMVIRALE",
+          "letter": "D"
+        },
+        {
+          "id": "DUODECIMA",
+          "headword": "DUODECIMA",
+          "letter": "D"
+        },
+        {
+          "id": "DUODENA",
+          "headword": "DUODENA",
+          "letter": "D"
+        }
+      ],
+      "page_text_snippet": "",
+      "ia_urls": [
+        "https://archive.org/details/blacks-law-dictionary-2nd-edition-1910/page/n405"
+      ],
+      "recommended_action": "manual_review",
+      "action_detail": "Body-oracle could not extract a candidate. Check the IA page to identify the correct headword visually."
+    },
+    {
+      "entry_id": "T.R",
+      "current_headword": "T.R",
+      "current_letter": "T",
+      "source_pages": [
+        943
+      ],
+      "inferred_letter": "P",
+      "severity": "high",
+      "entry_type": "unknown",
+      "body_preview": "A qualified property in animals fere nature; 4. e., a privilege of hunting, taking, and killing them, in exclusion of others. 2 Bl. Comm. 884; 2 Steph. Comm. 9.",
+      "body_length": 160,
+      "oracle_candidate": null,
+      "oracle_exists_in_corpus": false,
+      "nearby_entries": [
+        {
+          "id": "PRE-EMPTIONER",
+          "headword": "PRE-EMPTIONER",
+          "letter": "P"
+        },
+        {
+          "id": "PRISON",
+          "headword": "PRISON",
+          "letter": "P"
+        },
+        {
+          "id": "PRISONER",
+          "headword": "PRISONER",
+          "letter": "P"
+        },
+        {
+          "id": "PRIVATE",
+          "headword": "PRIVATE",
+          "letter": "P"
+        },
+        {
+          "id": "PRIVATEER",
+          "headword": "PRIVATEER",
+          "letter": "P"
+        }
+      ],
+      "page_text_snippet": "",
+      "ia_urls": [
+        "https://archive.org/details/blacks-law-dictionary-2nd-edition-1910/page/n943"
+      ],
+      "recommended_action": "manual_review",
+      "action_detail": "Body-oracle could not extract a candidate. Check the IA page to identify the correct headword visually."
+    },
+    {
+      "entry_id": "U",
+      "current_headword": "U",
+      "current_letter": "U",
+      "source_pages": [
+        606
+      ],
+      "inferred_letter": "H",
+      "severity": "high",
+      "entry_type": "unknown",
+      "body_preview": "In perpetual testimony of a matter;\n\nfor the purpose of declaring and settling a thing forever. 1 Bl. Comm. 86.",
+      "body_length": 111,
+      "oracle_candidate": null,
+      "oracle_exists_in_corpus": false,
+      "nearby_entries": [
+        {
+          "id": "IMPARGAMENTUM",
+          "headword": "IMPARGAMENTUM",
+          "letter": "I"
+        }
+      ],
+      "page_text_snippet": "",
+      "ia_urls": [
+        "https://archive.org/details/blacks-law-dictionary-2nd-edition-1910/page/n606"
+      ],
+      "recommended_action": "manual_review",
+      "action_detail": "Body-oracle could not extract a candidate. Check the IA page to identify the correct headword visually."
+    }
+  ]
+}

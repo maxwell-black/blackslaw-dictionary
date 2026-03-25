@@ -1,0 +1,134 @@
+{
+  "total_breaks": 3854,
+  "page_type": "leaf_numbers",
+  "a_section_min_page": 10,
+  "jump_size_distribution": {
+    "11-20": 655,
+    "6-10": 3190,
+    "51-100": 2,
+    "21-50": 2,
+    "100+": 5
+  },
+  "small_breaks_lte_10": 3190,
+  "medium_breaks_11_50": 657,
+  "large_breaks_gt_50": 7,
+  "two_col_pattern_lte_3": 0,
+  "median_jump": 9,
+  "mean_jump": 10.1,
+  "breaks_per_letter": {
+    "A": 299,
+    "B": 230,
+    "C": 411,
+    "D": 153,
+    "E": 202,
+    "F": 290,
+    "G": 196,
+    "H": 359,
+    "I": 221,
+    "J": 44,
+    "L": 91,
+    "M": 236,
+    "N": 39,
+    "O": 24,
+    "P": 181,
+    "Q": 17,
+    "R": 251,
+    "S": 263,
+    "T": 101,
+    "U": 82,
+    "V": 91,
+    "W": 62,
+    "Z": 11
+  },
+  "primary_cause": "small_jump_noise",
+  "explanation": "3190 of 3854 breaks are jumps of 1-10 pages. Likely a combination of two-column interleaving and minor source_pages assignment imprecision. Not individually actionable.",
+  "actionable": false,
+  "recommendation": "Raise the monotonicity backward-jump threshold to at least 10 pages to filter out two-column interleaving noise. Only investigate breaks with backward jumps > 50 pages as potential misplacements.",
+  "large_break_samples": [
+    {
+      "entry_id": "LR",
+      "headword": "LR",
+      "source_pages": [
+        691
+      ],
+      "prev_headword": "LOTHERWITE",
+      "prev_pages": [
+        750
+      ],
+      "backward_jump": 59
+    },
+    {
+      "entry_id": "MZC-BURGH",
+      "headword": "MZC-BURGH",
+      "source_pages": [
+        755
+      ],
+      "prev_headword": "MUNDBYRD",
+      "prev_pages": [
+        808
+      ],
+      "backward_jump": 53
+    },
+    {
+      "entry_id": "SE",
+      "headword": "SE",
+      "source_pages": [
+        589
+      ],
+      "prev_headword": "SCUTAGE",
+      "prev_pages": [
+        1061,
+        1062
+      ],
+      "backward_jump": 473
+    },
+    {
+      "entry_id": "ZEDILITUM EDICTUM",
+      "headword": "ZEDILITUM EDICTUM",
+      "source_pages": [
+        45
+      ],
+      "prev_headword": "ZANJERO",
+      "prev_pages": [
+        1249
+      ],
+      "backward_jump": 1204
+    },
+    {
+      "entry_id": "ZEFESN",
+      "headword": "ZEFESN",
+      "source_pages": [
+        45
+      ],
+      "prev_headword": "ZANJERO",
+      "prev_pages": [
+        1249
+      ],
+      "backward_jump": 1204
+    },
+    {
+      "entry_id": "ZEGROTO",
+      "headword": "ZEGROTO",
+      "source_pages": [
+        45
+      ],
+      "prev_headword": "ZANJERO",
+      "prev_pages": [
+        1249
+      ],
+      "backward_jump": 1204
+    },
+    {
+      "entry_id": "ZEGYLDE",
+      "headword": "ZEGYLDE",
+      "source_pages": [
+        45
+      ],
+      "prev_headword": "ZANJERO",
+      "prev_pages": [
+        1249
+      ],
+      "backward_jump": 1204
+    }
+  ]
+}
