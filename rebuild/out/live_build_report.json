@@ -1,14 +1,15 @@
 {
-  "previous_live_count": 12890,
-  "new_live_count": 12884,
-  "delta": -6,
-  "total_overlay_entries": 13641,
-  "live_entries": 12884,
+  "previous_live_count": 12884,
+  "new_live_count": 12916,
+  "delta": 32,
+  "total_overlay_entries": 13673,
+  "live_entries": 12916,
   "promoted_from_legacy": 1680,
   "body_sources": {
     "rebuilt": 10736,
     "legacy": 2145,
-    "manual_correction": 3
+    "manual_correction": 3,
+    "overlay_direct": 32
   },
   "counts_by_entry_type": {
     "included": {
@@ -16,7 +17,7 @@
       "provisional_main": 320,
       "legacy_retained": 1680,
       "headword_corrected": 20,
-      "recovered_main": 160,
+      "recovered_main": 192,
       "subentry": 201,
       "reversed_polarity": 3,
       "alias_variant": 15,
@@ -36,105 +37,14 @@
     "provisional_main": 320,
     "legacy_retained": 1680,
     "headword_corrected": 20,
-    "recovered_main": 160,
+    "recovered_main": 192,
     "subentry": 201,
     "reversed_polarity": 3,
     "alias_variant": 15,
     "unmatched_keep": 3
   },
-  "changes_this_build": [
-    {
-      "id": "BLD2-06527",
-      "headword": "I",
-      "old_entry_type": "verified_main",
-      "new_entry_type": "legacy_duplicate"
-    },
-    {
-      "id": "BLD2-06529",
-      "headword": "DE SA VIE",
-      "old_entry_type": "verified_main",
-      "new_entry_type": "headword_corrected"
-    },
-    {
-      "id": "BLD2-06551",
-      "headword": "IDONEUM SE FACERE; IDONEARE SE",
-      "old_entry_type": "verified_main",
-      "new_entry_type": "headword_corrected"
-    },
-    {
-      "id": "BLD2-07185",
-      "headword": "NE QUID IN LOCO PUBLICO VEL ITINERE FIAT",
-      "old_entry_type": "verified_main",
-      "new_entry_type": "headword_corrected"
-    },
-    {
-      "id": "BLD2-07439",
-      "headword": "CHACE",
-      "old_entry_type": "verified_main",
-      "new_entry_type": "headword_corrected"
-    },
-    {
-      "id": "BLD2-07441",
-      "headword": "L.",
-      "old_entry_type": "verified_main",
-      "new_entry_type": "legacy_duplicate"
-    },
-    {
-      "id": "BLD2-08727",
-      "headword": "DE HOMINE REPLEGIANDO",
-      "old_entry_type": "verified_main",
-      "new_entry_type": "headword_corrected"
-    },
-    {
-      "id": "BLD2-08728",
-      "headword": "N.P",
-      "old_entry_type": "verified_main",
-      "new_entry_type": "legacy_duplicate"
-    },
-    {
-      "id": "BLD2-09051",
-      "headword": "O.R",
-      "old_entry_type": "verified_main",
-      "new_entry_type": "legacy_duplicate"
-    },
-    {
-      "id": "BLD2-11243",
-      "headword": "S.",
-      "old_entry_type": "verified_main",
-      "new_entry_type": "legacy_duplicate"
-    },
-    {
-      "id": "BLD2-11248",
-      "headword": "SE",
-      "old_entry_type": "verified_main",
-      "new_entry_type": "legacy_duplicate"
-    },
-    {
-      "id": "BLD2-12323",
-      "headword": "D.S.P.",
-      "old_entry_type": "verified_main",
-      "new_entry_type": "headword_corrected"
-    },
-    {
-      "id": "BLD2-12328",
-      "headword": "PROPERTY PROPTER PRIVILEGIUM",
-      "old_entry_type": "verified_main",
-      "new_entry_type": "headword_corrected"
-    },
-    {
-      "id": "BLD2-12885",
-      "headword": "IN PERPETUAM REI MEMORIAM",
-      "old_entry_type": "verified_main",
-      "new_entry_type": "headword_corrected"
-    },
-    {
-      "id": "BLD2-13604",
-      "headword": "T",
-      "old_entry_type": "verified_main",
-      "new_entry_type": "headword_corrected"
-    }
-  ],
-  "summary": "Live corpus: 12884 entries (-6 from previous build of 12890). 1680 legacy_unresolved entries promoted to legacy_retained. 15 entry classification(s) changed this build.",
+  "changes_this_build": [],
+  "summary": "Live corpus: 12916 entries (+32 from previous build of 12884). 1680 legacy_unresolved entries promoted to legacy_retained.",
   "entries": [
     {
       "id": "BLD2-00000",
@@ -103207,6 +103117,262 @@
       "entry_type": "verified_main",
       "body_source": "rebuilt",
       "body_length": 93
+    },
+    {
+      "id": "BLD2-13641",
+      "term": "COURT OF SESSION",
+      "original_term": null,
+      "entry_type": "recovered_main",
+      "body_source": "overlay_direct",
+      "body_length": 986
+    },
+    {
+      "id": "BLD2-13642",
+      "term": "IN PERSONAM, IN REM",
+      "original_term": null,
+      "entry_type": "recovered_main",
+      "body_source": "overlay_direct",
+      "body_length": 2171
+    },
+    {
+      "id": "BLD2-13643",
+      "term": "EX SCRIPTIS OLIM VISIS",
+      "original_term": null,
+      "entry_type": "recovered_main",
+      "body_source": "overlay_direct",
+      "body_length": 831
+    },
+    {
+      "id": "BLD2-13644",
+      "term": "COURT OF HONOR",
+      "original_term": null,
+      "entry_type": "recovered_main",
+      "body_source": "overlay_direct",
+      "body_length": 805
+    },
+    {
+      "id": "BLD2-13645",
+      "term": "COURT OF OYER AND TERMINER",
+      "original_term": null,
+      "entry_type": "recovered_main",
+      "body_source": "overlay_direct",
+      "body_length": 1423
+    },
+    {
+      "id": "BLD2-13646",
+      "term": "CANTERBURY, ARCHBISHOP OF",
+      "original_term": null,
+      "entry_type": "recovered_main",
+      "body_source": "overlay_direct",
+      "body_length": 785
+    },
+    {
+      "id": "BLD2-13647",
+      "term": "NOTARY PUBLIC",
+      "original_term": null,
+      "entry_type": "recovered_main",
+      "body_source": "overlay_direct",
+      "body_length": 746
+    },
+    {
+      "id": "BLD2-13648",
+      "term": "SALADINE TENTH",
+      "original_term": null,
+      "entry_type": "recovered_main",
+      "body_source": "overlay_direct",
+      "body_length": 739
+    },
+    {
+      "id": "BLD2-13649",
+      "term": "STATE OF FACTS",
+      "original_term": null,
+      "entry_type": "recovered_main",
+      "body_source": "overlay_direct",
+      "body_length": 1255
+    },
+    {
+      "id": "BLD2-13650",
+      "term": "COURT OF STAR CHAMBER",
+      "original_term": null,
+      "entry_type": "recovered_main",
+      "body_source": "overlay_direct",
+      "body_length": 102
+    },
+    {
+      "id": "BLD2-13651",
+      "term": "EJECTIONE FIRMAE",
+      "original_term": null,
+      "entry_type": "recovered_main",
+      "body_source": "overlay_direct",
+      "body_length": 691
+    },
+    {
+      "id": "BLD2-13652",
+      "term": "RHODIAN LAWS",
+      "original_term": null,
+      "entry_type": "recovered_main",
+      "body_source": "overlay_direct",
+      "body_length": 1321
+    },
+    {
+      "id": "BLD2-13653",
+      "term": "MILLBANK PRISON",
+      "original_term": null,
+      "entry_type": "recovered_main",
+      "body_source": "overlay_direct",
+      "body_length": 764
+    },
+    {
+      "id": "BLD2-13654",
+      "term": "MANCIPI RES",
+      "original_term": null,
+      "entry_type": "recovered_main",
+      "body_source": "overlay_direct",
+      "body_length": 670
+    },
+    {
+      "id": "BLD2-13655",
+      "term": "MOBBING AND RIOTING",
+      "original_term": null,
+      "entry_type": "recovered_main",
+      "body_source": "overlay_direct",
+      "body_length": 611
+    },
+    {
+      "id": "BLD2-13656",
+      "term": "TALITER PROCESSUM EST",
+      "original_term": null,
+      "entry_type": "recovered_main",
+      "body_source": "overlay_direct",
+      "body_length": 606
+    },
+    {
+      "id": "BLD2-13657",
+      "term": "ORPHANAGE PART",
+      "original_term": null,
+      "entry_type": "recovered_main",
+      "body_source": "overlay_direct",
+      "body_length": 601
+    },
+    {
+      "id": "BLD2-13658",
+      "term": "DE ANNO BISSEXTILI",
+      "original_term": null,
+      "entry_type": "recovered_main",
+      "body_source": "overlay_direct",
+      "body_length": 880
+    },
+    {
+      "id": "BLD2-13659",
+      "term": "DRAMATIC COMPOSITION",
+      "original_term": null,
+      "entry_type": "recovered_main",
+      "body_source": "overlay_direct",
+      "body_length": 581
+    },
+    {
+      "id": "BLD2-13660",
+      "term": "MEN OF STRAW",
+      "original_term": null,
+      "entry_type": "recovered_main",
+      "body_source": "overlay_direct",
+      "body_length": 579
+    },
+    {
+      "id": "BLD2-13661",
+      "term": "MORT CIVILE",
+      "original_term": null,
+      "entry_type": "recovered_main",
+      "body_source": "overlay_direct",
+      "body_length": 566
+    },
+    {
+      "id": "BLD2-13662",
+      "term": "RURAL DEANS",
+      "original_term": null,
+      "entry_type": "recovered_main",
+      "body_source": "overlay_direct",
+      "body_length": 560
+    },
+    {
+      "id": "BLD2-13663",
+      "term": "AD VALOREM",
+      "original_term": null,
+      "entry_type": "recovered_main",
+      "body_source": "overlay_direct",
+      "body_length": 558
+    },
+    {
+      "id": "BLD2-13664",
+      "term": "COMMON RECOVERY",
+      "original_term": null,
+      "entry_type": "recovered_main",
+      "body_source": "overlay_direct",
+      "body_length": 554
+    },
+    {
+      "id": "BLD2-13665",
+      "term": "TERRITORIAL, TERRITORIALITY",
+      "original_term": null,
+      "entry_type": "recovered_main",
+      "body_source": "overlay_direct",
+      "body_length": 551
+    },
+    {
+      "id": "BLD2-13666",
+      "term": "VINOUS LIQUORS",
+      "original_term": null,
+      "entry_type": "recovered_main",
+      "body_source": "overlay_direct",
+      "body_length": 550
+    },
+    {
+      "id": "BLD2-13667",
+      "term": "JUS NATURALE",
+      "original_term": null,
+      "entry_type": "recovered_main",
+      "body_source": "overlay_direct",
+      "body_length": 1019
+    },
+    {
+      "id": "BLD2-13668",
+      "term": "REBELLIOUS ASSEMBLY",
+      "original_term": null,
+      "entry_type": "recovered_main",
+      "body_source": "overlay_direct",
+      "body_length": 541
+    },
+    {
+      "id": "BLD2-13669",
+      "term": "EBB AND FLOW",
+      "original_term": null,
+      "entry_type": "recovered_main",
+      "body_source": "overlay_direct",
+      "body_length": 358
+    },
+    {
+      "id": "BLD2-13670",
+      "term": "WITHDRAWING A JUROR",
+      "original_term": null,
+      "entry_type": "recovered_main",
+      "body_source": "overlay_direct",
+      "body_length": 603
+    },
+    {
+      "id": "BLD2-13671",
+      "term": "FORCIBLE TRESPASS",
+      "original_term": null,
+      "entry_type": "recovered_main",
+      "body_source": "overlay_direct",
+      "body_length": 537
+    },
+    {
+      "id": "BLD2-13672",
+      "term": "COURT OF PECULIARS",
+      "original_term": null,
+      "entry_type": "recovered_main",
+      "body_source": "overlay_direct",
+      "body_length": 513
     }
   ]
 }

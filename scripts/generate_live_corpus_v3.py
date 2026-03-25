@@ -183,7 +183,13 @@ def main() -> int:
         body_corrections = {k: v for k, v in raw.items() if not k.startswith("_")}
         print(f"Loaded {len(body_corrections)} body corrections")
 
-    assert len(overlay) == len(rebuilt)
+    # Overlay may have extra entries (e.g. recovered_main from DjVu recovery)
+    # that don't have rebuilt counterparts. Handle them after the zip loop.
+    assert len(overlay) >= len(rebuilt), (
+        f"Overlay ({len(overlay)}) must be >= rebuilt ({len(rebuilt)})"
+    )
+    if len(overlay) > len(rebuilt):
+        print(f"  Note: {len(overlay) - len(rebuilt)} overlay-only entries (no rebuilt counterpart)")
 
     live_entries: list[dict] = []
     report_entries: list[dict] = []
@@ -193,7 +199,8 @@ def main() -> int:
     promoted_count = 0
     current_entries_by_id: dict[str, dict] = {}
 
-    for idx, (o, r) in enumerate(zip(overlay, rebuilt)):
+    def process_overlay_entry(o: dict, r: dict | None) -> None:
+        nonlocal promoted_count
         entry_type = o["entry_type"]
         term = o["term"]
         eid = o["id"]
@@ -222,9 +229,18 @@ def main() -> int:
             current_entries_by_id[eid] = {
                 "id": eid, "term": term, "entry_type": entry_type, "included": False,
             }
-            continue
+            return
 
-        body, body_source = pick_body(o, r, legacy_entry, original_term, body_corrections)
+        if r is not None:
+            body, body_source = pick_body(o, r, legacy_entry, original_term, body_corrections)
+        else:
+            # Overlay-only entry: use body from overlay record or body_corrections
+            if body_corrections and term in body_corrections:
+                body = body_corrections[term]["body"]
+                body_source = "manual_correction"
+            else:
+                body = (o.get("body") or "").strip()
+                body_source = "overlay_direct"
 
         # Strip duplicate leading headword (use current term, not original)
         body = strip_leading_headword(term, body)
@@ -256,6 +272,14 @@ def main() -> int:
         current_entries_by_id[eid] = {
             "id": eid, "term": term, "entry_type": effective_type, "included": True,
         }
+
+    # Process paired overlay+rebuilt entries
+    for idx, (o, r) in enumerate(zip(overlay, rebuilt)):
+        process_overlay_entry(o, r)
+
+    # Process overlay-only entries (beyond rebuilt range)
+    for o in overlay[len(rebuilt):]:
+        process_overlay_entry(o, None)
 
     # Compute changes from previous build
     changes_this_build: list[dict] = []
