@@ -86,5 +86,218 @@
     "reason": "Imported from LexPredict (CC-BY-SA 4.0). Original LP headword: EX MERO MOTU",
     "_source": "lexpredict_cc-by-sa-4.0",
     "body": "TU. of his own mere motion; of his own accord; voluntarily and without prompting or request. Royal let-ters patent which are granted at the crown's own instance, and without request made, are said to be granted eae mero motu. when a court interferes, of its own motion, to object to an irregularity, or to do something which the parties are not 6trlctly entitled to, but which will prevent injustice, it is said to act ex mero motu, or ex proprio motu, or sua sponte, all these terms being here equivalent"
+  },
+  "ADMINICULATE": {
+    "body": "To give adminicu-iar evidence",
+    "_source": "lexpredict_cc-by-sa-4.0"
+  },
+  "COPARTICEPS": {
+    "body": "In old English law. A coparcener",
+    "_source": "lexpredict_cc-by-sa-4.0"
+  },
+  "DOOMSDAY-BOOK": {
+    "body": "See Domesdat-Book",
+    "_source": "lexpredict_cc-by-sa-4.0"
+  },
+  "ITINERE PER ATTORNATUM": {
+    "body": "See\nCLAMEA ADMITTENDA, etc.",
+    "_source": "djvu_recovery_near_empty"
+  },
+  "PANDOXATOR": {
+    "body": "In old records. A brewer",
+    "_source": "lexpredict_cc-by-sa-4.0"
+  },
+  "PLOW-MONDAY": {
+    "body": "The Monday after twelfth-day",
+    "_source": "lexpredict_cc-by-sa-4.0"
+  },
+  "PRIVIGNA": {
+    "body": "Lat In the civll law. A step-daughter",
+    "_source": "lexpredict_cc-by-sa-4.0"
+  },
+  "CATCHING": {
+    "body": "See BARGAIN.",
+    "_source": "ocr_crossref_correction",
+    "reason": "Garbled OCR cross-reference corrected: BagGain->BARGAIN"
+  },
+  "CHARGING ORDER": {
+    "body": "See ORDER.",
+    "_source": "ocr_crossref_correction",
+    "reason": "Garbled OCR cross-reference corrected: Orpen->ORDER"
+  },
+  "EMPARLANCE": {
+    "body": "See IMPARLANCE.",
+    "_source": "ocr_crossref_correction",
+    "reason": "Garbled OCR cross-reference corrected: [MPABLANCE->IMPARLANCE"
+  },
+  "ENCLOSURE": {
+    "body": "See INCLOSURE.",
+    "_source": "ocr_crossref_correction",
+    "reason": "Garbled OCR cross-reference corrected: INctLosure->INCLOSURE"
+  },
+  "IMPERATIVE": {
+    "body": "See DIRECTORY.",
+    "_source": "ocr_crossref_correction",
+    "reason": "Garbled OCR cross-reference corrected: DiReEcroryr->DIRECTORY"
+  },
+  "IRREPARABLE": {
+    "body": "See INJURY.",
+    "_source": "ocr_crossref_correction",
+    "reason": "Garbled OCR cross-reference corrected: INJuBY->INJURY"
+  },
+  "JAIL DELIVERY": {
+    "body": "See GAOL.",
+    "_source": "ocr_crossref_correction",
+    "reason": "Garbled OCR cross-reference corrected: Gaon->GAOL"
+  },
+  "JAIL LIBERTIES": {
+    "body": "See GAOL.",
+    "_source": "ocr_crossref_correction",
+    "reason": "Garbled OCR cross-reference corrected: GaoL->GAOL"
+  },
+  "KALENDS": {
+    "body": "See CALENDS.",
+    "_source": "ocr_crossref_correction",
+    "reason": "Garbled OCR cross-reference corrected: CALenps->CALENDS"
+  },
+  "MUCIANA": {
+    "body": "See CAUTIO.",
+    "_source": "ocr_crossref_correction",
+    "reason": "Garbled OCR cross-reference corrected: Cavuto->CAUTIO"
+  },
+  "NO FUNDS": {
+    "body": "See FUND.",
+    "_source": "ocr_crossref_correction",
+    "reason": "Garbled OCR cross-reference corrected: Funp->FUND"
+  },
+  "POSTLIMINY": {
+    "body": "See POSTLIMINIUM.",
+    "_source": "ocr_crossref_correction",
+    "reason": "Garbled OCR cross-reference corrected: PostTLiMinivuM->POSTLIMINIUM"
+  },
+  "POYNDING": {
+    "body": "See POINDING.",
+    "_source": "ocr_crossref_correction",
+    "reason": "Garbled OCR cross-reference corrected: PoINpING->POINDING"
+  },
+  "REVERSIBLE ERROR": {
+    "body": "See ERROR.",
+    "_source": "ocr_crossref_correction",
+    "reason": "Garbled OCR cross-reference corrected: ERROg->ERROR"
+  },
+  "SUBCONTRACT": {
+    "body": "See CONTRACT.",
+    "_source": "ocr_crossref_correction",
+    "reason": "Garbled OCR cross-reference corrected: ConTRACcT->CONTRACT"
+  },
+  "SUBSEQUENT CONDITION": {
+    "body": "See CONDITION.",
+    "_source": "ocr_crossref_correction",
+    "reason": "Garbled OCR cross-reference corrected: Con-DITION->CONDITION"
+  },
+  "SUPPLETORY OATH": {
+    "body": "See OATH.",
+    "_source": "ocr_crossref_correction",
+    "reason": "Garbled OCR cross-reference corrected: Oartn->OATH"
+  },
+  "SWAINMOTE": {
+    "body": "See SWEINMOTE.",
+    "_source": "ocr_crossref_correction",
+    "reason": "Garbled OCR cross-reference corrected: SwErIn->SWEINMOTE"
+  },
+  "UNSEATED LAND": {
+    "body": "See LANDS.",
+    "_source": "ocr_crossref_correction",
+    "reason": "Garbled OCR cross-reference corrected: Lanp->LANDS"
+  },
+  "HARMLESS": {
+    "body": "See ERROR.",
+    "_source": "ocr_crossref_correction",
+    "reason": "Garbled OCR cross-reference corrected: ERRor->ERROR"
+  },
+  "SHAM": {
+    "body": "See PLEA.",
+    "_source": "ocr_crossref_correction",
+    "reason": "Garbled OCR cross-reference corrected: Pir->PLEA"
+  },
+  "SEIZING": {
+    "body": "See SEISIN.",
+    "_source": "ocr_crossref_correction",
+    "reason": "Garbled OCR cross-reference corrected: SE-IsIn->SEISIN"
+  },
+  "FRIEND": {
+    "body": "See AMICUS CURIAE.",
+    "_source": "ocr_crossref_correction",
+    "reason": "Garbled OCR cross-reference corrected: AMICUS CuRI&->AMICUS CURIAE"
+  },
+  "INTERMITTENT EASEMENT": {
+    "body": "See EASEMENT.",
+    "_source": "ocr_crossref_correction",
+    "reason": "Garbled OCR cross-reference corrected: BASEMENT->EASEMENT"
+  },
+  "COMMUTATIVE": {
+    "body": "See JUSTICE.",
+    "_source": "ocr_crossref_correction",
+    "reason": "Garbled OCR cross-reference corrected: Jus- truncated->JUSTICE"
+  },
+  "EXEMPLARY": {
+    "body": "See DAMAGES.",
+    "_source": "ocr_crossref_correction",
+    "reason": "Garbled OCR cross-reference corrected: Dam- truncated->DAMAGES"
+  },
+  "VINDICTIVE": {
+    "body": "See DAMAGES.",
+    "_source": "ocr_crossref_correction",
+    "reason": "Garbled OCR cross-reference corrected: Dax- truncated->DAMAGES"
+  },
+  "VACANT": {
+    "body": "See SUCCESSION.",
+    "_source": "ocr_crossref_correction",
+    "reason": "Garbled OCR cross-reference corrected: Succrs- truncated->SUCCESSION"
+  },
+  "LADING LADING, BILL OF": {
+    "body": "See BILL.",
+    "_source": "ocr_crossref_correction",
+    "reason": "Garbled OCR cross-reference corrected: BIL->BILL"
+  },
+  "MIDDLESEX, BILL OF": {
+    "body": "See BILL.",
+    "_source": "ocr_crossref_correction",
+    "reason": "Garbled OCR cross-reference corrected: BIL->BILL"
+  },
+  "COMMITTING": {
+    "body": "See COMMITMENT.",
+    "_source": "ocr_crossref_correction",
+    "reason": "Garbled OCR cross-reference corrected: truncated See only->COMMITMENT"
+  },
+  "DEMONSTRATIVE": {
+    "body": "See LEGACY.",
+    "_source": "ocr_crossref_correction",
+    "reason": "Garbled OCR cross-reference corrected: truncated See only->LEGACY"
+  },
+  "SATISFACTORY EVIDENCE": {
+    "body": "See EVIDENCE.",
+    "_source": "ocr_crossref_correction",
+    "reason": "Garbled OCR cross-reference corrected: truncated See only->EVIDENCE"
+  },
+  "SCRAMBLING": {
+    "body": "See POSSESSION.",
+    "_source": "ocr_crossref_correction",
+    "reason": "Garbled OCR cross-reference corrected: truncated See only->POSSESSION"
+  },
+  "COUSINAGE": {
+    "body": "See COSENAGE.",
+    "_source": "ocr_crossref_correction",
+    "reason": "Garbled OCR cross-reference corrected: COoSsINAGE->COSENAGE"
+  },
+  "GENTOO": {
+    "body": "See HINDU.",
+    "_source": "ocr_crossref_correction",
+    "reason": "Garbled OCR cross-reference corrected: Hinpu Law->HINDU"
+  },
+  "ONERATUR": {
+    "body": "See ONERARI.",
+    "_source": "ocr_crossref_correction",
+    "reason": "Garbled OCR cross-reference corrected: O. Nr.->ONERARI"
   }
 }

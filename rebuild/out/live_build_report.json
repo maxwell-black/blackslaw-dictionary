@@ -6,9 +6,9 @@
   "live_entries": 12934,
   "promoted_from_legacy": 1680,
   "body_sources": {
-    "rebuilt": 10736,
-    "legacy": 2145,
-    "manual_correction": 15,
+    "rebuilt": 10710,
+    "legacy": 2127,
+    "manual_correction": 59,
     "overlay_direct": 38
   },
   "counts_by_entry_type": {
@@ -2787,8 +2787,8 @@
       "term": "ADMINICULATE",
       "original_term": null,
       "entry_type": "verified_main",
-      "body_source": "rebuilt",
-      "body_length": 13
+      "body_source": "manual_correction",
+      "body_length": 29
     },
     {
       "id": "BLD2-00359",
@@ -15843,8 +15843,8 @@
       "term": "CATCHING",
       "original_term": null,
       "entry_type": "verified_main",
-      "body_source": "rebuilt",
-      "body_length": 11
+      "body_source": "manual_correction",
+      "body_length": 12
     },
     {
       "id": "BLD2-02086",
@@ -17163,7 +17163,7 @@
       "term": "CHARGING ORDER",
       "original_term": null,
       "entry_type": "verified_main",
-      "body_source": "rebuilt",
+      "body_source": "manual_correction",
       "body_length": 10
     },
     {
@@ -19795,8 +19795,8 @@
       "term": "COMMITTING",
       "original_term": null,
       "entry_type": "verified_main",
-      "body_source": "legacy",
-      "body_length": 3
+      "body_source": "manual_correction",
+      "body_length": 15
     },
     {
       "id": "BLD2-02603",
@@ -20091,8 +20091,8 @@
       "term": "COMMUTATIVE",
       "original_term": null,
       "entry_type": "verified_main",
-      "body_source": "legacy",
-      "body_length": 8
+      "body_source": "manual_correction",
+      "body_length": 12
     },
     {
       "id": "BLD2-02640",
@@ -23131,8 +23131,8 @@
       "term": "COPARTICEPS",
       "original_term": null,
       "entry_type": "verified_main",
-      "body_source": "rebuilt",
-      "body_length": 11
+      "body_source": "manual_correction",
+      "body_length": 32
     },
     {
       "id": "BLD2-03033",
@@ -24163,8 +24163,8 @@
       "term": "COUSINAGE",
       "original_term": null,
       "entry_type": "verified_main",
-      "body_source": "legacy",
-      "body_length": 17
+      "body_source": "manual_correction",
+      "body_length": 13
     },
     {
       "id": "BLD2-03165",
@@ -27947,8 +27947,8 @@
       "term": "DEMONSTRATIVE",
       "original_term": null,
       "entry_type": "verified_main",
-      "body_source": "legacy",
-      "body_length": 3
+      "body_source": "manual_correction",
+      "body_length": 11
     },
     {
       "id": "BLD2-03656",
@@ -31323,8 +31323,8 @@
       "term": "DOOMSDAY-BOOK",
       "original_term": null,
       "entry_type": "verified_main",
-      "body_source": "legacy",
-      "body_length": 5
+      "body_source": "manual_correction",
+      "body_length": 17
     },
     {
       "id": "BLD2-04090",
@@ -33747,7 +33747,7 @@
       "term": "EMPARLANCE",
       "original_term": null,
       "entry_type": "verified_main",
-      "body_source": "rebuilt",
+      "body_source": "manual_correction",
       "body_length": 15
     },
     {
@@ -34067,8 +34067,8 @@
       "term": "ENCLOSURE",
       "original_term": null,
       "entry_type": "verified_main",
-      "body_source": "rebuilt",
-      "body_length": 15
+      "body_source": "manual_correction",
+      "body_length": 14
     },
     {
       "id": "BLD2-04458",
@@ -36587,8 +36587,8 @@
       "term": "EXEMPLARY",
       "original_term": null,
       "entry_type": "verified_main",
-      "body_source": "legacy",
-      "body_length": 8
+      "body_source": "manual_correction",
+      "body_length": 12
     },
     {
       "id": "BLD2-04783",
@@ -42875,8 +42875,8 @@
       "term": "FRIEND",
       "original_term": null,
       "entry_type": "provisional_main",
-      "body_source": "rebuilt",
-      "body_length": 17
+      "body_source": "manual_correction",
+      "body_length": 18
     },
     {
       "id": "BLD2-05613",
@@ -44379,8 +44379,8 @@
       "term": "GENTOO",
       "original_term": null,
       "entry_type": "verified_main",
-      "body_source": "rebuilt",
-      "body_length": 14
+      "body_source": "manual_correction",
+      "body_length": 10
     },
     {
       "id": "BLD2-05818",
@@ -46907,7 +46907,7 @@
       "term": "HARMLESS",
       "original_term": null,
       "entry_type": "verified_main",
-      "body_source": "rebuilt",
+      "body_source": "manual_correction",
       "body_length": 10
     },
     {
@@ -50539,8 +50539,8 @@
       "term": "IMPERATIVE",
       "original_term": null,
       "entry_type": "verified_main",
-      "body_source": "rebuilt",
-      "body_length": 16
+      "body_source": "manual_correction",
+      "body_length": 14
     },
     {
       "id": "BLD2-06628",
@@ -54003,7 +54003,7 @@
       "term": "INTERMITTENT EASEMENT",
       "original_term": null,
       "entry_type": "verified_main",
-      "body_source": "rebuilt",
+      "body_source": "manual_correction",
       "body_length": 13
     },
     {
@@ -54667,7 +54667,7 @@
       "term": "IRREPARABLE",
       "original_term": null,
       "entry_type": "verified_main",
-      "body_source": "rebuilt",
+      "body_source": "manual_correction",
       "body_length": 11
     },
     {
@@ -54923,8 +54923,8 @@
       "term": "ITINERE PER ATTORNATUM",
       "original_term": null,
       "entry_type": "recovered_main",
-      "body_source": "legacy",
-      "body_length": 3
+      "body_source": "manual_correction",
+      "body_length": 27
     },
     {
       "id": "BLD2-07187",
@@ -55019,7 +55019,7 @@
       "term": "JAIL DELIVERY",
       "original_term": null,
       "entry_type": "verified_main",
-      "body_source": "legacy",
+      "body_source": "manual_correction",
       "body_length": 9
     },
     {
@@ -55027,7 +55027,7 @@
       "term": "JAIL LIBERTIES",
       "original_term": null,
       "entry_type": "verified_main",
-      "body_source": "legacy",
+      "body_source": "manual_correction",
       "body_length": 9
     },
     {
@@ -56203,7 +56203,7 @@
       "term": "KALENDS",
       "original_term": null,
       "entry_type": "verified_main",
-      "body_source": "rebuilt",
+      "body_source": "manual_correction",
       "body_length": 12
     },
     {
@@ -56859,8 +56859,8 @@
       "term": "LADING LADING, BILL OF",
       "original_term": null,
       "entry_type": "provisional_main",
-      "body_source": "legacy",
-      "body_length": 8
+      "body_source": "manual_correction",
+      "body_length": 9
     },
     {
       "id": "BLD2-07474",
@@ -64091,8 +64091,8 @@
       "term": "MIDDLESEX, BILL OF",
       "original_term": null,
       "entry_type": "verified_main",
-      "body_source": "legacy",
-      "body_length": 8
+      "body_source": "manual_correction",
+      "body_length": 9
     },
     {
       "id": "BLD2-08434",
@@ -65787,7 +65787,7 @@
       "term": "MUCIANA",
       "original_term": null,
       "entry_type": "verified_main",
-      "body_source": "rebuilt",
+      "body_source": "manual_correction",
       "body_length": 11
     },
     {
@@ -67411,7 +67411,7 @@
       "term": "NO FUNDS",
       "original_term": null,
       "entry_type": "verified_main",
-      "body_source": "legacy",
+      "body_source": "manual_correction",
       "body_length": 9
     },
     {
@@ -69499,8 +69499,8 @@
       "term": "ONERATUR",
       "original_term": null,
       "entry_type": "verified_main",
-      "body_source": "rebuilt",
-      "body_length": 10
+      "body_source": "manual_correction",
+      "body_length": 12
     },
     {
       "id": "BLD2-09177",
@@ -70955,8 +70955,8 @@
       "term": "PANDOXATOR",
       "original_term": null,
       "entry_type": "verified_main",
-      "body_source": "legacy",
-      "body_length": 7
+      "body_source": "manual_correction",
+      "body_length": 24
     },
     {
       "id": "BLD2-09379",
@@ -74451,8 +74451,8 @@
       "term": "PLOW-MONDAY",
       "original_term": null,
       "entry_type": "verified_main",
-      "body_source": "rebuilt",
-      "body_length": 12
+      "body_source": "manual_correction",
+      "body_length": 28
     },
     {
       "id": "BLD2-09834",
@@ -75339,8 +75339,8 @@
       "term": "POSTLIMINY",
       "original_term": null,
       "entry_type": "verified_main",
-      "body_source": "rebuilt",
-      "body_length": 19
+      "body_source": "manual_correction",
+      "body_length": 17
     },
     {
       "id": "BLD2-09948",
@@ -75547,7 +75547,7 @@
       "term": "POYNDING",
       "original_term": null,
       "entry_type": "verified_main",
-      "body_source": "rebuilt",
+      "body_source": "manual_correction",
       "body_length": 13
     },
     {
@@ -76947,8 +76947,8 @@
       "term": "PRIVIGNA",
       "original_term": null,
       "entry_type": "verified_main",
-      "body_source": "rebuilt",
-      "body_length": 15
+      "body_source": "manual_correction",
+      "body_length": 37
     },
     {
       "id": "BLD2-10157",
@@ -83907,7 +83907,7 @@
       "term": "REVERSIBLE ERROR",
       "original_term": null,
       "entry_type": "verified_main",
-      "body_source": "rebuilt",
+      "body_source": "manual_correction",
       "body_length": 10
     },
     {
@@ -85811,8 +85811,8 @@
       "term": "SATISFACTORY EVIDENCE",
       "original_term": null,
       "entry_type": "verified_main",
-      "body_source": "legacy",
-      "body_length": 3
+      "body_source": "manual_correction",
+      "body_length": 13
     },
     {
       "id": "BLD2-11334",
@@ -86251,8 +86251,8 @@
       "term": "SCRAMBLING",
       "original_term": null,
       "entry_type": "verified_main",
-      "body_source": "legacy",
-      "body_length": 5
+      "body_source": "manual_correction",
+      "body_length": 15
     },
     {
       "id": "BLD2-11392",
@@ -86859,8 +86859,8 @@
       "term": "SEIZING",
       "original_term": null,
       "entry_type": "verified_main",
-      "body_source": "rebuilt",
-      "body_length": 12
+      "body_source": "manual_correction",
+      "body_length": 11
     },
     {
       "id": "BLD2-11475",
@@ -87891,8 +87891,8 @@
       "term": "SHAM",
       "original_term": null,
       "entry_type": "verified_main",
-      "body_source": "legacy",
-      "body_length": 8
+      "body_source": "manual_correction",
+      "body_length": 9
     },
     {
       "id": "BLD2-11607",
@@ -91675,8 +91675,8 @@
       "term": "SUBCONTRACT",
       "original_term": null,
       "entry_type": "verified_main",
-      "body_source": "rebuilt",
-      "body_length": 14
+      "body_source": "manual_correction",
+      "body_length": 13
     },
     {
       "id": "BLD2-12104",
@@ -91915,8 +91915,8 @@
       "term": "SUBSEQUENT CONDITION",
       "original_term": null,
       "entry_type": "verified_main",
-      "body_source": "rebuilt",
-      "body_length": 16
+      "body_source": "manual_correction",
+      "body_length": 14
     },
     {
       "id": "BLD2-12136",
@@ -92587,8 +92587,8 @@
       "term": "SUPPLETORY OATH",
       "original_term": null,
       "entry_type": "verified_main",
-      "body_source": "rebuilt",
-      "body_length": 10
+      "body_source": "manual_correction",
+      "body_length": 9
     },
     {
       "id": "BLD2-12223",
@@ -93067,8 +93067,8 @@
       "term": "SWAINMOTE",
       "original_term": null,
       "entry_type": "verified_main",
-      "body_source": "rebuilt",
-      "body_length": 11
+      "body_source": "manual_correction",
+      "body_length": 14
     },
     {
       "id": "BLD2-12286",
@@ -98203,8 +98203,8 @@
       "term": "UNSEATED LAND",
       "original_term": null,
       "entry_type": "verified_main",
-      "body_source": "legacy",
-      "body_length": 9
+      "body_source": "manual_correction",
+      "body_length": 10
     },
     {
       "id": "BLD2-12979",
@@ -98755,8 +98755,8 @@
       "term": "VACANT",
       "original_term": null,
       "entry_type": "provisional_main",
-      "body_source": "rebuilt",
-      "body_length": 11
+      "body_source": "manual_correction",
+      "body_length": 15
     },
     {
       "id": "BLD2-13053",
@@ -100243,8 +100243,8 @@
       "term": "VINDICTIVE",
       "original_term": null,
       "entry_type": "verified_main",
-      "body_source": "legacy",
-      "body_length": 8
+      "body_source": "manual_correction",
+      "body_length": 12
     },
     {
       "id": "BLD2-13254",

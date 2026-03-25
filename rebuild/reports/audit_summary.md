@@ -30,15 +30,15 @@
 
 ### Empty or Near-Empty Body
 
-- **Count**: 146  |  **Severity**: high
+- **Count**: 140  |  **Severity**: high
 
 **Representative examples:**
 
 - term=`ACCOMMODATION` | body_length=`16` | body=`See INDORSEMENT,`
-- term=`ADMINICULATE` | body_length=`13` | body=`lar evidence.`
 - term=`ADMISSIONALIS` | body_length=`18` | body=`An usher. Spelman.`
 - term=`ADQUIETO` | body_length=`16` | body=`Payment. Blount.`
 - term=`ALLOCUTION` | body_length=`14` | body=`See ALLocuTUS.`
+- term=`ANDROGYNUS` | body_length=`17` | body=`An hermaphrodite.`
 
 ### Residual Reflow
 
@@ -54,15 +54,15 @@
 
 ### OCR Artifacts
 
-- **Count**: 413  |  **Severity**: high
+- **Count**: 248  |  **Severity**: high
 
 **Representative examples:**
 
-- term=`A AVER` | issues=`['contains_@', "digit_in_word: '2p'"]` | body_preview=`L. Fr. (L. Lat. habendum et tenendum.) To have and to hold. Co. Litt. §§ 523, 52`
-- term=`A ME` | issues=`['contains_@']` | body_preview=`(Lat. ego, I.) A term denoting direct tenure of the superior lord. 2 Bell, H. L.`
-- term=`A PALATIO` | issues=`['contains_@']` | body_preview=`L. Lat. From palatium, (a palace.) Counties palatine are hence so called. 1 Bl. `
+- term=`A AVER` | issues=`["digit_in_word: '2p'"]` | body_preview=`L. Fr. (L. Lat. habendum et tenendum.) To have and to hold. Co. Litt. §§ 523, 52`
 - term=`A PRENDRE` | issues=`['contains_@']` | body_preview=`L. Fr. To take. Bref é@ prendre la terre, a writ to take the land. Fet Ass. § 51`
-- term=`A QUO` | issues=`['contains_@']` | body_preview=`A term used, with the correlative ad quem, (to which,) in expressing the computa`
+- term=`AB INCONVENIENTI` | issues=`["digit_in_word: '6a'"]` | body_preview=`From hardship, or inconvenience. An argument founded upon the hardship of the ca`
+- term=`ABATEMENT` | issues=`["digit_in_word: '7a'"]` | body_preview=`In pleading. The effect produced upon an action at law, when the defendant plead`
+- term=`ABEYANCE` | issues=`['contains_@']` | body_preview=`In the law of estates. Expectation; waiting; suspense; remembrance and contempla`
 
 ### Duplicate / Near-Duplicate
 
@@ -90,7 +90,7 @@
 
 ### Unresolved Cross-References
 
-- **Count**: 131  |  **Severity**: high
+- **Count**: 125  |  **Severity**: high
 
 **Representative examples:**
 
@@ -106,7 +106,7 @@ divine service. See FRANKALMOIGNE.
 Insanity; idiocy. See JNSANITY.`
 - term=`AMY` | referenced=`AMI` | body_snippet=`See AMI; PROCHEIN AMY.`
 
-- Unique missing refs: 120
+- Unique missing refs: 115
 
 **Top missing references:**
 
@@ -114,12 +114,12 @@ Insanity; idiocy. See JNSANITY.`
 - `IN F` (2 occurrences)
 - `QUO WARRANTO` (2 occurrences)
 - `INGROSS` (2 occurrences)
-- `BIL` (2 occurrences)
 - `BUILDING AND` (2 occurrences)
 - `COURT OF PROBATE` (2 occurrences)
 - `BONA FIDE` (2 occurrences)
 - `ABJURBATION` (1 occurrences)
 - `FRANKALMOIGNE` (1 occurrences)
+- `ALTERA` (1 occurrences)
 
 ### Manifest / Split Consistency
 
@@ -146,8 +146,8 @@ Insanity; idiocy. See JNSANITY.`
 | MORTGAGE | expected_live | live_headword | verified_main | An estate created by a conveyance absolute in its form, but intended to secure t |
 | A PRENDRE | expected_live | live_headword | verified_main | L. Fr. To take. Bref é@ prendre la terre, a writ to take the land. Fet Ass. § 51 |
 | AEGYLDE | expected_live | live_headword | legacy_unresolved | Uncompensated, unpaid for, unavenged. From the participle of exclusion, a, @, or |
-| ARRIERE VASSAL | expected_live | live_headword | verified_main | In feudal law. The vassal of a-vass@l. |
-| BANKER | expected_live | live_headword | verified_main | A private person who keeps &@ bank; one who is engaged in the business of bankin |
+| ARRIERE VASSAL | expected_live | live_headword | verified_main | In feudal law. The vassal of a-vassal. |
+| BANKER | expected_live | live_headword | verified_main | A private person who keeps a bank; one who is engaged in the business of banking |
 | BILLET | expected_live | live_headword | verified_main | A soldier's quarters in a civilian's house; or the ticket which authorizes him t |
 | CABALLERO | expected_live | live_headword | verified_main | In Spanish law. A knight. So called on account of its being more honorable to go |
 | CONSIGNOR | expected_live | live_headword | verified_main | One who sends or makes 4@ consignment. A shipper of goods.  Consilia multorum qu |

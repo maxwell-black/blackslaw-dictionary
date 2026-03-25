@@ -1,0 +1,841 @@
+{
+  "total_near_empty": 140,
+  "threshold": 20,
+  "summary": {
+    "reviewed_ok": 112,
+    "see_ref_valid": 28,
+    "see_ref_unresolved": 0,
+    "see_ref_truncated": 0,
+    "djvu_recovered": 0,
+    "lp_recovered": 0,
+    "truncated_body": 0,
+    "empty_stub": 0
+  },
+  "new_body_corrections": 0,
+  "details": {
+    "reviewed_ok": [
+      {
+        "term": "ADMISSIONALIS",
+        "body": "An usher. Spelman.",
+        "body_len": 18,
+        "reason": "legitimate short definition"
+      },
+      {
+        "term": "ADQUIETO",
+        "body": "Payment. Blount.",
+        "body_len": 16,
+        "reason": "legitimate short definition"
+      },
+      {
+        "term": "ANDROGYNUS",
+        "body": "An hermaphrodite.",
+        "body_len": 17,
+        "reason": "legitimate short definition"
+      },
+      {
+        "term": "APERTUM",
+        "body": "An overt act.",
+        "body_len": 13,
+        "reason": "legitimate short definition"
+      },
+      {
+        "term": "APPELLATIO",
+        "body": "Lat. An appeal.",
+        "body_len": 15,
+        "reason": "legitimate short definition"
+      },
+      {
+        "term": "ARCHETYPE",
+        "body": "The original copy.",
+        "body_len": 18,
+        "reason": "legitimate short definition"
+      },
+      {
+        "term": "BLASARIUS",
+        "body": "An incendiary.",
+        "body_len": 14,
+        "reason": "legitimate short definition"
+      },
+      {
+        "term": "BODY CORPORATE",
+        "body": "A corporation.",
+        "body_len": 14,
+        "reason": "legitimate short definition"
+      },
+      {
+        "term": "BOTTOMAGE",
+        "body": "L. Fr. Bottomry.",
+        "body_len": 16,
+        "reason": "legitimate short definition"
+      },
+      {
+        "term": "BURGWHAR",
+        "body": "A burgess, (¢. v.)",
+        "body_len": 18,
+        "reason": "legitimate short definition"
+      },
+      {
+        "term": "CAMBIPARTICEPS",
+        "body": "A champertor.",
+        "body_len": 13,
+        "reason": "legitimate short definition"
+      },
+      {
+        "term": "CATCHING",
+        "body": "See BARGAIN.",
+        "body_len": 12,
+        "reason": "already in body_corrections"
+      },
+      {
+        "term": "CHARGING ORDER",
+        "body": "See ORDER.",
+        "body_len": 10,
+        "reason": "already in body_corrections"
+      },
+      {
+        "term": "CIRLISCUS",
+        "body": "A ceorl, (7. 0)",
+        "body_len": 15,
+        "reason": "legitimate short definition"
+      },
+      {
+        "term": "CO-STIPULATOR",
+        "body": "A joint promisor.",
+        "body_len": 17,
+        "reason": "legitimate short definition"
+      },
+      {
+        "term": "COLLISTRIGIUM",
+        "body": "The pillory.",
+        "body_len": 12,
+        "reason": "legitimate short definition"
+      },
+      {
+        "term": "COMMITTING",
+        "body": "See COMMITMENT.",
+        "body_len": 15,
+        "reason": "already in body_corrections"
+      },
+      {
+        "term": "COMMUTATIVE",
+        "body": "See JUSTICE.",
+        "body_len": 12,
+        "reason": "already in body_corrections"
+      },
+      {
+        "term": "CONCESSUM",
+        "body": "A grantee.",
+        "body_len": 10,
+        "reason": "legitimate short definition"
+      },
+      {
+        "term": "CONCILIABULUM",
+        "body": "A council house. -",
+        "body_len": 18,
+        "reason": "short but complete definition"
+      },
+      {
+        "term": "COOPERTUS",
+        "body": "Covert; covered.",
+        "body_len": 16,
+        "reason": "legitimate short definition"
+      },
+      {
+        "term": "COPARTNERSHIP",
+        "body": "A partnership.",
+        "body_len": 14,
+        "reason": "legitimate short definition"
+      },
+      {
+        "term": "COSMUS",
+        "body": "Clean. Blount.",
+        "body_len": 14,
+        "reason": "legitimate short definition"
+      },
+      {
+        "term": "COUSINAGE",
+        "body": "See COSENAGE.",
+        "body_len": 13,
+        "reason": "already in body_corrections"
+      },
+      {
+        "term": "CREANSOR",
+        "body": "A creditor. Cowell.",
+        "body_len": 19,
+        "reason": "legitimate short definition"
+      },
+      {
+        "term": "DAYERIA",
+        "body": "A dairy.",
+        "body_len": 8,
+        "reason": "legitimate short definition"
+      },
+      {
+        "term": "DEAD USE",
+        "body": "A future use.",
+        "body_len": 13,
+        "reason": "legitimate short definition"
+      },
+      {
+        "term": "DEGASTER",
+        "body": "L. Fr. To waste.",
+        "body_len": 16,
+        "reason": "legitimate short definition"
+      },
+      {
+        "term": "DEMANDRESS",
+        "body": "A female demandant.",
+        "body_len": 19,
+        "reason": "legitimate short definition"
+      },
+      {
+        "term": "DEMENTED",
+        "body": "Of unsound mind.",
+        "body_len": 16,
+        "reason": "legitimate short definition"
+      },
+      {
+        "term": "DEMONSTRATIVE",
+        "body": "See LEGACY.",
+        "body_len": 11,
+        "reason": "already in body_corrections"
+      },
+      {
+        "term": "DISADVOCARE",
+        "body": "To deny a thing.",
+        "body_len": 16,
+        "reason": "legitimate short definition"
+      },
+      {
+        "term": "DOOMSDAY-BOOK",
+        "body": "See Domesdat-Book",
+        "body_len": 17,
+        "reason": "already in body_corrections"
+      },
+      {
+        "term": "EALDOR-BISOOP",
+        "body": "An archbishop.",
+        "body_len": 14,
+        "reason": "legitimate short definition"
+      },
+      {
+        "term": "EMPARLANCE",
+        "body": "See IMPARLANCE.",
+        "body_len": 15,
+        "reason": "already in body_corrections"
+      },
+      {
+        "term": "ENCLOSURE",
+        "body": "See INCLOSURE.",
+        "body_len": 14,
+        "reason": "already in body_corrections"
+      },
+      {
+        "term": "ENGLETERRE",
+        "body": "L. Fr. England.",
+        "body_len": 15,
+        "reason": "legitimate short definition"
+      },
+      {
+        "term": "ESKIPPER, ESKIPPARE",
+        "body": "To ship.",
+        "body_len": 8,
+        "reason": "legitimate short definition"
+      },
+      {
+        "term": "ET ALLOCATUR",
+        "body": "And it is allowed.",
+        "body_len": 18,
+        "reason": "legitimate short definition"
+      },
+      {
+        "term": "EXEMPLARY",
+        "body": "See DAMAGES.",
+        "body_len": 12,
+        "reason": "already in body_corrections"
+      },
+      {
+        "term": "FEUDAL",
+        "body": "Feuds or fees.",
+        "body_len": 14,
+        "reason": "legitimate short definition"
+      },
+      {
+        "term": "FIDE-PROMISSOR",
+        "body": "See: Fipr-Jussor.",
+        "body_len": 17,
+        "reason": "legitimate short definition"
+      },
+      {
+        "term": "FOITERERS",
+        "body": "Vagabonds. Blount.",
+        "body_len": 18,
+        "reason": "legitimate short definition"
+      },
+      {
+        "term": "FRAUNCHISE",
+        "body": "L. Fr. A franchise.",
+        "body_len": 19,
+        "reason": "legitimate short definition"
+      },
+      {
+        "term": "FRIEND",
+        "body": "See AMICUS CURIAE.",
+        "body_len": 18,
+        "reason": "already in body_corrections"
+      },
+      {
+        "term": "FRIGIDITY",
+        "body": "Impotence. Jobnson.",
+        "body_len": 19,
+        "reason": "legitimate short definition"
+      },
+      {
+        "term": "FUGACIA",
+        "body": "A chase. Blount.",
+        "body_len": 16,
+        "reason": "legitimate short definition"
+      },
+      {
+        "term": "FUNDATOR",
+        "body": "A founder, (q. v.)",
+        "body_len": 18,
+        "reason": "legitimate short definition"
+      },
+      {
+        "term": "FUNDITORES",
+        "body": "Pioneers. Jacob.",
+        "body_len": 16,
+        "reason": "legitimate short definition"
+      },
+      {
+        "term": "GAUGEATOR",
+        "body": "A gauger. Lowell.",
+        "body_len": 17,
+        "reason": "legitimate short definition"
+      },
+      {
+        "term": "GENTOO",
+        "body": "See HINDU.",
+        "body_len": 10,
+        "reason": "already in body_corrections"
+      },
+      {
+        "term": "GROSSE BOIS",
+        "body": "Timber. Cowell.",
+        "body_len": 15,
+        "reason": "legitimate short definition"
+      },
+      {
+        "term": "GYROVAGI",
+        "body": "Wandering monks.",
+        "body_len": 16,
+        "reason": "legitimate short definition"
+      },
+      {
+        "term": "HARMLESS",
+        "body": "See ERROR.",
+        "body_len": 10,
+        "reason": "already in body_corrections"
+      },
+      {
+        "term": "HEREGEAT",
+        "body": "A heriot, (g. v.)",
+        "body_len": 17,
+        "reason": "legitimate short definition"
+      },
+      {
+        "term": "HERPEX",
+        "body": "A harrow. Spelman.",
+        "body_len": 18,
+        "reason": "legitimate short definition"
+      },
+      {
+        "term": "IMPERATIVE",
+        "body": "See DIRECTORY.",
+        "body_len": 14,
+        "reason": "already in body_corrections"
+      },
+      {
+        "term": "INFRA",
+        "body": "Within the realm.",
+        "body_len": 17,
+        "reason": "legitimate short definition"
+      },
+      {
+        "term": "INTERMITTENT EASEMENT",
+        "body": "See EASEMENT.",
+        "body_len": 13,
+        "reason": "already in body_corrections"
+      },
+      {
+        "term": "IRREPARABLE",
+        "body": "See INJURY.",
+        "body_len": 11,
+        "reason": "already in body_corrections"
+      },
+      {
+        "term": "JAIL DELIVERY",
+        "body": "See GAOL.",
+        "body_len": 9,
+        "reason": "already in body_corrections"
+      },
+      {
+        "term": "JAIL LIBERTIES",
+        "body": "See GAOL.",
+        "body_len": 9,
+        "reason": "already in body_corrections"
+      },
+      {
+        "term": "KALENDS",
+        "body": "See CALENDS.",
+        "body_len": 12,
+        "reason": "already in body_corrections"
+      },
+      {
+        "term": "LADING LADING, BILL OF",
+        "body": "See BILL.",
+        "body_len": 9,
+        "reason": "already in body_corrections"
+      },
+      {
+        "term": "LIMOGIA",
+        "body": "Enamel.\nDu Cange.",
+        "body_len": 17,
+        "reason": "legitimate short definition"
+      },
+      {
+        "term": "LOCATARIUS",
+        "body": "Lat. A depositee.",
+        "body_len": 17,
+        "reason": "legitimate short definition"
+      },
+      {
+        "term": "MAIHEMATUS",
+        "body": "Maimed or wounded.",
+        "body_len": 18,
+        "reason": "legitimate short definition"
+      },
+      {
+        "term": "MANSER",
+        "body": "A bastard. Cowell.",
+        "body_len": 18,
+        "reason": "legitimate short definition"
+      },
+      {
+        "term": "MANTICULATE",
+        "body": "To pick pockets.",
+        "body_len": 16,
+        "reason": "legitimate short definition"
+      },
+      {
+        "term": "MEDIATE TESTIMONY",
+        "body": "evidence, (q. v.)",
+        "body_len": 17,
+        "reason": "legitimate short definition"
+      },
+      {
+        "term": "MERA",
+        "body": "Midnight. Cowell.",
+        "body_len": 17,
+        "reason": "legitimate short definition"
+      },
+      {
+        "term": "MERCANTANT",
+        "body": "A foreign trader.",
+        "body_len": 17,
+        "reason": "legitimate short definition"
+      },
+      {
+        "term": "MERCATIVE",
+        "body": "Belonging to trade.",
+        "body_len": 19,
+        "reason": "legitimate short definition"
+      },
+      {
+        "term": "MIDDLESEX, BILL OF",
+        "body": "See BILL.",
+        "body_len": 9,
+        "reason": "already in body_corrections"
+      },
+      {
+        "term": "MISSAL",
+        "body": "Lat. The mass.",
+        "body_len": 14,
+        "reason": "legitimate short definition"
+      },
+      {
+        "term": "MONACHISM",
+        "body": "The state of monks.",
+        "body_len": 19,
+        "reason": "legitimate short definition"
+      },
+      {
+        "term": "MORTHLAG",
+        "body": "Murder. Cowell.",
+        "body_len": 15,
+        "reason": "legitimate short definition"
+      },
+      {
+        "term": "MUCIANA",
+        "body": "See CAUTIO.",
+        "body_len": 11,
+        "reason": "already in body_corrections"
+      },
+      {
+        "term": "NAUFRAGIUM",
+        "body": "Lat. Shipwreck.",
+        "body_len": 15,
+        "reason": "legitimate short definition"
+      },
+      {
+        "term": "NO FUNDS",
+        "body": "See FUND.",
+        "body_len": 9,
+        "reason": "already in body_corrections"
+      },
+      {
+        "term": "ONERATUR",
+        "body": "See ONERARI.",
+        "body_len": 12,
+        "reason": "already in body_corrections"
+      },
+      {
+        "term": "PARCELLA TERR",
+        "body": "A parcel of land.",
+        "body_len": 17,
+        "reason": "legitimate short definition"
+      },
+      {
+        "term": "PASSIAGIARIUS",
+        "body": "A ferryman. Jacob.",
+        "body_len": 18,
+        "reason": "legitimate short definition"
+      },
+      {
+        "term": "PATIBULATED",
+        "body": "Hanged on a gibbet.",
+        "body_len": 19,
+        "reason": "legitimate short definition"
+      },
+      {
+        "term": "PINNAGE",
+        "body": "Poundage of cattle.",
+        "body_len": 19,
+        "reason": "legitimate short definition"
+      },
+      {
+        "term": "POSTLIMINY",
+        "body": "See POSTLIMINIUM.",
+        "body_len": 17,
+        "reason": "already in body_corrections"
+      },
+      {
+        "term": "POYNDING",
+        "body": "See POINDING.",
+        "body_len": 13,
+        "reason": "already in body_corrections"
+      },
+      {
+        "term": "PRECONIZATION",
+        "body": "Proclamation.",
+        "body_len": 13,
+        "reason": "legitimate short definition"
+      },
+      {
+        "term": "PRESENTER",
+        "body": "One that presents.",
+        "body_len": 18,
+        "reason": "legitimate short definition"
+      },
+      {
+        "term": "PRODITION",
+        "body": "Treason; treachery.",
+        "body_len": 19,
+        "reason": "legitimate short definition"
+      },
+      {
+        "term": "REVERSIBLE ERROR",
+        "body": "See ERROR.",
+        "body_len": 10,
+        "reason": "already in body_corrections"
+      },
+      {
+        "term": "SATISFACTORY EVIDENCE",
+        "body": "See EVIDENCE.",
+        "body_len": 13,
+        "reason": "already in body_corrections"
+      },
+      {
+        "term": "SCRAMBLING",
+        "body": "See POSSESSION.",
+        "body_len": 15,
+        "reason": "already in body_corrections"
+      },
+      {
+        "term": "SEIGNIORESS",
+        "body": "A female supertor.",
+        "body_len": 18,
+        "reason": "legitimate short definition"
+      },
+      {
+        "term": "SEIZING",
+        "body": "See SEISIN.",
+        "body_len": 11,
+        "reason": "already in body_corrections"
+      },
+      {
+        "term": "SHAM",
+        "body": "See PLEA.",
+        "body_len": 9,
+        "reason": "already in body_corrections"
+      },
+      {
+        "term": "SHAWM'S ATORES",
+        "body": "Soldiers. Cowell.",
+        "body_len": 17,
+        "reason": "legitimate short definition"
+      },
+      {
+        "term": "STAGIARIUS",
+        "body": "A resident. Cowell.",
+        "body_len": 19,
+        "reason": "legitimate short definition"
+      },
+      {
+        "term": "SUBCONTRACT",
+        "body": "See CONTRACT.",
+        "body_len": 13,
+        "reason": "already in body_corrections"
+      },
+      {
+        "term": "SUBSEQUENT CONDITION",
+        "body": "See CONDITION.",
+        "body_len": 14,
+        "reason": "already in body_corrections"
+      },
+      {
+        "term": "SUPPLETORY OATH",
+        "body": "See OATH.",
+        "body_len": 9,
+        "reason": "already in body_corrections"
+      },
+      {
+        "term": "SURSUMREDDITIO",
+        "body": "Lat. A _ surrender.",
+        "body_len": 19,
+        "reason": "legitimate short definition"
+      },
+      {
+        "term": "SWAINMOTE",
+        "body": "See SWEINMOTE.",
+        "body_len": 14,
+        "reason": "already in body_corrections"
+      },
+      {
+        "term": "TESTATION",
+        "body": "Witness; evidence.",
+        "body_len": 18,
+        "reason": "legitimate short definition"
+      },
+      {
+        "term": "UNSEATED LAND",
+        "body": "See LANDS.",
+        "body_len": 10,
+        "reason": "already in body_corrections"
+      },
+      {
+        "term": "UTERO-GESTATION",
+        "body": "Pregnancy.",
+        "body_len": 10,
+        "reason": "legitimate short definition"
+      },
+      {
+        "term": "VACANT",
+        "body": "See SUCCESSION.",
+        "body_len": 15,
+        "reason": "already in body_corrections"
+      },
+      {
+        "term": "VENDUE",
+        "body": "An auctioneer.",
+        "body_len": 14,
+        "reason": "legitimate short definition"
+      },
+      {
+        "term": "VINDICTIVE",
+        "body": "See DAMAGES.",
+        "body_len": 12,
+        "reason": "already in body_corrections"
+      },
+      {
+        "term": "VIRGE",
+        "body": "A yard-land.",
+        "body_len": 12,
+        "reason": "legitimate short definition"
+      },
+      {
+        "term": "VIRGO",
+        "body": "Lat. A pure virgin.",
+        "body_len": 19,
+        "reason": "legitimate short definition"
+      },
+      {
+        "term": "WHITSUN",
+        "body": "Pentecostals,\n(q..)",
+        "body_len": 19,
+        "reason": "short but complete definition"
+      }
+    ],
+    "see_ref_valid": [
+      {
+        "term": "ACCOMMODATION",
+        "body": "See INDORSEMENT,",
+        "target": "INDORSEMENT"
+      },
+      {
+        "term": "ALLOCUTION",
+        "body": "See ALLocuTUS.",
+        "target": "ALLOCUTUS"
+      },
+      {
+        "term": "AULNAGE",
+        "body": "See ALNAGER.\n\n.",
+        "target": "ALNAGER"
+      },
+      {
+        "term": "AYLE",
+        "body": "See AIEL.",
+        "target": "AIEL"
+      },
+      {
+        "term": "CONSTITUTIONS OF CLARENDON",
+        "body": "See CLARENDON. A",
+        "target": "CLARENDON A",
+        "matched_to": "CLARENDON"
+      },
+      {
+        "term": "ENCUMBRANCE",
+        "body": "See INCUMBRANCE.",
+        "target": "INCUMBRANCE"
+      },
+      {
+        "term": "ESTATE BY ELEGIT",
+        "body": "See ELEGIT.",
+        "target": "ELEGIT"
+      },
+      {
+        "term": "FORTIORI",
+        "body": "See A FORTIORI.:",
+        "target": "A FORTIORI"
+      },
+      {
+        "term": "FUTURE ESTATE",
+        "body": "See Estate.",
+        "target": "ESTATE"
+      },
+      {
+        "term": "HIRCISCUNDA",
+        "body": "See HERCISCUNDA,",
+        "target": "HERCISCUNDA"
+      },
+      {
+        "term": "HONDHABEND",
+        "body": "See HANDHABEND,",
+        "target": "HANDHABEND"
+      },
+      {
+        "term": "HYPOCHONDRIA",
+        "body": "See INSANITY.",
+        "target": "INSANITY"
+      },
+      {
+        "term": "IMBECILITY",
+        "body": "See INSANITY,",
+        "target": "INSANITY"
+      },
+      {
+        "term": "IMBRACERY",
+        "body": "See EMBRACERY.",
+        "target": "EMBRACERY"
+      },
+      {
+        "term": "INFAMOUS",
+        "body": "See Crime.",
+        "target": "CRIME"
+      },
+      {
+        "term": "INROLLMENT",
+        "body": "See ENROLLMENT.\n\n.",
+        "target": "ENROLLMENT"
+      },
+      {
+        "term": "LEAP-YEAR",
+        "body": "See BISSEXTILE.",
+        "target": "BISSEXTILE"
+      },
+      {
+        "term": "MEDIATE DESCENT",
+        "body": "See DESCENT.",
+        "target": "DESCENT"
+      },
+      {
+        "term": "METHOMANIA",
+        "body": "See INSANITY.",
+        "target": "INSANITY"
+      },
+      {
+        "term": "NECROPHILISM",
+        "body": "See INSANITY.",
+        "target": "INSANITY"
+      },
+      {
+        "term": "NEWLY-DISCOVERED",
+        "body": "See EVIDENCE.",
+        "target": "EVIDENCE"
+      },
+      {
+        "term": "NON-JOINDER",
+        "body": "See JOINDER.",
+        "target": "JOINDER"
+      },
+      {
+        "term": "PIONEER PATENT",
+        "body": "See PATENT.",
+        "target": "PATENT"
+      },
+      {
+        "term": "QUATER COUSIN",
+        "body": "See Cousin.",
+        "target": "COUSIN"
+      },
+      {
+        "term": "SURFACE WATERS",
+        "body": "See WATER.",
+        "target": "WATER"
+      },
+      {
+        "term": "TRANSGRESSIVE",
+        "body": "See Trust.",
+        "target": "TRUST"
+      },
+      {
+        "term": "UNSEAWORTHY",
+        "body": "See SEAWORTHY.",
+        "target": "SEAWORTHY"
+      },
+      {
+        "term": "VEHMGERICHT",
+        "body": "See FEHMGERICHT.",
+        "target": "FEHMGERICHT",
+        "matched_to": "FEHMGERICHTE"
+      }
+    ],
+    "see_ref_unresolved": [],
+    "see_ref_truncated": [],
+    "djvu_recovered": [],
+    "lp_recovered": [],
+    "truncated_body": [],
+    "empty_stub": []
+  }
+}

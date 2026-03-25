@@ -73,18 +73,13 @@
     ]
   },
   "empty_or_near_empty_body": {
-    "count": 146,
+    "count": 140,
     "severity": "high",
     "examples": [
       {
         "term": "ACCOMMODATION",
         "body_length": 16,
         "body": "See INDORSEMENT,"
-      },
-      {
-        "term": "ADMINICULATE",
-        "body_length": 13,
-        "body": "lar evidence."
       },
       {
         "term": "ADMISSIONALIS",
@@ -100,6 +95,11 @@
         "term": "ALLOCUTION",
         "body_length": 14,
         "body": "See ALLocuTUS."
+      },
+      {
+        "term": "ANDROGYNUS",
+        "body_length": 17,
+        "body": "An hermaphrodite."
       }
     ]
   },
@@ -154,30 +154,15 @@
     ]
   },
   "ocr_artifacts": {
-    "count": 413,
+    "count": 248,
     "severity": "high",
     "examples": [
       {
         "term": "A AVER",
         "issues": [
-          "contains_@",
           "digit_in_word: '2p'"
         ],
         "body_preview": "L. Fr. (L. Lat. habendum et tenendum.) To have and to hold. Co. Litt. §§ 523, 52"
-      },
-      {
-        "term": "A ME",
-        "issues": [
-          "contains_@"
-        ],
-        "body_preview": "(Lat. ego, I.) A term denoting direct tenure of the superior lord. 2 Bell, H. L."
-      },
-      {
-        "term": "A PALATIO",
-        "issues": [
-          "contains_@"
-        ],
-        "body_preview": "L. Lat. From palatium, (a palace.) Counties palatine are hence so called. 1 Bl. "
       },
       {
         "term": "A PRENDRE",
@@ -187,11 +172,25 @@
         "body_preview": "L. Fr. To take. Bref é@ prendre la terre, a writ to take the land. Fet Ass. § 51"
       },
       {
-        "term": "A QUO",
+        "term": "AB INCONVENIENTI",
+        "issues": [
+          "digit_in_word: '6a'"
+        ],
+        "body_preview": "From hardship, or inconvenience. An argument founded upon the hardship of the ca"
+      },
+      {
+        "term": "ABATEMENT",
+        "issues": [
+          "digit_in_word: '7a'"
+        ],
+        "body_preview": "In pleading. The effect produced upon an action at law, when the defendant plead"
+      },
+      {
+        "term": "ABEYANCE",
         "issues": [
           "contains_@"
         ],
-        "body_preview": "A term used, with the correlative ad quem, (to which,) in expressing the computa"
+        "body_preview": "In the law of estates. Expectation; waiting; suspense; remembrance and contempla"
       }
     ]
   },
@@ -306,8 +305,8 @@
     }
   },
   "unresolved_crossrefs": {
-    "count": 131,
-    "unique_missing_refs": 120,
+    "count": 125,
+    "unique_missing_refs": 115,
     "severity": "high",
     "top_missing_refs": [
       {
@@ -324,10 +323,6 @@
       },
       {
         "ref": "INGROSS",
-        "occurrences": 2
-      },
-      {
-        "ref": "BIL",
         "occurrences": 2
       },
       {
@@ -388,6 +383,10 @@
       },
       {
         "ref": "BANERET",
+        "occurrences": 1
+      },
+      {
+        "ref": "PLEA IN BAR",
         "occurrences": 1
       }
     ],
