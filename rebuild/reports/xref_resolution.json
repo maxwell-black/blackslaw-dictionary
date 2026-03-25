@@ -1,0 +1,957 @@
+{
+  "total_unresolved_refs": 125,
+  "unique_missing_targets": 115,
+  "summary": {
+    "truncated_ref": 20,
+    "ocr_garbled": 20,
+    "variant_match": 1,
+    "suppressed_entry": 2,
+    "legitimately_absent": 0,
+    "subentry_reference": 72
+  },
+  "details": {
+    "truncated_ref": [
+      {
+        "target": "IN F",
+        "count": 2,
+        "referencing_entries": [
+          "FORMA",
+          "FULL"
+        ],
+        "reason": "Reference appears truncated by OCR"
+      },
+      {
+        "target": "AMI",
+        "count": 1,
+        "referencing_entries": [
+          "AMY"
+        ],
+        "reason": "Reference appears truncated by OCR"
+      },
+      {
+        "target": "DE O",
+        "count": 1,
+        "referencing_entries": [
+          "ATHEIST"
+        ],
+        "reason": "Reference appears truncated by OCR"
+      },
+      {
+        "target": "AD H",
+        "count": 1,
+        "referencing_entries": [
+          "ATTORNEY"
+        ],
+        "reason": "Reference appears truncated by OCR"
+      },
+      {
+        "target": "DE NON DEN",
+        "count": 1,
+        "referencing_entries": [
+          "CIMANDO"
+        ],
+        "reason": "Reference appears truncated by OCR"
+      },
+      {
+        "target": "AGN",
+        "count": 1,
+        "referencing_entries": [
+          "COGNATIO"
+        ],
+        "reason": "Reference appears truncated by OCR"
+      },
+      {
+        "target": "DEA",
+        "count": 1,
+        "referencing_entries": [
+          "DEAD"
+        ],
+        "reason": "Reference appears truncated by OCR"
+      },
+      {
+        "target": "WAGER OF L",
+        "count": 1,
+        "referencing_entries": [
+          "DEFENDERE"
+        ],
+        "reason": "Reference appears truncated by OCR"
+      },
+      {
+        "target": "DEP",
+        "count": 1,
+        "referencing_entries": [
+          "DEPOSITUM"
+        ],
+        "reason": "Reference appears truncated by OCR"
+      },
+      {
+        "target": "DIM",
+        "count": 1,
+        "referencing_entries": [
+          "DIMISIT"
+        ],
+        "reason": "Reference appears truncated by OCR"
+      },
+      {
+        "target": "CLERICO C",
+        "count": 1,
+        "referencing_entries": [
+          "ERANDO"
+        ],
+        "reason": "Reference appears truncated by OCR"
+      },
+      {
+        "target": "WRIT OF ER",
+        "count": 1,
+        "referencing_entries": [
+          "ERROR"
+        ],
+        "reason": "Reference appears truncated by OCR"
+      },
+      {
+        "target": "DEADLY F",
+        "count": 1,
+        "referencing_entries": [
+          "FEUD"
+        ],
+        "reason": "Reference appears truncated by OCR"
+      },
+      {
+        "target": "STO",
+        "count": 1,
+        "referencing_entries": [
+          "GUARANTY"
+        ],
+        "reason": "Reference appears truncated by OCR"
+      },
+      {
+        "target": "BREHON L",
+        "count": 1,
+        "referencing_entries": [
+          "LEX"
+        ],
+        "reason": "Reference appears truncated by OCR"
+      },
+      {
+        "target": "PRZ",
+        "count": 1,
+        "referencing_entries": [
+          "PREDIAL"
+        ],
+        "reason": "Reference appears truncated by OCR"
+      },
+      {
+        "target": "OWN",
+        "count": 1,
+        "referencing_entries": [
+          "PROPERTY"
+        ],
+        "reason": "Reference appears truncated by OCR"
+      },
+      {
+        "target": "IN P",
+        "count": 1,
+        "referencing_entries": [
+          "PROPRIA PERSONA"
+        ],
+        "reason": "Reference appears truncated by OCR"
+      },
+      {
+        "target": "PLE",
+        "count": 1,
+        "referencing_entries": [
+          "REFERENDUM"
+        ],
+        "reason": "Reference appears truncated by OCR"
+      },
+      {
+        "target": "TONNAGE D",
+        "count": 1,
+        "referencing_entries": [
+          "TAX"
+        ],
+        "reason": "Reference appears truncated by OCR"
+      }
+    ],
+    "ocr_garbled": [
+      {
+        "target": "INGROSS",
+        "corrected_to": "ENGROSS",
+        "count": 2,
+        "referencing_entries": [
+          "INROSSATION",
+          "INROSSER"
+        ]
+      },
+      {
+        "target": "JNSANITY",
+        "corrected_to": "INSANITY",
+        "count": 1,
+        "referencing_entries": [
+          "AMENTIA"
+        ]
+      },
+      {
+        "target": "COUTHLAUGH",
+        "corrected_to": "COUTHUTLAUGH",
+        "count": 1,
+        "referencing_entries": [
+          "CUTH"
+        ]
+      },
+      {
+        "target": "IORMEDON",
+        "corrected_to": "FORMEDON",
+        "count": 1,
+        "referencing_entries": [
+          "DESCENDER"
+        ]
+      },
+      {
+        "target": "BARNEST",
+        "corrected_to": "EARNEST",
+        "count": 1,
+        "referencing_entries": [
+          "EARLES-PENNY"
+        ]
+      },
+      {
+        "target": "DUPLEX VALOR MARITATII",
+        "corrected_to": "DULPEX VALOR MARITAGII",
+        "count": 1,
+        "referencing_entries": [
+          "FORFEITURE"
+        ]
+      },
+      {
+        "target": "MEBITS",
+        "corrected_to": "MERITS",
+        "count": 1,
+        "referencing_entries": [
+          "MERITORIOUS"
+        ]
+      },
+      {
+        "target": "EABNINGS",
+        "corrected_to": "EARNINGS",
+        "count": 1,
+        "referencing_entries": [
+          "NEPUOY"
+        ]
+      },
+      {
+        "target": "RIPABIAN",
+        "corrected_to": "RIPARIAN",
+        "count": 1,
+        "referencing_entries": [
+          "OWNER"
+        ]
+      },
+      {
+        "target": "WATEE",
+        "corrected_to": "WATER",
+        "count": 1,
+        "referencing_entries": [
+          "PERCH"
+        ]
+      },
+      {
+        "target": "MABRIAGE",
+        "corrected_to": "MARRIAGE",
+        "count": 1,
+        "referencing_entries": [
+          "PLURAL"
+        ]
+      },
+      {
+        "target": "PREZEMUNIRE",
+        "corrected_to": "PRAEMUNIRE",
+        "count": 1,
+        "referencing_entries": [
+          "PREMUNIRE"
+        ]
+      },
+      {
+        "target": "PRASUMPTIO",
+        "corrected_to": "PRAESUMPTIO",
+        "count": 1,
+        "referencing_entries": [
+          "PRESUMPTIO"
+        ]
+      },
+      {
+        "target": "PRELIMINABY",
+        "corrected_to": "PRELIMINARY",
+        "count": 1,
+        "referencing_entries": [
+          "PROOF"
+        ]
+      },
+      {
+        "target": "INPURE",
+        "corrected_to": "UMPIRE",
+        "count": 1,
+        "referencing_entries": [
+          "PUR"
+        ]
+      },
+      {
+        "target": "DVIDENCE",
+        "corrected_to": "EVIDENCE",
+        "count": 1,
+        "referencing_entries": [
+          "RELEVANT"
+        ]
+      },
+      {
+        "target": "EXTRAORDINABY",
+        "corrected_to": "EXTRAORDINARY",
+        "count": 1,
+        "referencing_entries": [
+          "REMEDY"
+        ]
+      },
+      {
+        "target": "FELONY DE SE",
+        "corrected_to": "FELO DE SE",
+        "count": 1,
+        "referencing_entries": [
+          "SELF-DEFENSE"
+        ]
+      },
+      {
+        "target": "CHANCELLORB",
+        "corrected_to": "CHANCELLOR",
+        "count": 1,
+        "referencing_entries": [
+          "VICE"
+        ]
+      },
+      {
+        "target": "EVECTMENT",
+        "corrected_to": "EJECTMENT",
+        "count": 1,
+        "referencing_entries": [
+          "WRIT OF DOWER"
+        ]
+      }
+    ],
+    "variant_match": [
+      {
+        "target": "WATERCOURSE",
+        "matched_to": "WATER-COURSE",
+        "distance": 0,
+        "count": 1,
+        "referencing_entries": [
+          "ARTIFICIAL"
+        ],
+        "match_type": "compact_match"
+      }
+    ],
+    "suppressed_entry": [
+      {
+        "target": "LAND",
+        "entry_type": "fragment_artifact",
+        "count": 5,
+        "referencing_entries": [
+          "GABEL",
+          "MINERAL",
+          "SCHOOL",
+          "STEWARD",
+          "TIDE"
+        ]
+      },
+      {
+        "target": "SECURED",
+        "entry_type": "legacy_duplicate",
+        "count": 1,
+        "referencing_entries": [
+          "CREDITOR"
+        ]
+      }
+    ],
+    "legitimately_absent": [],
+    "subentry_reference": [
+      {
+        "target": "QUO WARRANTO",
+        "count": 2,
+        "referencing_entries": [
+          "INFORMALITY",
+          "INFORMATION"
+        ],
+        "reason": "Target appears as subentry in body text"
+      },
+      {
+        "target": "BUILDING AND",
+        "count": 2,
+        "referencing_entries": [
+          "LOADMANAGE",
+          "LOAN"
+        ],
+        "reason": "Target appears as subentry in body text"
+      },
+      {
+        "target": "COURT OF PROBATE",
+        "count": 2,
+        "referencing_entries": [
+          "PROBATE",
+          "PROBATIS"
+        ],
+        "reason": "Target appears as subentry in body text"
+      },
+      {
+        "target": "BONA FIDE",
+        "count": 2,
+        "referencing_entries": [
+          "PUR",
+          "PURCHASER"
+        ],
+        "reason": "Target appears as subentry in body text"
+      },
+      {
+        "target": "ABJURBATION",
+        "count": 1,
+        "referencing_entries": [
+          "ABJURE"
+        ],
+        "reason": "Target appears as subentry in body text"
+      },
+      {
+        "target": "FRANKALMOIGNE",
+        "count": 1,
+        "referencing_entries": [
+          "ALMOIN"
+        ],
+        "reason": "Target appears as subentry in body text"
+      },
+      {
+        "target": "ALTERA",
+        "count": 1,
+        "referencing_entries": [
+          "ALTER"
+        ],
+        "reason": "Target appears as subentry in body text"
+      },
+      {
+        "target": "BERTILLON SYSTEM",
+        "count": 1,
+        "referencing_entries": [
+          "ANTHROPOMETRY"
+        ],
+        "reason": "Target appears as subentry in body text"
+      },
+      {
+        "target": "APPARENT HEIR",
+        "count": 1,
+        "referencing_entries": [
+          "APPEARAND"
+        ],
+        "reason": "Target appears as subentry in body text"
+      },
+      {
+        "target": "APPRENTICE EN LA LEY",
+        "count": 1,
+        "referencing_entries": [
+          "APPRENTICIUS AD LEGEM"
+        ],
+        "reason": "Target appears as subentry in body text"
+      },
+      {
+        "target": "BANERET",
+        "count": 1,
+        "referencing_entries": [
+          "BANNERET"
+        ],
+        "reason": "Target appears as subentry in body text"
+      },
+      {
+        "target": "PLEA IN BAR",
+        "count": 1,
+        "referencing_entries": [
+          "BARATRIAM"
+        ],
+        "reason": "Target appears as subentry in body text"
+      },
+      {
+        "target": "CAUTIONE",
+        "count": 1,
+        "referencing_entries": [
+          "CAUTION"
+        ],
+        "reason": "Target appears as subentry in body text"
+      },
+      {
+        "target": "OCCUPA",
+        "count": 1,
+        "referencing_entries": [
+          "CENSE"
+        ],
+        "reason": "Target appears as subentry in body text"
+      },
+      {
+        "target": "ADCLERICO CAPTO PER STATUTUM",
+        "count": 1,
+        "referencing_entries": [
+          "CLERICO"
+        ],
+        "reason": "Target appears as subentry in body text"
+      },
+      {
+        "target": "CROWN OFFICE IN CHANCERBY",
+        "count": 1,
+        "referencing_entries": [
+          "CLERK"
+        ],
+        "reason": "Target appears as subentry in body text"
+      },
+      {
+        "target": "DE COLLIGENDUM",
+        "count": 1,
+        "referencing_entries": [
+          "COLLIGENDUM"
+        ],
+        "reason": "Target appears as subentry in body text"
+      },
+      {
+        "target": "TENANTS IN COMMON",
+        "count": 1,
+        "referencing_entries": [
+          "COMMON"
+        ],
+        "reason": "Target appears as subentry in body text"
+      },
+      {
+        "target": "PRESUMP",
+        "count": 1,
+        "referencing_entries": [
+          "CONCLUSIVE"
+        ],
+        "reason": "Target appears as subentry in body text"
+      },
+      {
+        "target": "HEREDIT",
+        "count": 1,
+        "referencing_entries": [
+          "CORPOREAL"
+        ],
+        "reason": "Target appears as subentry in body text"
+      },
+      {
+        "target": "CHAL",
+        "count": 1,
+        "referencing_entries": [
+          "DEFECTUS"
+        ],
+        "reason": "Target appears as subentry in body text"
+      },
+      {
+        "target": "APOSTOLICAE",
+        "count": 1,
+        "referencing_entries": [
+          "DIMISSORIAE"
+        ],
+        "reason": "Target appears as subentry in body text"
+      },
+      {
+        "target": "PRESUMPTIONS",
+        "count": 1,
+        "referencing_entries": [
+          "DISPUTE"
+        ],
+        "reason": "Target appears as subentry in body text"
+      },
+      {
+        "target": "EMINENT DOMAIN",
+        "count": 1,
+        "referencing_entries": [
+          "DOMAIN"
+        ],
+        "reason": "Target appears as subentry in body text"
+      },
+      {
+        "target": "DE DONIS",
+        "count": 1,
+        "referencing_entries": [
+          "DONEE"
+        ],
+        "reason": "Target appears as subentry in body text"
+      },
+      {
+        "target": "DOMESDAY",
+        "count": 1,
+        "referencing_entries": [
+          "DOOM"
+        ],
+        "reason": "Target appears as subentry in body text"
+      },
+      {
+        "target": "PARTNERS",
+        "count": 1,
+        "referencing_entries": [
+          "DORMANT"
+        ],
+        "reason": "Target appears as subentry in body text"
+      },
+      {
+        "target": "AUTER DROIT",
+        "count": 1,
+        "referencing_entries": [
+          "EMPTIO REI SPERATA"
+        ],
+        "reason": "Target appears as subentry in body text"
+      },
+      {
+        "target": "PRIVATE EXAMINATION",
+        "count": 1,
+        "referencing_entries": [
+          "EXAMINATION"
+        ],
+        "reason": "Target appears as subentry in body text"
+      },
+      {
+        "target": "ULTRA VIBES",
+        "count": 1,
+        "referencing_entries": [
+          "EXTRA"
+        ],
+        "reason": "Target appears as subentry in body text"
+      },
+      {
+        "target": "FEIGNED ACTION",
+        "count": 1,
+        "referencing_entries": [
+          "FALSE"
+        ],
+        "reason": "Target appears as subentry in body text"
+      },
+      {
+        "target": "IN FUERI",
+        "count": 1,
+        "referencing_entries": [
+          "FIERI"
+        ],
+        "reason": "Target appears as subentry in body text"
+      },
+      {
+        "target": "COURT OF ERRORS AND APPEALS",
+        "count": 1,
+        "referencing_entries": [
+          "GATES"
+        ],
+        "reason": "Target appears as subentry in body text"
+      },
+      {
+        "target": "SUPREME COURT",
+        "count": 1,
+        "referencing_entries": [
+          "GATES"
+        ],
+        "reason": "Target appears as subentry in body text"
+      },
+      {
+        "target": "DE MEDIETATE",
+        "count": 1,
+        "referencing_entries": [
+          "HALF"
+        ],
+        "reason": "Target appears as subentry in body text"
+      },
+      {
+        "target": "HABEN",
+        "count": 1,
+        "referencing_entries": [
+          "HAVE"
+        ],
+        "reason": "Target appears as subentry in body text"
+      },
+      {
+        "target": "HIBI",
+        "count": 1,
+        "referencing_entries": [
+          "HIRE"
+        ],
+        "reason": "Target appears as subentry in body text"
+      },
+      {
+        "target": "UNDUE INFLUENCE",
+        "count": 1,
+        "referencing_entries": [
+          "INFLUENCE"
+        ],
+        "reason": "Target appears as subentry in body text"
+      },
+      {
+        "target": "THIELAGE",
+        "count": 1,
+        "referencing_entries": [
+          "INSTRUMENTA"
+        ],
+        "reason": "Target appears as subentry in body text"
+      },
+      {
+        "target": "MABITIME INTEBEST",
+        "count": 1,
+        "referencing_entries": [
+          "INTEREST"
+        ],
+        "reason": "Target appears as subentry in body text"
+      },
+      {
+        "target": "CODE CIVIL",
+        "count": 1,
+        "referencing_entries": [
+          "JUSTINIAN"
+        ],
+        "reason": "Target appears as subentry in body text"
+      },
+      {
+        "target": "IN KIND",
+        "count": 1,
+        "referencing_entries": [
+          "KIND"
+        ],
+        "reason": "Target appears as subentry in body text"
+      },
+      {
+        "target": "LN DEMEIES",
+        "count": 1,
+        "referencing_entries": [
+          "LANCETI"
+        ],
+        "reason": "Target appears as subentry in body text"
+      },
+      {
+        "target": "LYING IN",
+        "count": 1,
+        "referencing_entries": [
+          "LIE"
+        ],
+        "reason": "Target appears as subentry in body text"
+      },
+      {
+        "target": "COMMISSION OF ARRAY",
+        "count": 1,
+        "referencing_entries": [
+          "LIEUTENANCY"
+        ],
+        "reason": "Target appears as subentry in body text"
+      },
+      {
+        "target": "INSUR",
+        "count": 1,
+        "referencing_entries": [
+          "LIFE"
+        ],
+        "reason": "Target appears as subentry in body text"
+      },
+      {
+        "target": "GRAND CAPE",
+        "count": 1,
+        "referencing_entries": [
+          "MAGNUM"
+        ],
+        "reason": "Target appears as subentry in body text"
+      },
+      {
+        "target": "DE MEDIETATE LINGUS",
+        "count": 1,
+        "referencing_entries": [
+          "MEDIETAS"
+        ],
+        "reason": "Target appears as subentry in body text"
+      },
+      {
+        "target": "INTERNATION",
+        "count": 1,
+        "referencing_entries": [
+          "NATIONALIZACION"
+        ],
+        "reason": "Target appears as subentry in body text"
+      },
+      {
+        "target": "CONSIDERA",
+        "count": 1,
+        "referencing_entries": [
+          "NOMINAL"
+        ],
+        "reason": "Target appears as subentry in body text"
+      },
+      {
+        "target": "ASSISE OF",
+        "count": 1,
+        "referencing_entries": [
+          "NOVEL DISSEISIN"
+        ],
+        "reason": "Target appears as subentry in body text"
+      },
+      {
+        "target": "NON OBSTANTE",
+        "count": 1,
+        "referencing_entries": [
+          "OBSTA"
+        ],
+        "reason": "Target appears as subentry in body text"
+      },
+      {
+        "target": "AGRE",
+        "count": 1,
+        "referencing_entries": [
+          "ORDER"
+        ],
+        "reason": "Target appears as subentry in body text"
+      },
+      {
+        "target": "TITLE",
+        "count": 1,
+        "referencing_entries": [
+          "PAPER"
+        ],
+        "reason": "Target appears as subentry in body text"
+      },
+      {
+        "target": "OWELTY",
+        "count": 1,
+        "referencing_entries": [
+          "PARTITIO"
+        ],
+        "reason": "Target appears as subentry in body text"
+      },
+      {
+        "target": "JUDEX PEDANEUS",
+        "count": 1,
+        "referencing_entries": [
+          "PEDANEUS"
+        ],
+        "reason": "Target appears as subentry in body text"
+      },
+      {
+        "target": "CHARITABLE USES",
+        "count": 1,
+        "referencing_entries": [
+          "PIOUS USES"
+        ],
+        "reason": "Target appears as subentry in body text"
+      },
+      {
+        "target": "GUARDIANS OF",
+        "count": 1,
+        "referencing_entries": [
+          "POOR"
+        ],
+        "reason": "Target appears as subentry in body text"
+      },
+      {
+        "target": "CHAP",
+        "count": 1,
+        "referencing_entries": [
+          "PROPRIETARY"
+        ],
+        "reason": "Target appears as subentry in body text"
+      },
+      {
+        "target": "NOLLE PROSE",
+        "count": 1,
+        "referencing_entries": [
+          "PROSEQUI"
+        ],
+        "reason": "Target appears as subentry in body text"
+      },
+      {
+        "target": "QUICKEN",
+        "count": 1,
+        "referencing_entries": [
+          "QUICK"
+        ],
+        "reason": "Target appears as subentry in body text"
+      },
+      {
+        "target": "REFE",
+        "count": 1,
+        "referencing_entries": [
+          "REFERENCE"
+        ],
+        "reason": "Target appears as subentry in body text"
+      },
+      {
+        "target": "CORPORA",
+        "count": 1,
+        "referencing_entries": [
+          "RELIGIOUS"
+        ],
+        "reason": "Target appears as subentry in body text"
+      },
+      {
+        "target": "INVOLUN",
+        "count": 1,
+        "referencing_entries": [
+          "SERVITUDE"
+        ],
+        "reason": "Target appears as subentry in body text"
+      },
+      {
+        "target": "LETTERS OF SLAINS",
+        "count": 1,
+        "referencing_entries": [
+          "SLAINS"
+        ],
+        "reason": "Target appears as subentry in body text"
+      },
+      {
+        "target": "JURISDIC",
+        "count": 1,
+        "referencing_entries": [
+          "SUMMARY"
+        ],
+        "reason": "Target appears as subentry in body text"
+      },
+      {
+        "target": "COLLATERAL INHERI",
+        "count": 1,
+        "referencing_entries": [
+          "TAX"
+        ],
+        "reason": "Target appears as subentry in body text"
+      },
+      {
+        "target": "WINDOW",
+        "count": 1,
+        "referencing_entries": [
+          "TAX"
+        ],
+        "reason": "Target appears as subentry in body text"
+      },
+      {
+        "target": "NEGA",
+        "count": 1,
+        "referencing_entries": [
+          "TIVE"
+        ],
+        "reason": "Target appears as subentry in body text"
+      },
+      {
+        "target": "FEHMGERICHT",
+        "count": 1,
+        "referencing_entries": [
+          "VEHMGERICHT"
+        ],
+        "reason": "Target appears as subentry in body text"
+      },
+      {
+        "target": "A VIN",
+        "count": 1,
+        "referencing_entries": [
+          "VINCULO MATRIMONII"
+        ],
+        "reason": "Target appears as subentry in body text"
+      },
+      {
+        "target": "AUNCEL WEIGUT",
+        "count": 1,
+        "referencing_entries": [
+          "WEIGHT"
+        ],
+        "reason": "Target appears as subentry in body text"
+      }
+    ]
+  }
+}
