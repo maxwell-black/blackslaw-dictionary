@@ -6,7 +6,9 @@
     "entry_type": "verified_main",
     "confidence": 0.99,
     "source_headword": "A",
-    "source_pages": [],
+    "source_pages": [
+      "1"
+    ],
     "flags": [
       "embedded_caps_subentry"
     ]
@@ -18,7 +20,9 @@
     "entry_type": "junk_headword",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -31,7 +35,9 @@
     "entry_type": "junk_headword",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -45,7 +51,9 @@
     "entry_type": "verified_main",
     "confidence": 0.9,
     "source_headword": "A AVER ET TENER",
-    "source_pages": [],
+    "source_pages": [
+      "1"
+    ],
     "flags": [
       "headword_mismatch"
     ]
@@ -57,7 +65,9 @@
     "entry_type": "provisional_main",
     "confidence": 0.82,
     "source_headword": "A CONSILIIS",
-    "source_pages": [],
+    "source_pages": [
+      "1"
+    ],
     "flags": [
       "headword_mismatch"
     ]
@@ -69,7 +79,9 @@
     "entry_type": "verified_main",
     "confidence": 0.99,
     "source_headword": "A CUEILLETTE",
-    "source_pages": [],
+    "source_pages": [
+      "1"
+    ],
     "flags": []
   },
   {
@@ -79,7 +91,9 @@
     "entry_type": "verified_main",
     "confidence": 0.9,
     "source_headword": "ADATU",
-    "source_pages": [],
+    "source_pages": [
+      "1"
+    ],
     "flags": [
       "headword_mismatch"
     ]
@@ -91,7 +105,9 @@
     "entry_type": "provisional_main",
     "confidence": 0.82,
     "source_headword": "A FORFAIT ET SANS GARANTIE",
-    "source_pages": [],
+    "source_pages": [
+      "1"
+    ],
     "flags": [
       "headword_mismatch"
     ]
@@ -103,7 +119,9 @@
     "entry_type": "verified_main",
     "confidence": 0.99,
     "source_headword": "A FORTIORI",
-    "source_pages": [],
+    "source_pages": [
+      "1"
+    ],
     "flags": []
   },
   {
@@ -113,7 +131,9 @@
     "entry_type": "verified_main",
     "confidence": 0.99,
     "source_headword": "A GRATIA",
-    "source_pages": [],
+    "source_pages": [
+      "2"
+    ],
     "flags": []
   },
   {
@@ -123,7 +143,9 @@
     "entry_type": "verified_main",
     "confidence": 0.99,
     "source_headword": "A LATERE",
-    "source_pages": [],
+    "source_pages": [
+      "2"
+    ],
     "flags": []
   },
   {
@@ -133,7 +155,9 @@
     "entry_type": "verified_main",
     "confidence": 0.99,
     "source_headword": "A LIBELLIS",
-    "source_pages": [],
+    "source_pages": [
+      "2"
+    ],
     "flags": []
   },
   {
@@ -143,7 +167,9 @@
     "entry_type": "verified_main",
     "confidence": 0.99,
     "source_headword": "A ME",
-    "source_pages": [],
+    "source_pages": [
+      "2"
+    ],
     "flags": []
   },
   {
@@ -153,7 +179,9 @@
     "entry_type": "verified_main",
     "confidence": 0.9,
     "source_headword": "A MENSA ET THORO",
-    "source_pages": [],
+    "source_pages": [
+      "2"
+    ],
     "flags": [
       "headword_mismatch"
     ]
@@ -165,7 +193,9 @@
     "entry_type": "verified_main",
     "confidence": 0.99,
     "source_headword": "A NATIVITATE",
-    "source_pages": [],
+    "source_pages": [
+      "2"
+    ],
     "flags": []
   },
   {
@@ -175,7 +205,9 @@
     "entry_type": "verified_main",
     "confidence": 0.99,
     "source_headword": "A PALATIO",
-    "source_pages": [],
+    "source_pages": [
+      "2"
+    ],
     "flags": []
   },
   {
@@ -185,7 +217,9 @@
     "entry_type": "verified_main",
     "confidence": 0.99,
     "source_headword": "A POSTERIORI",
-    "source_pages": [],
+    "source_pages": [
+      "2"
+    ],
     "flags": []
   },
   {
@@ -195,7 +229,9 @@
     "entry_type": "verified_main",
     "confidence": 0.99,
     "source_headword": "A PRENDRE",
-    "source_pages": [],
+    "source_pages": [
+      "2"
+    ],
     "flags": []
   },
   {
@@ -205,7 +241,9 @@
     "entry_type": "verified_main",
     "confidence": 0.99,
     "source_headword": "A PRIORI",
-    "source_pages": [],
+    "source_pages": [
+      "2"
+    ],
     "flags": []
   },
   {
@@ -215,7 +253,9 @@
     "entry_type": "verified_main",
     "confidence": 0.99,
     "source_headword": "A QUO",
-    "source_pages": [],
+    "source_pages": [
+      "2"
+    ],
     "flags": []
   },
   {
@@ -225,7 +265,9 @@
     "entry_type": "verified_main",
     "confidence": 0.99,
     "source_headword": "A RENDRE",
-    "source_pages": [],
+    "source_pages": [
+      "2"
+    ],
     "flags": []
   },
   {
@@ -235,7 +277,9 @@
     "entry_type": "verified_main",
     "confidence": 0.99,
     "source_headword": "A RESPONSIS",
-    "source_pages": [],
+    "source_pages": [
+      "2"
+    ],
     "flags": []
   },
   {
@@ -245,7 +289,9 @@
     "entry_type": "verified_main",
     "confidence": 0.99,
     "source_headword": "A RETRO",
-    "source_pages": [],
+    "source_pages": [
+      "2"
+    ],
     "flags": []
   },
   {
@@ -255,7 +301,10 @@
     "entry_type": "verified_main",
     "confidence": 0.9,
     "source_headword": "A RUBRO AD NIGRUM",
-    "source_pages": [],
+    "source_pages": [
+      "2",
+      "3"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "headword_mismatch"
@@ -282,7 +331,9 @@
     "entry_type": "verified_main",
     "confidence": 0.9,
     "source_headword": "A VINCULO MATRIMONII",
-    "source_pages": [],
+    "source_pages": [
+      "3"
+    ],
     "flags": [
       "headword_mismatch"
     ]
@@ -350,7 +401,9 @@
     "entry_type": "appendix_abbrev",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -377,7 +430,9 @@
     "entry_type": "appendix_abbrev",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "760"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -391,7 +446,9 @@
     "entry_type": "appendix_abbrev",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "67"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -418,7 +475,10 @@
     "entry_type": "provisional_main",
     "confidence": 0.82,
     "source_headword": "AB AOTIS",
-    "source_pages": [],
+    "source_pages": [
+      "6",
+      "7"
+    ],
     "flags": [
       "headword_mismatch"
     ]
@@ -430,7 +490,9 @@
     "entry_type": "verified_main",
     "confidence": 0.99,
     "source_headword": "AB AGENDO",
-    "source_pages": [],
+    "source_pages": [
+      "3"
+    ],
     "flags": []
   },
   {
@@ -454,7 +516,9 @@
     "entry_type": "verified_main",
     "confidence": 0.99,
     "source_headword": "AB ANTECEDENTE",
-    "source_pages": [],
+    "source_pages": [
+      "3"
+    ],
     "flags": [
       "short_body"
     ]
@@ -466,7 +530,9 @@
     "entry_type": "verified_main",
     "confidence": 0.99,
     "source_headword": "AB EPISTOLIS",
-    "source_pages": [],
+    "source_pages": [
+      "3"
+    ],
     "flags": []
   },
   {
@@ -476,7 +542,9 @@
     "entry_type": "verified_main",
     "confidence": 0.99,
     "source_headword": "AB INCONVENIENTI",
-    "source_pages": [],
+    "source_pages": [
+      "3"
+    ],
     "flags": []
   },
   {
@@ -500,7 +568,9 @@
     "entry_type": "verified_main",
     "confidence": 0.99,
     "source_headword": "AB INITIO MUNDI",
-    "source_pages": [],
+    "source_pages": [
+      "3"
+    ],
     "flags": []
   },
   {
@@ -510,7 +580,9 @@
     "entry_type": "verified_main",
     "confidence": 0.99,
     "source_headword": "AB INTESTATO",
-    "source_pages": [],
+    "source_pages": [
+      "3"
+    ],
     "flags": []
   },
   {
@@ -520,7 +592,9 @@
     "entry_type": "verified_main",
     "confidence": 0.99,
     "source_headword": "AB INVITO",
-    "source_pages": [],
+    "source_pages": [
+      "3"
+    ],
     "flags": []
   },
   {
@@ -530,7 +604,9 @@
     "entry_type": "verified_main",
     "confidence": 0.99,
     "source_headword": "AB IRATO",
-    "source_pages": [],
+    "source_pages": [
+      "3"
+    ],
     "flags": []
   },
   {
@@ -540,7 +616,9 @@
     "entry_type": "verified_main",
     "confidence": 0.99,
     "source_headword": "ABACTOR",
-    "source_pages": [],
+    "source_pages": [
+      "3"
+    ],
     "flags": []
   },
   {
@@ -550,7 +628,9 @@
     "entry_type": "verified_main",
     "confidence": 0.99,
     "source_headword": "ABADENGO",
-    "source_pages": [],
+    "source_pages": [
+      "3"
+    ],
     "flags": []
   },
   {
@@ -560,7 +640,10 @@
     "entry_type": "verified_main",
     "confidence": 0.99,
     "source_headword": "ABALIENATIO",
-    "source_pages": [],
+    "source_pages": [
+      "3",
+      "4"
+    ],
     "flags": []
   },
   {
@@ -570,7 +653,9 @@
     "entry_type": "verified_main",
     "confidence": 0.99,
     "source_headword": "ABANDON",
-    "source_pages": [],
+    "source_pages": [
+      "4"
+    ],
     "flags": []
   },
   {
@@ -580,7 +665,9 @@
     "entry_type": "verified_main",
     "confidence": 0.99,
     "source_headword": "ABANDONEE",
-    "source_pages": [],
+    "source_pages": [
+      "4"
+    ],
     "flags": []
   },
   {
@@ -590,7 +677,10 @@
     "entry_type": "verified_main",
     "confidence": 0.99,
     "source_headword": "ABANDONMENT",
-    "source_pages": [],
+    "source_pages": [
+      "4",
+      "5"
+    ],
     "flags": []
   },
   {
@@ -600,7 +690,9 @@
     "entry_type": "verified_main",
     "confidence": 0.99,
     "source_headword": "ABATEMENT",
-    "source_pages": [],
+    "source_pages": [
+      "5"
+    ],
     "flags": [
       "embedded_caps_subentry"
     ]
@@ -612,7 +704,10 @@
     "entry_type": "verified_main",
     "confidence": 0.99,
     "source_headword": "ABATOR",
-    "source_pages": [],
+    "source_pages": [
+      "5",
+      "6"
+    ],
     "flags": []
   },
   {
@@ -622,7 +717,9 @@
     "entry_type": "verified_main",
     "confidence": 0.99,
     "source_headword": "ABATUDA",
-    "source_pages": [],
+    "source_pages": [
+      "6"
+    ],
     "flags": []
   },
   {
@@ -632,7 +729,9 @@
     "entry_type": "verified_main",
     "confidence": 0.99,
     "source_headword": "ABAVIA",
-    "source_pages": [],
+    "source_pages": [
+      "6"
+    ],
     "flags": []
   },
   {
@@ -642,7 +741,9 @@
     "entry_type": "verified_main",
     "confidence": 0.99,
     "source_headword": "ABAVITA",
-    "source_pages": [],
+    "source_pages": [
+      "6"
+    ],
     "flags": []
   },
   {
@@ -652,7 +753,9 @@
     "entry_type": "verified_main",
     "confidence": 0.9,
     "source_headword": "ABAVUNOULUS",
-    "source_pages": [],
+    "source_pages": [
+      "6"
+    ],
     "flags": [
       "headword_mismatch"
     ]
@@ -664,7 +767,9 @@
     "entry_type": "verified_main",
     "confidence": 0.99,
     "source_headword": "ABAVUS",
-    "source_pages": [],
+    "source_pages": [
+      "6"
+    ],
     "flags": []
   },
   {
@@ -674,7 +779,9 @@
     "entry_type": "verified_main",
     "confidence": 0.9,
     "source_headword": "ABBACY",
-    "source_pages": [],
+    "source_pages": [
+      "6"
+    ],
     "flags": [
       "headword_mismatch"
     ]
@@ -686,7 +793,9 @@
     "entry_type": "verified_main",
     "confidence": 0.99,
     "source_headword": "ABBEY",
-    "source_pages": [],
+    "source_pages": [
+      "6"
+    ],
     "flags": []
   },
   {
@@ -696,7 +805,9 @@
     "entry_type": "verified_main",
     "confidence": 0.99,
     "source_headword": "ABBOT",
-    "source_pages": [],
+    "source_pages": [
+      "6"
+    ],
     "flags": []
   },
   {
@@ -706,7 +817,9 @@
     "entry_type": "provisional_main",
     "confidence": 0.82,
     "source_headword": "ABBREVIATE OF ADJUDICATION",
-    "source_pages": [],
+    "source_pages": [
+      "6"
+    ],
     "flags": [
       "headword_mismatch"
     ]
@@ -718,7 +831,9 @@
     "entry_type": "verified_main",
     "confidence": 0.99,
     "source_headword": "ABBREVIATIONS",
-    "source_pages": [],
+    "source_pages": [
+      "6"
+    ],
     "flags": []
   },
   {
@@ -728,7 +843,9 @@
     "entry_type": "verified_main",
     "confidence": 0.99,
     "source_headword": "ABBREVIATORS",
-    "source_pages": [],
+    "source_pages": [
+      "6"
+    ],
     "flags": []
   },
   {
@@ -752,7 +869,9 @@
     "entry_type": "verified_main",
     "confidence": 0.99,
     "source_headword": "ABDICATION",
-    "source_pages": [],
+    "source_pages": [
+      "6"
+    ],
     "flags": []
   },
   {
@@ -762,7 +881,9 @@
     "entry_type": "verified_main",
     "confidence": 0.99,
     "source_headword": "ABDUCTION",
-    "source_pages": [],
+    "source_pages": [
+      "6"
+    ],
     "flags": []
   },
   {
@@ -772,7 +893,9 @@
     "entry_type": "verified_main",
     "confidence": 0.99,
     "source_headword": "ABEARANCE",
-    "source_pages": [],
+    "source_pages": [
+      "6"
+    ],
     "flags": []
   },
   {
@@ -782,7 +905,9 @@
     "entry_type": "verified_main",
     "confidence": 0.99,
     "source_headword": "ABEREMURDER",
-    "source_pages": [],
+    "source_pages": [
+      "6"
+    ],
     "flags": []
   },
   {
@@ -792,7 +917,9 @@
     "entry_type": "verified_main",
     "confidence": 0.99,
     "source_headword": "ABESSE",
-    "source_pages": [],
+    "source_pages": [
+      "6"
+    ],
     "flags": []
   },
   {
@@ -802,7 +929,10 @@
     "entry_type": "verified_main",
     "confidence": 0.99,
     "source_headword": "ABET",
-    "source_pages": [],
+    "source_pages": [
+      "6",
+      "7"
+    ],
     "flags": []
   },
   {
@@ -812,7 +942,9 @@
     "entry_type": "verified_main",
     "confidence": 0.99,
     "source_headword": "ABETTATOR",
-    "source_pages": [],
+    "source_pages": [
+      "7"
+    ],
     "flags": [
       "embedded_caps_subentry"
     ]
@@ -824,7 +956,9 @@
     "entry_type": "verified_main",
     "confidence": 0.99,
     "source_headword": "ABETTOR",
-    "source_pages": [],
+    "source_pages": [
+      "7"
+    ],
     "flags": []
   },
   {
@@ -834,7 +968,9 @@
     "entry_type": "verified_main",
     "confidence": 0.99,
     "source_headword": "ABEYANCE",
-    "source_pages": [],
+    "source_pages": [
+      "7"
+    ],
     "flags": []
   },
   {
@@ -857,7 +993,9 @@
     "entry_type": "verified_main",
     "confidence": 0.99,
     "source_headword": "ABIDE",
-    "source_pages": [],
+    "source_pages": [
+      "7"
+    ],
     "flags": []
   },
   {
@@ -867,7 +1005,9 @@
     "entry_type": "verified_main",
     "confidence": 0.9,
     "source_headword": "ABIDING BY",
-    "source_pages": [],
+    "source_pages": [
+      "7"
+    ],
     "flags": [
       "headword_mismatch"
     ]
@@ -879,7 +1019,9 @@
     "entry_type": "verified_main",
     "confidence": 0.99,
     "source_headword": "ABIGEATUS",
-    "source_pages": [],
+    "source_pages": [
+      "7"
+    ],
     "flags": []
   },
   {
@@ -889,7 +1031,9 @@
     "entry_type": "verified_main",
     "confidence": 0.99,
     "source_headword": "ABIGERE",
-    "source_pages": [],
+    "source_pages": [
+      "7"
+    ],
     "flags": []
   },
   {
@@ -899,7 +1043,9 @@
     "entry_type": "verified_main",
     "confidence": 0.99,
     "source_headword": "ABIGEUS",
-    "source_pages": [],
+    "source_pages": [
+      "7"
+    ],
     "flags": []
   },
   {
@@ -909,7 +1055,10 @@
     "entry_type": "verified_main",
     "confidence": 0.99,
     "source_headword": "ABILITY",
-    "source_pages": [],
+    "source_pages": [
+      "7",
+      "8"
+    ],
     "flags": []
   },
   {
@@ -932,7 +1081,9 @@
     "entry_type": "verified_main",
     "confidence": 0.9,
     "source_headword": "ABJURATION OF THE REALM",
-    "source_pages": [],
+    "source_pages": [
+      "8"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "headword_mismatch"
@@ -945,7 +1096,9 @@
     "entry_type": "verified_main",
     "confidence": 0.99,
     "source_headword": "ABJURE",
-    "source_pages": [],
+    "source_pages": [
+      "8"
+    ],
     "flags": []
   },
   {
@@ -955,7 +1108,9 @@
     "entry_type": "verified_main",
     "confidence": 0.99,
     "source_headword": "ABLE-BODIED",
-    "source_pages": [],
+    "source_pages": [
+      "8"
+    ],
     "flags": []
   },
   {
@@ -965,7 +1120,9 @@
     "entry_type": "verified_main",
     "confidence": 0.99,
     "source_headword": "ABLEGATI",
-    "source_pages": [],
+    "source_pages": [
+      "8"
+    ],
     "flags": []
   },
   {
@@ -975,7 +1132,9 @@
     "entry_type": "verified_main",
     "confidence": 0.99,
     "source_headword": "ABMATERTERA",
-    "source_pages": [],
+    "source_pages": [
+      "8"
+    ],
     "flags": []
   },
   {
@@ -985,7 +1144,9 @@
     "entry_type": "verified_main",
     "confidence": 0.99,
     "source_headword": "ABNEPOS",
-    "source_pages": [],
+    "source_pages": [
+      "8"
+    ],
     "flags": []
   },
   {
@@ -995,7 +1156,9 @@
     "entry_type": "verified_main",
     "confidence": 0.99,
     "source_headword": "ABNEPTIS",
-    "source_pages": [],
+    "source_pages": [
+      "8"
+    ],
     "flags": []
   },
   {
@@ -1005,7 +1168,9 @@
     "entry_type": "verified_main",
     "confidence": 0.99,
     "source_headword": "ABODE",
-    "source_pages": [],
+    "source_pages": [
+      "8"
+    ],
     "flags": [
       "embedded_caps_subentry"
     ]
@@ -1017,7 +1182,9 @@
     "entry_type": "verified_main",
     "confidence": 0.99,
     "source_headword": "ABOLITION",
-    "source_pages": [],
+    "source_pages": [
+      "8"
+    ],
     "flags": []
   },
   {
@@ -1027,7 +1194,9 @@
     "entry_type": "verified_main",
     "confidence": 0.99,
     "source_headword": "ABORDAGE",
-    "source_pages": [],
+    "source_pages": [
+      "8"
+    ],
     "flags": []
   },
   {
@@ -1037,7 +1206,9 @@
     "entry_type": "verified_main",
     "confidence": 0.99,
     "source_headword": "ABORTIFACIENT",
-    "source_pages": [],
+    "source_pages": [
+      "8"
+    ],
     "flags": []
   },
   {
@@ -1047,7 +1218,9 @@
     "entry_type": "verified_main",
     "confidence": 0.99,
     "source_headword": "ABORTION",
-    "source_pages": [],
+    "source_pages": [
+      "8"
+    ],
     "flags": []
   },
   {
@@ -1057,7 +1230,9 @@
     "entry_type": "verified_main",
     "confidence": 0.9,
     "source_headword": "ABORTIVE TRIAL",
-    "source_pages": [],
+    "source_pages": [
+      "8"
+    ],
     "flags": [
       "headword_mismatch"
     ]
@@ -1069,7 +1244,9 @@
     "entry_type": "verified_main",
     "confidence": 0.99,
     "source_headword": "ABORTUS",
-    "source_pages": [],
+    "source_pages": [
+      "8"
+    ],
     "flags": []
   },
   {
@@ -1079,7 +1256,9 @@
     "entry_type": "verified_main",
     "confidence": 0.99,
     "source_headword": "ABOUTISSEMENT",
-    "source_pages": [],
+    "source_pages": [
+      "8"
+    ],
     "flags": []
   },
   {
@@ -1089,7 +1268,10 @@
     "entry_type": "verified_main",
     "confidence": 0.99,
     "source_headword": "ABOVE",
-    "source_pages": [],
+    "source_pages": [
+      "8",
+      "9"
+    ],
     "flags": []
   },
   {
@@ -1099,7 +1281,9 @@
     "entry_type": "verified_main",
     "confidence": 0.99,
     "source_headword": "ABPATRUUS",
-    "source_pages": [],
+    "source_pages": [
+      "9"
+    ],
     "flags": []
   },
   {
@@ -1109,7 +1293,9 @@
     "entry_type": "verified_main",
     "confidence": 0.99,
     "source_headword": "ABRIDGE",
-    "source_pages": [],
+    "source_pages": [
+      "9"
+    ],
     "flags": []
   },
   {
@@ -1119,7 +1305,9 @@
     "entry_type": "verified_main",
     "confidence": 0.99,
     "source_headword": "ABRIDGMENT",
-    "source_pages": [],
+    "source_pages": [
+      "9"
+    ],
     "flags": [
       "embedded_caps_subentry"
     ]
@@ -1131,7 +1319,9 @@
     "entry_type": "verified_main",
     "confidence": 0.99,
     "source_headword": "ABROGATION",
-    "source_pages": [],
+    "source_pages": [
+      "9"
+    ],
     "flags": [
       "embedded_caps_subentry"
     ]
@@ -2098,7 +2288,9 @@
     "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "14"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -2113,7 +2305,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "15"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -2141,7 +2335,9 @@
     "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "15"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -2168,7 +2364,9 @@
     "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "18"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -2449,8 +2647,7 @@
     "confidence": 0.9,
     "source_headword": "AOT",
     "source_pages": [
-      "21",
-      "22"
+      "353"
     ],
     "flags": [
       "headword_mismatch"
@@ -4834,7 +5031,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "40"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -6566,7 +6765,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "462"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -6591,7 +6792,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "51"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -7032,7 +7235,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "54"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -7240,7 +7445,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "55"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -7332,7 +7539,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "55"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -7447,7 +7656,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "55"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -7476,7 +7687,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "55"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -7571,7 +7784,7 @@
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [
-      "67"
+      "56"
     ],
     "flags": [
       "embedded_caps_subentry",
@@ -7725,7 +7938,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "826"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -7965,7 +8180,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "58"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -8220,7 +8437,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "60"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -8813,7 +9032,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "760"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -8827,7 +9048,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "465"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -9367,7 +9590,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "850"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -9381,7 +9606,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "309"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -9623,7 +9850,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "290"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -9739,7 +9968,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "69"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -9766,7 +9997,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1081"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -10196,7 +10429,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "25"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -10234,7 +10469,10 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "71",
+      "72"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -10784,7 +11022,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "21"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -10969,7 +11209,7 @@
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [
-      "86"
+      "75"
     ],
     "flags": [
       "embedded_caps_subentry",
@@ -11741,7 +11981,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "80"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -11955,7 +12197,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "82"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -11984,7 +12228,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "82"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -12135,7 +12381,9 @@
     "entry_type": "alias_phantom",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "82"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -12543,7 +12791,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "289"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -12556,7 +12806,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "289"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -12952,7 +13204,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "86"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -13028,7 +13282,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "87"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -13433,7 +13689,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "89"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -13460,7 +13718,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "89"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -13629,7 +13889,7 @@
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [
-      "101"
+      "90"
     ],
     "flags": [
       "embedded_caps_subentry",
@@ -13694,7 +13954,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "90"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -13875,7 +14137,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1118"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -14555,7 +14819,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "99"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -14789,7 +15055,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "100"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -14878,7 +15146,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "187"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -15490,7 +15760,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "309"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -15568,7 +15840,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "105"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -16484,7 +16758,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "110"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -16600,7 +16876,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "111"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -16626,7 +16904,9 @@
     "entry_type": "appendix_abbrev",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "111"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -16640,7 +16920,9 @@
     "entry_type": "appendix_abbrev",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "111"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -16682,7 +16964,9 @@
     "entry_type": "appendix_abbrev",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "417"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -17333,7 +17617,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "115"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -17472,7 +17758,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "116"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -18332,7 +18620,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "122"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -18359,7 +18649,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "122"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -18656,7 +18948,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "520"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -19212,7 +19506,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1050"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -19373,7 +19669,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "129"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -19528,7 +19826,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "136"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -19542,7 +19842,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "136"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -19556,7 +19858,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "136"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -19811,7 +20115,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "972"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -20057,7 +20363,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "417"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -20208,7 +20516,7 @@
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [
-      "148"
+      "137"
     ],
     "flags": [
       "embedded_caps_subentry",
@@ -20222,7 +20530,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "137"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -20315,7 +20625,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "138"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -20629,7 +20941,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "844"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -21003,7 +21317,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "143"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -21114,7 +21430,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1233"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -21275,7 +21593,7 @@
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [
-      "156"
+      "145"
     ],
     "flags": [
       "embedded_caps_subentry",
@@ -21391,7 +21709,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "807"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -21858,7 +22178,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "148"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -22123,7 +22445,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "150"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -22524,7 +22848,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "956"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -22538,7 +22864,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "153"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -22671,7 +22999,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "153"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -23103,7 +23433,9 @@
     "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "156"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -23624,7 +23956,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "158"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -23751,7 +24085,7 @@
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [
-      "169"
+      "158"
     ],
     "flags": [
       "embedded_caps_subentry",
@@ -23765,7 +24099,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "159"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -23780,7 +24116,7 @@
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [
-      "170"
+      "159"
     ],
     "flags": [
       "embedded_caps_subentry",
@@ -23823,7 +24159,9 @@
     "entry_type": "appendix_abbrev",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1204"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -23837,7 +24175,9 @@
     "entry_type": "appendix_abbrev",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1204"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -23905,7 +24245,9 @@
     "entry_type": "appendix_abbrev",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "186"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -23961,7 +24303,9 @@
     "entry_type": "appendix_abbrev",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "427"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -24425,8 +24769,7 @@
     "confidence": 0.99,
     "source_headword": "CALL",
     "source_pages": [
-      "162",
-      "163"
+      "162"
     ],
     "flags": []
   },
@@ -24926,7 +25269,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "238"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -25774,7 +26119,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "171"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -25877,7 +26224,9 @@
     "entry_type": "alias_variant",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "171"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -26300,7 +26649,7 @@
     "confidence": 0.9,
     "source_headword": "CASSETUR BREVE",
     "source_pages": [
-      "174"
+      "136"
     ],
     "flags": [
       "headword_mismatch"
@@ -27273,7 +27622,9 @@
     "entry_type": "alias_variant",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "180"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -27672,7 +28023,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "329"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -28163,7 +28516,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "691"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -29246,8 +29601,7 @@
     "confidence": 0.9,
     "source_headword": "CHEOK",
     "source_pages": [
-      "195",
-      "196"
+      "302"
     ],
     "flags": [
       "embedded_caps_subentry",
@@ -29323,7 +29677,10 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "195",
+      "196"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -29374,7 +29731,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "951"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -29896,7 +30255,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "799"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -29909,7 +30270,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "620"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -30109,7 +30472,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "201"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -30172,7 +30537,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "201"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -30763,7 +31130,7 @@
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [
-      "206"
+      "853"
     ],
     "flags": [
       "embedded_caps_subentry",
@@ -30930,7 +31297,7 @@
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [
-      "218"
+      "207"
     ],
     "flags": [
       "embedded_caps_subentry",
@@ -31295,7 +31662,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "427"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -31310,7 +31679,7 @@
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [
-      "221"
+      "210"
     ],
     "flags": [
       "embedded_caps_subentry",
@@ -31324,7 +31693,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "210"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -31338,7 +31709,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "212"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -31353,7 +31726,7 @@
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [
-      "223"
+      "212"
     ],
     "flags": [
       "embedded_caps_subentry",
@@ -31367,7 +31740,9 @@
     "entry_type": "alias_variant",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "214"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -31396,7 +31771,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "269"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -31410,7 +31787,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "269"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -31424,7 +31803,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "269"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -31438,7 +31819,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "269"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -31452,7 +31835,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "271"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -31466,7 +31851,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "278"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -31481,7 +31868,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "279"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -31610,7 +31999,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "211"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -31893,7 +32284,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "213"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -31920,7 +32313,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "213"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -34460,7 +34855,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "235"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -34607,7 +35004,7 @@
     "confidence": 0.82,
     "source_headword": "CON BUENA FE",
     "source_pages": [
-      "236"
+      "299"
     ],
     "flags": [
       "headword_mismatch"
@@ -34692,7 +35089,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "853"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -36488,7 +36887,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "248"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -37428,7 +37829,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "257"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -37887,7 +38290,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "593"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -38785,7 +39190,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "269"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -39273,7 +39680,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "272"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -39704,7 +40113,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "278"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -39731,7 +40142,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "278"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -40269,7 +40682,7 @@
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [
-      "293"
+      "282"
     ],
     "flags": [
       "embedded_caps_subentry",
@@ -40434,7 +40847,10 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "287",
+      "288"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -40729,7 +41145,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "295"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -40756,7 +41174,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "295"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -42234,7 +42654,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "309"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -42462,7 +42884,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "586"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -42476,7 +42900,8 @@
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [
-      "311"
+      "311",
+      "312"
     ],
     "flags": [
       "embedded_caps_subentry",
@@ -42629,7 +43054,9 @@
     "entry_type": "appendix_abbrev",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "313"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -42643,7 +43070,9 @@
     "entry_type": "appendix_abbrev",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "327"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -42699,7 +43128,7 @@
     "confidence": 0.9,
     "source_headword": "D",
     "source_pages": [
-      "313"
+      "328"
     ],
     "flags": [
       "embedded_caps_subentry",
@@ -43383,7 +43812,7 @@
     "confidence": 0.9,
     "source_headword": "DA",
     "source_pages": [
-      "328"
+      "319"
     ],
     "flags": [
       "headword_mismatch"
@@ -43437,7 +43866,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "188"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -43612,7 +44043,7 @@
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [
-      "343"
+      "332"
     ],
     "flags": [
       "embedded_caps_subentry",
@@ -44121,8 +44552,7 @@
     "confidence": 0.99,
     "source_headword": "DEATH",
     "source_pages": [
-      "332",
-      "333"
+      "332"
     ],
     "flags": [
       "embedded_caps_subentry"
@@ -44175,7 +44605,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "333"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -44896,7 +45328,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "9"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -44935,7 +45369,8 @@
     "confidence": 0.9,
     "source_headword": "DEOEIT",
     "source_pages": [
-      "336"
+      "521",
+      "522"
     ],
     "flags": [
       "headword_mismatch"
@@ -45202,7 +45637,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "338"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -47761,7 +48198,10 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "186",
+      "187"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -47775,7 +48215,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "579"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -48831,7 +49273,7 @@
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [
-      "376"
+      "365"
     ],
     "flags": [
       "embedded_caps_subentry",
@@ -49023,7 +49465,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "366"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -49764,7 +50208,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "151"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -50720,7 +51166,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "378"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -50785,7 +51233,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "378"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -51053,7 +51503,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "380"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -51436,7 +51888,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "383"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -52976,7 +53430,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "396"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -54034,7 +54490,9 @@
     "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "400"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -54101,7 +54559,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "403"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -54128,7 +54588,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "394"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -54432,7 +54894,9 @@
     "entry_type": "appendix_abbrev",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "407"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -54446,7 +54910,9 @@
     "entry_type": "appendix_abbrev",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "846"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -54473,7 +54939,9 @@
     "entry_type": "appendix_abbrev",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "846"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -54942,7 +55410,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "846"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -55161,7 +55631,9 @@
     "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "410"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -55176,7 +55648,9 @@
     "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1009"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -55190,7 +55664,9 @@
     "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "410"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -55928,7 +56404,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "415"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -56317,7 +56795,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "43"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -56521,7 +57001,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "418"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -56561,7 +57043,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "419"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -58799,7 +59283,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1144"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -58813,7 +59299,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "321"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -58879,7 +59367,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "410"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -58984,7 +59474,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "461"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -59107,7 +59599,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "285"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -59121,7 +59615,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "288"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -59159,7 +59655,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "706"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -59642,7 +60140,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "438"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -59694,7 +60194,7 @@
     "confidence": 0.82,
     "source_headword": "EST ASCAVOIR",
     "source_pages": [
-      "438"
+      "923"
     ],
     "flags": [
       "headword_mismatch"
@@ -59707,7 +60207,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "52"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -60492,7 +60994,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1146"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -60685,9 +61189,8 @@
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [
-      "446",
-      "447",
-      "448"
+      "1056",
+      "1057"
     ],
     "flags": [
       "low_match_score",
@@ -61255,7 +61758,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "459"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -61735,7 +62240,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "463"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -61831,7 +62338,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "463"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -63442,7 +63951,9 @@
     "entry_type": "junk_headword",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "474"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -63470,7 +63981,9 @@
     "entry_type": "appendix_abbrev",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "474"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -64019,7 +64532,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "479"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -64268,7 +64783,9 @@
     "entry_type": "alias_variant",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "480"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -64309,7 +64826,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "480"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -64456,7 +64975,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "481"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -66525,7 +67046,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "492"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -66578,7 +67101,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "492"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -66897,7 +67422,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "208"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -66999,7 +67526,7 @@
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [
-      "506"
+      "495"
     ],
     "flags": [
       "embedded_caps_subentry",
@@ -67014,7 +67541,7 @@
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [
-      "506"
+      "495"
     ],
     "flags": [
       "embedded_caps_subentry",
@@ -67056,7 +67583,7 @@
     "confidence": 0.82,
     "source_headword": "FIDEM MENTIRI",
     "source_pages": [
-      "495"
+      "653"
     ],
     "flags": [
       "headword_mismatch"
@@ -68051,7 +68578,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "503"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -68400,7 +68929,9 @@
     "entry_type": "alias_variant",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "505"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -68427,7 +68958,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "505"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -68526,7 +69059,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "505"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -68632,7 +69167,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "506"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -69113,7 +69650,9 @@
     "entry_type": "alias_variant",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "507"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -70651,7 +71190,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "517"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -73467,7 +74008,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "532"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -73596,7 +74139,9 @@
     "entry_type": "appendix_abbrev",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "227"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -74757,7 +75302,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1133"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -74795,7 +75342,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "472"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -75356,7 +75905,10 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "980",
+      "981"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -75511,7 +76063,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "328"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -75970,7 +76524,7 @@
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [
-      "554"
+      "543"
     ],
     "flags": [
       "embedded_caps_subentry",
@@ -76827,7 +77381,7 @@
     "confidence": 0.9,
     "source_headword": "GREEN WAX",
     "source_pages": [
-      "548"
+      "1060"
     ],
     "flags": [
       "headword_mismatch"
@@ -77207,7 +77761,10 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "549",
+      "550"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -77412,7 +77969,7 @@
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [
-      "561"
+      "550"
     ],
     "flags": [
       "embedded_caps_subentry",
@@ -77850,7 +78407,9 @@
     "entry_type": "appendix_abbrev",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "554"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -77878,7 +78437,9 @@
     "entry_type": "appendix_abbrev",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "563"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -77989,7 +78550,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1028"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -78016,7 +78579,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "555"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -78119,7 +78684,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1001"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -78185,7 +78752,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "555"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -78994,7 +79563,7 @@
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [
-      "571"
+      "560"
     ],
     "flags": [
       "embedded_caps_subentry",
@@ -79741,7 +80310,7 @@
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [
-      "574"
+      "563"
     ],
     "flags": [
       "embedded_caps_subentry",
@@ -79755,7 +80324,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "563"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -80888,7 +81459,9 @@
     "entry_type": "alias_variant",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "569"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -81041,7 +81614,7 @@
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [
-      "581"
+      "570"
     ],
     "flags": [
       "embedded_caps_subentry",
@@ -81402,7 +81975,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "825"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -82169,7 +82744,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "574"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -83567,7 +84144,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "583"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -84159,7 +84738,7 @@
     "confidence": 0.9,
     "source_headword": "IL",
     "source_pages": [
-      "186"
+      "330"
     ],
     "flags": [
       "headword_mismatch",
@@ -84659,7 +85238,9 @@
     "entry_type": "junk_headword",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "150"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -84672,7 +85253,9 @@
     "entry_type": "junk_headword",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "22"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -84686,7 +85269,10 @@
     "entry_type": "junk_headword",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "279",
+      "280"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -84714,7 +85300,9 @@
     "entry_type": "junk_headword",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "7"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -85125,7 +85713,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "592"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -85791,7 +86381,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "596"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -86366,7 +86958,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "610"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -87848,7 +88442,10 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "768",
+      "769"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -88090,7 +88687,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "622"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -88269,7 +88868,10 @@
     "entry_type": "reversed_polarity",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "622",
+      "623"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -88515,7 +89117,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "817"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -88788,7 +89392,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "626"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -89455,7 +90061,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "630"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -90305,7 +90913,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "639"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -90901,7 +91511,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "646"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -91108,7 +91720,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "648"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -92564,7 +93178,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "444"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate",
@@ -92631,7 +93247,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "321"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -92662,7 +93280,10 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "659",
+      "660"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -92749,7 +93370,9 @@
     "entry_type": "appendix_abbrev",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "660"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -93327,7 +93950,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "662"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -93354,7 +93979,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "662"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -93703,7 +94330,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "668"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -94007,7 +94636,9 @@
     "entry_type": "alias_variant",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "670"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -94233,7 +94864,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "827"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -94259,7 +94892,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "672"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -94788,7 +95423,10 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "211",
+      "212"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -95642,7 +96280,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "688"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -95975,7 +96615,9 @@
     "entry_type": "appendix_abbrev",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "186"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -96043,7 +96685,9 @@
     "entry_type": "appendix_abbrev",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "691"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate",
@@ -96129,7 +96773,7 @@
     "confidence": 0.9,
     "source_headword": "LL",
     "source_pages": [
-      "691"
+      "303"
     ],
     "flags": [
       "headword_mismatch"
@@ -96542,7 +97186,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "693"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -96635,7 +97281,9 @@
     "entry_type": "alias_variant",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "693"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -96776,7 +97424,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "693"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -96898,7 +97548,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1004"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -97451,7 +98103,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "698"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -97966,7 +98620,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "700"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -98005,7 +98661,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "700"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -98683,7 +99341,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "708"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -99142,7 +99802,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "119"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -99584,7 +100246,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "713"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -99686,7 +100350,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "714"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -100188,7 +100854,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "723"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -100659,7 +101327,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "726"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -101003,7 +101673,7 @@
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [
-      "729"
+      "1048"
     ],
     "flags": [
       "embedded_caps_subentry",
@@ -101165,7 +101835,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "730"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -101392,7 +102064,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1102"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -101622,7 +102296,9 @@
     "entry_type": "junk_headword",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "18"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -102431,7 +103107,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "303"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -102445,7 +103123,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "740"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -102472,7 +103152,10 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "740",
+      "741"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -102666,7 +103349,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "741"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -102863,7 +103548,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "742"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -102915,7 +103602,9 @@
     "entry_type": "appendix_abbrev",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "743"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -103150,7 +103839,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "744"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -103203,7 +103894,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "744"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -104427,7 +105120,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "756"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -105669,7 +106364,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "759"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -105757,7 +106454,9 @@
     "entry_type": "alias_variant",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "760"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -106031,7 +106730,9 @@
     "entry_type": "alias_variant",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "763"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -106086,7 +106787,10 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "763",
+      "764"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -106298,7 +107002,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "765"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -106756,7 +107462,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "768"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -107068,7 +107776,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "769"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -107605,7 +108315,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "6"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -107633,7 +108345,10 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "977",
+      "978"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -107705,7 +108420,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "515"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -107813,7 +108530,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "208"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -108117,7 +108836,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "141"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -109196,7 +109917,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "781"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -110679,7 +111402,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "790"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -111309,7 +112034,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "181"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -111402,7 +112129,10 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "794",
+      "795"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -111531,7 +112261,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "795"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -112436,7 +113168,7 @@
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [
-      "755"
+      "744"
     ],
     "flags": [
       "embedded_caps_subentry",
@@ -112451,7 +113183,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "744"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -112465,7 +113199,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "744"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -112493,7 +113229,9 @@
     "entry_type": "appendix_abbrev",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "325"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -112617,7 +113355,8 @@
     "confidence": 0.9,
     "source_headword": "NAM",
     "source_pages": [
-      "325"
+      "325",
+      "326"
     ],
     "flags": [
       "headword_mismatch",
@@ -112691,7 +113430,10 @@
     "entry_type": "appendix_abbrev",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "486",
+      "487"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -112841,7 +113583,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "977"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -112919,7 +113663,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "803"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -113896,7 +114642,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "811"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -114076,7 +114824,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "812"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -114198,7 +114948,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "722"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -114211,7 +114963,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "877"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -114511,7 +115265,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "817"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -114617,7 +115373,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "323"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -115030,7 +115788,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "825"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -115307,7 +116067,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "826"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -115592,7 +116354,7 @@
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [
-      "838"
+      "827"
     ],
     "flags": [
       "embedded_caps_subentry",
@@ -115659,7 +116421,9 @@
     "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "820"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -115726,7 +116490,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "823"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -115967,7 +116733,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "830"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -116528,7 +117296,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "649"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -116599,7 +117369,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "838"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -116763,7 +117535,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "802"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -116804,7 +117578,9 @@
     "entry_type": "appendix_abbrev",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "841"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -116859,7 +117635,9 @@
     "entry_type": "appendix_abbrev",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "853"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -116875,7 +117653,7 @@
     "confidence": 0.9,
     "source_headword": "OUR",
     "source_pages": [
-      "306"
+      "857"
     ],
     "flags": [
       "headword_mismatch",
@@ -117421,7 +118199,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "845"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -118120,7 +118900,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "685"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -118133,7 +118915,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "194"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -118146,7 +118930,9 @@
     "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "198"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -118173,7 +118959,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "203"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -118200,7 +118988,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "206"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -118460,7 +119250,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "853"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -119413,7 +120205,10 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "692",
+      "693"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -120333,7 +121128,9 @@
     "entry_type": "unmatched_keep",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "866"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -120696,7 +121493,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "867"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -120858,7 +121657,9 @@
     "entry_type": "unmatched_keep",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1112"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -121421,7 +122222,9 @@
     "entry_type": "alias_variant",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "871"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -121436,7 +122239,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "871"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -121570,7 +122375,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "872"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -121927,7 +122734,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1096"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -122322,7 +123131,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "354"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -122415,7 +123226,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "879"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -122482,7 +123295,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "879"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -123355,7 +124170,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "285"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -123722,7 +124539,10 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "468",
+      "469"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -124095,7 +124915,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "88"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -124415,7 +125237,7 @@
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [
-      "903"
+      "1040"
     ],
     "flags": [
       "embedded_caps_subentry",
@@ -124441,7 +125263,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "951"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -125460,7 +126284,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1119"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -125601,7 +126427,7 @@
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [
-      "909"
+      "898"
     ],
     "flags": [
       "embedded_caps_subentry",
@@ -125682,7 +126508,10 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "327",
+      "328"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -125696,7 +126525,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "325"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -127789,7 +128620,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "417"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -127886,7 +128719,9 @@
     "entry_type": "alias_variant",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "914"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -128373,7 +129208,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "919"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -129467,7 +130304,7 @@
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [
-      "941"
+      "930"
     ],
     "flags": [
       "embedded_caps_subentry",
@@ -130491,7 +131328,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "936"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -131159,7 +131998,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "286"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -131379,7 +132220,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "950"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -131746,8 +132589,7 @@
     "confidence": 0.99,
     "source_headword": "PROCLAMATION",
     "source_pages": [
-      "949",
-      "950"
+      "949"
     ],
     "flags": []
   },
@@ -133521,7 +134363,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "961"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -135389,7 +136233,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "976"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -135776,7 +136622,7 @@
     "confidence": 0.9,
     "source_headword": "QUI TAM",
     "source_pages": [
-      "980"
+      "959"
     ],
     "flags": [
       "headword_mismatch"
@@ -136073,7 +136919,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "982"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -136402,7 +137250,9 @@
     "entry_type": "junk_headword",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "989"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -136433,7 +137283,7 @@
     "confidence": 0.9,
     "source_headword": "R.A",
     "source_pages": [
-      "199"
+      "989"
     ],
     "flags": [
       "headword_mismatch",
@@ -136448,7 +137298,9 @@
     "entry_type": "appendix_abbrev",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "963"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -136995,7 +137847,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "991"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -137071,7 +137925,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "992"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -137196,7 +138052,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "992"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -137355,7 +138213,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1004"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -137369,7 +138229,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1004"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -137383,7 +138245,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1004"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -137397,7 +138261,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1004"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -137683,7 +138549,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "994"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -139140,7 +140008,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1208"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -139318,7 +140188,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1005"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -139672,7 +140544,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "828"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -140416,7 +141290,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "678"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -141029,7 +141905,7 @@
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [
-      "1032"
+      "1021"
     ],
     "flags": [
       "embedded_caps_subentry",
@@ -142842,7 +143718,9 @@
     "entry_type": "alias_phantom",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1032"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -143497,7 +144375,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "444"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -143669,7 +144549,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1037"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -144211,7 +145093,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "163"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -144302,7 +145186,9 @@
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "691"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -144617,7 +145503,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "798"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -144847,7 +145735,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1153"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -144951,7 +145841,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "329"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -145122,7 +146014,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1048"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -145304,7 +146198,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "793"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -145360,7 +146256,9 @@
     "entry_type": "appendix_abbrev",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "119"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -145374,7 +146272,9 @@
     "entry_type": "appendix_abbrev",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "119"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -145387,7 +146287,9 @@
     "entry_type": "appendix_abbrev",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1057"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -145401,7 +146303,9 @@
     "entry_type": "appendix_abbrev",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1050"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -145609,7 +146513,10 @@
     "entry_type": "alias_variant",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1050",
+      "1051"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -145964,7 +146871,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1054"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -146137,7 +147046,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "328"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -146273,7 +147184,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "322"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -146532,7 +147445,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1057"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -146929,7 +147844,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1058"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -147089,7 +148006,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "287"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -147517,7 +148436,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "589"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -147582,7 +148503,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1063"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -148420,7 +149343,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1069"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -148801,7 +149726,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1071"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -148917,7 +149844,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "834"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -149210,7 +150139,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1074"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -149322,7 +150253,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1075"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -149534,7 +150467,10 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1076",
+      "1077"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -149653,7 +150589,8 @@
     "confidence": 0.9,
     "source_headword": "SESSIO",
     "source_pages": [
-      "1078"
+      "1078",
+      "1079"
     ],
     "flags": [
       "headword_mismatch"
@@ -149681,7 +150618,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "288"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -149928,7 +150867,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "287"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -150020,7 +150961,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1081"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -150139,7 +151082,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1082"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -150620,8 +151565,7 @@
     "confidence": 0.99,
     "source_headword": "SHORT NOTICE",
     "source_pages": [
-      "1085",
-      "1086"
+      "1085"
     ],
     "flags": []
   },
@@ -150842,7 +151786,8 @@
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [
-      "1098"
+      "1087",
+      "1088"
     ],
     "flags": [
       "embedded_caps_subentry",
@@ -151392,7 +152337,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "521"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -151406,7 +152353,10 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "319",
+      "320"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -151432,7 +152382,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "326"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -151509,7 +152461,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1091"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -151560,7 +152514,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "324"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -151587,7 +152543,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1091"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -151977,7 +152935,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1093"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -152212,7 +153172,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1058"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -152406,7 +153368,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1095"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -153667,7 +154631,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1037"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -153795,7 +154761,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1094"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -153888,7 +154856,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1098"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -154450,7 +155420,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1102"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -154490,7 +155462,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1102"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -155288,7 +156262,9 @@
     "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1150"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -155555,7 +156531,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "290"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -155620,7 +156598,10 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1109",
+      "1110"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -155887,7 +156868,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "266"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -155940,7 +156923,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1112"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -156452,7 +157437,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1115"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -157423,7 +158410,10 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1120",
+      "1121"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -158801,7 +159791,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1130"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -158872,7 +159864,9 @@
     "entry_type": "reversed_polarity",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1130"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -158939,7 +159933,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1130"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -159002,7 +159998,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1130"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -159043,7 +160041,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1130"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -159351,7 +160351,7 @@
     "confidence": 0.9,
     "source_headword": "TT",
     "source_pages": [
-      "377"
+      "1132"
     ],
     "flags": [
       "headword_mismatch",
@@ -159439,7 +160439,9 @@
     "entry_type": "appendix_abbrev",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1132"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -159513,7 +160515,7 @@
     "confidence": 0.9,
     "source_headword": "T",
     "source_pages": [
-      "1132"
+      "377"
     ],
     "flags": [
       "embedded_caps_subentry",
@@ -160126,7 +161128,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1135"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -160346,7 +161350,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "321"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -160359,7 +161365,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "32"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -160580,7 +161588,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "330"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -161082,7 +162092,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "330"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -161385,7 +162397,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "288"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -161729,7 +162743,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "124"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -161743,7 +162759,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "859"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -162481,7 +163499,9 @@
     "entry_type": "unmatched_keep",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1152"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -162586,7 +163606,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1153"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -162890,7 +163912,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "29"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -162903,7 +163927,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "234"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -162917,7 +163943,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "230"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -163259,7 +164287,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "288"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -163373,7 +164403,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1156"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -163400,7 +164432,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "25"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -163414,7 +164448,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "328"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -163428,7 +164464,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "912"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -163442,7 +164480,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "323"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -163456,7 +164496,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1057"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -163510,7 +164552,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "323"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -163651,7 +164695,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1163"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -163888,7 +164934,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "528"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -164084,7 +165132,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "470"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -164123,7 +165173,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1014"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -164244,7 +165296,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1162"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -164533,7 +165587,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1166"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -165450,7 +166506,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "319"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -165537,7 +166595,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "176"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -165856,7 +166916,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1174"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -166035,7 +167097,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "377"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -166340,7 +167404,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1179"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -166458,7 +167524,9 @@
     "entry_type": "alias_variant",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1180"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -166473,7 +167541,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1180"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -166500,7 +167570,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1180"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -166557,7 +167629,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "189"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -166810,7 +167884,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "137"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -166972,7 +168048,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "344"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -167047,7 +168125,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1183"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -167076,7 +168156,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1183"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -167870,7 +168952,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1188"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -167968,7 +169052,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1188"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -168087,7 +169173,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1188"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -168130,7 +169218,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "500"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -168144,7 +169234,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1188"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -168199,7 +169291,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1189"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -169283,7 +170377,10 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1196",
+      "1197"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -170006,7 +171103,9 @@
     "entry_type": "alias_phantom",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1198"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -170786,7 +171885,9 @@
     "entry_type": "junk_headword",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "138"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -170842,7 +171943,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1205"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -171303,7 +172406,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1207"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -171463,7 +172568,9 @@
     "entry_type": "junk_headword",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "8"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -171649,7 +172756,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1208"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -172257,7 +173366,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1211"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -172286,7 +173397,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1211"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -172879,7 +173992,9 @@
     "entry_type": "appendix_abbrev",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1215"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -172934,7 +174049,9 @@
     "entry_type": "appendix_abbrev",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1097"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -173316,7 +174433,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "289"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -173559,7 +174678,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "517"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -174299,7 +175420,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "458"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -175188,7 +176311,9 @@
     "entry_type": "subentry",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1228"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -175444,7 +176569,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "324"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -175529,7 +176656,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1097"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -175614,7 +176743,7 @@
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [
-      "1241"
+      "1230"
     ],
     "flags": [
       "embedded_caps_subentry",
@@ -175629,7 +176758,7 @@
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [
-      "1241"
+      "1230"
     ],
     "flags": [
       "embedded_caps_subentry",
@@ -176001,7 +177130,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "891"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -176707,7 +177838,7 @@
     "confidence": 0.9,
     "source_headword": "XL",
     "source_pages": [
-      "691"
+      "1236"
     ],
     "flags": [
       "headword_mismatch"
@@ -176775,7 +177906,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "854"
+    ],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
@@ -176788,7 +177921,9 @@
     "entry_type": "appendix_abbrev",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "854"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -177034,7 +178169,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "287"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -177152,7 +178289,9 @@
     "entry_type": "fragment_artifact",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1238"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -177167,7 +178306,7 @@
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [
-      "1249"
+      "1238"
     ],
     "flags": [
       "embedded_caps_subentry",
@@ -177181,7 +178320,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "1238"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -177302,7 +178443,9 @@
     "entry_type": "recovered_main",
     "confidence": 0.0,
     "source_headword": null,
-    "source_pages": [],
+    "source_pages": [
+      "46"
+    ],
     "flags": [
       "embedded_caps_subentry",
       "low_match_score",
@@ -177387,7 +178530,7 @@
     "entry_type": "recovered_main",
     "source_index": 3142,
     "source_pages": [
-      "302"
+      "291"
     ]
   },
   {
@@ -177397,7 +178540,7 @@
     "entry_type": "recovered_main",
     "source_index": 6783,
     "source_pages": [
-      "617"
+      "606"
     ]
   },
   {
@@ -177417,7 +178560,7 @@
     "entry_type": "recovered_main",
     "source_index": 3116,
     "source_pages": [
-      "300"
+      "289"
     ]
   },
   {
@@ -177427,7 +178570,7 @@
     "entry_type": "recovered_main",
     "source_index": 3130,
     "source_pages": [
-      "301"
+      "290"
     ]
   },
   {
@@ -177437,7 +178580,7 @@
     "entry_type": "recovered_main",
     "source_index": 1862,
     "source_pages": [
-      "176"
+      "165"
     ]
   },
   {
@@ -177447,7 +178590,7 @@
     "entry_type": "recovered_main",
     "source_index": 8955,
     "source_pages": [
-      "842"
+      "831"
     ]
   },
   {
@@ -177457,7 +178600,7 @@
     "entry_type": "recovered_main",
     "source_index": 11124,
     "source_pages": [
-      "1063"
+      "1052"
     ]
   },
   {
@@ -177467,7 +178610,7 @@
     "entry_type": "recovered_main",
     "source_index": 11696,
     "source_pages": [
-      "1117"
+      "1106"
     ]
   },
   {
@@ -177477,7 +178620,7 @@
     "entry_type": "recovered_main",
     "source_index": 3144,
     "source_pages": [
-      "302"
+      "291"
     ]
   },
   {
@@ -177497,7 +178640,7 @@
     "entry_type": "recovered_main",
     "source_index": 10953,
     "source_pages": [
-      "1048"
+      "1037"
     ]
   },
   {
@@ -177507,7 +178650,7 @@
     "entry_type": "recovered_main",
     "source_index": 8433,
     "source_pages": [
-      "790"
+      "779"
     ]
   },
   {
@@ -177517,7 +178660,7 @@
     "entry_type": "recovered_main",
     "source_index": 8126,
     "source_pages": [
-      "764"
+      "753"
     ]
   },
   {
@@ -177527,7 +178670,7 @@
     "entry_type": "recovered_main",
     "source_index": 8517,
     "source_pages": [
-      "797"
+      "786"
     ]
   },
   {
@@ -177537,7 +178680,7 @@
     "entry_type": "recovered_main",
     "source_index": 12037,
     "source_pages": [
-      "1146"
+      "1135"
     ]
   },
   {
@@ -177547,7 +178690,7 @@
     "entry_type": "recovered_main",
     "source_index": 9207,
     "source_pages": [
-      "872"
+      "861"
     ]
   },
   {
@@ -177557,7 +178700,7 @@
     "entry_type": "recovered_main",
     "source_index": 3375,
     "source_pages": [
-      "330"
+      "319"
     ]
   },
   {
@@ -177567,7 +178710,7 @@
     "entry_type": "recovered_main",
     "source_index": 4247,
     "source_pages": [
-      "407"
+      "396"
     ]
   },
   {
@@ -177577,7 +178720,7 @@
     "entry_type": "recovered_main",
     "source_index": 8326,
     "source_pages": [
-      "783"
+      "772"
     ]
   },
   {
@@ -177587,7 +178730,7 @@
     "entry_type": "recovered_main",
     "source_index": 8600,
     "source_pages": [
-      "804"
+      "793"
     ]
   },
   {
@@ -177597,7 +178740,7 @@
     "entry_type": "recovered_main",
     "source_index": 11074,
     "source_pages": [
-      "1059"
+      "1048"
     ]
   },
   {
@@ -177607,7 +178750,7 @@
     "entry_type": "recovered_main",
     "source_index": 306,
     "source_pages": [
-      "43"
+      "32"
     ]
   },
   {
@@ -177617,7 +178760,7 @@
     "entry_type": "recovered_main",
     "source_index": 2525,
     "source_pages": [
-      "239"
+      "228"
     ]
   },
   {
@@ -177627,7 +178770,7 @@
     "entry_type": "recovered_main",
     "source_index": 12155,
     "source_pages": [
-      "1158"
+      "1147"
     ]
   },
   {
@@ -177637,7 +178780,7 @@
     "entry_type": "recovered_main",
     "source_index": 12806,
     "source_pages": [
-      "1220"
+      "1209"
     ]
   },
   {
@@ -177647,7 +178790,7 @@
     "entry_type": "recovered_main",
     "source_index": 7400,
     "source_pages": [
-      "690"
+      "679"
     ]
   },
   {
@@ -177657,7 +178800,7 @@
     "entry_type": "recovered_main",
     "source_index": 10528,
     "source_pages": [
-      "1005"
+      "994"
     ]
   },
   {
@@ -177667,7 +178810,7 @@
     "entry_type": "recovered_main",
     "source_index": 4369,
     "source_pages": [
-      "421"
+      "410"
     ]
   },
   {
@@ -177677,7 +178820,7 @@
     "entry_type": "recovered_main",
     "source_index": 13032,
     "source_pages": [
-      "1240"
+      "1229"
     ]
   },
   {
@@ -177705,28 +178848,36 @@
     "term": "MARQUE AND REPRISAL, LETTERS OF",
     "body": "",
     "entry_type": "recovered_main",
-    "source_pages": []
+    "source_pages": [
+      "758"
+    ]
   },
   {
     "id": "BLD2-13674",
     "term": "ABSCONDING DEBTOR",
     "body": "",
     "entry_type": "recovered_main",
-    "source_pages": []
+    "source_pages": [
+      "9"
+    ]
   },
   {
     "id": "BLD2-13675",
     "term": "STET BILLA",
     "body": "",
     "entry_type": "recovered_main",
-    "source_pages": []
+    "source_pages": [
+      "1109"
+    ]
   },
   {
     "id": "BLD2-13676",
     "term": "SUBSTITUTIONAL, SUBSTITUTIONARY",
     "body": "",
     "entry_type": "recovered_main",
-    "source_pages": []
+    "source_pages": [
+      "1118"
+    ]
   },
   {
     "id": "BLD2-13677",
@@ -177742,14 +178893,18 @@
     "term": "COURT FOR DIVORCE AND MATRIMONIAL CAUSES",
     "body": "",
     "entry_type": "recovered_main",
-    "source_pages": []
+    "source_pages": [
+      "285"
+    ]
   },
   {
     "id": "BLD2-13679",
     "term": "AMICUS CURIAE",
     "body": "",
     "entry_type": "recovered_main",
-    "source_pages": []
+    "source_pages": [
+      "66"
+    ]
   },
   {
     "id": "BLD2-13680",
@@ -177765,28 +178920,39 @@
     "term": "NOVELLAE CONSTITUTIONES",
     "body": "",
     "entry_type": "recovered_main",
-    "source_pages": []
+    "source_pages": [
+      "833"
+    ]
   },
   {
     "id": "BLD2-13682",
     "term": "JUS DISPONENDI",
     "body": "",
     "entry_type": "recovered_main",
-    "source_pages": []
+    "source_pages": [
+      "675",
+      "676",
+      "677",
+      "678"
+    ]
   },
   {
     "id": "BLD2-13683",
     "term": "STATE OF FACTS AND PROPOSAL",
     "body": "",
     "entry_type": "recovered_main",
-    "source_pages": []
+    "source_pages": [
+      "1106"
+    ]
   },
   {
     "id": "BLD2-13684",
     "term": "EX MERO MOTU",
     "body": "",
     "entry_type": "recovered_main",
-    "source_pages": []
+    "source_pages": [
+      "452"
+    ]
   },
   {
     "id": "BLD2-13685",
@@ -177795,7 +178961,7 @@
     "entry_type": "recovered_main",
     "source_index": 3102,
     "source_pages": [
-      "299"
+      "288"
     ]
   },
   {
@@ -177805,7 +178971,7 @@
     "entry_type": "recovered_main",
     "source_index": 3379,
     "source_pages": [
-      "331"
+      "320"
     ]
   },
   {
@@ -177815,7 +178981,7 @@
     "entry_type": "recovered_main",
     "source_index": 4805,
     "source_pages": [
-      "461"
+      "450"
     ]
   },
   {
@@ -177825,7 +178991,7 @@
     "entry_type": "recovered_main",
     "source_index": 7477,
     "source_pages": [
-      "699"
+      "688"
     ]
   },
   {
@@ -177835,7 +179001,7 @@
     "entry_type": "recovered_main",
     "source_index": 10815,
     "source_pages": [
-      "1031"
+      "1020"
     ]
   },
   {
@@ -177845,7 +179011,7 @@
     "entry_type": "recovered_main",
     "source_index": 11877,
     "source_pages": [
-      "1133"
+      "1122"
     ]
   },
   {
@@ -177853,7 +179019,10 @@
     "term": "ABJUDICATIO",
     "entry_type": "recovered_main",
     "body": "In old English law.\nThe depriving of a thing by the judgment of\na court; a putting out of court; the same as\nforisjudicatio, forjudgment, forjudger. Co.\nLitt. 100a, b; Townsh. Pl. 49.",
-    "source_pages": [],
+    "source_pages": [
+      "7",
+      "8"
+    ],
     "_extraction_note": "Extracted from ABISHERING body (boundary split)"
   },
   {
@@ -177861,7 +179030,9 @@
     "term": "ALGARUM MARIS",
     "entry_type": "recovered_main",
     "body": "Probably a corruption of Laganuim maris, lagan being a\nright, in the middle ages, like jetsam and\nflotsam, by which goods thrown from a vessel\ntA distress became the property of the king.\n'or the lord on whose shores they were stranded. Spelman; Jacob; Du Cange.",
-    "source_pages": [],
+    "source_pages": [
+      "56"
+    ],
     "_extraction_note": "Extracted from ALFET body (boundary split)"
   },
   {
@@ -177869,7 +179040,9 @@
     "term": "ARRESTO FACTO SUPER BONIS MERCATORUM ALIENIGENORUM",
     "entry_type": "recovered_main",
     "body": "In old English law. A writ against the goods\nof aliens found within this kingdom, in recompense of goods taken from a denizen in a\nforeign country, after denial of restitution.\nReg. Orig. 129. The ancient civilians called\nit \"elarigatio,\" but by the moderns it Is termed \"reprisalia.\"",
-    "source_pages": [],
+    "source_pages": [
+      "89"
+    ],
     "_extraction_note": "Extracted from ARRESTMENT body (boundary split)"
   },
   {
@@ -177877,7 +179050,9 @@
     "term": "BLEND",
     "entry_type": "recovered_main",
     "body": "BLEND. BLENDED FUND. In England, where\na testator directs his real and personal estate\nto be sold, and disposes of the proceeds as\nforming one aggregate, this is called a\n“blended fund.”",
-    "source_pages": [],
+    "source_pages": [
+      "138"
+    ],
     "_extraction_note": "Extracted from BLENCH body (boundary split)"
   },
   {
@@ -177895,7 +179070,9 @@
     "term": "CHIROGRAPHER OF FINES",
     "entry_type": "recovered_main",
     "body": "In English law. The title of the officer of the common pleas who engrossed fines in that court\nso as to be acknowledged into a perpetual\nrecord. Cowell.",
-    "source_pages": [],
+    "source_pages": [
+      "198"
+    ],
     "_extraction_note": "Extracted from CHIROGRAPH body (boundary split)"
   },
   {
@@ -177913,7 +179090,10 @@
     "term": "CONTRAMANDATIO",
     "entry_type": "recovered_main",
     "body": "A countermanding. Ooniramandatio placiti, in old English\nlaw, was the respiting of a defendant, or\ngiving him further time to answer, by countermanding the day fixed for him to plead,\nand appointing a new day; a sort of imparlance.\n\n* CONTRAMANDATUM. A lawful excuse, which a defendant in a suit by attorney alleges for himself to show that the\nplaintiff has no cause of complaint. Blount.",
-    "source_pages": [],
+    "source_pages": [
+      "263",
+      "264"
+    ],
     "_extraction_note": "Extracted from CONTRAINTE body (boundary split)"
   },
   {
@@ -177921,7 +179101,10 @@
     "term": "CONTRAMANDATUM",
     "entry_type": "recovered_main",
     "body": "A lawful excuse, which a defendant in a suit by attorney alleges for himself to show that the\nplaintiff has no cause of complaint. Blount.",
-    "source_pages": [],
+    "source_pages": [
+      "263",
+      "264"
+    ],
     "_extraction_note": "Extracted from CONTRALIGATIO body (boundary split)"
   },
   {
@@ -177939,7 +179122,9 @@
     "term": "DALUS",
     "entry_type": "recovered_main",
     "body": "DAILUS, DAILIA. A certain\nmeasure of land; such narrow slips of pasture as are left between the plowed furrows\nin arable land. Cowell.",
-    "source_pages": [],
+    "source_pages": [
+      "313"
+    ],
     "_extraction_note": "Extracted from DAILY body (boundary split)"
   },
   {
@@ -177947,7 +179132,9 @@
     "term": "DI ET FI",
     "entry_type": "recovered_main",
     "body": "L. Lat. In old writs. An\nabbreviation of dilecto et fideli, (to his beloved and faithful.)",
-    "source_pages": [],
+    "source_pages": [
+      "365"
+    ],
     "_extraction_note": "Extracted from DI COLONNA body (boundary split)"
   },
   {
@@ -177955,7 +179142,10 @@
     "term": "DIVIDENDA",
     "entry_type": "recovered_main",
     "body": "In old records. An indenture; one counterpart of an indenture.",
-    "source_pages": [],
+    "source_pages": [
+      "383",
+      "384"
+    ],
     "_extraction_note": "Extracted from DIVIDEND body (boundary split)"
   },
   {
@@ -177963,7 +179153,9 @@
     "term": "DOED-BANE",
     "entry_type": "recovered_main",
     "body": "In Saxon law. The actual perpetrator of a homicide.",
-    "source_pages": [],
+    "source_pages": [
+      "386"
+    ],
     "_extraction_note": "Extracted from DOE body (boundary split)"
   },
   {
@@ -177971,7 +179163,9 @@
     "term": "EAT INDE SINE DIE",
     "entry_type": "recovered_main",
     "body": "In criminal\npractice. Words used on the acquittal of adefendant, that he may go thence without a\nday, 4. ¢., be dismissed without any further\ncontinuance or adjournment.",
-    "source_pages": [],
+    "source_pages": [
+      "410"
+    ],
     "_extraction_note": "Extracted from EASTINUS body (boundary split)"
   },
   {
@@ -177979,7 +179173,9 @@
     "term": "ELEEMOSYNARY",
     "entry_type": "recovered_main",
     "body": "Relating to the distribution of alms, bounty, or charity; charitable.\n—Eleemosynary corporations. See Cor-",
-    "source_pages": [],
+    "source_pages": [
+      "417"
+    ],
     "_extraction_note": "Extracted from ELEEMOSYNARIUS body (boundary split)"
   },
   {
@@ -177997,7 +179193,9 @@
     "term": "EN MORT MAIN",
     "entry_type": "recovered_main",
     "body": "L. Fr. In a dead\nhand; in mortmain. Britt. c. 43.\nEN OWEL MAIN. L. Fr. In equal\nhand. The word “owelty” occurs also in the\nphrase “owelty of partition.”",
-    "source_pages": [],
+    "source_pages": [
+      "423"
+    ],
     "_extraction_note": "Extracted from EN JUICIO body (boundary split)"
   },
   {
@@ -178005,7 +179203,9 @@
     "term": "ENTREPOT",
     "entry_type": "recovered_main",
     "body": "A warehouse or magazine\nfor the deposit of goods. In France, a building or place where goods from abroad may\nbe deposited, and from whence they may be\nwithdrawn for exportation to another country, without paying a duty. Brande; Webster.",
-    "source_pages": [],
+    "source_pages": [
+      "428"
+    ],
     "_extraction_note": "Extracted from ENTREGA body (boundary split)"
   },
   {
@@ -178023,7 +179223,9 @@
     "term": "HYPOTHECARIA ACTIO",
     "entry_type": "recovered_main",
     "body": "Lat. In the\ncivil law. An hypothecary action; an action\nfor the enforcement of an hypotheca, or right\nof mortgage; or to obtain the surrender of\nthe thing mortgaged. Inst. 4, 6, 7; Mackeld.\nRom. Law, § 356. Adopted in the Civil\nCode of Louisiana, under the name of \"l'action hypothécarie,\" (translated, \"action of\nmortgage.\") Article 3361.",
-    "source_pages": [],
+    "source_pages": [
+      "585"
+    ],
     "_extraction_note": "Extracted from HYPOTHECA body (boundary split)"
   },
   {
@@ -178041,7 +179243,9 @@
     "term": "INDIGENA",
     "entry_type": "recovered_main",
     "body": "In old English law. A subject born; one born within the realm, or\nnaturalized by act of parliament. Co. Litt.\n8a. The opposite of “alienigena,” (g. v.)",
-    "source_pages": [],
+    "source_pages": [
+      "618"
+    ],
     "_extraction_note": "Extracted from INDICTOR body (boundary split)"
   },
   {
@@ -178059,7 +179263,9 @@
     "term": "INNOVARE",
     "entry_type": "recovered_main",
     "body": "L. Lat. To innovate or make new. This is the name of a writ which lay where a man was disseised of lands or tenements which he had in fee by the gift of his ancestors, and afterwards, in his own time, by the gift of some other person. Reg. Orig. 336. It is also the name of a writ which lay where a man was disseised of lands or tenements which he had in fee by the gift of his ancestors, and afterwards, in his own time, by the gift of some other person. Fitzh. Nat. Brev. 213.",
-    "source_pages": [],
+    "source_pages": [
+      "629"
+    ],
     "_extraction_note": "Extracted from INNOVANCY body (boundary split)"
   },
   {
@@ -178067,7 +179273,9 @@
     "term": "INQUIETUDE",
     "entry_type": "recovered_main",
     "body": "L. Lat. In old English law. Inquietness or disturbance. Fleta, lib. 4, c. 17, § 4.",
-    "source_pages": [],
+    "source_pages": [
+      "630"
+    ],
     "_extraction_note": "Extracted from INQUEST OF VIOLENCE body (boundary split)"
   },
   {
@@ -178075,7 +179283,9 @@
     "term": "MAJORES",
     "entry_type": "recovered_main",
     "body": "In Roman law and genenlogical tables. The male ascendants beyond the sixth degree.\nIn old English law. Greater persons;\npersons of higher condition or estate.\n\n'Majori summe minor inest. In the\ngreater sum the less is included. 2 Kent,\nComm. 618; Story, Ag. § 172.",
-    "source_pages": [],
+    "source_pages": [
+      "748"
+    ],
     "_extraction_note": "Extracted from MAJORA body (boundary split)"
   },
   {
@@ -178083,7 +179293,9 @@
     "term": "MANCUS",
     "entry_type": "recovered_main",
     "body": "MANCUS, or MANCUSA. A\nsquare piece of gold coin, commonly valued\nat thirty pence. Cowell.",
-    "source_pages": [],
+    "source_pages": [
+      "753"
+    ],
     "_extraction_note": "Extracted from MANCIPAT body (boundary split)"
   },
   {
@@ -178101,7 +179313,9 @@
     "term": "PRENDA",
     "entry_type": "recovered_main",
     "body": "In Spanish law. Pledge.\nWhite, New Recop. b. 2, tit. 7.",
-    "source_pages": [],
+    "source_pages": [
+      "932"
+    ],
     "_extraction_note": "Extracted from PREMUNIRE body (boundary split)"
   },
   {
@@ -178119,7 +179333,9 @@
     "term": "RECOGNITIONE ADNULLANDA PER VIM ET DURITIEM FACTA",
     "entry_type": "recovered_main",
     "body": "A writ to\nthe justices of the common bench for sending a record touching a recognizance, which\nthe recognizor suggests was acknowledged\nby force and duress; that if it so appear the\nrecognizance may be annulled. Reg. Orig.\n183. -",
-    "source_pages": [],
+    "source_pages": [
+      "997"
+    ],
     "_extraction_note": "Extracted from RECOGNITION body (boundary split)"
   },
   {
@@ -178127,7 +179343,9 @@
     "term": "REGENT",
     "entry_type": "recovered_main",
     "body": "A governor or ruler. One\nwho vicariously administers the government\nof a. kingdom, in the name of the king, during the latter's minority or other disability.\n:'. &:master, governor, director, or superip-\n\\\n\ntendent of a public institution, particularly\na college or university.\n\nRegia dignitas est indivisibilis, et\nquselibet alia derivativa dignitas est\nsimiliter indivisibilis. 4 Inst. 243. The\nkingly power is indivisible, and every other\nderivative power is similarly indivisible.",
-    "source_pages": [],
+    "source_pages": [
+      "1007"
+    ],
     "_extraction_note": "Extracted from REGENCY body (boundary split)"
   },
   {
@@ -178135,7 +179353,10 @@
     "term": "RESIDENT",
     "entry_type": "recovered_main",
     "body": "One who has his residence\nin a place. '.\n\n\"Resident\" and \"inhabitant\" are distinguishable in meaning. The word \"inhabitant\" implies\na more fixed and permanent abode than does\n\"resident;\" and a resident may not be entitled\nto all er privileges or subject to all the duties\nof an inhabitant. Frost v. Brisbin, 19 Wend.\n(N. ¥.) 11, 82 Am. Dec. 423.\n\n_ Also a tenant, 'who was obliged to reside\non his lord's land, and not to depart from the\nsame; called, also, \"homme levant et couchant,\" and in Normandy, \"resseant du flef.\"\n\n—Resident freeholder. <A person who resides in the particular place (town, city, county, etc.) and who owns an estate in lands therein amounting at least to a freehold interest.\nDamp v. Dane, 29 Wis. 427; Campbell v. Moran, 71 Neb. 615, 99 N. W. 499; State v. Kokomo, 108 Ind. 74, 8 N. E.. 120.—Resident\nminister. In international law. <A public\nminister who resides at a foreign court. Reaident ministers are ranked in the third class of\npublic ministers. Wheat. Int. Law, 264, 267.",
-    "source_pages": [],
+    "source_pages": [
+      "934",
+      "935"
+    ],
     "_extraction_note": "Extracted from RESIDENCE body (boundary split)"
   },
   {
@@ -178163,7 +179384,9 @@
     "term": "SANGUIS",
     "entry_type": "recovered_main",
     "body": "Lat. In the civil and old\nEnglish law. Blood; consanguinity.\n\nThe right or power which the chief lord\nof the fee had to judge and determine cases\nwhere blood was shed. Mon. Angl. t. f. 1021.",
-    "source_pages": [],
+    "source_pages": [
+      "322"
+    ],
     "_extraction_note": "Extracted from SANG body (boundary split)"
   },
   {
@@ -178171,7 +179394,10 @@
     "term": "SOCAVAGE",
     "entry_type": "recovered_main",
     "body": "SCHEVAGE, SOHEWAGE,\nor SHEWAGE. A kind of toll or custom,\nexacted by mayors, sheriffs, etc, of merchant strangers, for wares showed or offered\nfor sale within their liberties. Prohibited\nby 19 Hen. VII. c 7% Cowell. '\n\nThe officer who collected",
-    "source_pages": [],
+    "source_pages": [
+      "1093",
+      "1094"
+    ],
     "_extraction_note": "Extracted from SCAPHA body (boundary split)"
   },
   {
@@ -178179,7 +179405,9 @@
     "term": "SECTATORES",
     "entry_type": "recovered_main",
     "body": "Suitors of court who,\namong the Saxons, gave their judgment or\nverdict in civil suits upon the matter of fact\nard law. 1 Reeve, Eng. Law, 22. a",
-    "source_pages": [],
+    "source_pages": [
+      "1065"
+    ],
     "_extraction_note": "Extracted from SECT body (boundary split)"
   },
   {
@@ -178207,7 +179435,9 @@
     "term": "TOUT TEMPS PRIST",
     "entry_type": "recovered_main",
     "body": "L. Fr. Always\nready. The emphatic words of the old plea\nof tender; the defendant alleging that he has\nalways been ready, and still is ready, to discharge the debt. 8 Bl. Comm. 803; 2 Salk.\n622.",
-    "source_pages": [],
+    "source_pages": [
+      "1163"
+    ],
     "_extraction_note": "Extracted from TOURN body (boundary split)"
   },
   {
@@ -178215,7 +179445,10 @@
     "term": "TRINITY HOUSE",
     "entry_type": "recovered_main",
     "body": "In English law. A\nsociety at Deptford Strond, incorporated by\nHen. VIII. in 1515, for the promotion of\ncommerce.and navigation by licensing and\nregulating pilots, and ordering and erecting\nbeacons, light-houses, buoys, etc. Wharton.\n\nTRINITY MASTERS are elder brethren of the Trinity House. If a question arising in an admiralty action depends upon\ntechnical skill and experience in navigation,\nthe judge or court is usually assisted at the\nhearing by two Trinity Masters, who sit as\nassessors, and advise the court on questions\nof a nautical character. Williams & B.\nAdm. Jur. 271; Sweet.",
-    "source_pages": [],
+    "source_pages": [
+      "1173",
+      "1174"
+    ],
     "_extraction_note": "Extracted from TRINEPTIS body (boundary split)"
   },
   {
@@ -178223,7 +179456,9 @@
     "term": "WINDING-UP ACTS",
     "entry_type": "recovered_main",
     "body": "In English law.\nGeneral acts of 'parliament, regulating settlement of corporate affairs on dissolution.\n\n- WINDOW. An opening made in the wall\nof a house to admit light and air, and to\nfurnish a view or prospect. The use of this\nword in law is chiefly in connection with the\ndoctrine of ancient Hghts and other rights of\nadjacent owners. °\n—Window tax. <A tax oc windows, levied\non houses which contained more than six windows, and were worth more than £5 per an:\nnum; established by St. 7 Wm. III. c 18 St\n14 & 15 Vict. c. 36, substituted for this tax a\ntax on inhabited houses. Wharton.\n\n- WINDSOR FOREST. A royal forest\nfounded by Henry VIII.",
-    "source_pages": [],
+    "source_pages": [
+      "1228"
+    ],
     "_extraction_note": "Extracted from WINDING body (boundary split)"
   },
   {
@@ -178231,7 +179466,10 @@
     "term": "YIELDING AND PAYING",
     "entry_type": "recovered_main",
     "body": "In conveyancing. The initial words of that clause in\nleases in which the rent to be paid by the\nlessee is mentioned and reserved.",
-    "source_pages": [],
+    "source_pages": [
+      "1236",
+      "1237"
+    ],
     "_extraction_note": "Extracted from YIELD body (boundary split)"
   },
   {
@@ -178239,7 +179477,9 @@
     "term": "DE ANNUA PENSIONE",
     "entry_type": "recovered_main",
     "body": "Breve. Writ\nof annual pension. An ancient writ by which\nthe king, having a yearly pension due him\nout of an abbey or priory for any of his chaplains, demanded the same of the abbot or\nprior, for the person named in the writ.\nReg. Orig. 2650, 307; Fitzh. Nat. Brev.\n231 G.",
-    "source_pages": [],
+    "source_pages": [
+      "319"
+    ],
     "_extraction_note": "Extracted from DE ANNO BISSEXTILI body (boundary split)"
   },
   {
@@ -178247,7 +179487,9 @@
     "term": "DE ASPORTATIS RELIGIOSORUM",
     "entry_type": "recovered_main",
     "body": "Concerning the property of religious persons\ncarried away. The title of the statute 35\nEdward I. passed to check the abuses of\nclerical possessions, one of which was the\nwaste they suffered by being drained into\nforeign countries. 2 Reeve. Eng. Law. 157;\n2 Inst. 580.",
-    "source_pages": [],
+    "source_pages": [
+      "320"
+    ],
     "_extraction_note": "Extracted from DE ARTE ET PARTE body (boundary split)"
   }
 ]
