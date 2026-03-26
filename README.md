@@ -8,7 +8,7 @@ A free, searchable web version of Black's Law Dictionary, Second Edition (1910) 
 
 ## About
 
-This project provides free access to 13,003 legal definitions from the classic 1910 edition of Black's Law Dictionary. The corpus was rebuilt from the Internet Archive's DjVu XML extraction, cross-validated against a legacy OCR corpus, and editorially reviewed through a multi-phase overlay system that classifies all 13,641 original entries.
+This project provides free access to 12,941 legal definitions from the classic 1910 edition of Black's Law Dictionary. The corpus was rebuilt from the Internet Archive's DjVu XML extraction, with an editorial overlay system for entry classification, AI-assisted OCR cleanup (Claude Haiku 4.5 and Claude Sonnet 4.6), and LexPredict gap recovery.
 
 ### Features
 
@@ -22,26 +22,18 @@ This project provides free access to 13,003 legal definitions from the classic 1
 ## Technical
 
 - **Frontend**: Vanilla HTML, CSS, JavaScript
-- **Data**: 13,009 entries in JSON format (split by letter for lazy loading)
+- **Data**: 12,941 entries in split-file JSON (data/manifest.json + per-letter files)
 - **Hosting**: GitHub Pages with custom domain
-- **Source**: [Internet Archive DjVu](https://archive.org/details/blacks-law-dictionary-2nd-edition-1910)
-- **Pipeline**: Editorial overlay -> live corpus generator -> validator -> split
-
-### Entry types in live corpus
-
-| Type | Count | Description |
-|------|-------|-------------|
-| verified_main | 10,513 | DjVu source-backed, high confidence |
-| provisional_main | 320 | DjVu source-backed, moderate confidence |
-| recovered_main | 160 | Recovered from source pages |
-| headword_corrected | 9 | OCR headword fixes (e.g., ACOESS -> ACCESS) |
-| legacy_retained | ~1,800 | Legacy OCR bodies, pending DjVu recovery |
-| subentry | ~200 | Sub-entries linked to parent terms |
-| alias_variant | 15 | Spelling variants with redirects |
+- **Source**: [Internet Archive DjVu XML](https://archive.org/details/blacks-law-dictionary-2nd-edition-1910)
+- **Pipeline**: editorial_overlay.json + body_corrections.json -> generate_live_corpus_v3.py -> validate_rebuild.py -> split_entries.py
 
 ## Data Source
 
-The raw text was sourced from the Internet Archive's digitization of Black's Law Dictionary, 2nd Edition (1910). The DjVu XML extraction was processed through a multi-stage pipeline: page segmentation, headword extraction, body assembly, source alignment, and editorial overlay classification.
+The raw text was sourced from the Internet Archive's digitization of Black's Law Dictionary, 2nd Edition (1910). The DjVu XML scan (93 MB, 1,328 leaves) was processed through word-level bounding box parsing, two-column page separation, and entry boundary detection. OCR artifacts were cleaned through deterministic pattern matching and AI-assisted review.
+
+## Deployment
+
+Push to main branch deploys automatically via GitHub Pages.
 
 ## License
 
@@ -53,7 +45,9 @@ This web implementation is released under the MIT License.
 
 - **Original Author**: Henry Campbell Black, M.A. (1910)
 - **Digitization**: Internet Archive
+- **Web Edition**: Maxwell Black
 - **Rebuild Pipeline**: Claude Code (Anthropic)
+- A small number of entries were recovered from LexPredict's independent extraction (CC-BY-SA 4.0).
 
 ---
 
