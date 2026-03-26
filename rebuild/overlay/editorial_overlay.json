@@ -61,8 +61,8 @@
   {
     "id": "BLD2-00004",
     "index": 4,
-    "term": "A CONSILHOIS",
-    "entry_type": "provisional_main",
+    "term": "A CONSILIIS",
+    "entry_type": "headword_corrected",
     "confidence": 0.82,
     "source_headword": "A CONSILIIS",
     "source_pages": [
@@ -775,8 +775,8 @@
   {
     "id": "BLD2-00059",
     "index": 59,
-    "term": "ABBAOCY",
-    "entry_type": "verified_main",
+    "term": "ABBACY",
+    "entry_type": "headword_corrected",
     "confidence": 0.9,
     "source_headword": "ABBACY",
     "source_pages": [
@@ -1458,8 +1458,8 @@
   {
     "id": "BLD2-00113",
     "index": 113,
-    "term": "ABSQUE HOO",
-    "entry_type": "verified_main",
+    "term": "ABSQUE HOC",
+    "entry_type": "headword_corrected",
     "confidence": 0.99,
     "source_headword": "ABSQUE HOO",
     "source_pages": [
@@ -1786,8 +1786,8 @@
   {
     "id": "BLD2-00138",
     "index": 138,
-    "term": "ACCESSORY OCONTRAOT",
-    "entry_type": "legacy_unresolved",
+    "term": "ACCESSORY CONTRACT",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -2242,7 +2242,7 @@
     "id": "BLD2-00172",
     "index": 172,
     "term": "ACOCESSARY",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -2255,8 +2255,8 @@
   {
     "id": "BLD2-00173",
     "index": 173,
-    "term": "ACOCRESCERE",
-    "entry_type": "legacy_unresolved",
+    "term": "ACCRESCERE",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -2301,8 +2301,8 @@
   {
     "id": "BLD2-00176",
     "index": 176,
-    "term": "ACOIDERE",
-    "entry_type": "recovered_main",
+    "term": "ACCIDERE",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [
@@ -2317,8 +2317,8 @@
   {
     "id": "BLD2-00177",
     "index": 177,
-    "term": "ACOION",
-    "entry_type": "legacy_unresolved",
+    "term": "ACCION",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -2377,8 +2377,8 @@
   {
     "id": "BLD2-00181",
     "index": 181,
-    "term": "ACOROACH",
-    "entry_type": "legacy_unresolved",
+    "term": "ACROACH",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -2391,8 +2391,8 @@
   {
     "id": "BLD2-00182",
     "index": 182,
-    "term": "ACOROOCHER",
-    "entry_type": "legacy_unresolved",
+    "term": "ACROOCHER",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -2603,7 +2603,7 @@
     "id": "BLD2-00198",
     "index": 198,
     "term": "ACROACH",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -2617,7 +2617,7 @@
     "id": "BLD2-00199",
     "index": 199,
     "term": "ACROOCHER",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -2939,8 +2939,8 @@
   {
     "id": "BLD2-00224",
     "index": 224,
-    "term": "ACTON",
-    "entry_type": "legacy_unresolved",
+    "term": "ACTON BURNELL, STATUTE OF",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -3635,8 +3635,8 @@
   {
     "id": "BLD2-00279",
     "index": 279,
-    "term": "AD MEDIUM FILUM AQUI",
-    "entry_type": "verified_main",
+    "term": "AD MEDIUM FILUM AQUÆ",
+    "entry_type": "headword_corrected",
     "confidence": 0.9,
     "source_headword": "AD MEDIUM FILUM AQUZ",
     "source_pages": [
@@ -4182,7 +4182,7 @@
     "id": "BLD2-00322",
     "index": 322,
     "term": "ADIEU ADIEU, UL",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -4331,8 +4331,8 @@
   {
     "id": "BLD2-00334",
     "index": 334,
-    "term": "ADJOURNED",
-    "entry_type": "verified_main",
+    "term": "ADJOURNED SUMMONS",
+    "entry_type": "headword_corrected",
     "confidence": 0.9,
     "source_headword": "ADJOURNED SUMMONS",
     "source_pages": [
@@ -4471,7 +4471,7 @@
     "id": "BLD2-00345",
     "index": 345,
     "term": "ADJUNCTUM",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -9014,8 +9014,8 @@
   {
     "id": "BLD2-00700",
     "index": 700,
-    "term": "ALZ",
-    "entry_type": "legacy_unresolved",
+    "term": "AISLE",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -9438,7 +9438,7 @@
     "id": "BLD2-00733",
     "index": 733,
     "term": "AMICUS",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -9924,8 +9924,8 @@
   {
     "id": "BLD2-00771",
     "index": 771,
-    "term": "ANCIENT Y",
-    "entry_type": "provisional_main",
+    "term": "ANCIENTY",
+    "entry_type": "headword_corrected",
     "confidence": 0.82,
     "source_headword": "ANCIENTS",
     "source_pages": [
@@ -10992,7 +10992,7 @@
     "id": "BLD2-00853",
     "index": 853,
     "term": "AOCCEDAS",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -11006,7 +11006,7 @@
     "id": "BLD2-00854",
     "index": 854,
     "term": "AONTEMPT",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -11166,8 +11166,8 @@
   {
     "id": "BLD2-00866",
     "index": 866,
-    "term": "APNCGA",
-    "entry_type": "verified_main",
+    "term": "APNOEA",
+    "entry_type": "headword_corrected",
     "confidence": 0.99,
     "source_headword": "APNCGA",
     "source_pages": [
@@ -11204,8 +11204,8 @@
   {
     "id": "BLD2-00869",
     "index": 869,
-    "term": "APOORISARIUS",
-    "entry_type": "recovered_main",
+    "term": "APOCRISARIUS",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [
@@ -13884,8 +13884,8 @@
   {
     "id": "BLD2-01076",
     "index": 1076,
-    "term": "ARSZ ET PENSATZ",
-    "entry_type": "recovered_main",
+    "term": "ARSE ET PENSATA",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [
@@ -13992,8 +13992,8 @@
   {
     "id": "BLD2-01084",
     "index": 1084,
-    "term": "ARTICLES ARTICLES, WORDS OF",
-    "entry_type": "legacy_unresolved",
+    "term": "ARTICLES, WORDS OF",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -14969,8 +14969,8 @@
   {
     "id": "BLD2-01162",
     "index": 1162,
-    "term": "ASTITRARIUS",
-    "entry_type": "legacy_unresolved",
+    "term": "ASTITRARIUS HARES",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -14983,8 +14983,8 @@
   {
     "id": "BLD2-01163",
     "index": 1163,
-    "term": "ASTITRARIUS HAES",
-    "entry_type": "verified_main",
+    "term": "ASTITRARIUS HÆRES",
+    "entry_type": "headword_corrected",
     "confidence": 0.9,
     "source_headword": "ASTITRARIUS HARES",
     "source_pages": [
@@ -15038,7 +15038,7 @@
     "id": "BLD2-01167",
     "index": 1167,
     "term": "ASTRICT",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "verified_main",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -17032,8 +17032,8 @@
   {
     "id": "BLD2-01320",
     "index": 1320,
-    "term": "BABON",
-    "entry_type": "legacy_unresolved",
+    "term": "BACON",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -20260,8 +20260,8 @@
   {
     "id": "BLD2-01570",
     "index": 1570,
-    "term": "BISANTIUM BISANTIUM, BESANTINE, BEZANT",
-    "entry_type": "provisional_main",
+    "term": "BISANTIUM, BESANTINE, BEZANT",
+    "entry_type": "headword_corrected",
     "confidence": 0.82,
     "source_headword": "BISANTIUM, BESANTINE, BEZANT",
     "source_pages": [
@@ -20542,8 +20542,8 @@
   {
     "id": "BLD2-01591",
     "index": 1591,
-    "term": "BLACK-ROD",
-    "entry_type": "legacy_unresolved",
+    "term": "BLACK-ROD, GENTLEMAN USHER OF",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -22544,8 +22544,8 @@
   {
     "id": "BLD2-01743",
     "index": 1743,
-    "term": "BRETTS",
-    "entry_type": "legacy_unresolved",
+    "term": "BRETTS AND SCOTTS, LAWS OF THE",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -22558,7 +22558,7 @@
     "id": "BLD2-01744",
     "index": 1744,
     "term": "BRETTS AND SCOTTS, LAWS OF THE",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -22969,8 +22969,8 @@
   {
     "id": "BLD2-01776",
     "index": 1776,
-    "term": "BROCARIUS BROCARIUS, BROCATOR",
-    "entry_type": "legacy_unresolved",
+    "term": "BROCARIUS, BROCATOR",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -23147,8 +23147,8 @@
   {
     "id": "BLD2-01790",
     "index": 1790,
-    "term": "BRUTUM",
-    "entry_type": "verified_main",
+    "term": "BRUTUM FULMEN",
+    "entry_type": "headword_corrected",
     "confidence": 0.9,
     "source_headword": "BRUTUM FULMEN",
     "source_pages": [
@@ -23890,8 +23890,8 @@
   {
     "id": "BLD2-01848",
     "index": 1848,
-    "term": "BUSONES",
-    "entry_type": "legacy_unresolved",
+    "term": "BUSONES COMITATUS",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -23953,7 +23953,7 @@
     "id": "BLD2-01853",
     "index": 1853,
     "term": "BUTTED",
-    "entry_type": "subentry",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [
@@ -24509,7 +24509,7 @@
     "id": "BLD2-01894",
     "index": 1894,
     "term": "CADASTU",
-    "entry_type": "verified_main",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.99,
     "source_headword": "CADASTU",
     "source_pages": [
@@ -24650,8 +24650,8 @@
   {
     "id": "BLD2-01905",
     "index": 1905,
-    "term": "CAETERUS",
-    "entry_type": "verified_main",
+    "term": "CÆTERUS",
+    "entry_type": "headword_corrected",
     "confidence": 0.9,
     "source_headword": "CZETERUS",
     "source_pages": [
@@ -26333,8 +26333,8 @@
   {
     "id": "BLD2-02036",
     "index": 2036,
-    "term": "CART BOOT",
-    "entry_type": "legacy_unresolved",
+    "term": "CART BOTE",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -26605,7 +26605,7 @@
     "id": "BLD2-02057",
     "index": 2057,
     "term": "CASHLITE",
-    "entry_type": "provisional_main",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.82,
     "source_headword": "CASHIER",
     "source_pages": [
@@ -27603,8 +27603,8 @@
   {
     "id": "BLD2-02134",
     "index": 2134,
-    "term": "CENELLZE",
-    "entry_type": "verified_main",
+    "term": "CENELLÆ",
+    "entry_type": "headword_corrected",
     "confidence": 0.9,
     "source_headword": "CENELLZ",
     "source_pages": [
@@ -29993,8 +29993,8 @@
   {
     "id": "BLD2-02318",
     "index": 2318,
-    "term": "CHOP-OCOHUROH",
-    "entry_type": "verified_main",
+    "term": "CHOP-CHURCH",
+    "entry_type": "headword_corrected",
     "confidence": 0.9,
     "source_headword": "CHOP-CHUROH",
     "source_pages": [
@@ -30089,8 +30089,8 @@
   {
     "id": "BLD2-02325",
     "index": 2325,
-    "term": "CHRE",
-    "entry_type": "legacy_unresolved",
+    "term": "CHRE PLACITANDO",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -30324,8 +30324,8 @@
   {
     "id": "BLD2-02343",
     "index": 2343,
-    "term": "CINQUE",
-    "entry_type": "verified_main",
+    "term": "CINQUE PORTS",
+    "entry_type": "headword_corrected",
     "confidence": 0.9,
     "source_headword": "CINQUE PORTS",
     "source_pages": [
@@ -30367,7 +30367,7 @@
     "id": "BLD2-02346",
     "index": 2346,
     "term": "CIRC",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -30455,8 +30455,8 @@
   {
     "id": "BLD2-02353",
     "index": 2353,
-    "term": "CIRCUITUS",
-    "entry_type": "legacy_unresolved",
+    "term": "CIRCUITUS EST EVITANDUS",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -32240,8 +32240,8 @@
   {
     "id": "BLD2-02487",
     "index": 2487,
-    "term": "COGNATYI",
-    "entry_type": "legacy_unresolved",
+    "term": "COGNATI",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -33364,8 +33364,8 @@
   {
     "id": "BLD2-02572",
     "index": 2572,
-    "term": "COMMANDMERT",
-    "entry_type": "verified_main",
+    "term": "COMMANDMENT",
+    "entry_type": "headword_corrected",
     "confidence": 0.9,
     "source_headword": "COMMANDMENT",
     "source_pages": [
@@ -34103,8 +34103,8 @@
   {
     "id": "BLD2-02630",
     "index": 2630,
-    "term": "COMMUNILY",
-    "entry_type": "legacy_unresolved",
+    "term": "COMMUNES",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -37953,8 +37953,8 @@
   {
     "id": "BLD2-02928",
     "index": 2928,
-    "term": "CONTENTMENT",
-    "entry_type": "legacy_unresolved",
+    "term": "CONTENTEMENT",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [
@@ -38056,8 +38056,8 @@
   {
     "id": "BLD2-02936",
     "index": 2936,
-    "term": "CONTINENOCIA",
-    "entry_type": "verified_main",
+    "term": "CONTINENCIA",
+    "entry_type": "headword_corrected",
     "confidence": 0.9,
     "source_headword": "CONTINENOIA",
     "source_pages": [
@@ -39216,7 +39216,7 @@
     "id": "BLD2-03026",
     "index": 3026,
     "term": "COOPERIO",
-    "entry_type": "provisional_main",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.82,
     "source_headword": "CO-OPERATION",
     "source_pages": [
@@ -39927,8 +39927,8 @@
   {
     "id": "BLD2-03081",
     "index": 3081,
-    "term": "CORREOCTOR",
-    "entry_type": "legacy_unresolved",
+    "term": "CORRECTOR",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -40947,8 +40947,8 @@
   {
     "id": "BLD2-03159",
     "index": 3159,
-    "term": "COURTS OF ASSIZE AND NISI PRIUS",
-    "entry_type": "legacy_unresolved",
+    "term": "COURTS OF CINQUE PORTS",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -41513,8 +41513,8 @@
   {
     "id": "BLD2-03203",
     "index": 3203,
-    "term": "CREMENTUM",
-    "entry_type": "legacy_unresolved",
+    "term": "CREMENTUM COMITATUS",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [
@@ -42795,8 +42795,8 @@
   {
     "id": "BLD2-03301",
     "index": 3301,
-    "term": "CUTH",
-    "entry_type": "legacy_unresolved",
+    "term": "CUTH / COUTH",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [
@@ -42980,8 +42980,8 @@
   {
     "id": "BLD2-03314",
     "index": 3314,
-    "term": "CYROCE",
-    "entry_type": "legacy_unresolved",
+    "term": "CYRCE",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -43781,7 +43781,7 @@
     "id": "BLD2-03374",
     "index": 3374,
     "term": "DB",
-    "entry_type": "verified_main",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.9,
     "source_headword": "DI",
     "source_pages": [
@@ -43794,8 +43794,8 @@
   {
     "id": "BLD2-03375",
     "index": 3375,
-    "term": "DBS",
-    "entry_type": "legacy_unresolved",
+    "term": "DE FIDE ET OFFICIO JUDICIS",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -45324,8 +45324,8 @@
   {
     "id": "BLD2-03487",
     "index": 3487,
-    "term": "DECBEET",
-    "entry_type": "recovered_main",
+    "term": "DECBREET",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [
@@ -54282,7 +54282,7 @@
     "id": "BLD2-04182",
     "index": 4182,
     "term": "DULPEX",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -54295,8 +54295,8 @@
   {
     "id": "BLD2-04183",
     "index": 4183,
-    "term": "DULPEX VALOR MARITAGII",
-    "entry_type": "legacy_unresolved",
+    "term": "DUPLEX VALOR MARITAGII",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -55598,8 +55598,8 @@
   {
     "id": "BLD2-04283",
     "index": 4283,
-    "term": "ECOLESIARCH",
-    "entry_type": "legacy_unresolved",
+    "term": "ECCLESIARCH",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -55660,7 +55660,7 @@
   {
     "id": "BLD2-04287",
     "index": 4287,
-    "term": "ECCLESIS",
+    "term": "ECCLESIAE",
     "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
@@ -57968,8 +57968,8 @@
   {
     "id": "BLD2-04465",
     "index": 4465,
-    "term": "ENDA",
-    "entry_type": "legacy_unresolved",
+    "term": "ENDA IN SCACCARIO",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -58869,8 +58869,8 @@
   {
     "id": "BLD2-04536",
     "index": 4536,
-    "term": "EODIOUS",
-    "entry_type": "legacy_unresolved",
+    "term": "ECDICUS",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -61754,8 +61754,8 @@
   {
     "id": "BLD2-04758",
     "index": 4758,
-    "term": "EXCOMMUNIOCATO",
-    "entry_type": "subentry",
+    "term": "EXCOMMUNICATO",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [
@@ -62445,8 +62445,8 @@
   {
     "id": "BLD2-04809",
     "index": 4809,
-    "term": "EXHERES",
-    "entry_type": "legacy_unresolved",
+    "term": "EXHAERES",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -65140,8 +65140,8 @@
   {
     "id": "BLD2-05015",
     "index": 5015,
-    "term": "FAMAOCIDE",
-    "entry_type": "verified_main",
+    "term": "FAMACIDE",
+    "entry_type": "headword_corrected",
     "confidence": 0.9,
     "source_headword": "FAMACIDE",
     "source_pages": [
@@ -65195,8 +65195,8 @@
   {
     "id": "BLD2-05019",
     "index": 5019,
-    "term": "FAMILIARERCISCUNDA",
-    "entry_type": "legacy_unresolved",
+    "term": "FAMILIAE ERCISCUNDAE",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -65315,8 +65315,8 @@
   {
     "id": "BLD2-05028",
     "index": 5028,
-    "term": "FAOCTA",
-    "entry_type": "legacy_unresolved",
+    "term": "FACTA",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -67015,8 +67015,8 @@
   {
     "id": "BLD2-05160",
     "index": 5160,
-    "term": "FERZ NATURE",
-    "entry_type": "legacy_unresolved",
+    "term": "FERÆ NATURÆ",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -67342,8 +67342,8 @@
   {
     "id": "BLD2-05185",
     "index": 5185,
-    "term": "FI",
-    "entry_type": "verified_main",
+    "term": "FI. FA.",
+    "entry_type": "headword_corrected",
     "confidence": 0.99,
     "source_headword": "FI",
     "source_pages": [
@@ -67750,7 +67750,7 @@
     "id": "BLD2-05216",
     "index": 5216,
     "term": "FIERDING",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -69027,8 +69027,8 @@
   {
     "id": "BLD2-05315",
     "index": 5315,
-    "term": "FLOTSAM FLOTSAM, FLOTSAM",
-    "entry_type": "legacy_unresolved",
+    "term": "FLOTSAM",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -70114,8 +70114,8 @@
   {
     "id": "BLD2-05397",
     "index": 5397,
-    "term": "FORENSIO",
-    "entry_type": "verified_main",
+    "term": "FORENSIC",
+    "entry_type": "headword_corrected",
     "confidence": 0.99,
     "source_headword": "FORENSIO",
     "source_pages": [
@@ -72059,8 +72059,8 @@
   {
     "id": "BLD2-05547",
     "index": 5547,
-    "term": "FPARDING-DEAL",
-    "entry_type": "legacy_unresolved",
+    "term": "FOARDING-DEAL",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -72812,7 +72812,7 @@
     "id": "BLD2-05605",
     "index": 5605,
     "term": "FRETTUM",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [
@@ -78956,8 +78956,8 @@
   {
     "id": "BLD2-06079",
     "index": 6079,
-    "term": "HAEARETICO",
-    "entry_type": "legacy_unresolved",
+    "term": "HAERETICO",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -80571,8 +80571,8 @@
   {
     "id": "BLD2-06204",
     "index": 6204,
-    "term": "HEC",
-    "entry_type": "legacy_unresolved",
+    "term": "HEC EST CONVENTIO",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -80940,8 +80940,8 @@
   {
     "id": "BLD2-06233",
     "index": 6233,
-    "term": "HEORDFZATE",
-    "entry_type": "legacy_unresolved",
+    "term": "HEORDFATE",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -83267,8 +83267,8 @@
   {
     "id": "BLD2-06412",
     "index": 6412,
-    "term": "HOOCUS",
-    "entry_type": "legacy_unresolved",
+    "term": "HOOCUS SALT",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -83707,8 +83707,8 @@
   {
     "id": "BLD2-06447",
     "index": 6447,
-    "term": "HOSTILARIA HOSTILARIA, HOSPITALARIA",
-    "entry_type": "legacy_unresolved",
+    "term": "HOSTILARIA",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -85515,7 +85515,7 @@
     "id": "BLD2-06586",
     "index": 6586,
     "term": "IMAM",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -88135,8 +88135,8 @@
   {
     "id": "BLD2-06791",
     "index": 6791,
-    "term": "INDISTER",
-    "entry_type": "legacy_unresolved",
+    "term": "INDISTANTER",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -89443,8 +89443,8 @@
   {
     "id": "BLD2-06892",
     "index": 6892,
-    "term": "INITIALIA TESTIMONTI",
-    "entry_type": "verified_main",
+    "term": "INITIALIA TESTIMONII",
+    "entry_type": "headword_corrected",
     "confidence": 0.9,
     "source_headword": "INITIALIA TESTIMONII",
     "source_pages": [
@@ -89951,8 +89951,8 @@
   {
     "id": "BLD2-06932",
     "index": 6932,
-    "term": "INNUMINATE",
-    "entry_type": "legacy_unresolved",
+    "term": "INNUINATE",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -92927,8 +92927,8 @@
   {
     "id": "BLD2-07162",
     "index": 7162,
-    "term": "IRRREGULAR",
-    "entry_type": "legacy_unresolved",
+    "term": "IRREGULAR",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -93044,8 +93044,8 @@
   {
     "id": "BLD2-07171",
     "index": 7171,
-    "term": "ISSUE LEX SCRIPTA EST",
-    "entry_type": "legacy_unresolved",
+    "term": "ITA LEX SCRIPTA EST",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -93057,8 +93057,8 @@
   {
     "id": "BLD2-07172",
     "index": 7172,
-    "term": "ISSUE QUOD",
-    "entry_type": "legacy_unresolved",
+    "term": "ITA QUOD",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -93071,8 +93071,8 @@
   {
     "id": "BLD2-07173",
     "index": 7173,
-    "term": "ISSUE TE DEUS ADJUVET",
-    "entry_type": "legacy_unresolved",
+    "term": "ITA TE DEUS ADJUVET",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -93084,8 +93084,8 @@
   {
     "id": "BLD2-07174",
     "index": 7174,
-    "term": "ISSUE TE DEUS ADJUVET ET OMNES SANCTI",
-    "entry_type": "legacy_unresolved",
+    "term": "ITA TE DEUS ADJUVET ET OMNES SANCTI",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -93098,8 +93098,8 @@
   {
     "id": "BLD2-07175",
     "index": 7175,
-    "term": "ISSUE UTERE TUO UT ALIENUM NON LAEDEAS",
-    "entry_type": "legacy_unresolved",
+    "term": "ITA UTERE TUO UT ALIENUM NON LAEDEAS",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -93260,8 +93260,8 @@
   {
     "id": "BLD2-07187",
     "index": 7187,
-    "term": "ITRENARCHA",
-    "entry_type": "recovered_main",
+    "term": "IRENARCH",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [
@@ -94069,7 +94069,7 @@
     "id": "BLD2-07248",
     "index": 7248,
     "term": "JOOCUS",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -95786,8 +95786,8 @@
   {
     "id": "BLD2-07379",
     "index": 7379,
-    "term": "KEELHALE KEELHALE, KEELHAUL",
-    "entry_type": "provisional_main",
+    "term": "KEELHAUL",
+    "entry_type": "headword_corrected",
     "confidence": 0.82,
     "source_headword": "KEELHALE, KEELHAUL",
     "source_pages": [
@@ -95852,8 +95852,8 @@
   {
     "id": "BLD2-07384",
     "index": 7384,
-    "term": "KENILWORTH",
-    "entry_type": "verified_main",
+    "term": "KENILWORTH DICTUM",
+    "entry_type": "headword_corrected",
     "confidence": 0.9,
     "source_headword": "KENILWORTH EDIOT",
     "source_pages": [
@@ -95866,8 +95866,8 @@
   {
     "id": "BLD2-07385",
     "index": 7385,
-    "term": "KENNING",
-    "entry_type": "provisional_main",
+    "term": "KENNING TO A TERCE",
+    "entry_type": "headword_corrected",
     "confidence": 0.82,
     "source_headword": "KENNING TO A TERCE",
     "source_pages": [
@@ -95904,8 +95904,8 @@
   {
     "id": "BLD2-07388",
     "index": 7388,
-    "term": "KENTUCKY",
-    "entry_type": "verified_main",
+    "term": "KENTUCKY RESOLUTIONS",
+    "entry_type": "headword_corrected",
     "confidence": 0.9,
     "source_headword": "KENTUCKY RESOLUTIONS",
     "source_pages": [
@@ -96167,8 +96167,8 @@
   {
     "id": "BLD2-07409",
     "index": 7409,
-    "term": "KING'S",
-    "entry_type": "verified_main",
+    "term": "KING'S EVIDENCE",
+    "entry_type": "headword_corrected",
     "confidence": 0.9,
     "source_headword": "KING'S EVIDENCE",
     "source_pages": [
@@ -96193,8 +96193,8 @@
   {
     "id": "BLD2-07411",
     "index": 7411,
-    "term": "KINGS-AT-ABRMS",
-    "entry_type": "legacy_unresolved",
+    "term": "KINGS-AT-ARMS",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -97031,8 +97031,8 @@
   {
     "id": "BLD2-07473",
     "index": 7473,
-    "term": "LADING LADING, BILL OF",
-    "entry_type": "provisional_main",
+    "term": "LADING, BILL OF",
+    "entry_type": "headword_corrected",
     "confidence": 0.82,
     "source_headword": "LADING, BILL OF",
     "source_pages": [
@@ -97262,8 +97262,8 @@
   {
     "id": "BLD2-07490",
     "index": 7490,
-    "term": "LAHMAN",
-    "entry_type": "legacy_unresolved",
+    "term": "LAHMAN, or LAGEMANNUS",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [
@@ -102845,8 +102845,8 @@
   {
     "id": "BLD2-07921",
     "index": 7921,
-    "term": "LOOCULUS",
-    "entry_type": "legacy_unresolved",
+    "term": "LOCULUS",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -103919,8 +103919,8 @@
   {
     "id": "BLD2-08002",
     "index": 8002,
-    "term": "MAGIG",
-    "entry_type": "verified_main",
+    "term": "MAGIC",
+    "entry_type": "headword_corrected",
     "confidence": 0.99,
     "source_headword": "MAGIG",
     "source_pages": [
@@ -106110,8 +106110,8 @@
   {
     "id": "BLD2-08172",
     "index": 8172,
-    "term": "MAOE-GREFF",
-    "entry_type": "legacy_unresolved",
+    "term": "MACE-GREFF",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -106124,8 +106124,8 @@
   {
     "id": "BLD2-08173",
     "index": 8173,
-    "term": "MAOULARE",
-    "entry_type": "legacy_unresolved",
+    "term": "MACULARE",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -113163,8 +113163,8 @@
   {
     "id": "BLD2-08714",
     "index": 8714,
-    "term": "MZC-BURGH",
-    "entry_type": "recovered_main",
+    "term": "MÆG-BURGH",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [
@@ -113179,8 +113179,8 @@
   {
     "id": "BLD2-08715",
     "index": 8715,
-    "term": "MZGBOTE",
-    "entry_type": "recovered_main",
+    "term": "MÆGBOTE",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [
@@ -113211,8 +113211,8 @@
   {
     "id": "BLD2-08717",
     "index": 8717,
-    "term": "MZREMIUM",
-    "entry_type": "legacy_unresolved",
+    "term": "MÆREMIUM",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -113688,8 +113688,8 @@
   {
     "id": "BLD2-08752",
     "index": 8752,
-    "term": "NASOITURUS",
-    "entry_type": "verified_main",
+    "term": "NASCITURUS",
+    "entry_type": "headword_corrected",
     "confidence": 0.9,
     "source_headword": "NASCITURUS",
     "source_pages": [
@@ -113874,8 +113874,8 @@
   {
     "id": "BLD2-08766",
     "index": 8766,
-    "term": "NATURALE",
-    "entry_type": "legacy_unresolved",
+    "term": "NATURALE EST QUIDLIBET",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -114744,8 +114744,8 @@
   {
     "id": "BLD2-08834",
     "index": 8834,
-    "term": "NEGOTIORUM",
-    "entry_type": "verified_main",
+    "term": "NEGOTIORUM GESTOR",
+    "entry_type": "headword_corrected",
     "confidence": 0.9,
     "source_headword": "NEGOTIORUM GESTOR",
     "source_pages": [
@@ -114918,8 +114918,8 @@
   {
     "id": "BLD2-08847",
     "index": 8847,
-    "term": "NEPUOY",
-    "entry_type": "verified_main",
+    "term": "NEPVOY",
+    "entry_type": "headword_corrected",
     "confidence": 0.99,
     "source_headword": "NEPUOY",
     "source_pages": [
@@ -115913,7 +115913,7 @@
     "id": "BLD2-08921",
     "index": 8921,
     "term": "NON-ASSESSA",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -116364,8 +116364,8 @@
   {
     "id": "BLD2-08956",
     "index": 8956,
-    "term": "NONSE ET DECIMAE",
-    "entry_type": "legacy_unresolved",
+    "term": "NONAE ET DECIMAE",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -116513,8 +116513,8 @@
   {
     "id": "BLD2-08967",
     "index": 8967,
-    "term": "NOT",
-    "entry_type": "provisional_main",
+    "term": "NOT PROVEN",
+    "entry_type": "headword_corrected",
     "confidence": 0.82,
     "source_headword": "NOT PROVEN",
     "source_pages": [
@@ -116744,8 +116744,8 @@
   {
     "id": "BLD2-08985",
     "index": 8985,
-    "term": "NOVA",
-    "entry_type": "provisional_main",
+    "term": "NOVA STATUTA",
+    "entry_type": "headword_corrected",
     "confidence": 0.82,
     "source_headword": "NOVA STATUTA",
     "source_pages": [
@@ -117531,8 +117531,8 @@
   {
     "id": "BLD2-09043",
     "index": 9043,
-    "term": "NW",
-    "entry_type": "fragment_artifact",
+    "term": "N.",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [
@@ -118250,8 +118250,8 @@
   {
     "id": "BLD2-09098",
     "index": 9098,
-    "term": "OBZ,RATUS",
-    "entry_type": "legacy_unresolved",
+    "term": "OBRATUS",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -119275,8 +119275,8 @@
   {
     "id": "BLD2-09174",
     "index": 9174,
-    "term": "ONERARI",
-    "entry_type": "verified_main",
+    "term": "ONERARI NON",
+    "entry_type": "headword_corrected",
     "confidence": 0.9,
     "source_headword": "ONERARI NON",
     "source_pages": [
@@ -124672,7 +124672,7 @@
     "id": "BLD2-09590",
     "index": 9590,
     "term": "PELONIOUSLY",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -124736,8 +124736,8 @@
   {
     "id": "BLD2-09595",
     "index": 9595,
-    "term": "PENDENOY",
-    "entry_type": "verified_main",
+    "term": "PENDENCY",
+    "entry_type": "headword_corrected",
     "confidence": 0.9,
     "source_headword": "PENDENCY",
     "source_pages": [
@@ -125287,8 +125287,8 @@
   {
     "id": "BLD2-09638",
     "index": 9638,
-    "term": "PERICULUS",
-    "entry_type": "legacy_unresolved",
+    "term": "PERICULOSUS",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -126616,8 +126616,8 @@
   {
     "id": "BLD2-09740",
     "index": 9740,
-    "term": "PIGNORIS",
-    "entry_type": "verified_main",
+    "term": "PIGNORIS CAPIO",
+    "entry_type": "headword_corrected",
     "confidence": 0.9,
     "source_headword": "PIGNORIS CAPIO",
     "source_pages": [
@@ -127646,8 +127646,8 @@
   {
     "id": "BLD2-09819",
     "index": 9819,
-    "term": "PLEGIK",
-    "entry_type": "legacy_unresolved",
+    "term": "PLEGII",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -127999,8 +127999,8 @@
   {
     "id": "BLD2-09847",
     "index": 9847,
-    "term": "PO",
-    "entry_type": "legacy_unresolved",
+    "term": "PO. LO. SUO.",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [
@@ -128647,8 +128647,8 @@
   {
     "id": "BLD2-09896",
     "index": 9896,
-    "term": "PORMIDO",
-    "entry_type": "legacy_unresolved",
+    "term": "FORMIDO",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -128661,8 +128661,8 @@
   {
     "id": "BLD2-09897",
     "index": 9897,
-    "term": "PORMIDO PERIOLI",
-    "entry_type": "legacy_unresolved",
+    "term": "FORMIDO PERICULI",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -130176,8 +130176,8 @@
   {
     "id": "BLD2-10011",
     "index": 10011,
-    "term": "PRAMIUM",
-    "entry_type": "legacy_unresolved",
+    "term": "PRAEMIUM",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -130190,8 +130190,8 @@
   {
     "id": "BLD2-10012",
     "index": 10012,
-    "term": "PRANOMEN",
-    "entry_type": "legacy_unresolved",
+    "term": "PRAENOMEN",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -130328,8 +130328,8 @@
   {
     "id": "BLD2-10022",
     "index": 10022,
-    "term": "PREAPPOINTED",
-    "entry_type": "verified_main",
+    "term": "PREAPPOINTED EVIDENCE",
+    "entry_type": "headword_corrected",
     "confidence": 0.9,
     "source_headword": "PREAPPOINTED EVIDENCE",
     "source_pages": [
@@ -130498,8 +130498,8 @@
   {
     "id": "BLD2-10035",
     "index": 10035,
-    "term": "PRECINOT",
-    "entry_type": "verified_main",
+    "term": "PRECINCT",
+    "entry_type": "headword_corrected",
     "confidence": 0.9,
     "source_headword": "PREOCINOT",
     "source_pages": [
@@ -130592,8 +130592,8 @@
   {
     "id": "BLD2-10042",
     "index": 10042,
-    "term": "PRECONTRAOT",
-    "entry_type": "verified_main",
+    "term": "PRECONTRACT",
+    "entry_type": "headword_corrected",
     "confidence": 0.9,
     "source_headword": "PRECONTRAOCT",
     "source_pages": [
@@ -130858,7 +130858,7 @@
     "id": "BLD2-10062",
     "index": 10062,
     "term": "PREMUNIRE",
-    "entry_type": "verified_main",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.99,
     "source_headword": "PREMUNIRE",
     "source_pages": [
@@ -131549,8 +131549,8 @@
   {
     "id": "BLD2-10115",
     "index": 10115,
-    "term": "PRIM",
-    "entry_type": "legacy_unresolved",
+    "term": "PRIMA IMPRESSIONIS",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -133387,8 +133387,8 @@
   {
     "id": "BLD2-10258",
     "index": 10258,
-    "term": "PRONUNOIATION",
-    "entry_type": "verified_main",
+    "term": "PRONUNCIATION",
+    "entry_type": "headword_corrected",
     "confidence": 0.9,
     "source_headword": "PRONUNCIATION",
     "source_pages": [
@@ -133962,8 +133962,8 @@
   {
     "id": "BLD2-10302",
     "index": 10302,
-    "term": "PROSEOCUTOR",
-    "entry_type": "legacy_unresolved",
+    "term": "PROSECUTOR",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -134604,8 +134604,8 @@
   {
     "id": "BLD2-10352",
     "index": 10352,
-    "term": "PSEUDOOYESIS",
-    "entry_type": "verified_main",
+    "term": "PSEUDOCYESIS",
+    "entry_type": "headword_corrected",
     "confidence": 0.9,
     "source_headword": "PSEUDOCYESIS",
     "source_pages": [
@@ -134762,8 +134762,8 @@
   {
     "id": "BLD2-10364",
     "index": 10364,
-    "term": "PUBLIOCIANA",
-    "entry_type": "legacy_unresolved",
+    "term": "PUBLICIANA",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -135964,8 +135964,8 @@
   {
     "id": "BLD2-10457",
     "index": 10457,
-    "term": "QUALIFIED WORTER",
-    "entry_type": "verified_main",
+    "term": "QUALIFIED",
+    "entry_type": "headword_corrected",
     "confidence": 0.9,
     "source_headword": "QUALIFIED",
     "source_pages": [
@@ -136352,8 +136352,8 @@
   {
     "id": "BLD2-10486",
     "index": 10486,
-    "term": "QUARTO",
-    "entry_type": "verified_main",
+    "term": "QUARTO DIE",
+    "entry_type": "headword_corrected",
     "confidence": 0.9,
     "source_headword": "QUARTO DIE POST",
     "source_pages": [
@@ -138546,7 +138546,7 @@
     "id": "BLD2-10652",
     "index": 10652,
     "term": "REBUTTABLE",
-    "entry_type": "subentry",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [
@@ -138799,8 +138799,8 @@
   {
     "id": "BLD2-10671",
     "index": 10671,
-    "term": "RECHIVING",
-    "entry_type": "legacy_unresolved",
+    "term": "RECEIVING STOLEN GOODS",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -141579,8 +141579,8 @@
   {
     "id": "BLD2-10887",
     "index": 10887,
-    "term": "REMONSTRAWNCE",
-    "entry_type": "verified_main",
+    "term": "REMONSTRANCE",
+    "entry_type": "headword_corrected",
     "confidence": 0.9,
     "source_headword": "REMONSTRANCE",
     "source_pages": [
@@ -141954,8 +141954,8 @@
   {
     "id": "BLD2-10916",
     "index": 10916,
-    "term": "REPARWAMENTO",
-    "entry_type": "verified_main",
+    "term": "REPARTAMIENTO",
+    "entry_type": "headword_corrected",
     "confidence": 0.99,
     "source_headword": "REPARWAMENTO",
     "source_pages": [
@@ -142985,8 +142985,8 @@
   {
     "id": "BLD2-10996",
     "index": 10996,
-    "term": "RESOCISSION",
-    "entry_type": "recovered_main",
+    "term": "RESCINDMENT",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [
@@ -143055,8 +143055,8 @@
   {
     "id": "BLD2-11001",
     "index": 11001,
-    "term": "RESOUE",
-    "entry_type": "recovered_main",
+    "term": "RESCUE",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [
@@ -145288,8 +145288,8 @@
   {
     "id": "BLD2-11171",
     "index": 11171,
-    "term": "ROBERSTMEN",
-    "entry_type": "legacy_unresolved",
+    "term": "ROBERDSMEN",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -146077,7 +146077,7 @@
     "id": "BLD2-11231",
     "index": 11231,
     "term": "RURAL",
-    "entry_type": "verified_main",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.9,
     "source_headword": "RURAL DEANS",
     "source_pages": [
@@ -146330,8 +146330,8 @@
   {
     "id": "BLD2-11249",
     "index": 11249,
-    "term": "S.R",
-    "entry_type": "verified_main",
+    "term": "S. D.",
+    "entry_type": "headword_corrected",
     "confidence": 0.9,
     "source_headword": "S.D",
     "source_pages": [
@@ -147261,8 +147261,8 @@
   {
     "id": "BLD2-11320",
     "index": 11320,
-    "term": "SAOCCULARIT",
-    "entry_type": "legacy_unresolved",
+    "term": "SACCULARII",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -147275,8 +147275,8 @@
   {
     "id": "BLD2-11321",
     "index": 11321,
-    "term": "SAOCCUS",
-    "entry_type": "legacy_unresolved",
+    "term": "SACCUS",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -147656,8 +147656,8 @@
   {
     "id": "BLD2-11350",
     "index": 11350,
-    "term": "SBSCRIPTUM",
-    "entry_type": "legacy_unresolved",
+    "term": "SCRIPTUM",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -150451,7 +150451,7 @@
     "id": "BLD2-11563",
     "index": 11563,
     "term": "SERVITHS",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -151230,8 +151230,8 @@
   {
     "id": "BLD2-11622",
     "index": 11622,
-    "term": "SHEPWAY",
-    "entry_type": "legacy_unresolved",
+    "term": "SHEPWAY, COURT OF",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [
@@ -151245,8 +151245,8 @@
   {
     "id": "BLD2-11623",
     "index": 11623,
-    "term": "SHEPWAY SHEPWAY, COURT OF",
-    "entry_type": "legacy_unresolved",
+    "term": "SHEPWAY, COURT OF",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -151822,7 +151822,7 @@
     "id": "BLD2-11668",
     "index": 11668,
     "term": "SIDUABRY",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -152540,7 +152540,7 @@
     "id": "BLD2-11723",
     "index": 11723,
     "term": "SIX-DAY",
-    "entry_type": "subentry",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [
@@ -153168,8 +153168,8 @@
   {
     "id": "BLD2-11772",
     "index": 11772,
-    "term": "SOHISM",
-    "entry_type": "recovered_main",
+    "term": "SCHISM",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [
@@ -154655,7 +154655,7 @@
     "id": "BLD2-11881",
     "index": 11881,
     "term": "SOMNAMB",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -157210,8 +157210,8 @@
   {
     "id": "BLD2-12077",
     "index": 12077,
-    "term": "STRICTI",
-    "entry_type": "legacy_unresolved",
+    "term": "STRICTI JURIS",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -157253,8 +157253,8 @@
   {
     "id": "BLD2-12080",
     "index": 12080,
-    "term": "STRICTUM",
-    "entry_type": "legacy_unresolved",
+    "term": "STRICTUM JUS",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -158835,8 +158835,8 @@
   {
     "id": "BLD2-12203",
     "index": 12203,
-    "term": "SUPERFCETATION",
-    "entry_type": "legacy_unresolved",
+    "term": "SUPERFETATION",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -158850,7 +158850,7 @@
     "id": "BLD2-12204",
     "index": 12204,
     "term": "SUPERFETATION",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -160144,8 +160144,8 @@
   {
     "id": "BLD2-12303",
     "index": 12303,
-    "term": "SYLVA",
-    "entry_type": "legacy_unresolved",
+    "term": "SYLVA CEDUA",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -160172,8 +160172,8 @@
   {
     "id": "BLD2-12305",
     "index": 12305,
-    "term": "SYMBOLIC",
-    "entry_type": "verified_main",
+    "term": "SYMBOLIC DELIVERY",
+    "entry_type": "headword_corrected",
     "confidence": 0.9,
     "source_headword": "SYMBOLIC DELIVERY",
     "source_pages": [
@@ -160318,8 +160318,8 @@
   {
     "id": "BLD2-12316",
     "index": 12316,
-    "term": "SZEMEND",
-    "entry_type": "legacy_unresolved",
+    "term": "SZEMENД",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -160332,8 +160332,8 @@
   {
     "id": "BLD2-12317",
     "index": 12317,
-    "term": "SZZVITIA",
-    "entry_type": "legacy_unresolved",
+    "term": "SÆVITIA",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -164203,8 +164203,8 @@
   {
     "id": "BLD2-12612",
     "index": 12612,
-    "term": "TIMA",
-    "entry_type": "legacy_unresolved",
+    "term": "TIMA ORTAM",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -164348,8 +164348,8 @@
   {
     "id": "BLD2-12623",
     "index": 12623,
-    "term": "TING",
-    "entry_type": "legacy_unresolved",
+    "term": "LIQUOR",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -165102,8 +165102,8 @@
   {
     "id": "BLD2-12680",
     "index": 12680,
-    "term": "TORNO",
-    "entry_type": "legacy_unresolved",
+    "term": "TORNO FACIENDO",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -165584,7 +165584,7 @@
     "id": "BLD2-12716",
     "index": 12716,
     "term": "TRADITURIN",
-    "entry_type": "subentry",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [
@@ -166191,8 +166191,8 @@
   {
     "id": "BLD2-12763",
     "index": 12763,
-    "term": "TRE",
-    "entry_type": "legacy_unresolved",
+    "term": "TRE AD LARGUM",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -166518,8 +166518,8 @@
   {
     "id": "BLD2-12788",
     "index": 12788,
-    "term": "TRIA",
-    "entry_type": "legacy_unresolved",
+    "term": "TRIA CAPITA",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -167093,8 +167093,8 @@
   {
     "id": "BLD2-12833",
     "index": 12833,
-    "term": "TT",
-    "entry_type": "fragment_artifact",
+    "term": "T. R. E.",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [
@@ -168084,7 +168084,7 @@
     "id": "BLD2-12907",
     "index": 12907,
     "term": "UNA",
-    "entry_type": "provisional_main",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.82,
     "source_headword": "UNA VOCE",
     "source_pages": [
@@ -168877,7 +168877,7 @@
     "id": "BLD2-12967",
     "index": 12967,
     "term": "UNLARIOH",
-    "entry_type": "verified_main",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.99,
     "source_headword": "UNLARIOH",
     "source_pages": [
@@ -169129,8 +169129,8 @@
   {
     "id": "BLD2-12986",
     "index": 12986,
-    "term": "UNUS FLATU",
-    "entry_type": "legacy_unresolved",
+    "term": "UNO FLATU",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -169214,8 +169214,8 @@
   {
     "id": "BLD2-12992",
     "index": 12992,
-    "term": "UO DOMINICO",
-    "entry_type": "recovered_main",
+    "term": "DE DOMINICO",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [
@@ -169872,8 +169872,8 @@
   {
     "id": "BLD2-13041",
     "index": 13041,
-    "term": "UTRUBL",
-    "entry_type": "verified_main",
+    "term": "UTRUBI",
+    "entry_type": "headword_corrected",
     "confidence": 0.99,
     "source_headword": "UTRUBL",
     "source_pages": [
@@ -170666,8 +170666,8 @@
   {
     "id": "BLD2-13096",
     "index": 13096,
-    "term": "VATI",
-    "entry_type": "legacy_unresolved",
+    "term": "VATI MITTENDO IN CANCELLARIUM",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -173961,7 +173961,7 @@
     "id": "BLD2-13323",
     "index": 13323,
     "term": "VWENDUE",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -175402,8 +175402,8 @@
   {
     "id": "BLD2-13423",
     "index": 13423,
-    "term": "WELL ENOWING",
-    "entry_type": "verified_main",
+    "term": "WELL KNOWN",
+    "entry_type": "headword_corrected",
     "confidence": 0.99,
     "source_headword": "WELL ENOWING",
     "source_pages": [
@@ -175446,8 +175446,8 @@
   {
     "id": "BLD2-13426",
     "index": 13426,
-    "term": "WER",
-    "entry_type": "legacy_unresolved",
+    "term": "RED BOOK OF THE EXCHEQUER",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -175460,7 +175460,7 @@
     "id": "BLD2-13427",
     "index": 13427,
     "term": "WEREGELT",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "legacy_duplicate",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -178360,8 +178360,8 @@
   {
     "id": "BLD2-13629",
     "index": 13629,
-    "term": "ZEFESN",
-    "entry_type": "verified_main",
+    "term": "ZFESN",
+    "entry_type": "headword_corrected",
     "confidence": 0.99,
     "source_headword": "ZEFESN",
     "source_pages": [
@@ -178396,8 +178396,8 @@
   {
     "id": "BLD2-13632",
     "index": 13632,
-    "term": "ZEIR",
-    "entry_type": "verified_main",
+    "term": "YEIR",
+    "entry_type": "headword_corrected",
     "confidence": 0.99,
     "source_headword": "ZEIR",
     "source_pages": [
@@ -178439,8 +178439,8 @@
   {
     "id": "BLD2-13635",
     "index": 13635,
-    "term": "ZETHELING",
-    "entry_type": "recovered_main",
+    "term": "AETHELING",
+    "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [
@@ -179119,8 +179119,8 @@
   },
   {
     "id": "BLD2-13702",
-    "term": "DALUS",
-    "entry_type": "recovered_main",
+    "term": "DAILUS",
+    "entry_type": "headword_corrected",
     "body": "DAILUS, DAILIA. A certain\nmeasure of land; such narrow slips of pasture as are left between the plowed furrows\nin arable land. Cowell.",
     "source_pages": [
       "313"
@@ -179230,8 +179230,8 @@
   },
   {
     "id": "BLD2-13713",
-    "term": "IMAN",
-    "entry_type": "recovered_main",
+    "term": "IMAM",
+    "entry_type": "headword_corrected",
     "body": "IMAM, or IMAUM. A Mohammedan prince having supreme spiritual as\nwell as temporal power; a regular priest of\nthe mosque",
     "source_pages": [
       "591"

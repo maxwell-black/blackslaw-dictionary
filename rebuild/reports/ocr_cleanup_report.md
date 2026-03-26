@@ -1,17 +1,22 @@
 # OCR Artifact Cleanup Report
 
-Applied conservative OCR fixes to 68 of 12981 entries.
+Applied conservative OCR fixes to 75 of 12941 entries.
 
 ## Fix Summary
 
 | Pattern | Count | Description |
 |---------|-------|-------------|
 | hyphen_rejoin | 84 | Rejoin hyphenated line breaks |
-| hyphen_space_rejoin | 8 | hyphen_space_rejoin |
+| hyphen_space_rejoin | 9 | hyphen_space_rejoin |
+| 8->S_abbrev | 2 | 8->S_abbrev |
+| pipe_remove | 1 | pipe_remove |
+| aud->and | 1 | aud->and |
+| anotber->another | 1 | anotber->another |
+| gv->qv | 1 | gv->qv |
 
 ---
 
-## Changed Entries (68 entries)
+## Changed Entries (75 entries)
 
 | Term | Fixes Applied |
 |------|--------------|
@@ -45,16 +50,19 @@ Applied conservative OCR fixes to 68 of 12981 entries.
 | FORSTAL | hyphen_rejoin(1) |
 | FREEHOLD | hyphen_rejoin(1) |
 | HOMMES | hyphen_rejoin(1) |
+| INITIALIA TESTIMONII | pipe_remove(1) |
 | ISSUE | hyphen_rejoin(2) |
 | JURY | hyphen_rejoin(1) |
 | JUS | hyphen_rejoin(1) |
 | KENTLAGE | hyphen_space_rejoin(1) |
+| KING'S EVIDENCE | hyphen_space_rejoin(1) |
 | LIBER | hyphen_rejoin(2) |
 | LITERARY | hyphen_rejoin(3) |
 | MARSHALING | hyphen_rejoin(1) |
 | MUNICIPAL | hyphen_space_rejoin(1) |
 | NATION | hyphen_space_rejoin(1) |
 | NOTHUS | hyphen_space_rejoin(1) |
+| N. | 8->S_abbrev(1) |
 | OBLIGATION | hyphen_rejoin(1) |
 | OFFICE | hyphen_rejoin(1) |
 | OFFICER | hyphen_rejoin(3) |
@@ -62,7 +70,4 @@ Applied conservative OCR fixes to 68 of 12981 entries.
 | PRECES | hyphen_rejoin(1) |
 | PRISON | hyphen_rejoin(1) |
 | PRIVILEGED | hyphen_rejoin(3) |
-| PRO | hyphen_rejoin(1) |
-| QUANTUM VALEBANT | hyphen_rejoin(1) |
-| RECOUSSE | hyphen_rejoin(1) |
-| ... | (18 more entries) |
+| ... | (25 more entries) |

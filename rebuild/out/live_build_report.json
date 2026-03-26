@@ -1,25 +1,26 @@
 {
-  "previous_live_count": 12981,
-  "new_live_count": 12981,
-  "delta": 0,
+  "previous_live_count": 12953,
+  "new_live_count": 12941,
+  "delta": -12,
   "total_overlay_entries": 13738,
-  "live_entries": 12981,
-  "promoted_from_legacy": 1680,
+  "live_entries": 12941,
+  "promoted_from_legacy": 1567,
   "body_sources": {
-    "rebuilt": 5958,
-    "manual_correction": 5432,
-    "legacy": 1556,
-    "overlay_direct": 35
+    "rebuilt": 5978,
+    "manual_correction": 5368,
+    "legacy": 1466,
+    "rebuilt_garbled": 93,
+    "overlay_direct": 36
   },
   "counts_by_entry_type": {
     "included": {
-      "verified_main": 10482,
-      "provisional_main": 320,
-      "legacy_retained": 1680,
-      "headword_corrected": 20,
-      "recovered_main": 257,
-      "subentry": 201,
+      "verified_main": 10436,
+      "headword_corrected": 169,
+      "provisional_main": 309,
+      "legacy_retained": 1567,
+      "subentry": 196,
       "reversed_polarity": 3,
+      "recovered_main": 243,
       "alias_variant": 15,
       "unmatched_keep": 3
     },
@@ -28,23 +29,96 @@
       "legacy_unresolved": 131,
       "appendix_abbrev": 154,
       "alias_phantom": 14,
-      "legacy_duplicate": 178,
-      "fragment_artifact": 259
+      "legacy_duplicate": 220,
+      "fragment_artifact": 257
     }
   },
   "types_in_live": {
-    "verified_main": 10482,
-    "provisional_main": 320,
-    "legacy_retained": 1680,
-    "headword_corrected": 20,
-    "recovered_main": 257,
-    "subentry": 201,
+    "verified_main": 10436,
+    "headword_corrected": 169,
+    "provisional_main": 309,
+    "legacy_retained": 1567,
+    "subentry": 196,
     "reversed_polarity": 3,
+    "recovered_main": 243,
     "alias_variant": 15,
     "unmatched_keep": 3
   },
-  "changes_this_build": [],
-  "summary": "Live corpus: 12981 entries (0 from previous build of 12981). 1680 legacy_unresolved entries promoted to legacy_retained.",
+  "changes_this_build": [
+    {
+      "id": "BLD2-00198",
+      "headword": "ACROACH",
+      "old_entry_type": "legacy_retained",
+      "new_entry_type": "legacy_duplicate"
+    },
+    {
+      "id": "BLD2-00199",
+      "headword": "ACROOCHER",
+      "old_entry_type": "legacy_retained",
+      "new_entry_type": "legacy_duplicate"
+    },
+    {
+      "id": "BLD2-01744",
+      "headword": "BRETTS AND SCOTTS, LAWS OF THE",
+      "old_entry_type": "legacy_retained",
+      "new_entry_type": "legacy_duplicate"
+    },
+    {
+      "id": "BLD2-03314",
+      "headword": "CYRCE",
+      "old_entry_type": "headword_corrected",
+      "new_entry_type": "legacy_duplicate"
+    },
+    {
+      "id": "BLD2-05019",
+      "headword": "FAMILIAE ERCISCUNDAE",
+      "old_entry_type": "headword_corrected",
+      "new_entry_type": "legacy_duplicate"
+    },
+    {
+      "id": "BLD2-05315",
+      "headword": "FLOTSAM",
+      "old_entry_type": "headword_corrected",
+      "new_entry_type": "legacy_duplicate"
+    },
+    {
+      "id": "BLD2-06447",
+      "headword": "HOSTILARIA",
+      "old_entry_type": "headword_corrected",
+      "new_entry_type": "legacy_duplicate"
+    },
+    {
+      "id": "BLD2-06586",
+      "headword": "IMAM",
+      "old_entry_type": "legacy_retained",
+      "new_entry_type": "legacy_duplicate"
+    },
+    {
+      "id": "BLD2-10671",
+      "headword": "RECEIVING STOLEN GOODS",
+      "old_entry_type": "headword_corrected",
+      "new_entry_type": "legacy_duplicate"
+    },
+    {
+      "id": "BLD2-11171",
+      "headword": "ROBERDSMEN",
+      "old_entry_type": "headword_corrected",
+      "new_entry_type": "legacy_duplicate"
+    },
+    {
+      "id": "BLD2-11623",
+      "headword": "SHEPWAY, COURT OF",
+      "old_entry_type": "headword_corrected",
+      "new_entry_type": "legacy_duplicate"
+    },
+    {
+      "id": "BLD2-12204",
+      "headword": "SUPERFETATION",
+      "old_entry_type": "legacy_retained",
+      "new_entry_type": "legacy_duplicate"
+    }
+  ],
+  "summary": "Live corpus: 12941 entries (-12 from previous build of 12953). 1567 legacy_unresolved entries promoted to legacy_retained. 12 entry classification(s) changed this build.",
   "entries": [
     {
       "id": "BLD2-00000",
@@ -64,9 +138,9 @@
     },
     {
       "id": "BLD2-00004",
-      "term": "A CONSILHOIS",
+      "term": "A CONSILIIS",
       "original_term": null,
-      "entry_type": "provisional_main",
+      "entry_type": "headword_corrected",
       "body_source": "rebuilt",
       "body_length": 150
     },
@@ -440,9 +514,9 @@
     },
     {
       "id": "BLD2-00059",
-      "term": "ABBAOCY",
+      "term": "ABBACY",
       "original_term": null,
-      "entry_type": "verified_main",
+      "entry_type": "headword_corrected",
       "body_source": "rebuilt",
       "body_length": 160
     },
@@ -864,9 +938,9 @@
     },
     {
       "id": "BLD2-00113",
-      "term": "ABSQUE HOO",
+      "term": "ABSQUE HOC",
       "original_term": null,
-      "entry_type": "verified_main",
+      "entry_type": "headword_corrected",
       "body_source": "rebuilt",
       "body_length": 353
     },
@@ -1056,11 +1130,11 @@
     },
     {
       "id": "BLD2-00138",
-      "term": "ACCESSORY OCONTRAOT",
+      "term": "ACCESSORY CONTRACT",
       "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "legacy",
-      "body_length": 514
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
+      "body_length": 535
     },
     {
       "id": "BLD2-00139",
@@ -1327,20 +1401,12 @@
       "body_length": 1167
     },
     {
-      "id": "BLD2-00172",
-      "term": "ACOCESSARY",
-      "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "legacy",
-      "body_length": 472
-    },
-    {
       "id": "BLD2-00173",
-      "term": "ACOCRESCERE",
+      "term": "ACCRESCERE",
       "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "legacy",
-      "body_length": 133
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
+      "body_length": 146
     },
     {
       "id": "BLD2-00175",
@@ -1352,19 +1418,19 @@
     },
     {
       "id": "BLD2-00176",
-      "term": "ACOIDERE",
+      "term": "ACCIDERE",
       "original_term": null,
-      "entry_type": "recovered_main",
-      "body_source": "manual_correction",
-      "body_length": 195
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
+      "body_length": 205
     },
     {
       "id": "BLD2-00177",
-      "term": "ACOION",
+      "term": "ACCION",
       "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "legacy",
-      "body_length": 307
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
+      "body_length": 315
     },
     {
       "id": "BLD2-00178",
@@ -1392,17 +1458,17 @@
     },
     {
       "id": "BLD2-00181",
-      "term": "ACOROACH",
+      "term": "ACROACH",
       "original_term": null,
-      "entry_type": "legacy_retained",
+      "entry_type": "headword_corrected",
       "body_source": "legacy",
-      "body_length": 295
+      "body_length": 290
     },
     {
       "id": "BLD2-00182",
-      "term": "ACOROOCHER",
+      "term": "ACROOCHER",
       "original_term": null,
-      "entry_type": "legacy_retained",
+      "entry_type": "headword_corrected",
       "body_source": "legacy",
       "body_length": 101
     },
@@ -1517,22 +1583,6 @@
       "entry_type": "legacy_retained",
       "body_source": "legacy",
       "body_length": 299
-    },
-    {
-      "id": "BLD2-00198",
-      "term": "ACROACH",
-      "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "legacy",
-      "body_length": 290
-    },
-    {
-      "id": "BLD2-00199",
-      "term": "ACROOCHER",
-      "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "legacy",
-      "body_length": 101
     },
     {
       "id": "BLD2-00200",
@@ -1720,11 +1770,11 @@
     },
     {
       "id": "BLD2-00224",
-      "term": "ACTON",
+      "term": "ACTON BURNELL, STATUTE OF",
       "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "legacy",
-      "body_length": 243
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
+      "body_length": 216
     },
     {
       "id": "BLD2-00225",
@@ -2160,11 +2210,11 @@
     },
     {
       "id": "BLD2-00279",
-      "term": "AD MEDIUM FILUM AQUI",
+      "term": "AD MEDIUM FILUM AQUÆ",
       "original_term": null,
-      "entry_type": "verified_main",
-      "body_source": "manual_correction",
-      "body_length": 35
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt",
+      "body_length": 90
     },
     {
       "id": "BLD2-00280",
@@ -2495,14 +2545,6 @@
       "body_length": 89
     },
     {
-      "id": "BLD2-00322",
-      "term": "ADIEU ADIEU, UL",
-      "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "legacy",
-      "body_length": 86
-    },
-    {
       "id": "BLD2-00323",
       "term": "ADIPOCERE",
       "original_term": null,
@@ -2592,9 +2634,9 @@
     },
     {
       "id": "BLD2-00334",
-      "term": "ADJOURNED",
+      "term": "ADJOURNED SUMMONS",
       "original_term": null,
-      "entry_type": "verified_main",
+      "entry_type": "headword_corrected",
       "body_source": "rebuilt",
       "body_length": 104
     },
@@ -2677,14 +2719,6 @@
       "entry_type": "verified_main",
       "body_source": "rebuilt",
       "body_length": 98
-    },
-    {
-      "id": "BLD2-00345",
-      "term": "ADJUNCTUM",
-      "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "legacy",
-      "body_length": 53
     },
     {
       "id": "BLD2-00346",
@@ -5432,11 +5466,11 @@
     },
     {
       "id": "BLD2-00700",
-      "term": "ALZ",
+      "term": "AISLE",
       "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "manual_correction",
-      "body_length": 67
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
+      "body_length": 65
     },
     {
       "id": "BLD2-00702",
@@ -5661,14 +5695,6 @@
       "entry_type": "verified_main",
       "body_source": "manual_correction",
       "body_length": 1377
-    },
-    {
-      "id": "BLD2-00733",
-      "term": "AMICUS",
-      "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "legacy",
-      "body_length": 790
     },
     {
       "id": "BLD2-00734",
@@ -5952,9 +5978,9 @@
     },
     {
       "id": "BLD2-00771",
-      "term": "ANCIENT Y",
+      "term": "ANCIENTY",
       "original_term": null,
-      "entry_type": "provisional_main",
+      "entry_type": "headword_corrected",
       "body_source": "rebuilt",
       "body_length": 433
     },
@@ -6583,22 +6609,6 @@
       "body_length": 248
     },
     {
-      "id": "BLD2-00853",
-      "term": "AOCCEDAS",
-      "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "legacy",
-      "body_length": 318
-    },
-    {
-      "id": "BLD2-00854",
-      "term": "AONTEMPT",
-      "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "manual_correction",
-      "body_length": 492
-    },
-    {
       "id": "BLD2-00856",
       "term": "APANAGE",
       "original_term": null,
@@ -6680,11 +6690,11 @@
     },
     {
       "id": "BLD2-00866",
-      "term": "APNCGA",
+      "term": "APNOEA",
       "original_term": null,
-      "entry_type": "verified_main",
-      "body_source": "manual_correction",
-      "body_length": 456
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt",
+      "body_length": 457
     },
     {
       "id": "BLD2-00867",
@@ -6704,10 +6714,10 @@
     },
     {
       "id": "BLD2-00869",
-      "term": "APOORISARIUS",
+      "term": "APOCRISARIUS",
       "original_term": null,
-      "entry_type": "recovered_main",
-      "body_source": "legacy",
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
       "body_length": 367
     },
     {
@@ -8256,11 +8266,11 @@
     },
     {
       "id": "BLD2-01076",
-      "term": "ARSZ ET PENSATZ",
+      "term": "ARSE ET PENSATA",
       "original_term": null,
-      "entry_type": "recovered_main",
-      "body_source": "legacy",
-      "body_length": 94
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
+      "body_length": 111
     },
     {
       "id": "BLD2-01077",
@@ -8320,11 +8330,11 @@
     },
     {
       "id": "BLD2-01084",
-      "term": "ARTICLES ARTICLES, WORDS OF",
+      "term": "ARTICLES, WORDS OF",
       "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "legacy",
-      "body_length": 91
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
+      "body_length": 120
     },
     {
       "id": "BLD2-01085",
@@ -8928,19 +8938,19 @@
     },
     {
       "id": "BLD2-01162",
-      "term": "ASTITRARIUS",
+      "term": "ASTITRARIUS HARES",
       "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "manual_correction",
-      "body_length": 157
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
+      "body_length": 139
     },
     {
       "id": "BLD2-01163",
-      "term": "ASTITRARIUS HAES",
+      "term": "ASTITRARIUS HÆRES",
       "original_term": null,
-      "entry_type": "verified_main",
-      "body_source": "manual_correction",
-      "body_length": 138
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt",
+      "body_length": 139
     },
     {
       "id": "BLD2-01164",
@@ -8970,7 +8980,7 @@
       "id": "BLD2-01167",
       "term": "ASTRICT",
       "original_term": null,
-      "entry_type": "legacy_retained",
+      "entry_type": "verified_main",
       "body_source": "manual_correction",
       "body_length": 46
     },
@@ -10088,11 +10098,11 @@
     },
     {
       "id": "BLD2-01320",
-      "term": "BABON",
+      "term": "BACON",
       "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "legacy",
-      "body_length": 778
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
+      "body_length": 784
     },
     {
       "id": "BLD2-01321",
@@ -12000,9 +12010,9 @@
     },
     {
       "id": "BLD2-01570",
-      "term": "BISANTIUM BISANTIUM, BESANTINE, BEZANT",
+      "term": "BISANTIUM, BESANTINE, BEZANT",
       "original_term": null,
-      "entry_type": "provisional_main",
+      "entry_type": "headword_corrected",
       "body_source": "rebuilt",
       "body_length": 189
     },
@@ -12152,11 +12162,11 @@
     },
     {
       "id": "BLD2-01591",
-      "term": "BLACK-ROD",
+      "term": "BLACK-ROD, GENTLEMAN USHER OF",
       "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "legacy",
-      "body_length": 182
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
+      "body_length": 162
     },
     {
       "id": "BLD2-01592",
@@ -13312,17 +13322,9 @@
     },
     {
       "id": "BLD2-01743",
-      "term": "BRETTS",
-      "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "manual_correction",
-      "body_length": 192
-    },
-    {
-      "id": "BLD2-01744",
       "term": "BRETTS AND SCOTTS, LAWS OF THE",
       "original_term": null,
-      "entry_type": "legacy_retained",
+      "entry_type": "headword_corrected",
       "body_source": "legacy",
       "body_length": 160
     },
@@ -13560,11 +13562,11 @@
     },
     {
       "id": "BLD2-01776",
-      "term": "BROCARIUS BROCARIUS, BROCATOR",
+      "term": "BROCARIUS, BROCATOR",
       "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "legacy",
-      "body_length": 131
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
+      "body_length": 162
     },
     {
       "id": "BLD2-01777",
@@ -13672,10 +13674,10 @@
     },
     {
       "id": "BLD2-01790",
-      "term": "BRUTUM",
+      "term": "BRUTUM FULMEN",
       "original_term": null,
-      "entry_type": "verified_main",
-      "body_source": "manual_correction",
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt",
       "body_length": 32
     },
     {
@@ -14120,11 +14122,11 @@
     },
     {
       "id": "BLD2-01848",
-      "term": "BUSONES",
+      "term": "BUSONES COMITATUS",
       "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "manual_correction",
-      "body_length": 62
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
+      "body_length": 44
     },
     {
       "id": "BLD2-01849",
@@ -14157,14 +14159,6 @@
       "entry_type": "verified_main",
       "body_source": "rebuilt",
       "body_length": 59
-    },
-    {
-      "id": "BLD2-01853",
-      "term": "BUTTED",
-      "original_term": null,
-      "entry_type": "subentry",
-      "body_source": "legacy",
-      "body_length": 120
     },
     {
       "id": "BLD2-01854",
@@ -14367,14 +14361,6 @@
       "body_length": 196
     },
     {
-      "id": "BLD2-01894",
-      "term": "CADASTU",
-      "original_term": null,
-      "entry_type": "verified_main",
-      "body_source": "manual_correction",
-      "body_length": 129
-    },
-    {
       "id": "BLD2-01895",
       "term": "CADAVER",
       "original_term": null,
@@ -14448,11 +14434,11 @@
     },
     {
       "id": "BLD2-01905",
-      "term": "CAETERUS",
+      "term": "CÆTERUS",
       "original_term": null,
-      "entry_type": "verified_main",
-      "body_source": "manual_correction",
-      "body_length": 344
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt",
+      "body_length": 345
     },
     {
       "id": "BLD2-01906",
@@ -15464,11 +15450,11 @@
     },
     {
       "id": "BLD2-02036",
-      "term": "CART BOOT",
+      "term": "CART BOTE",
       "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "legacy",
-      "body_length": 175
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
+      "body_length": 186
     },
     {
       "id": "BLD2-02037",
@@ -15621,14 +15607,6 @@
       "entry_type": "provisional_main",
       "body_source": "rebuilt",
       "body_length": 803
-    },
-    {
-      "id": "BLD2-02057",
-      "term": "CASHLITE",
-      "original_term": null,
-      "entry_type": "provisional_main",
-      "body_source": "rebuilt",
-      "body_length": 73
     },
     {
       "id": "BLD2-02058",
@@ -16232,9 +16210,9 @@
     },
     {
       "id": "BLD2-02134",
-      "term": "CENELLZE",
+      "term": "CENELLÆ",
       "original_term": null,
-      "entry_type": "verified_main",
+      "entry_type": "headword_corrected",
       "body_source": "rebuilt",
       "body_length": 23
     },
@@ -17608,11 +17586,11 @@
     },
     {
       "id": "BLD2-02318",
-      "term": "CHOP-OCOHUROH",
+      "term": "CHOP-CHURCH",
       "original_term": null,
-      "entry_type": "verified_main",
-      "body_source": "manual_correction",
-      "body_length": 340
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt",
+      "body_length": 401
     },
     {
       "id": "BLD2-02319",
@@ -17664,11 +17642,11 @@
     },
     {
       "id": "BLD2-02325",
-      "term": "CHRE",
+      "term": "CHRE PLACITANDO",
       "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "manual_correction",
-      "body_length": 89
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
+      "body_length": 171
     },
     {
       "id": "BLD2-02326",
@@ -17784,9 +17762,9 @@
     },
     {
       "id": "BLD2-02343",
-      "term": "CINQUE",
+      "term": "CINQUE PORTS",
       "original_term": null,
-      "entry_type": "verified_main",
+      "entry_type": "headword_corrected",
       "body_source": "rebuilt",
       "body_length": 785
     },
@@ -17805,14 +17783,6 @@
       "entry_type": "legacy_retained",
       "body_source": "legacy",
       "body_length": 117
-    },
-    {
-      "id": "BLD2-02346",
-      "term": "CIRC",
-      "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "legacy",
-      "body_length": 325
     },
     {
       "id": "BLD2-02347",
@@ -17864,11 +17834,11 @@
     },
     {
       "id": "BLD2-02353",
-      "term": "CIRCUITUS",
+      "term": "CIRCUITUS EST EVITANDUS",
       "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "manual_correction",
-      "body_length": 249
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
+      "body_length": 250
     },
     {
       "id": "BLD2-02354",
@@ -18888,11 +18858,11 @@
     },
     {
       "id": "BLD2-02487",
-      "term": "COGNATYI",
+      "term": "COGNATI",
       "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "legacy",
-      "body_length": 174
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
+      "body_length": 184
     },
     {
       "id": "BLD2-02488",
@@ -19560,10 +19530,10 @@
     },
     {
       "id": "BLD2-02572",
-      "term": "COMMANDMERT",
+      "term": "COMMANDMENT",
       "original_term": null,
-      "entry_type": "verified_main",
-      "body_source": "manual_correction",
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt",
       "body_length": 380
     },
     {
@@ -20016,11 +19986,11 @@
     },
     {
       "id": "BLD2-02630",
-      "term": "COMMUNILY",
+      "term": "COMMUNES",
       "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "legacy",
-      "body_length": 107
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
+      "body_length": 118
     },
     {
       "id": "BLD2-02631",
@@ -22312,11 +22282,11 @@
     },
     {
       "id": "BLD2-02928",
-      "term": "CONTENTMENT",
+      "term": "CONTENTEMENT",
       "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "legacy",
-      "body_length": 244
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
+      "body_length": 257
     },
     {
       "id": "BLD2-02929",
@@ -22368,11 +22338,11 @@
     },
     {
       "id": "BLD2-02936",
-      "term": "CONTINENOCIA",
+      "term": "CONTINENCIA",
       "original_term": null,
-      "entry_type": "verified_main",
-      "body_source": "manual_correction",
-      "body_length": 103
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt",
+      "body_length": 102
     },
     {
       "id": "BLD2-02937",
@@ -23079,14 +23049,6 @@
       "body_length": 425
     },
     {
-      "id": "BLD2-03026",
-      "term": "COOPERIO",
-      "original_term": null,
-      "entry_type": "provisional_main",
-      "body_source": "rebuilt",
-      "body_length": 649
-    },
-    {
       "id": "BLD2-03027",
       "term": "COOPERTIO",
       "original_term": null,
@@ -23520,10 +23482,10 @@
     },
     {
       "id": "BLD2-03081",
-      "term": "CORREOCTOR",
+      "term": "CORRECTOR",
       "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "legacy",
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
       "body_length": 136
     },
     {
@@ -24120,10 +24082,10 @@
     },
     {
       "id": "BLD2-03159",
-      "term": "COURTS OF ASSIZE AND NISI PRIUS",
+      "term": "COURTS OF CINQUE PORTS",
       "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "legacy",
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
       "body_length": 192
     },
     {
@@ -24464,10 +24426,10 @@
     },
     {
       "id": "BLD2-03203",
-      "term": "CREMENTUM",
+      "term": "CREMENTUM COMITATUS",
       "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "manual_correction",
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
       "body_length": 195
     },
     {
@@ -25200,11 +25162,11 @@
     },
     {
       "id": "BLD2-03301",
-      "term": "CUTH",
+      "term": "CUTH / COUTH",
       "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "manual_correction",
-      "body_length": 69
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
+      "body_length": 84
     },
     {
       "id": "BLD2-03302",
@@ -25293,14 +25255,6 @@
       "entry_type": "legacy_retained",
       "body_source": "manual_correction",
       "body_length": 530
-    },
-    {
-      "id": "BLD2-03314",
-      "term": "CYROCE",
-      "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "manual_correction",
-      "body_length": 328
     },
     {
       "id": "BLD2-03315",
@@ -25727,19 +25681,11 @@
       "body_length": 129
     },
     {
-      "id": "BLD2-03374",
-      "term": "DB",
-      "original_term": null,
-      "entry_type": "verified_main",
-      "body_source": "rebuilt",
-      "body_length": 125
-    },
-    {
       "id": "BLD2-03375",
-      "term": "DBS",
+      "term": "DE FIDE ET OFFICIO JUDICIS",
       "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "legacy",
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
       "body_length": 989
     },
     {
@@ -26624,11 +26570,11 @@
     },
     {
       "id": "BLD2-03487",
-      "term": "DECBEET",
+      "term": "DECBREET",
       "original_term": null,
-      "entry_type": "recovered_main",
-      "body_source": "legacy",
-      "body_length": 31
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
+      "body_length": 40
     },
     {
       "id": "BLD2-03488",
@@ -32039,20 +31985,12 @@
       "body_length": 104
     },
     {
-      "id": "BLD2-04182",
-      "term": "DULPEX",
-      "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "manual_correction",
-      "body_length": 553
-    },
-    {
       "id": "BLD2-04183",
-      "term": "DULPEX VALOR MARITAGII",
+      "term": "DUPLEX VALOR MARITAGII",
       "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "legacy",
-      "body_length": 528
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
+      "body_length": 552
     },
     {
       "id": "BLD2-04184",
@@ -32736,11 +32674,11 @@
     },
     {
       "id": "BLD2-04283",
-      "term": "ECOLESIARCH",
+      "term": "ECCLESIARCH",
       "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "manual_correction",
-      "body_length": 22
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
+      "body_length": 133
     },
     {
       "id": "BLD2-04285",
@@ -32760,7 +32698,7 @@
     },
     {
       "id": "BLD2-04287",
-      "term": "ECCLESIS",
+      "term": "ECCLESIAE",
       "original_term": "ECOLESIS",
       "entry_type": "headword_corrected",
       "body_source": "legacy",
@@ -34128,11 +34066,11 @@
     },
     {
       "id": "BLD2-04465",
-      "term": "ENDA",
+      "term": "ENDA IN SCACCARIO",
       "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "legacy",
-      "body_length": 304
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
+      "body_length": 285
     },
     {
       "id": "BLD2-04466",
@@ -34688,11 +34626,11 @@
     },
     {
       "id": "BLD2-04536",
-      "term": "EODIOUS",
+      "term": "ECDICUS",
       "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "legacy",
-      "body_length": 131
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
+      "body_length": 140
     },
     {
       "id": "BLD2-04537",
@@ -36392,11 +36330,11 @@
     },
     {
       "id": "BLD2-04758",
-      "term": "EXCOMMUNIOCATO",
+      "term": "EXCOMMUNICATO",
       "original_term": null,
-      "entry_type": "subentry",
+      "entry_type": "headword_corrected",
       "body_source": "legacy",
-      "body_length": 296
+      "body_length": 796
     },
     {
       "id": "BLD2-04759",
@@ -36776,11 +36714,11 @@
     },
     {
       "id": "BLD2-04809",
-      "term": "EXHERES",
+      "term": "EXHAERES",
       "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "legacy",
-      "body_length": 52
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
+      "body_length": 61
     },
     {
       "id": "BLD2-04810",
@@ -38288,9 +38226,9 @@
     },
     {
       "id": "BLD2-05015",
-      "term": "FAMAOCIDE",
+      "term": "FAMACIDE",
       "original_term": null,
-      "entry_type": "verified_main",
+      "entry_type": "headword_corrected",
       "body_source": "rebuilt",
       "body_length": 36
     },
@@ -38305,14 +38243,6 @@
     {
       "id": "BLD2-05018",
       "term": "FAMILIAE ERCISCUNDAE",
-      "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "manual_correction",
-      "body_length": 258
-    },
-    {
-      "id": "BLD2-05019",
-      "term": "FAMILIARERCISCUNDA",
       "original_term": null,
       "entry_type": "legacy_retained",
       "body_source": "manual_correction",
@@ -38368,11 +38298,11 @@
     },
     {
       "id": "BLD2-05028",
-      "term": "FAOCTA",
+      "term": "FACTA",
       "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "manual_correction",
-      "body_length": 105
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
+      "body_length": 353
     },
     {
       "id": "BLD2-05030",
@@ -39352,11 +39282,11 @@
     },
     {
       "id": "BLD2-05160",
-      "term": "FERZ NATURE",
+      "term": "FERÆ NATURÆ",
       "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "legacy",
-      "body_length": 315
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
+      "body_length": 328
     },
     {
       "id": "BLD2-05161",
@@ -39552,11 +39482,11 @@
     },
     {
       "id": "BLD2-05185",
-      "term": "FI",
+      "term": "FI. FA.",
       "original_term": null,
-      "entry_type": "verified_main",
-      "body_source": "manual_correction",
-      "body_length": 51
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt",
+      "body_length": 50
     },
     {
       "id": "BLD2-05186",
@@ -39789,14 +39719,6 @@
       "entry_type": "verified_main",
       "body_source": "manual_correction",
       "body_length": 156
-    },
-    {
-      "id": "BLD2-05216",
-      "term": "FIERDING",
-      "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "legacy",
-      "body_length": 1476
     },
     {
       "id": "BLD2-05217",
@@ -40583,14 +40505,6 @@
       "body_length": 218
     },
     {
-      "id": "BLD2-05315",
-      "term": "FLOTSAM FLOTSAM, FLOTSAM",
-      "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "legacy",
-      "body_length": 209
-    },
-    {
       "id": "BLD2-05316",
       "term": "FLOUD-MARKE",
       "original_term": null,
@@ -41200,11 +41114,11 @@
     },
     {
       "id": "BLD2-05397",
-      "term": "FORENSIO",
+      "term": "FORENSIC",
       "original_term": null,
-      "entry_type": "verified_main",
-      "body_source": "manual_correction",
-      "body_length": 625
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt",
+      "body_length": 626
     },
     {
       "id": "BLD2-05398",
@@ -42368,11 +42282,11 @@
     },
     {
       "id": "BLD2-05547",
-      "term": "FPARDING-DEAL",
+      "term": "FOARDING-DEAL",
       "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "manual_correction",
-      "body_length": 44
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
+      "body_length": 294
     },
     {
       "id": "BLD2-05548",
@@ -42813,14 +42727,6 @@
       "entry_type": "verified_main",
       "body_source": "manual_correction",
       "body_length": 119
-    },
-    {
-      "id": "BLD2-05605",
-      "term": "FRETTUM",
-      "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "legacy",
-      "body_length": 74
     },
     {
       "id": "BLD2-05606",
@@ -46344,10 +46250,10 @@
     },
     {
       "id": "BLD2-06079",
-      "term": "HAEARETICO",
+      "term": "HAERETICO",
       "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "legacy",
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
       "body_length": 358
     },
     {
@@ -47304,11 +47210,11 @@
     },
     {
       "id": "BLD2-06204",
-      "term": "HEC",
+      "term": "HEC EST CONVENTIO",
       "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "legacy",
-      "body_length": 120
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
+      "body_length": 101
     },
     {
       "id": "BLD2-06205",
@@ -47536,11 +47442,11 @@
     },
     {
       "id": "BLD2-06233",
-      "term": "HEORDFZATE",
+      "term": "HEORDFATE",
       "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "legacy",
-      "body_length": 214
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
+      "body_length": 226
     },
     {
       "id": "BLD2-06234",
@@ -48920,11 +48826,11 @@
     },
     {
       "id": "BLD2-06412",
-      "term": "HOOCUS",
+      "term": "HOOCUS SALT",
       "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "manual_correction",
-      "body_length": 57
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
+      "body_length": 44
     },
     {
       "id": "BLD2-06413",
@@ -49197,14 +49103,6 @@
       "entry_type": "legacy_retained",
       "body_source": "legacy",
       "body_length": 97
-    },
-    {
-      "id": "BLD2-06447",
-      "term": "HOSTILARIA HOSTILARIA, HOSPITALARIA",
-      "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "legacy",
-      "body_length": 83
     },
     {
       "id": "BLD2-06448",
@@ -50205,14 +50103,6 @@
       "entry_type": "verified_main",
       "body_source": "manual_correction",
       "body_length": 283
-    },
-    {
-      "id": "BLD2-06586",
-      "term": "IMAM",
-      "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "legacy",
-      "body_length": 112
     },
     {
       "id": "BLD2-06587",
@@ -51824,11 +51714,11 @@
     },
     {
       "id": "BLD2-06791",
-      "term": "INDISTER",
+      "term": "INDISTANTER",
       "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "legacy",
-      "body_length": 121
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
+      "body_length": 131
     },
     {
       "id": "BLD2-06792",
@@ -52608,11 +52498,11 @@
     },
     {
       "id": "BLD2-06892",
-      "term": "INITIALIA TESTIMONTI",
+      "term": "INITIALIA TESTIMONII",
       "original_term": null,
-      "entry_type": "verified_main",
-      "body_source": "manual_correction",
-      "body_length": 385
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt",
+      "body_length": 389
     },
     {
       "id": "BLD2-06893",
@@ -52928,11 +52818,11 @@
     },
     {
       "id": "BLD2-06932",
-      "term": "INNUMINATE",
+      "term": "INNUINATE",
       "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "legacy",
-      "body_length": 241
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
+      "body_length": 253
     },
     {
       "id": "BLD2-06933",
@@ -54744,11 +54634,11 @@
     },
     {
       "id": "BLD2-07162",
-      "term": "IRRREGULAR",
+      "term": "IRREGULAR",
       "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "legacy",
-      "body_length": 189
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
+      "body_length": 201
     },
     {
       "id": "BLD2-07164",
@@ -54808,43 +54698,43 @@
     },
     {
       "id": "BLD2-07171",
-      "term": "ISSUE LEX SCRIPTA EST",
+      "term": "ITA LEX SCRIPTA EST",
       "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "legacy",
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
       "body_length": 237
     },
     {
       "id": "BLD2-07172",
-      "term": "ISSUE QUOD",
+      "term": "ITA QUOD",
       "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "legacy",
-      "body_length": 674
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
+      "body_length": 686
     },
     {
       "id": "BLD2-07173",
-      "term": "ISSUE TE DEUS ADJUVET",
+      "term": "ITA TE DEUS ADJUVET",
       "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "manual_correction",
-      "body_length": 517
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
+      "body_length": 516
     },
     {
       "id": "BLD2-07174",
-      "term": "ISSUE TE DEUS ADJUVET ET OMNES SANCTI",
+      "term": "ITA TE DEUS ADJUVET ET OMNES SANCTI",
       "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "legacy",
-      "body_length": 48
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
+      "body_length": 87
     },
     {
       "id": "BLD2-07175",
-      "term": "ISSUE UTERE TUO UT ALIENUM NON LAEDEAS",
+      "term": "ITA UTERE TUO UT ALIENUM NON LAEDEAS",
       "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "legacy",
-      "body_length": 178
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
+      "body_length": 218
     },
     {
       "id": "BLD2-07176",
@@ -54928,11 +54818,11 @@
     },
     {
       "id": "BLD2-07187",
-      "term": "ITRENARCHA",
+      "term": "IRENARCH",
       "original_term": null,
-      "entry_type": "recovered_main",
-      "body_source": "legacy",
-      "body_length": 146
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
+      "body_length": 158
     },
     {
       "id": "BLD2-07200",
@@ -55317,14 +55207,6 @@
       "entry_type": "legacy_retained",
       "body_source": "legacy",
       "body_length": 70
-    },
-    {
-      "id": "BLD2-07248",
-      "term": "JOOCUS",
-      "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "legacy",
-      "body_length": 53
     },
     {
       "id": "BLD2-07249",
@@ -56256,9 +56138,9 @@
     },
     {
       "id": "BLD2-07379",
-      "term": "KEELHALE KEELHALE, KEELHAUL",
+      "term": "KEELHAUL",
       "original_term": null,
-      "entry_type": "provisional_main",
+      "entry_type": "headword_corrected",
       "body_source": "rebuilt",
       "body_length": 143
     },
@@ -56288,17 +56170,17 @@
     },
     {
       "id": "BLD2-07384",
-      "term": "KENILWORTH",
+      "term": "KENILWORTH DICTUM",
       "original_term": null,
-      "entry_type": "verified_main",
-      "body_source": "manual_correction",
-      "body_length": 334
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt",
+      "body_length": 335
     },
     {
       "id": "BLD2-07385",
-      "term": "KENNING",
+      "term": "KENNING TO A TERCE",
       "original_term": null,
-      "entry_type": "provisional_main",
+      "entry_type": "headword_corrected",
       "body_source": "rebuilt",
       "body_length": 161
     },
@@ -56320,9 +56202,9 @@
     },
     {
       "id": "BLD2-07388",
-      "term": "KENTUCKY",
+      "term": "KENTUCKY RESOLUTIONS",
       "original_term": null,
-      "entry_type": "verified_main",
+      "entry_type": "headword_corrected",
       "body_source": "rebuilt",
       "body_length": 307
     },
@@ -56488,11 +56370,11 @@
     },
     {
       "id": "BLD2-07409",
-      "term": "KING'S",
+      "term": "KING'S EVIDENCE",
       "original_term": null,
-      "entry_type": "verified_main",
-      "body_source": "manual_correction",
-      "body_length": 241
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt",
+      "body_length": 647
     },
     {
       "id": "BLD2-07410",
@@ -56504,11 +56386,11 @@
     },
     {
       "id": "BLD2-07411",
-      "term": "KINGS-AT-ABRMS",
+      "term": "KINGS-AT-ARMS",
       "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "manual_correction",
-      "body_length": 439
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
+      "body_length": 464
     },
     {
       "id": "BLD2-07412",
@@ -56856,11 +56738,11 @@
     },
     {
       "id": "BLD2-07473",
-      "term": "LADING LADING, BILL OF",
+      "term": "LADING, BILL OF",
       "original_term": null,
-      "entry_type": "provisional_main",
-      "body_source": "manual_correction",
-      "body_length": 9
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
+      "body_length": 8
     },
     {
       "id": "BLD2-07474",
@@ -56968,11 +56850,11 @@
     },
     {
       "id": "BLD2-07490",
-      "term": "LAHMAN",
+      "term": "LAHMAN, or LAGEMANNUS",
       "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "manual_correction",
-      "body_length": 58
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
+      "body_length": 67
     },
     {
       "id": "BLD2-07491",
@@ -57763,7 +57645,7 @@
       "term": "LAUS",
       "original_term": null,
       "entry_type": "subentry",
-      "body_source": "legacy",
+      "body_source": "manual_correction",
       "body_length": 70
     },
     {
@@ -60224,11 +60106,11 @@
     },
     {
       "id": "BLD2-07921",
-      "term": "LOOCULUS",
+      "term": "LOCULUS",
       "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "legacy",
-      "body_length": 35
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
+      "body_length": 45
     },
     {
       "id": "BLD2-07922",
@@ -60768,9 +60650,9 @@
     },
     {
       "id": "BLD2-08002",
-      "term": "MAGIG",
+      "term": "MAGIC",
       "original_term": null,
-      "entry_type": "verified_main",
+      "entry_type": "headword_corrected",
       "body_source": "rebuilt",
       "body_length": 46
     },
@@ -62088,19 +61970,19 @@
     },
     {
       "id": "BLD2-08172",
-      "term": "MAOE-GREFF",
+      "term": "MACE-GREFF",
       "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "legacy",
-      "body_length": 97
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
+      "body_length": 109
     },
     {
       "id": "BLD2-08173",
-      "term": "MAOULARE",
+      "term": "MACULARE",
       "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "manual_correction",
-      "body_length": 39
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
+      "body_length": 46
     },
     {
       "id": "BLD2-08174",
@@ -66240,27 +66122,27 @@
     },
     {
       "id": "BLD2-08714",
-      "term": "MZC-BURGH",
+      "term": "MÆG-BURGH",
       "original_term": null,
-      "entry_type": "recovered_main",
-      "body_source": "legacy",
-      "body_length": 28
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
+      "body_length": 39
     },
     {
       "id": "BLD2-08715",
-      "term": "MZGBOTE",
+      "term": "MÆGBOTE",
       "original_term": null,
-      "entry_type": "recovered_main",
-      "body_source": "legacy",
-      "body_length": 91
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
+      "body_length": 100
     },
     {
       "id": "BLD2-08717",
-      "term": "MZREMIUM",
+      "term": "MÆREMIUM",
       "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "legacy",
-      "body_length": 45
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
+      "body_length": 55
     },
     {
       "id": "BLD2-08727",
@@ -66416,9 +66298,9 @@
     },
     {
       "id": "BLD2-08752",
-      "term": "NASOITURUS",
+      "term": "NASCITURUS",
       "original_term": null,
-      "entry_type": "verified_main",
+      "entry_type": "headword_corrected",
       "body_source": "rebuilt",
       "body_length": 173
     },
@@ -66520,11 +66402,11 @@
     },
     {
       "id": "BLD2-08766",
-      "term": "NATURALE",
+      "term": "NATURALE EST QUIDLIBET",
       "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "manual_correction",
-      "body_length": 22
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
+      "body_length": 857
     },
     {
       "id": "BLD2-08767",
@@ -67048,11 +66930,11 @@
     },
     {
       "id": "BLD2-08834",
-      "term": "NEGOTIORUM",
+      "term": "NEGOTIORUM GESTOR",
       "original_term": null,
-      "entry_type": "verified_main",
-      "body_source": "manual_correction",
-      "body_length": 468
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt",
+      "body_length": 467
     },
     {
       "id": "BLD2-08835",
@@ -67144,11 +67026,11 @@
     },
     {
       "id": "BLD2-08847",
-      "term": "NEPUOY",
+      "term": "NEPVOY",
       "original_term": null,
-      "entry_type": "verified_main",
-      "body_source": "manual_correction",
-      "body_length": 34
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt",
+      "body_length": 2071
     },
     {
       "id": "BLD2-08850",
@@ -67687,14 +67569,6 @@
       "body_length": 89
     },
     {
-      "id": "BLD2-08921",
-      "term": "NON-ASSESSA",
-      "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "legacy",
-      "body_length": 67
-    },
-    {
       "id": "BLD2-08922",
       "term": "NON-ASSESSABLE",
       "original_term": null,
@@ -67960,11 +67834,11 @@
     },
     {
       "id": "BLD2-08956",
-      "term": "NONSE ET DECIMAE",
+      "term": "NONAE ET DECIMAE",
       "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "legacy",
-      "body_length": 191
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
+      "body_length": 209
     },
     {
       "id": "BLD2-08957",
@@ -68040,9 +67914,9 @@
     },
     {
       "id": "BLD2-08967",
-      "term": "NOT",
+      "term": "NOT PROVEN",
       "original_term": null,
-      "entry_type": "provisional_main",
+      "entry_type": "headword_corrected",
       "body_source": "rebuilt",
       "body_length": 133
     },
@@ -68176,11 +68050,11 @@
     },
     {
       "id": "BLD2-08985",
-      "term": "NOVA",
+      "term": "NOVA STATUTA",
       "original_term": null,
-      "entry_type": "provisional_main",
-      "body_source": "manual_correction",
-      "body_length": 150
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt",
+      "body_length": 152
     },
     {
       "id": "BLD2-08986",
@@ -68591,6 +68465,14 @@
       "body_length": 185
     },
     {
+      "id": "BLD2-09043",
+      "term": "N.",
+      "original_term": null,
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
+      "body_length": 218
+    },
+    {
       "id": "BLD2-09052",
       "term": "OATH",
       "original_term": null,
@@ -68960,11 +68842,11 @@
     },
     {
       "id": "BLD2-09098",
-      "term": "OBZ,RATUS",
+      "term": "OBRATUS",
       "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "legacy",
-      "body_length": 116
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
+      "body_length": 127
     },
     {
       "id": "BLD2-09099",
@@ -69480,9 +69362,9 @@
     },
     {
       "id": "BLD2-09174",
-      "term": "ONERARI",
+      "term": "ONERARI NON",
       "original_term": null,
-      "entry_type": "verified_main",
+      "entry_type": "headword_corrected",
       "body_source": "rebuilt",
       "body_length": 115
     },
@@ -72575,14 +72457,6 @@
       "body_length": 145
     },
     {
-      "id": "BLD2-09590",
-      "term": "PELONIOUSLY",
-      "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "legacy",
-      "body_length": 433
-    },
-    {
       "id": "BLD2-09591",
       "term": "PELT-WOOL",
       "original_term": null,
@@ -72616,11 +72490,11 @@
     },
     {
       "id": "BLD2-09595",
-      "term": "PENDENOY",
+      "term": "PENDENCY",
       "original_term": null,
-      "entry_type": "verified_main",
-      "body_source": "manual_correction",
-      "body_length": 149
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt",
+      "body_length": 408
     },
     {
       "id": "BLD2-09596",
@@ -72960,11 +72834,11 @@
     },
     {
       "id": "BLD2-09638",
-      "term": "PERICULUS",
+      "term": "PERICULOSUS",
       "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "legacy",
-      "body_length": 516
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
+      "body_length": 527
     },
     {
       "id": "BLD2-09639",
@@ -73736,11 +73610,11 @@
     },
     {
       "id": "BLD2-09740",
-      "term": "PIGNORIS",
+      "term": "PIGNORIS CAPIO",
       "original_term": null,
-      "entry_type": "verified_main",
-      "body_source": "manual_correction",
-      "body_length": 481
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt",
+      "body_length": 653
     },
     {
       "id": "BLD2-09741",
@@ -74336,10 +74210,10 @@
     },
     {
       "id": "BLD2-09819",
-      "term": "PLEGIK",
+      "term": "PLEGII",
       "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "manual_correction",
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
       "body_length": 182
     },
     {
@@ -74552,11 +74426,11 @@
     },
     {
       "id": "BLD2-09847",
-      "term": "PO",
+      "term": "PO. LO. SUO.",
       "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "legacy",
-      "body_length": 128
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
+      "body_length": 132
     },
     {
       "id": "BLD2-09848",
@@ -74944,19 +74818,19 @@
     },
     {
       "id": "BLD2-09896",
-      "term": "PORMIDO",
+      "term": "FORMIDO",
       "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "manual_correction",
-      "body_length": 56
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
+      "body_length": 48
     },
     {
       "id": "BLD2-09897",
-      "term": "PORMIDO PERIOLI",
+      "term": "FORMIDO PERICULI",
       "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "manual_correction",
-      "body_length": 37
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
+      "body_length": 46
     },
     {
       "id": "BLD2-09898",
@@ -75832,19 +75706,19 @@
     },
     {
       "id": "BLD2-10011",
-      "term": "PRAMIUM",
+      "term": "PRAEMIUM",
       "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "legacy",
-      "body_length": 618
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
+      "body_length": 627
     },
     {
       "id": "BLD2-10012",
-      "term": "PRANOMEN",
+      "term": "PRAENOMEN",
       "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "legacy",
-      "body_length": 242
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
+      "body_length": 252
     },
     {
       "id": "BLD2-10014",
@@ -75912,9 +75786,9 @@
     },
     {
       "id": "BLD2-10022",
-      "term": "PREAPPOINTED",
+      "term": "PREAPPOINTED EVIDENCE",
       "original_term": null,
-      "entry_type": "verified_main",
+      "entry_type": "headword_corrected",
       "body_source": "rebuilt",
       "body_length": 263
     },
@@ -76016,9 +75890,9 @@
     },
     {
       "id": "BLD2-10035",
-      "term": "PRECINOT",
+      "term": "PRECINCT",
       "original_term": null,
-      "entry_type": "verified_main",
+      "entry_type": "headword_corrected",
       "body_source": "rebuilt",
       "body_length": 296
     },
@@ -76072,9 +75946,9 @@
     },
     {
       "id": "BLD2-10042",
-      "term": "PRECONTRAOT",
+      "term": "PRECONTRACT",
       "original_term": null,
-      "entry_type": "verified_main",
+      "entry_type": "headword_corrected",
       "body_source": "rebuilt",
       "body_length": 190
     },
@@ -76213,14 +76087,6 @@
       "entry_type": "verified_main",
       "body_source": "manual_correction",
       "body_length": 1329
-    },
-    {
-      "id": "BLD2-10062",
-      "term": "PREMUNIRE",
-      "original_term": null,
-      "entry_type": "verified_main",
-      "body_source": "rebuilt",
-      "body_length": 82
     },
     {
       "id": "BLD2-10063",
@@ -76632,10 +76498,10 @@
     },
     {
       "id": "BLD2-10115",
-      "term": "PRIM",
+      "term": "PRIMA IMPRESSIONIS",
       "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "legacy",
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
       "body_length": 246
     },
     {
@@ -77736,9 +77602,9 @@
     },
     {
       "id": "BLD2-10258",
-      "term": "PRONUNOIATION",
+      "term": "PRONUNCIATION",
       "original_term": null,
-      "entry_type": "verified_main",
+      "entry_type": "headword_corrected",
       "body_source": "rebuilt",
       "body_length": 36
     },
@@ -78048,11 +77914,11 @@
     },
     {
       "id": "BLD2-10302",
-      "term": "PROSEOCUTOR",
+      "term": "PROSECUTOR",
       "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "legacy",
-      "body_length": 824
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
+      "body_length": 837
     },
     {
       "id": "BLD2-10303",
@@ -78440,9 +78306,9 @@
     },
     {
       "id": "BLD2-10352",
-      "term": "PSEUDOOYESIS",
+      "term": "PSEUDOCYESIS",
       "original_term": null,
-      "entry_type": "verified_main",
+      "entry_type": "headword_corrected",
       "body_source": "rebuilt",
       "body_length": 165
     },
@@ -78536,11 +78402,11 @@
     },
     {
       "id": "BLD2-10364",
-      "term": "PUBLIOCIANA",
+      "term": "PUBLICIANA",
       "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "legacy",
-      "body_length": 262
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
+      "body_length": 275
     },
     {
       "id": "BLD2-10365",
@@ -79240,11 +79106,11 @@
     },
     {
       "id": "BLD2-10457",
-      "term": "QUALIFIED WORTER",
+      "term": "QUALIFIED",
       "original_term": null,
-      "entry_type": "verified_main",
-      "body_source": "manual_correction",
-      "body_length": 993
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt",
+      "body_length": 1565
     },
     {
       "id": "BLD2-10458",
@@ -79464,10 +79330,10 @@
     },
     {
       "id": "BLD2-10486",
-      "term": "QUARTO",
+      "term": "QUARTO DIE",
       "original_term": null,
-      "entry_type": "verified_main",
-      "body_source": "manual_correction",
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt",
       "body_length": 181
     },
     {
@@ -80655,14 +80521,6 @@
       "body_length": 887
     },
     {
-      "id": "BLD2-10652",
-      "term": "REBUTTABLE",
-      "original_term": null,
-      "entry_type": "subentry",
-      "body_source": "legacy",
-      "body_length": 245
-    },
-    {
       "id": "BLD2-10653",
       "term": "REBUTTABLE PRESUMPTION",
       "original_term": null,
@@ -80805,14 +80663,6 @@
       "entry_type": "verified_main",
       "body_source": "rebuilt",
       "body_length": 71
-    },
-    {
-      "id": "BLD2-10671",
-      "term": "RECHIVING",
-      "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "manual_correction",
-      "body_length": 22
     },
     {
       "id": "BLD2-10672",
@@ -82488,10 +82338,10 @@
     },
     {
       "id": "BLD2-10887",
-      "term": "REMONSTRAWNCE",
+      "term": "REMONSTRANCE",
       "original_term": null,
-      "entry_type": "verified_main",
-      "body_source": "manual_correction",
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt",
       "body_length": 320
     },
     {
@@ -82704,11 +82554,11 @@
     },
     {
       "id": "BLD2-10916",
-      "term": "REPARWAMENTO",
+      "term": "REPARTAMIENTO",
       "original_term": null,
-      "entry_type": "verified_main",
-      "body_source": "manual_correction",
-      "body_length": 121
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt",
+      "body_length": 1045
     },
     {
       "id": "BLD2-10917",
@@ -83328,11 +83178,11 @@
     },
     {
       "id": "BLD2-10996",
-      "term": "RESOCISSION",
+      "term": "RESCINDMENT",
       "original_term": null,
-      "entry_type": "recovered_main",
-      "body_source": "legacy",
-      "body_length": 1561
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
+      "body_length": 1548
     },
     {
       "id": "BLD2-10997",
@@ -83360,11 +83210,11 @@
     },
     {
       "id": "BLD2-11001",
-      "term": "RESOUE",
+      "term": "RESCUE",
       "original_term": null,
-      "entry_type": "recovered_main",
-      "body_source": "legacy",
-      "body_length": 643
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
+      "body_length": 651
     },
     {
       "id": "BLD2-11002",
@@ -84647,14 +84497,6 @@
       "body_length": 407
     },
     {
-      "id": "BLD2-11171",
-      "term": "ROBERSTMEN",
-      "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "legacy",
-      "body_length": 205
-    },
-    {
       "id": "BLD2-11172",
       "term": "ROD",
       "original_term": null,
@@ -85095,14 +84937,6 @@
       "body_length": 71
     },
     {
-      "id": "BLD2-11231",
-      "term": "RURAL",
-      "original_term": null,
-      "entry_type": "verified_main",
-      "body_source": "manual_correction",
-      "body_length": 559
-    },
-    {
       "id": "BLD2-11232",
       "term": "RUSE",
       "original_term": null,
@@ -85160,11 +84994,11 @@
     },
     {
       "id": "BLD2-11249",
-      "term": "S.R",
+      "term": "S. D.",
       "original_term": null,
-      "entry_type": "verified_main",
-      "body_source": "manual_correction",
-      "body_length": 40
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt",
+      "body_length": 143
     },
     {
       "id": "BLD2-11250",
@@ -85712,19 +85546,19 @@
     },
     {
       "id": "BLD2-11320",
-      "term": "SAOCCULARIT",
+      "term": "SACCULARII",
       "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "manual_correction",
-      "body_length": 49
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
+      "body_length": 370
     },
     {
       "id": "BLD2-11321",
-      "term": "SAOCCUS",
+      "term": "SACCUS",
       "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "manual_correction",
-      "body_length": 292
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
+      "body_length": 301
     },
     {
       "id": "BLD2-11322",
@@ -85928,11 +85762,11 @@
     },
     {
       "id": "BLD2-11350",
-      "term": "SBSCRIPTUM",
+      "term": "SCRIPTUM",
       "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "manual_correction",
-      "body_length": 239
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
+      "body_length": 1023
     },
     {
       "id": "BLD2-11351",
@@ -87543,14 +87377,6 @@
       "body_length": 443
     },
     {
-      "id": "BLD2-11563",
-      "term": "SERVITHS",
-      "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "legacy",
-      "body_length": 1492
-    },
-    {
       "id": "BLD2-11564",
       "term": "SERVITIIS",
       "original_term": null,
@@ -88016,19 +87842,11 @@
     },
     {
       "id": "BLD2-11622",
-      "term": "SHEPWAY",
+      "term": "SHEPWAY, COURT OF",
       "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "legacy",
-      "body_length": 273
-    },
-    {
-      "id": "BLD2-11623",
-      "term": "SHEPWAY SHEPWAY, COURT OF",
-      "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "legacy",
-      "body_length": 262
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
+      "body_length": 282
     },
     {
       "id": "BLD2-11624",
@@ -88373,14 +88191,6 @@
       "entry_type": "verified_main",
       "body_source": "manual_correction",
       "body_length": 256
-    },
-    {
-      "id": "BLD2-11668",
-      "term": "SIDUABRY",
-      "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "legacy",
-      "body_length": 624
     },
     {
       "id": "BLD2-11669",
@@ -88783,14 +88593,6 @@
       "body_length": 329
     },
     {
-      "id": "BLD2-11723",
-      "term": "SIX-DAY",
-      "original_term": null,
-      "entry_type": "subentry",
-      "body_source": "legacy",
-      "body_length": 253
-    },
-    {
       "id": "BLD2-11724",
       "term": "SIX-DAY LICENSE",
       "original_term": null,
@@ -89160,10 +88962,10 @@
     },
     {
       "id": "BLD2-11772",
-      "term": "SOHISM",
+      "term": "SCHISM",
       "original_term": null,
-      "entry_type": "recovered_main",
-      "body_source": "manual_correction",
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
       "body_length": 656
     },
     {
@@ -89989,14 +89791,6 @@
       "entry_type": "verified_main",
       "body_source": "rebuilt",
       "body_length": 238
-    },
-    {
-      "id": "BLD2-11881",
-      "term": "SOMNAMB",
-      "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "legacy",
-      "body_length": 208
     },
     {
       "id": "BLD2-11882",
@@ -91464,11 +91258,11 @@
     },
     {
       "id": "BLD2-12077",
-      "term": "STRICTI",
+      "term": "STRICTI JURIS",
       "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "legacy",
-      "body_length": 271
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
+      "body_length": 256
     },
     {
       "id": "BLD2-12078",
@@ -91488,11 +91282,11 @@
     },
     {
       "id": "BLD2-12080",
-      "term": "STRICTUM",
+      "term": "STRICTUM JUS",
       "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "legacy",
-      "body_length": 90
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
+      "body_length": 76
     },
     {
       "id": "BLD2-12081",
@@ -92448,17 +92242,9 @@
     },
     {
       "id": "BLD2-12203",
-      "term": "SUPERFCETATION",
-      "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "manual_correction",
-      "body_length": 185
-    },
-    {
-      "id": "BLD2-12204",
       "term": "SUPERFETATION",
       "original_term": null,
-      "entry_type": "legacy_retained",
+      "entry_type": "headword_corrected",
       "body_source": "legacy",
       "body_length": 184
     },
@@ -93208,11 +92994,11 @@
     },
     {
       "id": "BLD2-12303",
-      "term": "SYLVA",
+      "term": "SYLVA CEDUA",
       "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "manual_correction",
-      "body_length": 191
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
+      "body_length": 177
     },
     {
       "id": "BLD2-12304",
@@ -93224,9 +93010,9 @@
     },
     {
       "id": "BLD2-12305",
-      "term": "SYMBOLIC",
+      "term": "SYMBOLIC DELIVERY",
       "original_term": null,
-      "entry_type": "verified_main",
+      "entry_type": "headword_corrected",
       "body_source": "rebuilt",
       "body_length": 303
     },
@@ -93312,19 +93098,19 @@
     },
     {
       "id": "BLD2-12316",
-      "term": "SZEMEND",
+      "term": "SZEMENД",
       "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "manual_correction",
-      "body_length": 76
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
+      "body_length": 597
     },
     {
       "id": "BLD2-12317",
-      "term": "SZZVITIA",
+      "term": "SÆVITIA",
       "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "legacy",
-      "body_length": 141
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
+      "body_length": 151
     },
     {
       "id": "BLD2-12319",
@@ -95456,11 +95242,11 @@
     },
     {
       "id": "BLD2-12612",
-      "term": "TIMA",
+      "term": "TIMA ORTAM",
       "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "legacy",
-      "body_length": 172
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
+      "body_length": 159
     },
     {
       "id": "BLD2-12613",
@@ -95536,11 +95322,11 @@
     },
     {
       "id": "BLD2-12623",
-      "term": "TING",
+      "term": "LIQUOR",
       "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "manual_correction",
-      "body_length": 1023
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
+      "body_length": 1024
     },
     {
       "id": "BLD2-12624",
@@ -95944,11 +95730,11 @@
     },
     {
       "id": "BLD2-12680",
-      "term": "TORNO",
+      "term": "TORNO FACIENDO",
       "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "legacy",
-      "body_length": 229
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
+      "body_length": 213
     },
     {
       "id": "BLD2-12681",
@@ -96213,14 +95999,6 @@
       "entry_type": "verified_main",
       "body_source": "rebuilt",
       "body_length": 85
-    },
-    {
-      "id": "BLD2-12716",
-      "term": "TRADITURIN",
-      "original_term": null,
-      "entry_type": "subentry",
-      "body_source": "legacy",
-      "body_length": 116
     },
     {
       "id": "BLD2-12717",
@@ -96576,11 +96354,11 @@
     },
     {
       "id": "BLD2-12763",
-      "term": "TRE",
+      "term": "TRE AD LARGUM",
       "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "legacy",
-      "body_length": 68
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
+      "body_length": 53
     },
     {
       "id": "BLD2-12764",
@@ -96768,10 +96546,10 @@
     },
     {
       "id": "BLD2-12788",
-      "term": "TRIA",
+      "term": "TRIA CAPITA",
       "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "legacy",
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
       "body_length": 112
     },
     {
@@ -97125,6 +96903,14 @@
       "entry_type": "verified_main",
       "body_source": "rebuilt",
       "body_length": 155
+    },
+    {
+      "id": "BLD2-12833",
+      "term": "T. R. E.",
+      "original_term": null,
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
+      "body_length": 99
     },
     {
       "id": "BLD2-12834",
@@ -97655,14 +97441,6 @@
       "body_length": 579
     },
     {
-      "id": "BLD2-12907",
-      "term": "UNA",
-      "original_term": null,
-      "entry_type": "provisional_main",
-      "body_source": "rebuilt",
-      "body_length": 50
-    },
-    {
       "id": "BLD2-12908",
       "term": "UNALIENABLE",
       "original_term": null,
@@ -98119,14 +97897,6 @@
       "body_length": 67
     },
     {
-      "id": "BLD2-12967",
-      "term": "UNLARIOH",
-      "original_term": null,
-      "entry_type": "verified_main",
-      "body_source": "rebuilt",
-      "body_length": 74
-    },
-    {
       "id": "BLD2-12968",
       "term": "UNLAW",
       "original_term": null,
@@ -98264,11 +98034,11 @@
     },
     {
       "id": "BLD2-12986",
-      "term": "UNUS FLATU",
+      "term": "UNO FLATU",
       "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "manual_correction",
-      "body_length": 149
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
+      "body_length": 296
     },
     {
       "id": "BLD2-12987",
@@ -98304,11 +98074,11 @@
     },
     {
       "id": "BLD2-12992",
-      "term": "UO DOMINICO",
+      "term": "DE DOMINICO",
       "original_term": null,
-      "entry_type": "recovered_main",
-      "body_source": "legacy",
-      "body_length": 121
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
+      "body_length": 134
     },
     {
       "id": "BLD2-12993",
@@ -98696,11 +98466,11 @@
     },
     {
       "id": "BLD2-13041",
-      "term": "UTRUBL",
+      "term": "UTRUBI",
       "original_term": null,
-      "entry_type": "verified_main",
-      "body_source": "manual_correction",
-      "body_length": 468
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt",
+      "body_length": 469
     },
     {
       "id": "BLD2-13042",
@@ -99096,11 +98866,11 @@
     },
     {
       "id": "BLD2-13096",
-      "term": "VATI",
+      "term": "VATI MITTENDO IN CANCELLARIUM",
       "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "legacy",
-      "body_length": 145
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
+      "body_length": 114
     },
     {
       "id": "BLD2-13097",
@@ -100783,14 +100553,6 @@
       "body_length": 187
     },
     {
-      "id": "BLD2-13323",
-      "term": "VWENDUE",
-      "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "legacy",
-      "body_length": 173
-    },
-    {
       "id": "BLD2-13324",
       "term": "W",
       "original_term": null,
@@ -101488,11 +101250,11 @@
     },
     {
       "id": "BLD2-13423",
-      "term": "WELL ENOWING",
+      "term": "WELL KNOWN",
       "original_term": null,
-      "entry_type": "verified_main",
-      "body_source": "manual_correction",
-      "body_length": 77
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt",
+      "body_length": 426
     },
     {
       "id": "BLD2-13425",
@@ -101504,19 +101266,11 @@
     },
     {
       "id": "BLD2-13426",
-      "term": "WER",
+      "term": "RED BOOK OF THE EXCHEQUER",
       "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "legacy",
-      "body_length": 123
-    },
-    {
-      "id": "BLD2-13427",
-      "term": "WEREGELT",
-      "original_term": null,
-      "entry_type": "legacy_retained",
-      "body_source": "legacy",
-      "body_length": 98
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
+      "body_length": 128
     },
     {
       "id": "BLD2-13428",
@@ -103024,9 +102778,9 @@
     },
     {
       "id": "BLD2-13629",
-      "term": "ZEFESN",
+      "term": "ZFESN",
       "original_term": null,
-      "entry_type": "verified_main",
+      "entry_type": "headword_corrected",
       "body_source": "rebuilt",
       "body_length": 142
     },
@@ -103048,10 +102802,10 @@
     },
     {
       "id": "BLD2-13632",
-      "term": "ZEIR",
+      "term": "YEIR",
       "original_term": null,
-      "entry_type": "verified_main",
-      "body_source": "manual_correction",
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt",
       "body_length": 34
     },
     {
@@ -103072,10 +102826,10 @@
     },
     {
       "id": "BLD2-13635",
-      "term": "ZETHELING",
+      "term": "AETHELING",
       "original_term": null,
-      "entry_type": "recovered_main",
-      "body_source": "legacy",
+      "entry_type": "headword_corrected",
+      "body_source": "rebuilt_garbled",
       "body_length": 70
     },
     {
@@ -103600,11 +103354,11 @@
     },
     {
       "id": "BLD2-13702",
-      "term": "DALUS",
+      "term": "DAILUS",
       "original_term": null,
-      "entry_type": "recovered_main",
-      "body_source": "manual_correction",
-      "body_length": 134
+      "entry_type": "headword_corrected",
+      "body_source": "overlay_direct",
+      "body_length": 126
     },
     {
       "id": "BLD2-13703",
@@ -103688,11 +103442,11 @@
     },
     {
       "id": "BLD2-13713",
-      "term": "IMAN",
+      "term": "IMAM",
       "original_term": null,
-      "entry_type": "recovered_main",
+      "entry_type": "headword_corrected",
       "body_source": "overlay_direct",
-      "body_length": 118
+      "body_length": 112
     },
     {
       "id": "BLD2-13714",

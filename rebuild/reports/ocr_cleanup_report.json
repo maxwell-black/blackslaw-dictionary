@@ -1,9 +1,14 @@
 {
-  "total_entries": 12981,
-  "entries_changed": 68,
+  "total_entries": 12941,
+  "entries_changed": 75,
   "pattern_counts": {
     "hyphen_rejoin": 84,
-    "hyphen_space_rejoin": 8
+    "hyphen_space_rejoin": 9,
+    "pipe_remove": 1,
+    "8->S_abbrev": 2,
+    "aud->and": 1,
+    "anotber->another": 1,
+    "gv->qv": 1
   },
   "changes": [
     {
@@ -217,6 +222,13 @@
       "chars_changed": 1
     },
     {
+      "term": "INITIALIA TESTIMONII",
+      "fixes": {
+        "pipe_remove": 1
+      },
+      "chars_changed": 1
+    },
+    {
       "term": "ISSUE",
       "fixes": {
         "hyphen_rejoin": 2
@@ -239,6 +251,13 @@
     },
     {
       "term": "KENTLAGE",
+      "fixes": {
+        "hyphen_space_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "KING'S EVIDENCE",
       "fixes": {
         "hyphen_space_rejoin": 1
       },
@@ -283,6 +302,13 @@
       "term": "NOTHUS",
       "fixes": {
         "hyphen_space_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "N.",
+      "fixes": {
+        "8->S_abbrev": 1
       },
       "chars_changed": 1
     },
@@ -343,6 +369,13 @@
       "chars_changed": 1
     },
     {
+      "term": "QUALIFIED",
+      "fixes": {
+        "aud->and": 1
+      },
+      "chars_changed": 1
+    },
+    {
       "term": "QUANTUM VALEBANT",
       "fixes": {
         "hyphen_rejoin": 1
@@ -381,6 +414,13 @@
       "term": "RIGHT OF WAY",
       "fixes": {
         "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "S. D.",
+      "fixes": {
+        "8->S_abbrev": 1
       },
       "chars_changed": 1
     },
@@ -448,6 +488,13 @@
       "chars_changed": 1
     },
     {
+      "term": "T. R. E.",
+      "fixes": {
+        "anotber->another": 1
+      },
+      "chars_changed": 1
+    },
+    {
       "term": "UNDEFENDED",
       "fixes": {
         "hyphen_rejoin": 1
@@ -458,6 +505,13 @@
       "term": "VOCABULA",
       "fixes": {
         "hyphen_rejoin": 1
+      },
+      "chars_changed": 1
+    },
+    {
+      "term": "WELL KNOWN",
+      "fixes": {
+        "gv->qv": 1
       },
       "chars_changed": 1
     },
