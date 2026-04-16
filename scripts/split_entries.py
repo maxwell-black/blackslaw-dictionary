@@ -42,7 +42,7 @@ def split_entries():
             
             # Write letter file
             with open(filepath, "w", encoding="utf-8") as f:
-                json.dump(letter_entries, f)
+                json.dump(letter_entries, f, indent=2, ensure_ascii=False)
             
             manifest[letter] = {
                 "file": f"data/{filename}",
