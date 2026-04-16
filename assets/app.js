@@ -508,7 +508,8 @@ function setupSidebar() {
 
   sidebarLetters.innerHTML = Object.keys(manifest).map(function(letter) {
     var count = manifest[letter].count;
-    return '<button class="sidebar-letter" data-letter="' + letter + '">' + letter + ' <span>' + count.toLocaleString() + '</span></button>';
+    var escapedLetter = escapeHtml(letter);
+    return '<button class="sidebar-letter" data-letter="' + escapedLetter + '">' + escapedLetter + ' <span>' + count.toLocaleString() + '</span></button>';
   }).join('');
 
   menuBtn.addEventListener('click', function() {
@@ -591,9 +592,12 @@ function slugify(term) {
 }
 
 function escapeHtml(text) {
-  var div = document.createElement('div');
-  div.textContent = text;
-  return div.innerHTML;
+  return String(text)
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&#039;');
 }
 
 function escapeRegex(text) {
