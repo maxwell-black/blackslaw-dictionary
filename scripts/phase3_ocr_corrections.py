@@ -11,6 +11,7 @@ import json
 import re
 from pathlib import Path
 from collections import Counter
+from functools import lru_cache
 
 SCRIPT_DIR = Path(__file__).resolve().parent
 REPO = SCRIPT_DIR.parent
@@ -35,15 +36,24 @@ def main():
         overlay_by_term.setdefault(e["term"], []).append(e)
 
     # Build corpus word frequency from ALL legacy bodies
-    corpus_text_upper = ""
-    for e in legacy:
-        corpus_text_upper += " " + (e.get("body") or "").upper()
+    corpus_text_upper = " ".join((e.get("body") or "").upper() for e in legacy)
 
+    # Pre-tokenize for fast single-word lookup
+    # This matches the regex-based word boundary (?<![A-Z]) ... (?![A-Z])
+    corpus_words = Counter(re.findall(r"[A-Z]+", corpus_text_upper))
+
+    @lru_cache(maxsize=None)
     def count_in_corpus(term):
-        pattern = re.escape(term.upper())
+        term_upper = term.upper()
+        # Only use Counter if term is a single word of pure A-Z
+        if re.fullmatch(r"[A-Z]+", term_upper):
+            return corpus_words.get(term_upper, 0)
+
+        pattern = re.escape(term_upper)
         rx = re.compile(r"(?<![A-Z])" + pattern + r"(?![A-Z])")
         return len(rx.findall(corpus_text_upper))
 
+    @lru_cache(maxsize=None)
     def in_own_body(garbled_term, corrected_term):
         le = legacy_by_term.get(garbled_term)
         if not le:
