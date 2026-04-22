@@ -59,7 +59,7 @@ def clean_body(body):
 
     # Post-@ reflow cleanup: fix isolated 'a' left between paragraph breaks
     # when @ was on its own line between \n\n breaks, @->a leaves \n a \n
-    counted_sub(r'\n a \n', ' a ', 'isolated-a-line')
+    counted_sub(r'\n\s*a\s*\n', ' a ', 'isolated-a-line')
 
     # Collapse double spaces
     counted_sub(r'  +', ' ', 'double spaces')
