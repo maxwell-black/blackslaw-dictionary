@@ -926,14 +926,16 @@
     "id": "BLD2-00071",
     "index": 71,
     "term": "ABET",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.99,
     "source_headword": "ABET",
     "source_pages": [
       "6",
       "7"
     ],
-    "flags": []
+    "flags": [],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-00072",
@@ -1369,7 +1371,7 @@
     "id": "BLD2-00106",
     "index": 106,
     "term": "ABSOLUTE",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.99,
     "source_headword": "ABSOLUTE",
     "source_pages": [
@@ -1377,7 +1379,9 @@
     ],
     "flags": [
       "embedded_caps_subentry"
-    ]
+    ],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-00107",
@@ -1845,7 +1849,7 @@
     "id": "BLD2-00142",
     "index": 142,
     "term": "ACCOMMODATION",
-    "entry_type": "verified_main",
+    "entry_type": "cross_reference",
     "confidence": 0.9,
     "source_headword": "ACCOMMODATION INDORSEMENT",
     "source_pages": [
@@ -1854,7 +1858,9 @@
     "flags": [
       "headword_mismatch",
       "short_body"
-    ]
+    ],
+    "canonical_target": "INDORSEMENT",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-00143",
@@ -3635,7 +3641,7 @@
   {
     "id": "BLD2-00279",
     "index": 279,
-    "term": "AD MEDIUM FILUM AQUÆ",
+    "term": "AD MEDIUM FILUM AQU\u00c6",
     "entry_type": "headword_corrected",
     "confidence": 0.9,
     "source_headword": "AD MEDIUM FILUM AQUZ",
@@ -4244,14 +4250,16 @@
     "id": "BLD2-00327",
     "index": 327,
     "term": "ADJACENT",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.99,
     "source_headword": "ADJACENT",
     "source_pages": [
       "34",
       "35"
     ],
-    "flags": []
+    "flags": [],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-00328",
@@ -8493,7 +8501,7 @@
     "id": "BLD2-00659",
     "index": 659,
     "term": "ALLOCUTION",
-    "entry_type": "verified_main",
+    "entry_type": "cross_reference",
     "confidence": 0.99,
     "source_headword": "ALLOCUTION",
     "source_pages": [
@@ -8501,7 +8509,9 @@
     ],
     "flags": [
       "short_body"
-    ]
+    ],
+    "canonical_target": "ALLocuTUS",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-00660",
@@ -9682,7 +9692,7 @@
     "id": "BLD2-00752",
     "index": 752,
     "term": "AMY",
-    "entry_type": "verified_main",
+    "entry_type": "cross_reference",
     "confidence": 0.99,
     "source_headword": "AMY",
     "source_pages": [
@@ -9690,7 +9700,9 @@
     ],
     "flags": [
       "short_body"
-    ]
+    ],
+    "canonical_target": "AMI; PROCHEIN AMY",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-00753",
@@ -11499,13 +11511,15 @@
     "id": "BLD2-00892",
     "index": 892,
     "term": "APPELLATE",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.99,
     "source_headword": "APPELLATE",
     "source_pages": [
       "77"
     ],
-    "flags": []
+    "flags": [],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-00893",
@@ -13383,13 +13397,15 @@
     "id": "BLD2-01038",
     "index": 1038,
     "term": "ARRAIGN",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.99,
     "source_headword": "ARRAIGN",
     "source_pages": [
       "87"
     ],
-    "flags": []
+    "flags": [],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-01039",
@@ -14260,25 +14276,29 @@
     "id": "BLD2-01105",
     "index": 1105,
     "term": "ASPHYXIA",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.99,
     "source_headword": "ASPHYXIA",
     "source_pages": [
       "92"
     ],
-    "flags": []
+    "flags": [],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-01106",
     "index": 1106,
     "term": "ASPORTATION",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.99,
     "source_headword": "ASPORTATION",
     "source_pages": [
       "92"
     ],
-    "flags": []
+    "flags": [],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-01107",
@@ -14715,13 +14735,15 @@
     "id": "BLD2-01142",
     "index": 1142,
     "term": "ASSIST",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.99,
     "source_headword": "ASSIST",
     "source_pages": [
       "98"
     ],
-    "flags": []
+    "flags": [],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-01143",
@@ -14801,7 +14823,7 @@
     "id": "BLD2-01149",
     "index": 1149,
     "term": "ASSOCIATION",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.99,
     "source_headword": "ASSOCIATION",
     "source_pages": [
@@ -14810,7 +14832,9 @@
     ],
     "flags": [
       "embedded_caps_subentry"
-    ]
+    ],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-01150",
@@ -14983,7 +15007,7 @@
   {
     "id": "BLD2-01163",
     "index": 1163,
-    "term": "ASTITRARIUS HÆRES",
+    "term": "ASTITRARIUS H\u00c6RES",
     "entry_type": "headword_corrected",
     "confidence": 0.9,
     "source_headword": "ASTITRARIUS HARES",
@@ -15649,7 +15673,7 @@
     "id": "BLD2-01215",
     "index": 1215,
     "term": "AUBAINE",
-    "entry_type": "verified_main",
+    "entry_type": "cross_reference",
     "confidence": 0.99,
     "source_headword": "AUBAINE",
     "source_pages": [
@@ -15657,7 +15681,9 @@
     ],
     "flags": [
       "short_body"
-    ]
+    ],
+    "canonical_target": "Droit D'AUBAINE",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-01216",
@@ -15903,7 +15929,7 @@
     "id": "BLD2-01234",
     "index": 1234,
     "term": "AULNAGE",
-    "entry_type": "verified_main",
+    "entry_type": "cross_reference",
     "confidence": 0.9,
     "source_headword": "AULNAGER",
     "source_pages": [
@@ -15912,7 +15938,9 @@
     "flags": [
       "headword_mismatch",
       "short_body"
-    ]
+    ],
+    "canonical_target": "ALNAGER.\n\n",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-01235",
@@ -16822,7 +16850,7 @@
     "id": "BLD2-01305",
     "index": 1305,
     "term": "AYLE",
-    "entry_type": "verified_main",
+    "entry_type": "cross_reference",
     "confidence": 0.99,
     "source_headword": "AYLE",
     "source_pages": [
@@ -16830,7 +16858,9 @@
     ],
     "flags": [
       "short_body"
-    ]
+    ],
+    "canonical_target": "AIEL",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-01306",
@@ -18035,7 +18065,7 @@
     "id": "BLD2-01398",
     "index": 1398,
     "term": "BANNS",
-    "entry_type": "verified_main",
+    "entry_type": "cross_reference",
     "confidence": 0.99,
     "source_headword": "BANNS",
     "source_pages": [
@@ -18043,7 +18073,9 @@
     ],
     "flags": [
       "short_body"
-    ]
+    ],
+    "canonical_target": "Bans or MATRIMONY",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-01399",
@@ -18881,13 +18913,15 @@
     "id": "BLD2-01464",
     "index": 1464,
     "term": "BAWDY-HOUSE",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.99,
     "source_headword": "BAWDY-HOUSE",
     "source_pages": [
       "123"
     ],
-    "flags": []
+    "flags": [],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-01465",
@@ -23228,13 +23262,15 @@
     "id": "BLD2-01796",
     "index": 1796,
     "term": "BUILDING",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.99,
     "source_headword": "BUILDING",
     "source_pages": [
       "155"
     ],
-    "flags": []
+    "flags": [],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-01797",
@@ -23658,7 +23694,7 @@
     "id": "BLD2-01830",
     "index": 1830,
     "term": "BURGUNDIAN",
-    "entry_type": "verified_main",
+    "entry_type": "cross_reference",
     "confidence": 0.9,
     "source_headword": "BURGUNDIAN LAW",
     "source_pages": [
@@ -23668,7 +23704,9 @@
       "embedded_caps_subentry",
       "headword_mismatch",
       "short_body"
-    ]
+    ],
+    "canonical_target": "Lex Bup-\nGUNDIONUM",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-01831",
@@ -24650,7 +24688,7 @@
   {
     "id": "BLD2-01905",
     "index": 1905,
-    "term": "CÆTERUS",
+    "term": "C\u00c6TERUS",
     "entry_type": "headword_corrected",
     "confidence": 0.9,
     "source_headword": "CZETERUS",
@@ -25348,13 +25386,15 @@
     "id": "BLD2-01960",
     "index": 1960,
     "term": "CANVASS",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.99,
     "source_headword": "CANVASS",
     "source_pages": [
       "165"
     ],
-    "flags": []
+    "flags": [],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-01961",
@@ -25947,13 +25987,15 @@
     "id": "BLD2-02007",
     "index": 2007,
     "term": "CARDS",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.99,
     "source_headword": "CARDS",
     "source_pages": [
       "170"
     ],
-    "flags": []
+    "flags": [],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-02008",
@@ -26970,7 +27012,7 @@
     "id": "BLD2-02085",
     "index": 2085,
     "term": "CATCHING",
-    "entry_type": "verified_main",
+    "entry_type": "cross_reference",
     "confidence": 0.9,
     "source_headword": "CATCHING BARGAIN",
     "source_pages": [
@@ -26979,7 +27021,9 @@
     "flags": [
       "headword_mismatch",
       "short_body"
-    ]
+    ],
+    "canonical_target": "BARGAIN",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-02086",
@@ -27078,13 +27122,15 @@
     "id": "BLD2-02093",
     "index": 2093,
     "term": "CATTLE",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.99,
     "source_headword": "CATTLE",
     "source_pages": [
       "177"
     ],
-    "flags": []
+    "flags": [],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-02094",
@@ -27603,7 +27649,7 @@
   {
     "id": "BLD2-02134",
     "index": 2134,
-    "term": "CENELLÆ",
+    "term": "CENELL\u00c6",
     "entry_type": "headword_corrected",
     "confidence": 0.9,
     "source_headword": "CENELLZ",
@@ -29205,7 +29251,7 @@
     "id": "BLD2-02258",
     "index": 2258,
     "term": "CHARGING ORDER",
-    "entry_type": "verified_main",
+    "entry_type": "cross_reference",
     "confidence": 0.99,
     "source_headword": "CHARGING ORDER",
     "source_pages": [
@@ -29213,7 +29259,9 @@
     ],
     "flags": [
       "short_body"
-    ]
+    ],
+    "canonical_target": "ORDER",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-02259",
@@ -31060,7 +31108,7 @@
     "id": "BLD2-02399",
     "index": 2399,
     "term": "CLASS",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.99,
     "source_headword": "CLASS",
     "source_pages": [
@@ -31068,7 +31116,9 @@
     ],
     "flags": [
       "embedded_caps_subentry"
-    ]
+    ],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-02400",
@@ -33744,7 +33794,7 @@
     "id": "BLD2-02602",
     "index": 2602,
     "term": "COMMITTING",
-    "entry_type": "verified_main",
+    "entry_type": "cross_reference",
     "confidence": 0.9,
     "source_headword": "COMMITTING MAGISTRATE",
     "source_pages": [
@@ -33753,7 +33803,9 @@
     "flags": [
       "headword_mismatch",
       "short_body"
-    ]
+    ],
+    "canonical_target": "COMMITMENT",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-02603",
@@ -34222,7 +34274,7 @@
     "id": "BLD2-02639",
     "index": 2639,
     "term": "COMMUTATIVE",
-    "entry_type": "verified_main",
+    "entry_type": "cross_reference",
     "confidence": 0.9,
     "source_headword": "COMMUTATIVE JUSTICE",
     "source_pages": [
@@ -34231,7 +34283,9 @@
     "flags": [
       "headword_mismatch",
       "short_body"
-    ]
+    ],
+    "canonical_target": "JUSTICE",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-02640",
@@ -36210,13 +36264,15 @@
     "id": "BLD2-02792",
     "index": 2792,
     "term": "CONFRONTATION",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.99,
     "source_headword": "CONFRONTATION",
     "source_pages": [
       "245"
     ],
-    "flags": []
+    "flags": [],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-02793",
@@ -37526,7 +37582,7 @@
     "id": "BLD2-02895",
     "index": 2895,
     "term": "CONSTITUTIONS OF CLARENDON",
-    "entry_type": "verified_main",
+    "entry_type": "cross_reference",
     "confidence": 0.99,
     "source_headword": "CONSTITUTIONS OF CLARENDON",
     "source_pages": [
@@ -37534,7 +37590,9 @@
     ],
     "flags": [
       "short_body"
-    ]
+    ],
+    "canonical_target": "CLARENDON. A",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-02896",
@@ -38147,13 +38205,15 @@
     "id": "BLD2-02943",
     "index": 2943,
     "term": "CONTINUANCE",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.99,
     "source_headword": "CONTINUANCE",
     "source_pages": [
       "259"
     ],
-    "flags": []
+    "flags": [],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-02944",
@@ -38835,7 +38895,7 @@
     "id": "BLD2-02997",
     "index": 2997,
     "term": "CONVENTION",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.99,
     "source_headword": "CONVENTION",
     "source_pages": [
@@ -38843,7 +38903,9 @@
     ],
     "flags": [
       "embedded_caps_subentry"
-    ]
+    ],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-02998",
@@ -41013,7 +41075,7 @@
     "id": "BLD2-03164",
     "index": 3164,
     "term": "COUSINAGE",
-    "entry_type": "verified_main",
+    "entry_type": "cross_reference",
     "confidence": 0.99,
     "source_headword": "COUSINAGE",
     "source_pages": [
@@ -41021,7 +41083,9 @@
     ],
     "flags": [
       "short_body"
-    ]
+    ],
+    "canonical_target": "COSENAGE",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-03165",
@@ -41142,7 +41206,7 @@
     "id": "BLD2-03174",
     "index": 3174,
     "term": "COVENTRY",
-    "entry_type": "subentry",
+    "entry_type": "alias_phantom",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [
@@ -41153,19 +41217,23 @@
       "low_match_score",
       "missing_source_candidate"
     ],
-    "canonical_target": "COVENTRY ACT"
+    "canonical_target": "COVENTRY ACT",
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-03175",
     "index": 3175,
     "term": "COVENTRY ACT",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.99,
     "source_headword": "COVENTRY ACT",
     "source_pages": [
       "295"
     ],
-    "flags": []
+    "flags": [],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-03176",
@@ -42770,13 +42838,15 @@
     "id": "BLD2-03299",
     "index": 3299,
     "term": "CUT",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.99,
     "source_headword": "CUT",
     "source_pages": [
       "311"
     ],
-    "flags": []
+    "flags": [],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-03300",
@@ -43653,13 +43723,15 @@
     "id": "BLD2-03364",
     "index": 3364,
     "term": "DAUGHTER",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.99,
     "source_headword": "DAUGHTER",
     "source_pages": [
       "317"
     ],
-    "flags": []
+    "flags": [],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-03365",
@@ -44439,7 +44511,7 @@
     "id": "BLD2-03422",
     "index": 3422,
     "term": "DEALING",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "alias_phantom",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -44447,7 +44519,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-03423",
@@ -47495,7 +47569,7 @@
     "id": "BLD2-03655",
     "index": 3655,
     "term": "DEMONSTRATIVE",
-    "entry_type": "verified_main",
+    "entry_type": "cross_reference",
     "confidence": 0.9,
     "source_headword": "DEMONSTRATIVE LEGACY",
     "source_pages": [
@@ -47504,7 +47578,9 @@
     "flags": [
       "headword_mismatch",
       "short_body"
-    ]
+    ],
+    "canonical_target": "LEGACY",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-03656",
@@ -50028,13 +50104,15 @@
     "id": "BLD2-03852",
     "index": 3852,
     "term": "DIPLOMA",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.99,
     "source_headword": "DIPLOMA",
     "source_pages": [
       "370"
     ],
-    "flags": []
+    "flags": [],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-03853",
@@ -51271,13 +51349,15 @@
     "id": "BLD2-03948",
     "index": 3948,
     "term": "DISQUALIFY",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.99,
     "source_headword": "DISQUALIFY",
     "source_pages": [
       "378"
     ],
-    "flags": []
+    "flags": [],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-03949",
@@ -51797,13 +51877,15 @@
     "id": "BLD2-03989",
     "index": 3989,
     "term": "DISTURBANCE",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.99,
     "source_headword": "DISTURBANCE",
     "source_pages": [
       "382"
     ],
-    "flags": []
+    "flags": [],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-03990",
@@ -51861,13 +51943,15 @@
     "id": "BLD2-03994",
     "index": 3994,
     "term": "DIVERS",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.99,
     "source_headword": "DIVERS",
     "source_pages": [
       "383"
     ],
-    "flags": []
+    "flags": [],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-03995",
@@ -53081,7 +53165,7 @@
     "id": "BLD2-04089",
     "index": 4089,
     "term": "DOOMSDAY-BOOK",
-    "entry_type": "verified_main",
+    "entry_type": "cross_reference",
     "confidence": 0.99,
     "source_headword": "DOOMSDAY-BOOK",
     "source_pages": [
@@ -53089,19 +53173,23 @@
     ],
     "flags": [
       "short_body"
-    ]
+    ],
+    "canonical_target": "Domesday-Book",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-04090",
     "index": 4090,
     "term": "DOOR",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.99,
     "source_headword": "DOOR",
     "source_pages": [
       "392"
     ],
-    "flags": []
+    "flags": [],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-04091",
@@ -57342,7 +57430,7 @@
     "id": "BLD2-04416",
     "index": 4416,
     "term": "EMPARLANCE",
-    "entry_type": "verified_main",
+    "entry_type": "cross_reference",
     "confidence": 0.99,
     "source_headword": "EMPARLANCE",
     "source_pages": [
@@ -57350,7 +57438,9 @@
     ],
     "flags": [
       "short_body"
-    ]
+    ],
+    "canonical_target": "IMPARLANCE",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-04417",
@@ -57865,7 +57955,7 @@
     "id": "BLD2-04457",
     "index": 4457,
     "term": "ENCLOSURE",
-    "entry_type": "verified_main",
+    "entry_type": "cross_reference",
     "confidence": 0.99,
     "source_headword": "ENCLOSURE",
     "source_pages": [
@@ -57873,7 +57963,9 @@
     ],
     "flags": [
       "short_body"
-    ]
+    ],
+    "canonical_target": "INCLOSURE",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-04458",
@@ -57930,7 +58022,7 @@
     "id": "BLD2-04462",
     "index": 4462,
     "term": "ENCUMBRANCE",
-    "entry_type": "verified_main",
+    "entry_type": "cross_reference",
     "confidence": 0.99,
     "source_headword": "ENCUMBRANCE",
     "source_pages": [
@@ -57939,7 +58031,9 @@
     "flags": [
       "embedded_caps_subentry",
       "short_body"
-    ]
+    ],
+    "canonical_target": "INCUMBRANCE",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-04463",
@@ -58099,13 +58193,15 @@
     "id": "BLD2-04475",
     "index": 4475,
     "term": "ENFORCE",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.99,
     "source_headword": "ENFORCE",
     "source_pages": [
       "425"
     ],
-    "flags": []
+    "flags": [],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-04476",
@@ -59296,7 +59392,7 @@
     "id": "BLD2-04569",
     "index": 4569,
     "term": "ERANDO",
-    "entry_type": "recovered_main",
+    "entry_type": "cross_reference",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [
@@ -59307,7 +59403,9 @@
       "low_match_score",
       "missing_source_candidate",
       "short_body"
-    ]
+    ],
+    "canonical_target": "CLERICO Convicto, etc",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-04570",
@@ -59364,7 +59462,7 @@
     "id": "BLD2-04574",
     "index": 4574,
     "term": "ERE-MURDER",
-    "entry_type": "recovered_main",
+    "entry_type": "cross_reference",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [
@@ -59375,7 +59473,9 @@
       "low_match_score",
       "missing_source_candidate",
       "short_body"
-    ]
+    ],
+    "canonical_target": "MANSLAUGHTER",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-04575",
@@ -60361,7 +60461,7 @@
     "id": "BLD2-04651",
     "index": 4651,
     "term": "ESTATE BY ELEGIT",
-    "entry_type": "verified_main",
+    "entry_type": "cross_reference",
     "confidence": 0.99,
     "source_headword": "ESTATE BY ELEGIT",
     "source_pages": [
@@ -60369,7 +60469,9 @@
     ],
     "flags": [
       "short_body"
-    ]
+    ],
+    "canonical_target": "ELEGIT",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-04652",
@@ -61144,7 +61246,7 @@
     "id": "BLD2-04712",
     "index": 4712,
     "term": "EVES-DROPPERS",
-    "entry_type": "verified_main",
+    "entry_type": "cross_reference",
     "confidence": 0.99,
     "source_headword": "EVES-DROPPERS",
     "source_pages": [
@@ -61152,7 +61254,9 @@
     ],
     "flags": [
       "short_body"
-    ]
+    ],
+    "canonical_target": "Eaves-Drop-\nPERS",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-04713",
@@ -61185,7 +61289,7 @@
     "id": "BLD2-04715",
     "index": 4715,
     "term": "EVIDENCE",
-    "entry_type": "recovered_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [
@@ -61195,7 +61299,9 @@
     "flags": [
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-04716",
@@ -62080,7 +62186,7 @@
     "id": "BLD2-04782",
     "index": 4782,
     "term": "EXEMPLARY",
-    "entry_type": "verified_main",
+    "entry_type": "cross_reference",
     "confidence": 0.9,
     "source_headword": "EXEMPLARY DAMAGES",
     "source_pages": [
@@ -62089,7 +62195,9 @@
     "flags": [
       "headword_mismatch",
       "short_body"
-    ]
+    ],
+    "canonical_target": "DAMAGES",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-04783",
@@ -64414,13 +64522,15 @@
     "id": "BLD2-04960",
     "index": 4960,
     "term": "FAILURE",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.99,
     "source_headword": "FAILURE",
     "source_pages": [
       "478"
     ],
-    "flags": []
+    "flags": [],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-04961",
@@ -64557,7 +64667,7 @@
     "id": "BLD2-04971",
     "index": 4971,
     "term": "FALC-LAND",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "cross_reference",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -64565,7 +64675,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "Foul-Land.\n\nPALL.\nfrom a right is to lose or forfeit it 1\n\nKames, Eq. 228",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-04972",
@@ -66212,13 +66324,15 @@
     "id": "BLD2-05098",
     "index": 5098,
     "term": "FELONIOUSLY",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.99,
     "source_headword": "FELONIOUSLY",
     "source_pages": [
       "489"
     ],
-    "flags": []
+    "flags": [],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-05099",
@@ -66884,7 +66998,7 @@
     "id": "BLD2-05150",
     "index": 5150,
     "term": "FERMENTED",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.9,
     "source_headword": "FERMENTED LIQUORS",
     "source_pages": [
@@ -66892,7 +67006,9 @@
     ],
     "flags": [
       "headword_mismatch"
-    ]
+    ],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-05151",
@@ -67015,7 +67131,7 @@
   {
     "id": "BLD2-05160",
     "index": 5160,
-    "term": "FERÆ NATURÆ",
+    "term": "FER\u00c6 NATUR\u00c6",
     "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
@@ -67803,13 +67919,15 @@
     "id": "BLD2-05220",
     "index": 5220,
     "term": "FIGHT",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.99,
     "source_headword": "FIGHT",
     "source_pages": [
       "497"
     ],
-    "flags": []
+    "flags": [],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-05221",
@@ -68025,13 +68143,15 @@
     "id": "BLD2-05238",
     "index": 5238,
     "term": "FIND",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.99,
     "source_headword": "FIND",
     "source_pages": [
       "499"
     ],
-    "flags": []
+    "flags": [],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-05239",
@@ -71049,7 +71169,7 @@
     "id": "BLD2-05471",
     "index": 5471,
     "term": "FORTIORI",
-    "entry_type": "verified_main",
+    "entry_type": "cross_reference",
     "confidence": 0.99,
     "source_headword": "FORTIORI",
     "source_pages": [
@@ -71057,7 +71177,9 @@
     ],
     "flags": [
       "short_body"
-    ]
+    ],
+    "canonical_target": "A FORTIORI.:",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-05472",
@@ -71650,7 +71772,7 @@
     "id": "BLD2-05516",
     "index": 5516,
     "term": "FOUL PLAY",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "alias_phantom",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -71658,7 +71780,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-05517",
@@ -71732,13 +71856,15 @@
     "id": "BLD2-05522",
     "index": 5522,
     "term": "FOUNDED",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.99,
     "source_headword": "FOUNDED",
     "source_pages": [
       "518"
     ],
-    "flags": []
+    "flags": [],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-05523",
@@ -72752,13 +72878,15 @@
     "id": "BLD2-05600",
     "index": 5600,
     "term": "FRESH",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.99,
     "source_headword": "FRESH",
     "source_pages": [
       "525"
     ],
-    "flags": []
+    "flags": [],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-05601",
@@ -72906,7 +73034,7 @@
     "id": "BLD2-05612",
     "index": 5612,
     "term": "FRIEND",
-    "entry_type": "provisional_main",
+    "entry_type": "cross_reference",
     "confidence": 0.82,
     "source_headword": "FRIEND OF THE COURT",
     "source_pages": [
@@ -72915,7 +73043,9 @@
     "flags": [
       "headword_mismatch",
       "short_body"
-    ]
+    ],
+    "canonical_target": "AMICUS CURIAE",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-05613",
@@ -74034,7 +74164,7 @@
     "id": "BLD2-05698",
     "index": 5698,
     "term": "FUTURE ESTATE",
-    "entry_type": "verified_main",
+    "entry_type": "cross_reference",
     "confidence": 0.99,
     "source_headword": "FUTURE ESTATE",
     "source_pages": [
@@ -74042,7 +74172,9 @@
     ],
     "flags": [
       "short_body"
-    ]
+    ],
+    "canonical_target": "Estate",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-05699",
@@ -75556,7 +75688,7 @@
     "id": "BLD2-05817",
     "index": 5817,
     "term": "GENTOO",
-    "entry_type": "verified_main",
+    "entry_type": "cross_reference",
     "confidence": 0.9,
     "source_headword": "GENTOO LAW",
     "source_pages": [
@@ -75565,7 +75697,9 @@
     "flags": [
       "headword_mismatch",
       "short_body"
-    ]
+    ],
+    "canonical_target": "HINDU",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-05818",
@@ -75709,7 +75843,7 @@
     "id": "BLD2-05829",
     "index": 5829,
     "term": "GERRYMANDER",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.99,
     "source_headword": "GERRYMANDER",
     "source_pages": [
@@ -75717,7 +75851,9 @@
     ],
     "flags": [
       "embedded_caps_subentry"
-    ]
+    ],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-05830",
@@ -78737,13 +78873,15 @@
     "id": "BLD2-06062",
     "index": 6062,
     "term": "HABIT",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.99,
     "source_headword": "HABIT",
     "source_pages": [
       "555"
     ],
-    "flags": []
+    "flags": [],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-06063",
@@ -79883,7 +80021,7 @@
     "id": "BLD2-06151",
     "index": 6151,
     "term": "HARMLESS",
-    "entry_type": "verified_main",
+    "entry_type": "cross_reference",
     "confidence": 0.9,
     "source_headword": "HARMLESS ERROR",
     "source_pages": [
@@ -79892,7 +80030,9 @@
     "flags": [
       "headword_mismatch",
       "short_body"
-    ]
+    ],
+    "canonical_target": "ERROR",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-06152",
@@ -80494,7 +80634,7 @@
     "id": "BLD2-06198",
     "index": 6198,
     "term": "HEAT",
-    "entry_type": "provisional_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.82,
     "source_headword": "HEAT OF PASSION",
     "source_pages": [
@@ -80504,7 +80644,9 @@
     "flags": [
       "embedded_caps_subentry",
       "headword_mismatch"
-    ]
+    ],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-06199",
@@ -80702,13 +80844,15 @@
     "id": "BLD2-06214",
     "index": 6214,
     "term": "HEIFER",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.99,
     "source_headword": "HEIFER",
     "source_pages": [
       "565"
     ],
-    "flags": []
+    "flags": [],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-06215",
@@ -82286,7 +82430,7 @@
     "id": "BLD2-06336",
     "index": 6336,
     "term": "HIRCISCUNDA",
-    "entry_type": "verified_main",
+    "entry_type": "cross_reference",
     "confidence": 0.99,
     "source_headword": "HIRCISCUNDA",
     "source_pages": [
@@ -82294,7 +82438,9 @@
     ],
     "flags": [
       "short_body"
-    ]
+    ],
+    "canonical_target": "HERCISCUNDA",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-06337",
@@ -83128,7 +83274,7 @@
     "id": "BLD2-06401",
     "index": 6401,
     "term": "HONDHABEND",
-    "entry_type": "verified_main",
+    "entry_type": "cross_reference",
     "confidence": 0.99,
     "source_headword": "HONDHABEND",
     "source_pages": [
@@ -83136,7 +83282,9 @@
     ],
     "flags": [
       "short_body"
-    ]
+    ],
+    "canonical_target": "HANDHABEND",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-06402",
@@ -84516,7 +84664,7 @@
     "id": "BLD2-06510",
     "index": 6510,
     "term": "HYPOCHONDRIA",
-    "entry_type": "verified_main",
+    "entry_type": "cross_reference",
     "confidence": 0.99,
     "source_headword": "HYPOCHONDRIA",
     "source_pages": [
@@ -84524,7 +84672,9 @@
     ],
     "flags": [
       "short_body"
-    ]
+    ],
+    "canonical_target": "INSANITY",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-06511",
@@ -85554,7 +85704,7 @@
     "id": "BLD2-06589",
     "index": 6589,
     "term": "IMBECILITY",
-    "entry_type": "verified_main",
+    "entry_type": "cross_reference",
     "confidence": 0.99,
     "source_headword": "IMBECILITY",
     "source_pages": [
@@ -85562,7 +85712,9 @@
     ],
     "flags": [
       "short_body"
-    ]
+    ],
+    "canonical_target": "INSANITY",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-06590",
@@ -85594,7 +85746,7 @@
     "id": "BLD2-06592",
     "index": 6592,
     "term": "IMBRACERY",
-    "entry_type": "verified_main",
+    "entry_type": "cross_reference",
     "confidence": 0.9,
     "source_headword": "IMBRAOCERY",
     "source_pages": [
@@ -85603,7 +85755,9 @@
     "flags": [
       "headword_mismatch",
       "short_body"
-    ]
+    ],
+    "canonical_target": "EMBRACERY",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-06593",
@@ -86037,7 +86191,7 @@
     "id": "BLD2-06627",
     "index": 6627,
     "term": "IMPERATIVE",
-    "entry_type": "verified_main",
+    "entry_type": "cross_reference",
     "confidence": 0.99,
     "source_headword": "IMPERATIVE",
     "source_pages": [
@@ -86045,7 +86199,9 @@
     ],
     "flags": [
       "short_body"
-    ]
+    ],
+    "canonical_target": "DIRECTORY",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-06628",
@@ -87053,7 +87209,7 @@
     "id": "BLD2-06706",
     "index": 6706,
     "term": "INCEPTION",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.99,
     "source_headword": "INCEPTION",
     "source_pages": [
@@ -87061,7 +87217,9 @@
     ],
     "flags": [
       "embedded_caps_subentry"
-    ]
+    ],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-06707",
@@ -88387,13 +88545,15 @@
     "id": "BLD2-06811",
     "index": 6811,
     "term": "INEBRIATE",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.99,
     "source_headword": "INEBRIATE",
     "source_pages": [
       "620"
     ],
-    "flags": []
+    "flags": [],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-06812",
@@ -88411,7 +88571,7 @@
     "id": "BLD2-06813",
     "index": 6813,
     "term": "INELIGIBLE",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.99,
     "source_headword": "INELIGIBLE",
     "source_pages": [
@@ -88420,7 +88580,9 @@
     ],
     "flags": [
       "embedded_caps_subentry"
-    ]
+    ],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-06814",
@@ -88536,7 +88698,7 @@
     "id": "BLD2-06822",
     "index": 6822,
     "term": "INFAMOUS",
-    "entry_type": "verified_main",
+    "entry_type": "cross_reference",
     "confidence": 0.9,
     "source_headword": "INFAMOUS CRIME",
     "source_pages": [
@@ -88545,19 +88707,23 @@
     "flags": [
       "headword_mismatch",
       "short_body"
-    ]
+    ],
+    "canonical_target": "Crime",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-06823",
     "index": 6823,
     "term": "INFAMY",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.99,
     "source_headword": "INFAMY",
     "source_pages": [
       "621"
     ],
-    "flags": []
+    "flags": [],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-06824",
@@ -88919,7 +89085,7 @@
     "id": "BLD2-06852",
     "index": 6852,
     "term": "INFLUENCE",
-    "entry_type": "verified_main",
+    "entry_type": "cross_reference",
     "confidence": 0.99,
     "source_headword": "INFLUENCE",
     "source_pages": [
@@ -88927,7 +89093,9 @@
     ],
     "flags": [
       "short_body"
-    ]
+    ],
+    "canonical_target": "UNDUE INFLUENCE.\n\n",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-06853",
@@ -89761,7 +89929,7 @@
     "id": "BLD2-06917",
     "index": 6917,
     "term": "INNHOLDER",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "alias_phantom",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -89769,7 +89937,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-06918",
@@ -90274,7 +90444,7 @@
     "id": "BLD2-06956",
     "index": 6956,
     "term": "INQUISITION AFTER DEATH",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "cross_reference",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -90282,7 +90452,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "INQUISITIO.\nInquisition of lunacy. LUNACY",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-06957",
@@ -90342,7 +90514,7 @@
     "id": "BLD2-06961",
     "index": 6961,
     "term": "INROLLMENT",
-    "entry_type": "verified_main",
+    "entry_type": "cross_reference",
     "confidence": 0.99,
     "source_headword": "INROLLMENT",
     "source_pages": [
@@ -90350,7 +90522,9 @@
     ],
     "flags": [
       "short_body"
-    ]
+    ],
+    "canonical_target": "ENROLLMENT.\n\n",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-06962",
@@ -90858,13 +91032,15 @@
     "id": "BLD2-07001",
     "index": 7001,
     "term": "INSTIGATION",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.99,
     "source_headword": "INSTIGATION",
     "source_pages": [
       "639"
     ],
-    "flags": []
+    "flags": [],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-07002",
@@ -91055,7 +91231,7 @@
     "id": "BLD2-07016",
     "index": 7016,
     "term": "INSUCKEN",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "cross_reference",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -91063,7 +91239,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "canonical_target": "INSUCKEN MULTURES",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-07017",
@@ -91675,13 +91853,15 @@
     "id": "BLD2-07065",
     "index": 7065,
     "term": "INTERMEDIATE",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.99,
     "source_headword": "INTERMEDIATE",
     "source_pages": [
       "648"
     ],
-    "flags": []
+    "flags": [],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-07066",
@@ -91702,7 +91882,7 @@
     "id": "BLD2-07067",
     "index": 7067,
     "term": "INTERMITTENT EASEMENT",
-    "entry_type": "verified_main",
+    "entry_type": "cross_reference",
     "confidence": 0.99,
     "source_headword": "INTERMITTENT EASEMENT",
     "source_pages": [
@@ -91711,7 +91891,9 @@
     "flags": [
       "embedded_caps_subentry",
       "short_body"
-    ]
+    ],
+    "canonical_target": "EASEMENT",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-07068",
@@ -91913,13 +92095,15 @@
     "id": "BLD2-07083",
     "index": 7083,
     "term": "INTERPRETER",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.99,
     "source_headword": "INTERPRETER",
     "source_pages": [
       "650"
     ],
-    "flags": []
+    "flags": [],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-07084",
@@ -92377,13 +92561,15 @@
     "id": "BLD2-07119",
     "index": 7119,
     "term": "INVALID",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.99,
     "source_headword": "INVALID",
     "source_pages": [
       "654"
     ],
-    "flags": []
+    "flags": [],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-07120",
@@ -92803,7 +92989,7 @@
     "id": "BLD2-07152",
     "index": 7152,
     "term": "IRREPARABLE",
-    "entry_type": "verified_main",
+    "entry_type": "cross_reference",
     "confidence": 0.9,
     "source_headword": "IRREPARABLE INJURY",
     "source_pages": [
@@ -92812,7 +92998,9 @@
     "flags": [
       "headword_mismatch",
       "short_body"
-    ]
+    ],
+    "canonical_target": "INJURY",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-07153",
@@ -93572,7 +93760,7 @@
     "id": "BLD2-07210",
     "index": 7210,
     "term": "JAIL DELIVERY",
-    "entry_type": "verified_main",
+    "entry_type": "cross_reference",
     "confidence": 0.99,
     "source_headword": "JAIL DELIVERY",
     "source_pages": [
@@ -93580,13 +93768,15 @@
     ],
     "flags": [
       "short_body"
-    ]
+    ],
+    "canonical_target": "GAOL",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-07211",
     "index": 7211,
     "term": "JAIL LIBERTIES",
-    "entry_type": "verified_main",
+    "entry_type": "cross_reference",
     "confidence": 0.99,
     "source_headword": "JAIL LIBERTIES",
     "source_pages": [
@@ -93594,7 +93784,9 @@
     ],
     "flags": [
       "short_body"
-    ]
+    ],
+    "canonical_target": "GAOL",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-07212",
@@ -95682,7 +95874,7 @@
     "id": "BLD2-07371",
     "index": 7371,
     "term": "KALENDS",
-    "entry_type": "verified_main",
+    "entry_type": "cross_reference",
     "confidence": 0.99,
     "source_headword": "KALENDS",
     "source_pages": [
@@ -95690,7 +95882,9 @@
     ],
     "flags": [
       "short_body"
-    ]
+    ],
+    "canonical_target": "CALENDS",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-07372",
@@ -97032,7 +97226,7 @@
     "id": "BLD2-07473",
     "index": 7473,
     "term": "LADING, BILL OF",
-    "entry_type": "headword_corrected",
+    "entry_type": "cross_reference",
     "confidence": 0.82,
     "source_headword": "LADING, BILL OF",
     "source_pages": [
@@ -97041,7 +97235,9 @@
     "flags": [
       "headword_mismatch",
       "short_body"
-    ]
+    ],
+    "canonical_target": "BIL",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-07474",
@@ -98980,7 +99176,7 @@
     "id": "BLD2-07622",
     "index": 7622,
     "term": "LEAP-YEAR",
-    "entry_type": "verified_main",
+    "entry_type": "cross_reference",
     "confidence": 0.99,
     "source_headword": "LEAP-YEAR",
     "source_pages": [
@@ -98988,7 +99184,9 @@
     ],
     "flags": [
       "short_body"
-    ]
+    ],
+    "canonical_target": "BISSEXTILE",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-07623",
@@ -99527,7 +99725,7 @@
     "id": "BLD2-07665",
     "index": 7665,
     "term": "LEGISLATION",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.99,
     "source_headword": "LEGISLATION",
     "source_pages": [
@@ -99535,7 +99733,9 @@
     ],
     "flags": [
       "embedded_caps_subentry"
-    ]
+    ],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-07666",
@@ -100125,7 +100325,7 @@
     "id": "BLD2-07711",
     "index": 7711,
     "term": "LETHAL",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.9,
     "source_headword": "LETHAL WEAPON",
     "source_pages": [
@@ -100133,7 +100333,9 @@
     ],
     "flags": [
       "headword_mismatch"
-    ]
+    ],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-07712",
@@ -100299,13 +100501,15 @@
     "id": "BLD2-07724",
     "index": 7724,
     "term": "LEVEE",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.99,
     "source_headword": "LEVEE",
     "source_pages": [
       "714"
     ],
-    "flags": []
+    "flags": [],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-07725",
@@ -101297,7 +101501,7 @@
     "id": "BLD2-07800",
     "index": 7800,
     "term": "LIEUTENANCY LIEUTENANCY, COMMISSION OF",
-    "entry_type": "provisional_main",
+    "entry_type": "cross_reference",
     "confidence": 0.82,
     "source_headword": "LIEUTENANCY, COMMISSION OF",
     "source_pages": [
@@ -101306,7 +101510,9 @@
     "flags": [
       "headword_mismatch",
       "short_body"
-    ]
+    ],
+    "canonical_target": "CoMMISSION OF ARRAY",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-07801",
@@ -102535,7 +102741,7 @@
     "id": "BLD2-07897",
     "index": 7897,
     "term": "LOCO",
-    "entry_type": "provisional_main",
+    "entry_type": "cross_reference",
     "confidence": 0.82,
     "source_headword": "LOCO PARENTIS",
     "source_pages": [
@@ -102545,7 +102751,9 @@
       "embedded_caps_subentry",
       "headword_mismatch",
       "short_body"
-    ]
+    ],
+    "canonical_target": "In Loco Pa-\nRENTIS",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-07898",
@@ -102711,13 +102919,15 @@
     "id": "BLD2-07910",
     "index": 7910,
     "term": "LOG-ROLLING",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.99,
     "source_headword": "LOG-ROLLING",
     "source_pages": [
       "736"
     ],
-    "flags": []
+    "flags": [],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-07911",
@@ -105018,13 +105228,15 @@
     "id": "BLD2-08087",
     "index": 8087,
     "term": "MALT",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.99,
     "source_headword": "MALT",
     "source_pages": [
       "752"
     ],
-    "flags": []
+    "flags": [],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-08088",
@@ -107631,7 +107843,7 @@
     "id": "BLD2-08289",
     "index": 8289,
     "term": "MEDIATE DESCENT",
-    "entry_type": "verified_main",
+    "entry_type": "cross_reference",
     "confidence": 0.99,
     "source_headword": "MEDIATE DESCENT",
     "source_pages": [
@@ -107639,7 +107851,9 @@
     ],
     "flags": [
       "short_body"
-    ]
+    ],
+    "canonical_target": "DESCENT",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-08290",
@@ -108900,7 +109114,7 @@
     "id": "BLD2-08385",
     "index": 8385,
     "term": "MERO",
-    "entry_type": "verified_main",
+    "entry_type": "cross_reference",
     "confidence": 0.9,
     "source_headword": "MERO MOTU",
     "source_pages": [
@@ -108910,7 +109124,9 @@
       "embedded_caps_subentry",
       "headword_mismatch",
       "short_body"
-    ]
+    ],
+    "canonical_target": "Ex MEBO MOTU;\nMERE MOTION",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-08386",
@@ -109290,7 +109506,7 @@
     "id": "BLD2-08415",
     "index": 8415,
     "term": "METHOMANIA",
-    "entry_type": "verified_main",
+    "entry_type": "cross_reference",
     "confidence": 0.99,
     "source_headword": "METHOMANIA",
     "source_pages": [
@@ -109298,7 +109514,9 @@
     ],
     "flags": [
       "short_body"
-    ]
+    ],
+    "canonical_target": "INSANITY",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-08416",
@@ -109522,7 +109740,7 @@
     "id": "BLD2-08433",
     "index": 8433,
     "term": "MIDDLESEX, BILL OF",
-    "entry_type": "verified_main",
+    "entry_type": "cross_reference",
     "confidence": 0.99,
     "source_headword": "MIDDLESEX, BILL OF",
     "source_pages": [
@@ -109530,7 +109748,9 @@
     ],
     "flags": [
       "short_body"
-    ]
+    ],
+    "canonical_target": "BILL",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-08434",
@@ -110163,13 +110383,15 @@
     "id": "BLD2-08483",
     "index": 8483,
     "term": "MISBEHAVIOR",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.99,
     "source_headword": "MISBEHAVIOR",
     "source_pages": [
       "782"
     ],
-    "flags": []
+    "flags": [],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-08484",
@@ -110921,27 +111143,31 @@
     "id": "BLD2-08542",
     "index": 8542,
     "term": "MODEL",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.99,
     "source_headword": "MODEL",
     "source_pages": [
       "786",
       "787"
     ],
-    "flags": []
+    "flags": [],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-08543",
     "index": 8543,
     "term": "MODERAMEN",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "alias_phantom",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-08544",
@@ -112389,7 +112615,7 @@
     "id": "BLD2-08654",
     "index": 8654,
     "term": "MUCIANA",
-    "entry_type": "verified_main",
+    "entry_type": "cross_reference",
     "confidence": 0.9,
     "source_headword": "MUCIANA CAUTIO",
     "source_pages": [
@@ -112398,7 +112624,9 @@
     "flags": [
       "headword_mismatch",
       "short_body"
-    ]
+    ],
+    "canonical_target": "CAUTIO",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-08655",
@@ -113137,13 +113365,15 @@
     "id": "BLD2-08712",
     "index": 8712,
     "term": "MYSTERY",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.99,
     "source_headword": "MYSTERY",
     "source_pages": [
       "801"
     ],
-    "flags": []
+    "flags": [],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-08713",
@@ -113163,7 +113393,7 @@
   {
     "id": "BLD2-08714",
     "index": 8714,
-    "term": "MÆG-BURGH",
+    "term": "M\u00c6G-BURGH",
     "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
@@ -113179,7 +113409,7 @@
   {
     "id": "BLD2-08715",
     "index": 8715,
-    "term": "MÆGBOTE",
+    "term": "M\u00c6GBOTE",
     "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
@@ -113211,7 +113441,7 @@
   {
     "id": "BLD2-08717",
     "index": 8717,
-    "term": "MÆREMIUM",
+    "term": "M\u00c6REMIUM",
     "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
@@ -113903,13 +114133,15 @@
     "id": "BLD2-08768",
     "index": 8768,
     "term": "NATURALIZATION",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.99,
     "source_headword": "NATURALIZATION",
     "source_pages": [
       "805"
     ],
-    "flags": []
+    "flags": [],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-08769",
@@ -114533,7 +114765,7 @@
     "id": "BLD2-08818",
     "index": 8818,
     "term": "NECROPHILISM",
-    "entry_type": "verified_main",
+    "entry_type": "cross_reference",
     "confidence": 0.99,
     "source_headword": "NECROPHILISM",
     "source_pages": [
@@ -114541,7 +114773,9 @@
     ],
     "flags": [
       "short_body"
-    ]
+    ],
+    "canonical_target": "INSANITY",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-08819",
@@ -115094,7 +115328,7 @@
     "id": "BLD2-08860",
     "index": 8860,
     "term": "NEWLY-DISCOVERED",
-    "entry_type": "verified_main",
+    "entry_type": "cross_reference",
     "confidence": 0.9,
     "source_headword": "NEWLY-DISCOVERED EVIDENCE",
     "source_pages": [
@@ -115103,7 +115337,9 @@
     "flags": [
       "headword_mismatch",
       "short_body"
-    ]
+    ],
+    "canonical_target": "EVIDENCE",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-08861",
@@ -115424,7 +115660,7 @@
     "id": "BLD2-08885",
     "index": 8885,
     "term": "NO FUNDS",
-    "entry_type": "verified_main",
+    "entry_type": "cross_reference",
     "confidence": 0.9,
     "source_headword": "NWO FUNDS",
     "source_pages": [
@@ -115433,7 +115669,9 @@
     "flags": [
       "headword_mismatch",
       "short_body"
-    ]
+    ],
+    "canonical_target": "FUND",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-08886",
@@ -116093,7 +116331,7 @@
     "id": "BLD2-08935",
     "index": 8935,
     "term": "NON-JOINDER",
-    "entry_type": "verified_main",
+    "entry_type": "cross_reference",
     "confidence": 0.99,
     "source_headword": "NON-JOINDER",
     "source_pages": [
@@ -116101,7 +116339,9 @@
     ],
     "flags": [
       "short_body"
-    ]
+    ],
+    "canonical_target": "JOINDER",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-08936",
@@ -116809,7 +117049,7 @@
     "id": "BLD2-08990",
     "index": 8990,
     "term": "NOVEL",
-    "entry_type": "provisional_main",
+    "entry_type": "cross_reference",
     "confidence": 0.82,
     "source_headword": "NOVEL ASSIGNMENT",
     "source_pages": [
@@ -116819,13 +117059,15 @@
       "embedded_caps_subentry",
       "headword_mismatch",
       "short_body"
-    ]
+    ],
+    "canonical_target": "New As-\nSIGNMENT",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-08991",
     "index": 8991,
     "term": "NOVEL DISSEISIN",
-    "entry_type": "verified_main",
+    "entry_type": "cross_reference",
     "confidence": 0.99,
     "source_headword": "NOVEL DISSEISIN",
     "source_pages": [
@@ -116833,7 +117075,9 @@
     ],
     "flags": [
       "embedded_caps_subentry"
-    ]
+    ],
+    "canonical_target": "ASSISE OF\nNOVEL DISSEISIN",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-08992",
@@ -118264,7 +118508,7 @@
   {
     "id": "BLD2-09099",
     "index": 9099,
-    "term": "OCASIÓN",
+    "term": "OCASI\u00d3N",
     "entry_type": "verified_main",
     "confidence": 0.99,
     "source_headword": "OCASION",
@@ -119166,7 +119410,7 @@
     "id": "BLD2-09166",
     "index": 9166,
     "term": "OMNIBUS",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.9,
     "source_headword": "OMNIBUS BILL",
     "source_pages": [
@@ -119174,7 +119418,9 @@
     ],
     "flags": [
       "headword_mismatch"
-    ]
+    ],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-09167",
@@ -119207,7 +119453,7 @@
     "id": "BLD2-09169",
     "index": 9169,
     "term": "ONCE",
-    "entry_type": "provisional_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.82,
     "source_headword": "ONCE IN JEOPARDY",
     "source_pages": [
@@ -119215,7 +119461,9 @@
     ],
     "flags": [
       "headword_mismatch"
-    ]
+    ],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-09170",
@@ -119247,7 +119495,7 @@
     "id": "BLD2-09172",
     "index": 9172,
     "term": "ONERANDO",
-    "entry_type": "subentry",
+    "entry_type": "cross_reference",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [
@@ -119258,7 +119506,8 @@
       "low_match_score",
       "missing_source_candidate"
     ],
-    "canonical_target": "ONERANDO PRO RATA PORTIONIS"
+    "canonical_target": "ONERANDO PRO RATA PORTIONIS",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-09173",
@@ -119304,7 +119553,7 @@
     "id": "BLD2-09176",
     "index": 9176,
     "term": "ONERATUR",
-    "entry_type": "verified_main",
+    "entry_type": "cross_reference",
     "confidence": 0.9,
     "source_headword": "ONERATUR NISI",
     "source_pages": [
@@ -119313,7 +119562,9 @@
     "flags": [
       "headword_mismatch",
       "short_body"
-    ]
+    ],
+    "canonical_target": "ONERARI",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-09177",
@@ -121681,7 +121932,7 @@
     "id": "BLD2-09360",
     "index": 9360,
     "term": "PAINE",
-    "entry_type": "provisional_main",
+    "entry_type": "cross_reference",
     "confidence": 0.82,
     "source_headword": "PAINE FORTE ET DURE",
     "source_pages": [
@@ -121690,7 +121941,9 @@
     "flags": [
       "headword_mismatch",
       "short_body"
-    ]
+    ],
+    "canonical_target": "PEINE\nF'orRTE ET DURE",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-09361",
@@ -123240,13 +123493,15 @@
     "id": "BLD2-09478",
     "index": 9478,
     "term": "PARVUM CAPE",
-    "entry_type": "verified_main",
+    "entry_type": "cross_reference",
     "confidence": 0.99,
     "source_headword": "PARVUM CAPE",
     "source_pages": [
       "879"
     ],
-    "flags": []
+    "flags": [],
+    "canonical_target": "Petit CAPE.\n\n' PAS. In French. Precedence; right of\n\ngoing foremost",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-09479",
@@ -123817,13 +124072,15 @@
     "id": "BLD2-09523",
     "index": 9523,
     "term": "PATROLMAN",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.99,
     "source_headword": "PATROLMAN",
     "source_pages": [
       "882"
     ],
-    "flags": []
+    "flags": [],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-09524",
@@ -124027,7 +124284,7 @@
   {
     "id": "BLD2-09540",
     "index": 9540,
-    "term": "PAX ECCLESIÆ",
+    "term": "PAX ECCLESI\u00c6",
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
@@ -124411,13 +124668,15 @@
     "id": "BLD2-09570",
     "index": 9570,
     "term": "PEDIGREE",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.99,
     "source_headword": "PEDIGREE",
     "source_pages": [
       "885"
     ],
-    "flags": []
+    "flags": [],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-09571",
@@ -125838,13 +126097,15 @@
     "id": "BLD2-09681",
     "index": 9681,
     "term": "PERTAIN",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.99,
     "source_headword": "PERTAIN",
     "source_pages": [
       "896"
     ],
-    "flags": []
+    "flags": [],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-09682",
@@ -126538,7 +126799,7 @@
     "id": "BLD2-09734",
     "index": 9734,
     "term": "PIEPOUDRE",
-    "entry_type": "verified_main",
+    "entry_type": "cross_reference",
     "confidence": 0.99,
     "source_headword": "PIEPOUDRE",
     "source_pages": [
@@ -126546,7 +126807,9 @@
     ],
     "flags": [
       "short_body"
-    ]
+    ],
+    "canonical_target": "Count or PIEPOUDRE",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-09735",
@@ -126720,13 +126983,15 @@
     "id": "BLD2-09748",
     "index": 9748,
     "term": "PILOT",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.99,
     "source_headword": "PILOT",
     "source_pages": [
       "899"
     ],
-    "flags": []
+    "flags": [],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-09749",
@@ -126837,7 +127102,7 @@
     "id": "BLD2-09757",
     "index": 9757,
     "term": "PIONEER PATENT",
-    "entry_type": "verified_main",
+    "entry_type": "cross_reference",
     "confidence": 0.99,
     "source_headword": "PIONEER PATENT",
     "source_pages": [
@@ -126845,7 +127110,9 @@
     ],
     "flags": [
       "short_body"
-    ]
+    ],
+    "canonical_target": "PATENT",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-09758",
@@ -126866,7 +127133,7 @@
     "id": "BLD2-09759",
     "index": 9759,
     "term": "PIOUS USES",
-    "entry_type": "verified_main",
+    "entry_type": "cross_reference",
     "confidence": 0.99,
     "source_headword": "PIOUS USES",
     "source_pages": [
@@ -126874,7 +127141,9 @@
     ],
     "flags": [
       "short_body"
-    ]
+    ],
+    "canonical_target": "CHARITABLE USES.\nof",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-09760",
@@ -128260,13 +128529,15 @@
     "id": "BLD2-09867",
     "index": 9867,
     "term": "POLL-TAX",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.99,
     "source_headword": "POLL-TAX",
     "source_pages": [
       "911"
     ],
-    "flags": []
+    "flags": [],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-09868",
@@ -129205,7 +129476,7 @@
     "id": "BLD2-09939",
     "index": 9939,
     "term": "POSTED",
-    "entry_type": "subentry",
+    "entry_type": "alias_phantom",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [
@@ -129216,19 +129487,23 @@
       "low_match_score",
       "missing_source_candidate"
     ],
-    "canonical_target": "POSTED WATERS"
+    "canonical_target": "POSTED WATERS",
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-09940",
     "index": 9940,
     "term": "POSTED WATERS",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.99,
     "source_headword": "POSTED WATERS",
     "source_pages": [
       "919"
     ],
-    "flags": []
+    "flags": [],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-09941",
@@ -129313,7 +129588,7 @@
     "id": "BLD2-09947",
     "index": 9947,
     "term": "POSTLIMINY",
-    "entry_type": "verified_main",
+    "entry_type": "cross_reference",
     "confidence": 0.99,
     "source_headword": "POSTLIMINY",
     "source_pages": [
@@ -129321,7 +129596,9 @@
     ],
     "flags": [
       "short_body"
-    ]
+    ],
+    "canonical_target": "POSTLIMINIUM",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-09948",
@@ -129663,7 +129940,7 @@
     "id": "BLD2-09974",
     "index": 9974,
     "term": "POYNDING",
-    "entry_type": "verified_main",
+    "entry_type": "cross_reference",
     "confidence": 0.99,
     "source_headword": "POYNDING",
     "source_pages": [
@@ -129671,7 +129948,9 @@
     ],
     "flags": [
       "short_body"
-    ]
+    ],
+    "canonical_target": "POINDING",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-09975",
@@ -130499,7 +130778,7 @@
     "id": "BLD2-10035",
     "index": 10035,
     "term": "PRECINCT",
-    "entry_type": "headword_corrected",
+    "entry_type": "alias_phantom",
     "confidence": 0.9,
     "source_headword": "PREOCINOT",
     "source_pages": [
@@ -130507,7 +130786,9 @@
     ],
     "flags": [
       "headword_mismatch"
-    ]
+    ],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-10036",
@@ -131182,7 +131463,7 @@
     "id": "BLD2-10087",
     "index": 10087,
     "term": "PRESSING",
-    "entry_type": "verified_main",
+    "entry_type": "cross_reference",
     "confidence": 0.9,
     "source_headword": "PRESSING TO DEATH",
     "source_pages": [
@@ -131191,7 +131472,9 @@
     "flags": [
       "headword_mismatch",
       "short_body"
-    ]
+    ],
+    "canonical_target": "PEINE\nForre \u00a3v DvuBE",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-10088",
@@ -131245,7 +131528,7 @@
     "id": "BLD2-10092",
     "index": 10092,
     "term": "PRESUMPTIO",
-    "entry_type": "verified_main",
+    "entry_type": "cross_reference",
     "confidence": 0.99,
     "source_headword": "PRESUMPTIO",
     "source_pages": [
@@ -131254,7 +131537,9 @@
     "flags": [
       "embedded_caps_subentry",
       "short_body"
-    ]
+    ],
+    "canonical_target": "PRASUMPTIO; PRE-\nSUMPTION",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-10093",
@@ -132271,13 +132556,15 @@
     "id": "BLD2-10170",
     "index": 10170,
     "term": "PROBABILITY",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.99,
     "source_headword": "PROBABILITY",
     "source_pages": [
       "945"
     ],
-    "flags": []
+    "flags": [],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-10171",
@@ -133678,7 +133965,7 @@
     "id": "BLD2-10280",
     "index": 10280,
     "term": "PROPRIA PERSONA",
-    "entry_type": "verified_main",
+    "entry_type": "cross_reference",
     "confidence": 0.99,
     "source_headword": "PROPRIA PERSONA",
     "source_pages": [
@@ -133687,7 +133974,9 @@
     "flags": [
       "embedded_caps_subentry",
       "short_body"
-    ]
+    ],
+    "canonical_target": "IN Pro-\nPRIA PERSONA",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-10281",
@@ -134670,13 +134959,15 @@
     "id": "BLD2-10357",
     "index": 10357,
     "term": "PUBERTY",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.99,
     "source_headword": "PUBERTY",
     "source_pages": [
       "964"
     ],
-    "flags": []
+    "flags": [],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-10358",
@@ -135017,13 +135308,15 @@
     "id": "BLD2-10384",
     "index": 10384,
     "term": "PUNISHMENT",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.99,
     "source_headword": "PUNISHMENT",
     "source_pages": [
       "966"
     ],
-    "flags": []
+    "flags": [],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-10385",
@@ -135411,13 +135704,15 @@
     "id": "BLD2-10415",
     "index": 10415,
     "term": "PUTATIVE",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.99,
     "source_headword": "PUTATIVE",
     "source_pages": [
       "968"
     ],
-    "flags": []
+    "flags": [],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-10416",
@@ -136407,7 +136702,7 @@
     "id": "BLD2-10490",
     "index": 10490,
     "term": "QUATER COUSIN",
-    "entry_type": "verified_main",
+    "entry_type": "cross_reference",
     "confidence": 0.99,
     "source_headword": "QUATER COUSIN",
     "source_pages": [
@@ -136415,7 +136710,9 @@
     ],
     "flags": [
       "short_body"
-    ]
+    ],
+    "canonical_target": "Cousin",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-10491",
@@ -137714,7 +138011,7 @@
     "id": "BLD2-10589",
     "index": 10589,
     "term": "RAPE",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.99,
     "source_headword": "RAPE",
     "source_pages": [
@@ -137722,7 +138019,9 @@
     ],
     "flags": [
       "embedded_caps_subentry"
-    ]
+    ],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-10590",
@@ -144004,7 +144303,7 @@
     "id": "BLD2-11073",
     "index": 11073,
     "term": "REVERSIBLE ERROR",
-    "entry_type": "verified_main",
+    "entry_type": "cross_reference",
     "confidence": 0.99,
     "source_headword": "REVERSIBLE ERROR",
     "source_pages": [
@@ -144012,7 +144311,9 @@
     ],
     "flags": [
       "short_body"
-    ]
+    ],
+    "canonical_target": "ERROR",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-11074",
@@ -144107,13 +144408,15 @@
     "id": "BLD2-11081",
     "index": 11081,
     "term": "REVIEW",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.99,
     "source_headword": "REVIEW",
     "source_pages": [
       "1035"
     ],
-    "flags": []
+    "flags": [],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-11082",
@@ -146345,13 +146648,15 @@
     "id": "BLD2-11250",
     "index": 11250,
     "term": "SABBATH",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.99,
     "source_headword": "SABBATH",
     "source_pages": [
       "1050"
     ],
-    "flags": []
+    "flags": [],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-11251",
@@ -146828,14 +147133,16 @@
     "id": "BLD2-11288",
     "index": 11288,
     "term": "SALARY",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.99,
     "source_headword": "SALARY",
     "source_pages": [
       "1052",
       "1053"
     ],
-    "flags": []
+    "flags": [],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-11289",
@@ -146897,14 +147204,16 @@
     "id": "BLD2-11293",
     "index": 11293,
     "term": "SALOON",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "alias_phantom",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
     "flags": [
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-11294",
@@ -147004,7 +147313,7 @@
     "id": "BLD2-11301",
     "index": 11301,
     "term": "SALVIAN INTERDICT",
-    "entry_type": "verified_main",
+    "entry_type": "cross_reference",
     "confidence": 0.9,
     "source_headword": "SALVIAN INTERDIOT",
     "source_pages": [
@@ -147013,7 +147322,9 @@
     "flags": [
       "headword_mismatch",
       "short_body"
-    ]
+    ],
+    "canonical_target": "InvzERbrorum SaLvIANUM",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-11302",
@@ -147428,7 +147739,7 @@
     "id": "BLD2-11333",
     "index": 11333,
     "term": "SATISFACTORY EVIDENCE",
-    "entry_type": "verified_main",
+    "entry_type": "cross_reference",
     "confidence": 0.99,
     "source_headword": "SATISFACTORY EVIDENCE",
     "source_pages": [
@@ -147436,7 +147747,9 @@
     ],
     "flags": [
       "short_body"
-    ]
+    ],
+    "canonical_target": "EVIDENCE",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-11334",
@@ -147563,7 +147876,7 @@
     "id": "BLD2-11343",
     "index": 11343,
     "term": "SAVINGS",
-    "entry_type": "verified_main",
+    "entry_type": "cross_reference",
     "confidence": 0.9,
     "source_headword": "SAVINGS BANK",
     "source_pages": [
@@ -147571,7 +147884,9 @@
     ],
     "flags": [
       "headword_mismatch"
-    ]
+    ],
+    "canonical_target": "BANK.\nBi.Law Dict.(2p Ep.)}\u201467",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-11344",
@@ -148199,7 +148514,7 @@
     "id": "BLD2-11391",
     "index": 11391,
     "term": "SCRAMBLING",
-    "entry_type": "verified_main",
+    "entry_type": "cross_reference",
     "confidence": 0.9,
     "source_headword": "SCRAMBLING POSSESSION",
     "source_pages": [
@@ -148208,7 +148523,9 @@
     "flags": [
       "headword_mismatch",
       "short_body"
-    ]
+    ],
+    "canonical_target": "POSSESSION",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-11392",
@@ -149083,13 +149400,15 @@
     "id": "BLD2-11459",
     "index": 11459,
     "term": "SEDUCE",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.99,
     "source_headword": "SEDUCE",
     "source_pages": [
       "1067"
     ],
-    "flags": []
+    "flags": [],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-11460",
@@ -149215,7 +149534,7 @@
     "id": "BLD2-11469",
     "index": 11469,
     "term": "SEISED",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "alias_phantom",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -149223,7 +149542,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-11470",
@@ -149286,7 +149607,7 @@
     "id": "BLD2-11474",
     "index": 11474,
     "term": "SEIZING",
-    "entry_type": "verified_main",
+    "entry_type": "cross_reference",
     "confidence": 0.9,
     "source_headword": "SEIZIN",
     "source_pages": [
@@ -149295,7 +149616,9 @@
     "flags": [
       "headword_mismatch",
       "short_body"
-    ]
+    ],
+    "canonical_target": "SEISIN",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-11475",
@@ -149871,13 +150194,15 @@
     "id": "BLD2-11518",
     "index": 11518,
     "term": "SEPARALITER",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.99,
     "source_headword": "SEPARALITER",
     "source_pages": [
       "1072"
     ],
-    "flags": []
+    "flags": [],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-11519",
@@ -151028,7 +151353,7 @@
     "id": "BLD2-11606",
     "index": 11606,
     "term": "SHAM",
-    "entry_type": "verified_main",
+    "entry_type": "cross_reference",
     "confidence": 0.9,
     "source_headword": "SHAM PLEA",
     "source_pages": [
@@ -151037,7 +151362,9 @@
     "flags": [
       "headword_mismatch",
       "short_body"
-    ]
+    ],
+    "canonical_target": "PLEA",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-11607",
@@ -151471,7 +151798,7 @@
     "id": "BLD2-11641",
     "index": 11641,
     "term": "SHOP",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.99,
     "source_headword": "SHOP",
     "source_pages": [
@@ -151479,7 +151806,9 @@
     ],
     "flags": [
       "embedded_caps_subentry"
-    ]
+    ],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-11642",
@@ -151810,13 +152139,15 @@
     "id": "BLD2-11667",
     "index": 11667,
     "term": "SIDEWALK",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.99,
     "source_headword": "SIDEWALK",
     "source_pages": [
       "1088"
     ],
-    "flags": []
+    "flags": [],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-11668",
@@ -152157,7 +152488,7 @@
     "id": "BLD2-11694",
     "index": 11694,
     "term": "SIMONY",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.99,
     "source_headword": "SIMONY",
     "source_pages": [
@@ -152165,7 +152496,9 @@
     ],
     "flags": [
       "embedded_caps_subentry"
-    ]
+    ],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-11695",
@@ -152634,7 +152967,7 @@
     "id": "BLD2-11730",
     "index": 11730,
     "term": "SLAINS",
-    "entry_type": "verified_main",
+    "entry_type": "cross_reference",
     "confidence": 0.99,
     "source_headword": "SLAINS",
     "source_pages": [
@@ -152642,7 +152975,9 @@
     ],
     "flags": [
       "short_body"
-    ]
+    ],
+    "canonical_target": "LETTERS OF SLAINS",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-11731",
@@ -155171,7 +155506,7 @@
     "id": "BLD2-11920",
     "index": 11920,
     "term": "SPEAKING DEMURRER",
-    "entry_type": "verified_main",
+    "entry_type": "cross_reference",
     "confidence": 0.99,
     "source_headword": "SPEAKING DEMURRER",
     "source_pages": [
@@ -155179,7 +155514,9 @@
     ],
     "flags": [
       "short_body"
-    ]
+    ],
+    "canonical_target": "DEMURRER",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-11921",
@@ -155826,13 +156163,15 @@
     "id": "BLD2-11970",
     "index": 11970,
     "term": "STAB",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.99,
     "source_headword": "STAB",
     "source_pages": [
       "1103"
     ],
-    "flags": []
+    "flags": [],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-11971",
@@ -156131,14 +156470,16 @@
     "id": "BLD2-11994",
     "index": 11994,
     "term": "STATE",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.99,
     "source_headword": "STATE",
     "source_pages": [
       "1105",
       "1106"
     ],
-    "flags": []
+    "flags": [],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-11995",
@@ -157553,7 +157894,7 @@
     "id": "BLD2-12103",
     "index": 12103,
     "term": "SUBCONTRACT",
-    "entry_type": "verified_main",
+    "entry_type": "cross_reference",
     "confidence": 0.99,
     "source_headword": "SUBCONTRACT",
     "source_pages": [
@@ -157561,7 +157902,9 @@
     ],
     "flags": [
       "short_body"
-    ]
+    ],
+    "canonical_target": "CONTRACT",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-12104",
@@ -157763,7 +158106,7 @@
     "id": "BLD2-12120",
     "index": 12120,
     "term": "SUBORNATION",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.9,
     "source_headword": "SUBORNATION OF PERJURY",
     "source_pages": [
@@ -157771,7 +158114,9 @@
     ],
     "flags": [
       "headword_mismatch"
-    ]
+    ],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-12121",
@@ -157954,7 +158299,7 @@
     "id": "BLD2-12135",
     "index": 12135,
     "term": "SUBSEQUENT CONDITION",
-    "entry_type": "verified_main",
+    "entry_type": "cross_reference",
     "confidence": 0.99,
     "source_headword": "SUBSEQUENT CONDITION",
     "source_pages": [
@@ -157963,7 +158308,9 @@
     "flags": [
       "embedded_caps_subentry",
       "short_body"
-    ]
+    ],
+    "canonical_target": "CONDITION",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-12136",
@@ -157981,13 +158328,15 @@
     "id": "BLD2-12137",
     "index": 12137,
     "term": "SUBSTANCE",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.99,
     "source_headword": "SUBSTANCE",
     "source_pages": [
       "1117"
     ],
-    "flags": []
+    "flags": [],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-12138",
@@ -159090,7 +159439,7 @@
     "id": "BLD2-12222",
     "index": 12222,
     "term": "SUPPLETORY OATH",
-    "entry_type": "verified_main",
+    "entry_type": "cross_reference",
     "confidence": 0.99,
     "source_headword": "SUPPLETORY OATH",
     "source_pages": [
@@ -159098,7 +159447,9 @@
     ],
     "flags": [
       "short_body"
-    ]
+    ],
+    "canonical_target": "OATH",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-12223",
@@ -159397,7 +159748,7 @@
     "id": "BLD2-12246",
     "index": 12246,
     "term": "SURFACE WATERS",
-    "entry_type": "verified_main",
+    "entry_type": "cross_reference",
     "confidence": 0.99,
     "source_headword": "SURFACE WATERS",
     "source_pages": [
@@ -159405,7 +159756,9 @@
     ],
     "flags": [
       "short_body"
-    ]
+    ],
+    "canonical_target": "WATER",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-12247",
@@ -159677,13 +160030,15 @@
     "id": "BLD2-12268",
     "index": 12268,
     "term": "SUSPEND",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.99,
     "source_headword": "SUSPEND",
     "source_pages": [
       "1129"
     ],
-    "flags": []
+    "flags": [],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-12269",
@@ -159904,7 +160259,7 @@
     "id": "BLD2-12285",
     "index": 12285,
     "term": "SWAINMOTE",
-    "entry_type": "verified_main",
+    "entry_type": "cross_reference",
     "confidence": 0.99,
     "source_headword": "SWAINMOTE",
     "source_pages": [
@@ -159912,7 +160267,9 @@
     ],
     "flags": [
       "short_body"
-    ]
+    ],
+    "canonical_target": "SWEINMOTE",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-12286",
@@ -160318,7 +160675,7 @@
   {
     "id": "BLD2-12316",
     "index": 12316,
-    "term": "SZEMENД",
+    "term": "SZEMEN\u0414",
     "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
@@ -160332,7 +160689,7 @@
   {
     "id": "BLD2-12317",
     "index": 12317,
-    "term": "SÆVITIA",
+    "term": "S\u00c6VITIA",
     "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
@@ -163744,13 +164101,15 @@
     "id": "BLD2-12577",
     "index": 12577,
     "term": "THREAT",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.99,
     "source_headword": "THREAT",
     "source_pages": [
       "1154"
     ],
-    "flags": []
+    "flags": [],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-12578",
@@ -164768,13 +165127,15 @@
     "id": "BLD2-12654",
     "index": 12654,
     "term": "TOKEN",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.99,
     "source_headword": "TOKEN",
     "source_pages": [
       "1159"
     ],
-    "flags": []
+    "flags": [],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-12655",
@@ -165782,7 +166143,7 @@
     "id": "BLD2-12731",
     "index": 12731,
     "term": "TRANSCRIPT",
-    "entry_type": "legacy_unresolved",
+    "entry_type": "alias_phantom",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [],
@@ -165790,7 +166151,9 @@
       "embedded_caps_subentry",
       "low_match_score",
       "missing_source_candidate"
-    ]
+    ],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-12732",
@@ -165907,7 +166270,7 @@
     "id": "BLD2-12741",
     "index": 12741,
     "term": "TRANSGRESSIVE",
-    "entry_type": "verified_main",
+    "entry_type": "cross_reference",
     "confidence": 0.9,
     "source_headword": "TRANSGRESSIVE TRUST",
     "source_pages": [
@@ -165916,7 +166279,9 @@
     "flags": [
       "headword_mismatch",
       "short_body"
-    ]
+    ],
+    "canonical_target": "Trust",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-12742",
@@ -166137,13 +166502,15 @@
     "id": "BLD2-12759",
     "index": 12759,
     "term": "TRAVEL",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.99,
     "source_headword": "TRAVEL",
     "source_pages": [
       "1169"
     ],
-    "flags": []
+    "flags": [],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-12760",
@@ -168279,13 +168646,15 @@
     "id": "BLD2-12921",
     "index": 12921,
     "term": "UNCLE",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.99,
     "source_headword": "UNCLE",
     "source_pages": [
       "1183"
     ],
-    "flags": []
+    "flags": [],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-12922",
@@ -168655,7 +169024,7 @@
     "id": "BLD2-12950",
     "index": 12950,
     "term": "UNIFORMITY",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.99,
     "source_headword": "UNIFORMITY",
     "source_pages": [
@@ -168663,7 +169032,9 @@
     ],
     "flags": [
       "embedded_caps_subentry"
-    ]
+    ],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-12951",
@@ -168825,7 +169196,7 @@
     "id": "BLD2-12963",
     "index": 12963,
     "term": "UNIVERSITY",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.99,
     "source_headword": "UNIVERSITY",
     "source_pages": [
@@ -168833,7 +169204,9 @@
     ],
     "flags": [
       "embedded_caps_subentry"
-    ]
+    ],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-12964",
@@ -169021,7 +169394,7 @@
     "id": "BLD2-12978",
     "index": 12978,
     "term": "UNSEATED LAND",
-    "entry_type": "verified_main",
+    "entry_type": "cross_reference",
     "confidence": 0.99,
     "source_headword": "UNSEATED LAND",
     "source_pages": [
@@ -169029,13 +169402,15 @@
     ],
     "flags": [
       "short_body"
-    ]
+    ],
+    "canonical_target": "LANDS",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-12979",
     "index": 12979,
     "term": "UNSEAWORTHY",
-    "entry_type": "verified_main",
+    "entry_type": "cross_reference",
     "confidence": 0.99,
     "source_headword": "UNSEAWORTHY",
     "source_pages": [
@@ -169043,7 +169418,9 @@
     ],
     "flags": [
       "short_body"
-    ]
+    ],
+    "canonical_target": "SEAWORTHY",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-12980",
@@ -170033,7 +170410,7 @@
     "id": "BLD2-13052",
     "index": 13052,
     "term": "VACANT",
-    "entry_type": "provisional_main",
+    "entry_type": "cross_reference",
     "confidence": 0.82,
     "source_headword": "VACANT SUCCESSION",
     "source_pages": [
@@ -170043,7 +170420,9 @@
       "headword_mismatch",
       "short_body",
       "zythum_bleed"
-    ]
+    ],
+    "canonical_target": "SUCCESSION",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-13053",
@@ -170407,7 +170786,7 @@
     "id": "BLD2-13078",
     "index": 13078,
     "term": "VALUATION",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.99,
     "source_headword": "VALUATION",
     "source_pages": [
@@ -170415,7 +170794,9 @@
     ],
     "flags": [
       "zythum_bleed"
-    ]
+    ],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-13079",
@@ -170812,7 +171193,7 @@
     "id": "BLD2-13106",
     "index": 13106,
     "term": "VEHMGERICHT",
-    "entry_type": "verified_main",
+    "entry_type": "cross_reference",
     "confidence": 0.99,
     "source_headword": "VEHMGERICHT",
     "source_pages": [
@@ -170821,7 +171202,9 @@
     "flags": [
       "short_body",
       "zythum_bleed"
-    ]
+    ],
+    "canonical_target": "FEHMGERICHT",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-13107",
@@ -171940,7 +172323,7 @@
     "id": "BLD2-13184",
     "index": 13184,
     "term": "VIAGERE",
-    "entry_type": "subentry",
+    "entry_type": "cross_reference",
     "confidence": 0.0,
     "source_headword": null,
     "source_pages": [
@@ -171951,7 +172334,8 @@
       "low_match_score",
       "missing_source_candidate"
     ],
-    "canonical_target": "VIAGERE RENTE"
+    "canonical_target": "VIAGERE RENTE",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-13185",
@@ -172840,7 +173224,7 @@
     "id": "BLD2-13246",
     "index": 13246,
     "term": "VINCULO MATRIMONII",
-    "entry_type": "verified_main",
+    "entry_type": "cross_reference",
     "confidence": 0.99,
     "source_headword": "VINCULO MATRIMONII",
     "source_pages": [
@@ -172849,7 +173233,9 @@
     "flags": [
       "short_body",
       "zythum_bleed"
-    ]
+    ],
+    "canonical_target": "A VIN-\nCULO MATRIMONII",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-13247",
@@ -172942,7 +173328,7 @@
     "id": "BLD2-13253",
     "index": 13253,
     "term": "VINDICTIVE",
-    "entry_type": "verified_main",
+    "entry_type": "cross_reference",
     "confidence": 0.9,
     "source_headword": "VINDICTIVE DAMAGES",
     "source_pages": [
@@ -172952,7 +173338,9 @@
       "headword_mismatch",
       "short_body",
       "zythum_bleed"
-    ]
+    ],
+    "canonical_target": "DAMAGES",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-13254",
@@ -173321,7 +173709,7 @@
     "id": "BLD2-13279",
     "index": 13279,
     "term": "VISNE",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.99,
     "source_headword": "VISNE",
     "source_pages": [
@@ -173329,7 +173717,9 @@
     ],
     "flags": [
       "zythum_bleed"
-    ]
+    ],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-13280",
@@ -173859,7 +174249,7 @@
     "id": "BLD2-13316",
     "index": 13316,
     "term": "VOUCHER",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.99,
     "source_headword": "VOUCHER",
     "source_pages": [
@@ -173868,7 +174258,9 @@
     "flags": [
       "embedded_caps_subentry",
       "zythum_bleed"
-    ]
+    ],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-13317",
@@ -174721,7 +175113,7 @@
     "id": "BLD2-13376",
     "index": 13376,
     "term": "WAREHOUSE",
-    "entry_type": "verified_main",
+    "entry_type": "alias_phantom",
     "confidence": 0.99,
     "source_headword": "WAREHOUSE",
     "source_pages": [
@@ -174729,7 +175121,9 @@
     ],
     "flags": [
       "zythum_bleed"
-    ]
+    ],
+    "reason": "Court citations with no definitional language",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-13377",
@@ -177143,7 +177537,7 @@
     "id": "BLD2-13544",
     "index": 13544,
     "term": "WRIT DE BONO ET MALO",
-    "entry_type": "verified_main",
+    "entry_type": "cross_reference",
     "confidence": 0.99,
     "source_headword": "WRIT DE BONO ET MALO",
     "source_pages": [
@@ -177151,7 +177545,9 @@
     ],
     "flags": [
       "zythum_bleed"
-    ]
+    ],
+    "canonical_target": "Dr\nBono ET MALO; ABSIZE",
+    "_source": "jules_cleanup_2026-04-22"
   },
   {
     "id": "BLD2-13545",
@@ -178526,7 +178922,7 @@
   {
     "id": "BLD2-13641",
     "term": "COURT OF SESSION",
-    "body": "The name of the\nhighest court of civil jurisdiction in Scotland. It was composed of fifteen judges,\nnow of thirteen. It sits in two divisions.\nThe lord president and three ordinary lords\nform the first division; the lord justice clerk\nand three other ordinary lords form the second division. There are five permanent\nlords ordinary attached equally to both divisions; the Jast appointed of whom officiates on the bills, 4. ¢., petitions preferred to\nthe court during the session, and performs\nthe other duties of junior lord ordinary.\nThe chambers of the parliament house in\nwhich the first and second divisions hold\ntheir sittings are called the \"inner house;\"\nthose in which the lords ordinary sit as\nSingle judges to hear motions and causes\nare collectively called the \"outer house.\"\nThe nomination and appointment of the\njudges is in the crown. Wharton.\n\nCOURT OF SESSIONS. Courts of criminal jurisdiction existing in California, New\nYork, and one or two other of the United\nStates.",
+    "body": "The name of the\nhighest court of civil jurisdiction in Scotland. It was composed of fifteen judges,\nnow of thirteen. It sits in two divisions.\nThe lord president and three ordinary lords\nform the first division; the lord justice clerk\nand three other ordinary lords form the second division. There are five permanent\nlords ordinary attached equally to both divisions; the Jast appointed of whom officiates on the bills, 4. \u00a2., petitions preferred to\nthe court during the session, and performs\nthe other duties of junior lord ordinary.\nThe chambers of the parliament house in\nwhich the first and second divisions hold\ntheir sittings are called the \"inner house;\"\nthose in which the lords ordinary sit as\nSingle judges to hear motions and causes\nare collectively called the \"outer house.\"\nThe nomination and appointment of the\njudges is in the crown. Wharton.\n\nCOURT OF SESSIONS. Courts of criminal jurisdiction existing in California, New\nYork, and one or two other of the United\nStates.",
     "entry_type": "recovered_main",
     "source_index": 3142,
     "source_pages": [
@@ -178536,7 +178932,7 @@
   {
     "id": "BLD2-13642",
     "term": "IN PERSONAM, IN REM",
-    "body": "In the Roman law, from which they are taken, the expressions \"in rem\" and \"in personam\" were\nalways opposed to one another, an act or\nproceeding in personam being one done or\ndirected against or with reference to a specific person, while an act or proceeding én\nrem was one done or directed with reference to no specific person, and consequently\nagainst or with reference to all whom it\nmight concern, or \"all the world.\" The\nphrases were especially applied to actions;\nan actio in personam being the remedy where\na claim against a specific person arose out\nof an obligation, whether ex contracts or ew\nmaleficio, while an actio in rem was one\nbrought for the assertion of a right of property, easement, status, etc., against one\nwho denied or infringed it. See Inst. 4, 6, 13\nGaius, 4, 1, 1-10; 5 Sav. Syst. 18, et seq.;\nDig. 2, 4, 7, 8; Id. 4, 2, 9, 1\nFrom this use of the terms, they have\ncome to be applied to signify the antithesis\nof \"available against a particular person,\"\nand \"available against the world at large.\"\nThus, fura in personam are rights primarily\navailable against specific persons; fura\nrem, rights only available against the world\nat large.\nSo a judgment or decree is said to be in\nrem when it binds third persons. Such is\nthe sentence of a court of admiralty on a\nquestion of prize, or a decree of nullity or\ndissolution of marriage, or a decree of a\ncourt in a foreign country as to the status\nof a person domiciled there.\nLastly, the terms are sometimes used to\nsignify that a judicial proceeding operates\non a thing or a person. Thus, it is said of\nthe court of chancery that it acts in personam, and not in rem, meaning that its de\ncrees operate by compelling defendants to\ndo what they are ordered to do, and not by\nproducing the effect directly. Sweet. See\nCross v. Armstrong, 44 Ohio St. 613, 10 N.\nB. 160; Cunningham vy. Shanklin, 60 Cal.\n125; Hill v. Henry, 66 N. J. Eq. 150, 57 Atl.\n555.\n\nIm personam actio est, qua cum e0\nagimus qui obligatus est nobis ad faciendum aliquid vel dandum. The action\nin personam is that by which we sue him\nwho is under obligation to us to do some- '\nthing or give something. Dig. 44, 7, 25;\nBract. 1010b.",
+    "body": "In the Roman law, from which they are taken, the expressions \"in rem\" and \"in personam\" were\nalways opposed to one another, an act or\nproceeding in personam being one done or\ndirected against or with reference to a specific person, while an act or proceeding \u00e9n\nrem was one done or directed with reference to no specific person, and consequently\nagainst or with reference to all whom it\nmight concern, or \"all the world.\" The\nphrases were especially applied to actions;\nan actio in personam being the remedy where\na claim against a specific person arose out\nof an obligation, whether ex contracts or ew\nmaleficio, while an actio in rem was one\nbrought for the assertion of a right of property, easement, status, etc., against one\nwho denied or infringed it. See Inst. 4, 6, 13\nGaius, 4, 1, 1-10; 5 Sav. Syst. 18, et seq.;\nDig. 2, 4, 7, 8; Id. 4, 2, 9, 1\nFrom this use of the terms, they have\ncome to be applied to signify the antithesis\nof \"available against a particular person,\"\nand \"available against the world at large.\"\nThus, fura in personam are rights primarily\navailable against specific persons; fura\nrem, rights only available against the world\nat large.\nSo a judgment or decree is said to be in\nrem when it binds third persons. Such is\nthe sentence of a court of admiralty on a\nquestion of prize, or a decree of nullity or\ndissolution of marriage, or a decree of a\ncourt in a foreign country as to the status\nof a person domiciled there.\nLastly, the terms are sometimes used to\nsignify that a judicial proceeding operates\non a thing or a person. Thus, it is said of\nthe court of chancery that it acts in personam, and not in rem, meaning that its de\ncrees operate by compelling defendants to\ndo what they are ordered to do, and not by\nproducing the effect directly. Sweet. See\nCross v. Armstrong, 44 Ohio St. 613, 10 N.\nB. 160; Cunningham vy. Shanklin, 60 Cal.\n125; Hill v. Henry, 66 N. J. Eq. 150, 57 Atl.\n555.\n\nIm personam actio est, qua cum e0\nagimus qui obligatus est nobis ad faciendum aliquid vel dandum. The action\nin personam is that by which we sue him\nwho is under obligation to us to do some- '\nthing or give something. Dig. 44, 7, 25;\nBract. 1010b.",
     "entry_type": "recovered_main",
     "source_index": 6783,
     "source_pages": [
@@ -178546,7 +178942,7 @@
   {
     "id": "BLD2-13643",
     "term": "EX SCRIPTIS OLIM VISIS",
-    "body": "From\nwritings formerly seen. A term used as descriptive of that kind of proof of handwriting\nwhere the knowledge has been acquired by\nthe witness having seen letters or other documents professing to be the handwriting of.\nthe party, and having afterwards communicated personally with the party upon the con-\n'tents of those letters or documents, or having otherwise acted upon them by written\nanswers, producing further correspondence\nor acquiescence by the party in some matter\nto which they relate, or by the witness trans-\n'acting with the party some business to which\nthey relate, or by any other mode of communication between the party and the witness\nwhich, in the ordinary course of the transactions of lifé, induces a reasonable presumption that the letters or documents were the\nhandwriting of the party. 5 Adol. & E. 730.",
+    "body": "From\nwritings formerly seen. A term used as descriptive of that kind of proof of handwriting\nwhere the knowledge has been acquired by\nthe witness having seen letters or other documents professing to be the handwriting of.\nthe party, and having afterwards communicated personally with the party upon the con-\n'tents of those letters or documents, or having otherwise acted upon them by written\nanswers, producing further correspondence\nor acquiescence by the party in some matter\nto which they relate, or by the witness trans-\n'acting with the party some business to which\nthey relate, or by any other mode of communication between the party and the witness\nwhich, in the ordinary course of the transactions of lif\u00e9, induces a reasonable presumption that the letters or documents were the\nhandwriting of the party. 5 Adol. & E. 730.",
     "entry_type": "recovered_main",
     "source_index": 4858,
     "source_pages": [
@@ -178626,7 +179022,7 @@
   {
     "id": "BLD2-13651",
     "term": "EJECTIONE FIRMAE",
-    "body": "Hjection, or\nejectment of farm. The name of a writ or\naction of trespass, which lay at common law.\nwhere lands or tenements were let for a\nterm of years, and afterwards the lessor,\nreversioner, remainder-man, or any stranger\nejected or ousted the lessee of his term,\nferme, or farm, (ipsum a firma ejecit.) In\nthis case the latter might have his writ of\nejection, by which he recovered at first damages for the trespass only, but it was afterwards made a remedy to recover back the\nterm itself, or the remainder of it, with\ndamages. Reg. Orig. 227b; Fitzh. Nat.\nBrey. 220, F, G; 8 Bl. Comm. 199; Litt. §\n322; Crabb, Eng. Law, 290, 448. It is the\nfoundation of the modern action of ejectment.",
+    "body": "Hjection, or\nejectment of farm. The name of a writ or\naction of trespass, which lay at common law.\nwhere lands or tenements were let for a\nterm of years, and afterwards the lessor,\nreversioner, remainder-man, or any stranger\nejected or ousted the lessee of his term,\nferme, or farm, (ipsum a firma ejecit.) In\nthis case the latter might have his writ of\nejection, by which he recovered at first damages for the trespass only, but it was afterwards made a remedy to recover back the\nterm itself, or the remainder of it, with\ndamages. Reg. Orig. 227b; Fitzh. Nat.\nBrey. 220, F, G; 8 Bl. Comm. 199; Litt. \u00a7\n322; Crabb, Eng. Law, 290, 448. It is the\nfoundation of the modern action of ejectment.",
     "entry_type": "recovered_main",
     "source_index": 4420,
     "source_pages": [
@@ -178656,7 +179052,7 @@
   {
     "id": "BLD2-13654",
     "term": "MANCIPI RES",
-    "body": "Lat. In Roman law.\nCertain classes of things which could not be\naliened or transferred except by means of a\ncertain formal ceremony of conveyance called\n\"mancipatio,\" (q. v.) These included land,\nhouses, slaves, horses, and cattle. All other\nthings were called \"res nec mancipi.\" The\ndistinction was abolished by Justinian. The\ndistinction corresponded as nearly as may be\nto the early distinction of English law into\nreal and personal property; res mancipi being objects of a military or agricultural character, and res nec mancipi being all other\nsubjects of property. Like personal estate, |\nrea nec mancipi were not originally either\nvaluable én se or valued. Brown.",
+    "body": "Lat. In Roman law.\nCertain classes of things which could not be\naliened or transferred except by means of a\ncertain formal ceremony of conveyance called\n\"mancipatio,\" (q. v.) These included land,\nhouses, slaves, horses, and cattle. All other\nthings were called \"res nec mancipi.\" The\ndistinction was abolished by Justinian. The\ndistinction corresponded as nearly as may be\nto the early distinction of English law into\nreal and personal property; res mancipi being objects of a military or agricultural character, and res nec mancipi being all other\nsubjects of property. Like personal estate, |\nrea nec mancipi were not originally either\nvaluable \u00e9n se or valued. Brown.",
     "entry_type": "recovered_main",
     "source_index": 8126,
     "source_pages": [
@@ -178726,7 +179122,7 @@
   {
     "id": "BLD2-13661",
     "term": "MORT CIVILE",
-    "body": "In French law. Civil\ndeath, as upon conviction for felony. It was\nnominally abolished by a law of the 31st of\nMay, 1854, but something very similar to it,\nin effect at least, still remains. Thus, the\nproperty of the condemned, possessed by him\nat the date of his conviction, goes and belongs to his successors, (Wéritiers,) as in case\nof an intestacy; and his future acquired\nproperty goes to the state by right of its prerogative, (par droit de déshérence,) but the\nstute may, as a matter of grace, make it over\nin whole or in part to the widow and children. Brown.",
+    "body": "In French law. Civil\ndeath, as upon conviction for felony. It was\nnominally abolished by a law of the 31st of\nMay, 1854, but something very similar to it,\nin effect at least, still remains. Thus, the\nproperty of the condemned, possessed by him\nat the date of his conviction, goes and belongs to his successors, (W\u00e9ritiers,) as in case\nof an intestacy; and his future acquired\nproperty goes to the state by right of its prerogative, (par droit de d\u00e9sh\u00e9rence,) but the\nstute may, as a matter of grace, make it over\nin whole or in part to the widow and children. Brown.",
     "entry_type": "recovered_main",
     "source_index": 8600,
     "source_pages": [
@@ -178786,7 +179182,7 @@
   {
     "id": "BLD2-13667",
     "term": "JUS NATURALE",
-    "body": "The natural law, or\nlaw of nature; law, or legal principles, supposed to be discoverable by the light of nature or abstract reasoning, or to be taught by\nnature to all nations and men 'alike; or law\nsupposed to govern men and peoples in a\nstate of nature, i. e., in advance of organized\ngovernments or enacted laws. This conceit\noriginated with the philosophical jurists of\nRome, and was gradually extended until the\nphrase came to denote a supposed basis or\nsubstratum common to all systems of positive law, and hence to be found, in greater\n\nor less purity, in the laws of all nations.\né\nAnd, conversely, they held that if any rule\nor principle of law was observed in common\nby all peoples with whose systems they were\nacquainted, it must'be a part of the jus natu- ©\n\nrale, or derived from it. Thus the phrases\n\"jus naturale\" and \"juéd gentium\" came to\nbe used interchangeably.\n}\nJus naturale est quod apud homines\neandem habet potentiam. Natural right\nis that which has the same force among ull\nmankind. % Coke, 12.",
+    "body": "The natural law, or\nlaw of nature; law, or legal principles, supposed to be discoverable by the light of nature or abstract reasoning, or to be taught by\nnature to all nations and men 'alike; or law\nsupposed to govern men and peoples in a\nstate of nature, i. e., in advance of organized\ngovernments or enacted laws. This conceit\noriginated with the philosophical jurists of\nRome, and was gradually extended until the\nphrase came to denote a supposed basis or\nsubstratum common to all systems of positive law, and hence to be found, in greater\n\nor less purity, in the laws of all nations.\n\u00e9\nAnd, conversely, they held that if any rule\nor principle of law was observed in common\nby all peoples with whose systems they were\nacquainted, it must'be a part of the jus natu- \u00a9\n\nrale, or derived from it. Thus the phrases\n\"jus naturale\" and \"ju\u00e9d gentium\" came to\nbe used interchangeably.\n}\nJus naturale est quod apud homines\neandem habet potentiam. Natural right\nis that which has the same force among ull\nmankind. % Coke, 12.",
     "entry_type": "recovered_main",
     "source_index": 7400,
     "source_pages": [
@@ -178826,7 +179222,7 @@
   {
     "id": "BLD2-13671",
     "term": "FORCIBLE TRESPASS",
-    "body": "In North\nCarolina, this Is an invasion of the rights of\nanother with respect to his personal property, of the same character, or under the\nsame circumstances, which would constitute\na \"forcible entry and detainer'' of real property at common law. It consists in taking\nor seizing the personal property of another\nby force, violence, or intimidation. State v.\nLawson, 123 N. C. 740, 31 S. E. 667, 68 Am.\nSt. Rep. 844; State v. Barefoot, 89 N. CG.\n567; State v. Ray, 32 N. C. 40; State v.\nSowls, 61 N. C. 151; State v. Laney, 87 N.\n©. 535.",
+    "body": "In North\nCarolina, this Is an invasion of the rights of\nanother with respect to his personal property, of the same character, or under the\nsame circumstances, which would constitute\na \"forcible entry and detainer'' of real property at common law. It consists in taking\nor seizing the personal property of another\nby force, violence, or intimidation. State v.\nLawson, 123 N. C. 740, 31 S. E. 667, 68 Am.\nSt. Rep. 844; State v. Barefoot, 89 N. CG.\n567; State v. Ray, 32 N. C. 40; State v.\nSowls, 61 N. C. 151; State v. Laney, 87 N.\n\u00a9. 535.",
     "entry_type": "recovered_main",
     "source_index": 5483,
     "source_pages": [
@@ -178977,7 +179373,7 @@
   {
     "id": "BLD2-13687",
     "term": "EX ABUNDANTI",
-    "body": "Out of abundance;\nabundantly; superfluously; more than sufficient. Calvin.\n\nEX ABUNDANTI CAUTELA. Lat.\nOut of abundant caution. \"The practice\nhas arisen abundanté cauicla.\" 8 East, 326;\nLord Ellenborough, 4 Maule & S. 544.",
+    "body": "Out of abundance;\nabundantly; superfluously; more than sufficient. Calvin.\n\nEX ABUNDANTI CAUTELA. Lat.\nOut of abundant caution. \"The practice\nhas arisen abundant\u00e9 cauicla.\" 8 East, 326;\nLord Ellenborough, 4 Maule & S. 544.",
     "entry_type": "recovered_main",
     "source_index": 4805,
     "source_pages": [
@@ -179007,7 +179403,7 @@
   {
     "id": "BLD2-13691",
     "term": "SUITORS' FUND IN CHANCERY",
-    "body": "In\nEngland. <A fund consisting of moneys\nwhich, having been paid into the court of\nchancery, are placed out for the benefit and\nbetter security of the suitors, including interest from the same. By St. 82 & 88 Vict.\nc. 91, § 4, the principal of this fund, amounting to over £3,000,000, was transferred to\nthe commissioners for the reduction of the\nnational debt. Mozley & Whitley.",
+    "body": "In\nEngland. <A fund consisting of moneys\nwhich, having been paid into the court of\nchancery, are placed out for the benefit and\nbetter security of the suitors, including interest from the same. By St. 82 & 88 Vict.\nc. 91, \u00a7 4, the principal of this fund, amounting to over \u00a33,000,000, was transferred to\nthe commissioners for the reduction of the\nnational debt. Mozley & Whitley.",
     "entry_type": "recovered_main",
     "source_index": 11877,
     "source_pages": [
@@ -179049,7 +179445,7 @@
     "id": "BLD2-13695",
     "term": "BLEND",
     "entry_type": "recovered_main",
-    "body": "BLEND. BLENDED FUND. In England, where\na testator directs his real and personal estate\nto be sold, and disposes of the proceeds as\nforming one aggregate, this is called a\n“blended fund.”",
+    "body": "BLEND. BLENDED FUND. In England, where\na testator directs his real and personal estate\nto be sold, and disposes of the proceeds as\nforming one aggregate, this is called a\n\u201cblended fund.\u201d",
     "source_pages": [
       "138"
     ],
@@ -179111,7 +179507,7 @@
     "id": "BLD2-13701",
     "term": "CULPRIT",
     "entry_type": "recovered_main",
-    "body": "A person who is indicted for\na criminal offense, but not yet convicted.\nIt is not, however, a technical term of the\nlaw; and in ita vernacular usage it seems to\nimply only a light degree of censure or moral\nreprobation.\nBlackstone believes it an abbreviation of the\nold forms of arraignment, whereby, on the prisoner's pleading not guilty, the clerk would respond, \"culpabilis, prit,\" +. €., he is guilty and\n'the crown is: ready. It was (he says) the riva\nwoce replication, by the clerk, on behalf of the\ncrown, to the prisoner's plea 'of non culpabilts;\nprit being a technical word, anciently in use in\nthe formula of joining issue. 4 Bl. Comm. 339.\nBut a more plausible explanation is that given\nby Donaldson, (cited Whart. Lex.,) as. follows:\nThe clerk asks the prisoner, 'Are you aul\nor not guilty?' Prisoner \"Not guilty.\" Cle\n\"Ow il part, [may it prove 80.) How will you\nbe tried?' Prisoner, \"By God and my country.\" These words being hurried over, came to\nsound, \"culprit, how will you be tried?\" The\n'ordinary derivation is from culpa.",
+    "body": "A person who is indicted for\na criminal offense, but not yet convicted.\nIt is not, however, a technical term of the\nlaw; and in ita vernacular usage it seems to\nimply only a light degree of censure or moral\nreprobation.\nBlackstone believes it an abbreviation of the\nold forms of arraignment, whereby, on the prisoner's pleading not guilty, the clerk would respond, \"culpabilis, prit,\" +. \u20ac., he is guilty and\n'the crown is: ready. It was (he says) the riva\nwoce replication, by the clerk, on behalf of the\ncrown, to the prisoner's plea 'of non culpabilts;\nprit being a technical word, anciently in use in\nthe formula of joining issue. 4 Bl. Comm. 339.\nBut a more plausible explanation is that given\nby Donaldson, (cited Whart. Lex.,) as. follows:\nThe clerk asks the prisoner, 'Are you aul\nor not guilty?' Prisoner \"Not guilty.\" Cle\n\"Ow il part, [may it prove 80.) How will you\nbe tried?' Prisoner, \"By God and my country.\" These words being hurried over, came to\nsound, \"culprit, how will you be tried?\" The\n'ordinary derivation is from culpa.",
     "source_pages": [
       "304"
     ],
@@ -179162,7 +179558,7 @@
     "id": "BLD2-13706",
     "term": "EAT INDE SINE DIE",
     "entry_type": "recovered_main",
-    "body": "In criminal\npractice. Words used on the acquittal of adefendant, that he may go thence without a\nday, 4. ¢., be dismissed without any further\ncontinuance or adjournment.",
+    "body": "In criminal\npractice. Words used on the acquittal of adefendant, that he may go thence without a\nday, 4. \u00a2., be dismissed without any further\ncontinuance or adjournment.",
     "source_pages": [
       "410"
     ],
@@ -179172,7 +179568,7 @@
     "id": "BLD2-13707",
     "term": "ELEEMOSYNARY",
     "entry_type": "recovered_main",
-    "body": "Relating to the distribution of alms, bounty, or charity; charitable.\n—Eleemosynary corporations. See Cor-",
+    "body": "Relating to the distribution of alms, bounty, or charity; charitable.\n\u2014Eleemosynary corporations. See Cor-",
     "source_pages": [
       "417"
     ],
@@ -179192,7 +179588,7 @@
     "id": "BLD2-13709",
     "term": "EN MORT MAIN",
     "entry_type": "recovered_main",
-    "body": "L. Fr. In a dead\nhand; in mortmain. Britt. c. 43.\nEN OWEL MAIN. L. Fr. In equal\nhand. The word “owelty” occurs also in the\nphrase “owelty of partition.”",
+    "body": "L. Fr. In a dead\nhand; in mortmain. Britt. c. 43.\nEN OWEL MAIN. L. Fr. In equal\nhand. The word \u201cowelty\u201d occurs also in the\nphrase \u201cowelty of partition.\u201d",
     "source_pages": [
       "423"
     ],
@@ -179212,7 +179608,7 @@
     "id": "BLD2-13711",
     "term": "FLEMENE FRIT",
     "entry_type": "recovered_main",
-    "body": "FLEMENES\nFRINTHE—FLYMENA FRYNTHE. The\nreception or relief of a fugitive or outlaw.\nJacob.",
+    "body": "FLEMENES\nFRINTHE\u2014FLYMENA FRYNTHE. The\nreception or relief of a fugitive or outlaw.\nJacob.",
     "source_pages": [
       "504"
     ],
@@ -179222,7 +179618,7 @@
     "id": "BLD2-13712",
     "term": "HYPOTHECARIA ACTIO",
     "entry_type": "recovered_main",
-    "body": "Lat. In the\ncivil law. An hypothecary action; an action\nfor the enforcement of an hypotheca, or right\nof mortgage; or to obtain the surrender of\nthe thing mortgaged. Inst. 4, 6, 7; Mackeld.\nRom. Law, § 356. Adopted in the Civil\nCode of Louisiana, under the name of \"l'action hypothécarie,\" (translated, \"action of\nmortgage.\") Article 3361.",
+    "body": "Lat. In the\ncivil law. An hypothecary action; an action\nfor the enforcement of an hypotheca, or right\nof mortgage; or to obtain the surrender of\nthe thing mortgaged. Inst. 4, 6, 7; Mackeld.\nRom. Law, \u00a7 356. Adopted in the Civil\nCode of Louisiana, under the name of \"l'action hypoth\u00e9carie,\" (translated, \"action of\nmortgage.\") Article 3361.",
     "source_pages": [
       "585"
     ],
@@ -179242,7 +179638,7 @@
     "id": "BLD2-13714",
     "term": "INDIGENA",
     "entry_type": "recovered_main",
-    "body": "In old English law. A subject born; one born within the realm, or\nnaturalized by act of parliament. Co. Litt.\n8a. The opposite of “alienigena,” (g. v.)",
+    "body": "In old English law. A subject born; one born within the realm, or\nnaturalized by act of parliament. Co. Litt.\n8a. The opposite of \u201calienigena,\u201d (g. v.)",
     "source_pages": [
       "618"
     ],
@@ -179272,7 +179668,7 @@
     "id": "BLD2-13717",
     "term": "INQUIETUDE",
     "entry_type": "recovered_main",
-    "body": "L. Lat. In old English law. Inquietness or disturbance. Fleta, lib. 4, c. 17, § 4.",
+    "body": "L. Lat. In old English law. Inquietness or disturbance. Fleta, lib. 4, c. 17, \u00a7 4.",
     "source_pages": [
       "630"
     ],
@@ -179282,7 +179678,7 @@
     "id": "BLD2-13718",
     "term": "MAJORES",
     "entry_type": "recovered_main",
-    "body": "In Roman law and genenlogical tables. The male ascendants beyond the sixth degree.\nIn old English law. Greater persons;\npersons of higher condition or estate.\n\n'Majori summe minor inest. In the\ngreater sum the less is included. 2 Kent,\nComm. 618; Story, Ag. § 172.",
+    "body": "In Roman law and genenlogical tables. The male ascendants beyond the sixth degree.\nIn old English law. Greater persons;\npersons of higher condition or estate.\n\n'Majori summe minor inest. In the\ngreater sum the less is included. 2 Kent,\nComm. 618; Story, Ag. \u00a7 172.",
     "source_pages": [
       "748"
     ],
@@ -179302,7 +179698,7 @@
     "id": "BLD2-13720",
     "term": "OPERATION",
     "entry_type": "recovered_main",
-    "body": "In general, the exertion\nof power; the process of operating or mode\nof action; an effect brought about in accordance with a definite plan. See Little\nRock vy. Parish, 36 Ark. 166; Fleming Oil Ca.\nv. South Penn Oil Co., 37 W. Va. 653, 17 8.\nE. 203. In surgical practice, the term is of\nindefinite import, but may be approximately\ndefined as. an act or succession of acts performed upon the body of a patient, for his\nrelief or restoration to normal conditions,\neither by manipulation or the use of surgical\ninstruments or both, as distinguished from\ntherapeutic treatment by the administration\nof drugs or other remedial agencies. See\nAkridge v. Noble, 114 Ga. 949, 41 8S. B. 78.\n—Oriminal operation. In medical jurisprudence. An operation to procure an abortion.\nMiller v. Bayer, 94 Wis., 68 N. W. 869.—\nOperation of law. This term expresses the\nmanner in which rights, and sometimes liabilities, devolve upon a person by the mere application to the particular transaction of the established rules of law, without the act or cooperation of the party himeelf.",
+    "body": "In general, the exertion\nof power; the process of operating or mode\nof action; an effect brought about in accordance with a definite plan. See Little\nRock vy. Parish, 36 Ark. 166; Fleming Oil Ca.\nv. South Penn Oil Co., 37 W. Va. 653, 17 8.\nE. 203. In surgical practice, the term is of\nindefinite import, but may be approximately\ndefined as. an act or succession of acts performed upon the body of a patient, for his\nrelief or restoration to normal conditions,\neither by manipulation or the use of surgical\ninstruments or both, as distinguished from\ntherapeutic treatment by the administration\nof drugs or other remedial agencies. See\nAkridge v. Noble, 114 Ga. 949, 41 8S. B. 78.\n\u2014Oriminal operation. In medical jurisprudence. An operation to procure an abortion.\nMiller v. Bayer, 94 Wis., 68 N. W. 869.\u2014\nOperation of law. This term expresses the\nmanner in which rights, and sometimes liabilities, devolve upon a person by the mere application to the particular transaction of the established rules of law, without the act or cooperation of the party himeelf.",
     "source_pages": [
       "855"
     ],
@@ -179352,7 +179748,7 @@
     "id": "BLD2-13725",
     "term": "RESIDENT",
     "entry_type": "recovered_main",
-    "body": "One who has his residence\nin a place. '.\n\n\"Resident\" and \"inhabitant\" are distinguishable in meaning. The word \"inhabitant\" implies\na more fixed and permanent abode than does\n\"resident;\" and a resident may not be entitled\nto all er privileges or subject to all the duties\nof an inhabitant. Frost v. Brisbin, 19 Wend.\n(N. ¥.) 11, 82 Am. Dec. 423.\n\n_ Also a tenant, 'who was obliged to reside\non his lord's land, and not to depart from the\nsame; called, also, \"homme levant et couchant,\" and in Normandy, \"resseant du flef.\"\n\n—Resident freeholder. <A person who resides in the particular place (town, city, county, etc.) and who owns an estate in lands therein amounting at least to a freehold interest.\nDamp v. Dane, 29 Wis. 427; Campbell v. Moran, 71 Neb. 615, 99 N. W. 499; State v. Kokomo, 108 Ind. 74, 8 N. E.. 120.—Resident\nminister. In international law. <A public\nminister who resides at a foreign court. Reaident ministers are ranked in the third class of\npublic ministers. Wheat. Int. Law, 264, 267.",
+    "body": "One who has his residence\nin a place. '.\n\n\"Resident\" and \"inhabitant\" are distinguishable in meaning. The word \"inhabitant\" implies\na more fixed and permanent abode than does\n\"resident;\" and a resident may not be entitled\nto all er privileges or subject to all the duties\nof an inhabitant. Frost v. Brisbin, 19 Wend.\n(N. \u00a5.) 11, 82 Am. Dec. 423.\n\n_ Also a tenant, 'who was obliged to reside\non his lord's land, and not to depart from the\nsame; called, also, \"homme levant et couchant,\" and in Normandy, \"resseant du flef.\"\n\n\u2014Resident freeholder. <A person who resides in the particular place (town, city, county, etc.) and who owns an estate in lands therein amounting at least to a freehold interest.\nDamp v. Dane, 29 Wis. 427; Campbell v. Moran, 71 Neb. 615, 99 N. W. 499; State v. Kokomo, 108 Ind. 74, 8 N. E.. 120.\u2014Resident\nminister. In international law. <A public\nminister who resides at a foreign court. Reaident ministers are ranked in the third class of\npublic ministers. Wheat. Int. Law, 264, 267.",
     "source_pages": [
       "934",
       "935"
@@ -179455,7 +179851,7 @@
     "id": "BLD2-13735",
     "term": "WINDING-UP ACTS",
     "entry_type": "recovered_main",
-    "body": "In English law.\nGeneral acts of 'parliament, regulating settlement of corporate affairs on dissolution.\n\n- WINDOW. An opening made in the wall\nof a house to admit light and air, and to\nfurnish a view or prospect. The use of this\nword in law is chiefly in connection with the\ndoctrine of ancient Hghts and other rights of\nadjacent owners. °\n—Window tax. <A tax oc windows, levied\non houses which contained more than six windows, and were worth more than £5 per an:\nnum; established by St. 7 Wm. III. c 18 St\n14 & 15 Vict. c. 36, substituted for this tax a\ntax on inhabited houses. Wharton.\n\n- WINDSOR FOREST. A royal forest\nfounded by Henry VIII.",
+    "body": "In English law.\nGeneral acts of 'parliament, regulating settlement of corporate affairs on dissolution.\n\n- WINDOW. An opening made in the wall\nof a house to admit light and air, and to\nfurnish a view or prospect. The use of this\nword in law is chiefly in connection with the\ndoctrine of ancient Hghts and other rights of\nadjacent owners. \u00b0\n\u2014Window tax. <A tax oc windows, levied\non houses which contained more than six windows, and were worth more than \u00a35 per an:\nnum; established by St. 7 Wm. III. c 18 St\n14 & 15 Vict. c. 36, substituted for this tax a\ntax on inhabited houses. Wharton.\n\n- WINDSOR FOREST. A royal forest\nfounded by Henry VIII.",
     "source_pages": [
       "1228"
     ],
