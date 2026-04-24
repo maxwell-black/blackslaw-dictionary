@@ -13,7 +13,6 @@ Assigns immutable IDs and entry_type to every entry based on:
 
 Writes to rebuild/overlay/ — never touches live files.
 """
-from __future__ import annotations
 
 import json
 import re

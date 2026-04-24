@@ -59,12 +59,14 @@ def setup_api_key():
     """Ensure API key is available."""
     api_key = os.environ.get("ANTHROPIC_API_KEY", "")
     if not api_key:
-        env_file = Path(r"C:\Users\maxwe\OneDrive\Desktop\anthropic_key.env")
+        # Check for .env in repo root
+        env_file = REPO / ".env"
         if env_file.exists():
             text = env_file.read_text().strip()
-            m = re.search(r'"([^"]+)"', text)
+            # Support both KEY="VALUE" and KEY=VALUE formats, allowing for spaces
+            m = re.search(r'\s*=\s*(?:"([^"]+)"|([^ \n]+))', text)
             if m:
-                api_key = m.group(1)
+                api_key = m.group(1) or m.group(2)
                 os.environ["ANTHROPIC_API_KEY"] = api_key
     return api_key
 

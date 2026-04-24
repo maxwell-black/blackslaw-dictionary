@@ -12,7 +12,6 @@ import json
 import os
 import re
 import sys
-import time
 from pathlib import Path
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
@@ -95,14 +94,14 @@ def fix_entry(client, term, body):
 def main():
     api_key = os.environ.get("ANTHROPIC_API_KEY", "")
     if not api_key:
-        # Try reading from env file
-        env_file = Path(r"C:\Users\maxwe\OneDrive\Desktop\anthropic_key.env")
+        # Try reading from .env in repo root
+        env_file = REPO / ".env"
         if env_file.exists():
             text = env_file.read_text().strip()
-            # Parse PowerShell format: $env:ANTHROPIC_API_KEY = "..."
-            m = re.search(r'"([^"]+)"', text)
+            # Support both KEY="VALUE" and KEY=VALUE formats, allowing for spaces
+            m = re.search(r'\s*=\s*(?:"([^"]+)"|([^ \n]+))', text)
             if m:
-                api_key = m.group(1)
+                api_key = m.group(1) or m.group(2)
                 os.environ["ANTHROPIC_API_KEY"] = api_key
 
     if not api_key:
@@ -198,7 +197,7 @@ def main():
                 "fixed_len": len(fixed_body),
             })
 
-    print(f"\n=== Results ===")
+    print("\n=== Results ===")
     print(f"  Processed: {len(damaged)}")
     print(f"  Accepted:  {accepted}")
     print(f"  Unchanged: {rejected_identical}")
