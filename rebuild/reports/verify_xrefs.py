@@ -19,6 +19,11 @@ XREF_EXCLUDE = {
     'SUPRA','INFRA','ANTE','POST','ALSO','THOSE','TITLES','THAT',
 }
 
+# Compiled regex patterns for cross-reference detection
+RE_FORWARD_XREF = re.compile(r'\b(See also|see also|See|see|Vide|vide|Same as|same as)\s+([A-Z][A-Z \-,;\'\u2019]{0,80})')
+RE_QV_XREF = re.compile(r'\b([A-Za-z][\w\'-]*(?:\s+[A-Za-z][\w\'-]*){0,3}),?\s*\(q\.\s*v\.\)')
+RE_WHICHSEE_XREF = re.compile(r'\b([A-Za-z][\w\'-]*(?:\s+[A-Za-z][\w\'-]*){0,4}),?\s+which see\b', re.I)
+
 def slugify(term):
     import unicodedata
     s = term.strip().lower()
@@ -99,7 +104,7 @@ for letter in 'ABCDEFGHIJKLMNOPQRSTUVWXYZ':
         body = entry.get('body', '') or ''
 
         # Pattern 1: Forward references (See/see/Vide/Same as + UPPERCASE)
-        for m in re.finditer(r'\b(See also|see also|See|see|Vide|vide|Same as|same as)\s+([A-Z][A-Z \-,;\'\u2019]{0,80})', body):
+        for m in RE_FORWARD_XREF.finditer(body):
             prefix = m.group(1)
             captured = m.group(2).rstrip(',;: ')
             total_forward += 1
@@ -145,7 +150,7 @@ for letter in 'ABCDEFGHIJKLMNOPQRSTUVWXYZ':
                         })
 
         # Pattern 2: q.v. back-references (prefer_right=True)
-        for m in re.finditer(r'\b([A-Za-z][\w\'-]*(?:\s+[A-Za-z][\w\'-]*){0,3}),?\s*\(q\.\s*v\.\)', body):
+        for m in RE_QV_XREF.finditer(body):
             preceding = m.group(1)
             total_qv += 1
             match = try_resolve_backref(preceding, prefer_right=True)
@@ -166,7 +171,7 @@ for letter in 'ABCDEFGHIJKLMNOPQRSTUVWXYZ':
                     })
 
         # Pattern 3: "which see" back-references (prefer_right=True)
-        for m in re.finditer(r'\b([A-Za-z][\w\'-]*(?:\s+[A-Za-z][\w\'-]*){0,4}),?\s+which see\b', body, re.I):
+        for m in RE_WHICHSEE_XREF.finditer(body):
             preceding = m.group(1)
             total_ws += 1
             match = try_resolve_backref(preceding, prefer_right=True)
