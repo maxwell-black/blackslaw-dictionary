@@ -64,7 +64,7 @@ PROMOTED_TYPE = "legacy_retained"
 
 EXCLUDED_TYPES = {
     "alias_phantom", "legacy_duplicate", "fragment_artifact",
-    "junk_headword", "appendix_abbrev", "legacy_unresolved",
+    "junk_headword", "appendix_abbrev", "legacy_unresolved", "cross_reference",
 }
 
 # ── regex patterns ─────────────────────────────────────────────────────────
