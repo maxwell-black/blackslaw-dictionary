@@ -1,2 +1,5 @@
 
 auto-update.sh
+__pycache__/
+*.py[cod]
+*$py.class
