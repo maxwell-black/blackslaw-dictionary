@@ -3641,7 +3641,7 @@
   {
     "id": "BLD2-00279",
     "index": 279,
-    "term": "AD MEDIUM FILUM AQU\u00c6",
+    "term": "AD MEDIUM FILUM AQUÆ",
     "entry_type": "headword_corrected",
     "confidence": 0.9,
     "source_headword": "AD MEDIUM FILUM AQUZ",
@@ -15007,7 +15007,7 @@
   {
     "id": "BLD2-01163",
     "index": 1163,
-    "term": "ASTITRARIUS H\u00c6RES",
+    "term": "ASTITRARIUS HÆRES",
     "entry_type": "headword_corrected",
     "confidence": 0.9,
     "source_headword": "ASTITRARIUS HARES",
@@ -16918,7 +16918,7 @@
   {
     "id": "BLD2-01310",
     "index": 1310,
-    "term": "B.",
+    "term": "BR",
     "entry_type": "verified_main",
     "confidence": 0.99,
     "source_headword": "B",
@@ -24688,7 +24688,7 @@
   {
     "id": "BLD2-01905",
     "index": 1905,
-    "term": "C\u00c6TERUS",
+    "term": "CÆTERUS",
     "entry_type": "headword_corrected",
     "confidence": 0.9,
     "source_headword": "CZETERUS",
@@ -27649,7 +27649,7 @@
   {
     "id": "BLD2-02134",
     "index": 2134,
-    "term": "CENELL\u00c6",
+    "term": "CENELLÆ",
     "entry_type": "headword_corrected",
     "confidence": 0.9,
     "source_headword": "CENELLZ",
@@ -67131,7 +67131,7 @@
   {
     "id": "BLD2-05160",
     "index": 5160,
-    "term": "FER\u00c6 NATUR\u00c6",
+    "term": "FERÆ NATURÆ",
     "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
@@ -113393,7 +113393,7 @@
   {
     "id": "BLD2-08714",
     "index": 8714,
-    "term": "M\u00c6G-BURGH",
+    "term": "MÆG-BURGH",
     "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
@@ -113409,7 +113409,7 @@
   {
     "id": "BLD2-08715",
     "index": 8715,
-    "term": "M\u00c6GBOTE",
+    "term": "MÆGBOTE",
     "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
@@ -113441,7 +113441,7 @@
   {
     "id": "BLD2-08717",
     "index": 8717,
-    "term": "M\u00c6REMIUM",
+    "term": "MÆREMIUM",
     "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
@@ -118334,7 +118334,7 @@
   {
     "id": "BLD2-09086",
     "index": 9086,
-    "term": "OBSTA",
+    "term": "OBSTANTE",
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
@@ -118508,7 +118508,7 @@
   {
     "id": "BLD2-09099",
     "index": 9099,
-    "term": "OCASI\u00d3N",
+    "term": "OCASIÓN",
     "entry_type": "verified_main",
     "confidence": 0.99,
     "source_headword": "OCASION",
@@ -124284,7 +124284,7 @@
   {
     "id": "BLD2-09540",
     "index": 9540,
-    "term": "PAX ECCLESI\u00c6",
+    "term": "PAX ECCLESIÆ",
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
@@ -131473,7 +131473,7 @@
       "headword_mismatch",
       "short_body"
     ],
-    "canonical_target": "PEINE\nForre \u00a3v DvuBE",
+    "canonical_target": "PEINE\nForre £v DvuBE",
     "_source": "jules_cleanup_2026-04-22"
   },
   {
@@ -135865,7 +135865,7 @@
   {
     "id": "BLD2-10427",
     "index": 10427,
-    "term": "QU",
+    "term": "QUA",
     "entry_type": "verified_main",
     "confidence": 0.9,
     "source_headword": "QUI",
@@ -147885,7 +147885,7 @@
     "flags": [
       "headword_mismatch"
     ],
-    "canonical_target": "BANK.\nBi.Law Dict.(2p Ep.)}\u201467",
+    "canonical_target": "BANK.\nBi.Law Dict.(2p Ep.)}—67",
     "_source": "jules_cleanup_2026-04-22"
   },
   {
@@ -160244,7 +160244,7 @@
   {
     "id": "BLD2-12284",
     "index": 12284,
-    "term": "SWAIN",
+    "term": "SWAINMOTE",
     "entry_type": "verified_main",
     "confidence": 0.99,
     "source_headword": "SWAIN",
@@ -160675,7 +160675,7 @@
   {
     "id": "BLD2-12316",
     "index": 12316,
-    "term": "SZEMEN\u0414",
+    "term": "SZEMENД",
     "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
@@ -160689,7 +160689,7 @@
   {
     "id": "BLD2-12317",
     "index": 12317,
-    "term": "S\u00c6VITIA",
+    "term": "SÆVITIA",
     "entry_type": "headword_corrected",
     "confidence": 0.0,
     "source_headword": null,
@@ -165751,7 +165751,7 @@
   {
     "id": "BLD2-12701",
     "index": 12701,
-    "term": "TOW",
+    "term": "TOWNSHIP",
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
@@ -168136,7 +168136,7 @@
   {
     "id": "BLD2-12884",
     "index": 12884,
-    "term": "TZAR",
+    "term": "TZARINA",
     "entry_type": "legacy_unresolved",
     "confidence": 0.0,
     "source_headword": null,
@@ -178922,7 +178922,7 @@
   {
     "id": "BLD2-13641",
     "term": "COURT OF SESSION",
-    "body": "The name of the\nhighest court of civil jurisdiction in Scotland. It was composed of fifteen judges,\nnow of thirteen. It sits in two divisions.\nThe lord president and three ordinary lords\nform the first division; the lord justice clerk\nand three other ordinary lords form the second division. There are five permanent\nlords ordinary attached equally to both divisions; the Jast appointed of whom officiates on the bills, 4. \u00a2., petitions preferred to\nthe court during the session, and performs\nthe other duties of junior lord ordinary.\nThe chambers of the parliament house in\nwhich the first and second divisions hold\ntheir sittings are called the \"inner house;\"\nthose in which the lords ordinary sit as\nSingle judges to hear motions and causes\nare collectively called the \"outer house.\"\nThe nomination and appointment of the\njudges is in the crown. Wharton.\n\nCOURT OF SESSIONS. Courts of criminal jurisdiction existing in California, New\nYork, and one or two other of the United\nStates.",
+    "body": "The name of the\nhighest court of civil jurisdiction in Scotland. It was composed of fifteen judges,\nnow of thirteen. It sits in two divisions.\nThe lord president and three ordinary lords\nform the first division; the lord justice clerk\nand three other ordinary lords form the second division. There are five permanent\nlords ordinary attached equally to both divisions; the Jast appointed of whom officiates on the bills, 4. ¢., petitions preferred to\nthe court during the session, and performs\nthe other duties of junior lord ordinary.\nThe chambers of the parliament house in\nwhich the first and second divisions hold\ntheir sittings are called the \"inner house;\"\nthose in which the lords ordinary sit as\nSingle judges to hear motions and causes\nare collectively called the \"outer house.\"\nThe nomination and appointment of the\njudges is in the crown. Wharton.\n\nCOURT OF SESSIONS. Courts of criminal jurisdiction existing in California, New\nYork, and one or two other of the United\nStates.",
     "entry_type": "recovered_main",
     "source_index": 3142,
     "source_pages": [
@@ -178932,7 +178932,7 @@
   {
     "id": "BLD2-13642",
     "term": "IN PERSONAM, IN REM",
-    "body": "In the Roman law, from which they are taken, the expressions \"in rem\" and \"in personam\" were\nalways opposed to one another, an act or\nproceeding in personam being one done or\ndirected against or with reference to a specific person, while an act or proceeding \u00e9n\nrem was one done or directed with reference to no specific person, and consequently\nagainst or with reference to all whom it\nmight concern, or \"all the world.\" The\nphrases were especially applied to actions;\nan actio in personam being the remedy where\na claim against a specific person arose out\nof an obligation, whether ex contracts or ew\nmaleficio, while an actio in rem was one\nbrought for the assertion of a right of property, easement, status, etc., against one\nwho denied or infringed it. See Inst. 4, 6, 13\nGaius, 4, 1, 1-10; 5 Sav. Syst. 18, et seq.;\nDig. 2, 4, 7, 8; Id. 4, 2, 9, 1\nFrom this use of the terms, they have\ncome to be applied to signify the antithesis\nof \"available against a particular person,\"\nand \"available against the world at large.\"\nThus, fura in personam are rights primarily\navailable against specific persons; fura\nrem, rights only available against the world\nat large.\nSo a judgment or decree is said to be in\nrem when it binds third persons. Such is\nthe sentence of a court of admiralty on a\nquestion of prize, or a decree of nullity or\ndissolution of marriage, or a decree of a\ncourt in a foreign country as to the status\nof a person domiciled there.\nLastly, the terms are sometimes used to\nsignify that a judicial proceeding operates\non a thing or a person. Thus, it is said of\nthe court of chancery that it acts in personam, and not in rem, meaning that its de\ncrees operate by compelling defendants to\ndo what they are ordered to do, and not by\nproducing the effect directly. Sweet. See\nCross v. Armstrong, 44 Ohio St. 613, 10 N.\nB. 160; Cunningham vy. Shanklin, 60 Cal.\n125; Hill v. Henry, 66 N. J. Eq. 150, 57 Atl.\n555.\n\nIm personam actio est, qua cum e0\nagimus qui obligatus est nobis ad faciendum aliquid vel dandum. The action\nin personam is that by which we sue him\nwho is under obligation to us to do some- '\nthing or give something. Dig. 44, 7, 25;\nBract. 1010b.",
+    "body": "In the Roman law, from which they are taken, the expressions \"in rem\" and \"in personam\" were\nalways opposed to one another, an act or\nproceeding in personam being one done or\ndirected against or with reference to a specific person, while an act or proceeding én\nrem was one done or directed with reference to no specific person, and consequently\nagainst or with reference to all whom it\nmight concern, or \"all the world.\" The\nphrases were especially applied to actions;\nan actio in personam being the remedy where\na claim against a specific person arose out\nof an obligation, whether ex contracts or ew\nmaleficio, while an actio in rem was one\nbrought for the assertion of a right of property, easement, status, etc., against one\nwho denied or infringed it. See Inst. 4, 6, 13\nGaius, 4, 1, 1-10; 5 Sav. Syst. 18, et seq.;\nDig. 2, 4, 7, 8; Id. 4, 2, 9, 1\nFrom this use of the terms, they have\ncome to be applied to signify the antithesis\nof \"available against a particular person,\"\nand \"available against the world at large.\"\nThus, fura in personam are rights primarily\navailable against specific persons; fura\nrem, rights only available against the world\nat large.\nSo a judgment or decree is said to be in\nrem when it binds third persons. Such is\nthe sentence of a court of admiralty on a\nquestion of prize, or a decree of nullity or\ndissolution of marriage, or a decree of a\ncourt in a foreign country as to the status\nof a person domiciled there.\nLastly, the terms are sometimes used to\nsignify that a judicial proceeding operates\non a thing or a person. Thus, it is said of\nthe court of chancery that it acts in personam, and not in rem, meaning that its de\ncrees operate by compelling defendants to\ndo what they are ordered to do, and not by\nproducing the effect directly. Sweet. See\nCross v. Armstrong, 44 Ohio St. 613, 10 N.\nB. 160; Cunningham vy. Shanklin, 60 Cal.\n125; Hill v. Henry, 66 N. J. Eq. 150, 57 Atl.\n555.\n\nIm personam actio est, qua cum e0\nagimus qui obligatus est nobis ad faciendum aliquid vel dandum. The action\nin personam is that by which we sue him\nwho is under obligation to us to do some- '\nthing or give something. Dig. 44, 7, 25;\nBract. 1010b.",
     "entry_type": "recovered_main",
     "source_index": 6783,
     "source_pages": [
@@ -178942,7 +178942,7 @@
   {
     "id": "BLD2-13643",
     "term": "EX SCRIPTIS OLIM VISIS",
-    "body": "From\nwritings formerly seen. A term used as descriptive of that kind of proof of handwriting\nwhere the knowledge has been acquired by\nthe witness having seen letters or other documents professing to be the handwriting of.\nthe party, and having afterwards communicated personally with the party upon the con-\n'tents of those letters or documents, or having otherwise acted upon them by written\nanswers, producing further correspondence\nor acquiescence by the party in some matter\nto which they relate, or by the witness trans-\n'acting with the party some business to which\nthey relate, or by any other mode of communication between the party and the witness\nwhich, in the ordinary course of the transactions of lif\u00e9, induces a reasonable presumption that the letters or documents were the\nhandwriting of the party. 5 Adol. & E. 730.",
+    "body": "From\nwritings formerly seen. A term used as descriptive of that kind of proof of handwriting\nwhere the knowledge has been acquired by\nthe witness having seen letters or other documents professing to be the handwriting of.\nthe party, and having afterwards communicated personally with the party upon the con-\n'tents of those letters or documents, or having otherwise acted upon them by written\nanswers, producing further correspondence\nor acquiescence by the party in some matter\nto which they relate, or by the witness trans-\n'acting with the party some business to which\nthey relate, or by any other mode of communication between the party and the witness\nwhich, in the ordinary course of the transactions of lifé, induces a reasonable presumption that the letters or documents were the\nhandwriting of the party. 5 Adol. & E. 730.",
     "entry_type": "recovered_main",
     "source_index": 4858,
     "source_pages": [
@@ -179022,7 +179022,7 @@
   {
     "id": "BLD2-13651",
     "term": "EJECTIONE FIRMAE",
-    "body": "Hjection, or\nejectment of farm. The name of a writ or\naction of trespass, which lay at common law.\nwhere lands or tenements were let for a\nterm of years, and afterwards the lessor,\nreversioner, remainder-man, or any stranger\nejected or ousted the lessee of his term,\nferme, or farm, (ipsum a firma ejecit.) In\nthis case the latter might have his writ of\nejection, by which he recovered at first damages for the trespass only, but it was afterwards made a remedy to recover back the\nterm itself, or the remainder of it, with\ndamages. Reg. Orig. 227b; Fitzh. Nat.\nBrey. 220, F, G; 8 Bl. Comm. 199; Litt. \u00a7\n322; Crabb, Eng. Law, 290, 448. It is the\nfoundation of the modern action of ejectment.",
+    "body": "Hjection, or\nejectment of farm. The name of a writ or\naction of trespass, which lay at common law.\nwhere lands or tenements were let for a\nterm of years, and afterwards the lessor,\nreversioner, remainder-man, or any stranger\nejected or ousted the lessee of his term,\nferme, or farm, (ipsum a firma ejecit.) In\nthis case the latter might have his writ of\nejection, by which he recovered at first damages for the trespass only, but it was afterwards made a remedy to recover back the\nterm itself, or the remainder of it, with\ndamages. Reg. Orig. 227b; Fitzh. Nat.\nBrey. 220, F, G; 8 Bl. Comm. 199; Litt. §\n322; Crabb, Eng. Law, 290, 448. It is the\nfoundation of the modern action of ejectment.",
     "entry_type": "recovered_main",
     "source_index": 4420,
     "source_pages": [
@@ -179052,7 +179052,7 @@
   {
     "id": "BLD2-13654",
     "term": "MANCIPI RES",
-    "body": "Lat. In Roman law.\nCertain classes of things which could not be\naliened or transferred except by means of a\ncertain formal ceremony of conveyance called\n\"mancipatio,\" (q. v.) These included land,\nhouses, slaves, horses, and cattle. All other\nthings were called \"res nec mancipi.\" The\ndistinction was abolished by Justinian. The\ndistinction corresponded as nearly as may be\nto the early distinction of English law into\nreal and personal property; res mancipi being objects of a military or agricultural character, and res nec mancipi being all other\nsubjects of property. Like personal estate, |\nrea nec mancipi were not originally either\nvaluable \u00e9n se or valued. Brown.",
+    "body": "Lat. In Roman law.\nCertain classes of things which could not be\naliened or transferred except by means of a\ncertain formal ceremony of conveyance called\n\"mancipatio,\" (q. v.) These included land,\nhouses, slaves, horses, and cattle. All other\nthings were called \"res nec mancipi.\" The\ndistinction was abolished by Justinian. The\ndistinction corresponded as nearly as may be\nto the early distinction of English law into\nreal and personal property; res mancipi being objects of a military or agricultural character, and res nec mancipi being all other\nsubjects of property. Like personal estate, |\nrea nec mancipi were not originally either\nvaluable én se or valued. Brown.",
     "entry_type": "recovered_main",
     "source_index": 8126,
     "source_pages": [
@@ -179122,7 +179122,7 @@
   {
     "id": "BLD2-13661",
     "term": "MORT CIVILE",
-    "body": "In French law. Civil\ndeath, as upon conviction for felony. It was\nnominally abolished by a law of the 31st of\nMay, 1854, but something very similar to it,\nin effect at least, still remains. Thus, the\nproperty of the condemned, possessed by him\nat the date of his conviction, goes and belongs to his successors, (W\u00e9ritiers,) as in case\nof an intestacy; and his future acquired\nproperty goes to the state by right of its prerogative, (par droit de d\u00e9sh\u00e9rence,) but the\nstute may, as a matter of grace, make it over\nin whole or in part to the widow and children. Brown.",
+    "body": "In French law. Civil\ndeath, as upon conviction for felony. It was\nnominally abolished by a law of the 31st of\nMay, 1854, but something very similar to it,\nin effect at least, still remains. Thus, the\nproperty of the condemned, possessed by him\nat the date of his conviction, goes and belongs to his successors, (Wéritiers,) as in case\nof an intestacy; and his future acquired\nproperty goes to the state by right of its prerogative, (par droit de déshérence,) but the\nstute may, as a matter of grace, make it over\nin whole or in part to the widow and children. Brown.",
     "entry_type": "recovered_main",
     "source_index": 8600,
     "source_pages": [
@@ -179182,7 +179182,7 @@
   {
     "id": "BLD2-13667",
     "term": "JUS NATURALE",
-    "body": "The natural law, or\nlaw of nature; law, or legal principles, supposed to be discoverable by the light of nature or abstract reasoning, or to be taught by\nnature to all nations and men 'alike; or law\nsupposed to govern men and peoples in a\nstate of nature, i. e., in advance of organized\ngovernments or enacted laws. This conceit\noriginated with the philosophical jurists of\nRome, and was gradually extended until the\nphrase came to denote a supposed basis or\nsubstratum common to all systems of positive law, and hence to be found, in greater\n\nor less purity, in the laws of all nations.\n\u00e9\nAnd, conversely, they held that if any rule\nor principle of law was observed in common\nby all peoples with whose systems they were\nacquainted, it must'be a part of the jus natu- \u00a9\n\nrale, or derived from it. Thus the phrases\n\"jus naturale\" and \"ju\u00e9d gentium\" came to\nbe used interchangeably.\n}\nJus naturale est quod apud homines\neandem habet potentiam. Natural right\nis that which has the same force among ull\nmankind. % Coke, 12.",
+    "body": "The natural law, or\nlaw of nature; law, or legal principles, supposed to be discoverable by the light of nature or abstract reasoning, or to be taught by\nnature to all nations and men 'alike; or law\nsupposed to govern men and peoples in a\nstate of nature, i. e., in advance of organized\ngovernments or enacted laws. This conceit\noriginated with the philosophical jurists of\nRome, and was gradually extended until the\nphrase came to denote a supposed basis or\nsubstratum common to all systems of positive law, and hence to be found, in greater\n\nor less purity, in the laws of all nations.\né\nAnd, conversely, they held that if any rule\nor principle of law was observed in common\nby all peoples with whose systems they were\nacquainted, it must'be a part of the jus natu- ©\n\nrale, or derived from it. Thus the phrases\n\"jus naturale\" and \"juéd gentium\" came to\nbe used interchangeably.\n}\nJus naturale est quod apud homines\neandem habet potentiam. Natural right\nis that which has the same force among ull\nmankind. % Coke, 12.",
     "entry_type": "recovered_main",
     "source_index": 7400,
     "source_pages": [
@@ -179222,7 +179222,7 @@
   {
     "id": "BLD2-13671",
     "term": "FORCIBLE TRESPASS",
-    "body": "In North\nCarolina, this Is an invasion of the rights of\nanother with respect to his personal property, of the same character, or under the\nsame circumstances, which would constitute\na \"forcible entry and detainer'' of real property at common law. It consists in taking\nor seizing the personal property of another\nby force, violence, or intimidation. State v.\nLawson, 123 N. C. 740, 31 S. E. 667, 68 Am.\nSt. Rep. 844; State v. Barefoot, 89 N. CG.\n567; State v. Ray, 32 N. C. 40; State v.\nSowls, 61 N. C. 151; State v. Laney, 87 N.\n\u00a9. 535.",
+    "body": "In North\nCarolina, this Is an invasion of the rights of\nanother with respect to his personal property, of the same character, or under the\nsame circumstances, which would constitute\na \"forcible entry and detainer'' of real property at common law. It consists in taking\nor seizing the personal property of another\nby force, violence, or intimidation. State v.\nLawson, 123 N. C. 740, 31 S. E. 667, 68 Am.\nSt. Rep. 844; State v. Barefoot, 89 N. CG.\n567; State v. Ray, 32 N. C. 40; State v.\nSowls, 61 N. C. 151; State v. Laney, 87 N.\n©. 535.",
     "entry_type": "recovered_main",
     "source_index": 5483,
     "source_pages": [
@@ -179373,7 +179373,7 @@
   {
     "id": "BLD2-13687",
     "term": "EX ABUNDANTI",
-    "body": "Out of abundance;\nabundantly; superfluously; more than sufficient. Calvin.\n\nEX ABUNDANTI CAUTELA. Lat.\nOut of abundant caution. \"The practice\nhas arisen abundant\u00e9 cauicla.\" 8 East, 326;\nLord Ellenborough, 4 Maule & S. 544.",
+    "body": "Out of abundance;\nabundantly; superfluously; more than sufficient. Calvin.\n\nEX ABUNDANTI CAUTELA. Lat.\nOut of abundant caution. \"The practice\nhas arisen abundanté cauicla.\" 8 East, 326;\nLord Ellenborough, 4 Maule & S. 544.",
     "entry_type": "recovered_main",
     "source_index": 4805,
     "source_pages": [
@@ -179403,7 +179403,7 @@
   {
     "id": "BLD2-13691",
     "term": "SUITORS' FUND IN CHANCERY",
-    "body": "In\nEngland. <A fund consisting of moneys\nwhich, having been paid into the court of\nchancery, are placed out for the benefit and\nbetter security of the suitors, including interest from the same. By St. 82 & 88 Vict.\nc. 91, \u00a7 4, the principal of this fund, amounting to over \u00a33,000,000, was transferred to\nthe commissioners for the reduction of the\nnational debt. Mozley & Whitley.",
+    "body": "In\nEngland. <A fund consisting of moneys\nwhich, having been paid into the court of\nchancery, are placed out for the benefit and\nbetter security of the suitors, including interest from the same. By St. 82 & 88 Vict.\nc. 91, § 4, the principal of this fund, amounting to over £3,000,000, was transferred to\nthe commissioners for the reduction of the\nnational debt. Mozley & Whitley.",
     "entry_type": "recovered_main",
     "source_index": 11877,
     "source_pages": [
@@ -179443,9 +179443,9 @@
   },
   {
     "id": "BLD2-13695",
-    "term": "BLEND",
+    "term": "BLENDED",
     "entry_type": "recovered_main",
-    "body": "BLEND. BLENDED FUND. In England, where\na testator directs his real and personal estate\nto be sold, and disposes of the proceeds as\nforming one aggregate, this is called a\n\u201cblended fund.\u201d",
+    "body": "BLEND. BLENDED FUND. In England, where\na testator directs his real and personal estate\nto be sold, and disposes of the proceeds as\nforming one aggregate, this is called a\n“blended fund.”",
     "source_pages": [
       "138"
     ],
@@ -179507,7 +179507,7 @@
     "id": "BLD2-13701",
     "term": "CULPRIT",
     "entry_type": "recovered_main",
-    "body": "A person who is indicted for\na criminal offense, but not yet convicted.\nIt is not, however, a technical term of the\nlaw; and in ita vernacular usage it seems to\nimply only a light degree of censure or moral\nreprobation.\nBlackstone believes it an abbreviation of the\nold forms of arraignment, whereby, on the prisoner's pleading not guilty, the clerk would respond, \"culpabilis, prit,\" +. \u20ac., he is guilty and\n'the crown is: ready. It was (he says) the riva\nwoce replication, by the clerk, on behalf of the\ncrown, to the prisoner's plea 'of non culpabilts;\nprit being a technical word, anciently in use in\nthe formula of joining issue. 4 Bl. Comm. 339.\nBut a more plausible explanation is that given\nby Donaldson, (cited Whart. Lex.,) as. follows:\nThe clerk asks the prisoner, 'Are you aul\nor not guilty?' Prisoner \"Not guilty.\" Cle\n\"Ow il part, [may it prove 80.) How will you\nbe tried?' Prisoner, \"By God and my country.\" These words being hurried over, came to\nsound, \"culprit, how will you be tried?\" The\n'ordinary derivation is from culpa.",
+    "body": "A person who is indicted for\na criminal offense, but not yet convicted.\nIt is not, however, a technical term of the\nlaw; and in ita vernacular usage it seems to\nimply only a light degree of censure or moral\nreprobation.\nBlackstone believes it an abbreviation of the\nold forms of arraignment, whereby, on the prisoner's pleading not guilty, the clerk would respond, \"culpabilis, prit,\" +. €., he is guilty and\n'the crown is: ready. It was (he says) the riva\nwoce replication, by the clerk, on behalf of the\ncrown, to the prisoner's plea 'of non culpabilts;\nprit being a technical word, anciently in use in\nthe formula of joining issue. 4 Bl. Comm. 339.\nBut a more plausible explanation is that given\nby Donaldson, (cited Whart. Lex.,) as. follows:\nThe clerk asks the prisoner, 'Are you aul\nor not guilty?' Prisoner \"Not guilty.\" Cle\n\"Ow il part, [may it prove 80.) How will you\nbe tried?' Prisoner, \"By God and my country.\" These words being hurried over, came to\nsound, \"culprit, how will you be tried?\" The\n'ordinary derivation is from culpa.",
     "source_pages": [
       "304"
     ],
@@ -179558,7 +179558,7 @@
     "id": "BLD2-13706",
     "term": "EAT INDE SINE DIE",
     "entry_type": "recovered_main",
-    "body": "In criminal\npractice. Words used on the acquittal of adefendant, that he may go thence without a\nday, 4. \u00a2., be dismissed without any further\ncontinuance or adjournment.",
+    "body": "In criminal\npractice. Words used on the acquittal of adefendant, that he may go thence without a\nday, 4. ¢., be dismissed without any further\ncontinuance or adjournment.",
     "source_pages": [
       "410"
     ],
@@ -179568,7 +179568,7 @@
     "id": "BLD2-13707",
     "term": "ELEEMOSYNARY",
     "entry_type": "recovered_main",
-    "body": "Relating to the distribution of alms, bounty, or charity; charitable.\n\u2014Eleemosynary corporations. See Cor-",
+    "body": "Relating to the distribution of alms, bounty, or charity; charitable.\n—Eleemosynary corporations. See Cor-",
     "source_pages": [
       "417"
     ],
@@ -179588,7 +179588,7 @@
     "id": "BLD2-13709",
     "term": "EN MORT MAIN",
     "entry_type": "recovered_main",
-    "body": "L. Fr. In a dead\nhand; in mortmain. Britt. c. 43.\nEN OWEL MAIN. L. Fr. In equal\nhand. The word \u201cowelty\u201d occurs also in the\nphrase \u201cowelty of partition.\u201d",
+    "body": "L. Fr. In a dead\nhand; in mortmain. Britt. c. 43.\nEN OWEL MAIN. L. Fr. In equal\nhand. The word “owelty” occurs also in the\nphrase “owelty of partition.”",
     "source_pages": [
       "423"
     ],
@@ -179608,7 +179608,7 @@
     "id": "BLD2-13711",
     "term": "FLEMENE FRIT",
     "entry_type": "recovered_main",
-    "body": "FLEMENES\nFRINTHE\u2014FLYMENA FRYNTHE. The\nreception or relief of a fugitive or outlaw.\nJacob.",
+    "body": "FLEMENES\nFRINTHE—FLYMENA FRYNTHE. The\nreception or relief of a fugitive or outlaw.\nJacob.",
     "source_pages": [
       "504"
     ],
@@ -179618,7 +179618,7 @@
     "id": "BLD2-13712",
     "term": "HYPOTHECARIA ACTIO",
     "entry_type": "recovered_main",
-    "body": "Lat. In the\ncivil law. An hypothecary action; an action\nfor the enforcement of an hypotheca, or right\nof mortgage; or to obtain the surrender of\nthe thing mortgaged. Inst. 4, 6, 7; Mackeld.\nRom. Law, \u00a7 356. Adopted in the Civil\nCode of Louisiana, under the name of \"l'action hypoth\u00e9carie,\" (translated, \"action of\nmortgage.\") Article 3361.",
+    "body": "Lat. In the\ncivil law. An hypothecary action; an action\nfor the enforcement of an hypotheca, or right\nof mortgage; or to obtain the surrender of\nthe thing mortgaged. Inst. 4, 6, 7; Mackeld.\nRom. Law, § 356. Adopted in the Civil\nCode of Louisiana, under the name of \"l'action hypothécarie,\" (translated, \"action of\nmortgage.\") Article 3361.",
     "source_pages": [
       "585"
     ],
@@ -179638,7 +179638,7 @@
     "id": "BLD2-13714",
     "term": "INDIGENA",
     "entry_type": "recovered_main",
-    "body": "In old English law. A subject born; one born within the realm, or\nnaturalized by act of parliament. Co. Litt.\n8a. The opposite of \u201calienigena,\u201d (g. v.)",
+    "body": "In old English law. A subject born; one born within the realm, or\nnaturalized by act of parliament. Co. Litt.\n8a. The opposite of “alienigena,” (g. v.)",
     "source_pages": [
       "618"
     ],
@@ -179668,7 +179668,7 @@
     "id": "BLD2-13717",
     "term": "INQUIETUDE",
     "entry_type": "recovered_main",
-    "body": "L. Lat. In old English law. Inquietness or disturbance. Fleta, lib. 4, c. 17, \u00a7 4.",
+    "body": "L. Lat. In old English law. Inquietness or disturbance. Fleta, lib. 4, c. 17, § 4.",
     "source_pages": [
       "630"
     ],
@@ -179678,7 +179678,7 @@
     "id": "BLD2-13718",
     "term": "MAJORES",
     "entry_type": "recovered_main",
-    "body": "In Roman law and genenlogical tables. The male ascendants beyond the sixth degree.\nIn old English law. Greater persons;\npersons of higher condition or estate.\n\n'Majori summe minor inest. In the\ngreater sum the less is included. 2 Kent,\nComm. 618; Story, Ag. \u00a7 172.",
+    "body": "In Roman law and genenlogical tables. The male ascendants beyond the sixth degree.\nIn old English law. Greater persons;\npersons of higher condition or estate.\n\n'Majori summe minor inest. In the\ngreater sum the less is included. 2 Kent,\nComm. 618; Story, Ag. § 172.",
     "source_pages": [
       "748"
     ],
@@ -179698,7 +179698,7 @@
     "id": "BLD2-13720",
     "term": "OPERATION",
     "entry_type": "recovered_main",
-    "body": "In general, the exertion\nof power; the process of operating or mode\nof action; an effect brought about in accordance with a definite plan. See Little\nRock vy. Parish, 36 Ark. 166; Fleming Oil Ca.\nv. South Penn Oil Co., 37 W. Va. 653, 17 8.\nE. 203. In surgical practice, the term is of\nindefinite import, but may be approximately\ndefined as. an act or succession of acts performed upon the body of a patient, for his\nrelief or restoration to normal conditions,\neither by manipulation or the use of surgical\ninstruments or both, as distinguished from\ntherapeutic treatment by the administration\nof drugs or other remedial agencies. See\nAkridge v. Noble, 114 Ga. 949, 41 8S. B. 78.\n\u2014Oriminal operation. In medical jurisprudence. An operation to procure an abortion.\nMiller v. Bayer, 94 Wis., 68 N. W. 869.\u2014\nOperation of law. This term expresses the\nmanner in which rights, and sometimes liabilities, devolve upon a person by the mere application to the particular transaction of the established rules of law, without the act or cooperation of the party himeelf.",
+    "body": "In general, the exertion\nof power; the process of operating or mode\nof action; an effect brought about in accordance with a definite plan. See Little\nRock vy. Parish, 36 Ark. 166; Fleming Oil Ca.\nv. South Penn Oil Co., 37 W. Va. 653, 17 8.\nE. 203. In surgical practice, the term is of\nindefinite import, but may be approximately\ndefined as. an act or succession of acts performed upon the body of a patient, for his\nrelief or restoration to normal conditions,\neither by manipulation or the use of surgical\ninstruments or both, as distinguished from\ntherapeutic treatment by the administration\nof drugs or other remedial agencies. See\nAkridge v. Noble, 114 Ga. 949, 41 8S. B. 78.\n—Oriminal operation. In medical jurisprudence. An operation to procure an abortion.\nMiller v. Bayer, 94 Wis., 68 N. W. 869.—\nOperation of law. This term expresses the\nmanner in which rights, and sometimes liabilities, devolve upon a person by the mere application to the particular transaction of the established rules of law, without the act or cooperation of the party himeelf.",
     "source_pages": [
       "855"
     ],
@@ -179748,7 +179748,7 @@
     "id": "BLD2-13725",
     "term": "RESIDENT",
     "entry_type": "recovered_main",
-    "body": "One who has his residence\nin a place. '.\n\n\"Resident\" and \"inhabitant\" are distinguishable in meaning. The word \"inhabitant\" implies\na more fixed and permanent abode than does\n\"resident;\" and a resident may not be entitled\nto all er privileges or subject to all the duties\nof an inhabitant. Frost v. Brisbin, 19 Wend.\n(N. \u00a5.) 11, 82 Am. Dec. 423.\n\n_ Also a tenant, 'who was obliged to reside\non his lord's land, and not to depart from the\nsame; called, also, \"homme levant et couchant,\" and in Normandy, \"resseant du flef.\"\n\n\u2014Resident freeholder. <A person who resides in the particular place (town, city, county, etc.) and who owns an estate in lands therein amounting at least to a freehold interest.\nDamp v. Dane, 29 Wis. 427; Campbell v. Moran, 71 Neb. 615, 99 N. W. 499; State v. Kokomo, 108 Ind. 74, 8 N. E.. 120.\u2014Resident\nminister. In international law. <A public\nminister who resides at a foreign court. Reaident ministers are ranked in the third class of\npublic ministers. Wheat. Int. Law, 264, 267.",
+    "body": "One who has his residence\nin a place. '.\n\n\"Resident\" and \"inhabitant\" are distinguishable in meaning. The word \"inhabitant\" implies\na more fixed and permanent abode than does\n\"resident;\" and a resident may not be entitled\nto all er privileges or subject to all the duties\nof an inhabitant. Frost v. Brisbin, 19 Wend.\n(N. ¥.) 11, 82 Am. Dec. 423.\n\n_ Also a tenant, 'who was obliged to reside\non his lord's land, and not to depart from the\nsame; called, also, \"homme levant et couchant,\" and in Normandy, \"resseant du flef.\"\n\n—Resident freeholder. <A person who resides in the particular place (town, city, county, etc.) and who owns an estate in lands therein amounting at least to a freehold interest.\nDamp v. Dane, 29 Wis. 427; Campbell v. Moran, 71 Neb. 615, 99 N. W. 499; State v. Kokomo, 108 Ind. 74, 8 N. E.. 120.—Resident\nminister. In international law. <A public\nminister who resides at a foreign court. Reaident ministers are ranked in the third class of\npublic ministers. Wheat. Int. Law, 264, 267.",
     "source_pages": [
       "934",
       "935"
@@ -179851,7 +179851,7 @@
     "id": "BLD2-13735",
     "term": "WINDING-UP ACTS",
     "entry_type": "recovered_main",
-    "body": "In English law.\nGeneral acts of 'parliament, regulating settlement of corporate affairs on dissolution.\n\n- WINDOW. An opening made in the wall\nof a house to admit light and air, and to\nfurnish a view or prospect. The use of this\nword in law is chiefly in connection with the\ndoctrine of ancient Hghts and other rights of\nadjacent owners. \u00b0\n\u2014Window tax. <A tax oc windows, levied\non houses which contained more than six windows, and were worth more than \u00a35 per an:\nnum; established by St. 7 Wm. III. c 18 St\n14 & 15 Vict. c. 36, substituted for this tax a\ntax on inhabited houses. Wharton.\n\n- WINDSOR FOREST. A royal forest\nfounded by Henry VIII.",
+    "body": "In English law.\nGeneral acts of 'parliament, regulating settlement of corporate affairs on dissolution.\n\n- WINDOW. An opening made in the wall\nof a house to admit light and air, and to\nfurnish a view or prospect. The use of this\nword in law is chiefly in connection with the\ndoctrine of ancient Hghts and other rights of\nadjacent owners. °\n—Window tax. <A tax oc windows, levied\non houses which contained more than six windows, and were worth more than £5 per an:\nnum; established by St. 7 Wm. III. c 18 St\n14 & 15 Vict. c. 36, substituted for this tax a\ntax on inhabited houses. Wharton.\n\n- WINDSOR FOREST. A royal forest\nfounded by Henry VIII.",
     "source_pages": [
       "1228"
     ],
