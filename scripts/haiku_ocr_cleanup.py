@@ -62,12 +62,12 @@ def has_ocr_damage(body):
 
 def edit_distance(s1, s2):
     """Fast edit distance for change ratio calculation."""
-    if abs(len(s1) - len(s2)) > len(s1) * MAX_CHANGE_RATIO + 10:
-        return len(s1)  # Too different, skip full computation
     if len(s1) < len(s2):
         s1, s2 = s2, s1
     if len(s2) == 0:
         return len(s1)
+    if len(s1) - len(s2) > len(s1) * MAX_CHANGE_RATIO + 10:
+        return len(s1)  # Too different, skip full computation
     prev = list(range(len(s2) + 1))
     for i, c1 in enumerate(s1):
         curr = [i + 1]

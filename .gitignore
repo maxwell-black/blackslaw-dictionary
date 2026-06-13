@@ -1,6 +1,5 @@
 
 auto-update.sh
-.env
-*.env
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
